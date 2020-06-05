@@ -7,16 +7,16 @@
 # 井号后面的文字是说明文档，不会被程序读取。
 
 # 描述/签名
-name: LOFFER
-description: 一个可以fork的博客
+name: zxl19
+description: 一个研究生的存档点
 
 # 输入你的网站域名（如果你没有添加自己的域名，而是直接用GitHub pages分配的域名的话可以省略）
-url: 
+url: https://zxl19.github.io
 
 # 添加你的博客的二级域名，一般来说是你的repository名
 # 如果你的博客的URL是：(http://yourusername.github.io/repository-name)
 # 那么就写成 "/repository-name"
-baseurl: /LOFFER
+baseurl:
 
 
 #
@@ -24,10 +24,10 @@ baseurl: /LOFFER
 #
 
 # 你的博客logo图片URL，建议尺寸不超过300px × 300px
-avatar: https://raw.githubusercontent.com/FromEndWorld/LOFFER/master/images/logo.png
+avatar: https://raw.githubusercontent.com/zxl19/zxl19.github.io/master/images/avatar.jpg
 
 # 你的favicon（出现在浏览器tab上）图片URL，建议使用较小(64px × 64px)的图片
-favicon: https://raw.githubusercontent.com/FromEndWorld/LOFFER/master/images/favicon.png
+favicon: https://raw.githubusercontent.com/zxl19/zxl19.github.io/master/images/icon.png
 
 
 # 菜单中的按钮
@@ -49,24 +49,24 @@ excerpt_separator: <!-- more -->
 
 # 你的社交网络链接，它们会作为图标出现在你的网站页脚中，可选填写
 footer-links: 
-  weibo: frommidworld #请输入你的微博个性域名 https://www.weibo.com/<thispart>
+  weibo: #请输入你的微博个性域名 https://www.weibo.com/<thispart>
   behance: # https://www.behance.net/<>
   dribbble: # https://dribbble.com/<>
-  email: fromendworld@outlook.com 
-  facebook: #https://www.facebook.com/<>
-  flickr: #https://www.flickr.com/<>
-  github: FromEndWorld/loffer #https://github.com/<>
-  instagram: #https://instagram.com/<>
-  linkedin: #https://www.linkedin.com/in/<>
-  pinterest: #https://www.pinterest.com/<>
-  rss: #随便填点啥RSS就能用了
+  email: # email address
+  facebook: # https://www.facebook.com/<>
+  flickr: # https://www.flickr.com/<>
+  github: zxl19 # https://github.com/<>
+  instagram: # https://instagram.com/<>
+  linkedin: # https://www.linkedin.com/in/<>
+  pinterest: # https://www.pinterest.com/<>
+  rss: # 随便填点啥RSS就能用了
   stackoverflow: # http://stackoverflow.com/<>
   tumblr: # https://<username>.tumblr.com
   twitter: # https://www.twitter.com/<your_twitter_username> 
   youtube: # channel/<your_long_string> or user/<user-name>
 
 # 站点页脚的文字
-footer-text: Copyright (c) 2019 来自中世界
+footer-text: Copyright (c) 2020 zxl19
 
 #
 # 评论，注意，请不要同时添加多种不同的评论区
