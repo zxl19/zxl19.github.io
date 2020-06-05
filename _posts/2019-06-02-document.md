@@ -1,0 +1,186 @@
+---
+layout: post
+title: LOFFER使用基础教程
+date: 2019-06-02
+author: 来自中世界
+tags: [sample, document]
+comments: true
+toc: true
+pinned: true
+---
+LOFFER是个可以帮助你get off from LOFTER的软件（我知道这个pun很烂）。
+
+这是一个可以直接发布在GitHub page的Jekyll博客，你不需要编写代码或使用命令行即可配置属于你的LOFFER。
+
+本文为针对完全没有代码基础的朋友的基础教程。
+
+## 注意
+
+LOFFER是一个**博客模板**。
+
+虽然意图有针对lofter用户，但是我个人狠不赞同纯外链停车操作，你整整齐齐打理个自由自在没有敏感词的个人博客有啥不好。
+
+**不要用我的Discus账户，请配置你自己的，本文档中有教程**
+
+如有疑问，请阅读[GitHub Pages官方说明](https://pages.github.com/)。
+
+
+## 图文教程
+
+注意以下需要上电脑操作。
+
+### 第一步 使用这个template
+
+请点击[GitHub](https://github.com/)，注册一个GitHub账户，这是完全免费的，只要提供邮箱即可。
+
+现在你看到的LOFFER，是作为一个GitHub上的Repository（代码库）存在的，我将之设为可以作为template（模板），你可以用这个模板来生成一份自己的LOFFER。
+
+点击[LOFFER](https://github.com/FromEndWorld/LOFFER)，进入LOFFER的GitHub Repository页面，然后点**Use this template**，如图所示。
+
+![img](https://raw.githubusercontent.com/FromEndWorld/LOFFER/master/images/usetemplate.png)
+
+你会进入如下页面，请给你的博客起个名字，这里只能用字母和少数特殊字符，没有关系，这个名称并不影响你的博客页面显示。
+
+![img](https://raw.githubusercontent.com/FromEndWorld/LOFFER/master/images/nameyourbolg.png)
+
+点击**Create repository from template**，你很快就会看到如下页面，GitHub已经将LOFFER中所有的文件复制到你的新代码库中。
+
+下一步，点击Settings，进入相关设置。
+
+![img](https://raw.githubusercontent.com/FromEndWorld/LOFFER/master/images/Settings.png)
+
+向下拉页面，你会看到“GitHub Pages”，这是GitHub内置的网站host服务，选择master，如图所示：
+
+![img](https://raw.githubusercontent.com/FromEndWorld/LOFFER/master/images/pages.png)
+
+在几秒钟后，刷新此页面，你通常会看到这个绿色的东西（如果没看到，多等一会），你的网站已经发布成功，点击这个链接，即可查看：
+
+![img](https://raw.githubusercontent.com/FromEndWorld/LOFFER/master/images/published.png)
+
+你可能会看到网站长得很丑，这是因为样式表尚未从正确的地址加载，没关系，请继续下一步。
+
+### 第二步 设置站点信息
+
+在你的博客的GitHub代码库页面里，选择Code，文件列表里选择_config.yml，点击打开，然后点击右上角笔形图标修改文档。
+
+![img](https://raw.githubusercontent.com/FromEndWorld/LOFFER/master/images/config.png)
+
+关于如何修改站点信息，在文件内有文档说明。
+
+修改完成后，点击**Commit changes**（提交修改）。每次修改过代码库并且提交后，GitHub Pages都会自动重新发布网站，只要等上几分钟，再次刷新你的博客页面，就会看到你的修改了。这一修改完成后，你的博客站应该可以正常显示了。
+
+如果刷新看不到效果，请使用“强刷新”，一般来说按ctrl+R。
+
+还有一点，**LOFFER使用的是MIT协议，大意就是全部开源随意使用，如果你要保留自己博文的权利，请编辑LICENSE文件，写上类似“博文作者保留权利”这样的内容。**
+
+### 第三步 发布博文
+
+在你的博客的GitHub代码库页面里，点开_posts文件夹，这里面就是你的博客文章。
+
+这些文章使用的格式是Markdown，文件后缀名是md，这是一种非常简单易用的有格式文本标记语言，你应该已经注意到，在LOFFER自带的示例性博文中有一篇中文的[Markdown语法介绍](https://fromendworld.github.io/LOFFER/chinese-markdown-cheatsheet/)。
+
+更简单的办法是使用[Typora](https://typora.io/)，这是一个全图形化界面，全实时预览的Markdown写作软件，非常轻量，而且免费。
+
+![img](https://raw.githubusercontent.com/FromEndWorld/LOFFER/master/images/Typora.png)
+
+在发布博文前，你需要在文章的头部添加这样的内容，包括你的文章标题，发布日期，作者名，和tag等。
+
+    ---
+    layout: post
+    title: LOFFER文档
+    date: 2019-06-02
+    Author: 来自中世界
+    categories: 
+    tags: [sample, document]
+    comments: true
+    --- 
+
+完成后，保存为.md文件，文件名是date-标题，例如 2019-06-02-document.md (注意这里的标题会成为这篇博文的链接，所以请使用字母而非中文，它不影响页面上显示的标题)，然后上传到_posts文件夹，再提交修改，很快就可以在博客上看到新文章了。
+
+### 可选：图片怎么办？
+
+少量图片可以上传到images文件夹，然后在博文中添加。
+
+但是GitHub用来当做图床有滥用之嫌，如果你的博客以图片为主，建议选择外链图床，例如[sm.ms](https://sm.ms/)就是和很好的选择。
+
+要寻找更适合自己的图床，敬请搜索一下。
+
+在博文中添加图片的Markdown语法是：`![图片名](URL)`
+
+### 可选：添加评论区
+
+#### Disqus
+
+LOFFER支持Disqus评论，虽然Disqus很丑，但是它是免费的，设置起来又方便，因此大家也就不要嫌弃它。
+
+**注意：目前有一些LOFFER使用者没有修改示例站现有的Disqus配置，那么你用的就是我的Disqus站点，这样不好，不好……**
+
+**请根据一下教程配置你自己的站点。**
+
+首先，注册一个[Disqus](https://disqus.com/)账户，我们可以选择这个免费方案：
+
+![img](https://raw.githubusercontent.com/FromEndWorld/LOFFER/master/images/Disqus-plan.png)
+
+注册成功后，新建一个站点（site），以LOFFER为例设置步骤如下：
+
+首先站点名LOFFER，生成了shortname是loffer，类型可以随便选。
+
+![img](https://raw.githubusercontent.com/FromEndWorld/LOFFER/master/images/Disqus-1.png)
+
+安装时选择Jekyll。
+
+![img](https://raw.githubusercontent.com/FromEndWorld/LOFFER/master/images/Disqus-2.png)
+
+最后填入你的博客地址，语言可以选中文，点Complete，即可！
+
+![img](https://raw.githubusercontent.com/FromEndWorld/LOFFER/master/images/Disqus-3.png)
+
+然后需要回到你的博客，修改_config.yml文件，在disqus字段填上你的shortname，commit，完成！
+
+#### Gitalk
+
+LOFFER 0.2.0版本支持Gitalk评论区（在LOFFER示例站中仍然是Disqus，可以在[我的博客](https://himring.top/gitalk/)查看Gitalk的demo），设置方法如下：
+
+首先，创建一个[OAuth application](https://github.com/settings/applications/new), 设置如图：
+
+![img](https://raw.githubusercontent.com/FromEndWorld/LOFFER/master/images/application_settings.png)
+
+点Register后就会看到你所需要的两个值，clientID和clientSecret，把它们复制到你的_config.yml文件中相应的字段：
+
+    gitalk:
+      clientID: <你的clientID>
+      clientSecret: <你的clientSecret>
+      repo: <你的repository名称>
+      owner: <你的GitHub用户名>
+
+然后commit，你的Gitalk评论区就会出现了。第一次使用的时候，需要你来进入文章页，来初始化评论区，这一操作会在你的repository上创建一个Issue，此后的评论就是对这个Issue的回复。
+
+你可以进入你的repository的Issue页面，点**Unsubscribe**来避免收到大量相关邮件。
+
+注意：出于很明显的原因，最好不要同时添加Disqus和Gitalk评论区。
+
+### 导入LOFTER的内容
+
+这部分由于LOFTER的导出文件十分~~优秀~~，需要另外解决。
+
+诸位可以使用我修改的脚本[lofter2Jekyll](https://github.com/FromEndWorld/lofter2Jekyll)，功能为将lofter导出的文件转换成可用于Jekyll的MD文档，还可以将图片批量下载到本地。
+
+也可以使用[墨问非名太太的脚本](http://underdream.lofter.com/post/38ea7d_1c5d8a983)，其中选择Jekyll输出即可。
+
+## 致谢
+
+* [Jekyll](https://github.com/jekyll/jekyll) - 这是本站存在的根基
+* [Kiko-now](<https://github.com/aweekj/kiko-now>) - 我首先是fork这个主题，然后再其上进行修改汉化，才有了LOFFER
+* [Font Awesome](<https://fontawesome.com/>) - 社交网络图标来自FontAwesome的免费开源内容
+
+
+
+## 帮助这个项目
+
+介绍更多人来使用它，摆脱lofter自由飞翔！
+
+当然如果单说写同人的话，我还是建议大家都去AO3，但是自家博客自己架也很酷炫，你还可以选择很多其他的Jeykll主题，GitHub上有很多，或者试试其他博客架设工具，例如Hexo，与代码斗其乐无穷。
+
+最后，回到[LOFFER](https://github.com/FromEndWorld/LOFFER)，给我点一个☆吧！
+
+![img](https://raw.githubusercontent.com/FromEndWorld/LOFFER/master/images/givemefive.png)
