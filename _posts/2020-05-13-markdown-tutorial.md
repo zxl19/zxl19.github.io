@@ -9,11 +9,10 @@ toc: true
 pinned: false
 ---
 
-简单记录一下常用的Markdown语法，参考了教程[^1]。部分语法在网页显示中无法正常识别，但是在编辑器中均显示无误。
-
-[^1]: [Markdown教程-菜鸟教程](https://www.runoob.com/markdown/md-tutorial.html)
+简单记录一下常用的Markdown语法。部分语法在网页显示中无法正常识别，但是在编辑器中均显示无误。
 
 <!-- more -->
+
 ## 标题
 
 ### 使用`=`和`-`标记一级和二级标题
@@ -170,3 +169,6 @@ ___加粗斜体___
 ## 表格
 
 ## 高级技巧
+
+## 参考
+1. [Markdown教程-菜鸟教程](https://www.runoob.com/markdown/md-tutorial.html)
