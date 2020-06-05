@@ -1,7 +1,7 @@
 ---
 layout: post
 title: VS Code插件配置
-date: 2020-06-03
+date: 2020-06-05
 author: zxl19
 tags: [VS Code]
 comments: true
@@ -9,7 +9,7 @@ toc: true
 pinned: false
 ---
 
-我的VS Code插件配置（按照字母顺序排序）。
+简单记录一下目前我的VS Code插件配置（按照字母顺序排序）。
 
 <!-- more -->
 ## Better Comments
@@ -74,3 +74,6 @@ FIXME: 待修复
 ## vscode-icons
 ### 功能
 美化文件小图标
+## 参考文献
+1. [VS Code必装的10个高效开发插件-慕课网的文章-知乎](https://zhuanlan.zhihu.com/p/56719281)
+2. [如何让VS Code更好用10倍？这里有一份VS Code新手指南-麻瓜编程的文章-知乎](https://zhuanlan.zhihu.com/p/99462672)
