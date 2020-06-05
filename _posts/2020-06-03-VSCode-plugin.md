@@ -12,6 +12,7 @@ pinned: false
 简单记录一下目前我的VS Code插件配置（按照字母顺序排序）。
 
 <!-- more -->
+
 ## Better Comments
 ### 功能
 生成多种样式的注释
@@ -25,7 +26,7 @@ pinned: false
 ```
 ## Bracket Pair Colorizer 2
 ### 功能
-括号按颜色自动配对
+括号按颜色自动配对，第二版在匹配速度上有了提升。
 ## C/C++
 ### 功能
 C/C++语言扩展
@@ -74,6 +75,7 @@ FIXME: 待修复
 ## vscode-icons
 ### 功能
 美化文件小图标
-## 参考文献
+
+## 参考
 1. [VS Code必装的10个高效开发插件-慕课网的文章-知乎](https://zhuanlan.zhihu.com/p/56719281)
 2. [如何让VS Code更好用10倍？这里有一份VS Code新手指南-麻瓜编程的文章-知乎](https://zhuanlan.zhihu.com/p/99462672)
