@@ -3,7 +3,7 @@ layout: post
 title: Markdown编辑器配置
 date: 2020-06-06
 author: zxl19
-tags: [Markdown]
+tags: [markdown]
 comments: true
 toc: true
 pinned: false
@@ -14,7 +14,7 @@ pinned: false
 <!-- more -->
 
 ## Typora
-专业的Markdown编辑器，
+专业的Markdown编辑器。
 
 ## VS Code
-安装插件Markdown Preview Enhanced，可以导出PDF文档。
+安装扩展Markdown All in One和Markdown Preview Enhanced，可以实现自动补全，生成目录以及导出PDF文档。
