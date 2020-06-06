@@ -1,7 +1,7 @@
 ---
 layout: post
 title: VS Code插件配置
-date: 2020-06-05
+date: 2020-06-06
 author: zxl19
 tags: [VS Code]
 comments: true
@@ -26,7 +26,7 @@ pinned: false
 ```
 ## Bracket Pair Colorizer 2
 ### 功能
-括号按颜色自动配对，第二版在匹配速度上有了提升。
+括号自动配对着色，第二版在匹配速度上有了提升。
 ## C/C++
 ### 功能
 C/C++语言扩展
@@ -39,22 +39,28 @@ VS Code中文汉化
 ### 功能
 ## Image Preview
 ### 功能
-图片预览
+代码中引用图片预览
 ## ident-rainbow
 ### 功能
-按照不同颜色标识缩进
+用不同颜色标识缩进
 ## LaTeX Workshop
 ### 功能
 LaTeX语言拓展
-## Markdown Preview Enhanced
+## Markdown All in One
 ### 功能
 Markdown语言扩展
+## Markdown Preview Enhanced
+### 功能
+预览、导出Markdown文档
 ## Matlab
 ### 功能
 MATLAB语言扩展
 ## One Dark Pro
 ### 功能
-深色主题
+深色主题，类似的还有City Lights theme。
+## Path Intellisense
+### 功能
+文件路径自动补全
 ## Polacode
 ### 功能
 代码截图
@@ -66,16 +72,22 @@ MATLAB语言扩展
 Python语言扩展
 ## TODO Highlight
 ### 功能
-高亮TODO:和FIXME:标识
+高亮TODO:和FIXME:标识，类似功能Todo Tree。
 ### 使用方法
 ```
 TODO: 待办
 FIXME: 待修复
 ```
+## Trailing Spaces
+### 功能
+显示尾部跟随空格
 ## vscode-icons
 ### 功能
-美化文件小图标
+文件图标主题，类似的还有Material Icon Theme。
 
 ## 参考
 1. [VS Code必装的10个高效开发插件-慕课网的文章-知乎](https://zhuanlan.zhihu.com/p/56719281)
 2. [如何让VS Code更好用10倍？这里有一份VS Code新手指南-麻瓜编程的文章-知乎](https://zhuanlan.zhihu.com/p/99462672)
+3. [第一次使用VS Code时你应该知道的一切配置-千古壹号的文章-知乎](https://zhuanlan.zhihu.com/p/62913725)
+4. [自用VSCode优质插件推荐-HanwGeek的文章-知乎](https://zhuanlan.zhihu.com/p/89693351)
+5. [vscode必备插件，美化、炫酷、实用-留着防丢-双木珑的文章-知乎](https://zhuanlan.zhihu.com/p/112016680)
