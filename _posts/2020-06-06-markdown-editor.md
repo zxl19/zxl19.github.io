@@ -17,4 +17,4 @@ pinned: false
 专业的Markdown编辑器。
 
 ## VS Code
-安装扩展Markdown All in One和Markdown Preview Enhanced，可以实现自动补全，生成目录以及导出PDF文档。
+安装扩展Markdown All in One和Markdown Preview Enhanced，可以实现自动补全、导出PDF文档等功能。
