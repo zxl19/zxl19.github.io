@@ -24,7 +24,9 @@ pinned: false
 // * 高亮类语句（绿色）
 // // 删除线语句（深灰色）
 ```
-在使用该应用的时候
+## Bookmarks
+### 功能
+生成标签
 ## Bracket Pair Colorizer 2
 ### 功能
 括号自动配对着色，第二版在匹配速度上有了提升。
@@ -93,3 +95,4 @@ FIXME: 待修复
 4. [自用VSCode优质插件推荐-HanwGeek的文章-知乎](https://zhuanlan.zhihu.com/p/89693351)
 5. [vscode必备插件，美化、炫酷、实用-留着防丢-双木珑的文章-知乎](https://zhuanlan.zhihu.com/p/112016680)
 6. [一些非常有用的VSCode扩展-Helperhaps的文章-知乎](https://zhuanlan.zhihu.com/p/29553584)
+7. [工具篇-vscode效率提升插件-鲲China的文章-知乎](https://zhuanlan.zhihu.com/p/73452541)
