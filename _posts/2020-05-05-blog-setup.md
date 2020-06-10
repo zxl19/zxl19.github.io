@@ -26,7 +26,7 @@ pinned: true
 ### 设置赞赏按钮
 在仓库的Settings->Features->Sponsorships中进行设置，会在.github文件夹中生成FUNDING.yml文件，按照文件内的提示进行设置即可。如果不想注册相关网站可以上传[微信赞赏码](https://raw.githubusercontent.com/zxl19/zxl19.github.io/master/images/funding.png)[^2]，在文件中添加微信赞赏码的链接来代替。
 
-[^2]: 点一下吧，秋梨膏！
+[^2]: 以我的赞赏码为例。
 
 ### icon生成
 使用[图标生成器](https://android-material-icon-generator.bitdroid.de/)，自定义网页标签栏中显示的小图标。

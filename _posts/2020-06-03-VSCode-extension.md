@@ -3,7 +3,7 @@ layout: post
 title: VS Code扩展配置
 date: 2020-06-06
 author: zxl19
-tags: [VS Code]
+tags: [vs code]
 comments: true
 toc: true
 pinned: false
