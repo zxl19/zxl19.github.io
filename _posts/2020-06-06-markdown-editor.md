@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Markdown编辑器配置
-date: 2020-06-06
+date: 2020-06-13
 author: zxl19
 tags: [markdown]
 comments: true
@@ -14,7 +14,9 @@ pinned: false
 <!-- more -->
 
 ## Typora
+
 专业的Markdown编辑器。
 
 ## VS Code
-安装扩展Markdown All in One和Markdown Preview Enhanced，可以实现自动补全、导出PDF文档等功能。
+
+安装扩展Markdown All in One、Markdown Preview Enhanced和markdownlint，可以实现自动补全、预览、导出PDF文档、语法检查等功能。
