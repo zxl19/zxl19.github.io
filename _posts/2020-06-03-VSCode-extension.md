@@ -83,7 +83,9 @@ MATLAB语言扩展。
 
 ## One Dark Pro
 
-Atom的深色主题，类似的主题还有City Lights theme。
+Atom的深色主题，类似的主题还有City Lights theme、Material Theme（会同时安装Material Theme Icon和Community Material Theme）。
+
+在VS Code中通过`Ctrl`+`K`+`Ctrl`+`T`选择主题。
 
 ## Path Intellisense
 
@@ -102,7 +104,7 @@ Python语言扩展
 
 ## TODO Highlight
 
-高亮TODO:和FIXME:标识，类似功能Todo Tree。
+高亮`TODO:`和`FIXME:`标识，类似的扩展还有Todo Tree。
 
 ```markdown
 TODO: 待办内容
