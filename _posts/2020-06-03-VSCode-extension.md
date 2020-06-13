@@ -15,11 +15,7 @@ pinned: false
 
 ## Better Comments
 
-### 功能
-
-生成多种样式的注释
-
-### 使用方法
+根据注释类型生成不同样式的注释。
 
 ```C++
 // ! 警告类语句（红色）
@@ -33,119 +29,80 @@ pinned: false
 
 ## Bookmarks
 
-### 功能
+选定行生成书签，可以在书签之间进行跳转。
 
-选定行生成书签
-
-### 使用方法
-
-鼠标右键菜单内操作
+鼠标右键菜单内操作。
 
 ## Bracket Pair Colorizer 2
-
-### 功能
 
 括号自动配对着色，第二版在匹配速度上有了提升。
 
 ## C/C++
 
-### 功能
-
-C/C++语言扩展
+C/C++语言扩展。
 
 ## Chinese (Simplified) Language Pack for Visual Studio Code
-
-### 功能
 
 VS Code中文汉化
 
 ## Code Runner
 
-### 功能
+运行各种语言的代码。
 
 ## Code Spell Checker
 
-### 功能
-
-拼写检查
+拼写检查。
 
 ## Image Preview
 
-### 功能
-
-代码中引用图片预览
+代码中引用图片预览。
 
 ## ident-rainbow
 
-### 功能
-
-用不同颜色标识缩进
+用不同颜色标识缩进。
 
 ## LaTeX Workshop
 
-### 功能
-LaTeX语言拓展
+LaTeX语言扩展，可以预览PDF文档。
 
 ## Markdown All in One
 
-### 功能
-
-Markdown语言扩展
+Markdown语言扩展。
 
 ## Markdown Preview Enhanced
 
-### 功能
-
-预览、导出Markdown文档
+预览、导出Markdown文档。
 
 ## markdownlint
 
-### 功能
-
-Markdown语法检查
+Markdown语法检查。
 
 ## Matlab
 
-### 功能
-
-MATLAB语言扩展
+MATLAB语言扩展。
 
 ## One Dark Pro
 
-### 功能
-
-深色主题，类似的还有City Lights theme。
+Atom的深色主题，类似的主题还有City Lights theme。
 
 ## Path Intellisense
 
-### 功能
-
-文件路径自动补全
+文件路径自动补全。
 
 ## Polacode
 
-### 功能
-
 代码截图
-
-### 使用方法
 
 1. `Ctrl`+`Shift`+`P`选择Polarcode
 2. 选中要截图的代码
 
 ## Python
 
-### 功能
-
 Python语言扩展
 
 ## TODO Highlight
 
-### 功能
-
 高亮TODO:和FIXME:标识，类似功能Todo Tree。
-
-### 使用方法
 
 ```markdown
 TODO: 待办内容
@@ -154,15 +111,11 @@ FIXME: 待修复内容
 
 ## Trailing Spaces
 
-### 功能
-
-显示尾部跟随空格
+显示尾部跟随空格。
 
 ## vscode-icons
 
-### 功能
-
-文件图标主题，类似的还有Material Icon Theme。
+文件图标主题，类似的主题还有Material Icon Theme。
 
 ## 参考
 
