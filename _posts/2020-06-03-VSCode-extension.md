@@ -85,7 +85,7 @@ MATLAB语言扩展。
 
 Atom的深色主题，类似的主题还有City Lights theme、Material Theme（会同时安装Material Theme Icon和Community Material Theme）。
 
-在VS Code中通过`Ctrl`+`K`+`Ctrl`+`T`选择主题。
+在VS Code中通过`Ctrl`+`K`+`Ctrl`+`T`快捷键选择主题。
 
 ## Path Intellisense
 
