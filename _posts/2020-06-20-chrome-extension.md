@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Chrome浏览器扩展存档
-date: 2020-06-20
+date: 2020-06-21
 author: zxl19
 tags: [chrome]
 comments: true
@@ -9,7 +9,7 @@ toc: true
 pinned: false
 ---
 
-目前在用的Chrome浏览器扩展存档。
+之前安装的Chrome浏览器扩展存档。
 
 <!-- more -->
 
