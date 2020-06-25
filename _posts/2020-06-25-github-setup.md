@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 在Windows和Ubuntu系统下如何使用Github进行版本管理
-date: 2020-06-24
+date: 2020-06-25
 author: zxl19
 tags: [Github]
 comments: true
