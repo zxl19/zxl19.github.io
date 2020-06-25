@@ -55,7 +55,7 @@ VS Code中文汉化
 
 ## GitLens——Git supercharged
 
-提升git的使用体验，VS Code已经集成git功能。
+增强VS Code内置git的功能，例如对比修改、查看历史记录和显示代码作者。
 
 ## Image Preview
 
