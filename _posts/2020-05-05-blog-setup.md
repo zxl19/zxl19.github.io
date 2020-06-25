@@ -3,7 +3,7 @@ layout: post
 title: 如何利用Github搭建个人主页
 date: 2020-05-05
 author: zxl19
-tags: [blog]
+tags: [Blog]
 comments: true
 toc: true
 pinned: true

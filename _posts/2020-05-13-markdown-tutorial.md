@@ -3,7 +3,7 @@ layout: post
 title: Markdown语法速查
 date: 2020-05-13
 author: zxl19
-tags: [markdown]
+tags: [Markdown]
 comments: true
 toc: true
 pinned: false

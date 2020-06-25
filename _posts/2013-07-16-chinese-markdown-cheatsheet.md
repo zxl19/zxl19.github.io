@@ -3,7 +3,7 @@ layout: post
 title: Markdown语法简介
 date: 2013-07-16
 author: Shengbin
-tags: [sample, markdown]
+tags: [Demo, Markdown]
 comments: true
 toc: true
 pinned: false
