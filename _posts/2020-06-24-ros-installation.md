@@ -15,13 +15,27 @@ pinned: false
 
 ## 安装流程
 
-全部流程参考官网的说明即可
+全部流程参考官网的说明即可，采用清华源可以加速下载
 
-## 问题解决
+## sudo rosdep init失败的解决方式
 
-1. sudo rosdep init失败
+在执行`sudo rosdep init`时报错：
 
+```shell
+ERROR: cannot download default sources list from:
+https://raw.githubusercontent.com/ros/rosdistro/master/rosdep/sources.list.d/20-default.list
+Website may be down.
+```
+
+解决方案：
+
+1. 直接跳过
+    不影响大部分情况下的使用，但是会影响后续一些ROS功能包的安装。
+2. 电脑连接手机热点重试。
+3. 修改hosts文件。
+    将`199.232.28.133 raw.githubusercontent.com`添加到自己电脑的hosts文件里面，文件路径为/etc/hosts
 
 ## 参考
 
-1. 
+1. [Ubuntu install of ROS Kinetic](http://wiki.ros.org/kinetic/Installation/Ubuntu)
+2. [CSDN博客](https://blog.csdn.net/Bryantaoli/article/details/104730474/)
