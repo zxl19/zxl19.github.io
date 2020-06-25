@@ -53,6 +53,10 @@ VS Code中文汉化
 
 拼写检查。
 
+## GitLens——Git supercharged
+
+提升git的使用体验，VS Code已经集成git功能。
+
 ## Image Preview
 
 代码中引用图片预览。
