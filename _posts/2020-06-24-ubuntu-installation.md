@@ -32,3 +32,7 @@ pinned: false
 采用NVIDIA提供的显卡驱动。
 
 ## 参考
+
+1. [Rufus](http://rufus.ie/)
+2. [GitHub代下载服务](http://g.widyun.com/)
+3. [Github镜像站](https://github.wuyanzheshui.workers.dev/)
