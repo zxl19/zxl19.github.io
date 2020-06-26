@@ -15,12 +15,14 @@ pinned: false
 
 ## Windows
 
-1. 下载.iso文件并挂载；
+1. 下载`texlive.iso`文件并挂载；
 2. 以管理员身份运行`install-tl-windows.bat`；
 3. 修改安装路径；
 4. 取消勾选`安装TeXworks前端`；
-5. Advanced
-6. Advanced
+5. `Advanced->Customize->Languages`，只勾选`Chinese`、`Chinese/Japanese/Korean(base)`、`US and UK English`三项，其余语言包不常用，取消安装可以节省安装空间；
+6. `Advanced->Customize->Other collections`，确认只有`TeXworks editor`项未被勾选；
+7. 安装TeXLive；
+8. 安装TeXstudio。
 
 ## Ubuntu
 
@@ -30,7 +32,7 @@ pinned: false
 sudo apt-get install texlive-full
 ```
 
-2. 安装编辑器texstudio。
+2. 安装编辑器TeXstudio。
 
 ```shell
 sudo apt-get install texstudio
@@ -52,5 +54,6 @@ sudo apt-get install texstudio
 ## 参考
 
 1. [清华大学开源软件镜像站](https://mirrors.tuna.tsinghua.edu.cn/CTAN/systems/texlive/Images/)
-2. [最新TeXLive环境的安装与配置-cying的文章-知乎](https://zhuanlan.zhihu.com/p/41855480)
-3. [CSDN博客](https://blog.csdn.net/qq_41814939/article/details/82288145)
+2. [TeXstudio](http://texstudio.sourceforge.net/)
+3. [最新TeXLive环境的安装与配置-cying的文章-知乎](https://zhuanlan.zhihu.com/p/41855480)
+4. [CSDN博客](https://blog.csdn.net/qq_41814939/article/details/82288145)
