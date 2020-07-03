@@ -91,6 +91,8 @@ Atom的深色主题，类似的主题还有City Lights theme、Material Theme（
 
 在VS Code中通过`Ctrl`+`K`+`Ctrl`+`T`快捷键选择主题。
 
+在设置中打开粗体、关闭斜体可以改善中文注释的显示效果。
+
 ## Path Intellisense
 
 文件路径自动补全。
@@ -102,9 +104,17 @@ Atom的深色主题，类似的主题还有City Lights theme、Material Theme（
 1. `Ctrl`+`Shift`+`P`选择Polarcode
 2. 选中要截图的代码
 
+## Pylance
+
+为Python语言扩展提供增强功能，提高体验。
+
 ## Python
 
-Python语言扩展
+Python语言扩展。
+
+## ROS
+
+机器人操作系统（Robot Operating System, ROS）扩展。
 
 ## TODO Highlight
 
@@ -134,3 +144,4 @@ FIXME: 待修复内容
 7. [工具篇-vscode效率提升插件-鲲China的文章-知乎](https://zhuanlan.zhihu.com/p/73452541)
 8. [那些你应该考虑卸载的VSCode扩展-余腾靖的文章-知乎](https://zhuanlan.zhihu.com/p/125773296)
 9. [VSCode插件大全｜VSCode高级玩家之第二篇-三钻的文章-知乎](https://zhuanlan.zhihu.com/p/136428397)
+10. [微软再出神器，这次终于对Python下手了！-Jackpop的文章-知乎](https://zhuanlan.zhihu.com/p/154108630)
