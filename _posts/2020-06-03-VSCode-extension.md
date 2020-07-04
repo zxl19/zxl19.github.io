@@ -43,7 +43,7 @@ C/C++语言扩展。
 
 ## Chinese (Simplified) Language Pack for Visual Studio Code
 
-VS Code中文汉化
+VS Code中文汉化。
 
 ## Code Runner
 
