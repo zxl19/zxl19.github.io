@@ -34,7 +34,7 @@ pinned: false
 
 可以在[网站](https://shields.io/)上生成标签。
 
-添加以下语句以生成项目标签，以[996.ICU](https://github.com/996icu/996.ICU)为例。
+<!-- 添加以下语句以生成项目标签，以[996.ICU](https://github.com/996icu/996.ICU)为例。
 
 ### 左对齐
 
@@ -64,13 +64,15 @@ pinned: false
 <p align="center">
     <a href="https://996.icu">
         <img src="https://img.shields.io/badge/link-996.icu-red.svg" alt="Badge" />
+    </a>
+    <a href="https://github.com/996icu/996.ICU/blob/master/LICENSE">
         <img src="https://img.shields.io/badge/license-Anti%20996-blue.svg" alt="LICENSE" />
     </a>
-</p>
+</p> -->
 
 ## 参考
 
 1. [GitHub隐藏新功能！个人页还能这么玩？-GitHub Daily的文章-知乎](https://zhuanlan.zhihu.com/p/161029860)
 2. [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats)
 3. [几条经验美化你的GitHub开源项目](https://www.jianshu.com/p/d587b91bacb3)
-4. [996.ICU](https://github.com/996icu/996.ICU)
+<!-- 4. [996.ICU](https://github.com/996icu/996.ICU) -->
