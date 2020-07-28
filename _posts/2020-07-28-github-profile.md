@@ -9,6 +9,10 @@ toc: true
 pinned: false
 ---
 
+记录一下如何配置GitHub Profile，在个人页中显示详细信息。
+
+<!-- more -->
+
 ## 创建GitHub Profile
 
 1. 新建仓库，仓库名与用户名一致；
