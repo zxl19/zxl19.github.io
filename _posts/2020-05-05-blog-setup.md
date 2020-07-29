@@ -6,7 +6,7 @@ author: zxl19
 tags: [Blog]
 comments: true
 toc: true
-pinned: true
+pinned: false
 ---
 
 如题，简单记录一下本博客的搭建过程。
