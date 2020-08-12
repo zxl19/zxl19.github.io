@@ -135,7 +135,6 @@ Download videos from web sites or just collect them in your video list without d
 
 捕捉网页截图，编辑并将它们保存为PDF，JPEG，GIF，PNG或BMP；上传，打印，在Photoshop中打开，复制到剪贴板或电子邮件。
 
-
 ## 电影制作MovieStudio视频编辑
 
 电影制作者在线创建, 编辑和录制视频, 并添加视频, 音频, 图像和文本。
@@ -155,3 +154,15 @@ Download videos from web sites or just collect them in your video list without d
 ## 远方New Tab
 
 每天打开新页面都是一段不期而遇的旅行。
+
+------
+
+以上部分扩展因为失效或功能重复已停止使用，以下为补充：
+
+## Awesome Screenshot截图与录屏
+
+截图和录屏2合1的工具，支持截取整个页面，快速分享屏幕。
+
+## Sci-Hub
+
+Sci-Hub extension for Chromium browsers
