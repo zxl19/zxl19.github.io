@@ -61,7 +61,7 @@ VS Code中文汉化。
 
 代码中引用图片预览。
 
-## ident-rainbow
+## indent-rainbow
 
 用不同颜色标识缩进。
 
