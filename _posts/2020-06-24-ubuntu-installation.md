@@ -20,6 +20,19 @@ pinned: false
 3. 其余设置默认即可;
 4. 选择以DD方式写入U盘中.
 
+## 进入安全模式
+
+### 联想
+
+1. `F2`->`Security`->`Secure Boot`->`Disabled`
+2. `F12`->`USB Disk`->`Install Ubuntu`
+
+### 戴尔
+
+1. `F12`->`BIOS Setup`->`Secure Boot`->`OFF`
+2. `F12`->`BIOS Setup`->`System Configuration`->`SATA Operation`->`AHCI`
+3. `F12`->`USB Disk`->`Install Ubuntu`
+
 ## 分区方案
 
 1. 一种简单的方案是不分区，直接清除整个磁盘安装系统。
