@@ -3,7 +3,7 @@ layout: post
 title: Github Profile的配置
 date: 2020-07-28
 author: zxl19
-tags: [Github]
+tags: [GitHub]
 comments: true
 toc: true
 pinned: false
