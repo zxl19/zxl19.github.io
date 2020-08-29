@@ -78,7 +78,7 @@ pinned: false
 
 ## 注意事项
 
-不要安装matlab-support！
+**不要安装matlab-support！！！**
 
 ## 参考
 
