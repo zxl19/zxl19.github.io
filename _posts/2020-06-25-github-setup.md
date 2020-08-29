@@ -21,18 +21,33 @@ pinned: false
 
 使用VS Code，已经集成git命令，结合GitLens插件进行管理。
 
-```shell
-git config --global user.name "your name"
-git config --global user.email "your@email.com"
-```
+1. 设置全局变量
 
-```shell
-ssh-keygen -t rsa -C "your@email.com"
-```
+    ```shell
+    git config --global user.name "your name"
+    git config --global user.email "your@email.com"
+    ```
 
-```shell
-ssh -T git@github.com
-```
+2. 创建SSH key
+
+    ```shell
+    ssh-keygen -t rsa -C "your@email.com"
+    ```
+
+    连续点三次回车确认。
+
+3. 保存SSH key
+    复制`~/.ssh/id_rsa.pub`中的内容，在GitHub中`Setting`->`SSH and GPG keys`中添加新的SSH key。
+
+4. 完成通信设置
+
+    ```shell
+    ssh -T git@github.com
+    ```
+
+    输入`yes`确认。
+
+5. 首次使用需要在GitHub网站上进行验证，授权VS Code登录
 
 ## 参考
 
