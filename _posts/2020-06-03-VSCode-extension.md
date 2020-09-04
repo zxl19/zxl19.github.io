@@ -53,6 +53,10 @@ VS Code中文汉化。
 
 拼写检查。
 
+## Draw.io Integration
+
+集成Draw.io功能，绘制流程图。
+
 ## GitLens——Git supercharged
 
 增强VS Code内置git的功能，例如对比修改、查看历史记录和显示代码作者。
@@ -145,3 +149,6 @@ FIXME: 待修复内容
 8. [那些你应该考虑卸载的VSCode扩展-余腾靖的文章-知乎](https://zhuanlan.zhihu.com/p/125773296)
 9. [VSCode插件大全｜VSCode高级玩家之第二篇-三钻的文章-知乎](https://zhuanlan.zhihu.com/p/136428397)
 10. [微软再出神器，这次终于对Python下手了！-Jackpop的文章-知乎](https://zhuanlan.zhihu.com/p/154108630)
+11. [vscode有哪些让人眼前一亮的插件?-量子位的回答-知乎](https://www.zhihu.com/question/311803609/answer/1296896019)
+12. [超越鼓励师 for VS Code，写代码不再孤单，有杨超越与你同在-韩骏的文章-知乎](https://zhuanlan.zhihu.com/p/61790645)
+13. [太赞了，VSCode上也能画流程图了！-GitHub Daily的文章-知乎](https://zhuanlan.zhihu.com/p/140895359)
