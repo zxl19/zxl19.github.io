@@ -68,7 +68,7 @@ pinned: false
     ```
 
 2. 添加工具箱；
-3. 在MATLAB中设置路径。
+3. 在MATLAB中设置路径：
 
     `设置路径`->`添加并包含子文件夹`->`保存`
 
@@ -82,7 +82,14 @@ pinned: false
 
 **不要安装matlab-support！！！**
 
+## 设置快捷键
+
+Ubuntu系统中的快捷键默认采用Emacs默认集，可以采用如下方式进行修改：
+
+`预设`->`MATLAB`->`键盘`->`快捷方式`->`Windows默认集`
+
 ## 参考
 
 1. [博客园](https://www.cnblogs.com/taoyuyeit/p/8823311.html)
 2. [CSDN博客](https://blog.csdn.net/will_ye/article/details/79645447)
+3. [CSDN博客](https://blog.csdn.net/brandyzhaowei/article/details/7895298)
