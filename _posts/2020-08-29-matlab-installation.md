@@ -37,6 +37,7 @@ pinned: false
     ```shell
     sudo umount /media/matlab
     ```
+
 4. 设置快捷方式。
 
     ```shell
