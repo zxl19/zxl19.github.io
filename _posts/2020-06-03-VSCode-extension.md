@@ -45,6 +45,10 @@ C/C++语言扩展。
 
 VS Code中文汉化。
 
+## CMake Tools
+
+CMake扩展。
+
 ## Code Runner
 
 运行各种语言的代码。
