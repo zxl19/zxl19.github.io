@@ -40,7 +40,7 @@ pinned: false
 1. 导出`.tiff`格式的图片，更加清晰；
 2. MATLAB中设置图片大小实例：
 
-    ```MATLAB
+    ```matlab
     set(gcf,'Unit', 'Centimeters', 'Position', [10 5 15 13.5]);
     ```
 
