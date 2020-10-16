@@ -26,10 +26,19 @@ pinned: false
 
 在发生冲突无法合并的时候，需要按照说明通过命令行进行手动合并。
 
+Step 1: From your project repository, check out a new branch and test the changes.
+
 ```shell
-git add <filename>
-git commit
-git push origin/master
+git checkout -b RobustFieldAutonomyLab-master master
+git pull https://github.com/RobustFieldAutonomyLab/LeGO-LOAM.git master
+```
+
+Step 2: Merge the changes and update on GitHub.
+
+```shell
+git checkout master
+git merge --no-ff RobustFieldAutonomyLab-master
+git push origin master
 ```
 
 ## 参考
