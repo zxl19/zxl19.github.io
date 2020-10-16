@@ -36,16 +36,10 @@ git pull https://github.com/RobustFieldAutonomyLab/LeGO-LOAM.git master
 
 ```markdown
 <<<<<<< HEAD
-New Features
-
-1. Supports Robosense-32 LiDAR
-2. TODO: Improvement of loop closure detection
-3. TODO: Map matching
-
-------
-
-This repository contains code for a lightweight and ground optimized lidar odometry and mapping (LeGO-LOAM) system for ROS compatible UGVs. The system takes in point cloud  from a Velodyne VLP-16 Lidar (palced horizontal) and optional IMU data as inputs. It outputs 6D pose estimation in real-time. A demonstration of the system can be found here -> https://www.youtube.com/watch?v=O3tz_ftHV48
-=======
+当前更改
+======
+传入更改
+>>>>>>> id
 ```
 
 Step 2: Merge the changes and update on GitHub.
