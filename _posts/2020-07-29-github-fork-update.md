@@ -26,7 +26,7 @@ pinned: false
 
 在发生冲突无法合并的时候，需要按照说明通过命令行进行手动合并。
 
-1. 首先将自己的仓库克隆下来。
+1. 首先将自己的仓库克隆到本地;
 Step 1: From your project repository, check out a new branch and test the changes.
 
 ```shell
