@@ -61,3 +61,7 @@ pinned: false
 ## 语言
 
 1. 尽量少用被动语态。
+
+## 审稿人意见回复
+
+1. 参考[BV1ix411o7qq](https://www.bilibili.com/video/BV1ix411o7qq)进行对线 \doge
