@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 如何利用Github搭建个人主页
+title: 如何利用GitHub搭建个人主页
 date: 2020-05-05
 author: zxl19
 tags: [Blog]
@@ -21,7 +21,7 @@ pinned: false
 
 ### 选择开源协议
 
-在仓库中新建LICENSE文件，Github会自动提示可供选择的开源协议，并提供[说明](https://opensource.guide/legal/#which-open-source-license-is-appropriate-for-my-project)以供参考。本博客遵循MIT开源协议，MIT与BSD类似，但是比BSD协议更加宽松，是目前最少限制的协议，这个协议唯一的条件就是在修改后的代码或者发行包包含原作者的许可信息，适用于商业软件[^1]。
+在仓库中新建LICENSE文件，GitHub会自动提示可供选择的开源协议，并提供[说明](https://opensource.guide/legal/#which-open-source-license-is-appropriate-for-my-project)以供参考。本博客遵循MIT开源协议，MIT与BSD类似，但是比BSD协议更加宽松，是目前最少限制的协议，这个协议唯一的条件就是在修改后的代码或者发行包包含原作者的许可信息，适用于商业软件[^1]。
 
 [^1]: 其实直接参考大神的仓库也是一个很好的方法。
 

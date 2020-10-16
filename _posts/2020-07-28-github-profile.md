@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Github Profile的配置
+title: GitHub Profile的配置
 date: 2020-07-28
 author: zxl19
 tags: [GitHub]

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Github同步更新fork的项目
+title: GitHub同步更新fork的项目
 date: 2020-07-29
 author: zxl19
 tags: [GitHub]
@@ -26,29 +26,43 @@ pinned: false
 
 在发生冲突无法合并的时候，需要按照说明通过命令行进行手动合并。
 
-1. 首先将自己的仓库克隆到本地;
-Step 1: From your project repository, check out a new branch and test the changes.
+1. 首先将自己的仓库克隆到本地；
+2. 按照GitHub上的第一步进行命令行操作；
 
-```shell
-git checkout -b RobustFieldAutonomyLab-master master
-git pull https://github.com/RobustFieldAutonomyLab/LeGO-LOAM.git master
-```
+    ```text
+    Step 1: From your project repository, check out a new branch and test the changes.
+    ```
 
-```markdown
-<<<<<<< HEAD
-当前更改
-======
-传入更改
->>>>>>> id
-```
+    ```shell
+    git checkout -b <new branch name> master
+    git pull <original git repository> master
+    ```
 
-Step 2: Merge the changes and update on GitHub.
+3. 按照提示修改冲突的文件，冲突在文件中以如下方式说明，手动修改保留对应部分；
 
-```shell
-git checkout master
-git merge --no-ff RobustFieldAutonomyLab-master
-git push origin master
-```
+    ```text
+    <<<<<<< HEAD
+    当前更改内容
+    ======
+    传入更改内容
+    >>>>>>> id
+    ```
+
+4. 添加更改并提交；
+
+    ```shell
+    git add <filename>
+    git commit -m "message"
+    ```
+
+5. 按照GitHub上的第二步进行命令行操作；
+    Step 2: Merge the changes and update on GitHub.
+
+    ```shell
+    git checkout master
+    git merge --no-ff <new branch name>
+    git push origin master
+    ```
 
 ## 参考
 

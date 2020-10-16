@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 在Windows和Ubuntu系统下使用Github进行版本管理
+title: 在Windows和Ubuntu系统下使用GitHub进行版本管理
 date: 2020-06-25
 author: zxl19
 tags: [GitHub]
@@ -15,7 +15,7 @@ pinned: false
 
 ## Windows
 
-使用Github Desktop进行管理，可以满足大部分需求。
+使用GitHub Desktop进行管理，可以满足大部分需求。
 
 ## Ubuntu
 
@@ -52,5 +52,5 @@ pinned: false
 
 ## 参考
 
-1. [Github Desktop](https://desktop.github.com/)
+1. [GitHub Desktop](https://desktop.github.com/)
 2. [在VScode上配置Git-浪晋的文章-知乎](https://zhuanlan.zhihu.com/p/31417255)
