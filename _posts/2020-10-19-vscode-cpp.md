@@ -45,7 +45,7 @@ pinned: false
         若能正确输出版本，则安装成功。
 3. 编写代码，注意路径中不要有空格和中文，否则gdb可能无法正常工作；
 
-    ```C++
+    ```cpp
     #include <iostream>
     #include <cstdlib>
 
@@ -104,7 +104,7 @@ pinned: false
 5. 安装插件，同上；
 6. 编写代码；
 
-    ```C++
+    ```cpp
     #include <iostream>
     #include <string>
 
