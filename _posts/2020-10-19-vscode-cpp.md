@@ -88,7 +88,7 @@ pinned: false
 6. 多文件：
     + 使用Makefile；
     + 在`tasks.json`中修改`command`为`make`，`args`不再需要；
-    + **使用CMake更加方便！自动生成Makefile**
+    + **使用CMake更加方便！自动生成Makefile。**
 
 ## Linux
 
