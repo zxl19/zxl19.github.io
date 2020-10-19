@@ -56,7 +56,10 @@ pinned: false
     ```
 
 5. 按照GitHub上的第二步进行命令行操作；
+
+    ```text
     Step 2: Merge the changes and update on GitHub.
+    ```
 
     ```shell
     git checkout master
