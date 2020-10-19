@@ -11,6 +11,8 @@ pinned: false
 
 记录如何在Windows系统下和Ubuntu系统下的VS Code中搭建轻量化的C++开发环境。
 
+<!-- more -->
+
 ## Windows
 
 1. 下载安装VS Code，安装选项全部勾选；
