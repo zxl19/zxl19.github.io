@@ -9,7 +9,7 @@ toc: true
 pinned: false
 ---
 
-记录如何在Windows系统下和Ubuntu系统下的VS Code中搭建轻量化的C++开发环境。
+记录如何在Windows系统下和Linux系统下的VS Code中搭建轻量化的C++开发环境。
 
 <!-- more -->
 
@@ -47,18 +47,79 @@ pinned: false
 
     ```C++
     #include <iostream>
+    #include <cstdlib>
 
     int main(int argc, char const *argv[])
     {
         std::cout << "Hello VSCode!" << std::endl;
+        std::system("pause");
         return 0;
     }
     ```
 
 4. 配置VS Code;
-    + 点击左侧`运行`（`Ctrl`+`Shift`+`D`）->`创建launch.json文件`->`C++(GDB/LLDB)`->`g++.exe-生成和调试活动文件`，在当前目录`.vscode`文件夹中生成`launch.json`和`tasks.json`文件
+    + 点击左侧`运行`（`Ctrl`+`Shift`+`D`）->`创建launch.json文件`->`C++(GDB/LLDB)`->`g++.exe-生成和调试活动文件`，在当前目录`.vscode`文件夹中生成`launch.json`和`tasks.json`文件；
+    + `launch.json`配置启动参数，调试器附加在可执行文件进程上进行debug，需要`preLaunchTask`先编译成可执行文件；
+        + `externalConsole`是否启动外部控制台（黑色框框）；
+        + `internalConsoleOptions`控制何时打开内部调试控制台，选择`neverOpen`，这样，内置窗口打开的是终端（terminal）而不是控制台（console），输入输出在内置终端上显示。
+    + `tasks.json`配置任务参数，从源代码编译、链接生成可执行文件；
+        + `Shift`+`Ctrl`+`P`打开命令控制台，选择`Tasks: Configure Task`配置任务，选择`C/C++: g++.exe build active file`创建`tasks.json`文件，可以在当中定义多个任务；
+        + 作用：相当于在命令行中运行编译命令：
 
-## Ubuntu
+        ```shell
+        g++ hello.cpp -o a.exe
+        ```
+
+        + `command`中使用的是绝对路径，由于已经添加环境变量，直接填`g++`也可；
+        + `args`中为编译器参数，使用默认即可，高级功能详见编译器文档；
+            + 使用C++语言标准：`"-std=c++17"`（注意参数间用逗号隔开）；
+        + 如果使用纯C，`command`填`gcc`，`args`中语言标准用`-std=c11`；
+    + `F5`编译运行调试；
+5. 一个更复杂的例子：
+    + 语法报错：插件设置默认C++98，新语法无法识别，在`设置`->`扩展`->`C++`中进行格式设置；
+        + `Clang_format_sort includes`：是否对头文件排序；
+        + `Cpp Standard`：C++20；
+        + `C Standard`：C11；
+    + 代码整理：`Shift`+`Alt`+`F`
+        + `Clang_format_fallback Style`：全局设置格式标准，也可通过文件进行局部设置；
+        + 可以基于某种标准进行修改；
+    + `Shift`+`Ctrl`+`B`只编译`g++.exe build active file`，编译出`.exe`文件；
+    + 添加断点调试，查看变量的值（不是所有容器都可以查看值）；
+6. 多文件：
+    + 使用Makefile；
+    + 在`tasks.json`中修改`command`为`make`，`args`不再需要；
+    + **使用CMake更加方便！自动生成Makefile**
+
+## Linux
+
+1. 使用的发行版是Manjaro；
+2. 安装VS Code，通过软件包管理器或者命令行；
+3. Linux自带工具链，用上述方法查看版本进行检验，一版不需额外安装；
+4. 打开工作区：
+
+    ```shell
+    code <path>
+    ```
+
+5. 安装插件，同上；
+6. 编写代码；
+
+    ```C++
+    #include <iostream>
+    #include <string>
+
+    int main(int argc, char const *argv[])
+    {
+        std::string str;
+        std::cin >> str;
+        std::cout << "Echo: " << str << std::endl;
+        return 0;
+    }
+    ```
+
+7. 配置VS Code，步骤同上；
+    + 注意：`launch.json`中的`preLaunchTask`应当与`tasks.json`中的`label`名称一致；
+    + Linux中控制台默认保持，程序中不需暂停；
 
 ## 参考
 
