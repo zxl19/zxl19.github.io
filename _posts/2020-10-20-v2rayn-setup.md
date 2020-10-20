@@ -9,9 +9,11 @@ toc: true
 pinned: false
 ---
 
-如题
+如题。
 
 <!-- more -->
+
+## 配置
 
 ```text
 ss://YWVzLTI1Ni1nY206QVBqOFhzM3hZUkBjMjdzMS5qYW1qYW1zLm5ldDoxMDgzMQ==#JMS-166252%40c27s1.jamjams.net%3A10831
@@ -21,3 +23,7 @@ vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIkpNUy0xNjYyNTJAYzI3czQuamFtamFtcy5uZXQ6
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIkpNUy0xNjYyNTJAYzI3czUuamFtamFtcy5uZXQ6MTA4MzEiLA0KICAiYWRkIjogImMyN3M1LmphbWphbXMubmV0IiwNCiAgInBvcnQiOiAiMTA4MzEiLA0KICAiaWQiOiAiY2RkNDkxNGYtNzdjOC00MGIyLTgzOWYtZmFjNTI4OTVlY2FiIiwNCiAgImFpZCI6ICIwIiwNCiAgIm5ldCI6ICJ0Y3AiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAiIiwNCiAgInBhdGgiOiAiIiwNCiAgInRscyI6ICJub25lIg0KfQ==
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIkpNUy0xNjYyNTJAYzI3czgwMS5qYW1qYW1zLm5ldDoxMDgzMSIsDQogICJhZGQiOiAiYzI3czgwMS5qYW1qYW1zLm5ldCIsDQogICJwb3J0IjogIjEwODMxIiwNCiAgImlkIjogImNkZDQ5MTRmLTc3YzgtNDBiMi04MzlmLWZhYzUyODk1ZWNhYiIsDQogICJhaWQiOiAiMCIsDQogICJuZXQiOiAidGNwIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogIiIsDQogICJwYXRoIjogIiIsDQogICJ0bHMiOiAibm9uZSINCn0=
 ```
+
+## 参考
+
+1. [v2rayN](https://github.com/2dust/v2rayN)
