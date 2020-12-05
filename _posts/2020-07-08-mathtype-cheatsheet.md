@@ -6,7 +6,7 @@ author: zxl19
 tags: [MathType, Cheatsheet]
 comments: true
 toc: true
-pinned: true
+pinned: false
 ---
 
 最近需要高强度使用MathType，为避免双手频繁在鼠标和键盘之间切换输入，将MathType快捷键整理成速查表。
