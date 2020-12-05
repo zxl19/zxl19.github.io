@@ -18,3 +18,5 @@ pinned: true
 [zxl19/Hand_Eye_Extrinsic_Calibration](https://github.com/zxl19/Hand_Eye_Extrinsic_Calibration)
 
 ## 参考
+
+1. Dornaika F, Horaud R. Simultaneous Robot-World and Hand-Eye Calibration[J]. IEEE Trans Robotics Automat, 1998, 14(4):617-622. [[LINK](https://ieeexplore.ieee.org/document/704233)]
