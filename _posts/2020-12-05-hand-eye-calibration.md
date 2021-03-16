@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 基于手眼标定的激光雷达-惯导和相机-惯导外参标定和尺度估计
+title: 基于手眼标定的激光雷达-相机-惯导联合标定方法
 date: 2020-11-19
 author: zxl19
 tags: [LiDAR, Camera, INS, Extrinsic Calibration]
