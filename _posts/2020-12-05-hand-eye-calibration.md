@@ -6,7 +6,7 @@ author: zxl19
 tags: [LiDAR, Camera, INS, Extrinsic Calibration]
 comments: true
 toc: true
-pinned: true
+pinned: false
 ---
 
 第一次收到star和fork，纪念一下。

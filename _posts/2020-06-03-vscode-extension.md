@@ -13,6 +13,10 @@ pinned: false
 
 <!-- more -->
 
+## AsciiDoc
+
+为AsciiDoc格式文档提供语言支持
+
 ## Better Comments
 
 根据注释类型生成不同样式的注释。
