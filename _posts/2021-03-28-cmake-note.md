@@ -3,7 +3,7 @@ layout: post
 title: CMake学习笔记
 date: 2021-03-28
 author: zxl19
-tags: [C++， CMake]
+tags: [C++, CMake]
 comments: true
 toc: true
 pinned: false
