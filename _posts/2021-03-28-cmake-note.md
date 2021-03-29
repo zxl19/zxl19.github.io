@@ -60,7 +60,7 @@ target_link_libraries(${PROJECT_NAME}
 ### ROS工程
 
 1. [ROS官方文档](http://wiki.ros.org/catkin/CMakeLists.txt)
-2. 参考A-LOAM、LeGO-LOAM、LIO-SAM等算法。
+2. 参考[A-LOAM](https://github.com/HKUST-Aerial-Robotics/A-LOAM)、[LeGO-LOAM](https://github.com/RobustFieldAutonomyLab/LeGO-LOAM)、[LIO-SAM](https://github.com/TixiaoShan/LIO-SAM)等算法。
 
 ## CMakeLists结构说明
 
@@ -89,7 +89,10 @@ target_link_libraries( , )
 
 1. [CSDN博客](https://blog.csdn.net/sinat_28752257/article/details/82758546)
 2. [catkin/CMakeLists.txt](http://wiki.ros.org/catkin/CMakeLists.txt)
-3. [CMake 如何入门？-知乎](https://www.zhihu.com/question/58949190)
-4. [cmake-examples](https://github.com/ttroy50/cmake-examples)
-5. [BV17J411m7o1](https://www.bilibili.com/video/BV17J411m7o1)
-6. [CMake Practice](http://file.ncnynl.com/ros/CMake%20Practice.pdf)
+3. [A-LOAM](https://github.com/HKUST-Aerial-Robotics/A-LOAM)
+4. [LeGO-LOAM](https://github.com/RobustFieldAutonomyLab/LeGO-LOAM)
+5. [LIO-SAM](https://github.com/TixiaoShan/LIO-SAM)
+6. [CMake 如何入门？-知乎](https://www.zhihu.com/question/58949190)
+7. [cmake-examples](https://github.com/ttroy50/cmake-examples)
+8. [BV17J411m7o1](https://www.bilibili.com/video/BV17J411m7o1)
+9. [CMake Practice](http://file.ncnynl.com/ros/CMake%20Practice.pdf)
