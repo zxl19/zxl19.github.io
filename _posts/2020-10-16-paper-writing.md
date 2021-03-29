@@ -21,8 +21,16 @@ pinned: false
     ```text
     Abstract
     Introduction
-    (Related Works)
-    (Method Overview)
+    Related Works
+    Methodology
+    Experiments
+    Conclusions
+    References
+    ```
+
+    ```text
+    Abstract
+    Introduction
     Method Part1
     Method Part2
     Method Part3
@@ -45,14 +53,15 @@ pinned: false
     ```
 
 2. 图片添加坐标轴名称、单位，不必在图中添加图名，可以在图名位置处添加简单说明；
-3. 导出图片格式建议使用`.tiff`，更加清晰；
+3. 导出图片格式建议使用`.tiff`，更加清晰，在使用$\LaTeX$时图片使用`.png`或者是`.eps`格式；
 4. MATLAB中设置图片大小示例：
 
     ```matlab
     set(gcf,'Unit', 'Centimeters', 'Position', [10 5 15 13.5]);
     ```
 
-5. 图片中的文字大小应保证与正文中的文字大小接近。
+5. 图片中的文字大小应保证与正文中的文字大小接近；
+6. 流程图或简单插图使用`draw.io`绘制，复杂插图使用PPT绘制，组合后另存为图片；
 
 ## 表格
 
