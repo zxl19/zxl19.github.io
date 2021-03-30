@@ -38,6 +38,7 @@ pinned: false
 
 \usepackage[framed,numbered,autolinebreaks,useliterate]{mcode}  % 插入MATLAB代码块，基于listings开发
 \usepackage{multirow}       % 跨多行表格
+\usepackage{subfigure}      % 插入子图
 ```
 
 ## 格式约定
@@ -164,6 +165,8 @@ $公式内容$
 
 ## 图片
 
+### 插入单个图片
+
 ```latex
 \begin{figure}[htbp] % 指定图片位置
     \centering
@@ -181,6 +184,41 @@ $公式内容$
 2. 强制浮动格式：`[!h]`，不考虑美观性；
 3. 图片格式推荐`.eps`；
 4. 图片跨双栏使用`\begin{figure*}`；
+
+### 插入子图
+
+以四个子图2*2排列为例进行说明。
+
+```latex
+\begin{figure}[htbp]
+    \centering
+    \subfigure[子图1标题]
+    {
+        \includegraphics[width=0.3\textwidth]{image1.png}
+        \label{Fig.2 a}
+    }
+    \quad
+    \subfigure[子图2标题]
+    {
+        \includegraphics[width=0.3\textwidth]{image2.png}
+        \label{Fig.2 b}
+    }
+    % 这里换行
+    \subfigure[子图3标题]
+    {
+        \includegraphics[width=0.3\textwidth]{image3.png}
+        \label{Fig.2 c}
+    }
+    \quad
+    \subfigure[子图4标题]
+    {
+        \includegraphics[width=0.3\textwidth]{image4.png}
+        \label{Fig.2 d}
+    }
+    \caption{总标题}
+    \label{Fig.2}
+\end{figure}
+```
 
 ## 表格
 
