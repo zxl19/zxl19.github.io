@@ -37,6 +37,7 @@ pinned: false
 \renewcommand{\algorithmicensure}{\textbf{Output:}} % Use Output in the format of Algorithm
 
 \usepackage[framed,numbered,autolinebreaks,useliterate]{mcode}  % 插入MATLAB代码块，基于listings开发
+\usepackage{multirow}       % 跨多行表格
 ```
 
 ## 格式约定
@@ -204,7 +205,13 @@ $公式内容$
 3. 表格框线：
     - 水平框线：使用`\hline`；
     - 垂直框线：在列之间添加分隔线`|`；
-4. 表格跨双栏使用`\begin{table*}`
+4. 表格跨双栏使用`\begin{table*}`；
+5. 不规则形状表格：
+
+    ```latex
+    \multicolumn{number of cols}{pos}{text} % 跨多列
+    \multirow{number of rows}{width}{text}  % 跨多行
+    ```
 
 ## 超链接
 
@@ -251,7 +258,8 @@ TODO
 1. [CSDN博客](https://blog.csdn.net/HugoChen_cs/article/details/105189541)
 2. [CSDN博客](https://blog.csdn.net/qq_38526623/article/details/103737589)
 3. [CSDN博客](https://blog.csdn.net/LeonSUST/article/details/89332744)
-4. [CSDN博客](https://blog.csdn.net/OOFFrankDura/article/details/90600855)
-5. [LaTeX 工作室](https://www.latexstudio.net/)
-6. [Overleaf Templates](https://www.overleaf.com/latex/templates)
-7. [LaTeX Templates](https://www.latextemplates.com)
+4. [CSDN博客](https://blog.csdn.net/robert_chen1988/article/details/80861246)
+5. [CSDN博客](https://blog.csdn.net/OOFFrankDura/article/details/90600855)
+6. [LaTeX 工作室](https://www.latexstudio.net/)
+7. [Overleaf Templates](https://www.overleaf.com/latex/templates)
+8. [LaTeX Templates](https://www.latextemplates.com)
