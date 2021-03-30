@@ -63,7 +63,7 @@ pinned: false
 
 ## 列表
 
-### 无序号
+### 无序号列表
 
 ```latex
 \begin{itemize} % 默认：实心点
@@ -72,10 +72,10 @@ pinned: false
 \end{itemize}
 ```
 
-### 有序号
+### 有序号列表
 
 ```latex
-\begin{enumerate}[(1)] % 默认：1.
+\begin{enumerate}[(1)] % 此处指定序号样式，默认：1.
     \item 支持123
     \item 支持abc
     \item 支持ABC
@@ -111,7 +111,7 @@ $公式内容$
 ```latex
 \begin{align}
     \label{eq1.2}
-    & 公式内容
+    & 公式内容 \\
     \label{eq1.3}
     & 公式内容
 \end{align}
@@ -120,14 +120,15 @@ $公式内容$
 ##### 引用方式
 
 ```latex
-\eqref{eq1.1}
+\eqref{eq1.1}   % 有括号
+\ref{eq1.2}     % 无括号
 ```
 
 #### 无编号
 
 ```latex
 \begin{align*}
-    & 公式内容
+    & 公式内容 \\
     & 公式内容
 \end{align*}
 ```
@@ -135,85 +136,122 @@ $公式内容$
 #### 分段函数
 
 ```latex
-\begin{equation}
-    \label{eq1.4}
-    \begin{dcases}
-        公式内容 & 条件 \\
-        公式内容 & 条件
-    \end{dcases}
-\end{equation}
+\begin{dcases}
+    公式内容 & 条件 \\
+    公式内容 & 条件
+\end{dcases}
 ```
 
-1. dcases   条件中无文本
-2. dcases*  条件中有文本
+1. `dcases`     条件为纯公式，文本使用`\text{}`；
+2. `dcases*`    条件为纯文本，公式使用`$ $`；
+
+#### 向量/矩阵
+
+```latex
+\begin{array}{ccc} % 指定每列的对齐方式，个数对应列数
+    1 & 0 & 0 \\
+    0 & 1 & 0 \\
+    0 & 0 & 1 \\
+\end{array}
+```
+
+1. 对齐方式：
+    - c：center，居中；
+    - l：left，左对齐；
+    - r：right，右对齐；
+2. 列之间可以添加分隔线`|`；
 
 ## 图片
 
+```latex
+\begin{figure}[htbp] % 指定图片位置
+    \centering
+    \includegraphics[width=10cm]{image.png}
+    \caption{图片名}
+    \label{Fig.1}
+\end{figure}
+```
+
+1. 浮动格式说明：
+    - h：here，当前位置；
+    - t：top，顶部；
+    - b：bottom，底部；
+    - p：page of its own，浮动页；
+2. 强制浮动格式：`[!h]`，不考虑美观性；
+3. 图片格式推荐`.eps`；
+4. 图片跨双栏使用`\begin{figure*}`；
+
 ## 表格
+
+```latex
+\begin{table}[htbp] % 指定表格位置
+    \centering
+    \caption{表格名}
+    \label{Table.1}
+    \begin{tabular}{ccc} % 指定每列的对齐方式，个数对应列数
+        \hline
+        方法 & APE & RPE \\
+        \hline
+        方法1 & 0.0015 & 0.0015 \\
+        方法2 & 0.0015 & 0.0015 \\
+        \hline
+    \end{tabular}
+\end{table}
+```
+
+1. 浮动格式说明同上；
+2. 对齐方式说明同上；
+3. 表格框线：
+    - 水平框线：使用`\hline`；
+    - 垂直框线：在列之间添加分隔线`|`；
+4. 表格跨双栏使用`\begin{table*}`
 
 ## 超链接
 
-## 代码块
+### 网址超链接
 
-## 参考文献
+```latex
+\url{网址}
+\href{网址}{显示文字}
+```
+
+### 邮箱超链接
+
+```latex
+\href{mailto:xxx@xxx.xxx}{显示文字}
+```
+
+## 伪代码
 
 TODO
 
-内容：
-==括号自调整==
-==一些数学符号的约定==
-==代码缩进==
-序号
-项目符号
-公式（有编码无编码）
-矩阵
-表格
-图片
-超链接添加方式
-分段函数
-==宏（神经网络、mcode）==
-==模板网站==
-==有用的网站==
+## 代码块
 
-## 公式排版
-
-1. 行内公式
-
-
-
-2. 行间公式
-    - 有编码
-
-        ```latex
-        \begin{equation}
-		    \label{eq1.1}
-            公式内容
-	    \end{equation}
-        ```
-
-    - 无编码
-
-        ```latex
-        \begin{align*}
-		    \label{eq1.1}
-            公式内容
-	    \end{align*}
-        ```
+```latex
+\begin{lstlisting}
+    代码段
+\end{lstlisting}
+```
 
 ## 常用网站
 
-1. [Detexify](http://detexify.kirelabs.org/classify.html)
-2. [Tables Generator](https://www.tablesgenerator.com/)
+1. [常用数学符号的 LaTeX 表示方法](https://mohu.org/info/symbols/symbols.htm)
+2. [Detexify](http://detexify.kirelabs.org/classify.html)
 3. [公式王](https://gongshi.wang/)
+4. [Tables Generator](https://www.tablesgenerator.com/)
 
 ## 常用模板
 
 1. [CS310-Assignment Template](https://www.overleaf.com/latex/templates/cs310-assignment-template/qrqpndrxpcht)
-2. [CheatSheet](https://www.latextemplates.com/template/cheatsheet)
+2. [Cheatsheet](https://www.latextemplates.com/template/cheatsheet)
 3. [PlotNeuralNet](https://github.com/HarisIqbal88/PlotNeuralNet)
 
 ## 参考
 
-1. [LaTeX 工作室](https://www.latexstudio.net/)
-2. [Overleaf Templates](https://www.overleaf.com/latex/templates)
-3. [LaTeX Templates](https://www.latextemplates.com)
+1. [CSDN博客](https://blog.csdn.net/HugoChen_cs/article/details/105189541)
+2. [CSDN博客](https://blog.csdn.net/qq_38526623/article/details/103737589)
+3. [CSDN博客](https://blog.csdn.net/LeonSUST/article/details/89332744)
+4. [CSDN博客](https://blog.csdn.net/OOFFrankDura/article/details/90600855)
+5. [LaTeX 工作室](https://www.latexstudio.net/)
+6. [Overleaf Templates](https://www.overleaf.com/latex/templates)
+7. [LaTeX Templates](https://www.latextemplates.com)
