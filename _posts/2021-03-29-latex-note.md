@@ -204,6 +204,7 @@ $公式内容$
         \label{Fig.2 b}
     }
     % 这里换行
+
     \subfigure[子图3标题]
     {
         \includegraphics[width=0.3\textwidth]{image3.png}
