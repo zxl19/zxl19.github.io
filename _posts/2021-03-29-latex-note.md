@@ -1,7 +1,7 @@
 ---
 layout: post
 title: LaTeX使用笔记
-date: 2021-03-29
+date: 2021-03-31
 author: zxl19
 tags: [LaTeX]
 comments: true
@@ -103,7 +103,7 @@ $公式内容$
 
 ```latex
 \begin{equation}
-    \label{eq1.1}
+    \label{eq1.1} % 引用标记
     公式内容
 \end{equation}
 ```
@@ -119,7 +119,7 @@ $公式内容$
 \end{align}
 ```
 
-##### 引用方式
+##### 公式引用
 
 ```latex
 \eqref{eq1.1}   % 有括号
@@ -169,10 +169,10 @@ $公式内容$
 
 ```latex
 \begin{figure}[htbp] % 指定图片位置
-    \centering
+    \centering % 居中
     \includegraphics[width=10cm]{image.png}
-    \caption{图片名}
-    \label{Fig.1}
+    \caption{Image Title} % 图片标题
+    \label{fig.1}
 \end{figure}
 ```
 
@@ -192,32 +192,32 @@ $公式内容$
 ```latex
 \begin{figure}[htbp]
     \centering
-    \subfigure[子图1标题]
+    \subfigure[Subfigure Title 1] % 子图标题
     {
         \includegraphics[width=0.3\textwidth]{image1.png}
-        \label{Fig.2 a}
+        \label{fig.2a}
     }
     \quad
-    \subfigure[子图2标题]
+    \subfigure[Subfigure Title 2]
     {
         \includegraphics[width=0.3\textwidth]{image2.png}
-        \label{Fig.2 b}
+        \label{fig.2b}
     }
     % 这里换行
 
-    \subfigure[子图3标题]
+    \subfigure[Subfigure Title 3]
     {
         \includegraphics[width=0.3\textwidth]{image3.png}
-        \label{Fig.2 c}
+        \label{fig.2c}
     }
     \quad
-    \subfigure[子图4标题]
+    \subfigure[Subfigure Title 4]
     {
         \includegraphics[width=0.3\textwidth]{image4.png}
-        \label{Fig.2 d}
+        \label{fig.2d}
     }
-    \caption{总标题}
-    \label{Fig.2}
+    \caption{Title} % 总标题
+    \label{fig.2}
 \end{figure}
 ```
 
@@ -226,14 +226,14 @@ $公式内容$
 ```latex
 \begin{table}[htbp] % 指定表格位置
     \centering
-    \caption{表格名}
-    \label{Table.1}
+    \caption{Table Title} % 表格标题
+    \label{table.1}
     \begin{tabular}{ccc} % 指定每列的对齐方式，个数对应列数
         \hline
-        方法 & APE & RPE \\
+        方法 & APE [m] & RPE [%]\\
         \hline
-        方法1 & 0.0015 & 0.0015 \\
-        方法2 & 0.0015 & 0.0015 \\
+        方法1 & 0.10 & 0.20 \\
+        方法2 & 0.05 & 0.15 \\
         \hline
     \end{tabular}
 \end{table}
@@ -249,7 +249,7 @@ $公式内容$
 
     ```latex
     \multicolumn{number of cols}{pos}{text} % 跨多列
-    \multirow{number of rows}{width}{text}  % 跨多行
+    \multirow{number of rows}{width}{text}  % 跨多行，宽度不定可用{*}
     ```
 
 ## 超链接
@@ -257,8 +257,8 @@ $公式内容$
 ### 网址超链接
 
 ```latex
-\url{网址}
-\href{网址}{显示文字}
+\url{网址}              % 直接显示待超链接的网址
+\href{网址}{显示文字}   % 显示带超链接的文字
 ```
 
 ### 邮箱超链接
@@ -279,14 +279,145 @@ TODO
 \end{lstlisting}
 ```
 
-## 常用网站
+TODO：显示样式设置
+
+## 引用参考文献
+
+### 不使用BibTeX
+
+#### 文献保存
+
+在文章末尾插入：
+
+```latex
+\begin{thebibliography}{99} % 最大参考文献个数
+
+\bibitem{标签}参考文献引用格式 % 标签在引用时使用
+
+\end{thebibliography}
+```
+
+示例：
+
+```latex
+\begin{thebibliography}{99}
+
+\bibitem{ref1}Zhang J, Singh S. LOAM: Lidar Odometry and Mapping in Real-time[C]//Robotics: Science and Systems. 2014, 2(9).
+\bibitem{ref2}Zhang J, Singh S. Low-drift and real-time lidar odometry and mapping[J]. Autonomous Robots, 2017, 41(2): 401-416.
+\bibitem{ref3}Shan T, Englot B. Lego-loam: Lightweight and ground-optimized lidar odometry and mapping on variable terrain[C]//2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS). IEEE, 2018: 4758-4765.
+\bibitem{ref4}Shan T, Englot B, Meyers D, et al. Lio-sam: Tightly-coupled lidar inertial odometry via smoothing and mapping[J]. arXiv preprint arXiv:2007.00258, 2020.
+
+\end{thebibliography}
+```
+
+#### 文献引用
+
+```latex
+\cite{ref1}
+\cite{ref2, ref3}
+```
+
+### 使用BibTeX
+
+1. 保存`.bib`文件：
+
+    ```latex
+    @article{name1, % 名称在引用时使用
+    author = {作者, 多个作者用 and 连接},
+    title = {标题},
+    journal = {期刊名},
+    volume = {卷},
+    number = {页码},
+    year = {年份},
+    abstract = {摘要, 引用时自己参考, 非必须}
+    }
+    @book{name2,
+    author ="作者",
+    year="年份",
+    title="书名",
+    publisher ="出版社名称"
+    }
+    ```
+
+    示例：
+
+    ```latex
+    @inproceedings{zhang2014loam,
+        title={LOAM: Lidar Odometry and Mapping in Real-time.},
+        author={Zhang, Ji and Singh, Sanjiv},
+        booktitle={Robotics: Science and Systems},
+        volume={2},
+        number={9},
+        year={2014}
+    }
+    @article{zhang2017low,
+    title={Low-drift and real-time lidar odometry and mapping},
+    author={Zhang, Ji and Singh, Sanjiv},
+    journal={Autonomous Robots},
+    volume={41},
+    number={2},
+    pages={401--416},
+    year={2017},
+    publisher={Springer}
+    }
+    @inproceedings{shan2018lego,
+    title={Lego-loam: Lightweight and ground-optimized lidar odometry and mapping on variable terrain},
+    author={Shan, Tixiao and Englot, Brendan},
+    booktitle={2018 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)},
+    pages={4758--4765},
+    year={2018},
+    organization={IEEE}
+    }
+    @article{shan2020lio,
+    title={Lio-sam: Tightly-coupled lidar inertial odometry via smoothing and mapping},
+    author={Shan, Tixiao and Englot, Brendan and Meyers, Drew and Wang, Wei and Ratti, Carlo and Rus, Daniela},
+    journal={arXiv preprint arXiv:2007.00258},
+    year={2020}
+    }
+    ```
+
+2. 在文章末尾插入：
+
+    ```latex
+    \bibliographystyle{plain}   % 预设样式
+    \bibliography{ref}          % 对应.bib文件名
+    ```
+
+3. 预设样式说明：
+
+    - plain，按字母的顺序排列，比较次序为作者、年度和标题；
+    - unsrt，样式同plain，只是按照引用的先后排序；
+    - alpha，用作者名首字母+年份后两位作标号，以字母顺序排序；
+    - abbrv，类似plain，将月份全拼改为缩写，更显紧凑；
+    - ieeetr，国际电气电子工程师协会期刊样式；
+    - acm，美国计算机学会期刊样式；
+    - siam，美国工业和应用数学学会期刊样式；
+    - apalike，美国心理学学会期刊样式；
+
+#### 文献引用
+
+```latex
+\cite{name1}
+\cite{name1, name2}
+```
+
+## 高质量网站存档
+
+### 提升输入效率
 
 1. [常用数学符号的 LaTeX 表示方法](https://mohu.org/info/symbols/symbols.htm)
 2. [Detexify](http://detexify.kirelabs.org/classify.html)
 3. [公式王](https://gongshi.wang/)
 4. [Tables Generator](https://www.tablesgenerator.com/)
 
-## 常用模板
+### 模板和学习资源
+
+1. [LaTeX 工作室](https://www.latexstudio.net/)
+2. [Overleaf Templates](https://www.overleaf.com/latex/templates)
+3. [LaTeX Templates](https://www.latextemplates.com)
+4. [MOON](https://www.moonpapers.com/)
+
+### 优质模板
 
 1. [CS310-Assignment Template](https://www.overleaf.com/latex/templates/cs310-assignment-template/qrqpndrxpcht)
 2. [Cheatsheet](https://www.latextemplates.com/template/cheatsheet)
@@ -299,6 +430,4 @@ TODO
 3. [CSDN博客](https://blog.csdn.net/LeonSUST/article/details/89332744)
 4. [CSDN博客](https://blog.csdn.net/robert_chen1988/article/details/80861246)
 5. [CSDN博客](https://blog.csdn.net/OOFFrankDura/article/details/90600855)
-6. [LaTeX 工作室](https://www.latexstudio.net/)
-7. [Overleaf Templates](https://www.overleaf.com/latex/templates)
-8. [LaTeX Templates](https://www.latextemplates.com)
+6. [MOON博客](https://www.moonpapers.com/blog/5f8502bc30a4195e92ccc6db)
