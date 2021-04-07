@@ -85,11 +85,6 @@ pinned: false
     \usepackage{courier}
     % 打字机字体/等宽字体
     \texttt{john_doe@xxx.xxx}
-    \texttt{{john_doe, richard_row}@xxx.xxx}
     ```
 
-3. 通信作者邮箱加超链接：
-
-    ```latex
-    \href{mailto:john_doe@xxx.xx}{\texttt{john_doe@xxx.xxx}}
-    ```
+3. 通信作者邮箱加超链接；
