@@ -1,7 +1,7 @@
 ---
 layout: post
 title: LaTeX使用笔记
-date: 2021-03-31
+date: 2021-03-29
 author: zxl19
 tags: [LaTeX]
 comments: true
