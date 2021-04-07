@@ -75,3 +75,21 @@ pinned: false
 
 1. 参考[知乎回答](https://www.zhihu.com/question/370758333)；
 2. 参考[BV1ix411o7qq](https://www.bilibili.com/video/BV1ix411o7qq)进行对线 \doge；
+
+## 作者信息
+
+1. 用`*`上标表示通信作者（Corresponding author/Correspondence）；
+2. 作者邮箱信息字体：
+
+    ```latex
+    \usepackage{courier}
+    % 打字机字体/等宽字体
+    \texttt{john_doe@xxx.xxx}
+    \texttt{{john_doe, richard_row}@xxx.xxx}
+    ```
+
+3. 通信作者邮箱加超链接：
+
+    ```latex
+    \href{mailto:john_doe@xxx.xx}{\texttt{john_doe@xxx.xxx}}
+    ```
