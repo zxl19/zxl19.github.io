@@ -87,7 +87,7 @@ target_link_libraries( , )
 
 ## 参考
 
-1. [CSDN博客](https://blog.csdn.net/sinat_28752257/article/details/82758546)
+1. [Ceres CMakeLists-CSDN博客](https://blog.csdn.net/sinat_28752257/article/details/82758546)
 2. [catkin/CMakeLists.txt](http://wiki.ros.org/catkin/CMakeLists.txt)
 3. [A-LOAM](https://github.com/HKUST-Aerial-Robotics/A-LOAM)
 4. [LeGO-LOAM](https://github.com/RobustFieldAutonomyLab/LeGO-LOAM)

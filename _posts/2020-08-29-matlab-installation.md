@@ -91,6 +91,6 @@ Ubuntu系统中的快捷键默认采用Emacs默认集，可以采用如下方式
 
 ## 参考
 
-1. [博客园](https://www.cnblogs.com/taoyuyeit/p/8823311.html)
-2. [CSDN博客](https://blog.csdn.net/will_ye/article/details/79645447)
-3. [CSDN博客](https://blog.csdn.net/brandyzhaowei/article/details/7895298)
+1. [安装-博客园](https://www.cnblogs.com/taoyuyeit/p/8823311.html)
+2. [添加工具包-CSDN博客](https://blog.csdn.net/will_ye/article/details/79645447)
+3. [快捷键设置-CSDN博客](https://blog.csdn.net/brandyzhaowei/article/details/7895298)

@@ -62,6 +62,6 @@ sudo apt-get install texstudio
 1. [清华大学开源软件镜像站](https://mirrors.tuna.tsinghua.edu.cn/CTAN/systems/texlive/Images/)
 2. [TeXstudio](http://texstudio.sourceforge.net/)
 3. [最新TeXLive环境的安装与配置-cying的文章-知乎](https://zhuanlan.zhihu.com/p/41855480)
-4. [CSDN博客](https://blog.csdn.net/qq_41814939/article/details/82288145)
+4. [Ubuntu安装-CSDN博客](https://blog.csdn.net/qq_41814939/article/details/82288145)
 5. [Overleaf](https://www.overleaf.com)
 6. [Overleaf Chinese](https://cn.overleaf.com)

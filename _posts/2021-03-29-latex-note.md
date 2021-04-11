@@ -22,11 +22,12 @@ pinned: false
 \usepackage{listings}       % 插入代码块
 
 \usepackage{hyperref}       % 插入超链接
-\hypersetup{                % 超链接格式设置
+\hypersetup{                % 超链接样式设置
     colorlinks=true,
     linkcolor=blue,
     linkbordercolor={0 0 1}
 }
+\hypersetup{hidelinks}      % 不显示超链接线框
 
 \usepackage{ctex}           % 中文支持
 \usepackage{mathtools}      % 插入分段函数
@@ -39,6 +40,12 @@ pinned: false
 \usepackage[framed,numbered,autolinebreaks,useliterate]{mcode}  % 插入MATLAB代码块，基于listings开发
 \usepackage{multirow}       % 跨多行表格
 \usepackage{subfigure}      % 插入子图
+
+\usepackage{tabto}          % 插入Tab
+\NumTabs{8}                 % define 8 equally spaced tabs starting at the left margin
+                            % and spanning \linewidth
+
+\usepackage{fontawesome}    % 添加小图标
 ```
 
 ## 格式约定
@@ -62,6 +69,9 @@ pinned: false
     \left{  \right}
     \left\| \right\|
     ```
+
+4. 使用`\hfill`进行水平填充；
+5. 使用`\tab`插入`Tab`；
 
 ## 列表
 
@@ -424,12 +434,15 @@ TODO：显示样式设置
 1. [CS310-Assignment Template](https://www.overleaf.com/latex/templates/cs310-assignment-template/qrqpndrxpcht)
 2. [Cheatsheet](https://www.latextemplates.com/template/cheatsheet)
 3. [PlotNeuralNet](https://github.com/HarisIqbal88/PlotNeuralNet)
+4. [resume-chinese](https://github.com/zheyuye/resume-chinese)
 
 ## 参考
 
-1. [CSDN博客](https://blog.csdn.net/HugoChen_cs/article/details/105189541)
-2. [CSDN博客](https://blog.csdn.net/qq_38526623/article/details/103737589)
-3. [CSDN博客](https://blog.csdn.net/LeonSUST/article/details/89332744)
-4. [CSDN博客](https://blog.csdn.net/robert_chen1988/article/details/80861246)
-5. [CSDN博客](https://blog.csdn.net/OOFFrankDura/article/details/90600855)
-6. [MOON博客](https://www.moonpapers.com/blog/5f8502bc30a4195e92ccc6db)
+1. 各个宏包的说明文档（TeXstudio中在对应命令上右键打开）。
+2. [\tab-Stack Exchange](https://tex.stackexchange.com/questions/198432/using-the-tab-command)
+3. [列表-CSDN博客](https://blog.csdn.net/HugoChen_cs/article/details/105189541)
+4. [图片1-CSDN博客](https://blog.csdn.net/qq_38526623/article/details/103737589)
+5. [图片2-CSDN博客](https://blog.csdn.net/LeonSUST/article/details/89332744)
+6. [\multirow-CSDN博客](https://blog.csdn.net/robert_chen1988/article/details/80861246)
+7. [超链接-CSDN博客](https://blog.csdn.net/OOFFrankDura/article/details/90600855)
+8. [引用参考文献-MOON博客](https://www.moonpapers.com/blog/5f8502bc30a4195e92ccc6db)

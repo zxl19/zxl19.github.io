@@ -125,4 +125,4 @@ pinned: false
 
 1. [BV1sW411v7VZ](https://www.bilibili.com/video/BV1sW411v7VZ)
 2. [MinGW-64](http://mingw-w64.org/doku.php)
-3. [博客园](https://www.cnblogs.com/ggg-327931457/p/9694516.html)
+3. [MinGW-64安装-博客园](https://www.cnblogs.com/ggg-327931457/p/9694516.html)
