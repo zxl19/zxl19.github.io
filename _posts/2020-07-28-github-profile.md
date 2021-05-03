@@ -25,21 +25,18 @@ pinned: false
 
 ```html
 <a href="https://github.com/zxl19">
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=zxl19&count_private=true&show_icons=true" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=zxl19&count_private=true&show_icons=true&theme=prussian" />
 </a>
 <a href="https://github.com/zxl19">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zxl19" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zxl19&layout=compact&theme=prussian" />
 </a>
 ```
 
 效果如下：
 
-<a href="https://github.com/zxl19">
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=zxl19&count_private=true&show_icons=true" />
-</a>
-<a href="https://github.com/zxl19">
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zxl19" />
-</a>
+[![zxl19's GitHub Stats](https://github-readme-stats.vercel.app/api?username=zxl19&count_private=true&show_icons=true&theme=prussian)](https://github.com/zxl19)
+
+[![zxl19's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zxl19&layout=compact&theme=prussian)](https://github.com/zxl19)
 
 具体使用方式和配置详见[GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats)
 
