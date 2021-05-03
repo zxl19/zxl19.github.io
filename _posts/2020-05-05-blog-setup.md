@@ -58,3 +58,4 @@ pinned: false
 3. [各种开源协议介绍](https://www.runoob.com/w3cnote/open-source-license.html)
 4. [【最新】解决Github网页上图片显示失败的问题](https://blog.csdn.net/qq_38232598/article/details/91346392)
 5. [几条经验美化你的GitHub开源项目](https://www.jianshu.com/p/d587b91bacb3)
+6. [如何制作个人学术主页？-知乎](https://www.zhihu.com/question/281476526)

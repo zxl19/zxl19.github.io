@@ -32,6 +32,15 @@ pinned: false
 </a>
 ```
 
+效果如下：
+
+<a href="https://github.com/zxl19">
+    <img align="left" src="https://github-readme-stats.vercel.app/api?username=zxl19&count_private=true&show_icons=true" />
+</a>
+<a href="https://github.com/zxl19">
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zxl19" />
+</a>
+
 具体使用方式和配置详见[GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats)
 
 ## 生成项目标签
