@@ -49,6 +49,10 @@ C/C++语言扩展。
 
 VS Code中文汉化。
 
+## CMake
+
+CMake语法支持。
+
 ## CMake Tools
 
 CMake扩展。
@@ -89,7 +93,7 @@ Markdown语言扩展。
 
 Markdown文档转PDF文档。
 
-在设置中关闭页眉页脚、选择样式为github可以获得更好的显示效果。
+在设置中关闭页眉页脚、选择样式为`github.css`可以获得更好的显示效果。
 
 ## Markdown Preview Enhanced
 
@@ -117,10 +121,10 @@ Atom的深色主题，类似的主题还有City Lights theme、Material Theme（
 
 ## Polacode
 
-代码截图
+代码截图。
 
-1. `Ctrl`+`Shift`+`P`选择Polarcode
-2. 选中要截图的代码
+1. `Ctrl`+`Shift`+`P`选择Polarcode；
+2. 选中要截图的代码；
 
 ## Pylance
 
@@ -128,7 +132,11 @@ Atom的深色主题，类似的主题还有City Lights theme、Material Theme（
 
 ## Python
 
-Python语言扩展。
+Python语言扩展，依赖Jupyter扩展。
+
+## Rainbow Fart
+
+彩虹屁插件。
 
 ## ROS
 
