@@ -46,6 +46,10 @@ pinned: false
                             % and spanning \linewidth
 
 \usepackage{fontawesome}    % 添加小图标
+
+\usepackage{pifont}         % 添加对号、错号
+\newcommand{\cmark}{\ding{51}} % 对号
+\newcommand{\xmark}{\ding{55}} % 错号
 ```
 
 ## 格式约定
@@ -78,6 +82,13 @@ pinned: false
     \label{eq:XXX}  % 公式
     \label{fig:XXX} % 图片
     \label{tab:XXX} % 表格
+    ```
+
+7. 插入对号、错号：
+
+    ```latex
+    \ding{51} % 对号
+    \ding{55} % 错号
     ```
 
 ## 列表
@@ -454,10 +465,11 @@ TODO：显示样式设置
 
 1. 各个宏包的说明文档（TeXstudio中在对应命令上右键打开）。
 2. [\tab-Stack Exchange](https://tex.stackexchange.com/questions/198432/using-the-tab-command)
-3. [列表-CSDN博客](https://blog.csdn.net/HugoChen_cs/article/details/105189541)
-4. [图片1-CSDN博客](https://blog.csdn.net/qq_38526623/article/details/103737589)
-5. [图片2-CSDN博客](https://blog.csdn.net/LeonSUST/article/details/89332744)
-6. [\multirow-CSDN博客](https://blog.csdn.net/robert_chen1988/article/details/80861246)
-7. [超链接-CSDN博客](https://blog.csdn.net/OOFFrankDura/article/details/90600855)
-8. [插入脚注-LaTeX 工作室](https://www.latexstudio.net/archives/51620.html)
-9. [引用参考文献-MOON博客](https://www.moonpapers.com/blog/5f8502bc30a4195e92ccc6db)
+3. [对号&错号-Stack Exchange](https://tex.stackexchange.com/questions/42619/x-mark-to-match-checkmark)
+4. [列表-CSDN博客](https://blog.csdn.net/HugoChen_cs/article/details/105189541)
+5. [图片1-CSDN博客](https://blog.csdn.net/qq_38526623/article/details/103737589)
+6. [图片2-CSDN博客](https://blog.csdn.net/LeonSUST/article/details/89332744)
+7. [\multirow-CSDN博客](https://blog.csdn.net/robert_chen1988/article/details/80861246)
+8. [超链接-CSDN博客](https://blog.csdn.net/OOFFrankDura/article/details/90600855)
+9. [插入脚注-LaTeX 工作室](https://www.latexstudio.net/archives/51620.html)
+10. [引用参考文献-MOON博客](https://www.moonpapers.com/blog/5f8502bc30a4195e92ccc6db)
