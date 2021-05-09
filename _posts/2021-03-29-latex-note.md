@@ -72,6 +72,13 @@ pinned: false
 
 4. 使用`\hfill`进行水平填充；
 5. 使用`\tab`插入`Tab`；
+6. 公式、图片、表格的引用标记要进行区分：
+
+    ```latex
+    \label{eq:XXX}  % 公式
+    \label{fig:XXX} % 图片
+    \label{tab:XXX} % 表格
+    ```
 
 ## 列表
 
@@ -113,7 +120,7 @@ $公式内容$
 
 ```latex
 \begin{equation}
-    \label{eq1.1} % 引用标记
+    \label{eq:1.1} % 引用标记
     公式内容
 \end{equation}
 ```
@@ -122,9 +129,9 @@ $公式内容$
 
 ```latex
 \begin{align}
-    \label{eq1.2}
+    \label{eq:1.2}
     & 公式内容 \\
-    \label{eq1.3}
+    \label{eq:1.3}
     & 公式内容
 \end{align}
 ```
@@ -132,8 +139,8 @@ $公式内容$
 ##### 公式引用
 
 ```latex
-\eqref{eq1.1}   % 有括号
-\ref{eq1.2}     % 无括号
+\eqref{eq:1.1}   % 有括号
+\ref{eq:1.2}     % 无括号
 ```
 
 #### 无编号
@@ -182,7 +189,7 @@ $公式内容$
     \centering % 居中
     \includegraphics[width=10cm]{image.png}
     \caption{Image Title} % 图片标题
-    \label{fig.1}
+    \label{fig:1}
 \end{figure}
 ```
 
@@ -205,29 +212,29 @@ $公式内容$
     \subfigure[Subfigure Title 1] % 子图标题
     {
         \includegraphics[width=0.3\textwidth]{image1.png}
-        \label{fig.2a}
+        \label{fig:2a}
     }
     \quad
     \subfigure[Subfigure Title 2]
     {
         \includegraphics[width=0.3\textwidth]{image2.png}
-        \label{fig.2b}
+        \label{fig:2b}
     }
     % 这里换行
 
     \subfigure[Subfigure Title 3]
     {
         \includegraphics[width=0.3\textwidth]{image3.png}
-        \label{fig.2c}
+        \label{fig:2c}
     }
     \quad
     \subfigure[Subfigure Title 4]
     {
         \includegraphics[width=0.3\textwidth]{image4.png}
-        \label{fig.2d}
+        \label{fig:2d}
     }
     \caption{Title} % 总标题
-    \label{fig.2}
+    \label{fig:2}
 \end{figure}
 ```
 
@@ -237,7 +244,7 @@ $公式内容$
 \begin{table}[htbp] % 指定表格位置
     \centering
     \caption{Table Title} % 表格标题
-    \label{table.1}
+    \label{tab:1}
     \begin{tabular}{ccc} % 指定每列的对齐方式，个数对应列数
         \hline
         方法 & APE [m] & RPE [%]\\
@@ -290,6 +297,13 @@ TODO
 ```
 
 TODO：显示样式设置
+
+## 脚注
+
+```latex
+\footnote{脚注内容}         % 编号自动递增
+\footnote[编号]{脚注内容}   % 人为指定编号（纯数字）
+```
 
 ## 引用参考文献
 
@@ -445,4 +459,5 @@ TODO：显示样式设置
 5. [图片2-CSDN博客](https://blog.csdn.net/LeonSUST/article/details/89332744)
 6. [\multirow-CSDN博客](https://blog.csdn.net/robert_chen1988/article/details/80861246)
 7. [超链接-CSDN博客](https://blog.csdn.net/OOFFrankDura/article/details/90600855)
-8. [引用参考文献-MOON博客](https://www.moonpapers.com/blog/5f8502bc30a4195e92ccc6db)
+8. [插入脚注-LaTeX 工作室](https://www.latexstudio.net/archives/51620.html)
+9. [引用参考文献-MOON博客](https://www.moonpapers.com/blog/5f8502bc30a4195e92ccc6db)
