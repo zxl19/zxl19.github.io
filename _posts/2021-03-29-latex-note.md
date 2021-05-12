@@ -58,7 +58,7 @@ pinned: false
 2. 数学符号参考[常用数学符号的 LaTeX 表示方法](https://mohu.org/info/symbols/symbols.htm)，但有以下几点注意事项：
 
     - 上下标使用`{}`括起来；
-    - 矩阵和向量使用`\mathbf{}`；
+    - 矩阵和向量使用`\mathbf{}`或`\boldsymbol{}`；
     - 集合使用`\mathbb{}`；
     - 范数使用`\|`；
     - argmin使用`\mathop{\arg\min}\limits_{}`，argmax同理；
