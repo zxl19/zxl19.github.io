@@ -165,6 +165,8 @@ $公式内容$
 
 #### 分段函数
 
+通常在`equation`或`align`环境中使用，对于大括号整体编号。
+
 ```latex
 \begin{dcases}
     公式内容 & 条件 \\
@@ -460,6 +462,7 @@ TODO：显示样式设置
 2. [Cheatsheet](https://www.latextemplates.com/template/cheatsheet)
 3. [PlotNeuralNet](https://github.com/HarisIqbal88/PlotNeuralNet)
 4. [resume-chinese](https://github.com/zheyuye/resume-chinese)
+5. [thuthesis](https://github.com/tuna/thuthesis)
 
 ## 参考
 
@@ -467,9 +470,10 @@ TODO：显示样式设置
 2. [\tab-Stack Exchange](https://tex.stackexchange.com/questions/198432/using-the-tab-command)
 3. [对号&错号-Stack Exchange](https://tex.stackexchange.com/questions/42619/x-mark-to-match-checkmark)
 4. [列表-CSDN博客](https://blog.csdn.net/HugoChen_cs/article/details/105189541)
-5. [图片1-CSDN博客](https://blog.csdn.net/qq_38526623/article/details/103737589)
-6. [图片2-CSDN博客](https://blog.csdn.net/LeonSUST/article/details/89332744)
-7. [\multirow-CSDN博客](https://blog.csdn.net/robert_chen1988/article/details/80861246)
-8. [超链接-CSDN博客](https://blog.csdn.net/OOFFrankDura/article/details/90600855)
-9. [插入脚注-LaTeX 工作室](https://www.latexstudio.net/archives/51620.html)
-10. [引用参考文献-MOON博客](https://www.moonpapers.com/blog/5f8502bc30a4195e92ccc6db)
+5. [公式-简书](https://www.jianshu.com/p/97ec8a3739f6)
+6. [图片1-CSDN博客](https://blog.csdn.net/qq_38526623/article/details/103737589)
+7. [图片2-CSDN博客](https://blog.csdn.net/LeonSUST/article/details/89332744)
+8. [\multirow-CSDN博客](https://blog.csdn.net/robert_chen1988/article/details/80861246)
+9. [超链接-CSDN博客](https://blog.csdn.net/OOFFrankDura/article/details/90600855)
+10. [插入脚注-LaTeX 工作室](https://www.latexstudio.net/archives/51620.html)
+11. [引用参考文献-MOON博客](https://www.moonpapers.com/blog/5f8502bc30a4195e92ccc6db)
