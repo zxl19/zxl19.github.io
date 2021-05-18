@@ -22,6 +22,8 @@ pinned: false
 \usepackage{listings}       % 插入代码块
 
 \usepackage{hyperref}       % 插入超链接
+\usepackage[backref]{hyperref}      % 章节引回
+\usepackage[pagebackref]{hyperref}  % 页码引回
 \hypersetup{                % 超链接样式设置
     colorlinks=true,
     linkcolor=blue,
@@ -48,8 +50,8 @@ pinned: false
 \usepackage{fontawesome}    % 添加小图标
 
 \usepackage{pifont}         % 添加对号、错号
-\newcommand{\cmark}{\ding{51}} % 对号
-\newcommand{\xmark}{\ding{55}} % 错号
+\newcommand{\cmark}{\ding{51}}  % 对号
+\newcommand{\xmark}{\ding{55}}  % 错号
 ```
 
 ## 格式约定
@@ -475,5 +477,7 @@ TODO：显示样式设置
 7. [图片2-CSDN博客](https://blog.csdn.net/LeonSUST/article/details/89332744)
 8. [\multirow-CSDN博客](https://blog.csdn.net/robert_chen1988/article/details/80861246)
 9. [超链接-CSDN博客](https://blog.csdn.net/OOFFrankDura/article/details/90600855)
-10. [插入脚注-LaTeX 工作室](https://www.latexstudio.net/archives/51620.html)
-11. [引用参考文献-MOON博客](https://www.moonpapers.com/blog/5f8502bc30a4195e92ccc6db)
+10. [脚注-LaTeX 工作室](https://www.latexstudio.net/archives/51620.html)
+11. [参考文献1-知乎](https://zhuanlan.zhihu.com/p/265479955)
+12. [参考文献2-知乎](https://zhuanlan.zhihu.com/p/114733612)
+13. [参考文献3-Stack Exchange](https://tex.stackexchange.com/questions/99615/backref-package-for-page-reference)
