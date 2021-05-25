@@ -3,7 +3,7 @@ layout: post
 title: 基于手眼标定的激光雷达-相机-惯导联合标定方法
 date: 2020-12-05
 author: zxl19
-tags: [LiDAR, Camera, INS, Extrinsic Calibration]
+tags: [LiDAR, Extrinsic, Calibration]
 comments: true
 toc: true
 pinned: false

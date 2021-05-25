@@ -3,7 +3,7 @@ layout: post
 title: Chrome浏览器扩展存档
 date: 2020-06-20
 author: zxl19
-tags: [Chrome]
+tags: [Chrome, Archive]
 comments: true
 toc: true
 pinned: false

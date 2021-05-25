@@ -1,9 +1,9 @@
 ---
 layout: post
-title: VS Code扩展配置
+title: VS Code扩展配置存档
 date: 2020-06-03
 author: zxl19
-tags: [VS Code]
+tags: [VS Code, Archive]
 comments: true
 toc: true
 pinned: false
