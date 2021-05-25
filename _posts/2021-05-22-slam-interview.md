@@ -1,6 +1,6 @@
 ---
 layout: post
-title: SLAM面试题汇总
+title: SLAM面试题存档
 date: 2021-05-22
 author: zxl19
 tags: [SLAM]
@@ -9,7 +9,7 @@ toc: true
 pinned: false
 ---
 
-不定时更新的SLAM面试题汇总。
+SLAM面试题存档。
 
 <!-- more -->
 

@@ -19,4 +19,11 @@ pinned: false
 
 ## VS Code
 
-安装扩展Markdown All in One、Markdown Preview Enhanced和markdownlint，可以实现自动补全、预览、导出PDF文档、语法检查等功能。
+安装扩展：
+
+1. Markdown All in One
+2. Markdown PDF
+3. Markdown Preview Enhanced
+4. markdownlint
+
+可以实现自动补全、导出PDF文档、预览、语法检查等功能。
