@@ -75,3 +75,5 @@ pinned: false
 ### 精度评估
 
 1. [MichaelGrupp/evo](https://github.com/MichaelGrupp/evo)
+2. [pamela-project/slambench2](https://github.com/pamela-project/slambench2)
+3. [pamela-project/slambench1](https://github.com/pamela-project/slambench1)
