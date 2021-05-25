@@ -452,6 +452,7 @@ TODO：显示样式设置
 2. [Detexify](http://detexify.kirelabs.org/classify.html)
 3. [公式王](https://gongshi.wang/)
 4. [Tables Generator](https://www.tablesgenerator.com/)
+5. [wch/latexsheet](https://github.com/wch/latexsheet)
 
 ### 模板和学习资源
 
