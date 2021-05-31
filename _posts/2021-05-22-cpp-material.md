@@ -3,7 +3,7 @@ layout: post
 title: C++学习资料存档
 date: 2021-05-22
 author: zxl19
-tags: [C++, Archive]
+tags: [C++, CMake, Archive]
 comments: true
 toc: true
 pinned: false

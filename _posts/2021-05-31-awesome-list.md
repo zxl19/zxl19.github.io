@@ -3,7 +3,7 @@ layout: post
 title: SLAM相关Awesome List存档
 date: 2021-05-31
 author: zxl19
-tags: [SLAM, Archive]
+tags: [GitHub, SLAM, Archive]
 comments: true
 toc: true
 pinned: false

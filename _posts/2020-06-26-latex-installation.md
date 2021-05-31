@@ -3,7 +3,7 @@ layout: post
 title: 在Windows和Ubuntu系统下安装LaTeX发行版
 date: 2020-06-26
 author: zxl19
-tags: [LaTeX]
+tags: [LaTeX, Note]
 comments: true
 toc: true
 pinned: false

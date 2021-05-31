@@ -3,7 +3,7 @@ layout: post
 title: 在Ubuntu系统下安装MATLAB
 date: 2020-08-29
 author: zxl19
-tags: [MATLAB, Ubuntu]
+tags: [MATLAB, Ubuntu, Note]
 comments: true
 toc: true
 pinned: false

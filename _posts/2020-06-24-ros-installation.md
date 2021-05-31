@@ -3,7 +3,7 @@ layout: post
 title: ROS Kinetic安装记录及问题解决
 date: 2020-06-24
 author: zxl19
-tags: [ROS]
+tags: [ROS, Note]
 comments: true
 toc: true
 pinned: false

@@ -3,7 +3,7 @@ layout: post
 title: GitHub同步更新fork的项目
 date: 2020-07-29
 author: zxl19
-tags: [GitHub]
+tags: [GitHub, Note]
 comments: true
 toc: true
 pinned: false
