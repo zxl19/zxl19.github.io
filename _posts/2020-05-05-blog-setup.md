@@ -17,7 +17,7 @@ pinned: false
 
 ### 选择博客模板
 
-选择合适的博客模板可以实现更加复杂的博客功能并提高博客的美观性，具体可以在[基于Jekyll的模板网站](http://jekyllthemes.org/)上进行选择。本博客采用[LOFFER模板](https://github.com/FromEndWorld/LOFFER)，具体使用方式按照[补充说明后的模板教程](https://zxl19.github.io/document/)，在此向原作者表示感谢。完成此步骤之后，可以实现基本的博客功能。
+选择合适的博客模板可以实现更加复杂的博客功能并提高博客的美观性，具体可以在[基于Jekyll的模板网站](http://jekyllthemes.org/)上进行选择。本博客采用[LOFFER模板](https://github.com/FromEndWorld/LOFFER)，具体使用方式按照补充说明后的模板教程，在此向原作者表示感谢。完成此步骤之后，可以实现基本的博客功能。
 
 ### 选择开源协议
 

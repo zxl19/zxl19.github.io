@@ -163,6 +163,10 @@ Download videos from web sites or just collect them in your video list without d
 
 截图和录屏2合1的工具，支持截取整个页面，快速分享屏幕。
 
+## EndNote Click-Formerly Kopernio
+
+Fast, one-click access to millions of research papers. 原Kopernio。
+
 ## Sci-Hub
 
 Sci-Hub extension for Chromium browsers
