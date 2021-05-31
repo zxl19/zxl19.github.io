@@ -9,7 +9,7 @@ toc: true
 pinned: false
 ---
 
-之前安装的Chrome浏览器扩展存档。
+之前安装的Chrome浏览器扩展存档（按照字母顺序排序）。
 
 <!-- more -->
 
