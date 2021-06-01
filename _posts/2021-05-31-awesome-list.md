@@ -23,9 +23,10 @@ The main repository serves as a curated list of awesome lists.
 
 搜索`awesome`+`关键词`即可，关于全部awesome list的汇总可见[sindresorhus/awesome](https://github.com/sindresorhus/awesome)。
 
-## C++
+## C++（包括CMake）
 
 1. [fffaraz/awesome-cpp#frameworks](https://github.com/fffaraz/awesome-cpp#frameworks)
+2. [onqtam/awesome-cmake](https://github.com/onqtam/awesome-cmake)
 
 ## SLAM相关
 
