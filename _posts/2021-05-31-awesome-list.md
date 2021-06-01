@@ -57,6 +57,10 @@ The main repository serves as a curated list of awesome lists.
 5. [XuyangBai/awesome-point-cloud-registration](https://github.com/XuyangBai/awesome-point-cloud-registration)
 6. [kxhit/awesome-point-cloud-place-recognition](https://github.com/kxhit/awesome-point-cloud-place-recognition)
 
+## 项目标签
+
+1. [a-maliarov/awesome-shields](https://github.com/a-maliarov/awesome-shields)
+
 ## 参考
 
 1. [Awesome Lists](https://github.com/topics/awesome)
