@@ -36,6 +36,7 @@ C++（包括CMake）学习资料存档。
 2. [《Cmake实践》](http://file.ncnynl.com/ros/CMake%20Practice.pdf)
 3. 《C++ Primer》
 4. 《Effective C++》
+5. [Google C++ Style Guide](https://google.github.io/styleguide/cppguide.html)
 
 ## 参考
 
