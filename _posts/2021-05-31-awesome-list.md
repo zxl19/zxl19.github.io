@@ -21,7 +21,11 @@ There are awesome lists about everything from CLI applications to fantasy books.
 The main repository serves as a curated list of awesome lists.
 ```
 
-[sindresorhus/awesome](https://github.com/sindresorhus/awesome)
+搜索`awesome`+`关键词`即可，关于全部awesome list的汇总可见[sindresorhus/awesome](https://github.com/sindresorhus/awesome)。
+
+## C++
+
+1. [fffaraz/awesome-cpp#frameworks](https://github.com/fffaraz/awesome-cpp#frameworks)
 
 ## SLAM相关
 
@@ -43,6 +47,15 @@ The main repository serves as a curated list of awesome lists.
 2. [DeepTecher/awesome-autonomous-vehicle](https://github.com/DeepTecher/awesome-autonomous-vehicle)
 3. [daohu527/awesome-self-driving-car](https://github.com/daohu527/awesome-self-driving-car)
 4. [kuzen/Awesome-Self-Driving](https://github.com/kuzen/Awesome-Self-Driving)
+
+### 点云处理
+
+1. [Yochengliu/awesome-point-cloud-analysis](https://github.com/Yochengliu/awesome-point-cloud-analysis)
+2. [mmolero/awesome-point-cloud-processing](https://github.com/mmolero/awesome-point-cloud-processing)
+3. [wsunid/awesome-point-clouds-registration](https://github.com/wsunid/awesome-point-clouds-registration)
+4. [LinZhuoChen/awesome-point-cloud-learning](https://github.com/LinZhuoChen/awesome-point-cloud-learning)
+5. [XuyangBai/awesome-point-cloud-registration](https://github.com/XuyangBai/awesome-point-cloud-registration)
+6. [kxhit/awesome-point-cloud-place-recognition](https://github.com/kxhit/awesome-point-cloud-place-recognition)
 
 ## 参考
 
