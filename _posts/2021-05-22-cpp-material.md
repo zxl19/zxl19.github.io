@@ -29,6 +29,13 @@ C++（包括CMake）学习资料存档。
 4. [TheAlgorithms/C-Plus-Plus](https://github.com/TheAlgorithms/C-Plus-Plus)
 5. [changkun/modern-cpp-tutorial](https://github.com/changkun/modern-cpp-tutorial)
 6. [wuye9036/CppTemplateTutorial](https://github.com/wuye9036/CppTemplateTutorial)
+7. [tangtangcoding/C-C-](https://github.com/tangtangcoding/C-C-)
+
+## 其他网站
+
+1. [Google C++ Style Guide](https://google.github.io/styleguide/cppguide.html)
+2. [cplusplus](http://www.cplusplus.com/)
+3. [cppreference](https://en.cppreference.com/w/)
 
 ## 书籍
 
@@ -36,7 +43,6 @@ C++（包括CMake）学习资料存档。
 2. [《Cmake实践》](http://file.ncnynl.com/ros/CMake%20Practice.pdf)
 3. 《C++ Primer》
 4. 《Effective C++》
-5. [Google C++ Style Guide](https://google.github.io/styleguide/cppguide.html)
 
 ## 参考
 
