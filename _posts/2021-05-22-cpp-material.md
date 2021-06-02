@@ -34,8 +34,9 @@ C++（包括CMake）学习资料存档。
 ## 其他网站
 
 1. [Google C++ Style Guide](https://google.github.io/styleguide/cppguide.html)
-2. [cplusplus](http://www.cplusplus.com/)
-3. [cppreference](https://en.cppreference.com/w/)
+2. [Google开源项目风格指南-C++](https://zh-google-styleguide.readthedocs.io/en/latest/google-cpp-styleguide/contents/)
+3. [cplusplus](http://www.cplusplus.com/)
+4. [cppreference](https://en.cppreference.com/w/)
 
 ## 书籍
 
