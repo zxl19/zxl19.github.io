@@ -3,7 +3,7 @@ layout: post
 title: MathType快捷键速查表
 date: 2020-07-08
 author: zxl19
-tags: [MathType, Cheatsheet, Blog]
+tags: [Cheatsheet, MathType, Blog]
 comments: true
 toc: true
 pinned: false

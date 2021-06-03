@@ -9,14 +9,14 @@ toc: true
 pinned: false
 ---
 
-SLAM面试题存档。
+SLAM方向面试题存档。
 
 <!-- more -->
 
 ## 公众号
 
 1. [【泡泡机器人成员原创-SLAM求职宝典】SLAM求职经验帖-泡泡机器人的文章-知乎](https://zhuanlan.zhihu.com/p/28565563)
-2. [干货总结丨SLAM 面试常见问题及参考解答-计算机视觉life的文章-知乎](https://zhuanlan.zhihu.com/p/66540565)
+2. [干货总结丨SLAM面试常见问题及参考解答-计算机视觉life的文章-知乎](https://zhuanlan.zhihu.com/p/66540565)
 3. [视觉SLAM面试题汇总（2019年秋招题库参考）——第一部分-深蓝学院的文章-知乎](https://zhuanlan.zhihu.com/p/205008396)
 4. [万字干货！视觉SLAM面试题汇总（19年秋招）——第二部分-深蓝学院的文章-知乎](https://zhuanlan.zhihu.com/p/212264860)
 

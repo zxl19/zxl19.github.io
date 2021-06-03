@@ -1,15 +1,15 @@
 ---
 layout: post
-title: SLAM相关Awesome List存档
+title: 优质Awesome List存档
 date: 2021-05-31
 author: zxl19
-tags: [GitHub, SLAM, Archive]
+tags: [GitHub, Archive]
 comments: true
 toc: true
 pinned: false
 ---
 
-SLAM相关Awesome List存档。
+GitHub上优质的Awesome List存档，主题涵盖C++（包括CMake）、SLAM等。
 
 <!-- more -->
 

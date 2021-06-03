@@ -9,7 +9,7 @@ toc: true
 pinned: false
 ---
 
-优质C++库存档。
+一些实用或者看起来很有意思的C++库存档。
 
 <!-- more -->
 

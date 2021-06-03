@@ -3,7 +3,7 @@ layout: post
 title: C++线性代数库Eigen的使用方法速查表
 date: 2020-12-25
 author: zxl19
-tags: [C++, Eigen, Cheatsheet, Blog]
+tags: [C++, Cheatsheet, Eigen, Blog]
 comments: true
 toc: true
 pinned: false
