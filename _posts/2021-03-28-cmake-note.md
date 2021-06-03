@@ -75,8 +75,9 @@ target_link_libraries(${PROJECT_NAME}
 cmake_minimum_required()
 project()
 
-set()
+# set()
 # add_subdirectory()
+# aux_source_directory( , )
 
 find_package( , )
 
@@ -91,12 +92,13 @@ target_link_libraries( , )
 ```
 
 1. 推荐使用`set()`进行编译选项的设置；
-2. 推荐使用`set()`将需要编译成库的`.cpp`文件名序列赋值给一个变量；
-3. `add_compile_options()`和`add_definitions()`针对所有编译器，应慎重使用；
-4. 纯头文件库只需`include_directories()`，例如：Eigen；
-5. 在`find_package()`之后已能正确找到对应库路径，[不建议](http://wiki.ros.org/catkin/CMakeLists.txt)再使用`link_directories()`;
-6. 自己定义的类和函数建议模块化，使用`add_library()`编译成静态库（推荐）；
-7. 当定义的target依赖的另一个target，确保在源码编译本target之前，其他的target已经被构建，使用`add_dependencies()`；
+2. 使用`add_subdirectory()`添加的子目录中需要存在`CMakeLists.txt`文件（内容可以为空）；
+3. 推荐使用`set()`或`aux_source_directory()`将需要编译成库的`.cpp`文件名序列赋值给一个变量；
+4. `add_compile_options()`和`add_definitions()`针对所有编译器，应慎重使用；
+5. 纯头文件库只需`include_directories()`，例如：Eigen；
+6. 在`find_package()`之后已能正确找到对应库路径，[不建议](http://wiki.ros.org/catkin/CMakeLists.txt)再使用`link_directories()`;
+7. 自己定义的类和函数建议模块化，使用`add_library()`编译成静态库（推荐）；
+8. 当定义的target依赖的另一个target，确保在源码编译本target之前，其他的target已经被构建，使用`add_dependencies()`；
 
 ## 参考
 
