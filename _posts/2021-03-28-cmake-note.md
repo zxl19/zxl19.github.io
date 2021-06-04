@@ -127,8 +127,9 @@ target_link_libraries()
 1. [CMake Reference Documentation](https://cmake.org/cmake/help/latest/index.html)
 2. [Modern CMake](http://cliutils.gitlab.io/modern-cmake/)
 3. [cmake-examples](https://github.com/ttroy50/cmake-examples)
-4. [CMake Practice](http://file.ncnynl.com/ros/CMake%20Practice.pdf)
-5. [BV17J411m7o1](https://www.bilibili.com/video/BV17J411m7o1)
+4. [Effective Modern CMake](https://gist.github.com/mbinna/c61dbb39bca0e4fb7d1f73b0d66a4fd1)
+5. [CMake Practice](http://file.ncnynl.com/ros/CMake%20Practice.pdf)
+6. [BV17J411m7o1](https://www.bilibili.com/video/BV17J411m7o1)
 
 ## 参考
 
