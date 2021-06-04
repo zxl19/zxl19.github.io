@@ -66,53 +66,80 @@ target_link_libraries(${PROJECT_NAME}
 
 ### ROS工程
 
-1. [ROS官方文档](http://wiki.ros.org/catkin/CMakeLists.txt)
-2. 参考[A-LOAM](https://github.com/HKUST-Aerial-Robotics/A-LOAM)、[LeGO-LOAM](https://github.com/RobustFieldAutonomyLab/LeGO-LOAM)、[LIO-SAM](https://github.com/TixiaoShan/LIO-SAM)、[LVI-SAM](https://github.com/TixiaoShan/LVI-SAM)等算法。
+1. 使用`catkin_create_pkg`命令新建功能包，会自动生成`CMakeLists.txt`文件，其中包含格式说明；
+2. [ROS官方文档](http://wiki.ros.org/catkin/CMakeLists.txt)
+3. 参考[A-LOAM](https://github.com/HKUST-Aerial-Robotics/A-LOAM)、[LeGO-LOAM](https://github.com/RobustFieldAutonomyLab/LeGO-LOAM)、[LIO-SAM](https://github.com/TixiaoShan/LIO-SAM)、[LVI-SAM](https://github.com/TixiaoShan/LVI-SAM)等算法；
+4. 参考[hdl_graph_slam](https://github.com/koide3/hdl_graph_slam)使用Nodelet；
 
 ## CMakeLists结构说明
+
+### 基本结构
 
 ```cmake
 cmake_minimum_required()
 project()
 
 # set()
+# message()
 # add_subdirectory()
-# aux_source_directory( , )
+# aux_source_directory()
 
-find_package( , )
+find_package()
 
 include_directories()
 # link_directories()
 
-# add_library( , )
+# add_library()
 
-add_executable( , )
-# add_dependencies( , )
-target_link_libraries( , )
+add_executable()
+# add_dependencies()
+target_link_libraries()
 ```
 
-1. 推荐使用`set()`进行编译选项的设置；
-2. 使用`add_subdirectory()`添加的子目录中需要存在`CMakeLists.txt`文件（内容可以为空）；
-3. 推荐使用`set()`或`aux_source_directory()`将需要编译成库的`.cpp`文件名序列赋值给一个变量；
-4. `add_compile_options()`和`add_definitions()`针对所有编译器，应慎重使用；
+### 结构说明
+
+1. 推荐使用`set()`进行编译选项的设置，注意追加和覆盖的区别；
+2. `add_compile_options()`和`add_definitions()`针对所有编译器，应慎重使用；
+3. 使用`add_subdirectory()`添加的子目录中需要存在`CMakeLists.txt`文件（内容可以为空）；
+4. 推荐使用`aux_source_directory()`或`set()`构建源文件列表；
 5. 纯头文件库只需`include_directories()`，例如：Eigen；
 6. 在`find_package()`之后已能正确找到对应库路径，[不建议](http://wiki.ros.org/catkin/CMakeLists.txt)再使用`link_directories()`;
 7. 自己定义的类和函数建议模块化，使用`add_library()`编译成静态库（推荐）；
-8. 当定义的target依赖的另一个target，确保在源码编译本target之前，其他的target已经被构建，使用`add_dependencies()`；
+8. 当定义的目标依赖另一个目标，确保在源码编译本目标之前，其他的目标已经被构建，使用`add_dependencies()`；
+
+### 常用变量
+
+| 变量名 | 含义 |
+| :------ | :------|
+| PROJECT_NAME | 工程名 |
+| CMAKE_BUILD_TYPE | 编译模式 |
+| CMAKE_CXX_FLAGS | 编译参数 |
+| CMAKE_CXX_FLAGS_DEBUG | Debug模式下的编译参数 |
+| CMAKE_CXX_FLAGS_RELEASE | Release模式下的编译参数 |
+| XXX_FOUND | XXX库是否找到 |
+| XXX_VERSION | XXX库版本 |
+| XXX_INCLUDE_DIRS | XXX库的头文件路径 |
+| XXX_LIBRARY_DIRS | XXX库的链接路径 |
+| XXX_LIBRARIES | XXX库的库名 |
+
+## 学习资源
+
+1. [CMake Reference Documentation](https://cmake.org/cmake/help/latest/index.html)
+2. [Modern CMake](http://cliutils.gitlab.io/modern-cmake/)
+3. [cmake-examples](https://github.com/ttroy50/cmake-examples)
+4. [CMake Practice](http://file.ncnynl.com/ros/CMake%20Practice.pdf)
+5. [BV17J411m7o1](https://www.bilibili.com/video/BV17J411m7o1)
 
 ## 参考
 
 1. [Ceres CMakeLists-CSDN博客](https://blog.csdn.net/sinat_28752257/article/details/82758546)
 2. [CMakeLists-简书](https://www.jianshu.com/p/95c744a5c6f1)
 3. [编译选项设置区别-CSDN博客](https://blog.csdn.net/10km/article/details/51731959)
-4. [CMake Reference Documentation](https://cmake.org/cmake/help/latest/index.html)
-5. [Modern CMake](http://cliutils.gitlab.io/modern-cmake/)
-6. [catkin/CMakeLists.txt](http://wiki.ros.org/catkin/CMakeLists.txt)
-7. [A-LOAM](https://github.com/HKUST-Aerial-Robotics/A-LOAM)
-8. [LeGO-LOAM](https://github.com/RobustFieldAutonomyLab/LeGO-LOAM)
-9. [LIO-SAM](https://github.com/TixiaoShan/LIO-SAM)
-10. [LVI-SAM](https://github.com/TixiaoShan/LVI-SAM)
+4. [catkin/CMakeLists.txt](http://wiki.ros.org/catkin/CMakeLists.txt)
+5. [A-LOAM](https://github.com/HKUST-Aerial-Robotics/A-LOAM)
+6. [LeGO-LOAM](https://github.com/RobustFieldAutonomyLab/LeGO-LOAM)
+7. [LIO-SAM](https://github.com/TixiaoShan/LIO-SAM)
+8. [LVI-SAM](https://github.com/TixiaoShan/LVI-SAM)
+9. [hdl_graph_slam](https://github.com/koide3/hdl_graph_slam)
+10. [变量-简书](https://www.jianshu.com/p/1827cd86d576)
 11. [CMake 如何入门？-0xCCCCCCCC的回答-知乎](https://www.zhihu.com/question/58949190/answer/999701073)
-12. [cmake-examples](https://github.com/ttroy50/cmake-examples)
-13. [BV17J411m7o1](https://www.bilibili.com/video/BV17J411m7o1)
-14. [CMake Practice](http://file.ncnynl.com/ros/CMake%20Practice.pdf)
