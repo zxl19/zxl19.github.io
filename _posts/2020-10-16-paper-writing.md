@@ -71,15 +71,14 @@ pinned: false
 1. 文章中提出的方法应做说明，效果好的方法应加粗显示；
 2. Word中使用`分布列`保证列宽相同；
 
-
 ## 语言
 
 1. 原则上少用被动语态，在主语未知、定语从句中或其它不可避免的情况下再使用；
 
 ## 审稿人意见回复
 
-1. 参考[知乎回答](https://www.zhihu.com/question/370758333)；
-2. 参考[BV1ix411o7qq](https://www.bilibili.com/video/BV1ix411o7qq)进行对线 \doge；
+1. 参考[知乎问题](https://www.zhihu.com/question/370758333)；
+2. 参考[B站视频](https://www.bilibili.com/video/BV1ix411o7qq)进行对线 \doge；
 
 ## 作者信息
 

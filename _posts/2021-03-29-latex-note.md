@@ -471,16 +471,17 @@ TODO：显示样式设置
 
 ## 参考
 
-1. 各个宏包的说明文档（TeXstudio中在对应命令上右键打开）。
-2. [\tab-Stack Exchange](https://tex.stackexchange.com/questions/198432/using-the-tab-command)
-3. [对号&错号-Stack Exchange](https://tex.stackexchange.com/questions/42619/x-mark-to-match-checkmark)
-4. [列表-CSDN博客](https://blog.csdn.net/HugoChen_cs/article/details/105189541)
-5. [公式-简书](https://www.jianshu.com/p/97ec8a3739f6)
-6. [图片1-CSDN博客](https://blog.csdn.net/qq_38526623/article/details/103737589)
-7. [图片2-CSDN博客](https://blog.csdn.net/LeonSUST/article/details/89332744)
-8. [\multirow-CSDN博客](https://blog.csdn.net/robert_chen1988/article/details/80861246)
-9. [超链接-CSDN博客](https://blog.csdn.net/OOFFrankDura/article/details/90600855)
-10. [脚注-LaTeX 工作室](https://www.latexstudio.net/archives/51620.html)
-11. [参考文献1-知乎](https://zhuanlan.zhihu.com/p/265479955)
-12. [参考文献2-知乎](https://zhuanlan.zhihu.com/p/114733612)
-13. [参考文献3-Stack Exchange](https://tex.stackexchange.com/questions/99615/backref-package-for-page-reference)
+1. 各个宏包的说明文档（TeXstudio中在对应命令上右键打开）
+2. [latex中文教程-15集从入门到精通包含各种latex操作-bilibili](https://www.bilibili.com/video/BV15x411j7k6)
+3. [\tab-Stack Exchange](https://tex.stackexchange.com/questions/198432/using-the-tab-command)
+4. [对号&错号-Stack Exchange](https://tex.stackexchange.com/questions/42619/x-mark-to-match-checkmark)
+5. [列表-CSDN博客](https://blog.csdn.net/HugoChen_cs/article/details/105189541)
+6. [公式-简书](https://www.jianshu.com/p/97ec8a3739f6)
+7. [图片1-CSDN博客](https://blog.csdn.net/qq_38526623/article/details/103737589)
+8. [图片2-CSDN博客](https://blog.csdn.net/LeonSUST/article/details/89332744)
+9. [\multirow-CSDN博客](https://blog.csdn.net/robert_chen1988/article/details/80861246)
+10. [超链接-CSDN博客](https://blog.csdn.net/OOFFrankDura/article/details/90600855)
+11. [脚注-LaTeX 工作室](https://www.latexstudio.net/archives/51620.html)
+12. [参考文献1-知乎](https://zhuanlan.zhihu.com/p/265479955)
+13. [参考文献2-知乎](https://zhuanlan.zhihu.com/p/114733612)
+14. [参考文献3-Stack Exchange](https://tex.stackexchange.com/questions/99615/backref-package-for-page-reference)
