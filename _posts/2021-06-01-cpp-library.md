@@ -17,6 +17,10 @@ pinned: false
 
 1. [microsoft/vcpkg](https://github.com/microsoft/vcpkg)
 
+## 基础库
+
+1. [facebook/folly](https://github.com/facebook/folly)
+
 ## 配置参数
 
 1. [nlohmann/json](https://github.com/nlohmann/json)
@@ -36,6 +40,7 @@ pinned: false
 ## 参考
 
 1. [fffaraz/awesome-cpp#frameworks](https://github.com/fffaraz/awesome-cpp#frameworks)
-2. [求问c++解析配置文件，解析命令输入的最佳实践，最好能给到相应的库？-exiledkingcc的回答-知乎](https://www.zhihu.com/question/433864615/answer/1636056172)
-3. [你工作中最推荐的C/C++程序库有哪些，为什么？-iiif的回答-知乎](https://www.zhihu.com/question/51134387/answer/571858930)
-4. [你工作中最推荐的C/C++程序库有哪些，为什么？-知乎用户的回答-知乎](https://www.zhihu.com/question/51134387/answer/386066052)
+2. [你读过的最好的C++开源代码是什么？-编程指北的回答-知乎](https://www.zhihu.com/question/21376384/answer/1925233838)
+3. [求问c++解析配置文件，解析命令输入的最佳实践，最好能给到相应的库？-exiledkingcc的回答-知乎](https://www.zhihu.com/question/433864615/answer/1636056172)
+4. [你工作中最推荐的C/C++程序库有哪些，为什么？-iiif的回答-知乎](https://www.zhihu.com/question/51134387/answer/571858930)
+5. [你工作中最推荐的C/C++程序库有哪些，为什么？-知乎用户的回答-知乎](https://www.zhihu.com/question/51134387/answer/386066052)
