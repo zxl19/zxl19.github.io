@@ -76,9 +76,10 @@ pinned: false
     \left\| \right\|
     ```
 
-4. 使用`\hfill`进行水平填充；
-5. 使用`\tab`插入`Tab`；
-6. 公式、图片、表格的引用标记要进行区分：
+4. 使用`\hfill`进行水平填充，同理，使用`\vfill`进行垂直填充；
+5. 使用`\hspace{}`插入水平间隔，同理，使用`\vspace{}`插入垂直间隔，大括号前添加`*`表示强制插入；
+6. 使用`\tab`插入`Tab`；
+7. 公式、图片、表格的引用标记要进行区分：
 
     ```latex
     \label{eq:XXX}  % 公式
@@ -86,14 +87,14 @@ pinned: false
     \label{tab:XXX} % 表格
     ```
 
-7. 插入对号、错号：
+8. 插入对号、错号：
 
     ```latex
     \ding{51} % 对号
     \ding{55} % 错号
     ```
 
-8. 使用`\today`插入当天日期；
+9. 使用`\today`插入当天日期；
 
 ## 列表
 
@@ -468,6 +469,7 @@ TODO：显示样式设置
 3. [PlotNeuralNet](https://github.com/HarisIqbal88/PlotNeuralNet)
 4. [resume-chinese](https://github.com/zheyuye/resume-chinese)
 5. [thuthesis](https://github.com/tuna/thuthesis)
+6. [Academic Title Page](https://www.latextemplates.com/template/academic-title-page)
 
 ## 参考
 

@@ -126,3 +126,4 @@ pinned: false
 1. [使用VS Code搭建轻量美观的C/C++开发环境-bilibili](https://www.bilibili.com/video/BV1sW411v7VZ)
 2. [MinGW-64](http://mingw-w64.org/doku.php)
 3. [MinGW-64安装-博客园](https://www.cnblogs.com/ggg-327931457/p/9694516.html)
+4. [Using C++ on Linux in VS Code](https://code.visualstudio.com/docs/cpp/config-linux)
