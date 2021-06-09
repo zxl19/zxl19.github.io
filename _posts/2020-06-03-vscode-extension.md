@@ -69,6 +69,10 @@ CMake扩展。
 
 集成Draw.io功能，绘制流程图。
 
+## GitHub Pull Requests and Issues
+
+为VS Code提供GitHub支持。
+
 ## GitLens——Git supercharged
 
 增强VS Code内置git的功能，例如对比修改、查看历史记录和显示代码作者。
