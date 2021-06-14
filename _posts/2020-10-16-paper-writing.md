@@ -92,3 +92,20 @@ pinned: false
     ```
 
 3. 通信作者邮箱加超链接；
+
+## 资料
+
+### 期刊目录
+
+1. [中国计算机学会推荐国际学术会议和期刊目录](https://www.ccf.org.cn/c/2019-04-25/663625.shtml)
+2. [汽车工程领域高质量科技期刊分级目录](http://m.sae-china.org/a4040.html)
+
+### 英文写作
+
+1. [正确写作美国大学生数学建模竞赛论文](https://github.com/RobbyDeng/MCM2019)
+2. [English Exposed](https://hkupress.hku.hk/pro/con/1612.pdf)
+
+## 参考
+
+1. [审稿意见怎么回复？需要注意什么？-知乎](https://www.zhihu.com/question/370758333)
+2. [英文论文写作有哪些需要注意的细节？-知乎](https://www.zhihu.com/question/46825717)
