@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 关于科研本身的相关资料
+title: 关于如何科研的相关资料
 date: 2021-06-14
 author: zxl19
 tags: [Academic, Archive]
@@ -9,7 +9,7 @@ toc: true
 pinned: false
 ---
 
-关于科研本身的相关资料。
+关于如何科研的相关资料。
 
 <!-- more -->
 

@@ -17,6 +17,7 @@ pinned: false
 
 1. [Ergonomic Checkpoint-IEA](https://iea.cc/wp-content/uploads/2014/10/Ergonomic-Checkpoints-in-Health-Care-Work.pdf)
 2. [Healthy Computing Guide-Microsoft](https://support.microsoft.com/en-us/topic/setting-up-your-desktop-e9f3fc2c-e6fa-d27f-78c4-274b3669c425)
+3. [精明用电脑-香港特区职业安全健康局](http://www.oshc.org.hk/tchi/main/hot/dse/index.html)
 
 ## 参考
 
