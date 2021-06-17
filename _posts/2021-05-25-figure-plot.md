@@ -29,8 +29,9 @@ pinned: false
 ## Python
 
 1. [rougier/matplotlib-cheatsheet](https://github.com/rougier/matplotlib-cheatsheet)
-2. [Matplotlib Gallery](https://matplotlib.org/stable/gallery/index.html)
-3. [Seaborn Example Gallery](https://seaborn.pydata.org/examples/index.html)
+2. [nschloe/tikzplotlib](https://github.com/nschloe/tikzplotlib)
+3. [Matplotlib Gallery](https://matplotlib.org/stable/gallery/index.html)
+4. [Seaborn Example Gallery](https://seaborn.pydata.org/examples/index.html)
 
 ## 参考
 
