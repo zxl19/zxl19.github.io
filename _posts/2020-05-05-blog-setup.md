@@ -37,7 +37,7 @@ pinned: false
 
 ## 常见问题
 
-### Github图片显示失败
+### GitHub图片显示失败
 
 修改hosts文件，具体参考[CSDN博客](https://blog.csdn.net/qq_38232598/article/details/91346392)进行解决。
 
@@ -49,13 +49,17 @@ pinned: false
 
 ### 另外一种简单的搭建教程
 
-不使用博客模板新建仓库，搭建简单的Github Page，参考[知乎回答](https://www.zhihu.com/question/20962496/answer/677815713)，可以搭建一个简单的个人主页，可以作为项目介绍页或者简历使用，美观性较差，也难以实现更加复杂的功能。
+不使用博客模板新建仓库，搭建简单的GitHub Page，参考[知乎回答](https://www.zhihu.com/question/20962496/answer/677815713)，可以搭建一个简单的个人主页，可以作为项目介绍页或者简历使用，美观性较差，也难以实现更加复杂的功能。
+
+### 博客模板更新同步
+
+由于博客仓库通过博客模板构建，在博客模板更新后无法通过Pull Request的方式进行同步。为实现对于博客模板更新的同步，可以保留`_posts`文件夹下的文件，将其他文件直接替换为更新后博客模板中的文件，在进行简单配置后即可完成同步更新。
 
 ## 参考
 
 1. [如何在GitHub上写博客？-少数派的回答-知乎](https://www.zhihu.com/question/20962496/answer/677815713)
 2. [Gitee码云pages+Jekyll主题搭建个人博客-bilibili](https://www.bilibili.com/video/BV1cJ411h7q3)
 3. [各种开源协议介绍-菜鸟教程](https://www.runoob.com/w3cnote/open-source-license.html)
-4. [【最新】解决Github网页上图片显示失败的问题-CSDN博客](https://blog.csdn.net/qq_38232598/article/details/91346392)
+4. [【最新】解决GitHub网页上图片显示失败的问题-CSDN博客](https://blog.csdn.net/qq_38232598/article/details/91346392)
 5. [几条经验美化你的GitHub开源项目-简书](https://www.jianshu.com/p/d587b91bacb3)
 6. [如何制作个人学术主页？-知乎](https://www.zhihu.com/question/281476526)

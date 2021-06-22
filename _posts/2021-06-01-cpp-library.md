@@ -30,10 +30,11 @@ pinned: false
 ## 调试分析
 
 1. [google/googletest](https://github.com/google/googletest)
-2. [google/glog](https://github.com/google/glog)
-3. [onqtam/doctest](https://github.com/onqtam/doctest)
-4. [gflags/gflags](https://github.com/gflags/gflags)
-5. [jonasmr/microprofile](https://github.com/jonasmr/microprofile)
+2. [google/benchmark](https://github.com/google/benchmark)
+3. [google/glog](https://github.com/google/glog)
+4. [onqtam/doctest](https://github.com/onqtam/doctest)
+5. [gflags/gflags](https://github.com/gflags/gflags)
+6. [jonasmr/microprofile](https://github.com/jonasmr/microprofile)
 
 ## 数据可视化
 

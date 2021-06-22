@@ -70,5 +70,5 @@ ubuntu-16.04.6-desktop-amd64.iso
 1. [Get Ubuntu](https://ubuntu.com/download)
 2. [Rufus](http://rufus.ie/)
 3. [GitHub代下载服务](http://g.widyun.com/)
-4. [Github镜像站](https://github.wuyanzheshui.workers.dev/)
+4. [GitHub镜像站](https://github.wuyanzheshui.workers.dev/)
 5. [清华大学开源软件镜像站](https://mirrors.tuna.tsinghua.edu.cn)
