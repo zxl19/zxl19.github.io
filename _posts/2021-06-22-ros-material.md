@@ -18,6 +18,11 @@ pinned: false
 1. [【古月居】古月·ROS入门21讲 | 一学就会的ROS机器人入门教程](https://www.bilibili.com/video/BV1zt411G7Vn)
 2. [机器人操作系统入门-中国大学MOOC](https://www.icourse163.org/course/ISCAS-1002580008)
 
+## GitHub
+
+1. [sychaichangkun/ROS-Academy-for-Beginners](https://github.com/sychaichangkun/ROS-Academy-for-Beginners)
+2. [kaixindelele/ros_demo_mooc](https://github.com/kaixindelele/ros_demo_mooc)
+
 ## 书籍
 
 1. 《ROS机器人开发实践》
