@@ -167,6 +167,10 @@ Download videos from web sites or just collect them in your video list without d
 
 Fast, one-click access to millions of research papers. 原Kopernio。
 
+## History Trends Unlimited
+
+Search and analyze your unlimited history. 提供高级搜索选项，可按照日期进行搜索，优于Chrome自带的历史记录功能。
+
 ## Sci-Hub
 
 Sci-Hub extension for Chromium browsers
