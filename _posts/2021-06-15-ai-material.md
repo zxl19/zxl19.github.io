@@ -20,7 +20,7 @@ pinned: false
 ## 书籍
 
 1. [神经网络与深度学习](https://nndl.github.io/)
-2. [Machine Learning Yearning](https://github.com/deeplearning-ai/machine-learning-yearning-cn)
+2. [Machine Learning Yearning](https://deeplearning-ai.github.io/machine-learning-yearning-cn/)
 3. [Neural Network and Deep Learning](http://neuralnetworksanddeeplearning.com/about.html)
 4. [Pattern Recognition and Machine Learning](http://users.isr.ist.utl.pt/~wurmd/Livros/school/Bishop%20-%20Pattern%20Recognition%20And%20Machine%20Learning%20-%20Springer%20%202006.pdf)
 5. [Foundations of Machine Learning](https://cs.nyu.edu/~mohri/mlbook/)

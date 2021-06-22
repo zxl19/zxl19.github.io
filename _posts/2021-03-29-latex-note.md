@@ -479,9 +479,9 @@ TODO
 
 1. [CS310-Assignment Template](https://www.overleaf.com/latex/templates/cs310-assignment-template/qrqpndrxpcht)
 2. [Cheatsheet](https://www.latextemplates.com/template/cheatsheet)
-3. [PlotNeuralNet](https://github.com/HarisIqbal88/PlotNeuralNet)
-4. [resume-chinese](https://github.com/zheyuye/resume-chinese)
-5. [thuthesis](https://github.com/tuna/thuthesis)
+3. [HarisIqbal88/PlotNeuralNet](https://github.com/HarisIqbal88/PlotNeuralNet)
+4. [zheyuye/resume-chinese](https://github.com/zheyuye/resume-chinese)
+5. [tuna/thuthesis](https://github.com/tuna/thuthesis)
 6. [Academic Title Page](https://www.latextemplates.com/template/academic-title-page)
 
 ## 参考
