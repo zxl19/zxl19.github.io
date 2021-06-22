@@ -124,12 +124,18 @@ target_link_libraries()
 
 ## 学习资源
 
+### 网站
+
 1. [CMake Reference Documentation](https://cmake.org/cmake/help/latest/index.html)
-2. [Modern CMake](http://cliutils.gitlab.io/modern-cmake/)
-3. [cmake-examples](https://github.com/ttroy50/cmake-examples)
-4. [Effective Modern CMake](https://gist.github.com/mbinna/c61dbb39bca0e4fb7d1f73b0d66a4fd1)
-5. [CMake Practice](http://file.ncnynl.com/ros/CMake%20Practice.pdf)
-6. [Cmake的应用与实践](https://www.bilibili.com/video/BV17J411m7o1)
+2. [ttroy50/cmake-examples](https://github.com/ttroy50/cmake-examples)
+3. [Effective Modern CMake](https://gist.github.com/mbinna/c61dbb39bca0e4fb7d1f73b0d66a4fd1)
+4. [Cmake的应用与实践](https://www.bilibili.com/video/BV17J411m7o1)
+
+### 书籍
+
+1. [Modern CMake](http://cliutils.gitlab.io/modern-cmake/)
+2. [Learning CMake](https://riptutorial.com/Download/cmake.pdf)
+3. [CMake Practice](http://file.ncnynl.com/ros/CMake%20Practice.pdf)
 
 ## 参考
 
@@ -137,10 +143,10 @@ target_link_libraries()
 2. [CMakeLists-简书](https://www.jianshu.com/p/95c744a5c6f1)
 3. [编译选项设置区别-CSDN博客](https://blog.csdn.net/10km/article/details/51731959)
 4. [catkin/CMakeLists.txt](http://wiki.ros.org/catkin/CMakeLists.txt)
-5. [A-LOAM](https://github.com/HKUST-Aerial-Robotics/A-LOAM)
-6. [LeGO-LOAM](https://github.com/RobustFieldAutonomyLab/LeGO-LOAM)
-7. [LIO-SAM](https://github.com/TixiaoShan/LIO-SAM)
-8. [LVI-SAM](https://github.com/TixiaoShan/LVI-SAM)
-9. [hdl_graph_slam](https://github.com/koide3/hdl_graph_slam)
+5. [HKUST-Aerial-Robotics/A-LOAM](https://github.com/HKUST-Aerial-Robotics/A-LOAM)
+6. [RobustFieldAutonomyLab/LeGO-LOAM](https://github.com/RobustFieldAutonomyLab/LeGO-LOAM)
+7. [TixiaoShan/LIO-SAM](https://github.com/TixiaoShan/LIO-SAM)
+8. [TixiaoShan/LVI-SAM](https://github.com/TixiaoShan/LVI-SAM)
+9. [koide3/hdl_graph_slam](https://github.com/koide3/hdl_graph_slam)
 10. [变量-简书](https://www.jianshu.com/p/1827cd86d576)
 11. [CMake 如何入门？-0xCCCCCCCC的回答-知乎](https://www.zhihu.com/question/58949190/answer/999701073)
