@@ -26,5 +26,5 @@ pinned: false
 ## 书籍
 
 1. 《ROS机器人开发实践》
-2. [《机器人操作系统入门》讲义](https://www.si.sjtu.edu.cn/upload/20181219/1545187008999389.pdf)
+2. [《机器人操作系统入门》讲义](https://sychaichangkun.gitbooks.io/ros-tutorial-icourse163/content/)
 3. [A Gentle Introduction to ROS](https://cse.sc.edu/~jokane/agitr/)

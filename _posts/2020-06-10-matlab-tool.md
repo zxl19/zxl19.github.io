@@ -49,4 +49,4 @@ pinned: false
 4. [MAP-LAB-Full](http://www.dimitriospiretzidis.com/maplab_home.html)
 5. [matlab2tikz/matlab2tikz](https://github.com/matlab2tikz/matlab2tikz)
 6. [alexbuczynsky/MATLAB-GPS-Calculations](https://github.com/alexbuczynsky/MATLAB-GPS-Calculations)
-7. [scottclowe/matlab-schemer](https://www.github.com/scottclowe/matlab-schemer)
+7. [scottclowe/matlab-schemer](https://github.com/scottclowe/matlab-schemer)

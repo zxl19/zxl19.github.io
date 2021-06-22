@@ -133,7 +133,7 @@ target_link_libraries()
 
 ### 书籍
 
-1. [Modern CMake](http://cliutils.gitlab.io/modern-cmake/)
+1. [Modern CMake](http://cliutils.gitlab.io/modern-cmake/modern-cmake.pdf)
 2. [Learning CMake](https://riptutorial.com/Download/cmake.pdf)
 3. [CMake Practice](http://file.ncnynl.com/ros/CMake%20Practice.pdf)
 
