@@ -16,7 +16,7 @@ url: https://zxl19.github.io
 # 添加你的博客的二级域名，一般来说是你的repository名
 # 如果你的博客的URL是：(http://yourusername.github.io/repository-name)
 # 那么就写成 "/repository-name"
-baseurl:
+baseurl: 
 
 
 #
@@ -48,7 +48,7 @@ paginate: 8
 excerpt_separator: <!-- more -->
 
 # 你的社交网络链接，它们会作为图标出现在你的网站页脚中，可选填写
-footer-links:
+footer-links: 
   weibo:  # 请输入你的微博个性域名 https://www.weibo.com/<thispart>
   behance: # https://www.behance.net/<>
   dribbble: # https://dribbble.com/<>
@@ -77,16 +77,16 @@ disqus: #shortname
 
 # 输入Gitalk相关设定，即可添加评论区，具体请看教程
 gitalk:
-  clientID:
-  clientSecret:
-  repo:
-  owner:
+  clientID: 
+  clientSecret: 
+  repo: 
+  owner: 
 
 # 输入Google Analytics web tracking code
 google_analytics:
 
 utteranc:
-  repo: # Your github repo path, also see: https://utteranc.es
+  repo: zxl19/zxl19.github.io # Your github repo path, also see: https://utteranc.es
 
 #
 # !! 以下所有设置都不需要更改 !!
