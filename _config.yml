@@ -16,7 +16,7 @@ url: https://zxl19.github.io
 # 添加你的博客的二级域名，一般来说是你的repository名
 # 如果你的博客的URL是：(http://yourusername.github.io/repository-name)
 # 那么就写成 "/repository-name"
-baseurl: 
+baseurl:
 
 
 #
@@ -24,10 +24,10 @@ baseurl:
 #
 
 # 你的博客logo图片URL，建议尺寸不超过300px × 300px
-avatar: https://raw.githubusercontent.com/FromEndWorld/LOFFER/master/images/avatar.png
+avatar: https://raw.githubusercontent.com/zxl19/zxl19.github.io/master/images/avatar.png
 
 # 你的favicon（出现在浏览器tab上）图片URL，建议使用较小(64px × 64px)的图片
-favicon: https://raw.githubusercontent.com/FromEndWorld/LOFFER/master/images/icon.png
+favicon: https://raw.githubusercontent.com/zxl19/zxl19.github.io/master/images/icon.png
 
 
 # 菜单中的按钮
@@ -48,7 +48,7 @@ paginate: 8
 excerpt_separator: <!-- more -->
 
 # 你的社交网络链接，它们会作为图标出现在你的网站页脚中，可选填写
-footer-links: 
+footer-links:
   weibo:  # 请输入你的微博个性域名 https://www.weibo.com/<thispart>
   behance: # https://www.behance.net/<>
   dribbble: # https://dribbble.com/<>
@@ -77,10 +77,10 @@ disqus: #shortname
 
 # 输入Gitalk相关设定，即可添加评论区，具体请看教程
 gitalk:
-  clientID: 
-  clientSecret: 
-  repo: 
-  owner: 
+  clientID:
+  clientSecret:
+  repo:
+  owner:
 
 # 输入Google Analytics web tracking code
 google_analytics:
