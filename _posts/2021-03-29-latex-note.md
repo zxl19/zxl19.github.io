@@ -462,15 +462,16 @@ TODO
 
 ### 提升输入效率
 
-1. [常用数学符号的 LaTeX 表示方法](https://mohu.org/info/symbols/symbols.htm)
+1. [常用数学符号的LaTeX表示方法](https://mohu.org/info/symbols/symbols.htm)
 2. [Detexify](http://detexify.kirelabs.org/classify.html)
 3. [公式王](https://gongshi.wang/)
 4. [Tables Generator](https://www.tablesgenerator.com/)
 5. [wch/latexsheet](https://github.com/wch/latexsheet)
+6. [LaTeX在线：吴文中数学公式编辑器](https://latex.91maths.com/)
 
 ### 模板和学习资源
 
-1. [LaTeX 工作室](https://www.latexstudio.net/)
+1. [LaTeX工作室](https://www.latexstudio.net/)
 2. [Overleaf Templates](https://www.overleaf.com/latex/templates)
 3. [LaTeX Templates](https://www.latextemplates.com)
 4. [MOON](https://www.moonpapers.com/)
