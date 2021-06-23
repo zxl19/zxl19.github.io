@@ -484,6 +484,11 @@ TODO
 5. [tuna/thuthesis](https://github.com/tuna/thuthesis)
 6. [Academic Title Page](https://www.latextemplates.com/template/academic-title-page)
 
+### 有趣模板
+
+1. [Keldos-Li/typora-latex-theme](https://github.com/Keldos-Li/typora-latex-theme)
+2. [MattX/texword](https://github.com/MattX/texword)
+
 ## 参考
 
 1. 各个宏包的说明文档（TeXstudio中在对应命令上右键打开）
