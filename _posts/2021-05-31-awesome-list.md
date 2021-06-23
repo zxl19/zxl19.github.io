@@ -62,6 +62,10 @@ The main repository serves as a curated list of awesome lists.
 
 1. [a-maliarov/awesome-shields](https://github.com/a-maliarov/awesome-shields)
 
+## 科学计算与数值分析
+
+1. [nschloe/awesome-scientific-computing](https://github.com/nschloe/awesome-scientific-computing)
+
 ## 参考
 
 1. [Awesome Lists](https://github.com/topics/awesome)
