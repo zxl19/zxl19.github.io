@@ -485,6 +485,13 @@ TODO
 5. [tuna/thuthesis](https://github.com/tuna/thuthesis)
 6. [Academic Title Page](https://www.latextemplates.com/template/academic-title-page)
 
+### 学校beamer模板
+
+1. [清华大学中文Beamer模板](https://www.overleaf.com/latex/templates/qing-hua-da-xue-zhong-wen-beamer-mo-ban/djcnhxpwhrks)
+2. [Trinkle23897/THU-Beamer-Theme](https://github.com/Trinkle23897/THU-Beamer-Theme)
+3. [fuujiro/DLUT-Beamer-Slide-V2](https://github.com/fuujiro/DLUT-Beamer-Slide-V2)
+4. [fuujiro/DLUT-Beamer-Slide-V1](https://github.com/fuujiro/DLUT-Beamer-Slide-V1)
+
 ### 有趣模板
 
 1. [Keldos-Li/typora-latex-theme](https://github.com/Keldos-Li/typora-latex-theme)
