@@ -30,6 +30,7 @@ C++（包括CMake）学习资料存档。
 5. [changkun/modern-cpp-tutorial](https://github.com/changkun/modern-cpp-tutorial)
 6. [wuye9036/CppTemplateTutorial](https://github.com/wuye9036/CppTemplateTutorial)
 7. [tangtangcoding/C-C-](https://github.com/tangtangcoding/C-C-)
+8. [TheLartians/ModernCppStarter](https://github.com/TheLartians/ModernCppStarter)
 
 ## 其他网站
 
@@ -51,3 +52,4 @@ C++（包括CMake）学习资料存档。
 1. [CMake如何入门？-0xCCCCCCCC的回答-知乎](https://www.zhihu.com/question/58949190/answer/999701073)
 2. [如何塑造一个拿的出手的 GitHub 账号？-GitHubPorn的回答-知乎](https://www.zhihu.com/question/47567490/answer/1866897272)
 3. [学习C++，应该循序渐进的看哪些书？-嘉炜的回答-知乎](https://www.zhihu.com/question/20410487/answer/15055637)
+4. [有什么高质量的现代C++风格的开源代码?-知乎用户的回答-知乎](https://www.zhihu.com/question/23153437/answer/1962068242)
