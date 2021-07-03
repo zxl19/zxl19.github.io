@@ -32,8 +32,10 @@ The main repository serves as a curated list of awesome lists.
 
 ### 机器人学
 
-1. [protontypes/awesome-robotic-tooling](https://github.com/protontypes/awesome-robotic-tooling)
-2. [jslee02/awesome-robotics-libraries](https://github.com/jslee02/awesome-robotics-libraries)
+1. [kiloreux/awesome-robotics](https://github.com/kiloreux/awesome-robotics)
+2. [protontypes/awesome-robotic-tooling](https://github.com/protontypes/awesome-robotic-tooling)
+3. [jslee02/awesome-robotics-libraries](https://github.com/jslee02/awesome-robotics-libraries)
+4. [mdrwiega/awesome-robotics](https://github.com/mdrwiega/awesome-robotics)
 
 ### SLAM
 
