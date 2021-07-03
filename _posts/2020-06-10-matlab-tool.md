@@ -33,13 +33,17 @@ pinned: false
 
 将MATLAB图形转化为tikz命令。
 
-## MATLAB GPS Calculations
+## MATLAB-GPS-Calculations
 
 处理墨卡托投影，GPS与UTM坐标之间的互换。
 
-## Matlab Graph Optimization
+## Matlab-Graph-Optimization
 
 利用MATLAB进行因子图优化。
+
+## MATLABRobotics
+
+利用MATLAB实现的机器人学常用算法。
 
 ## MATLAB Schemer
 
@@ -58,5 +62,6 @@ pinned: false
 5. [matlab2tikz/matlab2tikz](https://github.com/matlab2tikz/matlab2tikz)
 6. [alexbuczynsky/MATLAB-GPS-Calculations](https://github.com/alexbuczynsky/MATLAB-GPS-Calculations)
 7. [UTS-CAS/Matlab-Graph-Optimization](https://github.com/UTS-CAS/Matlab-Graph-Optimization)
-8. [scottclowe/matlab-schemer](https://github.com/scottclowe/matlab-schemer)
-9. [petercorke/robotics-toolbox-matlab](https://github.com/petercorke/robotics-toolbox-matlab)
+8. [AtsushiSakai/MATLABRobotics](https://github.com/AtsushiSakai/MATLABRobotics)
+9. [scottclowe/matlab-schemer](https://github.com/scottclowe/matlab-schemer)
+10. [petercorke/robotics-toolbox-matlab](https://github.com/petercorke/robotics-toolbox-matlab)

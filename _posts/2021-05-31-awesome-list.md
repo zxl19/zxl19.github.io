@@ -63,6 +63,7 @@ The main repository serves as a curated list of awesome lists.
 ### 计算机视觉
 
 1. [jbhuang0604/awesome-computer-vision](https://github.com/jbhuang0604/awesome-computer-vision)
+2. [chrieke/awesome-satellite-imagery-datasets](https://github.com/chrieke/awesome-satellite-imagery-datasets)
 
 ## 项目标签
 
