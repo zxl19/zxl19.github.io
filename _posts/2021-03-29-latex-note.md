@@ -468,6 +468,7 @@ TODO
 4. [Tables Generator](https://www.tablesgenerator.com/)
 5. [wch/latexsheet](https://github.com/wch/latexsheet)
 6. [LaTeX在线：吴文中数学公式编辑器](https://latex.91maths.com/)
+7. [blaisewang/img2latex-mathpix](https://github.com/blaisewang/img2latex-mathpix)
 
 ### 模板和学习资源
 
