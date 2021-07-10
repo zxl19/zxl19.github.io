@@ -265,7 +265,7 @@ $公式内容$
     \label{tab:1}
     \begin{tabular}{ccc} % 指定每列的对齐方式，个数对应列数
         \hline
-        方法 & APE [m] & RPE [%]\\
+        方法 & APE [m] & RPE [\%]\\
         \hline
         方法1 & 0.10 & 0.20 \\
         方法2 & 0.05 & 0.15 \\
