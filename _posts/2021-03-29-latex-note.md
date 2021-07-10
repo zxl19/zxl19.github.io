@@ -66,6 +66,7 @@ pinned: false
     - argmin使用`\mathop{\arg\min}\limits_{}`，argmax同理；
     - 小空格用`\quad`，大空格用`\qquad`；
     - 分式尽量使用`\dfrac{}{}`，若显示有问题再使用`\frac{}{}`；
+    - 度数使用`^{\circ}`；
 
 3. 括号大小自动调整；
 
