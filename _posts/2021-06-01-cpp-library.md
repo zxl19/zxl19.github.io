@@ -43,6 +43,7 @@ pinned: false
 ## 数据可视化
 
 1. [lava/matplotlib-cpp](https://github.com/lava/matplotlib-cpp)
+2. [sciplot/sciplot](https://github.com/sciplot/sciplot)
 
 ## 参考
 
