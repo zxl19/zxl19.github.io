@@ -31,6 +31,7 @@ C++（包括CMake）学习资料存档。
 6. [wuye9036/CppTemplateTutorial](https://github.com/wuye9036/CppTemplateTutorial)
 7. [tangtangcoding/C-C-](https://github.com/tangtangcoding/C-C-)
 8. [TheLartians/ModernCppStarter](https://github.com/TheLartians/ModernCppStarter)
+9. [0voice/cpp_new_features](https://github.com/0voice/cpp_new_features)
 
 ## 其他网站
 
