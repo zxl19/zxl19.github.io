@@ -104,6 +104,7 @@ pinned: false
 
 1. [正确写作美国大学生数学建模竞赛论文](https://github.com/RobbyDeng/MCM2019)
 2. [English Exposed](https://hkupress.hku.hk/pro/con/1612.pdf)
+3. [Academic Phrasebank](https://www.phrasebank.manchester.ac.uk/)
 
 ## 参考
 
