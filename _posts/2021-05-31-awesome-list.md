@@ -73,6 +73,10 @@ The main repository serves as a curated list of awesome lists.
 
 1. [nschloe/awesome-scientific-computing](https://github.com/nschloe/awesome-scientific-computing)
 
+## 数据标注
+
+1. [heartexlabs/awesome-data-labeling](https://github.com/heartexlabs/awesome-data-labeling)
+
 ## 参考
 
 1. [Awesome Lists](https://github.com/topics/awesome)
