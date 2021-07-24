@@ -25,13 +25,14 @@ C++（包括CMake）学习资料存档。
 
 1. [mortennobel/cpp-cheatsheet](https://github.com/mortennobel/cpp-cheatsheet)
 2. [ttroy50/cmake-examples](https://github.com/ttroy50/cmake-examples)
-3. [Light-City/CPlusPlusThings](https://github.com/Light-City/CPlusPlusThings)
-4. [TheAlgorithms/C-Plus-Plus](https://github.com/TheAlgorithms/C-Plus-Plus)
-5. [changkun/modern-cpp-tutorial](https://github.com/changkun/modern-cpp-tutorial)
-6. [wuye9036/CppTemplateTutorial](https://github.com/wuye9036/CppTemplateTutorial)
-7. [tangtangcoding/C-C-](https://github.com/tangtangcoding/C-C-)
-8. [TheLartians/ModernCppStarter](https://github.com/TheLartians/ModernCppStarter)
-9. [0voice/cpp_new_features](https://github.com/0voice/cpp_new_features)
+3. [isocpp/CppCoreGuidelines](https://github.com/isocpp/CppCoreGuidelines)
+4. [Light-City/CPlusPlusThings](https://github.com/Light-City/CPlusPlusThings)
+5. [TheAlgorithms/C-Plus-Plus](https://github.com/TheAlgorithms/C-Plus-Plus)
+6. [changkun/modern-cpp-tutorial](https://github.com/changkun/modern-cpp-tutorial)
+7. [wuye9036/CppTemplateTutorial](https://github.com/wuye9036/CppTemplateTutorial)
+8. [tangtangcoding/C-C-](https://github.com/tangtangcoding/C-C-)
+9. [TheLartians/ModernCppStarter](https://github.com/TheLartians/ModernCppStarter)
+10. [0voice/cpp_new_features](https://github.com/0voice/cpp_new_features)
 
 ## 其他网站
 
