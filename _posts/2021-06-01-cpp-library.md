@@ -45,6 +45,13 @@ pinned: false
 1. [lava/matplotlib-cpp](https://github.com/lava/matplotlib-cpp)
 2. [sciplot/sciplot](https://github.com/sciplot/sciplot)
 
+## 机器学习&深度学习
+
+1. [BVLC/caffe](https://github.com/BVLC/caffe)
+2. [flashlight/flashlight](https://github.com/flashlight/flashlight)
+3. [mlpack/mlpack](https://github.com/mlpack/mlpack)
+4. [arrayfire/arrayfire-ml](https://github.com/arrayfire/arrayfire-ml)
+
 ## 参考
 
 1. [fffaraz/awesome-cpp#frameworks](https://github.com/fffaraz/awesome-cpp#frameworks)
