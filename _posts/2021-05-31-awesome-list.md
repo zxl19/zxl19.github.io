@@ -27,6 +27,7 @@ The main repository serves as a curated list of awesome lists.
 
 1. [fffaraz/awesome-cpp#frameworks](https://github.com/fffaraz/awesome-cpp#frameworks)
 2. [onqtam/awesome-cmake](https://github.com/onqtam/awesome-cmake)
+3. [p-ranav/awesome-hpp](https://github.com/p-ranav/awesome-hpp)
 
 ## SLAM相关
 
