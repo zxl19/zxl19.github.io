@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 关于专利信息查询
+title: 关于专利信息
 date: 2021-08-03
 author: zxl19
 tags: [Patent, Note]
@@ -9,7 +9,7 @@ toc: true
 pinned: false
 ---
 
-关于专利信息查询，包括查询方式和编号含义。
+关于专利信息，包括查询方式和编号含义。
 
 <!-- more -->
 
