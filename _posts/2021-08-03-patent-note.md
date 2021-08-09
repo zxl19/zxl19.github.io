@@ -28,3 +28,4 @@ pinned: false
 
 1. [查询中国专利的所有方法有哪些？-克里斯托弗懒的回答-知乎](https://www.zhihu.com/question/59967051/answer/171040466)
 2. [请问专利号和专利申请号有什么区别？是不是一回事？-Litecarve专利的回答-知乎](https://www.zhihu.com/question/66035671/answer/362167295)
+3. [一张图能使你秒懂专利申请审批流程-中策的文章-知乎](https://zhuanlan.zhihu.com/p/34993167)
