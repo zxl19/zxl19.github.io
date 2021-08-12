@@ -33,13 +33,15 @@ Website may be down.
 
     不影响大部分情况下的使用，但是会影响后续一些ROS功能包的安装。
 
-2. 电脑连接手机热点重试。
+2. 电脑连接手机热点重试
 
     可能无效。
 
-3. 修改hosts文件。
+3. 修改hosts文件
 
-    将`199.232.28.133 raw.githubusercontent.com`添加到自己电脑的hosts文件里面，文件路径为`/etc/hosts`
+    将`199.232.28.133 raw.githubusercontent.com`添加到自己电脑的hosts文件里面，文件路径为`/etc/hosts`。
+
+4. 科学上网
 
 ## 参考
 
