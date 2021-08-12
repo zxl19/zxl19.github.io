@@ -30,17 +30,17 @@ pinned: false
 ### 联想
 
 1. `F2`->`Security`->`Secure Boot`->`Disabled`
-2. `F12`->`USB Disk`->`Install Ubuntu`
+2. `F12`->`USB Boot Disk`->`Install Ubuntu`
 
 ### 戴尔
 
 1. `F12`->`BIOS Setup`->`Secure Boot`->`OFF`
 2. `F12`->`BIOS Setup`->`System Configuration`->`SATA Operation`->`AHCI`
-3. `F12`->`USB Disk`->`Install Ubuntu`
+3. `F12`->`USB Boot Disk`->`Install Ubuntu`
 
 ## 安装
 
-1. 安装时不联网、不下载更新；
+1. 安装时不联网、不下载更新，正常安装；
 2. 清除整个磁盘安装系统，如果不要求分区可以直接使用；
 3. 如果需要硬盘分区，重新安装系统并设置硬盘分区方案，以下是一种分区方案：
 
@@ -48,12 +48,12 @@ pinned: false
 
     分区方案：将系统安装在固态硬盘中，将机械硬盘全部划分给`/home`
 
-    | 目录 | 大小 | 格式 | 类型 |
-    | :------ | :------ | :------ | :------ |
-    | EFI | 1GB | ext4 | 逻辑分区 |
-    | swap | 16GB| swap | 逻辑分区 |
-    | / | 剩余固态硬盘 | ext4 | 主分区 |
-    | /home | 全部机械硬盘 | ext4 | 逻辑分区 |
+    | 分区 | 大小 | 类型 | 位置 | 格式 |
+    | :------ | :------ | :------ | :------ | :------ |
+    | EFI | 1GB | 逻辑分区 | 空间起始位置 | EFI系统分区 |
+    | swap | 16GB| 逻辑分区 | 空间起始位置 | 交换空间 |
+    | / | 剩余固态硬盘 | 主分区 | 空间起始位置 | Ext4日志文件系统 |
+    | /home | 全部机械硬盘 | 逻辑分区 | 空间起始位置 | Ext4日志文件系统 |
 
 ## 安装后设置
 
@@ -96,6 +96,27 @@ pinned: false
 5. 使用`clean`命令清除磁盘空间；
 6. 在磁盘管理中选择对应磁盘，右键选择`新建简单卷`，新建分卷并格式化；
 
+### 重装系统后旧系统配置文件未删除
+
+下面的操作可以删除旧系统的配置文件，但是可能会同时删除`~/.bashrc`文件，导致命令行字体无颜色显示等一系列问题，目前仍在寻找更好的解决方案。
+
+1. 使用`Ctrl`+`H`查看隐藏文件和文件夹；
+2. 删除主目录下的隐藏文件和文件夹并重装系统；
+
+### 重装系统后无`~/.bashrc`文件
+
+1. 复制系统中的备份文件；
+
+```shell
+cp  /etc/skel/.bashrc   ~/
+```
+
+2. 读取配置文件，使更改生效；
+
+```shell
+source ~/.bashrc
+```
+
 ## 参考
 
 1. [Ubuntu downloads](https://ubuntu.com/download)
@@ -105,3 +126,5 @@ pinned: false
 5. [GitHub镜像站](https://github.wuyanzheshui.workers.dev/)
 6. [清华大学开源软件镜像站](https://mirrors.tuna.tsinghua.edu.cn)
 7. [如何解决U盘装系统后磁盘总容量变小？-百度经验](https://jingyan.baidu.com/article/59703552e754e48fc00740ed.html)
+8. [重装Ubuntu时如何保留/home分区中的数据-博客园](https://www.cnblogs.com/maowang1991/p/3270441.html)
+9. [Ubuntu下~/.bashrc文件的恢复方法](https://blog.csdn.net/yucicheung/article/details/79334998)
