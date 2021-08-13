@@ -9,7 +9,7 @@ toc: true
 pinned: false
 ---
 
-在安装代理工具后，在Ubuntu 18.04中使用proxychains4工具在命令行中使用代理。
+在安装代理工具后，在Ubuntu 18.04中使用`proxychains4`工具在命令行中使用代理。
 
 <!-- more -->
 
@@ -36,8 +36,8 @@ sudo gedit /etc/proxychains4.conf
 2. 在配置文件最后进行设置；
 
 ```text
-# socks4 127.0.0.1 9050
-socks5 127.0.0.1 1080
+# socks4 127.0.0.1 9050 # 注释掉原内容
+socks5 127.0.0.1 1080   # 代理使用的端口
 ```
 
 ## 使用
