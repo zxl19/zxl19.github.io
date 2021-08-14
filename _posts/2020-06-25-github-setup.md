@@ -38,7 +38,7 @@ pinned: false
 
 3. 保存SSH key
 
-    复制`~/.ssh/id_rsa.pub`中的内容，在GitHub中`Setting`->`SSH and GPG keys`中添加新的SSH key。
+    复制`~/.ssh/id_rsa.pub`中的内容，在GitHub中`Setting`->`SSH and GPG keys`->`New SSH key`添加新的SSH key。
 
 4. 完成通信设置
 
