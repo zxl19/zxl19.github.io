@@ -15,13 +15,17 @@ pinned: false
 
 ## 相机选择
 
+```text
+最重要的是镜头后面的那个头。
+```
+
 ### 单反与微单
 
 相机的基本分类和区别，主要参考[Linksphotograph](https://space.bilibili.com/3816626/)和[彭弘Red](https://space.bilibili.com/55801838/)的视频。
 
 ### 品牌选择
 
-各品牌相机优劣及适合任务，主要参考[TESTV官方频道](https://space.bilibili.com/11336264)和[-LKs-](https://space.bilibili.com/125526)的视频。
+各品牌相机的特点及适合的任务，主要参考[TESTV官方频道](https://space.bilibili.com/11336264)和[-LKs-](https://space.bilibili.com/125526)的测评视频。
 
 ### 富士相机
 
