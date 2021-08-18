@@ -21,7 +21,7 @@ pinned: false
 \usepackage{graphicx}       % 插入图片
 \usepackage{listings}       % 插入代码块
 
-\usepackage{hyperref}       % 插入超链接
+\usepackage{hyperref}       % 插入超链接，官方文档建议在最后调用
 \usepackage[backref]{hyperref}      % 章节引回
 \usepackage[pagebackref]{hyperref}  % 页码引回
 \hypersetup{                % 超链接样式设置
