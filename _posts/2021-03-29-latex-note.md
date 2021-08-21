@@ -25,7 +25,7 @@ pinned: false
 \usepackage[backref]{hyperref}      % 章节引回
 \usepackage[pagebackref]{hyperref}  % 页码引回
 \hypersetup{                % 超链接样式设置
-    colorlinks=true,
+    colorlinks=false,
     linkcolor=blue,
     linkbordercolor={0 0 1}
 }
