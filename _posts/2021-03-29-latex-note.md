@@ -52,6 +52,8 @@ pinned: false
 \usepackage{pifont}         % 添加对号、错号
 \newcommand{\cmark}{\ding{51}}  % 对号
 \newcommand{\xmark}{\ding{55}}  % 错号
+
+\usepackage[square,super]{natbib}   % 调整参考文献样式：方括号、右上角
 ```
 
 ## 格式约定
@@ -309,13 +311,62 @@ TODO
 
 ## 代码块
 
+### 插入代码块
+
 ```latex
-\begin{lstlisting}
-    代码段
+\begin{lstlisting}[language = 语言]
+代码段
 \end{lstlisting}
 ```
 
-TODO：显示样式设置
+### 设置显示样式
+
+```latex
+\definecolor{codegreen}{rgb}{0,0.6,0}
+\definecolor{codegray}{rgb}{0.5,0.5,0.5}
+\definecolor{codepurple}{rgb}{0.58,0,0.82}
+\definecolor{backcolour}{rgb}{0.95,0.95,0.92}
+
+\lstdefinestyle{mystyle}{
+    backgroundcolor=\color{backcolour},
+    commentstyle=\color{codegreen},
+    keywordstyle=\color{blue}\bfseries,
+    numberstyle=\tiny\color{codegray},
+    stringstyle=\color{codepurple},
+    basicstyle=\ttfamily\footnotesize,
+    breakatwhitespace=false,
+    breaklines=true,
+    captionpos=b,
+    keepspaces=true,
+    numbers=left,
+    numbersep=5pt,
+    showspaces=false,
+    showstringspaces=false,
+    showtabs=false,
+    tabsize=4,
+    frame=shadowbox,
+    framerule=0.5pt,
+    otherkeywords={string}
+}
+```
+
+### 使用显示样式
+
+示例：
+
+```latex
+\lstset{style=mystyle}
+\begin{lstlisting}[language=C++]
+#include <iostream>
+using namespace std;
+
+int main()
+{
+    cout << "Hello, World!";
+    return 0;
+}
+\end{lstlisting}
+```
 
 ## 脚注
 
@@ -477,6 +528,7 @@ TODO
 2. [Overleaf Templates](https://www.overleaf.com/latex/templates)
 3. [LaTeX Templates](https://www.latextemplates.com)
 4. [MOON](https://www.moonpapers.com/)
+5. [Overleaf Documentation](https://www.overleaf.com/learn)
 
 ### 优质模板
 
@@ -513,7 +565,11 @@ TODO
 10. [图片2-CSDN博客](https://blog.csdn.net/LeonSUST/article/details/89332744)
 11. [\multirow-CSDN博客](https://blog.csdn.net/robert_chen1988/article/details/80861246)
 12. [超链接-CSDN博客](https://blog.csdn.net/OOFFrankDura/article/details/90600855)
-13. [脚注-LaTeX 工作室](https://www.latexstudio.net/archives/51620.html)
-14. [参考文献1-知乎](https://zhuanlan.zhihu.com/p/265479955)
-15. [参考文献2-知乎](https://zhuanlan.zhihu.com/p/114733612)
-16. [参考文献3-Stack Exchange](https://tex.stackexchange.com/questions/99615/backref-package-for-page-reference)
+13. [代码块1-Overleaf](https://www.overleaf.com/learn/latex/Code_listing)
+14. [代码块2-CSDN博客](https://blog.csdn.net/RobertChenGuangzhi/article/details/45126785)
+15. [脚注-LaTeX 工作室](https://www.latexstudio.net/archives/51620.html)
+16. [参考文献1-知乎](https://zhuanlan.zhihu.com/p/265479955)
+17. [参考文献2-知乎](https://zhuanlan.zhihu.com/p/114733612)
+18. [参考文献3-Stack Exchange](https://tex.stackexchange.com/questions/99615/backref-package-for-page-reference)
+19. [参考文献4-CSDN博客](https://blog.csdn.net/xovee/article/details/109715706)
+20. [参考文献5-CSDN博客](https://blog.csdn.net/xovee/article/details/109896563)
