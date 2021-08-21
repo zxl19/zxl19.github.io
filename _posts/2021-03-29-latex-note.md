@@ -307,7 +307,26 @@ $公式内容$
 
 ## 伪代码
 
-TODO
+```latex
+\begin{algorithm}[htbp]
+    \caption{Title} % 伪代码标题
+    \label{alg:1}
+    \begin{algorithmic}[1]
+    \If{condition}
+    \State statement
+    \ElsIf{condition}
+    \State statement
+    \ForAll{condition}
+    \If{condition}
+    \State statement
+    \EndIf
+    \EndFor
+    \State statement
+    \EndIf
+    \State \Return return value
+    \end{algorithmic}
+\end{algorithm}
+```
 
 ## 代码块
 
