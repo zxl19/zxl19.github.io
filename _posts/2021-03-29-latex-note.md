@@ -330,13 +330,15 @@ $公式内容$
 
 ## 代码块
 
-### 插入代码块
+### 常用语言支持
 
-```latex
-\begin{lstlisting}[language = 语言]
-代码段
-\end{lstlisting}
-```
+1. bash
+2. C
+3. C++
+4. Matlab
+5. Octave
+6. Python
+7. TeX
 
 ### 设置显示样式
 
@@ -369,7 +371,16 @@ $公式内容$
 }
 ```
 
-### 使用显示样式
+### 插入代码块
+
+#### 直接插入
+
+```latex
+\lstset{style=mystyle} % 使用显示样式
+\begin{lstlisting}[language=语言]
+代码段
+\end{lstlisting}
+```
 
 示例：
 
@@ -386,6 +397,20 @@ int main()
     return 0;
 }
 \end{lstlisting}
+```
+
+#### 从文件插入
+
+```latex
+\lstset{style=mystyle} % 使用显示样式
+\lstinputlisting[language=语言]{文件名}
+```
+
+示例：
+
+```latex
+\lstset{style=mystyle} % 使用显示样式
+\lstinputlisting[language=C++]{main.cpp}
 ```
 
 ## 脚注
