@@ -19,21 +19,19 @@ pinned: false
 
 ## Ubuntu
 
-**注：自2021年8月14日起，GitHub取消了在命令行内使用用户名和密码的clone方式，改为使用Personal access tokens，以下方法还有待检验和更新**
-
 使用VS Code，UI已经集成git命令，结合插件进行管理。
 
 1. 设置全局变量
 
     ```shell
-    git config --global user.name "your name"
-    git config --global user.email "your@email.com"
+    git config --global user.name [your name]
+    git config --global user.email [your@email.com]
     ```
 
 2. 创建SSH key
 
     ```shell
-    ssh-keygen -t rsa -C "your@email.com"
+    ssh-keygen -t rsa -C [your@email.com]
     ```
 
     连续点三次回车确认。
@@ -54,10 +52,16 @@ pinned: false
 6. 安装相关VS Code插件：
     - GitHub Pull Requests and Issues
     - GitLens——Git supercharged
+7. **自2021年8月14日起，GitHub取消了在命令行内使用用户名和密码的clone方式，改为使用Personal access tokens，经测试可以在命令行内使用SSH key进行clone**
+
+    ```bash
+    git clone git@github.com:[username]/[repository].git
+    ```
 
 ## 参考
 
 1. [GitHub Desktop](https://desktop.github.com/)
-2. [GitHub防黑客新措施：弃用账密验证Git操作，改用token或SSH密钥，今天0点已执行-量子位的文章-知乎](https://zhuanlan.zhihu.com/p/399759963)
-3. [在VScode上配置Git-浪晋的文章-知乎](https://zhuanlan.zhihu.com/p/31417255)
-4. [github/gitignore](https://github.com/github/gitignore)
+2. [在VScode上配置Git-浪晋的文章-知乎](https://zhuanlan.zhihu.com/p/31417255)
+3. [github/gitignore](https://github.com/github/gitignore)
+4. [Token authentication requirements for Git operations](https://github.blog/2020-12-15-token-authentication-requirements-for-git-operations/)
+5. [GitHub防黑客新措施：弃用账密验证Git操作，改用token或SSH密钥，今天0点已执行-量子位的文章-知乎](https://zhuanlan.zhihu.com/p/399759963)
