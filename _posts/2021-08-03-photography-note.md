@@ -66,14 +66,20 @@ pinned: false
 ## 摄影UP主
 
 1. [影视飓风](https://space.bilibili.com/946974)
-2. [摄影师顾俊](https://space.bilibili.com/294081438/)
-3. [视频大拍档](https://space.bilibili.com/110974/)
-4. [Linksphotograph](https://space.bilibili.com/3816626/)
-5. [彭弘Red](https://space.bilibili.com/55801838/)
-6. [摄瘾研究所](https://space.bilibili.com/245627923/)
-7. [摄影师EDI](https://space.bilibili.com/84480709/)
+2. [摄影师顾俊](https://space.bilibili.com/294081438)
+3. [视频大拍档](https://space.bilibili.com/110974)
+4. [小鹿Lawrence](https://space.bilibili.com/37029661)
+5. [Linksphotograph](https://space.bilibili.com/3816626)
+6. [林海音Haiyin](https://space.bilibili.com/351739137)
+7. [摄影师泰罗](https://space.bilibili.com/110683415)
+8. [小墨与阿猴](https://space.bilibili.com/25706078)
+9. [彭弘Red](https://space.bilibili.com/55801838)
+10. [摄瘾研究所](https://space.bilibili.com/245627923)
+11. [摄影师EDI](https://space.bilibili.com/84480709)
 
 ## 参考
 
 1. [7个免费在线PS网站（良心推荐，真正免费）-小盒的文章-知乎](https://zhuanlan.zhihu.com/p/93513748)
 2. [哪些网站让你感觉发现了新大陆？-不做闲鱼的回答-知乎](https://www.zhihu.com/question/293309623/answer/1675816377)
+3. [b站上有什么好的摄影教学？-早见Hayami的回答-知乎](https://www.zhihu.com/question/312241261/answer/1066491001)
+4. [关注bilibili这17个UP主，你甚至可以在B站学摄影！-A妹的文章-知乎](https://zhuanlan.zhihu.com/p/112964588)
