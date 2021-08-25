@@ -13,6 +13,12 @@ pinned: false
 
 <!-- more -->
 
+## 引入头文件
+
+```cpp
+#include <ros/console.h>
+```
+
 ## 基础语法
 
 ```cpp

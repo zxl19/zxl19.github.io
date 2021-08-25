@@ -86,3 +86,6 @@ pinned: false
 2. [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
 3. [几条经验美化你的GitHub开源项目-简书](https://www.jianshu.com/p/d587b91bacb3)
 4. [996icu/996.ICU](https://github.com/996icu/996.ICU)
+5. [antonkomarev/github-profile-views-counter](https://github.com/antonkomarev/github-profile-views-counter)
+6. [jwenjian/visitor-badge](https://github.com/jwenjian/visitor-badge)
+7. [gjbae1212/hit-counter](https://github.com/gjbae1212/hit-counter)
