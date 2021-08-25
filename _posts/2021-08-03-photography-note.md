@@ -19,6 +19,14 @@ pinned: false
 最重要的是镜头后面的那个头。
 ```
 
+### 重要参数
+
+1. 感光元件类型和大小；
+2. 焦距；
+3. 光圈大小；
+4. 像素；
+5. 连拍速度。
+
 ### 单反与微单
 
 相机的基本分类和区别，主要参考[Linksphotograph](https://space.bilibili.com/3816626/)和[彭弘Red](https://space.bilibili.com/55801838/)的视频。
@@ -79,7 +87,8 @@ pinned: false
 
 ## 参考
 
-1. [7个免费在线PS网站（良心推荐，真正免费）-小盒的文章-知乎](https://zhuanlan.zhihu.com/p/93513748)
-2. [哪些网站让你感觉发现了新大陆？-不做闲鱼的回答-知乎](https://www.zhihu.com/question/293309623/answer/1675816377)
-3. [b站上有什么好的摄影教学？-早见Hayami的回答-知乎](https://www.zhihu.com/question/312241261/answer/1066491001)
-4. [关注bilibili这17个UP主，你甚至可以在B站学摄影！-A妹的文章-知乎](https://zhuanlan.zhihu.com/p/112964588)
+1. [富士相机哪款性价比高？2021富士相机详细购买指南（超高性价比精选6款推荐）-花千里的文章-知乎](https://zhuanlan.zhihu.com/p/180538577)
+2. [7个免费在线PS网站（良心推荐，真正免费）-小盒的文章-知乎](https://zhuanlan.zhihu.com/p/93513748)
+3. [哪些网站让你感觉发现了新大陆？-不做闲鱼的回答-知乎](https://www.zhihu.com/question/293309623/answer/1675816377)
+4. [b站上有什么好的摄影教学？-早见Hayami的回答-知乎](https://www.zhihu.com/question/312241261/answer/1066491001)
+5. [关注bilibili这17个UP主，你甚至可以在B站学摄影！-A妹的文章-知乎](https://zhuanlan.zhihu.com/p/112964588)
