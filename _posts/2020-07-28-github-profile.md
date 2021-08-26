@@ -42,6 +42,58 @@ pinned: false
 
 ## 生成项目标签
 
+可以在[Shields.io](https://shields.io/)上生成标签内容和样式。
+
+添加以下语句以生成项目标签，以GitHub followers和GitHub User's stars为例。
+
+### 左对齐
+
+```markdown
+![GitHub followers](https://img.shields.io/github/followers/zxl19?style=social) ![GitHub User's stars](https://img.shields.io/github/stars/zxl19?style=social)
+```
+
+效果如下：
+
+![GitHub followers](https://img.shields.io/github/followers/zxl19?style=social) ![GitHub User's stars](https://img.shields.io/github/stars/zxl19?style=social)
+
+### 居中
+
+```html
+<p align="center">
+    <a href="https://img.shields.io">
+        <img src="https://img.shields.io/github/followers/zxl19?style=social" alt="GitHub followers" />
+    </a>
+    <a href="https://img.shields.io">
+        <img src="https://img.shields.io/github/stars/zxl19?style=social" alt="GitHub User's stars" />
+    </a>
+</p>
+```
+
+效果如下：
+
+<p align="center">
+    <a href="https://img.shields.io">
+        <img src="https://img.shields.io/github/followers/zxl19?style=social" alt="GitHub followers" />
+    </a>
+    <a href="https://img.shields.io">
+        <img src="https://img.shields.io/github/stars/zxl19?style=social" alt="GitHub User's stars" />
+    </a>
+</p>
+
+## 参考
+
+1. [GitHub隐藏新功能！个人页还能这么玩？-GitHub Daily的文章-知乎](https://zhuanlan.zhihu.com/p/161029860)
+2. [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
+3. [几条经验美化你的GitHub开源项目-简书](https://www.jianshu.com/p/d587b91bacb3)
+4. [Shields.io](https://shields.io/)
+5. [badges/shields](https://github.com/badges/shields)
+6. [a-maliarov/awesome-shields](https://github.com/a-maliarov/awesome-shields)
+7. [antonkomarev/github-profile-views-counter](https://github.com/antonkomarev/github-profile-views-counter)
+8. [jwenjian/visitor-badge](https://github.com/jwenjian/visitor-badge)
+9. [gjbae1212/hit-counter](https://github.com/gjbae1212/hit-counter)
+
+<!-- ## 生成项目标签
+
 可以在[网站](https://shields.io/)上生成标签。
 
 添加以下语句以生成项目标签，以[996.ICU](https://github.com/996icu/996.ICU)为例。
@@ -88,4 +140,4 @@ pinned: false
 4. [996icu/996.ICU](https://github.com/996icu/996.ICU)
 5. [antonkomarev/github-profile-views-counter](https://github.com/antonkomarev/github-profile-views-counter)
 6. [jwenjian/visitor-badge](https://github.com/jwenjian/visitor-badge)
-7. [gjbae1212/hit-counter](https://github.com/gjbae1212/hit-counter)
+7. [gjbae1212/hit-counter](https://github.com/gjbae1212/hit-counter) -->
