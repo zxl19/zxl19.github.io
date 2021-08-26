@@ -29,20 +29,20 @@ sudo apt install proxychains4
 
 1. 打开配置文件；
 
-```shell
-sudo gedit /etc/proxychains4.conf
-```
+    ```shell
+    sudo gedit /etc/proxychains4.conf
+    ```
 
 2. 在配置文件最后进行设置；
 
-```text
-# socks4 127.0.0.1 9050 # 注释掉原内容
-socks5 127.0.0.1 1080   # 代理使用的端口
-```
+    ```text
+    # socks4 127.0.0.1 9050 # 注释掉原内容
+    socks5 127.0.0.1 1080   # 代理使用的端口
+    ```
 
 ## 使用
 
-在需要使用代理的命令前添加`proxychains4`即可。
+在需要使用代理的命令前添加`proxychains4`即可，如果Git已配置代理可不使用`proxychains4`。
 
 ```shell
 sudo proxychains4 rosdep init

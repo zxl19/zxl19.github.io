@@ -65,45 +65,45 @@ Docker进程使用Unix socket而不是TCP端口。而默认情况下，Unix sock
 
 1. 查看用户组；
 
-```shell
-cat /etc/group | grep docker
-```
+    ```shell
+    cat /etc/group | grep docker
+    ```
 
 2. 如果未创建，在此步创建用户组，若已创建，执行下一步；
 
-```shell
-sudo groupadd docker
-```
+    ```shell
+    sudo groupadd docker
+    ```
 
 3. 将用户加入到用户组；
 
-```shell
-sudo usermod -aG docker 用户名
-```
+    ```shell
+    sudo usermod -aG docker 用户名
+    ```
 
 4. 检查是否成功加入；
 
-```shell
-cat /etc/group
-```
+    ```shell
+    cat /etc/group
+    ```
 
 5. 重启Docker；
 
-```shell
-sudo systemctl restart docker
-```
+    ```shell
+    sudo systemctl restart docker
+    ```
 
 6. 给`docker.sock`文件添加权限；
 
-```shell
-sudo chmod a+rw /var/run/docker.sock
-```
+    ```shell
+    sudo chmod a+rw /var/run/docker.sock
+    ```
 
 7. 确认是否解决；
 
-```shell
-docker run hello-world
-```
+    ```shell
+    docker run hello-world
+    ```
 
 ## 参考
 
