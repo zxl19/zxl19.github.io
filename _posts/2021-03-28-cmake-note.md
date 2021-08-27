@@ -25,7 +25,7 @@ set(CMAKE_BUILD_TYPE "Release")                         # 编译模式 Debug/Rel
 set(CMAKE_CXX_FLAGS "-std=c++11")                       # 针对C++的编译选项
 set(CMAKE_CXX_FLAGS_DEBUG "-O1 -Wall -g -pthread")      # 针对C++在Debug模式下的编译选项
 set(CMAKE_CXX_FLAGS_RELEASE "-O3 -Wall -g -pthread")    # 针对C++在Release模式下的编译选项
-# 采用如下方式也可，但是编译选项针对所有编译器
+# 采用如下方式也可，但是编译选项针对所有类型编译器
 # add_compile_options(-std=c++11 -O3 -Wall -g -pthread) # 不推荐
 
 find_package(Eigen3 REQUIRED QUIET)
