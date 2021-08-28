@@ -44,7 +44,7 @@ pinned: true
 \usepackage{subfigure}      % 插入子图
 
 \usepackage{tabto}          % 插入Tab
-\NumTabs{8}                 % define 8 equally spaced tabs starting at the left margin
+\NumTabs{16}                % define 16 equally spaced tabs starting at the left margin
                             % and spanning \linewidth
 
 \usepackage{fontawesome}    % 添加小图标
@@ -81,7 +81,7 @@ pinned: true
 
 4. 使用`\hfill`进行水平填充，同理，使用`\vfill`进行垂直填充；
 5. 使用`\hspace{}`插入水平间隔，同理，使用`\vspace{}`插入垂直间隔，大括号前添加`*`表示强制插入；
-6. 使用`\tab`插入`Tab`；
+6. 使用`\tab`插入`Tab`，一个`Tab`对应的宽度通过`\NumTabs{}`进行定义，将当前环境下的行宽若干等分；
 7. 公式、图片、表格的引用标记要进行区分：
 
     ```latex
@@ -98,6 +98,7 @@ pinned: true
     ```
 
 9. 使用`\today`插入当天日期；
+10. 使用`\ `在$\LaTeX$命令后插入空格；
 
 ## 列表
 
@@ -604,17 +605,18 @@ TODO
 4. [LaTex教程【中文字幕】LaTeX by Michelle Krummel-bilibili](https://www.bilibili.com/video/BV1hK41157GG)
 5. [\tab-Stack Exchange](https://tex.stackexchange.com/questions/198432/using-the-tab-command)
 6. [对号&错号-Stack Exchange](https://tex.stackexchange.com/questions/42619/x-mark-to-match-checkmark)
-7. [列表-CSDN博客](https://blog.csdn.net/HugoChen_cs/article/details/105189541)
-8. [公式-简书](https://www.jianshu.com/p/97ec8a3739f6)
-9. [图片1-CSDN博客](https://blog.csdn.net/qq_38526623/article/details/103737589)
-10. [图片2-CSDN博客](https://blog.csdn.net/LeonSUST/article/details/89332744)
-11. [\multirow-CSDN博客](https://blog.csdn.net/robert_chen1988/article/details/80861246)
-12. [超链接-CSDN博客](https://blog.csdn.net/OOFFrankDura/article/details/90600855)
-13. [代码块1-Overleaf](https://www.overleaf.com/learn/latex/Code_listing)
-14. [代码块2-CSDN博客](https://blog.csdn.net/RobertChenGuangzhi/article/details/45126785)
-15. [脚注-LaTeX 工作室](https://www.latexstudio.net/archives/51620.html)
-16. [参考文献1-知乎](https://zhuanlan.zhihu.com/p/265479955)
-17. [参考文献2-知乎](https://zhuanlan.zhihu.com/p/114733612)
-18. [参考文献3-Stack Exchange](https://tex.stackexchange.com/questions/99615/backref-package-for-page-reference)
-19. [参考文献4-CSDN博客](https://blog.csdn.net/xovee/article/details/109715706)
-20. [参考文献5-CSDN博客](https://blog.csdn.net/xovee/article/details/109896563)
+7. [空格-Stack Exchange](https://tex.stackexchange.com/questions/31091/space-after-latex-commands)
+8. [列表-CSDN博客](https://blog.csdn.net/HugoChen_cs/article/details/105189541)
+9. [公式-简书](https://www.jianshu.com/p/97ec8a3739f6)
+10. [图片1-CSDN博客](https://blog.csdn.net/qq_38526623/article/details/103737589)
+11. [图片2-CSDN博客](https://blog.csdn.net/LeonSUST/article/details/89332744)
+12. [\multirow-CSDN博客](https://blog.csdn.net/robert_chen1988/article/details/80861246)
+13. [超链接-CSDN博客](https://blog.csdn.net/OOFFrankDura/article/details/90600855)
+14. [代码块1-Overleaf](https://www.overleaf.com/learn/latex/Code_listing)
+15. [代码块2-CSDN博客](https://blog.csdn.net/RobertChenGuangzhi/article/details/45126785)
+16. [脚注-LaTeX 工作室](https://www.latexstudio.net/archives/51620.html)
+17. [参考文献1-知乎](https://zhuanlan.zhihu.com/p/265479955)
+18. [参考文献2-知乎](https://zhuanlan.zhihu.com/p/114733612)
+19. [参考文献3-Stack Exchange](https://tex.stackexchange.com/questions/99615/backref-package-for-page-reference)
+20. [参考文献4-CSDN博客](https://blog.csdn.net/xovee/article/details/109715706)
+21. [参考文献5-CSDN博客](https://blog.csdn.net/xovee/article/details/109896563)
