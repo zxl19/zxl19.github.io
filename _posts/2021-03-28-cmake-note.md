@@ -6,7 +6,7 @@ author: zxl19
 tags: [C++, CMake, Note]
 comments: true
 toc: true
-pinned: false
+pinned: true
 ---
 
 我的CMake学习笔记及常用模板，供个人速查使用。
