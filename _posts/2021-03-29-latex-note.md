@@ -63,12 +63,13 @@ pinned: true
 
     - 上下标使用`{}`括起来；
     - 矩阵和向量使用`\mathbf{}`或`\boldsymbol{}`；
-    - 集合使用`\mathbb{}`；
-    - 范数使用`\|`；
+    - 集合使用`\mathbb{}`，书法体使用`\mathcal{}`；
+    - 绝对值使用`|`，范数使用`\|`；
     - argmin使用`\mathop{\arg\min}\limits_{}`，argmax同理；
     - 小空格用`\quad`，大空格用`\qquad`；
     - 分式尽量使用`\dfrac{}{}`，若显示有问题再使用`\frac{}{}`；
     - 度数使用`^{\circ}`；
+    - 点乘使用`\cdot`或`\bullet`，叉乘使用`\times`；
 
 3. 括号大小自动调整；
 
@@ -76,6 +77,7 @@ pinned: true
     \left(  \right)
     \left[  \right]
     \left{  \right}
+    \left| \right|
     \left\| \right\|
     ```
 
