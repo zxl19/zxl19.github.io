@@ -16,7 +16,8 @@ pinned: false
 ## Hello World
 
 1. Eigen是纯头文件库；
-2. `Eigen/Eigen`（全部模块功能）=`Eigen/Dense`（绝大部分模块功能）+`Eigen/Sparse`（稀疏矩阵模块）；
+2. `#include <Eigen/Eigen>`（全部模块功能）=`#include <Eigen/Dense>`（绝大部分模块功能）+`#include <Eigen/Sparse>`（稀疏矩阵模块功能）；
+3. 对于MATLAB用户，可以参考[Eigen short ASCII reference](https://eigen.tuxfamily.org/dox/AsciiQuickReference.txt)快速入门，[zxl19/Eigen-Cheatsheet](https://github.com/zxl19/Eigen-Cheatsheet)将其整理成Markdown和PDF文档；
 
 ## 矩阵向量初始化
 
@@ -47,7 +48,8 @@ Eigen::Vector3f Sigma= svd.singularValues();
 ## 参考
 
 1. [Eigen: Main Page](https://eigen.tuxfamily.org/dox/)
-2. [ASCII Quick Reference-Eigen-TuxFamily](https://eigen.tuxfamily.org/dox/AsciiQuickReference.txt)
-3. [旋转矩阵归一化1-Stack Overflow](https://stackoverflow.com/questions/21761909/eigen-convert-matrix3d-rotation-to-quaternion)
-4. [旋转矩阵归一化2-Stack Overflow](https://stackoverflow.com/questions/43896041/eigen-matrix-to-quaternion-and-back-have-different-result)
-5. [SVD-CSDN博客](https://blog.csdn.net/jiang_he_hu_hai/article/details/78363642)
+2. [Eigen short ASCII reference](https://eigen.tuxfamily.org/dox/AsciiQuickReference.txt)
+3. [zxl19/Eigen-Cheatsheet](https://github.com/zxl19/Eigen-Cheatsheet)
+4. [旋转矩阵归一化1-Stack Overflow](https://stackoverflow.com/questions/21761909/eigen-convert-matrix3d-rotation-to-quaternion)
+5. [旋转矩阵归一化2-Stack Overflow](https://stackoverflow.com/questions/43896041/eigen-matrix-to-quaternion-and-back-have-different-result)
+6. [SVD-CSDN博客](https://blog.csdn.net/jiang_he_hu_hai/article/details/78363642)
