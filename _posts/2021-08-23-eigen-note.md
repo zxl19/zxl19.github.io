@@ -21,7 +21,55 @@ pinned: false
 
 ## 矩阵向量初始化
 
+### 特殊矩阵向量赋值
+
+若矩阵向量的大小确定，可不加行列数。
+
+```cpp
+// 创建对应类（作为等号右值）
+MatrixXd::Identity(rows, cols)
+MatrixXd::Zero(rows, cols)
+MatrixXd::Ones(rows, cols)
+MatrixXd::Random(rows, cols)
+// 调用对应成员函数
+C.setIdentity(rows, cols)
+C.setZero(rows, cols)
+C.setOnes(rows, cols)
+C.setRandom(rows,c ols)
+```
+
+### 逐元素初始化
+
+逐行填满。
+
+```cpp
+Eigen::Matrix3d A;
+A << 1.0, 0.0, 0.0,
+    0.0, 1.0, 0.0,
+    0.0, 0.0, 1.0;
+```
+
+### 从内存中映射
+
+```cpp
+int data[4] = {1, 2, 3, 4};
+// 初始化，data内容被复制到矩阵中
+Matrix2i mat2x2(data);
+// 映射，data内容随着矩阵内容变化
+Matrix2i::Map(data) = 2 * mat2x2;
+MatrixXi::Map(data, 2, 2) += mat2x2;
+```
+
 ## 矩阵操作
+
+### 取矩阵块
+
+以下两种方法等价，均表示从当前矩阵`(i, j)`元素处开始，取大小为`(rows, cols)`的矩阵。
+
+```cpp
+P.block(i, j, rows, cols);
+P.block<rows, cols>(i, j);
+```
 
 ### 旋转矩阵归一化
 
