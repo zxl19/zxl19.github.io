@@ -21,7 +21,8 @@ pinned: false
 
 ## 矩阵向量定义
 
-尽可能少用动态大小的矩阵向量，以提高运行速度。
+1. Eigen使用`typedef`关键字重命名了常用大小的矩阵和向量名；
+2. 尽可能少用动态大小的矩阵向量，以提高运行速度。
 
 ```cpp
 Matrix<float,Dynamic,Dynamic>   <=>   MatrixXf
@@ -67,7 +68,7 @@ Eigen::Matrix3d C.setRandom();
 
 ### 逐元素初始化
 
-逐行填满。
+可以使用`<<`运算符逐行对于元素进行初始化，也可以使用下标对于特定元素进行初始化。
 
 ```cpp
 Eigen::Matrix2d A;
@@ -97,7 +98,24 @@ Matrix2i::Map(data) = 2 * mat2x2;
 MatrixXi::Map(data, 2, 2) += mat2x2;
 ```
 
-## 矩阵操作
+## 矩阵向量操作
+
+### 计算大小
+
+```cpp
+// 向量长度
+x.size()
+// 矩阵行数、列数
+C.rows()
+C.cols()
+```
+
+### 取矩阵行列
+
+```cpp
+P.row(i)
+P.col(j)
+```
 
 ### 取矩阵块
 
@@ -106,16 +124,6 @@ MatrixXi::Map(data, 2, 2) += mat2x2;
 ```cpp
 P.block(i, j, rows, cols);
 P.block<rows, cols>(i, j);
-```
-
-### 旋转矩阵归一化
-
-通过将旋转矩阵转换为四元数，将四元数归一化后再转回旋转矩阵。
-
-```cpp
-Eigen::Matrix3f R;
-Eigen::Quaternionf q(R);
-R = q.normalized().toRotationMatrix();
 ```
 
 ## 矩阵运算
@@ -130,6 +138,16 @@ Eigen::Matrix3f V = svd.matrixV();
 Eigen::Vector3f Sigma= svd.singularValues();
 ```
 
+### 旋转矩阵归一化
+
+通过将旋转矩阵转换为四元数，将四元数归一化后再转回旋转矩阵。
+
+```cpp
+Eigen::Matrix3f R;
+Eigen::Quaternionf q(R);
+R = q.normalized().toRotationMatrix();
+```
+
 ## 参考
 
 1. [Eigen: Main Page](https://eigen.tuxfamily.org/dox/)
@@ -137,6 +155,6 @@ Eigen::Vector3f Sigma= svd.singularValues();
 3. [zxl19/Eigen-Cheatsheet](https://github.com/zxl19/Eigen-Cheatsheet)
 4. [[QuickRef] Dense matrix and array manipulations](https://eigen.tuxfamily.org/dox/group__QuickRefPage.html)
 5. [[QuickRef] Sparse linear algebra](https://eigen.tuxfamily.org/dox/group__SparseQuickRefPage.html)
-6. [旋转矩阵归一化1-Stack Overflow](https://stackoverflow.com/questions/21761909/eigen-convert-matrix3d-rotation-to-quaternion)
-7. [旋转矩阵归一化2-Stack Overflow](https://stackoverflow.com/questions/43896041/eigen-matrix-to-quaternion-and-back-have-different-result)
-8. [SVD-CSDN博客](https://blog.csdn.net/jiang_he_hu_hai/article/details/78363642)
+6. [SVD-CSDN博客](https://blog.csdn.net/jiang_he_hu_hai/article/details/78363642)
+7. [旋转矩阵归一化1-Stack Overflow](https://stackoverflow.com/questions/21761909/eigen-convert-matrix3d-rotation-to-quaternion)
+8. [旋转矩阵归一化2-Stack Overflow](https://stackoverflow.com/questions/43896041/eigen-matrix-to-quaternion-and-back-have-different-result)
