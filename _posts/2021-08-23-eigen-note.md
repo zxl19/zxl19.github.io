@@ -19,14 +19,26 @@ pinned: false
 2. `#include <Eigen/Eigen>`（全部模块功能）=`#include <Eigen/Dense>`（绝大部分模块功能）+`#include <Eigen/Sparse>`（稀疏矩阵模块功能）；
 3. 对于MATLAB用户，可以参考[Eigen short ASCII reference](https://eigen.tuxfamily.org/dox/AsciiQuickReference.txt)快速入门，[zxl19/Eigen-Cheatsheet](https://github.com/zxl19/Eigen-Cheatsheet)将其整理成Markdown和PDF文档；
 
-## 矩阵向量初始化
+## 矩阵向量定义
 
-### 特殊矩阵向量赋值
-
-若矩阵向量的大小确定，可不加行列数。
+尽可能少用动态大小的矩阵向量，以提高运行速度。
 
 ```cpp
-// 创建对应类（作为等号右值）
+Matrix<float,Dynamic,Dynamic>   <=>   MatrixXf
+Matrix<double,Dynamic,1>        <=>   VectorXd
+Matrix<int,1,Dynamic>           <=>   RowVectorXi
+Matrix<float,3,3>               <=>   Matrix3f
+Matrix<float,4,1>               <=>   Vector4f
+```
+
+## 矩阵向量初始化
+
+建议在矩阵向量定义后对其初始化。
+
+### 初始化为特殊矩阵向量
+
+```cpp
+// 创建对应类的对象（作为等号右值）
 MatrixXd::Identity(rows, cols)
 MatrixXd::Zero(rows, cols)
 MatrixXd::Ones(rows, cols)
@@ -35,7 +47,22 @@ MatrixXd::Random(rows, cols)
 C.setIdentity(rows, cols)
 C.setZero(rows, cols)
 C.setOnes(rows, cols)
-C.setRandom(rows,c ols)
+C.setRandom(rows, cols)
+```
+
+若矩阵向量的大小确定，可不加行列数。
+
+```cpp
+// 创建对应类的对象（作为等号右值）
+Eigen::Matrix3d A = Matrix3d::Identity();
+Eigen::Matrix3d A = Matrix3d::Zero();
+Eigen::Matrix3d A = Matrix3d::Ones();
+Eigen::Matrix3d A = Matrix3d::Random();
+// 调用对应成员函数
+Eigen::Matrix3d C.setIdentity();
+Eigen::Matrix3d C.setZero();
+Eigen::Matrix3d C.setOnes();
+Eigen::Matrix3d C.setRandom();
 ```
 
 ### 逐元素初始化
@@ -43,15 +70,25 @@ C.setRandom(rows,c ols)
 逐行填满。
 
 ```cpp
-Eigen::Matrix3d A;
-A << 1.0, 0.0, 0.0,
-    0.0, 1.0, 0.0,
-    0.0, 0.0, 1.0;
+Eigen::Matrix2d A;
+A << 1.0, 0.0,
+    0.0, 1.0,
+A(0, 0) = 1.0;
+A(0, 1) = 0.0;
+A(1, 0) = 0.0;
+A(1, 1) = 1.0;
+Eigen::Vector2d b(1.0, 1.0);
+b << 1.0, 1.0;
+b(0) = 1.0;
+b(1) = 1.0;
 ```
 
 ### 从内存中映射
 
 ```cpp
+float array[3];
+// 映射，array内容随着向量内容变化
+Vector3f::Map(array).fill(10);
 int data[4] = {1, 2, 3, 4};
 // 初始化，data内容被复制到矩阵中
 Matrix2i mat2x2(data);
@@ -98,6 +135,8 @@ Eigen::Vector3f Sigma= svd.singularValues();
 1. [Eigen: Main Page](https://eigen.tuxfamily.org/dox/)
 2. [Eigen short ASCII reference](https://eigen.tuxfamily.org/dox/AsciiQuickReference.txt)
 3. [zxl19/Eigen-Cheatsheet](https://github.com/zxl19/Eigen-Cheatsheet)
-4. [旋转矩阵归一化1-Stack Overflow](https://stackoverflow.com/questions/21761909/eigen-convert-matrix3d-rotation-to-quaternion)
-5. [旋转矩阵归一化2-Stack Overflow](https://stackoverflow.com/questions/43896041/eigen-matrix-to-quaternion-and-back-have-different-result)
-6. [SVD-CSDN博客](https://blog.csdn.net/jiang_he_hu_hai/article/details/78363642)
+4. [[QuickRef] Dense matrix and array manipulations](https://eigen.tuxfamily.org/dox/group__QuickRefPage.html)
+5. [[QuickRef] Sparse linear algebra](https://eigen.tuxfamily.org/dox/group__SparseQuickRefPage.html)
+6. [旋转矩阵归一化1-Stack Overflow](https://stackoverflow.com/questions/21761909/eigen-convert-matrix3d-rotation-to-quaternion)
+7. [旋转矩阵归一化2-Stack Overflow](https://stackoverflow.com/questions/43896041/eigen-matrix-to-quaternion-and-back-have-different-result)
+8. [SVD-CSDN博客](https://blog.csdn.net/jiang_he_hu_hai/article/details/78363642)
