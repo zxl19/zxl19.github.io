@@ -469,7 +469,7 @@ int main()
 
     ```latex
     @article{name1, % 名称在引用时使用
-    author = {作者, 多个作者用 and 连接},
+    author = {作者, 多个作者用 and 连接, 多个词当成一个整体用{}括起来, 例如团体名和组织名},
     title = {标题},
     journal = {期刊名},
     volume = {卷},
