@@ -571,6 +571,7 @@ TODO
 5. [wch/latexsheet](https://github.com/wch/latexsheet)
 6. [LaTeX在线：吴文中数学公式编辑器](https://latex.91maths.com/)
 7. [blaisewang/img2latex-mathpix](https://github.com/blaisewang/img2latex-mathpix)
+8. [Citation Machine](https://www.citationmachine.net/)
 
 ### 模板和学习资源
 
@@ -579,6 +580,7 @@ TODO
 3. [LaTeX Templates](https://www.latextemplates.com)
 4. [MOON](https://www.moonpapers.com/)
 5. [Overleaf Documentation](https://www.overleaf.com/learn)
+6. [BibTeX](https://www.bibtex.com/)
 
 ### 优质模板
 
