@@ -92,13 +92,14 @@ pinned: false
 4. [小鹿Lawrence](https://space.bilibili.com/37029661)
 5. [Linksphotograph](https://space.bilibili.com/3816626)
 6. [林海音Haiyin](https://space.bilibili.com/351739137)
-7. [摄影师泰罗](https://space.bilibili.com/110683415)
-8. [小墨与阿猴](https://space.bilibili.com/25706078)
-9. [彭弘Red](https://space.bilibili.com/55801838)
-10. [摄瘾研究所](https://space.bilibili.com/245627923)
-11. [李涛PS](https://space.bilibili.com/85651824)
-12. [巫师后期](https://space.bilibili.com/105686205)
-13. [摄影师EDI](https://space.bilibili.com/84480709)
+7. [-彩蜂摄影杂志-](https://space.bilibili.com/318355178)
+8. [摄影师泰罗](https://space.bilibili.com/110683415)
+9. [小墨与阿猴](https://space.bilibili.com/25706078)
+10. [彭弘Red](https://space.bilibili.com/55801838)
+11. [摄瘾研究所](https://space.bilibili.com/245627923)
+12. [李涛PS](https://space.bilibili.com/85651824)
+13. [巫师后期](https://space.bilibili.com/105686205)
+14. [摄影师EDI](https://space.bilibili.com/84480709)
 
 ## 参考
 

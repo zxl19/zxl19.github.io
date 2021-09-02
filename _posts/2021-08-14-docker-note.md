@@ -78,7 +78,7 @@ Docker进程使用Unix socket而不是TCP端口。而默认情况下，Unix sock
 3. 将用户加入到用户组；
 
     ```shell
-    sudo usermod -aG docker 用户名
+    sudo usermod -aG docker <用户名>
     ```
 
 4. 检查是否成功加入；

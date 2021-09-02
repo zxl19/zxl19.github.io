@@ -24,14 +24,14 @@ pinned: false
 1. 设置全局变量
 
     ```shell
-    git config --global user.name [your name]
-    git config --global user.email [your@email.com]
+    git config --global user.name "your name"
+    git config --global user.email "your@email.com"
     ```
 
 2. 创建SSH key
 
     ```shell
-    ssh-keygen -t rsa -C [your@email.com]
+    ssh-keygen -t rsa -C "your@email.com"
     ```
 
     连续点三次回车确认。
@@ -55,7 +55,7 @@ pinned: false
 7. **自2021年8月14日起，GitHub取消了在命令行内使用用户名和密码的clone方式，改为使用Personal access tokens，经测试可以在命令行内使用SSH key进行clone**
 
     ```bash
-    git clone git@github.com:[username]/[repository].git
+    git clone git@github.com:<username>/<repository>.git
     ```
 
 ## 参考
