@@ -33,6 +33,7 @@ C++（包括CMake）学习资料存档。
 8. [tangtangcoding/C-C-](https://github.com/tangtangcoding/C-C-)
 9. [TheLartians/ModernCppStarter](https://github.com/TheLartians/ModernCppStarter)
 10. [0voice/cpp_new_features](https://github.com/0voice/cpp_new_features)
+11. [muqsitnawaz/modern-cpp-cheatsheet](https://github.com/muqsitnawaz/modern-cpp-cheatsheet)
 
 ## 其他网站
 
@@ -48,6 +49,7 @@ C++（包括CMake）学习资料存档。
 2. [《Cmake实践》](http://file.ncnynl.com/ros/CMake%20Practice.pdf)
 3. 《C++ Primer》
 4. 《Effective C++》
+5. [kelthuzadx/EffectiveModernCppChinese](https://github.com/kelthuzadx/EffectiveModernCppChinese)
 
 ## 参考
 
