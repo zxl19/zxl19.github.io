@@ -6,7 +6,7 @@ author: zxl19
 tags: [C++, Eigen, Note]
 comments: true
 toc: true
-pinned: false
+pinned: true
 ---
 
 我的Eigen库使用笔记。
@@ -213,13 +213,13 @@ array1.cosh()
 array1.tanh()
 array1.arg()
 
-array1.floor()                floor(array1)
-array1.ceil()                 ceil(array1)
-array1.round()                round(aray1)
+array1.floor()
+array1.ceil()
+array1.round()
 
-array1.isFinite()             isfinite(array1)
-array1.isInf()                isinf(array1)
-array1.isNaN()                isnan(array1)
+array1.isFinite()
+array1.isInf()
+array1.isNaN()
 ```
 
 ## 参考
