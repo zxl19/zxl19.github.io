@@ -119,20 +119,22 @@ pinned: true
 
 ### 全局模式
 
+在文档开头定义默认字体大小。
+
 ```latex
 \documentclass[12pt]{article}
 ```
 
 ### 局部模式
 
-在全局模式的基础上修改大小
+在全局模式的基础上修改字体大小。
 
 ```latex
 \tiny           % 最小
 \scriptsize
 \footnotesize
 \small
-\normalsize     % 正常大小
+\normalsize     % 默认字体大小
 \large
 \Large
 \LARGE
