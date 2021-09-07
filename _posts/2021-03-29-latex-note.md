@@ -115,6 +115,31 @@ pinned: true
     \"{}    % 加双点
     ```
 
+## 字体大小
+
+### 全局模式
+
+```latex
+\documentclass[12pt]{article}
+```
+
+### 局部模式
+
+在全局模式的基础上修改大小
+
+```latex
+\tiny           % 最小
+\scriptsize
+\footnotesize
+\small
+\normalsize     % 正常大小
+\large
+\Large
+\LARGE
+\huge
+\Huge           % 最大
+```
+
 ## 列表
 
 ### 无序号列表
@@ -626,17 +651,18 @@ TODO
 8. [音调1-CSDN博客](https://blog.csdn.net/xin_yu_xin/article/details/26467751)
 9. [音调2-知乎](https://zhuanlan.zhihu.com/p/75828544)
 10. [音调3-CSDN博客](https://blog.csdn.net/jianti9962/article/details/114481366)
-11. [列表-CSDN博客](https://blog.csdn.net/HugoChen_cs/article/details/105189541)
-12. [公式-简书](https://www.jianshu.com/p/97ec8a3739f6)
-13. [图片1-CSDN博客](https://blog.csdn.net/qq_38526623/article/details/103737589)
-14. [图片2-CSDN博客](https://blog.csdn.net/LeonSUST/article/details/89332744)
-15. [\multirow-CSDN博客](https://blog.csdn.net/robert_chen1988/article/details/80861246)
-16. [超链接-CSDN博客](https://blog.csdn.net/OOFFrankDura/article/details/90600855)
-17. [代码块1-Overleaf](https://www.overleaf.com/learn/latex/Code_listing)
-18. [代码块2-CSDN博客](https://blog.csdn.net/RobertChenGuangzhi/article/details/45126785)
-19. [脚注-LaTeX 工作室](https://www.latexstudio.net/archives/51620.html)
-20. [参考文献1-知乎](https://zhuanlan.zhihu.com/p/265479955)
-21. [参考文献2-知乎](https://zhuanlan.zhihu.com/p/114733612)
-22. [参考文献3-Stack Exchange](https://tex.stackexchange.com/questions/99615/backref-package-for-page-reference)
-23. [参考文献4-CSDN博客](https://blog.csdn.net/xovee/article/details/109715706)
-24. [参考文献5-CSDN博客](https://blog.csdn.net/xovee/article/details/109896563)
+11. [字体大小-简书](https://www.jianshu.com/p/ad400d7fe885)
+12. [列表-CSDN博客](https://blog.csdn.net/HugoChen_cs/article/details/105189541)
+13. [公式-简书](https://www.jianshu.com/p/97ec8a3739f6)
+14. [图片1-CSDN博客](https://blog.csdn.net/qq_38526623/article/details/103737589)
+15. [图片2-CSDN博客](https://blog.csdn.net/LeonSUST/article/details/89332744)
+16. [\multirow-CSDN博客](https://blog.csdn.net/robert_chen1988/article/details/80861246)
+17. [超链接-CSDN博客](https://blog.csdn.net/OOFFrankDura/article/details/90600855)
+18. [代码块1-Overleaf](https://www.overleaf.com/learn/latex/Code_listing)
+19. [代码块2-CSDN博客](https://blog.csdn.net/RobertChenGuangzhi/article/details/45126785)
+20. [脚注-LaTeX 工作室](https://www.latexstudio.net/archives/51620.html)
+21. [参考文献1-知乎](https://zhuanlan.zhihu.com/p/265479955)
+22. [参考文献2-知乎](https://zhuanlan.zhihu.com/p/114733612)
+23. [参考文献3-Stack Exchange](https://tex.stackexchange.com/questions/99615/backref-package-for-page-reference)
+24. [参考文献4-CSDN博客](https://blog.csdn.net/xovee/article/details/109715706)
+25. [参考文献5-CSDN博客](https://blog.csdn.net/xovee/article/details/109896563)
