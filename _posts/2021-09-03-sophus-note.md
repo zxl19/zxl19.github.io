@@ -23,7 +23,9 @@ pinned: false
     #include "sophus/se3.hpp"
     ```
 
-## SO(3)位姿表示
+3. Sophus官方并没有提供使用教程，以下内容整理自《视觉SLAM十四讲》；
+
+## SO(3)位姿
 
 ```cpp
 Quaterniond q(R);
@@ -34,34 +36,33 @@ SO3_q.matrix()          // 转成矩阵
 
 // 使用对数映射获得它的李代数
 Vector3d so3 = SO3_R.log();
-// hat 为向量到反对称矩阵
+// hat为向量到反对称矩阵
 Sophus::SO3d::hat(so3)
-// 相对的，vee为反对称到向量
-Sophus::SO3d::vee(Sophus::SO3d::hat(so3)).transpose()
+// vee为反对称矩阵到向量
+Sophus::SO3d::vee(Sophus::SO3d::hat(so3))
 
 // 增量扰动模型的更新
 Vector3d update_so3(1e-4, 0, 0);    // 更新量
 Sophus::SO3d SO3_updated = Sophus::SO3d::exp(update_so3) * SO3_R;
 ```
 
-## SE(3)位姿表示
+## SE(3)位姿
 
 ```cpp
-// 对SE(3)操作大同小异
-Vector3d t(1, 0, 0);            // 沿X轴平移1
+Vector3d t(1, 0, 0);            // 平移向量
 Sophus::SE3d SE3_Rt(R, t);      // 从R,t构造SE(3)
 Sophus::SE3d SE3_qt(q, t);      // 从q,t构造SE(3)
-SE3_Rt.matrix()
-SE3_qt.matrix()
+SE3_Rt.matrix()                 // 转成矩阵
+SE3_qt.matrix()                 // 转成矩阵
 // 李代数se(3) 是一个六维向量，方便起见先typedef一下
 typedef Eigen::Matrix<double, 6, 1> Vector6d;
 Vector6d se3 = SE3_Rt.log();
 // 观察输出，会发现在Sophus中，se(3)的平移在前，旋转在后.
 // 同样的，有hat和vee两个算符
 Sophus::SE3d::hat(se3)
-Sophus::SE3d::vee(Sophus::SE3d::hat(se3)).transpose()
+Sophus::SE3d::vee(Sophus::SE3d::hat(se3))
 
-// 最后，演示一下更新
+// 增量扰动模型的更新
 Vector6d update_se3;    // 更新量
 update_se3.setZero();
 update_se3(0, 0) = 1e-4;
