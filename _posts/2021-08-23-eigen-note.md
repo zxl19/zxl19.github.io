@@ -308,25 +308,105 @@ array1.isNaN()
 
 ## 位姿表示
 
-TODO
+旋转向量、四元数表示的位姿可以直接当做旋转矩阵参与运算，因为重载了乘法运算符。
+
+不同表示方式的位姿在赋值时需要进行显式类型转换。
 
 ### 位姿初始化
 
+#### 旋转向量
+
+旋转向量并不是为了储存旋转，而是为了更加方便地创建其他类型的旋转。
+
+旋转轴必须是单位向量，推荐使用基向量。
+
+```cpp
+// 3D旋转矩阵直接使用Eigen::Matrix3d或Eigen::Matrix3f
+Eigen::Matrix3d rotation_matrix = Eigen::Matrix3d::Identity();
+// 旋转向量使用AngleAxis，其底层不直接是Matrix类，但运算可以当作矩阵（因为重载了运算符）
+Eigen::AngleAxisd rotation_vector(M_PI / 4, Vector3d(0, 0, 1)); // 沿Z轴旋转45度
+rotation_matrix = rotation_vector.matrix();                     // 旋转向量转旋转矩阵
+rotation_matrix = rotation_vector.toRotationMatrix();           // 旋转向量转旋转矩阵
+// 用AngleAxis进行坐标变换
+Eigen::Vector3d v(1, 0, 0);
+Eigen::Vector3d v_rotated = rotation_vector * v;
+// 相当于用旋转矩阵进行坐标变换
+Eigen::Vector3d v_rotated = rotation_matrix * v;
+```
+
+#### 欧拉角
+
+```cpp
+// 欧拉角转旋转矩阵，借助旋转向量
+Eigen::AngleAxisd roll_vector(roll_rad, Eigen::Vector3d::UnitX());
+Eigen::AngleAxisd pitch_vector(pitch_rad, Eigen::Vector3d::UnitY());
+Eigen::AngleAxisd yaw_vector(yaw_rad, Eigen::Vector3d::UnitZ());
+Eigen::Matrix3d rotation_matrix = (roll_vector * pitch_vector * yaw_vector).toRotationMatrix();
+// 旋转矩阵转欧拉角
+Eigen::Vector3d euler_angles = rotation_matrix.eulerAngles(2, 1, 0);    // ZYX顺序，即yaw-pitch-roll顺序
+```
+
 #### 四元数
 
-#### 旋转向量
+必须使用单位四元数表示旋转。
+
+```cpp
+// 直接初始化，注意参数顺序为w，x，y，z
+Eigen::Quaterniond q = Eigen::Quaterniond(q_w, q_x, q_y, q_z);
+// 可以把AngleAxis赋值给四元数，反之亦然
+Eigen::Quaterniond q = Eigen::Quaterniond(rotation_vector);
+// 可以把旋转矩阵赋值给四元数
+Eigen::Quaterniond q = Eigen::Quaterniond(rotation_matrix);
+q.coeffs()              // 注意coeffs的顺序是(x, y, z, w)，w为实部，前三者为虚部
+q.normalize()           // 单位化四元数
+q.matrix()              // 四元数转旋转矩阵
+q.toRotationMatrix()    // 四元数转旋转矩阵
+// 使用四元数旋转一个向量，使用重载的乘法即可
+v_rotated = q * v;      // 注意数学上是qvq^{-1}
+```
+
+#### 欧式变换
+
+```cpp
+// 欧氏变换矩阵使用 Eigen::Isometry
+Eigen::Isometry3d T = Eigen::Isometry3d::Identity();    // 虽然称为3d，实质上是4*4的矩阵
+T.rotate(rotation_vector);                              // 按照rotation_vector进行旋转
+T.pretranslate(Vector3d(1, 2, 3))                       // 把平移向量设成(1, 2, 3)
+T.matrix()                                              // 欧氏变换矩阵
+// 用欧氏变换矩阵进行坐标变换
+Eigen::Vector3d v_transformed = T * v;                  // 相当于R * v + t
+```
 
 ### 位姿相关运算
 
 #### 旋转矩阵归一化
 
-通过将旋转矩阵转换为四元数，将四元数归一化后再转回旋转矩阵。
+1. 四元数法
 
-```cpp
-Eigen::Matrix3f R;
-Eigen::Quaternionf q(R);
-R = q.normalized().toRotationMatrix();
-```
+    通过将旋转矩阵转换为四元数，将四元数归一化后再转回旋转矩阵。
+
+    ```cpp
+    Eigen::Matrix3f R;
+    Eigen::Quaternionf q(R);
+    R = q.normalized().toRotationMatrix();
+    ```
+
+2. SVD分解法
+
+    ```cpp
+    Eigen::Matrix3f R;
+    Eigen::JacobiSVD<Eigen::MatrixXf> svd(R, Eigen::ComputeFullU | Eigen::ComputeFullV);
+    R = svd.matrixU() * svd.matrixV().transpose();
+    ```
+
+3. 流形投影法
+
+    ```cpp
+    Eigen::Matrix3f R;
+    Eigen::Matrix3f H = R * R.transpose();
+    Eigen::Matrix3f L = H.llt().matrixL();
+    R = L.inverse() * R;
+    ```
 
 ## 参考
 
