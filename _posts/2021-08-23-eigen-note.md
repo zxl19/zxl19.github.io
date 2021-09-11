@@ -16,12 +16,13 @@ pinned: true
 ## Hello World
 
 1. Eigen是纯头文件库；
-2. `#include <Eigen/Eigen>`（全部模块功能）=`#include <Eigen/Dense>`（绝大部分模块功能）+`#include <Eigen/Sparse>`（稀疏矩阵模块功能）；
-3. `#include <Eigen/Core>`为核心模块，包含`Matrix`类和`Array`类的定义、基础的线性代数操作等；
-4. `#include <Eigen/Geometry>`为几何模块，包含SLAM相关的位姿表示、四元数、旋转向量等；
-5. 对于MATLAB用户，可以参考[Eigen short ASCII reference](https://eigen.tuxfamily.org/dox/AsciiQuickReference.txt)快速入门，[zxl19/Eigen-Cheatsheet](https://github.com/zxl19/Eigen-Cheatsheet)将其整理成Markdown和PDF文档；
-6. `Matrix`模板类定义了矩阵和向量，用于进行线性代数运算；`Array`模板类定义了数组，用于进行类似MATLAB的逐元素操作；
-7. Eigen使用`typedef`关键字重命名了常用大小的矩阵和数组，在使用中应尽可能少用动态大小的矩阵和数组，以提高运行速度；
+2. Eigen各模块功能可查询[[QuickRef] Dense matrix and array manipulations](https://eigen.tuxfamily.org/dox/group__QuickRefPage.html)；
+3. `#include <Eigen/Eigen>`（全部模块功能）=`#include <Eigen/Dense>`（绝大部分模块功能）+`#include <Eigen/Sparse>`（稀疏矩阵模块功能）；
+4. `#include <Eigen/Core>`为核心模块，包含`Matrix`类和`Array`类的定义、基础的线性代数操作等；
+5. `#include <Eigen/Geometry>`为几何模块，包含SLAM相关的位姿表示、四元数、旋转向量等；
+6. 对于MATLAB用户，可以参考[Eigen short ASCII reference](https://eigen.tuxfamily.org/dox/AsciiQuickReference.txt)快速入门，[zxl19/Eigen-Cheatsheet](https://github.com/zxl19/Eigen-Cheatsheet)将其整理成Markdown和PDF文档；
+7. `Matrix`模板类定义了矩阵和向量，用于进行线性代数运算；`Array`模板类定义了数组，用于进行类似MATLAB的逐元素操作；
+8. Eigen使用`typedef`关键字重命名了常用大小的矩阵和数组，在使用中应尽可能少用动态大小的矩阵和数组，以提高运行速度；
 
     ```cpp
     // Matrix类
@@ -38,7 +39,7 @@ pinned: true
     Array<float,4,1>                <=>   Array4f
     ```
 
-8. `Matrix`类和`Array`类之间运算和类型转换的规则；
+9. `Matrix`类和`Array`类之间运算和类型转换的规则；
 
     ```cpp
     Array44f a1, a2;
@@ -51,7 +52,7 @@ pinned: true
     MatrixWrapper<Array44f> a1m(a1);  // a1m相当于a1.matrix()，二者参数相同
     ```
 
-9. `Matrix`类和`Array`类的初始化方式，建议在定义后对变量进行初始化；
+10. `Matrix`类和`Array`类的初始化方式，建议在定义后对变量进行初始化；
 
     - 固定大小-大小确定，可不加行列数：
 
@@ -93,7 +94,7 @@ pinned: true
         x.setRandom(rows, cols);
         ```
 
-    - 一维动态大小
+    - 一维动态大小：
 
         ```cpp
         typedef {VectorXf|ArrayXf} Dynamic1D;
@@ -182,7 +183,7 @@ P.col(j)
 
 #### 取矩阵块
 
-以下两种方法等价，均表示从当前矩阵`(i, j)`元素处开始，取大小为`(rows, cols)`的矩阵。
+以下两种方式等价，均表示从当前矩阵`(i, j)`元素处开始，取大小为`(rows, cols)`的矩阵。
 
 ```cpp
 P.block(i, j, rows, cols)
@@ -196,7 +197,29 @@ x.transpose()
 C.transpose()
 ```
 
+#### 求和
+
+```cpp
+x.sum()
+C.sum()
+```
+
+#### 取模
+
+```cpp
+x.norm()            // 取模
+x.squaredNorm()     // 模的平方
+```
+
 ### 矩阵运算
+
+#### 方阵相关
+
+```cpp
+C.trace()           // 迹
+C.inverse()         // 逆
+C.determinant()     // 行列式
+```
 
 #### 点乘和叉乘
 
@@ -206,6 +229,33 @@ x.dot(y)
 x.transpose() * y
 // 叉乘
 x.cross(y)
+```
+
+#### 求解Ax=b形式线性方程组
+
+全部求解方法及其对于矩阵要求、求解速度、求解精度对比：[Linear algebra and decompositions](https://eigen.tuxfamily.org/dox/group__TutorialLinearAlgebra.html)
+
+```cpp
+x = A.inverse() * b;                    // 直接求逆，速度最慢
+x = A.colPivHouseholderQr().solve(b);   // 列主元QR分解
+x = A.llt().solve(b);                   // Cholesky分解，要求正定阵
+x = A.ldlt().solve(b);                  // LDLT分解，要求正定阵或非负定阵
+```
+
+#### 特征值计算
+
+```cpp
+Eigen::Matrix3f A;
+// 初始化方式1
+EigenSolver<Matrix3d> eigen_solver(A);
+// 初始化方式2，可用于计算多个矩阵的特征值
+EigenSolver<Matrix3d> eigen_solver;
+eigen_solver.compute(A)
+// 查看计算结果方式
+eigen_solver.eigenvalues()      // 特征值
+eigen_solver.eigenvectors()     // 特征向量
+// 实对称矩阵可以保证对角化成功，初始化方式和查看计算结果方式与上面相同
+SelfAdjointEigenSolver<Matrix3d> eigen_solver(A.transpose() * A);
 ```
 
 #### 奇异值分解
@@ -281,10 +331,14 @@ R = q.normalized().toRotationMatrix();
 ## 参考
 
 1. [Eigen: Main Page](https://eigen.tuxfamily.org/dox/)
-2. [Eigen short ASCII reference](https://eigen.tuxfamily.org/dox/AsciiQuickReference.txt)
-3. [zxl19/Eigen-Cheatsheet](https://github.com/zxl19/Eigen-Cheatsheet)
-4. [[QuickRef] Dense matrix and array manipulations](https://eigen.tuxfamily.org/dox/group__QuickRefPage.html)
-5. [[QuickRef] Sparse linear algebra](https://eigen.tuxfamily.org/dox/group__SparseQuickRefPage.html)
-6. [SVD-CSDN博客](https://blog.csdn.net/jiang_he_hu_hai/article/details/78363642)
-7. [旋转矩阵归一化1-Stack Overflow](https://stackoverflow.com/questions/21761909/eigen-convert-matrix3d-rotation-to-quaternion)
-8. [旋转矩阵归一化2-Stack Overflow](https://stackoverflow.com/questions/43896041/eigen-matrix-to-quaternion-and-back-have-different-result)
+2. [[QuickRef] Dense matrix and array manipulations](https://eigen.tuxfamily.org/dox/group__QuickRefPage.html)
+3. [[QuickRef] Sparse linear algebra](https://eigen.tuxfamily.org/dox/group__SparseQuickRefPage.html)
+4. [Eigen short ASCII reference](https://eigen.tuxfamily.org/dox/AsciiQuickReference.txt)
+5. [zxl19/Eigen-Cheatsheet](https://github.com/zxl19/Eigen-Cheatsheet)
+6. [gaoxiang12/slambook](https://github.com/gaoxiang12/slambook)
+7. [gaoxiang12/slambook2](https://github.com/gaoxiang12/slambook2)
+8. [Linear algebra and decompositions](https://eigen.tuxfamily.org/dox/group__TutorialLinearAlgebra.html)
+9. [LU分解、LDLT分解和Cholesky分解-CSDN博客](https://blog.csdn.net/zhouliyang1990/article/details/21952485)
+10. [SVD-CSDN博客](https://blog.csdn.net/jiang_he_hu_hai/article/details/78363642)
+11. [旋转矩阵归一化1-Stack Overflow](https://stackoverflow.com/questions/21761909/eigen-convert-matrix3d-rotation-to-quaternion)
+12. [旋转矩阵归一化2-Stack Overflow](https://stackoverflow.com/questions/43896041/eigen-matrix-to-quaternion-and-back-have-different-result)
