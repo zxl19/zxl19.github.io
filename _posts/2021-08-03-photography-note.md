@@ -62,6 +62,13 @@ pinned: false
 1. [【富士XT4】不一定提升创造力但能帮你避坑の配件分享](https://www.bilibili.com/video/BV1ii4y1u7eK)
 2. [【富士X100V】一台没有女孩不爱的相机丨必买的复古配件](https://www.bilibili.com/video/BV1Mb4y167oK)
 
+### GitHub
+
+1. [abpy/FujifilmCameraProfiles](https://github.com/abpy/FujifilmCameraProfiles)
+2. [fredrikaverpil/photography](https://github.com/fredrikaverpil/photography)
+3. [akirichev/fujifilm-recipes](https://github.com/akirichev/fujifilm-recipes)
+4. [karthik/fujifilm](https://github.com/karthik/fujifilm)
+
 ## 后期处理
 
 ### 教程
