@@ -37,6 +37,8 @@ SLAM方向面试题存档。
 1. [interview-📚C/C++技术面试基础知识总结（一）-辉哈huihut的文章-知乎](https://zhuanlan.zhihu.com/p/114311142)
 2. [校招C++大概学习到什么程度？-程序员内功修炼的回答-知乎](https://www.zhihu.com/question/290102232/answer/2094675219)
 3. [C++常见面试题总结-Cpp小茶馆的文章-知乎](https://zhuanlan.zhihu.com/p/354382975)
+4. [你遇到过哪些高质量的C++面试？-知乎用户的回答-知乎](https://www.zhihu.com/question/60911582/answer/1783988850)
+5. [如果你是一个C++面试官，你会问哪些问题？-拓跋阿秀的回答-知乎](https://www.zhihu.com/question/451327108/answer/1868156551)
 
 ## GitHub
 
