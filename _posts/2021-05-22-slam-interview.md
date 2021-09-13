@@ -32,6 +32,12 @@ SLAM方向面试题存档。
 8. [SLAM常见面试题（三）-小马恺文的文章-知乎](https://zhuanlan.zhihu.com/p/46697912)
 9. [面试SLAM算法实习生总结-无能狂怒SLAM崔的文章-知乎](https://zhuanlan.zhihu.com/p/76280626)
 
+## 代码面
+
+1. [interview-📚C/C++技术面试基础知识总结（一）-辉哈huihut的文章-知乎](https://zhuanlan.zhihu.com/p/114311142)
+2. [校招C++大概学习到什么程度？-程序员内功修炼的回答-知乎](https://www.zhihu.com/question/290102232/answer/2094675219)
+3. [C++常见面试题总结-Cpp小茶馆的文章-知乎](https://zhuanlan.zhihu.com/p/354382975)
+
 ## GitHub
 
 1. [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university)
