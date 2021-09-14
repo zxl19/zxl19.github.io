@@ -54,6 +54,8 @@ pinned: true
 \newcommand{\xmark}{\ding{55}}  % 错号
 
 \usepackage[square,super]{natbib}   % 调整参考文献样式：方括号、右上角
+
+\usepackage[landscape]{geometry}    % 设置页面为横向
 ```
 
 ## 格式约定
@@ -649,22 +651,23 @@ TODO
 4. [LaTex教程【中文字幕】LaTeX by Michelle Krummel-bilibili](https://www.bilibili.com/video/BV1hK41157GG)
 5. [\tab-Stack Exchange](https://tex.stackexchange.com/questions/198432/using-the-tab-command)
 6. [对号&错号-Stack Exchange](https://tex.stackexchange.com/questions/42619/x-mark-to-match-checkmark)
-7. [空格-Stack Exchange](https://tex.stackexchange.com/questions/31091/space-after-latex-commands)
-8. [音调1-CSDN博客](https://blog.csdn.net/xin_yu_xin/article/details/26467751)
-9. [音调2-知乎](https://zhuanlan.zhihu.com/p/75828544)
-10. [音调3-CSDN博客](https://blog.csdn.net/jianti9962/article/details/114481366)
-11. [字体大小-简书](https://www.jianshu.com/p/ad400d7fe885)
-12. [列表-CSDN博客](https://blog.csdn.net/HugoChen_cs/article/details/105189541)
-13. [公式-简书](https://www.jianshu.com/p/97ec8a3739f6)
-14. [图片1-CSDN博客](https://blog.csdn.net/qq_38526623/article/details/103737589)
-15. [图片2-CSDN博客](https://blog.csdn.net/LeonSUST/article/details/89332744)
-16. [\multirow-CSDN博客](https://blog.csdn.net/robert_chen1988/article/details/80861246)
-17. [超链接-CSDN博客](https://blog.csdn.net/OOFFrankDura/article/details/90600855)
-18. [代码块1-Overleaf](https://www.overleaf.com/learn/latex/Code_listing)
-19. [代码块2-CSDN博客](https://blog.csdn.net/RobertChenGuangzhi/article/details/45126785)
-20. [脚注-LaTeX 工作室](https://www.latexstudio.net/archives/51620.html)
-21. [参考文献1-知乎](https://zhuanlan.zhihu.com/p/265479955)
-22. [参考文献2-知乎](https://zhuanlan.zhihu.com/p/114733612)
-23. [参考文献3-Stack Exchange](https://tex.stackexchange.com/questions/99615/backref-package-for-page-reference)
-24. [参考文献4-CSDN博客](https://blog.csdn.net/xovee/article/details/109715706)
-25. [参考文献5-CSDN博客](https://blog.csdn.net/xovee/article/details/109896563)
+7. [LaTeX页面设置-冬日暖阳的文章-知乎](https://zhuanlan.zhihu.com/p/360188228)
+8. [空格-Stack Exchange](https://tex.stackexchange.com/questions/31091/space-after-latex-commands)
+9. [音调1-CSDN博客](https://blog.csdn.net/xin_yu_xin/article/details/26467751)
+10. [音调2-知乎](https://zhuanlan.zhihu.com/p/75828544)
+11. [音调3-CSDN博客](https://blog.csdn.net/jianti9962/article/details/114481366)
+12. [字体大小-简书](https://www.jianshu.com/p/ad400d7fe885)
+13. [列表-CSDN博客](https://blog.csdn.net/HugoChen_cs/article/details/105189541)
+14. [公式-简书](https://www.jianshu.com/p/97ec8a3739f6)
+15. [图片1-CSDN博客](https://blog.csdn.net/qq_38526623/article/details/103737589)
+16. [图片2-CSDN博客](https://blog.csdn.net/LeonSUST/article/details/89332744)
+17. [\multirow-CSDN博客](https://blog.csdn.net/robert_chen1988/article/details/80861246)
+18. [超链接-CSDN博客](https://blog.csdn.net/OOFFrankDura/article/details/90600855)
+19. [代码块1-Overleaf](https://www.overleaf.com/learn/latex/Code_listing)
+20. [代码块2-CSDN博客](https://blog.csdn.net/RobertChenGuangzhi/article/details/45126785)
+21. [脚注-LaTeX 工作室](https://www.latexstudio.net/archives/51620.html)
+22. [参考文献1-知乎](https://zhuanlan.zhihu.com/p/265479955)
+23. [参考文献2-知乎](https://zhuanlan.zhihu.com/p/114733612)
+24. [参考文献3-Stack Exchange](https://tex.stackexchange.com/questions/99615/backref-package-for-page-reference)
+25. [参考文献4-CSDN博客](https://blog.csdn.net/xovee/article/details/109715706)
+26. [参考文献5-CSDN博客](https://blog.csdn.net/xovee/article/details/109896563)
