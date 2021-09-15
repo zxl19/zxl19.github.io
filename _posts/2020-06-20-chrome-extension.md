@@ -178,3 +178,11 @@ This plugin displays your text in a textarea so you can use spellcheck plugins l
 ## Sci-Hub
 
 Sci-Hub extension for Chromium browsers
+
+## 参考
+
+1. [8款你不可不知的「最常用」Chrome插件，让你的电脑更好用-马力在知群的文章-知乎](https://zhuanlan.zhihu.com/p/25407784)
+2. [11款插件让你的Chrome成为全世界最好用的浏览器丨Chrome插件推荐-林也的文章-知乎](https://zhuanlan.zhihu.com/p/28220377)
+3. [你极力推荐的Chrome扩展有哪些？-少数派的回答-知乎](https://www.zhihu.com/question/19594682/answer/218516641)
+4. [这40+款Chrome油猴扩展，让你的Chrome变成「真·神器」-少数派的文章-知乎](https://zhuanlan.zhihu.com/p/32155254)
+5. [可能是史上最有逼格最实用的chrome扩展程序推荐-黄海的文章-知乎](https://zhuanlan.zhihu.com/p/22196508)
