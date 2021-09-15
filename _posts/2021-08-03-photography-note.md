@@ -39,8 +39,9 @@ pinned: false
 
 各品牌相机的特点及适合的任务，主要参考[TESTV官方频道](https://space.bilibili.com/11336264/)和[-LKs-](https://space.bilibili.com/125526/)的测评视频。
 
-1. [当富士X-T4遇上X-Pro3【值不值得买第431期】](https://www.bilibili.com/video/BV1oV411C7hJ)
-2. [我找了11位知名UP主评价自己拍视频的设备丨器材终极选购指南](https://www.bilibili.com/video/BV1tJ41187w6)
+1. [我找了11位知名UP主评价自己拍视频的设备丨器材终极选购指南](https://www.bilibili.com/video/BV1tJ41187w6)
+2. [当富士X-T4遇上X-Pro3【值不值得买第431期】](https://www.bilibili.com/video/BV1oV411C7hJ)
+3. [这个相机真的有点不一样！——富士X-S10无反相机【值不值得买第508期】](https://www.bilibili.com/video/BV1Y34y1Q7Hu)
 
 ## 富士相机相关
 
@@ -54,6 +55,12 @@ pinned: false
 
 1. [富士相机X系列入坑指南，新手相机怎么挑选，购买避坑经验分享](https://www.bilibili.com/video/BV18V411m7UG)
 2. [7个富士相机中会影响到画质的菜单设置-富士相机手把手操作教程-富士X-T3演示案例](https://www.bilibili.com/video/BV1CP4y1s7nz)
+
+### 购买渠道
+
+由于疫情带来的全球半导体产量下降，大部分机型均无货，可以通过官网查找官方授权经销商。
+
+1. [支持丨富士胶片[中国]](https://www.fujifilm.com.cn/cn/zh-hans/consumer/support)
 
 ### 配件选购
 
@@ -112,7 +119,8 @@ pinned: false
 ## 参考
 
 1. [富士相机哪款性价比高？2021富士相机详细购买指南（超高性价比精选6款推荐）-花千里的文章-知乎](https://zhuanlan.zhihu.com/p/180538577)
-2. [7个免费在线PS网站（良心推荐，真正免费）-小盒的文章-知乎](https://zhuanlan.zhihu.com/p/93513748)
-3. [哪些网站让你感觉发现了新大陆？-不做闲鱼的回答-知乎](https://www.zhihu.com/question/293309623/answer/1675816377)
-4. [b站上有什么好的摄影教学？-早见Hayami的回答-知乎](https://www.zhihu.com/question/312241261/answer/1066491001)
-5. [关注bilibili这17个UP主，你甚至可以在B站学摄影！-A妹的文章-知乎](https://zhuanlan.zhihu.com/p/112964588)
+2. [想网购一部富士相机哪里买比较靠谱？-知乎用户的回答-知乎](https://www.zhihu.com/question/389541186/answer/1836869122)
+3. [7个免费在线PS网站（良心推荐，真正免费）-小盒的文章-知乎](https://zhuanlan.zhihu.com/p/93513748)
+4. [哪些网站让你感觉发现了新大陆？-不做闲鱼的回答-知乎](https://www.zhihu.com/question/293309623/answer/1675816377)
+5. [b站上有什么好的摄影教学？-早见Hayami的回答-知乎](https://www.zhihu.com/question/312241261/answer/1066491001)
+6. [关注bilibili这17个UP主，你甚至可以在B站学摄影！-A妹的文章-知乎](https://zhuanlan.zhihu.com/p/112964588)
