@@ -31,8 +31,8 @@ Windows系统配置。
 10. Rufus
 11. SpaceSniffer
 12. TeXstudio
-13. Typora
-14. VLC media player
+13. VLC media player
+14. Visual Studio Code
 15. XMind
 16. 格式工厂
 
@@ -51,6 +51,7 @@ Windows系统配置。
 11. Recuva
 12. ShareX
 13. TeamViewer
+14. Typora
 
 ## 常见问题
 
