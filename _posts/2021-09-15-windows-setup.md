@@ -57,8 +57,8 @@ Windows系统配置。
 
 ### 关闭Windows 10自动更新
 
-1. 在`服务`中禁用`Windows Update`；
-2. 将WiFi设置为`按流量计费的连接`；
+1. 在`服务`中**彻底禁用**`Windows Update`；
+2. 将**所有WiFi**设置为`按流量计费的连接`；
 
 ### C盘清理
 

@@ -612,6 +612,8 @@ TODO
 6. [LaTeX在线：吴文中数学公式编辑器](https://latex.91maths.com/)
 7. [blaisewang/img2latex-mathpix](https://github.com/blaisewang/img2latex-mathpix)
 8. [Citation Machine](https://www.citationmachine.net/)
+9. [LatexToMathML](http://web.xiaoyv.top/web/LatexToMathML/)
+10. [idf/LaTex2Word-Equation](https://github.com/idf/LaTex2Word-Equation)
 
 ### 模板和学习资源
 
@@ -671,3 +673,4 @@ TODO
 24. [参考文献3-Stack Exchange](https://tex.stackexchange.com/questions/99615/backref-package-for-page-reference)
 25. [参考文献4-CSDN博客](https://blog.csdn.net/xovee/article/details/109715706)
 26. [参考文献5-CSDN博客](https://blog.csdn.net/xovee/article/details/109896563)
+27. [LaTeX公式转Word公式-简书](https://www.jianshu.com/p/0947ebcfc42e)
