@@ -29,6 +29,10 @@ pinned: false
 
 ### 单反与微单
 
+```text
+硕大的肌肉，激情的拍摄。
+```
+
 相机的基本分类和区别，主要参考[Linksphotograph](https://space.bilibili.com/3816626/)和[彭弘Red](https://space.bilibili.com/55801838/)的视频。
 
 1. [你到底该买哪台相机？从品牌参数到预算需求，一个视频讲清楚丨新手相机选购指南【links】](https://www.bilibili.com/video/BV1754y1D7eW)
@@ -51,10 +55,12 @@ pinned: false
 
 ### 使用技巧
 
-富士相机使用技巧，主要参考[摄影师EDI](https://space.bilibili.com/84480709/)的视频。
+富士相机使用技巧，主要参考[摄影师EDI](https://space.bilibili.com/84480709/)和[HSINYALIN_林星亚](https://space.bilibili.com/7695611)的视频。
 
 1. [富士相机X系列入坑指南，新手相机怎么挑选，购买避坑经验分享](https://www.bilibili.com/video/BV18V411m7UG)
 2. [7个富士相机中会影响到画质的菜单设置-富士相机手把手操作教程-富士X-T3演示案例](https://www.bilibili.com/video/BV1CP4y1s7nz)
+3. [富士相机后期降噪方法对比Capture One还是Lightroom](https://www.bilibili.com/video/BV1N64y1b7oP)
+4. [你对RAW文件一无所知：Lightroom VS Capture One](https://www.bilibili.com/video/BV1So4y1d7MW)
 
 ### 购买渠道
 
@@ -83,15 +89,17 @@ pinned: false
 1. [B站视频制作教程推荐](https://www.bilibili.com/read/cv960192)
 2. [【何同学】如何在B站学习做视频？ (P2附Pr零基础剪辑教程）](https://www.bilibili.com/video/BV1EW411R77n)
 3. [【Lightroom教程】6个新手也能入门摄影后期的操作小技巧](https://www.bilibili.com/video/BV1M64y147n3)
+4. [【干货】富士用户的Capture One后期指南【HSINYALIN】](https://www.bilibili.com/video/BV1b64y1i7sy)
 
 ### 工具
 
 #### 照片后期
 
-1. Lightroom
-2. Photoshop
-3. [Photopea](https://www.photopea.com/)
-4. [稿定](https://ps.gaoding.com/#/)
+1. Capture One
+2. Lightroom
+3. Photoshop
+4. [Photopea](https://www.photopea.com/)
+5. [稿定](https://ps.gaoding.com/#/)
 
 #### 视频剪辑
 
@@ -114,7 +122,9 @@ pinned: false
 12. [摄瘾研究所](https://space.bilibili.com/245627923)
 13. [李涛PS](https://space.bilibili.com/85651824)
 14. [巫师后期](https://space.bilibili.com/105686205)
-15. [摄影师EDI](https://space.bilibili.com/84480709)
+15. [陈忠祥](https://space.bilibili.com/238171819)
+16. [摄影师EDI](https://space.bilibili.com/84480709)
+17. [HSINYALIN_林星亚](https://space.bilibili.com/7695611)
 
 ## 参考
 
