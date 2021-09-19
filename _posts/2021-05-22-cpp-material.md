@@ -42,6 +42,7 @@ C++（包括CMake）学习资料存档。
 3. [C++教程-菜鸟教程](https://www.runoob.com/cplusplus/cpp-tutorial.html)
 4. [cplusplus](http://www.cplusplus.com/)
 5. [cppreference](https://en.cppreference.com/w/)
+6. [C语言中文网](http://c.biancheng.net/)
 
 ## 书籍
 
