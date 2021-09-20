@@ -154,9 +154,10 @@ ___加粗斜体___
 | 名称 | 关键字 |
 | :--- | :--- |
 | C/C++| c, cpp |
-| text | text, plain |
-| Python | py, python |
+| LaTeX | latex |
 | MATLAB | matlab |
+| Python | py, python |
+| text | text, plain |
 
 ## 链接
 
@@ -232,7 +233,8 @@ _   下划线
 
 ### 公式
 
-使用两个美元符`$$`括起来LaTeX格式的数学公式。
+1. **行内公式**：使用两个美元符号`$$`括起来；
+2. **行间公式**：使用一个美元符号`$`括起来；
 
 ### 绘制流程图
 
