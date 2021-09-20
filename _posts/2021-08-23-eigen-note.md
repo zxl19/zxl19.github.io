@@ -13,7 +13,7 @@ pinned: true
 
 <!-- more -->
 
-## Hello World
+## Eigen Hello World
 
 1. Eigen是纯头文件库；
 2. Eigen各模块功能可查询[[QuickRef] Dense matrix and array manipulations](https://eigen.tuxfamily.org/dox/group__QuickRefPage.html)；

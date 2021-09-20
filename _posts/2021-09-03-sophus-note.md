@@ -13,7 +13,7 @@ pinned: false
 
 <!-- more -->
 
-## Hello World
+## Sophus Hello World
 
 1. Sophus是基于Eigen实现的李群和李代数库；
 2. 使用中需包含如下头文件：
