@@ -74,6 +74,10 @@ CMake扩展。
 
 拼写检查。
 
+### Crypto Tools
+
+提供一系列编码/解码、加密/解密工具，例如base32、SHA512等。
+
 ### Draw.io Integration
 
 集成Draw.io功能，绘制流程图。
