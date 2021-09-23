@@ -56,6 +56,7 @@ pinned: false
 3. [flashlight/flashlight](https://github.com/flashlight/flashlight)
 4. [mlpack/mlpack](https://github.com/mlpack/mlpack)
 5. [arrayfire/arrayfire-ml](https://github.com/arrayfire/arrayfire-ml)
+6. [rockcarry/ffcnn](https://github.com/rockcarry/ffcnn)
 
 ## 参考
 
@@ -68,3 +69,4 @@ pinned: false
 7. [你工作中最推荐的C/C++程序库有哪些，为什么？-iiif的回答-知乎](https://www.zhihu.com/question/51134387/answer/571858930)
 8. [你工作中最推荐的C/C++程序库有哪些，为什么？-知乎用户的回答-知乎](https://www.zhihu.com/question/51134387/answer/386066052)
 9. [有哪些优秀的C++代码库可以推荐学习？-idealvin的回答-知乎](https://www.zhihu.com/question/281276664/answer/907647528)
+10. [有哪些值得推荐的小型C语言开源项目？-fanfan的回答-知乎](https://www.zhihu.com/question/20792016/answer/1982761892)
