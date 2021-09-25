@@ -207,6 +207,13 @@ ___加粗斜体___
 
 ## 高级技巧
 
+### 待办事项
+
+```markdown
+- [ ] 未完成
+- [x] 已完成
+```
+
 ### 支持HTML元素
 
 1. 不在Markdown涵盖范围之内的标签，都可以直接在文档里面用HTML撰写；
@@ -245,3 +252,4 @@ TODO
 1. [Markdown教程-菜鸟教程](https://www.runoob.com/markdown/md-tutorial.html)
 2. [Markdown语法教程](https://markdown.com.cn/)
 3. [代码块-简书](https://www.jianshu.com/p/c2b75ff24c33)
+4. [待办事项-简书](https://www.jianshu.com/p/0b257de21eb5)
