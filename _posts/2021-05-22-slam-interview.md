@@ -46,6 +46,8 @@ SLAM方向面试题存档。
 ### 详解
 
 1. [常用的排序算法总结-力扣（LeetCode）的文章-知乎](https://zhuanlan.zhihu.com/p/40695917)
+2. [十大经典排序算法-菜鸟教程](https://www.runoob.com/w3cnote/ten-sorting-algorithm.html)
+3. [排序算法总结-菜鸟教程](https://www.runoob.com/w3cnote/sort-algorithm-summary.html)
 
 ## GitHub
 
