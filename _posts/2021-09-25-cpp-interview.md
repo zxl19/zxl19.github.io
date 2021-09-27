@@ -13,6 +13,8 @@ C++面试知识点总结。
 
 <!-- more -->
 
+**整理中**
+
 ## C++ Hello World
 
 ### C++和C的区别
@@ -84,6 +86,7 @@ nullptr     // 空指针，C++11
 1. [C++教程-菜鸟教程](https://www.runoob.com/cplusplus/cpp-tutorial.html)
 2. [C++入门教程-C语言中文网](http://c.biancheng.net/cplus/)
 3. [C++11教程-C语言中文网](http://c.biancheng.net/cplus/11/)
-4. [siez_t和int1-CSDN博客](https://blog.csdn.net/wc11223/article/details/70553583)
-5. [siez_t和int2-CSDN博客](https://blog.csdn.net/qq_41598072/article/details/84924997)
-6. [NULL和nullptr-CSDN博客](https://blog.csdn.net/qq_18108083/article/details/84346655)
+4. [校招C++大概学习到什么程度？-程序员内功修炼的回答-知乎](https://www.zhihu.com/question/290102232/answer/2094675219)
+5. [siez_t和int1-CSDN博客](https://blog.csdn.net/wc11223/article/details/70553583)
+6. [siez_t和int2-CSDN博客](https://blog.csdn.net/qq_41598072/article/details/84924997)
+7. [NULL和nullptr-CSDN博客](https://blog.csdn.net/qq_18108083/article/details/84346655)
