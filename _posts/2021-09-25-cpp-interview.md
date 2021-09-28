@@ -19,11 +19,20 @@ C++面试知识点总结。
 
 ### C++和C的区别
 
-### 面向对象特征
+1. **C++是面向对象的语言，C是面向过程的语言；**
+2. C++引入`new/delete`运算符，取代了C中的`malloc/free`库函数；
+3. C++引入引用的概念，而C中没有；
+4. C++引入类的概念，而C中没有；
+5. C++引入函数重载的特性，而C中没有；
 
-1. **封装**；
-2. **继承**；
-3. **多态**；
+### 面向对象的三大特征
+
+1. **封装**：封装是面向对象方法的一个重要原则，就是把对象的属性和服务结合成一个独立的系统单位，并尽可能隐蔽对象的内部细节；
+2. **继承**：特殊类的对象用于其一般类的全部属性与服务，称作特殊类对一般类的继承；
+3. **多态**：多态性是指在一般类中定义的属性或行为，被特殊类继承之后，可以具有不同的数据类型或表现出不同的行为；
+
+    - 编译时的多态：绑定工作在编译连接阶段完成——静态绑定，e.g. 函数重载；
+    - 运行时的多态：绑定工作在程序运行阶段完成——动态绑定，e.g. 虚函数；
 
 ## 关键字用法
 
@@ -47,9 +56,28 @@ C++面试知识点总结。
 
 ### 关于`virtual`
 
+#### 虚函数
+
+##### 一般虚函数成员
+
+1. 虚函数声明只能出现在类定义中的函数原型声明中，而不能在成员函数实现的时候；
+2. 运行过程中的多态需要满足三个条件：
+
+    - 赋值兼容原则；
+    - 虚函数；
+    - 由成员函数来调用货或者是通过指针、引用来访问虚函数；
+
+##### 虚析构函数
+
+#### 纯虚函数和抽象类
+
+##### 纯虚函数
+
+##### 抽象类
+
 ## 区别辨析
 
-### 结构体`struct`和共用体`union`
+### 结构体`struct`和类`class`
 
 ### `#define`和`const`
 
@@ -73,20 +101,39 @@ nullptr     // 空指针，C++11
 
 ## C++11
 
-### 关于`auto`
+### 关于`auto`和`decltype`
+
+1. `auto`：让编译器在编译器就推导出变量的类型，可以通过=右边的类型推导出变量的类型。
+2. `decltype`：相对于auto用于推导变量类型，而decltype则用于推导表达式类型，这里只用于编译器分析表达式的类型，表达式实际不会进行运算。
 
 ### 关于`default`
 
 ### 关于`for`
 
+基于范围的`for`循环
+
+```cpp
+vector<int> vec;
+for (int i : vec) {}
+string str;
+for (char c : str) {}
+```
+
 ### 关于智能指针
+
+1. `std::shared_ptr`
+2. `std::weak_ptr`
+3. `std::unique_ptr`
+4. `std::auto_ptr`：C++11弃用，C++17移出；
 
 ## 参考
 
-1. [C++教程-菜鸟教程](https://www.runoob.com/cplusplus/cpp-tutorial.html)
-2. [C++入门教程-C语言中文网](http://c.biancheng.net/cplus/)
-3. [C++11教程-C语言中文网](http://c.biancheng.net/cplus/11/)
-4. [校招C++大概学习到什么程度？-程序员内功修炼的回答-知乎](https://www.zhihu.com/question/290102232/answer/2094675219)
-5. [siez_t和int1-CSDN博客](https://blog.csdn.net/wc11223/article/details/70553583)
-6. [siez_t和int2-CSDN博客](https://blog.csdn.net/qq_41598072/article/details/84924997)
-7. [NULL和nullptr-CSDN博客](https://blog.csdn.net/qq_18108083/article/details/84346655)
+1. [校招C++大概学习到什么程度？-程序员内功修炼的回答-知乎](https://www.zhihu.com/question/290102232/answer/2094675219)
+2. 《C++语言程序设计》
+3. [C++教程-菜鸟教程](https://www.runoob.com/cplusplus/cpp-tutorial.html)
+4. [C++入门教程-C语言中文网](http://c.biancheng.net/cplus/)
+5. [C++11教程-C语言中文网](http://c.biancheng.net/cplus/11/)
+6. [siez_t和int1-CSDN博客](https://blog.csdn.net/wc11223/article/details/70553583)
+7. [siez_t和int2-CSDN博客](https://blog.csdn.net/qq_41598072/article/details/84924997)
+8. [NULL和nullptr-CSDN博客](https://blog.csdn.net/qq_18108083/article/details/84346655)
+9. [C++11新特性，所有知识点都在这了！-程序喵大人的文章-知乎](https://zhuanlan.zhihu.com/p/139515439)
