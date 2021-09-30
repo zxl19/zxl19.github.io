@@ -140,8 +140,10 @@ Atom的深色主题，类似的主题还有City Lights theme、Material Theme（
 
 代码截图。
 
-1. `Ctrl`+`Shift`+`P`选择Polarcode；
+1. `Ctrl`+`Shift`+`P`选择Polacode；
 2. 选中要截图的代码；
+
+目前Polacode使用存在一定问题，可以使用CodeSnap或者Polacode-2020作为代替，使用方法同上。
 
 ### Python
 
