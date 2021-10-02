@@ -113,7 +113,7 @@ typedef unsigned long size_t;   // 64位
 
 ```cpp
 NULL        // 0
-nullptr     // 空指针，C++11
+nullptr     // 空指针，C++11引入
 ```
 
 ## C++11
