@@ -154,3 +154,4 @@ for (char c : str) {}
 7. [siez_t和int2-CSDN博客](https://blog.csdn.net/qq_41598072/article/details/84924997)
 8. [NULL和nullptr-CSDN博客](https://blog.csdn.net/qq_18108083/article/details/84346655)
 9. [C++11新特性，所有知识点都在这了！-程序喵大人的文章-知乎](https://zhuanlan.zhihu.com/p/139515439)
+10. [C++智能指针-小小将的文章-知乎](https://zhuanlan.zhihu.com/p/54078587)
