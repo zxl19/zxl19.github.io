@@ -75,6 +75,14 @@ pinned: false
 1. [【富士XT4】不一定提升创造力但能帮你避坑の配件分享](https://www.bilibili.com/video/BV1ii4y1u7eK)
 2. [【富士X100V】一台没有女孩不爱的相机丨必买的复古配件](https://www.bilibili.com/video/BV1Mb4y167oK)
 
+### 清洁耗材
+
+清洁耗材主要包括气吹（推荐单向带滤网）、擦镜纸（推荐蔡司）、CMOS清洁棒（推荐VSGO）等。
+
+1. [【熊猫】为什么你的镜头越擦越脏 相机CMOS传感器和镜头如何清洁的正确示范【教程技巧】[启宁qinings.com]](https://www.bilibili.com/video/BV1it411b7gd)
+2. [【顾俊】如何清洁你的相机和镜头！](https://www.bilibili.com/video/BV18b411n7u7)
+3. [【顾俊】清洁相机传感器居然是如此的简单？！](https://www.bilibili.com/video/BV1iQ4y1M7wz)
+
 ### GitHub
 
 1. [abpy/FujifilmCameraProfiles](https://github.com/abpy/FujifilmCameraProfiles)
@@ -123,10 +131,11 @@ pinned: false
 13. [摄瘾研究所](https://space.bilibili.com/245627923)
 14. [李涛PS](https://space.bilibili.com/85651824)
 15. [大马猫本](https://space.bilibili.com/44230905)
-16. [陈忠祥](https://space.bilibili.com/238171819)
-17. [巫师后期](https://space.bilibili.com/105686205)
-18. [摄影师EDI](https://space.bilibili.com/84480709)
-19. [HSINYALIN_林星亚](https://space.bilibili.com/7695611)
+16. [摄影师姚佳俊](https://space.bilibili.com/386460499)
+17. [陈忠祥](https://space.bilibili.com/238171819)
+18. [巫师后期](https://space.bilibili.com/105686205)
+19. [摄影师EDI](https://space.bilibili.com/84480709)
+20. [HSINYALIN_林星亚](https://space.bilibili.com/7695611)
 
 ## 参考
 
