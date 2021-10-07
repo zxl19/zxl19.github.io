@@ -30,7 +30,7 @@ pinned: false
 
 根据注释类型生成不同样式的注释。
 
-```markdown
+```text
 // ! 警告类语句（红色）
 // ? 疑问类语句（蓝色）
 // TODO 待办类语句（橙色）
@@ -161,7 +161,7 @@ Python语言扩展，安装Pylance、Jupyter、Jupyter Keymap使用增强功能�
 
 高亮`TODO:`和`FIXME:`标识，类似的扩展还有Todo Tree。
 
-```markdown
+```text
 TODO: 待办内容
 FIXME: 待修复内容
 ```

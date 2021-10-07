@@ -34,6 +34,8 @@ C++（包括CMake）学习资料存档。
 9. [TheLartians/ModernCppStarter](https://github.com/TheLartians/ModernCppStarter)
 10. [0voice/cpp_new_features](https://github.com/0voice/cpp_new_features)
 11. [muqsitnawaz/modern-cpp-cheatsheet](https://github.com/muqsitnawaz/modern-cpp-cheatsheet)
+12. [cpp-best-practices/cppbestpractices](https://github.com/cpp-best-practices/cppbestpractices)
+13. [cpp-best-practices/cpp_starter_project](https://github.com/cpp-best-practices/cpp_starter_project)
 
 ## 其他网站
 
