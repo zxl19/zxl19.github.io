@@ -47,6 +47,14 @@ pinned: false
 2. [当富士X-T4遇上X-Pro3【值不值得买第431期】](https://www.bilibili.com/video/BV1oV411C7hJ)
 3. [这个相机真的有点不一样！——富士X-S10无反相机【值不值得买第508期】](https://www.bilibili.com/video/BV1Y34y1Q7Hu)
 
+### 清洁保养
+
+清洁保养主要使用气吹（推荐单向带滤网）、擦镜纸（推荐蔡司）、CMOS清洁棒（推荐VSGO）等。
+
+1. [【熊猫】为什么你的镜头越擦越脏 相机CMOS传感器和镜头如何清洁的正确示范【教程技巧】[启宁qinings.com]](https://www.bilibili.com/video/BV1it411b7gd)
+2. [【顾俊】如何清洁你的相机和镜头！](https://www.bilibili.com/video/BV18b411n7u7)
+3. [【顾俊】清洁相机传感器居然是如此的简单？！](https://www.bilibili.com/video/BV1iQ4y1M7wz)
+
 ## 富士相机相关
 
 ```text
@@ -74,14 +82,6 @@ pinned: false
 
 1. [【富士XT4】不一定提升创造力但能帮你避坑の配件分享](https://www.bilibili.com/video/BV1ii4y1u7eK)
 2. [【富士X100V】一台没有女孩不爱的相机丨必买的复古配件](https://www.bilibili.com/video/BV1Mb4y167oK)
-
-### 清洁耗材
-
-清洁耗材主要包括气吹（推荐单向带滤网）、擦镜纸（推荐蔡司）、CMOS清洁棒（推荐VSGO）等。
-
-1. [【熊猫】为什么你的镜头越擦越脏 相机CMOS传感器和镜头如何清洁的正确示范【教程技巧】[启宁qinings.com]](https://www.bilibili.com/video/BV1it411b7gd)
-2. [【顾俊】如何清洁你的相机和镜头！](https://www.bilibili.com/video/BV18b411n7u7)
-3. [【顾俊】清洁相机传感器居然是如此的简单？！](https://www.bilibili.com/video/BV1iQ4y1M7wz)
 
 ### GitHub
 
