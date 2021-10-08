@@ -147,7 +147,7 @@ Atom的深色主题，类似的主题还有City Lights theme、Material Theme（
 
 ### Python
 
-Python语言扩展，安装Pylance、Jupyter、Jupyter Keymap使用增强功能和提高使用体验。
+Python语言扩展，安装Pylance、Jupyter、Jupyter Keymap、Jupyter Notebook Renderers使用增强功能和提高使用体验。
 
 ### Rainbow Fart
 
