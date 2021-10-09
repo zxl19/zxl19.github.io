@@ -25,9 +25,10 @@ The main repository serves as a curated list of awesome lists.
 
 ## C++（包括CMake）
 
-1. [fffaraz/awesome-cpp#frameworks](https://github.com/fffaraz/awesome-cpp#frameworks)
+1. [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp)
 2. [onqtam/awesome-cmake](https://github.com/onqtam/awesome-cmake)
 3. [p-ranav/awesome-hpp](https://github.com/p-ranav/awesome-hpp)
+4. [rigtorp/awesome-modern-cpp](https://github.com/rigtorp/awesome-modern-cpp)
 
 ## SLAM相关
 
