@@ -9,7 +9,7 @@ toc: true
 pinned: false
 ---
 
-Windows系统配置。
+目前我的Windows系统配置，包括软件存档、使用中的常见问题及解决方法。
 
 <!-- more -->
 
@@ -53,7 +53,7 @@ Windows系统配置。
 13. TeamViewer
 14. Typora
 
-## 常见问题
+## 常见问题及解决方法
 
 ### 关闭Windows 10自动更新
 

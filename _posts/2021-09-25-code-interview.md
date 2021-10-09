@@ -9,7 +9,7 @@ toc: true
 pinned: false
 ---
 
-代码面试编程知识点总结。
+代码面试编程知识点总结，内容来自牛客网[剑指offer](https://www.nowcoder.com/ta/coding-interviews)和[题霸面试必考真题【算法篇】](https://www.nowcoder.com/ta/job-code-total)专题。
 
 <!-- more -->
 
@@ -254,4 +254,4 @@ for (int i = 0; i < N - 1; i++) {
 ## 参考
 
 1. [剑指offer-牛客网](https://www.nowcoder.com/ta/coding-interviews)
-2. [题霸面试必考真题-牛客网](https://www.nowcoder.com/ta/job-code-total)
+2. [题霸面试必考真题【算法篇】-牛客网](https://www.nowcoder.com/ta/job-code-total)

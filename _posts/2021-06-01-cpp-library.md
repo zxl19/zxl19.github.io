@@ -17,6 +17,10 @@ pinned: false
 
 1. [microsoft/vcpkg](https://github.com/microsoft/vcpkg)
 
+## 格式化输出
+
+1. [fmtlib/fmt](https://github.com/fmtlib/fmt)
+
 ## 日期时间
 
 1. [HowardHinnant/date](https://github.com/HowardHinnant/date)
@@ -60,13 +64,13 @@ pinned: false
 
 ## 参考
 
-1. [fffaraz/awesome-cpp#frameworks](https://github.com/fffaraz/awesome-cpp#frameworks)
+1. [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp)
 2. [p-ranav/awesome-hpp](https://github.com/p-ranav/awesome-hpp)
-3. [有什么高质量的现代C++风格的开源代码?-知乎用户的回答-知乎](https://www.zhihu.com/question/23153437/answer/1962068242)
-4. [你读过的最好的C++开源代码是什么？-编程指北的回答-知乎](https://www.zhihu.com/question/21376384/answer/1925233838)
-5. [求问c++解析配置文件，解析命令输入的最佳实践，最好能给到相应的库？-邱昊宇的回答-知乎](https://www.zhihu.com/question/433864615/answer/1616753838)
-6. [Google对C++的影响有多大？-编程指北的回答-知乎](https://www.zhihu.com/question/40165082/answer/1925222483)
-7. [你工作中最推荐的C/C++程序库有哪些，为什么？-iiif的回答-知乎](https://www.zhihu.com/question/51134387/answer/571858930)
-8. [你工作中最推荐的C/C++程序库有哪些，为什么？-知乎用户的回答-知乎](https://www.zhihu.com/question/51134387/answer/386066052)
-9. [有哪些优秀的C++代码库可以推荐学习？-idealvin的回答-知乎](https://www.zhihu.com/question/281276664/answer/907647528)
+3. [你工作中最推荐的C/C++程序库有哪些，为什么？-iiif的回答-知乎](https://www.zhihu.com/question/51134387/answer/571858930)
+4. [有什么高质量的现代C++风格的开源代码?-知乎用户的回答-知乎](https://www.zhihu.com/question/23153437/answer/1962068242)
+5. [你读过的最好的C++开源代码是什么？-编程指北的回答-知乎](https://www.zhihu.com/question/21376384/answer/1925233838)
+6. [有哪些优秀的C++代码库可以推荐学习？-idealvin的回答-知乎](https://www.zhihu.com/question/281276664/answer/907647528)
+7. [求问c++解析配置文件，解析命令输入的最佳实践，最好能给到相应的库？-邱昊宇的回答-知乎](https://www.zhihu.com/question/433864615/answer/1616753838)
+8. [Google对C++的影响有多大？-编程指北的回答-知乎](https://www.zhihu.com/question/40165082/answer/1925222483)
+9. [你工作中最推荐的C/C++程序库有哪些，为什么？-知乎用户的回答-知乎](https://www.zhihu.com/question/51134387/answer/386066052)
 10. [有哪些值得推荐的小型C语言开源项目？-fanfan的回答-知乎](https://www.zhihu.com/question/20792016/answer/1982761892)
