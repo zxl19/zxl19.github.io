@@ -58,3 +58,4 @@ pinned: false
 9. [一次性胶片相机测评5-大宝的肥肥-bilibili](https://www.bilibili.com/video/BV13b411c7XZ)
 10. [胶片相机测评1-TESTV-bilibili](https://www.bilibili.com/video/BV1NJ411a7ug)
 11. [胶片相机测评2-S呐_-bilibili](https://www.bilibili.com/video/BV1hq4y1P736)
+12. [胶片相机测评3--彩蜂摄影杂志--bilibili](https://www.bilibili.com/video/BV1b4411Y7tC)

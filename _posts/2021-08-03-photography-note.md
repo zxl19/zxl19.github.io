@@ -94,10 +94,12 @@ pinned: false
 
 ### 教程
 
-1. [B站视频制作教程推荐](https://www.bilibili.com/read/cv960192)
-2. [【何同学】如何在B站学习做视频？ (P2附Pr零基础剪辑教程）](https://www.bilibili.com/video/BV1EW411R77n)
-3. [【Lightroom教程】6个新手也能入门摄影后期的操作小技巧](https://www.bilibili.com/video/BV1M64y147n3)
-4. [【干货】富士用户的Capture One后期指南【HSINYALIN】](https://www.bilibili.com/video/BV1b64y1i7sy)
+1. [全20集【Adobe Lightroom Classic从思路到后期调色】各功能详解视频教程目录](https://www.bilibili.com/read/cv13519248)
+2. [全15集【Luminar 4后期教程】手把手教你软件操作 - 旅行摄影小课堂出品](https://www.bilibili.com/read/cv13519185)
+3. [B站视频制作教程推荐](https://www.bilibili.com/read/cv960192)
+4. [【何同学】如何在B站学习做视频？ (P2附Pr零基础剪辑教程）](https://www.bilibili.com/video/BV1EW411R77n)
+5. [【Lightroom教程】6个新手也能入门摄影后期的操作小技巧](https://www.bilibili.com/video/BV1M64y147n3)
+6. [【干货】富士用户的Capture One后期指南【HSINYALIN】](https://www.bilibili.com/video/BV1b64y1i7sy)
 
 ### 工具
 
@@ -105,9 +107,10 @@ pinned: false
 
 1. Capture One
 2. Lightroom
-3. Photoshop
-4. [Photopea](https://www.photopea.com/)
-5. [稿定](https://ps.gaoding.com/#/)
+3. Luminar
+4. Photoshop
+5. [Photopea](https://www.photopea.com/)
+6. [稿定](https://ps.gaoding.com/#/)
 
 #### 视频剪辑
 
@@ -134,8 +137,9 @@ pinned: false
 16. [摄影师姚佳俊](https://space.bilibili.com/386460499)
 17. [陈忠祥](https://space.bilibili.com/238171819)
 18. [巫师后期](https://space.bilibili.com/105686205)
-19. [摄影师EDI](https://space.bilibili.com/84480709)
-20. [HSINYALIN_林星亚](https://space.bilibili.com/7695611)
+19. [NOFACE不是大触](https://space.bilibili.com/4012943)
+20. [摄影师EDI](https://space.bilibili.com/84480709)
+21. [HSINYALIN_林星亚](https://space.bilibili.com/7695611)
 
 ## 参考
 
