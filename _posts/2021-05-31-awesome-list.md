@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 优质Awesome List存档
+title: 高质量Awesome List存档
 date: 2021-05-31
 author: zxl19
 tags: [GitHub, Archive]
@@ -9,7 +9,7 @@ toc: true
 pinned: false
 ---
 
-GitHub上优质的Awesome List存档，主题涵盖C++（包括CMake）、SLAM等。
+GitHub上的高质量Awesome List存档，主题涵盖C++（包括CMake）、SLAM等。
 
 <!-- more -->
 

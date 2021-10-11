@@ -624,7 +624,7 @@ TODO
 5. [Overleaf Documentation](https://www.overleaf.com/learn)
 6. [BibTeX](https://www.bibtex.com/)
 
-### 优质模板
+### 高质量模板
 
 1. [CS310-Assignment Template](https://www.overleaf.com/latex/templates/cs310-assignment-template/qrqpndrxpcht)
 2. [Cheatsheet](https://www.latextemplates.com/template/cheatsheet)

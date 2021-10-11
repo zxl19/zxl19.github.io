@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 优质C++库存档
+title: 高质量C++库存档
 date: 2021-06-01
 author: zxl19
 tags: [C++, Archive]

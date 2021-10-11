@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 优质Ubuntu命令行工具存档
+title: 高质量Ubuntu命令行工具存档
 date: 2021-10-11
 author: zxl19
 tags: [Ubuntu, Archive]
