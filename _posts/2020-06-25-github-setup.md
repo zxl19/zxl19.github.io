@@ -54,7 +54,7 @@ pinned: false
     - GitLens——Git supercharged
 7. **自2021年8月14日起，GitHub取消了在命令行内使用用户名和密码的clone方式，改为使用Personal access tokens，经测试可以在命令行内使用SSH key进行clone**
 
-    ```bash
+    ```shell
     git clone git@github.com:<username>/<repository>.git
     ```
 

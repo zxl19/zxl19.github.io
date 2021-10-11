@@ -157,6 +157,7 @@ ___加粗斜体___
 | LaTeX | latex |
 | MATLAB | matlab |
 | Python | py, python |
+| Shell | bash, shell |
 | text | text, plain |
 
 ## 链接
