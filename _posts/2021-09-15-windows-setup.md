@@ -3,7 +3,7 @@ layout: post
 title: Windows系统配置
 date: 2021-09-15
 author: zxl19
-tags: [Windows, Archive]
+tags: [Windows, Note]
 comments: true
 toc: true
 pinned: false

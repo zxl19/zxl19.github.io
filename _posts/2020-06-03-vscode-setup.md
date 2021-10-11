@@ -3,7 +3,7 @@ layout: post
 title: VS Code配置存档
 date: 2020-06-03
 author: zxl19
-tags: [VS Code, Archive]
+tags: [VS Code, Note]
 comments: true
 toc: true
 pinned: false

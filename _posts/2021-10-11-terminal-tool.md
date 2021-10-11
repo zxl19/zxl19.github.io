@@ -39,8 +39,8 @@ pinned: false
 
 ## 终端
 
-1. [zsh](https://zsh.sourceforge.io/)
-2. [oh-my-zsh](https://github.com/ohmyzsh/ohmyzsh)
+1. [Zsh](https://zsh.sourceforge.io/)
+2. [Oh My Zsh](https://github.com/ohmyzsh/ohmyzsh)
 3. [tmux](https://github.com/tmux/tmux)
 4. [terminator](https://github.com/gnome-terminator/terminator)
 
@@ -60,6 +60,7 @@ pinned: false
 3. [有哪些命令行的软件堪称神器？-韦易笑的回答-知乎](https://www.zhihu.com/question/59227720/answer/286665684)
 4. [Trash-Cli：Linux上的命令行回收站工具-Linux中国的文章-知乎](https://zhuanlan.zhihu.com/p/44948578)
 5. [一句f**k代码自动纠错，美女程序员教你建一个狂拽酷炫的终端-量子位的文章-知乎](https://zhuanlan.zhihu.com/p/87694586)
-6. [oh-my-zsh-简书](https://www.jianshu.com/p/b8a80dd59414)
-7. [oh-my-zsh-博客园](https://www.cnblogs.com/lcgbk/p/13255836.html)
-8. [Ubuntu下实现命令行走代理/终端走代理的方法-lyh458的文章-知乎](https://zhuanlan.zhihu.com/p/377550825)
+6. [为什么说zsh是shell中的极品？-韦易笑的回答-知乎](https://www.zhihu.com/question/21418449/answer/300879747)
+7. [Oh My Zsh-简书](https://www.jianshu.com/p/b8a80dd59414)
+8. [Oh My Zsh-博客园](https://www.cnblogs.com/lcgbk/p/13255836.html)
+9. [Ubuntu下实现命令行走代理/终端走代理的方法-lyh458的文章-知乎](https://zhuanlan.zhihu.com/p/377550825)
