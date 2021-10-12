@@ -25,15 +25,15 @@ int main {
     double pi = 3.14159265;
 
     // 输出六位有效数字：3.14159
-    std::cout << setprecision(6) << pi << std::endl;
+    std::cout << std::setprecision(6) << pi << std::endl;
 
     // 固定小数点，输出六位小数：3.141593
     // 全局设置
     std::cout.setf(std::ios::fixed);
-    std::cout << setprecision(6) << pi << std::endl;
+    std::cout << std::setprecision(6) << pi << std::endl;
     std::cout.unsetf(std::ios::fixed);
     // 局部设置
-    std::cout << std::ios::fixed << setprecision(6) << pi << std::endl;
+    std::cout << std::ios::fixed << std::setprecision(6) << pi << std::endl;
     return 0;
 }
 ```

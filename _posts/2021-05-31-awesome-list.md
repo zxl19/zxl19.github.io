@@ -84,6 +84,11 @@ The main repository serves as a curated list of awesome lists.
 1. [jyguyomarch/awesome-productivity](https://github.com/jyguyomarch/awesome-productivity)
 2. [eastlakeside/awesome-productivity-cn](https://github.com/eastlakeside/awesome-productivity-cn)
 
+## Zsh插件
+
+1. [unixorn/awesome-zsh-plugins](https://github.com/unixorn/awesome-zsh-plugins)
+2. [hmml/awesome-zsh](https://github.com/hmml/awesome-zsh)
+
 ## 参考
 
 1. [Awesome Lists](https://github.com/topics/awesome)

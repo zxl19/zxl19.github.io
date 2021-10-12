@@ -60,6 +60,6 @@ C++（包括CMake）学习资料存档。
 ## 参考
 
 1. [CMake如何入门？-0xCCCCCCCC的回答-知乎](https://www.zhihu.com/question/58949190/answer/999701073)
-2. [如何塑造一个拿的出手的 GitHub 账号？-GitHubPorn的回答-知乎](https://www.zhihu.com/question/47567490/answer/1866897272)
+2. [如何塑造一个拿的出手的GitHub账号？-GitHubPorn的回答-知乎](https://www.zhihu.com/question/47567490/answer/1866897272)
 3. [学习C++，应该循序渐进的看哪些书？-嘉炜的回答-知乎](https://www.zhihu.com/question/20410487/answer/15055637)
 4. [有什么高质量的现代C++风格的开源代码?-知乎用户的回答-知乎](https://www.zhihu.com/question/23153437/answer/1962068242)
