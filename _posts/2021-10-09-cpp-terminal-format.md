@@ -9,19 +9,46 @@ toc: true
 pinned: false
 ---
 
-C++设置终端输出样式的方法，包括字体和背景样式。
+C++设置终端输出样式的方法，包括数字格式、字体和底纹样式。
 
 <!-- more -->
 
-## 使用ANSI转义序列
+## 数字格式
 
-### 复杂实现
+### 有效数字和小数位数
 
-使用带参数宏定义了字体和背景样式。
+```cpp
+#include <iostream>
+#include <iomanip>
+
+int main {
+    double pi = 3.14159265;
+
+    // 输出六位有效数字：3.14159
+    std::cout << setprecision(6) << pi << std::endl;
+
+    // 固定小数点，输出六位小数：3.141593
+    // 全局设置
+    std::cout.setf(std::ios::fixed);
+    std::cout << setprecision(6) << pi << std::endl;
+    std::cout.unsetf(std::ios::fixed);
+    // 局部设置
+    std::cout << std::ios::fixed << setprecision(6) << pi << std::endl;
+    return 0;
+}
+```
+
+## 文字和底纹样式
+
+### 使用ANSI转义序列
+
+#### 复杂实现
+
+使用带参数宏定义了字体和底纹样式。
 
 ```cpp
 //
-// colors.h
+// colors.hpp
 //
 // Posted by Gon1332 May 15 2015 on StackOverflow
 // https://stackoverflow.com/questions/2616906/how-do-i-output-coloured-text-to-a-linux-terminal#2616912
@@ -30,8 +57,8 @@ C++设置终端输出样式的方法，包括字体和背景样式。
 // Modified by Shades Aug. 14 2018
 
 // PLEASE carefully read comments before using this tool, this will save you a lot of bugs that are going to be just about impossible to find.
-#ifndef COLORS_H
-#define COLORS_H
+#ifndef COLORS_HPP
+#define COLORS_HPP
 
 /* FOREGROUND */
 // These codes set the actual text to the specified color
@@ -121,10 +148,10 @@ C++设置终端输出样式的方法，包括字体和背景样式。
 
 // Example usage: cout << setBOLD << "I and all text after me will be BOLD/Bright until RESETTEXT is called in some way!" << endl;
 
-#endif /* COLORS_H */
+#endif /* COLORS_HPP */
 ```
 
-#### 使用方法
+##### 使用方法
 
 ```cpp
 // 使用后自动恢复默认样式，可嵌套使用
@@ -137,13 +164,13 @@ std::cout << SetForeRED << "This text and all text after it will be red until RE
 std::cout << SetBOLD << "I and all text after me will be BOLD/Bright until RESETTEXT is called in some way!" << std::endl;
 ```
 
-### 简单实现
+#### 简单实现
 
 使用带参数宏定义了字体样式。
 
 ```cpp
-#ifndef COLORS_H
-#define COLORS_H
+#ifndef COLORS_HPP
+#define COLORS_HPP
 
 //the following are UBUNTU/LINUX, and MacOS ONLY terminal color codes.
 #define RESET       "\033[0m"
@@ -164,17 +191,17 @@ std::cout << SetBOLD << "I and all text after me will be BOLD/Bright until RESET
 #define BOLDCYAN    "\033[1m\033[36m"   /* Bold Cyan */
 #define BOLDWHITE   "\033[1m\033[37m"   /* Bold White */
 
-#endif /* COLORS_H */
+#endif /* COLORS_HPP */
 ```
 
-#### 使用方法
+##### 使用方法
 
 ```cpp
 // 使用后保持当前样式设置，使用RESET恢复默认样式
 std::cout << RED << "Hello World" << RESET << std::endl;
 ```
 
-## 使用fmt库
+### 使用fmt库
 
 ```cpp
 #include <fmt/color.h>
@@ -188,7 +215,9 @@ int main() {
 
 ## 参考
 
-1. [设置输出颜色1-Stack Overflow](https://stackoverflow.com/questions/2616906/how-do-i-output-coloured-text-to-a-linux-terminal)
-2. [设置输出颜色2-Stack Overflow](https://stackoverflow.com/questions/9158150/colored-output-in-c/9158263)
-3. [ANSI escape code-Wikipedia](https://en.wikipedia.org/wiki/ANSI_escape_code)
-4. [fmtlib/fmt](https://github.com/fmtlib/fmt)
+1. [有效数字和小数位数1-CSDN博客](https://blog.csdn.net/weixin_39484422/article/details/89072133)
+2. [有效数字和小数位数2-CSDN博客](https://blog.csdn.net/xiongyangg/article/details/24439295)
+3. [文字和底纹样式1-Stack Overflow](https://stackoverflow.com/questions/2616906/how-do-i-output-coloured-text-to-a-linux-terminal)
+4. [文字和底纹样式2-Stack Overflow](https://stackoverflow.com/questions/9158150/colored-output-in-c/9158263)
+5. [ANSI escape code-Wikipedia](https://en.wikipedia.org/wiki/ANSI_escape_code)
+6. [fmtlib/fmt](https://github.com/fmtlib/fmt)
