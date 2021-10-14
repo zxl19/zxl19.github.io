@@ -50,8 +50,10 @@ pinned: false
 
 5. 首次使用需要在GitHub网站上进行验证，授权VS Code登录
 6. 安装相关VS Code插件：
+
     - GitHub Pull Requests and Issues
     - GitLens——Git supercharged
+
 7. **自2021年8月14日起，GitHub取消了在命令行内使用用户名和密码的clone方式，改为使用Personal access tokens，经测试可以在命令行内使用SSH key进行clone**
 
     ```shell
