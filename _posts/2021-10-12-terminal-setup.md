@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Ubuntu系统终端配置
-date: 2021-10-11
+date: 2021-10-12
 author: zxl19
 tags: [Ubuntu, Note]
 comments: true
