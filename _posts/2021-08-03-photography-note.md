@@ -13,6 +13,11 @@ pinned: false
 
 <!-- more -->
 
+## 重要概念
+
+1. [如何理解ISO、快门、光圈、曝光这几个概念？-王波的回答-知乎](https://www.zhihu.com/question/21427664/answer/40346193)
+2. [相机光圈、快门、焦距、感光度基本介绍-林青春的文章-知乎](https://zhuanlan.zhihu.com/p/152172663)
+
 ## 相机选择
 
 ```text
