@@ -13,10 +13,26 @@ pinned: false
 
 <!-- more -->
 
-## 重要概念
+## Photography Hello World
+
+### 重要概念
 
 1. [如何理解ISO、快门、光圈、曝光这几个概念？-王波的回答-知乎](https://www.zhihu.com/question/21427664/answer/40346193)
 2. [相机光圈、快门、焦距、感光度基本介绍-林青春的文章-知乎](https://zhuanlan.zhihu.com/p/152172663)
+
+### 阳光十六法则
+
+```text
+艳阳十六阴天八
+多云十一日暮四
+阴云压顶五点六
+雨天落雪同日暮
+```
+
+1. [Sunny 16 rule-Wikipedia](https://en.wikipedia.org/wiki/Sunny_16_rule)
+2. [学摄影需要死记硬背光圈快门数值吗？-张二二的回答-知乎](https://www.zhihu.com/question/424109671/answer/1517706641)
+3. [阳光16法则该如何去测光？-Spinlips的回答-知乎](https://www.zhihu.com/question/38169738/answer/75286013)\
+4. [【KingJvpes】玩胶片不可不学的阳光十六法则（中字）](https://www.bilibili.com/video/BV13j411f7gs)
 
 ## 相机选择
 
@@ -142,9 +158,10 @@ pinned: false
 16. [摄影师姚佳俊](https://space.bilibili.com/386460499)
 17. [陈忠祥](https://space.bilibili.com/238171819)
 18. [巫师后期](https://space.bilibili.com/105686205)
-19. [NOFACE不是大触](https://space.bilibili.com/4012943)
-20. [摄影师EDI](https://space.bilibili.com/84480709)
-21. [HSINYALIN_林星亚](https://space.bilibili.com/7695611)
+19. [即影InstAmour](https://space.bilibili.com/14118905)
+20. [NOFACE不是大触](https://space.bilibili.com/4012943)
+21. [摄影师EDI](https://space.bilibili.com/84480709)
+22. [HSINYALIN_林星亚](https://space.bilibili.com/7695611)
 
 ## 相关网站
 
