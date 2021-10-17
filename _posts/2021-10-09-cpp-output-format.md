@@ -1,6 +1,6 @@
 ---
 layout: post
-title: C++设置终端输出样式
+title: C++设置输出样式
 date: 2021-10-09
 author: zxl19
 tags: [C++, Note]
@@ -9,9 +9,24 @@ toc: true
 pinned: false
 ---
 
-C++设置终端输出样式的方法，包括数字格式、字体和底纹样式。
+C++设置输出样式的方法，包括输出到文件和终端中的数字格式、字体和底纹样式。
 
 <!-- more -->
+
+## 文件输出
+
+```cpp
+#include <iostream>
+#include <ofstream>
+#include <string>
+
+int main() {
+    std::string filename = "output.txt";
+    std::ofstream outfile(filename, std::ios::out);
+    outfile << "Hello World!" << std::endl;
+    return 0;
+}
+```
 
 ## 数字格式
 
@@ -21,7 +36,7 @@ C++设置终端输出样式的方法，包括数字格式、字体和底纹样�
 #include <iostream>
 #include <iomanip>
 
-int main {
+int main() {
     double pi = 3.14159265;
 
     // 输出六位有效数字：3.14159
@@ -215,9 +230,10 @@ int main() {
 
 ## 参考
 
-1. [有效数字和小数位数1-CSDN博客](https://blog.csdn.net/weixin_39484422/article/details/89072133)
-2. [有效数字和小数位数2-CSDN博客](https://blog.csdn.net/xiongyangg/article/details/24439295)
-3. [文字和底纹样式1-Stack Overflow](https://stackoverflow.com/questions/2616906/how-do-i-output-coloured-text-to-a-linux-terminal)
-4. [文字和底纹样式2-Stack Overflow](https://stackoverflow.com/questions/9158150/colored-output-in-c/9158263)
-5. [ANSI escape code-Wikipedia](https://en.wikipedia.org/wiki/ANSI_escape_code)
-6. [fmtlib/fmt](https://github.com/fmtlib/fmt)
+1. [C++文件输入输出-十面埋伏的文章-知乎](https://zhuanlan.zhihu.com/p/346054098)
+2. [有效数字和小数位数1-CSDN博客](https://blog.csdn.net/weixin_39484422/article/details/89072133)
+3. [有效数字和小数位数2-CSDN博客](https://blog.csdn.net/xiongyangg/article/details/24439295)
+4. [文字和底纹样式1-Stack Overflow](https://stackoverflow.com/questions/2616906/how-do-i-output-coloured-text-to-a-linux-terminal)
+5. [文字和底纹样式2-Stack Overflow](https://stackoverflow.com/questions/9158150/colored-output-in-c/9158263)
+6. [ANSI escape code-Wikipedia](https://en.wikipedia.org/wiki/ANSI_escape_code)
+7. [fmtlib/fmt](https://github.com/fmtlib/fmt)
