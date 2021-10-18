@@ -17,12 +17,9 @@ C++设置输出样式的方法，包括输出到文件和终端中的数字格�
 
 ```cpp
 #include <iostream>
-#include <ofstream>
-#include <string>
 
 int main() {
-    std::string filename = "output.txt";
-    std::ofstream outfile(filename, std::ios::out);
+    std::ofstream outfile("output.txt", std::ios::out);
     outfile << "Hello World!" << std::endl;
     return 0;
 }
