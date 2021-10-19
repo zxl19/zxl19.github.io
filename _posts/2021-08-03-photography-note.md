@@ -17,22 +17,31 @@ pinned: false
 
 ### 重要概念
 
-1. [如何理解ISO、快门、光圈、曝光这几个概念？-王波的回答-知乎](https://www.zhihu.com/question/21427664/answer/40346193)
-2. [相机光圈、快门、焦距、感光度基本介绍-林青春的文章-知乎](https://zhuanlan.zhihu.com/p/152172663)
+```text
+刀锐奶化，毒德大学！
+```
+
+1. [新手如何系统性地学习摄影？-爱摄影的郭同学的回答-知乎](https://www.zhihu.com/question/36095338/answer/968639013)
+2. [新手如何系统性地学习摄影？-500px摄影社区的回答-知乎](https://www.zhihu.com/question/36095338/answer/2051012517)
+3. [如何理解ISO、快门、光圈、曝光这几个概念？-王波的回答-知乎](https://www.zhihu.com/question/21427664/answer/40346193)
+4. [相机光圈、快门、焦距、感光度基本介绍-林青春的文章-知乎](https://zhuanlan.zhihu.com/p/152172663)
+5. [“毒德大学”，“刀锐奶化”这些梗最初起源于哪？-家政学叫兽的回答-知乎](https://www.zhihu.com/question/412237760/answer/1386682793)
 
 ### 阳光十六法则
 
 ```text
-艳阳十六阴天八
-多云十一日暮四
-阴云压顶五点六
-雨天落雪同日暮
+艳阳十六阴天八；
+多云十一日暮四。
+阴云压顶五点六；
+雨天落雪同日暮。
 ```
 
 1. [Sunny 16 rule-Wikipedia](https://en.wikipedia.org/wiki/Sunny_16_rule)
 2. [学摄影需要死记硬背光圈快门数值吗？-张二二的回答-知乎](https://www.zhihu.com/question/424109671/answer/1517706641)
-3. [阳光16法则该如何去测光？-Spinlips的回答-知乎](https://www.zhihu.com/question/38169738/answer/75286013)\
-4. [【KingJvpes】玩胶片不可不学的阳光十六法则（中字）](https://www.bilibili.com/video/BV13j411f7gs)
+3. [学摄影需要死记硬背光圈快门数值吗？-平老虎的回答-知乎](https://www.zhihu.com/question/424109671/answer/1517337655)
+4. [阳光16法则该如何去测光？-平老虎的回答-知乎](https://www.zhihu.com/question/38169738/answer/917901861)
+5. [阳光16法则该如何去测光？-Spinlips的回答-知乎](https://www.zhihu.com/question/38169738/answer/75286013)
+6. [【KingJvpes】玩胶片不可不学的阳光十六法则（中字）](https://www.bilibili.com/video/BV13j411f7gs)
 
 ## 相机选择
 
@@ -51,7 +60,7 @@ pinned: false
 ### 单反与微单
 
 ```text
-硕大的肌肉，激情的拍摄。
+硕大的肌肉，激情的拍摄！
 ```
 
 相机的基本分类和区别，主要参考[Linksphotograph](https://space.bilibili.com/3816626/)和[彭弘Red](https://space.bilibili.com/55801838/)的视频。
