@@ -57,10 +57,20 @@ pinned: false
 
 1. [BVLC/caffe](https://github.com/BVLC/caffe)
 2. [tiny-dnn/tiny-dnn](https://github.com/tiny-dnn/tiny-dnn)
-3. [flashlight/flashlight](https://github.com/flashlight/flashlight)
-4. [mlpack/mlpack](https://github.com/mlpack/mlpack)
-5. [arrayfire/arrayfire-ml](https://github.com/arrayfire/arrayfire-ml)
-6. [rockcarry/ffcnn](https://github.com/rockcarry/ffcnn)
+3. [plaidml/plaidml](https://github.com/plaidml/plaidml)
+4. [flashlight/flashlight](https://github.com/flashlight/flashlight)
+5. [mlpack/mlpack](https://github.com/mlpack/mlpack)
+6. [arrayfire/arrayfire-ml](https://github.com/arrayfire/arrayfire-ml)
+7. [rockcarry/ffcnn](https://github.com/rockcarry/ffcnn)
+
+## 数学计算
+
+1. [Eigen](http://eigen.tuxfamily.org/)
+2. [Armadillo](http://arma.sourceforge.net/)
+3. [strasdat/Sophus](https://github.com/strasdat/Sophus)
+4. [autodiff/autodiff](https://github.com/autodiff/autodiff)
+5. [PatWie/CppNumericalSolvers](https://github.com/PatWie/CppNumericalSolvers)
+6. [johnmcfarlane/cnl](https://github.com/johnmcfarlane/cnl)
 
 ## 参考
 

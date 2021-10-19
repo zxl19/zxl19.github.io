@@ -118,6 +118,20 @@ nullptr     // 空指针，C++11引入
 
 ## C++11
 
+### 关于模板嵌套中的`>>`
+
+C++11要求嵌套模板类右侧的尖括号分开，为了避免与输入流运算符`>>`混淆。
+
+```cpp
+vector<vector<int> >
+```
+
+否则会报错：
+
+```text
+`>>' should be `> >' within a nested template argument list
+```
+
 ### 关于`auto`和`decltype`
 
 1. `auto`：让编译器在编译器就推导出变量的类型，可以通过=右边的类型推导出变量的类型。
@@ -153,5 +167,6 @@ for (char c : str) {}
 6. [siez_t和int1-CSDN博客](https://blog.csdn.net/wc11223/article/details/70553583)
 7. [siez_t和int2-CSDN博客](https://blog.csdn.net/qq_41598072/article/details/84924997)
 8. [NULL和nullptr-CSDN博客](https://blog.csdn.net/qq_18108083/article/details/84346655)
-9. [C++11新特性，所有知识点都在这了！-程序喵大人的文章-知乎](https://zhuanlan.zhihu.com/p/139515439)
-10. [C++智能指针-小小将的文章-知乎](https://zhuanlan.zhihu.com/p/54078587)
+9. [模板嵌套中的>>-Stack Overflow](https://stackoverflow.com/questions/6695261/template-within-template-why-should-be-within-a-nested-template-arg)
+10. [C++11新特性，所有知识点都在这了！-程序喵大人的文章-知乎](https://zhuanlan.zhihu.com/p/139515439)
+11. [C++智能指针-小小将的文章-知乎](https://zhuanlan.zhihu.com/p/54078587)
