@@ -30,10 +30,8 @@ pinned: false
 ### 阳光十六法则
 
 ```text
-艳阳十六阴天八；
-多云十一日暮四。
-阴云压顶五点六；
-雨天落雪同日暮。
+艳阳十六阴天八，多云十一日暮四。
+阴云压顶五点六，雨天落雪同日暮。
 ```
 
 1. [Sunny 16 rule-Wikipedia](https://en.wikipedia.org/wiki/Sunny_16_rule)
