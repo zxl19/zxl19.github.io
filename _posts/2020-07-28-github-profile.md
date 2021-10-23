@@ -19,125 +19,27 @@ pinned: false
 2. 选择仓库属性为Public；
 3. 勾选README初始化选项。
 
-## 动态显示GitHub统计信息
+## 标签
 
-添加以下语句以动态生成统计信息：
-
-```html
-<a href="https://github.com/zxl19">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=zxl19&count_private=true&show_icons=true&theme=prussian" />
-</a>
-<a href="https://github.com/zxl19">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zxl19&layout=compact&theme=prussian" />
-</a>
-```
-
-效果如下：
-
-[![zxl19's GitHub Stats](https://github-readme-stats.vercel.app/api?username=zxl19&count_private=true&show_icons=true&theme=prussian)](https://github.com/zxl19)
-
-[![zxl19's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zxl19&layout=compact&theme=prussian)](https://github.com/zxl19)
-
-具体使用方式和配置详见[GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats)
-
-## 生成项目标签
-
-可以在[Shields.io](https://shields.io/)上生成标签内容和样式。
-
-添加以下语句以生成项目标签，以GitHub followers和GitHub User's stars为例。
-
-### 左对齐
-
-```markdown
-![GitHub followers](https://img.shields.io/github/followers/zxl19?style=social) ![GitHub User's stars](https://img.shields.io/github/stars/zxl19?style=social)
-```
-
-效果如下：
-
-![GitHub followers](https://img.shields.io/github/followers/zxl19?style=social) ![GitHub User's stars](https://img.shields.io/github/stars/zxl19?style=social)
-
-### 居中
-
-```html
-<p align="center">
-    <a href="https://img.shields.io">
-        <img src="https://img.shields.io/github/followers/zxl19?style=social" alt="GitHub followers" />
-    </a>
-    <a href="https://img.shields.io">
-        <img src="https://img.shields.io/github/stars/zxl19?style=social" alt="GitHub User's stars" />
-    </a>
-</p>
-```
-
-效果如下：
-
-<p align="center">
-    <a href="https://img.shields.io">
-        <img src="https://img.shields.io/github/followers/zxl19?style=social" alt="GitHub followers" />
-    </a>
-    <a href="https://img.shields.io">
-        <img src="https://img.shields.io/github/stars/zxl19?style=social" alt="GitHub User's stars" />
-    </a>
-</p>
-
-## 参考
-
-1. [GitHub隐藏新功能！个人页还能这么玩？-GitHub Daily的文章-知乎](https://zhuanlan.zhihu.com/p/161029860)
-2. [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
-3. [几条经验美化你的GitHub开源项目-简书](https://www.jianshu.com/p/d587b91bacb3)
-4. [Shields.io](https://shields.io/)
-5. [badges/shields](https://github.com/badges/shields)
-6. [a-maliarov/awesome-shields](https://github.com/a-maliarov/awesome-shields)
-7. [antonkomarev/github-profile-views-counter](https://github.com/antonkomarev/github-profile-views-counter)
-8. [jwenjian/visitor-badge](https://github.com/jwenjian/visitor-badge)
-9. [gjbae1212/hit-counter](https://github.com/gjbae1212/hit-counter)
-
-<!-- ## 生成项目标签
-
-可以在[网站](https://shields.io/)上生成标签。
-
-添加以下语句以生成项目标签，以[996.ICU](https://github.com/996icu/996.ICU)为例。
-
-### 左对齐
-
-```markdown
-[![996.icu](https://img.shields.io/badge/link-996.icu-red.svg)](https://996.icu) [![LICENSE](https://img.shields.io/badge/license-Anti%20996-blue.svg)](https://github.com/996icu/996.ICU/blob/master/LICENSE)
-```
-
-效果如下：
-
-[![996.icu](https://img.shields.io/badge/link-996.icu-red.svg)](https://996.icu) [![LICENSE](https://img.shields.io/badge/license-Anti%20996-blue.svg)](https://github.com/996icu/996.ICU/blob/master/LICENSE)
-
-### 居中
-
-```html
-<p align="center">
-    <a href="https://996.icu">
-        <img src="https://img.shields.io/badge/link-996.icu-red.svg" alt="Badge" />
-    </a>
-    <a href="https://github.com/996icu/996.ICU/blob/master/LICENSE">
-        <img src="https://img.shields.io/badge/license-Anti%20996-blue.svg" alt="LICENSE" />
-    </a>
-</p>
-```
-
-效果如下：
-
-<p align="center">
-    <a href="https://996.icu">
-        <img src="https://img.shields.io/badge/link-996.icu-red.svg" alt="Badge" />
-    </a>
-    <a href="https://github.com/996icu/996.ICU/blob/master/LICENSE">
-        <img src="https://img.shields.io/badge/license-Anti%20996-blue.svg" alt="LICENSE" />
-    </a>
-</p>
-
-## 参考
-
-1. [GitHub隐藏新功能！个人页还能这么玩？-GitHub Daily的文章-知乎](https://zhuanlan.zhihu.com/p/161029860)
-2. [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
-3. [几条经验美化你的GitHub开源项目-简书](https://www.jianshu.com/p/d587b91bacb3)
-4. [996icu/996.ICU](https://github.com/996icu/996.ICU)
+1. [Shields.io](https://shields.io/)
+2. [996icu/996.ICU](https://github.com/996icu/996.ICU)
+3. [badges/shields](https://github.com/badges/shields)
+4. [alexandresanlim/Badges4-README.md-Profile](https://github.com/alexandresanlim/Badges4-README.md-Profile)
 5. [antonkomarev/github-profile-views-counter](https://github.com/antonkomarev/github-profile-views-counter)
 6. [jwenjian/visitor-badge](https://github.com/jwenjian/visitor-badge)
-7. [gjbae1212/hit-counter](https://github.com/gjbae1212/hit-counter) -->
+7. [gjbae1212/hit-counter](https://github.com/gjbae1212/hit-counter)
+8. [a-maliarov/awesome-shields](https://github.com/a-maliarov/awesome-shields)
+
+## 统计信息
+
+1. [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
+2. [lowlighter/metrics](https://github.com/lowlighter/metrics)
+3. [ryo-ma/github-profile-trophy](https://github.com/ryo-ma/github-profile-trophy)
+4. [durgeshsamariya/awesome-github-profile-readme-templates](https://github.com/durgeshsamariya/awesome-github-profile-readme-templates)
+5. [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
+6. [elangosundar/awesome-README-templates](https://github.com/elangosundar/awesome-README-templates)
+
+## 参考
+
+1. [GitHub隐藏新功能！个人页还能这么玩？-GitHub Daily的文章-知乎](https://zhuanlan.zhihu.com/p/161029860)
+2. [几条经验美化你的GitHub开源项目-简书](https://www.jianshu.com/p/d587b91bacb3)
