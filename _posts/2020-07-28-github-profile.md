@@ -16,8 +16,9 @@ pinned: false
 ## 创建GitHub Profile
 
 1. 新建仓库，仓库名与用户名一致；
-2. 选择仓库属性为Public；
-3. 勾选README初始化选项。
+2. 选择仓库属性为`Public`；
+3. 勾选README初始化选项；
+4. 修改`README.md`文件以更新GitHub Profile显示；
 
 ## 标签
 
