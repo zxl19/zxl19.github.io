@@ -39,6 +39,11 @@ pinned: false
 4. [durgeshsamariya/awesome-github-profile-readme-templates](https://github.com/durgeshsamariya/awesome-github-profile-readme-templates)
 5. [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
 6. [elangosundar/awesome-README-templates](https://github.com/elangosundar/awesome-README-templates)
+7. [Ashutosh00710/github-readme-activity-graph](https://github.com/Ashutosh00710/github-readme-activity-graph)
+
+## 美化
+
+1. [github-contribution-grid-snake](https://github.com/marketplace/actions/generate-snake-game-from-github-contribution-grid)
 
 ## 参考
 
