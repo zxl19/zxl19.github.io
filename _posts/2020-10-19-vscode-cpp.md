@@ -9,7 +9,7 @@ toc: true
 pinned: false
 ---
 
-记录如何在Windows系统下和Linux系统下的VS Code中搭建轻量化的C++开发环境。
+记录一下如何在Windows系统下和Linux系统下的VS Code中搭建轻量化的C++开发环境。
 
 <!-- more -->
 
