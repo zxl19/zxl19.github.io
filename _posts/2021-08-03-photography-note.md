@@ -41,82 +41,12 @@ pinned: false
 5. [阳光16法则该如何去测光？-Spinlips的回答-知乎](https://www.zhihu.com/question/38169738/answer/75286013)
 6. [【KingJvpes】玩胶片不可不学的阳光十六法则（中字）](https://www.bilibili.com/video/BV13j411f7gs)
 
-## 相机选择
+## 教材
 
-```text
-最重要的是镜头后面的那个头。
-```
+- 《一本摄影书》
+- 《美国纽约摄影学院摄影教材》
 
-### 重要参数
-
-1. 感光元件类型和大小；
-2. 焦距；
-3. 光圈大小；
-4. 像素；
-5. 连拍速度；
-
-### 单反与微单
-
-```text
-硕大的肌肉，激情的拍摄！
-```
-
-相机的基本分类和区别，主要参考[Linksphotograph](https://space.bilibili.com/3816626/)和[彭弘Red](https://space.bilibili.com/55801838/)的视频。
-
-1. [你到底该买哪台相机？从品牌参数到预算需求，一个视频讲清楚丨新手相机选购指南【links】](https://www.bilibili.com/video/BV1754y1D7eW)
-2. [【科普】新手小白应该怎么挑选相机，2020年相机选购指南](https://www.bilibili.com/video/BV1MK411W7mc)
-3. [相机丨新手小白应该买什么相机？2021相机选购指南](https://www.bilibili.com/video/BV1v44y1672N)
-
-### 品牌选择
-
-各品牌相机的特点及适合的任务，主要参考[TESTV官方频道](https://space.bilibili.com/11336264/)和[-LKs-](https://space.bilibili.com/125526/)的测评视频。
-
-1. [我找了11位知名UP主评价自己拍视频的设备丨器材终极选购指南](https://www.bilibili.com/video/BV1tJ41187w6)
-2. [当富士X-T4遇上X-Pro3【值不值得买第431期】](https://www.bilibili.com/video/BV1oV411C7hJ)
-3. [这个相机真的有点不一样！——富士X-S10无反相机【值不值得买第508期】](https://www.bilibili.com/video/BV1Y34y1Q7Hu)
-
-### 清洁保养
-
-清洁保养主要使用气吹（推荐单向带滤网）、擦镜纸（推荐蔡司）、CMOS清洁棒（推荐VSGO）等。
-
-1. [【熊猫】为什么你的镜头越擦越脏 相机CMOS传感器和镜头如何清洁的正确示范【教程技巧】[启宁qinings.com]](https://www.bilibili.com/video/BV1it411b7gd)
-2. [【顾俊】如何清洁你的相机和镜头！](https://www.bilibili.com/video/BV18b411n7u7)
-3. [【顾俊】清洁相机传感器居然是如此的简单？！](https://www.bilibili.com/video/BV1iQ4y1M7wz)
-
-## 富士相机相关
-
-```text
-腹肌南波湾！
-```
-
-### 使用技巧
-
-富士相机使用技巧，主要参考[摄影师EDI](https://space.bilibili.com/84480709/)和[HSINYALIN_林星亚](https://space.bilibili.com/7695611)的视频。
-
-1. [富士相机X系列入坑指南，新手相机怎么挑选，购买避坑经验分享](https://www.bilibili.com/video/BV18V411m7UG)
-2. [7个富士相机中会影响到画质的菜单设置-富士相机手把手操作教程-富士X-T3演示案例](https://www.bilibili.com/video/BV1CP4y1s7nz)
-3. [富士相机后期降噪方法对比Capture One还是Lightroom](https://www.bilibili.com/video/BV1N64y1b7oP)
-4. [你对RAW文件一无所知：Lightroom VS Capture One](https://www.bilibili.com/video/BV1So4y1d7MW)
-
-### 购买渠道
-
-由于疫情带来的全球半导体产量下降，大部分机型均无货，可以通过官网查找官方授权经销商。
-
-1. [支持丨富士胶片[中国]](https://www.fujifilm.com.cn/cn/zh-hans/consumer/support)
-
-### 配件选购
-
-配件主要包括快门按钮、相机包、肩带、遮光罩、专用手柄、热靴指柄等。一般来说，不推荐买相机皮套，会与光圈环和翻转屏干涉。肩带最好带快拆扣，方便取用。
-
-1. [【富士XT4】不一定提升创造力但能帮你避坑の配件分享](https://www.bilibili.com/video/BV1ii4y1u7eK)
-2. [【富士X100V】一台没有女孩不爱的相机丨必买的复古配件](https://www.bilibili.com/video/BV1Mb4y167oK)
-
-### GitHub
-
-1. [abpy/FujifilmCameraProfiles](https://github.com/abpy/FujifilmCameraProfiles)
-2. [fredrikaverpil/photography](https://github.com/fredrikaverpil/photography)
-3. [akirichev/fujifilm-recipes](https://github.com/akirichev/fujifilm-recipes)
-4. [karthik/fujifilm](https://github.com/karthik/fujifilm)
+1. [推荐一些摄影有关的书籍-平老虎的文章-知乎](https://zhuanlan.zhihu.com/p/44462745)
 
 ## 后期处理
 
@@ -179,9 +109,7 @@ pinned: false
 
 ## 参考
 
-1. [富士相机哪款性价比高？2021富士相机详细购买指南（超高性价比精选6款推荐）-花千里的文章-知乎](https://zhuanlan.zhihu.com/p/180538577)
-2. [想网购一部富士相机哪里买比较靠谱？-知乎用户的回答-知乎](https://www.zhihu.com/question/389541186/answer/1836869122)
-3. [7个免费在线PS网站（良心推荐，真正免费）-小盒的文章-知乎](https://zhuanlan.zhihu.com/p/93513748)
-4. [哪些网站让你感觉发现了新大陆？-不做闲鱼的回答-知乎](https://www.zhihu.com/question/293309623/answer/1675816377)
-5. [b站上有什么好的摄影教学？-早见Hayami的回答-知乎](https://www.zhihu.com/question/312241261/answer/1066491001)
-6. [关注bilibili这17个UP主，你甚至可以在B站学摄影！-A妹的文章-知乎](https://zhuanlan.zhihu.com/p/112964588)
+1. [7个免费在线PS网站（良心推荐，真正免费）-小盒的文章-知乎](https://zhuanlan.zhihu.com/p/93513748)
+2. [哪些网站让你感觉发现了新大陆？-不做闲鱼的回答-知乎](https://www.zhihu.com/question/293309623/answer/1675816377)
+3. [b站上有什么好的摄影教学？-早见Hayami的回答-知乎](https://www.zhihu.com/question/312241261/answer/1066491001)
+4. [关注bilibili这17个UP主，你甚至可以在B站学摄影！-A妹的文章-知乎](https://zhuanlan.zhihu.com/p/112964588)
