@@ -104,8 +104,6 @@ pinned: false
 
 1. [Digital Photography Review](https://www.dpreview.com/)
 2. [Digital Camera World](https://www.digitalcameraworld.com/)
-3. [Camera wiki](http://camera-wiki.org/)
-4. [Camera Film Photo](https://camerafilmphoto.com/)
 
 ## 参考
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 胶片相机使用注意事项
+title: 胶片相机使用笔记
 date: 2021-09-30
 author: zxl19
 tags: [Photography, Blog]
@@ -9,7 +9,7 @@ toc: true
 pinned: false
 ---
 
-胶片相机使用注意事项。
+我的胶片相机使用笔记，包括胶片相机的分类、胶片的分类、购买和使用中的注意事项等。
 
 <!-- more -->
 
@@ -34,7 +34,12 @@ pinned: false
 
 ### 单反胶片相机
 
-TODO
+“豆瓣四大神机”
+
+1. 尼康FM2；
+2. 佳能AE-1；
+3. 奥林巴斯OM-1；
+4. 美能达X700；
 
 ## 胶片分类
 
@@ -72,19 +77,25 @@ TODO
 1. 选择所使用胶片对应的工艺冲洗和扫描；
 2. 一次性相机建议冲洗时邮寄整台相机，不要尝试自行拆解相机取出胶卷；
 
+## 相关网站
+
+1. [Camera-wiki](http://camera-wiki.org/)
+2. [Camera Film Photo](https://camerafilmphoto.com/)
+
 ## 参考
 
 1. [有哪些一次性相机值得买？-开眼视频APP的文章-知乎](https://zhuanlan.zhihu.com/p/95774592)
 2. [淘宝几十块的胶片相机比几百几千的胶片机差在哪里？-王从虑的回答-知乎](https://www.zhihu.com/question/370198430/answer/1007999952)
-3. [Fujifilm QuickSnap-Camera wiki](http://camera-wiki.org/wiki/Fujifilm_QuickSnap)
-4. [135胶卷和120胶卷为啥叫135或者120？-李明殊的回答-知乎](https://www.zhihu.com/question/449850986/answer/1956764378)
-5. [想知道现在有哪些好用的胶卷？-Kyokuto的回答-知乎](https://www.zhihu.com/question/337425773/answer/767710936)
-6. [有哪些不错的135胶片值得推荐？-yang yang的回答-知乎](https://www.zhihu.com/question/67153109/answer/249925819)
-7. [一次性胶片相机测评1-阿豪的阁楼-bilibili](https://www.bilibili.com/video/BV1XJ411x71L)
-8. [一次性胶片相机测评2-朱增朋-bilibili](https://www.bilibili.com/video/BV1ss411H765)
-9. [一次性胶片相机测评3-Lampo--bilibili](https://www.bilibili.com/video/BV1oW411v77K)
-10. [一次性胶片相机测评4-FOTO-Elements摄元素-bilibili](https://www.bilibili.com/video/BV1j7411o7wQ)
-11. [一次性胶片相机测评5-大宝的肥肥-bilibili](https://www.bilibili.com/video/BV13b411c7XZ)
-12. [胶片相机测评1-TESTV-bilibili](https://www.bilibili.com/video/BV1NJ411a7ug)
-13. [胶片相机测评2-S呐_-bilibili](https://www.bilibili.com/video/BV1hq4y1P736)
-14. [胶片相机测评3--彩蜂摄影杂志--bilibili](https://www.bilibili.com/video/BV1b4411Y7tC)
+3. [Fujifilm QuickSnap-Camera-wiki](http://camera-wiki.org/wiki/Fujifilm_QuickSnap)
+4. [「豆瓣四大神机」从性能上说都有哪些优缺点？-是小Q啊的回答-知乎](https://www.zhihu.com/question/22895635/answer/23025818)
+5. [135胶卷和120胶卷为啥叫135或者120？-李明殊的回答-知乎](https://www.zhihu.com/question/449850986/answer/1956764378)
+6. [想知道现在有哪些好用的胶卷？-Kyokuto的回答-知乎](https://www.zhihu.com/question/337425773/answer/767710936)
+7. [有哪些不错的135胶片值得推荐？-yang yang的回答-知乎](https://www.zhihu.com/question/67153109/answer/249925819)
+8. [一次性胶片相机测评1-阿豪的阁楼-bilibili](https://www.bilibili.com/video/BV1XJ411x71L)
+9. [一次性胶片相机测评2-朱增朋-bilibili](https://www.bilibili.com/video/BV1ss411H765)
+10. [一次性胶片相机测评3-Lampo--bilibili](https://www.bilibili.com/video/BV1oW411v77K)
+11. [一次性胶片相机测评4-FOTO-Elements摄元素-bilibili](https://www.bilibili.com/video/BV1j7411o7wQ)
+12. [一次性胶片相机测评5-大宝的肥肥-bilibili](https://www.bilibili.com/video/BV13b411c7XZ)
+13. [胶片相机测评1-TESTV-bilibili](https://www.bilibili.com/video/BV1NJ411a7ug)
+14. [胶片相机测评2-S呐_-bilibili](https://www.bilibili.com/video/BV1hq4y1P736)
+15. [胶片相机测评3--彩蜂摄影杂志--bilibili](https://www.bilibili.com/video/BV1b4411Y7tC)
