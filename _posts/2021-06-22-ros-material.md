@@ -21,7 +21,8 @@ pinned: false
 ## GitHub
 
 1. [sychaichangkun/ROS-Academy-for-Beginners](https://github.com/sychaichangkun/ROS-Academy-for-Beginners)
-2. [kaixindelele/ros_demo_mooc](https://github.com/kaixindelele/ros_demo_mooc)
+2. [ros-industrial/industrial_training](https://github.com/ros-industrial/industrial_training)
+3. [kaixindelele/ros_demo_mooc](https://github.com/kaixindelele/ros_demo_mooc)
 
 ## 书籍
 
