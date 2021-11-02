@@ -58,10 +58,11 @@ pinned: false
 1. [BVLC/caffe](https://github.com/BVLC/caffe)
 2. [tiny-dnn/tiny-dnn](https://github.com/tiny-dnn/tiny-dnn)
 3. [plaidml/plaidml](https://github.com/plaidml/plaidml)
-4. [flashlight/flashlight](https://github.com/flashlight/flashlight)
-5. [mlpack/mlpack](https://github.com/mlpack/mlpack)
-6. [arrayfire/arrayfire-ml](https://github.com/arrayfire/arrayfire-ml)
-7. [rockcarry/ffcnn](https://github.com/rockcarry/ffcnn)
+4. [cjlin1/libsvm](https://github.com/cjlin1/libsvm)
+5. [flashlight/flashlight](https://github.com/flashlight/flashlight)
+6. [mlpack/mlpack](https://github.com/mlpack/mlpack)
+7. [arrayfire/arrayfire-ml](https://github.com/arrayfire/arrayfire-ml)
+8. [rockcarry/ffcnn](https://github.com/rockcarry/ffcnn)
 
 ## 数学计算
 

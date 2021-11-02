@@ -110,3 +110,4 @@ pinned: false
 
 1. [审稿意见怎么回复？需要注意什么？-知乎](https://www.zhihu.com/question/370758333)
 2. [英文论文写作有哪些需要注意的细节？-知乎](https://www.zhihu.com/question/46825717)
+3. [我来分享下自己总结的审稿意见回复的模板吧-方差的文章-知乎](https://zhuanlan.zhihu.com/p/346911007)
