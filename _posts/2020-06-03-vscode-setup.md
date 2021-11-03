@@ -15,7 +15,7 @@ pinned: false
 
 ## 编辑器配置
 
-1. 字体：使用等宽字体更加美观，特别是对于代码中空格的宽度和命令行中的命令显示，Windows下使用默认设置即可，Linux下可参考Windows使用monospace；
+1. 字体：使用等宽字体更加美观，特别是对于代码中空格的宽度和命令行中的命令显示，在Windows下使用默认设置即可，在Linux下可参考Windows使用`monospace`；
 2. 双击侧边栏和编辑区边界可以自动调整宽度；
 
 ## 扩展配置
@@ -54,6 +54,11 @@ pinned: false
 
 C/C++语言扩展。
 
+在Windows下会自动安装并配置clang-format，在Linux下需手动安装并配置clang-format。
+
+1. 安装clang-format：`sudo apt install clang-format`；
+2. 配置clang-format：在扩展设置中将可执行文件的完整路径设置为`/usr/bin/clang-format`；
+
 ### Chinese (Simplified) Language Pack for Visual Studio Code
 
 VS Code中文汉化。
@@ -76,7 +81,7 @@ CMake扩展。
 
 ### Crypto Tools
 
-提供一系列编码/解码、加密/解密工具，例如base32、SHA512等。
+提供一系列编码/解码、加密/解密工具，例如base32、SHA512等。目前base64加密中文存在bug，会出现乱码。
 
 ### Draw.io Integration
 
