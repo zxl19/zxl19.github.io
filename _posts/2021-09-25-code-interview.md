@@ -64,7 +64,42 @@ while (p1 != p2) {
 
 使用两个相距k的指针同时前进。
 
+##### JZ18 删除链表的节点
+
+1. 使用两个指针分别指向当前节点和当前节点的上一节点；
+2. 注意删除链表头结点的特殊情况；
+
+核心代码：
+
+```cpp
+if (head == nullptr) return nullptr;
+if (head->val == val) return head->next;
+ListNode* p_last = nullptr;
+ListNode* p_current = head;
+while(p_current) {
+    if (p_current->val == val) {
+        p_last->next = p_current->next;
+    }
+    p_last = p_current;
+    p_current = p_current->next;
+}
+return head;
+```
+
 #### 树
+
+##### JZ55 二叉树的深度
+
+递归调用，分别计算左右子树的深度并取最大值；
+
+核心代码：
+
+```cpp
+if (!pRoot) return 0;
+int lval = TreeDepth(pRoot->left);
+int rval = TreeDepth(pRoot->right);
+return max(lval, rval) + 1;
+```
 
 ##### JZ77 按之字形顺序打印二叉树
 

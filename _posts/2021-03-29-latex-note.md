@@ -9,7 +9,7 @@ toc: true
 pinned: true
 ---
 
-我的$\LaTeX$使用笔记及格式约定，供个人速查使用。
+我的$\LaTeX$使用笔记及格式约定。
 
 <!-- more -->
 

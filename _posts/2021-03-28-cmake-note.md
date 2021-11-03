@@ -9,7 +9,7 @@ toc: true
 pinned: true
 ---
 
-我的CMake学习笔记及常用模板，供个人速查使用。
+我的CMake学习笔记及常用工程模板。
 
 <!-- more -->
 
