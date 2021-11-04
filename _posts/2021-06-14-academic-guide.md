@@ -20,6 +20,10 @@ pinned: false
 3. [The Ph.D Grind](http://pgbovine.net/PhD-memoir/pguo-PhD-grind.pdf)
 4. [Some Modest Advice for Graduate Students](https://www.researchgate.net/publication/255653424_SOME_MODEST_ADVICE_FOR_GRADUATE_STUDENTS)
 
+## 网站
+
+1. [科学网——博客](http://blog.sciencenet.cn/blog.php)
+
 ## 参考
 
 1. [现代科研指北-于淼的文章-知乎](https://zhuanlan.zhihu.com/p/305646861)

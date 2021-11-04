@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 相机选购笔记
+title: 相机选购调研笔记
 date: 2021-10-29
 author: zxl19
 tags: [Photography, Blog]
@@ -9,7 +9,7 @@ toc: true
 pinned: false
 ---
 
-我的相机选购笔记，包括需求分析、相机构造与参数的选择、清洁保养方式等。
+我的相机选购调研笔记，包括需求分析、相机构造与参数的选择、清洁保养方式等。
 
 <!-- more -->
 
