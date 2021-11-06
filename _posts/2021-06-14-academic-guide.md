@@ -24,6 +24,10 @@ pinned: false
 
 1. [科学网——博客](http://blog.sciencenet.cn/blog.php)
 
+## GitHub
+
+1. [jbhuang0604/awesome-tips](https://github.com/jbhuang0604/awesome-tips)
+
 ## 参考
 
 1. [现代科研指北-于淼的文章-知乎](https://zhuanlan.zhihu.com/p/305646861)

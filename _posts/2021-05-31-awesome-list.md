@@ -89,6 +89,10 @@ The main repository serves as a curated list of awesome lists.
 1. [unixorn/awesome-zsh-plugins](https://github.com/unixorn/awesome-zsh-plugins)
 2. [hmml/awesome-zsh](https://github.com/hmml/awesome-zsh)
 
+## 科研
+
+1. [jbhuang0604/awesome-tips](https://github.com/jbhuang0604/awesome-tips)
+
 ## 参考
 
 1. [Awesome Lists](https://github.com/topics/awesome)
