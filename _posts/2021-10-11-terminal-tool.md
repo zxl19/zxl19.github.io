@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 高质量Ubuntu命令行工具存档
+title: 高质量Ubuntu系统命令行工具存档
 date: 2021-10-11
 author: zxl19
 tags: [Ubuntu, Archive]
@@ -9,7 +9,7 @@ toc: true
 pinned: false
 ---
 
-一些实用的Ubuntu命令行工具存档。
+一些实用的Ubuntu系统命令行工具存档。
 
 <!-- more -->
 

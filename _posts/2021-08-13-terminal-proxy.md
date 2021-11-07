@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Ubuntu命令行使用代理
+title: Ubuntu系统命令行使用代理
 date: 2021-08-13
 author: zxl19
 tags: [Ubuntu, Note]
@@ -9,7 +9,7 @@ toc: true
 pinned: false
 ---
 
-在安装代理工具后，在Ubuntu 18.04中使用`proxychains4`工具在命令行中使用代理。
+在安装代理工具后，在Ubuntu 18.04系统中使用`proxychains4`工具在命令行中使用代理。
 
 <!-- more -->
 

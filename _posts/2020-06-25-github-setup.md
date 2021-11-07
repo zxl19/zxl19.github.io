@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 在Windows和Ubuntu系统下使用GitHub进行版本管理
+title: 在Windows和Ubuntu系统中使用GitHub进行版本管理
 date: 2020-06-25
 author: zxl19
 tags: [GitHub, Note]
@@ -9,7 +9,7 @@ toc: true
 pinned: false
 ---
 
-记录一下如何在Windows和Ubuntu系统下使用GitHub进行版本管理。
+记录一下如何在Windows和Ubuntu系统中使用GitHub进行版本管理。
 
 <!-- more -->
 

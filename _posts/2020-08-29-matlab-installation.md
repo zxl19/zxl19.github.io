@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 在Ubuntu系统下安装MATLAB
+title: 在Ubuntu系统中安装MATLAB
 date: 2020-08-29
 author: zxl19
 tags: [MATLAB, Ubuntu, Note]
@@ -9,7 +9,7 @@ toc: true
 pinned: false
 ---
 
-记录一下如何在Ubuntu系统下安装MATLAB R2020a。
+记录一下如何在Ubuntu系统中安装MATLAB R2020a。
 
 <!-- more -->
 

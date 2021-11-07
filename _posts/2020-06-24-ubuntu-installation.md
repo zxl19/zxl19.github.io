@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Ubuntu安装记录及问题解决
+title: Ubuntu系统安装记录及问题解决
 date: 2020-06-24
 author: zxl19
 tags: [Ubuntu, Note]
@@ -9,7 +9,7 @@ toc: true
 pinned: false
 ---
 
-记录一下Ubuntu 16.04 LTS的安装过程及问题解决。
+记录一下Ubuntu 16.04 LTS系统的安装过程及问题解决。
 
 <!-- more -->
 

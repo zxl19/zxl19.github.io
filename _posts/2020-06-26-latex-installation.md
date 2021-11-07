@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 在Windows和Ubuntu系统下安装LaTeX发行版
+title: 在Windows和Ubuntu系统中安装LaTeX发行版
 date: 2020-06-26
 author: zxl19
 tags: [LaTeX, Note]
@@ -9,7 +9,7 @@ toc: true
 pinned: false
 ---
 
-记录一下如何在Windows和Ubuntu系统下安装LaTeX发行版TeXLive。
+记录一下如何在Windows和Ubuntu系统中安装LaTeX发行版TeXLive。
 
 <!-- more -->
 
