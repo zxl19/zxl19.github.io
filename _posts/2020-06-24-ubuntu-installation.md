@@ -129,4 +129,4 @@ pinned: false
 6. [清华大学开源软件镜像站](https://mirrors.tuna.tsinghua.edu.cn)
 7. [如何解决U盘装系统后磁盘总容量变小？-百度经验](https://jingyan.baidu.com/article/59703552e754e48fc00740ed.html)
 8. [重装Ubuntu时如何保留/home分区中的数据-博客园](https://www.cnblogs.com/maowang1991/p/3270441.html)
-9. [Ubuntu下~/.bashrc文件的恢复方法](https://blog.csdn.net/yucicheung/article/details/79334998)
+9. [Ubuntu下~/.bashrc文件的恢复方法-CSDN博客](https://blog.csdn.net/yucicheung/article/details/79334998)
