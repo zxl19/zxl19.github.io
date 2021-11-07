@@ -32,6 +32,7 @@ pinned: false
 ```text
 艳阳十六阴天八，多云十一日暮四。
 阴云压顶五点六，雨天落雪同日暮。
+室内球场二秒足，客厅戏台快门八。
 ```
 
 1. [Sunny 16 rule-Wikipedia](https://en.wikipedia.org/wiki/Sunny_16_rule)
@@ -43,8 +44,12 @@ pinned: false
 
 ## 教材
 
-- 《一本摄影书》
+```text
+大家注意啊！现在啊，白平衡自动，ISO100，光圈11（吸气声），光圈优先，现在开始拍！
+```
+
 - 《美国纽约摄影学院摄影教材》
+- 《一本摄影书》
 
 1. [推荐一些摄影有关的书籍-平老虎的文章-知乎](https://zhuanlan.zhihu.com/p/44462745)
 
