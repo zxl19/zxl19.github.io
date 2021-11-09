@@ -119,6 +119,14 @@ pinned: false
     source ~/.bashrc
     ```
 
+### 无法联网
+
+重启网络服务。
+
+```shell
+sudo service network-manager restart
+```
+
 ## 参考
 
 1. [Ubuntu downloads](https://ubuntu.com/download)
@@ -130,3 +138,5 @@ pinned: false
 7. [如何解决U盘装系统后磁盘总容量变小？-百度经验](https://jingyan.baidu.com/article/59703552e754e48fc00740ed.html)
 8. [重装Ubuntu时如何保留/home分区中的数据-博客园](https://www.cnblogs.com/maowang1991/p/3270441.html)
 9. [Ubuntu下~/.bashrc文件的恢复方法-CSDN博客](https://blog.csdn.net/yucicheung/article/details/79334998)
+10. [无法联网-CSDN博客](https://blog.csdn.net/nickdada/article/details/118152182)
+11. [重启网络服务-Stack Exchange](https://askubuntu.com/questions/230698/how-to-restart-the-networking-service)
