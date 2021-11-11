@@ -49,6 +49,8 @@ pinned: false
 
 3. 编写代码，注意路径中不要有空格和中文，否则gdb可能无法正常工作；
 
+    示例：
+
     ```cpp
     #include <iostream>
     #include <cstdlib>
@@ -81,7 +83,7 @@ pinned: false
         - 如果使用纯C，`command`填`gcc`，`args`中语言标准用`-std=c11`；
     - `F5`编译运行调试；
 
-5. 一个更复杂的例子：
+5. 一个更复杂的例子；
 
     - 语法报错：插件设置默认C++98，新语法无法识别，在`设置`->`扩展`->`C++`中进行格式设置；
         - `Clang_format_sort includes`：是否对头文件排序；
@@ -93,7 +95,7 @@ pinned: false
     - `Shift`+`Ctrl`+`B`只编译`g++.exe build active file`，编译出`.exe`文件；
     - 添加断点调试，查看变量的值（不是所有容器都可以查看值）；
 
-6. 多文件：
+6. 多文件；
 
     - 使用Makefile；
     - 在`tasks.json`中修改`command`为`make`，`args`不再需要；
@@ -112,6 +114,8 @@ pinned: false
 
 5. 安装插件，同上；
 6. 编写代码；
+
+    示例：
 
     ```cpp
     #include <iostream>

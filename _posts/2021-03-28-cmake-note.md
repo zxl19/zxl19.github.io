@@ -67,7 +67,7 @@ target_link_libraries(${PROJECT_NAME}
 ### ROS工程
 
 1. 使用`catkin_create_pkg`命令新建功能包，会自动生成`CMakeLists.txt`文件，其中包含格式说明；
-2. [ROS官方文档](http://wiki.ros.org/catkin/CMakeLists.txt)
+2. 参考[ROS官方文档](http://wiki.ros.org/catkin/CMakeLists.txt)；
 3. 参考[A-LOAM](https://github.com/HKUST-Aerial-Robotics/A-LOAM)、[LeGO-LOAM](https://github.com/RobustFieldAutonomyLab/LeGO-LOAM)、[LIO-SAM](https://github.com/TixiaoShan/LIO-SAM)、[LVI-SAM](https://github.com/TixiaoShan/LVI-SAM)等算法；
 4. 参考[hdl_graph_slam](https://github.com/koide3/hdl_graph_slam)使用Nodelet；
 
