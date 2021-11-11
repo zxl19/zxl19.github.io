@@ -107,13 +107,13 @@ pinned: false
 
 ### 重装系统后无`~/.bashrc`文件
 
-1. 复制系统中的备份文件；
+1. 复制系统中的备份文件：
 
     ```shell
     cp  /etc/skel/.bashrc   ~/
     ```
 
-2. 读取配置文件，使更改生效；
+2. 读取配置文件，使更改生效：
 
     ```shell
     source ~/.bashrc
@@ -121,7 +121,7 @@ pinned: false
 
 ### 无法联网
 
-重启网络服务。
+重启网络服务：
 
 ```shell
 sudo service network-manager restart
