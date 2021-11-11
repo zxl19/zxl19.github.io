@@ -36,6 +36,7 @@ pinned: false
 2. [jbeder/yaml-cpp](https://github.com/jbeder/yaml-cpp)
 3. [CLIUtils/CLI11](https://github.com/CLIUtils/CLI11)
 4. [kazuho/picojson](https://github.com/kazuho/picojson)
+5. [Nomango/configor](https://github.com/Nomango/configor)
 
 ## 调试分析
 
