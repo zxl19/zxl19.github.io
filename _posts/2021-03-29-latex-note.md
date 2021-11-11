@@ -61,7 +61,7 @@ pinned: true
 ## 格式约定
 
 1. 源码在遇到`\begin{}`时要缩进；
-2. 数学符号参考[常用数学符号的 LaTeX 表示方法](https://mohu.org/info/symbols/symbols.htm)，但有以下几点注意事项：
+2. 数学符号参考[常用数学符号的LaTeX表示方法](https://mohu.org/info/symbols/symbols.htm)，但有以下几点注意事项：
 
     - 上下标使用`{}`括起来；
     - 矩阵和向量使用`\mathbf{}`或`\boldsymbol{}`；
@@ -75,7 +75,7 @@ pinned: true
     - 导数使用`\mathrm{d}`，偏导数使用`\partial`；
     - 反对称矩阵使用`^{\wedge}`；
 
-3. 括号大小自动调整；
+3. 括号大小自动调整：
 
     ```latex
     \left(  \right)
@@ -121,7 +121,7 @@ pinned: true
 
 ### 全局模式
 
-在文档开头定义默认字体大小。
+在文档开头定义默认字体大小：
 
 ```latex
 \documentclass[12pt]{article}
@@ -129,7 +129,7 @@ pinned: true
 
 ### 局部模式
 
-在全局模式的基础上修改字体大小。
+在全局模式的基础上修改字体大小：
 
 ```latex
 \tiny           % 最小
@@ -218,7 +218,7 @@ $公式内容$
 
 #### 分段函数
 
-通常在`equation`或`align`环境中使用，对于大括号整体编号。
+通常在`equation`或`align`环境中使用，对于大括号整体编号：
 
 ```latex
 \begin{dcases}
@@ -227,8 +227,8 @@ $公式内容$
 \end{dcases}
 ```
 
-1. `dcases`     条件为纯公式，文本使用`\text{}`；
-2. `dcases*`    条件为纯文本，公式使用`$ $`；
+1. `dcases`：条件为纯公式，文本使用`\text{}`；
+2. `dcases*`：条件为纯文本，公式使用`$ $`；
 
 #### 向量/矩阵
 
@@ -274,7 +274,7 @@ $公式内容$
 
 ### 插入子图
 
-以四个子图2*2排列为例进行说明。
+以四个子图2*2排列为例进行说明：
 
 ```latex
 \begin{figure}[htbp]

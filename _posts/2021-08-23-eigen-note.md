@@ -22,7 +22,7 @@ pinned: true
 5. `#include <Eigen/Geometry>`为几何模块，包含SLAM相关的位姿表示、四元数、旋转向量等；
 6. 对于MATLAB用户，可以参考[Eigen short ASCII reference](https://eigen.tuxfamily.org/dox/AsciiQuickReference.txt)快速入门，[zxl19/Eigen-Cheatsheet](https://github.com/zxl19/Eigen-Cheatsheet)将其整理成Markdown和PDF文档；
 7. `Matrix`模板类定义了矩阵和向量，用于进行线性代数运算；`Array`模板类定义了数组，用于进行类似MATLAB的逐元素操作；
-8. Eigen使用`typedef`关键字重命名了常用大小的矩阵和数组，在使用中应尽可能少用动态大小的矩阵和数组，以提高运行速度；
+8. Eigen使用`typedef`关键字重命名了常用大小的矩阵和数组，在使用中应尽可能少用动态大小的矩阵和数组，以提高运行速度：
 
     ```cpp
     // Matrix类
@@ -39,7 +39,7 @@ pinned: true
     Array<float,4,1>                <=>   Array4f
     ```
 
-9. `Matrix`类和`Array`类之间运算和类型转换的规则；
+9. `Matrix`类和`Array`类之间运算和类型转换的规则：
 
     ```cpp
     Array44f a1, a2;
@@ -132,7 +132,7 @@ x.setUnit(size, i);
 
 #### 逐元素初始化
 
-可以使用`<<`运算符逐行对于元素进行初始化，也可以使用下标对于特定元素进行初始化。
+可以使用`<<`运算符逐行对于元素进行初始化，也可以使用下标对于特定元素进行初始化：
 
 ```cpp
 Eigen::Matrix2d A;
@@ -183,7 +183,7 @@ P.col(j)
 
 #### 取矩阵块
 
-以下两种方式等价，均表示从当前矩阵`(i, j)`元素处开始，取大小为`(rows, cols)`的矩阵。
+以下两种方式等价，均表示从当前矩阵`(i, j)`元素处开始，取大小为`(rows, cols)`的矩阵：
 
 ```cpp
 P.block(i, j, rows, cols)
@@ -233,14 +233,14 @@ x.cross(y)
 
 #### 求解Ax=b形式线性方程组
 
-全部求解方法及其对于矩阵要求、求解速度、求解精度对比：[Linear algebra and decompositions](https://eigen.tuxfamily.org/dox/group__TutorialLinearAlgebra.html)
-
 ```cpp
 x = A.inverse() * b;                    // 直接求逆，速度最慢
 x = A.colPivHouseholderQr().solve(b);   // 列主元QR分解
 x = A.llt().solve(b);                   // Cholesky分解，要求正定阵
 x = A.ldlt().solve(b);                  // LDLT分解，要求正定阵或非负定阵
 ```
+
+全部求解方法及其对于矩阵要求、求解速度、求解精度对比：[Linear algebra and decompositions](https://eigen.tuxfamily.org/dox/group__TutorialLinearAlgebra.html)。
 
 #### 特征值计算
 
@@ -320,6 +320,8 @@ array1.isNaN()
 
 旋转轴必须是单位向量，推荐使用基向量。
 
+示例：
+
 ```cpp
 // 3D旋转矩阵直接使用Eigen::Matrix3d或Eigen::Matrix3f
 Eigen::Matrix3d rotation_matrix = Eigen::Matrix3d::Identity();
@@ -336,6 +338,8 @@ Eigen::Vector3d v_rotated = rotation_matrix * v;
 
 #### 欧拉角
 
+示例：
+
 ```cpp
 // 欧拉角转旋转矩阵，借助旋转向量
 Eigen::AngleAxisd roll_vector(roll_rad, Eigen::Vector3d::UnitX());
@@ -349,6 +353,8 @@ Eigen::Vector3d euler_angles = rotation_matrix.eulerAngles(2, 1, 0);    // ZYX�
 #### 四元数
 
 必须使用单位四元数表示旋转。
+
+示例：
 
 ```cpp
 // 直接初始化，注意参数顺序为w，x，y，z
@@ -367,6 +373,8 @@ v_rotated = q * v;      // 注意数学上是qvq^{-1}
 
 #### 欧式变换
 
+示例：
+
 ```cpp
 // 欧氏变换矩阵使用 Eigen::Isometry
 Eigen::Isometry3d T = Eigen::Isometry3d::Identity();    // 虽然称为3d，实质上是4*4的矩阵
@@ -381,7 +389,7 @@ Eigen::Vector3d v_transformed = T * v;                  // 相当于R * v + t
 
 #### 旋转矩阵归一化
 
-1. 四元数法
+1. 四元数法：
 
     通过将旋转矩阵转换为四元数，将四元数归一化后再转回旋转矩阵。
 
@@ -391,7 +399,7 @@ Eigen::Vector3d v_transformed = T * v;                  // 相当于R * v + t
     R = q.normalized().toRotationMatrix();
     ```
 
-2. SVD分解法
+2. SVD分解法：
 
     ```cpp
     Eigen::Matrix3f R;
@@ -399,7 +407,7 @@ Eigen::Vector3d v_transformed = T * v;                  // 相当于R * v + t
     R = svd.matrixU() * svd.matrixV().transpose();
     ```
 
-3. 流形投影法
+3. 流形投影法：
 
     ```cpp
     Eigen::Matrix3f R;
