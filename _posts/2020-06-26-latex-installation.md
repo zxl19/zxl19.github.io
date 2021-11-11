@@ -22,17 +22,17 @@ pinned: false
 5. `Advanced->Customize->Languages`，只勾选`Chinese`、`Chinese/Japanese/Korean(base)`、`US and UK English`三项，其余语言包不常用，取消安装可以节省安装空间；
 6. `Advanced->Customize->Other collections`，确认只有`TeXworks editor`项未被勾选；
 7. 安装TeXLive；
-8. 安装TeXstudio。
+8. 安装TeXstudio；
 
 ## Ubuntu
 
-1. 安装LaTeX发行版；
+1. 安装LaTeX发行版：
 
     ```shell
     sudo apt-get install texlive-full
     ```
 
-2. 安装编辑器TeXstudio。
+2. 安装编辑器TeXstudio：
 
     ```shell
     sudo apt-get install texstudio
@@ -42,7 +42,7 @@ pinned: false
 
 1. 使用[Overleaf](https://www.overleaf.com)；
 2. 注册账号即可使用；
-3. 如果网络连接不上可以使用[Overleaf中文版](https://cn.overleaf.com)。
+3. 如果网络连接不上可以使用[Overleaf中文版](https://cn.overleaf.com)；
 
 ## 编译测试
 

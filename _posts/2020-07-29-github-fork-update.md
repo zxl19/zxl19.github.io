@@ -20,14 +20,14 @@ pinned: false
 3. 左侧`base repository`和`base`选择自己的仓库和分支，右侧`head repository`和`compare`选择来源仓库和分支；
 4. 点击`Create pull request`，填写创建信息；
 5. 点击`Merge pull request`，自动检查冲突项；
-6. 点击`Confirm merge`完成合并。
+6. 点击`Confirm merge`完成合并；
 
 ## 注意事项
 
 在发生冲突无法合并的时候，需要按照说明通过命令行进行手动合并。
 
 1. 首先将自己的仓库克隆到本地；
-2. 按照GitHub上的第一步进行命令行操作；
+2. 按照GitHub上的第一步进行命令行操作：
 
     ```text
     Step 1: From your project repository, check out a new branch and test the changes.
@@ -38,7 +38,7 @@ pinned: false
     git pull <original git repository> master
     ```
 
-3. 按照提示修改冲突的文件，冲突在文件中以如下方式说明，手动修改保留对应部分；
+3. 按照提示修改冲突的文件，冲突在文件中以如下方式说明，手动修改保留对应部分：
 
     ```text
     <<<<<<< HEAD
@@ -48,14 +48,14 @@ pinned: false
     >>>>>>> id
     ```
 
-4. 添加更改并提交；
+4. 添加更改并提交：
 
     ```shell
     git add <filename>
     git commit -m "message"
     ```
 
-5. 按照GitHub上的第二步进行命令行操作；
+5. 按照GitHub上的第二步进行命令行操作：
 
     ```text
     Step 2: Merge the changes and update on GitHub.
