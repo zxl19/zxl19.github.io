@@ -35,7 +35,8 @@ pinned: false
 ## 文本编辑
 
 1. vim
-2. [SpaceVim](https://github.com/SpaceVim/SpaceVim)
+2. [neovim](https://github.com/neovim/neovim)
+3. [SpaceVim](https://github.com/SpaceVim/SpaceVim)
 
 ## 终端
 
