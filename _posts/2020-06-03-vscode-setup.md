@@ -24,11 +24,13 @@ pinned: false
 
 ### AsciiDoc
 
-为AsciiDoc格式文档提供语言支持
+为AsciiDoc格式文档提供语言支持。
 
 ### Better Comments
 
 根据注释类型生成不同样式的注释。
+
+示例：
 
 ```text
 // ! 警告类语句（红色）
@@ -54,10 +56,11 @@ pinned: false
 
 C/C++语言扩展。
 
-在Windows下会自动安装并配置clang-format，在Linux下需手动安装并配置clang-format。
+1. 在Windows下会自动安装并配置clang-format；
+2. 在Linux下需手动安装并配置clang-format：
 
-1. 安装clang-format：`sudo apt install clang-format`；
-2. 配置clang-format：在扩展设置中将可执行文件的完整路径设置为`/usr/bin/clang-format`；
+   - 安装clang-format：`sudo apt install clang-format`；
+   - 配置clang-format：在扩展设置中将`可执行文件的完整路径`设置为`/usr/bin/clang-format`；
 
 ### Chinese (Simplified) Language Pack for Visual Studio Code
 
@@ -165,6 +168,8 @@ Python语言扩展，安装Pylance、Jupyter、Jupyter Keymap、Jupyter Notebook
 ### TODO Highlight
 
 高亮`TODO:`和`FIXME:`标识，类似的扩展还有Todo Tree。
+
+示例：
 
 ```text
 TODO: 待办内容

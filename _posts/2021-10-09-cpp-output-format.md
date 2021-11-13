@@ -56,7 +56,7 @@ int main() {
 
 #### 复杂实现
 
-使用带参数宏定义了字体和底纹样式。
+使用带参数宏定义了字体和底纹样式：
 
 ```cpp
 //
@@ -178,7 +178,7 @@ std::cout << SetBOLD << "I and all text after me will be BOLD/Bright until RESET
 
 #### 简单实现
 
-使用带参数宏定义了字体样式。
+使用带参数宏定义了字体样式：
 
 ```cpp
 #ifndef COLORS_HPP

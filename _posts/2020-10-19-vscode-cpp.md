@@ -17,7 +17,7 @@ pinned: false
 
 1. 下载安装VS Code，安装选项全部勾选；
 
-    - 安装插件`Chinese (Simplified) Language Pack for Visual Studio Code`，`C/C++`。
+    - 安装插件`Chinese (Simplified) Language Pack for Visual Studio Code`，`C/C++`；
 
 2. 安装C++工具链`MinGW-w64`；
 

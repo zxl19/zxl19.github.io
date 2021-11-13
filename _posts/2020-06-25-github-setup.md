@@ -19,16 +19,16 @@ pinned: false
 
 ## Ubuntu
 
-使用VS Code，UI已经集成git命令，结合插件进行管理。
+使用VS Code，其UI已经集成Git命令，结合GitHub相关插件进行管理。
 
-1. 设置全局变量
+1. 设置Git全局变量：
 
     ```shell
     git config --global user.name "your name"
     git config --global user.email "your@email.com"
     ```
 
-2. 创建SSH key
+2. 创建SSH key：
 
     ```shell
     ssh-keygen -t rsa -C "your@email.com"
@@ -36,11 +36,11 @@ pinned: false
 
     连续点三次回车确认。
 
-3. 保存SSH key
+3. 保存SSH key：
 
     复制`~/.ssh/id_rsa.pub`中的内容，在GitHub中`Setting`->`SSH and GPG keys`->`New SSH key`添加新的SSH key。
 
-4. 完成通信设置
+4. 完成通信设置：
 
     ```shell
     ssh -T git@github.com
@@ -48,13 +48,13 @@ pinned: false
 
     输入`yes`确认。
 
-5. 首次使用需要在GitHub网站上进行验证，授权VS Code登录
-6. 安装相关VS Code插件：
+5. 首次使用需要在GitHub网站上进行验证，授权VS Code登录；
+6. 安装相关VS Code插件；
 
     - GitHub Pull Requests and Issues
     - GitLens——Git supercharged
 
-7. **自2021年8月14日起，GitHub取消了在命令行内使用用户名和密码的clone方式，改为使用Personal access tokens，经测试可以在命令行内使用SSH key进行clone**
+7. **自2021年8月14日起，GitHub取消了在命令行内使用用户名和密码的clone方式，改为使用Personal access tokens，经测试可以在命令行内使用SSH key进行clone：**
 
     ```shell
     git clone git@github.com:<username>/<repository>.git

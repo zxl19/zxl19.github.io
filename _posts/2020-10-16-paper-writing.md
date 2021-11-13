@@ -16,7 +16,7 @@ pinned: false
 ## 文章结构
 
 1. 使用官方提供的模板；
-2. 采用总-分结构，先综述本文的方法，然后介绍方法的各个部分，对于文章创新点对应的部分要着重介绍，最后通过实验说明；
+2. 采用总-分结构，先综述本文的方法，然后介绍方法的各个部分，对于文章创新点对应的部分要着重介绍，最后通过实验说明：
 
     ```text
     Abstract
@@ -78,7 +78,7 @@ pinned: false
 ## 审稿人意见回复
 
 1. 参考[知乎问题](https://www.zhihu.com/question/370758333)；
-2. 参考[B站视频](https://www.bilibili.com/video/BV1ix411o7qq)进行对线 \doge；
+2. 参考[B站视频](https://www.bilibili.com/video/BV1ix411o7qq)进行对线\doge；
 
 ## 作者信息
 

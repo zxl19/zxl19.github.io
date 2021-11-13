@@ -49,6 +49,8 @@ key4 = True
 
 语法类似于字典。
 
+示例：
+
 ```python
 import configparser
 
@@ -83,6 +85,8 @@ with open('config.ini', 'w') as configfile:
 
 默认按照字符串读取并存储。
 
+示例：
+
 ```python
 import configparser
 
@@ -106,6 +110,8 @@ value1 = config['DEFAULT'].get('key1')
 
 建议使用对应的成员函数进行类型转换，不推荐使用显式类型转换，因为`bool('False')=True`。
 
+示例：
+
 ```python
 # 字符串
 value1 = config.get('DEFAULT', 'key1')
@@ -123,7 +129,7 @@ value4 = config.getboolean('DEFAULT', 'key4')
 
 在使用成员函数读取键对应的值时，可以使用`fallback`关键词指定在键不存在时返回的值，即回退值。
 
-需要注意的是：**默认值优先于回退值，如果键在默认节中有定义，则使用默认节中的值，回退值不起作用。**
+需要注意的是，**默认值优先于回退值，如果键在默认节中有定义，则使用默认节中的值，回退值不起作用：**
 
 ```python
 # 默认节中不存在同名的键，使用回退值
