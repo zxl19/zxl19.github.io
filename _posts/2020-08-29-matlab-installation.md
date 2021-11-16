@@ -107,4 +107,6 @@ Ubuntu系统中的快捷键默认采用Emacs默认集，可以采用如下方式
 1. [安装-博客园](https://www.cnblogs.com/taoyuyeit/p/8823311.html)
 2. [添加工具包-CSDN博客](https://blog.csdn.net/will_ye/article/details/79645447)
 3. [快捷键设置-CSDN博客](https://blog.csdn.net/brandyzhaowei/article/details/7895298)
-4. [无法创建指定的文件夹-MATLAB Answers](https://www.mathworks.com/matlabcentral/answers/315712-why-do-i-receive-access-denied-or-folder-error-when-installing-matlab-on-linux)
+4. [file too short-MATLAB Answers](https://www.mathworks.com/matlabcentral/answers/514575-when-running-the-mathworks-installer-on-linux-why-do-i-get-the-error-install_unix-error-while-loa)
+5. [解压iso文件-Stack Exchange](https://unix.stackexchange.com/questions/70738/what-is-the-fastest-way-to-extract-an-iso)
+6. [无法创建指定的文件夹-MATLAB Answers](https://www.mathworks.com/matlabcentral/answers/315712-why-do-i-receive-access-denied-or-folder-error-when-installing-matlab-on-linux)
