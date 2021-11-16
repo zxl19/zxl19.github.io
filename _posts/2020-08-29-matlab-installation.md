@@ -79,18 +79,32 @@ pinned: false
     sudo chmod 777 -R toolbox
     ```
 
-## 注意事项
-
-**不要安装matlab-support！！！**
-
 ## 设置快捷键
 
 Ubuntu系统中的快捷键默认采用Emacs默认集，可以采用如下方式进行修改：
 
 `预设`->`MATLAB`->`键盘`->`快捷方式`->`Windows默认集`
 
+## 注意事项
+
+1. **不要安装matlab-support！！！**
+2. 不一定需要挂载`.iso`镜像，可以直接将镜像解压后安装；
+3. 系统自带工具可能导致解压不完全，运行安装文件会报错显示`file too short`，使用p7zip解压，保证解压完全：
+
+    ```shell
+    7z x R2021.iso
+    ```
+
+4. 有时安装文件无法以管理员权限运行，在指定安装目录时显示`无法创建指定的文件夹`，原因是当前用户不具有对于安装目录的操作权限，需要预先创建安装目录并修改目录的所有者，在`创建指向以下位置中的MATLAB脚本的符号链接`处同理：
+
+    ```shell
+    sudo chown -R $LOGNAME: /usr/local/MATLAB/R2021b
+    sudo chown -R $LOGNAME: /usr/local/bin
+    ```
+
 ## 参考
 
 1. [安装-博客园](https://www.cnblogs.com/taoyuyeit/p/8823311.html)
 2. [添加工具包-CSDN博客](https://blog.csdn.net/will_ye/article/details/79645447)
 3. [快捷键设置-CSDN博客](https://blog.csdn.net/brandyzhaowei/article/details/7895298)
+4. [无法创建指定的文件夹-MATLAB Answers](https://www.mathworks.com/matlabcentral/answers/315712-why-do-i-receive-access-denied-or-folder-error-when-installing-matlab-on-linux)

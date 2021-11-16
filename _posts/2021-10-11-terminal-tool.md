@@ -24,6 +24,7 @@ pinned: false
 
 1. tree
 2. [trash-cli](https://github.com/andreafrancia/trash-cli)
+3. [p7zip](https://www.7-zip.org/links.html)
 
 ## 命令查询
 
