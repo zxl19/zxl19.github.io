@@ -126,6 +126,13 @@ pinned: false
 重启网络服务：
 
 ```shell
+sudo service network-manager stop
+sudo service network-manager start
+```
+
+或者：
+
+```shell
 sudo service network-manager restart
 ```
 
