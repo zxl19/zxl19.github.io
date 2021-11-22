@@ -63,17 +63,19 @@ pinned: false
 
 ### 型号选择
 
-1. [当富士X-T4遇上X-Pro3【值不值得买第431期】](https://www.bilibili.com/video/BV1oV411C7hJ)
-2. [这个相机真的有点不一样！——富士X-S10无反相机【值不值得买第508期】](https://www.bilibili.com/video/BV1Y34y1Q7Hu)
+1. [这个相机真的有点不一样！——富士X-S10无反相机【值不值得买第508期】](https://www.bilibili.com/video/BV1Y34y1Q7Hu)
+2. [当富士X-T4遇上X-Pro3【值不值得买第431期】](https://www.bilibili.com/video/BV1oV411C7hJ)
+3. [《值不值得买》第283期：真，腹肌南波湾_富士X-T3](https://www.bilibili.com/video/BV13b411A7DN)
 
 ### 使用技巧
 
 富士相机使用技巧，主要参考[摄影师EDI](https://space.bilibili.com/84480709/)和[HSINYALIN_林星亚](https://space.bilibili.com/7695611)的视频。
 
-1. [富士相机X系列入坑指南，新手相机怎么挑选，购买避坑经验分享](https://www.bilibili.com/video/BV18V411m7UG)
-2. [7个富士相机中会影响到画质的菜单设置-富士相机手把手操作教程-富士X-T3演示案例](https://www.bilibili.com/video/BV1CP4y1s7nz)
-3. [富士相机后期降噪方法对比Capture One还是Lightroom](https://www.bilibili.com/video/BV1N64y1b7oP)
-4. [你对RAW文件一无所知：Lightroom VS Capture One](https://www.bilibili.com/video/BV1So4y1d7MW)
+1. [富士相机X系列入坑指南II-2021年了富士相机该如何选择购买，漫谈富士产品线的划分](https://www.bilibili.com/video/BV14h411b7dX)
+2. [富士相机X系列入坑指南，新手相机怎么挑选，购买避坑经验分享](https://www.bilibili.com/video/BV18V411m7UG)
+3. [7个富士相机中会影响到画质的菜单设置-富士相机手把手操作教程-富士X-T3演示案例](https://www.bilibili.com/video/BV1CP4y1s7nz)
+4. [富士相机后期降噪方法对比Capture One还是Lightroom](https://www.bilibili.com/video/BV1N64y1b7oP)
+5. [你对RAW文件一无所知：Lightroom VS Capture One](https://www.bilibili.com/video/BV1So4y1d7MW)
 
 ### 购买渠道
 
