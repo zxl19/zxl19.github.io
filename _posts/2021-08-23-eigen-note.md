@@ -22,7 +22,7 @@ pinned: true
 5. `#include <Eigen/Geometry>`为几何模块，包含SLAM相关的位姿表示、四元数、旋转向量等；
 6. 对于MATLAB用户，可以参考[Eigen short ASCII reference](https://eigen.tuxfamily.org/dox/AsciiQuickReference.txt)快速入门，[zxl19/Eigen-Cheatsheet](https://github.com/zxl19/Eigen-Cheatsheet)将其整理成Markdown和PDF文档；
 7. `Matrix`模板类定义了矩阵和向量，用于进行线性代数运算；`Array`模板类定义了数组，用于进行类似MATLAB的逐元素操作；
-8. Eigen使用`typedef`关键字重命名了常用大小的矩阵和数组，在使用中应尽可能少用动态大小的矩阵和数组，以提高运行速度：
+8. Eigen使用`typedef`关键字重命名了常用大小的矩阵和数组，后缀`f`代表`float`、`d`代表`double`、`i`代表`int`，在使用中应尽可能少用动态大小的矩阵和数组，以提高运行速度：
 
     ```cpp
     // Matrix类
@@ -357,13 +357,18 @@ Eigen::Vector3d euler_angles = rotation_matrix.eulerAngles(2, 1, 0);    // ZYX�
 示例：
 
 ```cpp
-// 直接初始化，注意参数顺序为w，x，y，z
+// 直接初始化，注意参数顺序为(w，x，y，z)
 Eigen::Quaterniond q = Eigen::Quaterniond(q_w, q_x, q_y, q_z);
 // 可以把AngleAxis赋值给四元数，反之亦然
 Eigen::Quaterniond q = Eigen::Quaterniond(rotation_vector);
 // 可以把旋转矩阵赋值给四元数
 Eigen::Quaterniond q = Eigen::Quaterniond(rotation_matrix);
-q.coeffs()              // 注意coeffs的顺序是(x, y, z, w)，w为实部，前三者为虚部
+// 访问四元数中各元素
+q.x()
+q.y()
+q.z()
+q.w()
+q.coeffs()              // 注意coeffs的顺序是(x, y, z, w)，w为实部，前三者为虚部，这也是Eigen中四元数的存储顺序
 q.normalize()           // 单位化四元数
 q.matrix()              // 四元数转旋转矩阵
 q.toRotationMatrix()    // 四元数转旋转矩阵
