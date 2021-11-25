@@ -54,11 +54,18 @@ pinned: false
     - GitHub Pull Requests and Issues
     - GitLens——Git supercharged
 
-7. **自2021年8月14日起，GitHub取消了在命令行内使用用户名和密码的clone方式，改为使用Personal access tokens，经测试可以在命令行内使用SSH key进行clone：**
+7. **自2021年8月14日起，GitHub取消了在命令行内使用用户名和密码的clone方式，改为使用personal access token（PAT），经测试可以在命令行内使用SSH key进行clone：**
 
     ```shell
     git clone git@github.com:<username>/<repository>.git
     ```
+
+8. PAT生成和使用：
+
+    - GitHub网站上`Settings`->`Developer Settings`->`Personal access tokens`->`Generate new token`；
+    - 设置token名称、有效期，有效范围（勾选`repo`）；
+    - 点击`Generate token`，将生成的token保存；
+    - 在git clone和git push时将token当做密码使用；
 
 ## 参考
 
@@ -66,4 +73,5 @@ pinned: false
 2. [在VScode上配置Git-浪晋的文章-知乎](https://zhuanlan.zhihu.com/p/31417255)
 3. [github/gitignore](https://github.com/github/gitignore)
 4. [Token authentication requirements for Git operations](https://github.blog/2020-12-15-token-authentication-requirements-for-git-operations/)
-5. [GitHub防黑客新措施：弃用账密验证Git操作，改用token或SSH密钥，今天0点已执行-量子位的文章-知乎](https://zhuanlan.zhihu.com/p/399759963)
+5. [Creating a personal access token](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token)
+6. [GitHub防黑客新措施：弃用账密验证Git操作，改用token或SSH密钥，今天0点已执行-量子位的文章-知乎](https://zhuanlan.zhihu.com/p/399759963)
