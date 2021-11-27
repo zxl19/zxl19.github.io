@@ -62,6 +62,10 @@ The main repository serves as a curated list of awesome lists.
 5. [XuyangBai/awesome-point-cloud-registration](https://github.com/XuyangBai/awesome-point-cloud-registration)
 6. [kxhit/awesome-point-cloud-place-recognition](https://github.com/kxhit/awesome-point-cloud-place-recognition)
 
+### 激光雷达-相机外参标定
+
+1. [Deephome/Awesome-LiDAR-Camera-Calibration](https://github.com/Deephome/Awesome-LiDAR-Camera-Calibration)
+
 ### 计算机视觉
 
 1. [jbhuang0604/awesome-computer-vision](https://github.com/jbhuang0604/awesome-computer-vision)
