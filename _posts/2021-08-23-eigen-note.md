@@ -369,7 +369,8 @@ q.y()
 q.z()
 q.w()
 q.coeffs()              // 注意coeffs的顺序是(x, y, z, w)，w为实部，前三者为虚部，这也是Eigen中四元数的存储顺序
-q.normalize()           // 单位化四元数
+q.normalize()           // 归一化四元数，直接对原四元数操作，无返回值，不能作为等号右值
+q.normalized()          // 归一化四元数，原四元数不变，返回拷贝构造值，可以作为等号右值
 q.matrix()              // 四元数转旋转矩阵
 q.toRotationMatrix()    // 四元数转旋转矩阵
 // 使用四元数旋转一个向量，使用重载的乘法即可
@@ -433,5 +434,7 @@ Eigen::Vector3d v_transformed = T * v;                  // 相当于R * v + t
 8. [Linear algebra and decompositions](https://eigen.tuxfamily.org/dox/group__TutorialLinearAlgebra.html)
 9. [LU分解、LDLT分解和Cholesky分解-CSDN博客](https://blog.csdn.net/zhouliyang1990/article/details/21952485)
 10. [SVD-CSDN博客](https://blog.csdn.net/jiang_he_hu_hai/article/details/78363642)
-11. [旋转矩阵归一化1-Stack Overflow](https://stackoverflow.com/questions/21761909/eigen-convert-matrix3d-rotation-to-quaternion)
-12. [旋转矩阵归一化2-Stack Overflow](https://stackoverflow.com/questions/43896041/eigen-matrix-to-quaternion-and-back-have-different-result)
+11. [四元数归一化1-Stack Overflow](https://stackoverflow.com/questions/48019329/difference-between-norm-normalize-and-normalized-in-eigen)\
+12. [四元数归一化2-CSDN博客](https://blog.csdn.net/m0_56348460/article/details/117386857)
+13. [旋转矩阵归一化1-Stack Overflow](https://stackoverflow.com/questions/21761909/eigen-convert-matrix3d-rotation-to-quaternion)
+14. [旋转矩阵归一化2-Stack Overflow](https://stackoverflow.com/questions/43896041/eigen-matrix-to-quaternion-and-back-have-different-result)
