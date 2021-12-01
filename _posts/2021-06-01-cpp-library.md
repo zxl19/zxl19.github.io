@@ -37,8 +37,9 @@ pinned: false
 2. [jbeder/yaml-cpp](https://github.com/jbeder/yaml-cpp)
 3. [CLIUtils/CLI11](https://github.com/CLIUtils/CLI11)
 4. [kazuho/picojson](https://github.com/kazuho/picojson)
-5. [Nomango/configor](https://github.com/Nomango/configor)
-6. [taocpp/config](https://github.com/taocpp/config)
+5. [yaml/libyaml](https://github.com/yaml/libyaml)
+6. [Nomango/configor](https://github.com/Nomango/configor)
+7. [taocpp/config](https://github.com/taocpp/config)
 
 ## 调试分析
 
