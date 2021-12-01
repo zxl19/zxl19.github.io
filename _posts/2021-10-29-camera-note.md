@@ -49,11 +49,12 @@ pinned: false
 
 ## 清洁保养
 
-清洁保养主要使用气吹（推荐单向带滤网）、擦镜纸（推荐蔡司）、CMOS清洁棒（推荐VSGO）等。
+清洁保养主要使用气吹（推荐单向带滤网或者NITECORE）、擦镜纸（推荐蔡司）、CMOS清洁棒（推荐VSGO）等。
 
 1. [【熊猫】为什么你的镜头越擦越脏 相机CMOS传感器和镜头如何清洁的正确示范【教程技巧】[启宁qinings.com]](https://www.bilibili.com/video/BV1it411b7gd)
 2. [【顾俊】如何清洁你的相机和镜头！](https://www.bilibili.com/video/BV18b411n7u7)
 3. [【顾俊】清洁相机传感器居然是如此的简单？！](https://www.bilibili.com/video/BV1iQ4y1M7wz)
+4. [相机镜头全面清洁指南：自己清理CMOS传感器其实比想象中简单多了，清洁用品买哪家，迷你版对比测试](https://www.bilibili.com/video/BV1vR4y147T7)
 
 ## 富士相机相关
 
