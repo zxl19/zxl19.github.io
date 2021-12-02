@@ -21,8 +21,10 @@ pinned: true
 cmake_minimum_required(VERSION 3.0)
 project(project_name)
 
-set(CMAKE_BUILD_TYPE "Release")                         # 编译模式 Debug/Release
-set(CMAKE_CXX_FLAGS "-std=c++11")                       # 针对C++的编译选项
+set(CMAKE_BUILD_TYPE "Release")                         # 编译模式：Debug/Release
+set(CMAKE_CXX_STANDARD 11)                              # 指定C++标准：98、11、14、17、20
+set(CMAKE_CXX_STANDARD_REQUIRED TRUE)                   # 强制使用指定的C++标准
+set(CMAKE_CXX_FLAGS "-std=c++11")                       # 针对C++的编译选项（经测试用此方式无法指定C++标准）
 set(CMAKE_CXX_FLAGS_DEBUG "-O1 -Wall -g -pthread")      # 针对C++在Debug模式下的编译选项
 set(CMAKE_CXX_FLAGS_RELEASE "-O3 -Wall -g -pthread")    # 针对C++在Release模式下的编译选项
 # 采用如下方式也可，但是编译选项针对所有类型编译器
@@ -98,7 +100,13 @@ target_link_libraries()
 
 ### 结构说明
 
-1. 推荐使用`set()`进行编译选项的设置，注意追加和覆盖的区别；
+1. 推荐使用`set()`进行编译选项的设置，注意追加和覆盖的区别：
+
+    ```cmake
+    set(CMAKE_CXX_FLAGS "${CMAKE_CXX_FLAGS} -O3")   # 追加
+    set(CMAKE_CXX_FLAGS "-O3")                      # 覆盖
+    ```
+
 2. `add_compile_options()`和`add_definitions()`针对所有编译器，应慎重使用；
 3. 使用`add_subdirectory()`添加的子目录中需要存在`CMakeLists.txt`文件（内容可以为空）；
 4. 推荐使用`aux_source_directory()`或`set()`构建源文件列表；
@@ -113,6 +121,8 @@ target_link_libraries()
 | :------ | :------|
 | PROJECT_NAME | 工程名 |
 | CMAKE_BUILD_TYPE | 编译模式 |
+| CMAKE_CXX_STANDARD | 使用的C++标准 |
+| CMAKE_CXX_STANDARD_REQUIRED | 是否强制使用指定的C++标准 |
 | CMAKE_CXX_FLAGS | 编译参数 |
 | CMAKE_CXX_FLAGS_DEBUG | Debug模式下的编译参数 |
 | CMAKE_CXX_FLAGS_RELEASE | Release模式下的编译参数 |
@@ -141,13 +151,16 @@ target_link_libraries()
 
 1. [Ceres CMakeLists-CSDN博客](https://blog.csdn.net/sinat_28752257/article/details/82758546)
 2. [CMakeLists-简书](https://www.jianshu.com/p/95c744a5c6f1)
-3. [编译选项设置区别-CSDN博客](https://blog.csdn.net/10km/article/details/51731959)
-4. [catkin/CMakeLists.txt](http://wiki.ros.org/catkin/CMakeLists.txt)
-5. [HKUST-Aerial-Robotics/A-LOAM](https://github.com/HKUST-Aerial-Robotics/A-LOAM)
-6. [RobustFieldAutonomyLab/LeGO-LOAM](https://github.com/RobustFieldAutonomyLab/LeGO-LOAM)
-7. [TixiaoShan/LIO-SAM](https://github.com/TixiaoShan/LIO-SAM)
-8. [TixiaoShan/LVI-SAM](https://github.com/TixiaoShan/LVI-SAM)
-9. [koide3/hdl_graph_slam](https://github.com/koide3/hdl_graph_slam)
-10. [变量-简书](https://www.jianshu.com/p/1827cd86d576)
-11. [CMake如何入门？-0xCCCCCCCC的回答-知乎](https://www.zhihu.com/question/58949190/answer/999701073)
-12. [CMake和Modern CMake相关资料（不定期补充）-迦非喵的文章-知乎](https://zhuanlan.zhihu.com/p/205324774)
+3. [指定C++编译标准1-Crascit](https://crascit.com/2015/03/28/enabling-cxx11-in-cmake/)
+4. [指定C++编译标准2-腾讯云](https://cloud.tencent.com/developer/article/1741243)
+5. [指定C++编译标准3-azmddy](https://azmddy.github.io/article/%E7%BC%96%E8%AF%91%E6%9E%84%E5%BB%BA/cmake-day-2.html)
+6. [编译选项设置区别-CSDN博客](https://blog.csdn.net/10km/article/details/51731959)
+7. [catkin/CMakeLists.txt](http://wiki.ros.org/catkin/CMakeLists.txt)
+8. [HKUST-Aerial-Robotics/A-LOAM](https://github.com/HKUST-Aerial-Robotics/A-LOAM)
+9. [RobustFieldAutonomyLab/LeGO-LOAM](https://github.com/RobustFieldAutonomyLab/LeGO-LOAM)
+10. [TixiaoShan/LIO-SAM](https://github.com/TixiaoShan/LIO-SAM)
+11. [TixiaoShan/LVI-SAM](https://github.com/TixiaoShan/LVI-SAM)
+12. [koide3/hdl_graph_slam](https://github.com/koide3/hdl_graph_slam)
+13. [变量-简书](https://www.jianshu.com/p/1827cd86d576)
+14. [CMake如何入门？-0xCCCCCCCC的回答-知乎](https://www.zhihu.com/question/58949190/answer/999701073)
+15. [CMake和Modern CMake相关资料（不定期补充）-迦非喵的文章-知乎](https://zhuanlan.zhihu.com/p/205324774)
