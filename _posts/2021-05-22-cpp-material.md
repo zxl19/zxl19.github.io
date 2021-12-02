@@ -31,14 +31,15 @@ C++（包括CMake）学习资料存档。
 6. [TheAlgorithms/C-Plus-Plus](https://github.com/TheAlgorithms/C-Plus-Plus)
 7. [changkun/modern-cpp-tutorial](https://github.com/changkun/modern-cpp-tutorial)
 8. [AnthonyCalandra/modern-cpp-features](https://github.com/AnthonyCalandra/modern-cpp-features)
-9. [rigtorp/awesome-modern-cpp](https://github.com/rigtorp/awesome-modern-cpp)
-10. [wuye9036/CppTemplateTutorial](https://github.com/wuye9036/CppTemplateTutorial)
-11. [tangtangcoding/C-C-](https://github.com/tangtangcoding/C-C-)
-12. [TheLartians/ModernCppStarter](https://github.com/TheLartians/ModernCppStarter)
-13. [0voice/cpp_new_features](https://github.com/0voice/cpp_new_features)
-14. [muqsitnawaz/modern-cpp-cheatsheet](https://github.com/muqsitnawaz/modern-cpp-cheatsheet)
-15. [cpp-best-practices/cppbestpractices](https://github.com/cpp-best-practices/cppbestpractices)
-16. [cpp-best-practices/cpp_starter_project](https://github.com/cpp-best-practices/cpp_starter_project)
+9. [Tencent/secguide](https://github.com/Tencent/secguide)
+10. [rigtorp/awesome-modern-cpp](https://github.com/rigtorp/awesome-modern-cpp)
+11. [wuye9036/CppTemplateTutorial](https://github.com/wuye9036/CppTemplateTutorial)
+12. [cpp-best-practices/cppbestpractices](https://github.com/cpp-best-practices/cppbestpractices)
+13. [TheLartians/ModernCppStarter](https://github.com/TheLartians/ModernCppStarter)
+14. [tangtangcoding/C-C-](https://github.com/tangtangcoding/C-C-)
+15. [cpp-best-practices/cpp_starter_project](https://github.com/cpp-best-practices/cpp_starter_project)
+16. [0voice/cpp_new_features](https://github.com/0voice/cpp_new_features)
+17. [muqsitnawaz/modern-cpp-cheatsheet](https://github.com/muqsitnawaz/modern-cpp-cheatsheet)
 
 ## 其他网站
 
