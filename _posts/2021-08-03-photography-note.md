@@ -79,6 +79,7 @@ pinned: false
 
 1. Premiere
 2. [视频大拍档](https://spdpd.net/)
+3. [万兴喵影](https://www.wondershare.cn/products-solutions/video-creativity/video.html)
 
 ## 摄影UP主
 
