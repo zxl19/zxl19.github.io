@@ -77,8 +77,13 @@ colmap gui
 1. 建议在重建前先标定相机内参，在重建过程中设置不优化相机内参，防止重建失败；
 2. 使用ZED 2相机可以获得去畸变后的图片以及对应的相机内参（发布在camera_info话题中，每次开机自标定后内参会有细微不同），此时可直接采用`PINHOLE`相机模型；
 3. 一般来说采用`OpenCV`相机模型可以满足要求，模型参数包括`fx,fy,cx,cy,k1,k2,p1,p2`，在标定时径向畸变和切向畸变选择两参数模型；
+4. [Xbbei/super-colmap](https://github.com/Xbbei/super-colmap)使用[SuperPoint](https://github.com/magicleap/SuperPointPretrainedNetwork)代替COLMAP原来使用的SIFT特征来提取特征点，获得了更加鲁棒的特征点，提高了重建结果的质量，[zxl19/super-colmap](https://github.com/zxl19/super-colmap)在其基础上添加了手动回环检测；
+5. 迭代结束时重投影误差一般在0.8个像素左右；
 
 ## 参考
 
 1. [colmap/colmap](https://github.com/colmap/colmap)
 2. [COLMAP Documentation](https://colmap.github.io/)
+3. [Xbbei/super-colmap](https://github.com/Xbbei/super-colmap)
+4. [magicleap/SuperPointPretrainedNetwork](https://github.com/magicleap/SuperPointPretrainedNetwork)
+5. [rpautrat/SuperPoint](https://github.com/rpautrat/SuperPoint)
