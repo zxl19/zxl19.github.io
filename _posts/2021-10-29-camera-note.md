@@ -101,6 +101,7 @@ pinned: false
 ### 胶片模拟配方
 
 1. [Fuji X Weekly](https://fujixweekly.com/)
+2. [F16.click](https://www.f16.click/)
 
 ## 尼康相机相关
 
