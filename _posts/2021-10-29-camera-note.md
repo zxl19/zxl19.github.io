@@ -98,6 +98,10 @@ pinned: false
 3. [akirichev/fujifilm-recipes](https://github.com/akirichev/fujifilm-recipes)
 4. [karthik/fujifilm](https://github.com/karthik/fujifilm)
 
+### 胶片模拟配方
+
+1. [Fuji X Weekly](https://fujixweekly.com/)
+
 ## 尼康相机相关
 
 ### 型号选择
