@@ -242,9 +242,9 @@ $公式内容$
 
 1. 对齐方式：
 
-    - c：center，居中；
-    - l：left，左对齐；
-    - r：right，右对齐；
+    - `c`：center，居中；
+    - `l`：left，左对齐；
+    - `r`：right，右对齐；
 
 2. 列之间可以添加分隔线`|`；
 
@@ -263,10 +263,10 @@ $公式内容$
 
 1. 浮动格式说明：
 
-    - h：here，当前位置；
-    - t：top，顶部；
-    - b：bottom，底部；
-    - p：page of its own，浮动页；
+    - `h`：here，当前位置；
+    - `t`：top，顶部；
+    - `b`：bottom，底部；
+    - `p`：page of its own，浮动页；
 
 2. 强制浮动格式：`[!h]`，不考虑美观性；
 3. 图片格式推荐`.eps`；
@@ -327,7 +327,13 @@ $公式内容$
 ```
 
 1. 浮动格式说明同上；
-2. 对齐方式说明同上；
+2. 对齐方式：
+
+    - `c`：center，居中；
+    - `l`：left，左对齐；
+    - `r`：right，右对齐；
+    - `p{}`：超过指定宽度后自动换行，例如：`p{3cm}`；
+
 3. 表格框线：
 
     - 水平框线：使用`\hline`；
@@ -337,7 +343,7 @@ $公式内容$
 5. 不规则形状表格：
 
     ```latex
-    \multicolumn{number of cols}{pos}{text} % 跨多列
+    \multicolumn{number of cols}{pos}{text} % 跨多列，pos表示对齐方式
     \multirow{number of rows}{width}{text}  % 跨多行，宽度不定可用{*}
     ```
 
@@ -669,14 +675,15 @@ TODO
 14. [公式-简书](https://www.jianshu.com/p/97ec8a3739f6)
 15. [图片1-CSDN博客](https://blog.csdn.net/qq_38526623/article/details/103737589)
 16. [图片2-CSDN博客](https://blog.csdn.net/LeonSUST/article/details/89332744)
-17. [\multirow-CSDN博客](https://blog.csdn.net/robert_chen1988/article/details/80861246)
-18. [超链接-CSDN博客](https://blog.csdn.net/OOFFrankDura/article/details/90600855)
-19. [代码块1-Overleaf](https://www.overleaf.com/learn/latex/Code_listing)
-20. [代码块2-CSDN博客](https://blog.csdn.net/RobertChenGuangzhi/article/details/45126785)
-21. [脚注-LaTeX 工作室](https://www.latexstudio.net/archives/51620.html)
-22. [参考文献1-知乎](https://zhuanlan.zhihu.com/p/265479955)
-23. [参考文献2-知乎](https://zhuanlan.zhihu.com/p/114733612)
-24. [参考文献3-Stack Exchange](https://tex.stackexchange.com/questions/99615/backref-package-for-page-reference)
-25. [参考文献4-CSDN博客](https://blog.csdn.net/xovee/article/details/109715706)
-26. [参考文献5-CSDN博客](https://blog.csdn.net/xovee/article/details/109896563)
-27. [LaTeX公式转Word公式-简书](https://www.jianshu.com/p/0947ebcfc42e)
+17. [单元格换行-CSDN博客](https://blog.csdn.net/robertchenguangzhi/article/details/48916319)
+18. [\multirow-CSDN博客](https://blog.csdn.net/robert_chen1988/article/details/80861246)
+19. [超链接-CSDN博客](https://blog.csdn.net/OOFFrankDura/article/details/90600855)
+20. [代码块1-Overleaf](https://www.overleaf.com/learn/latex/Code_listing)
+21. [代码块2-CSDN博客](https://blog.csdn.net/RobertChenGuangzhi/article/details/45126785)
+22. [脚注-LaTeX 工作室](https://www.latexstudio.net/archives/51620.html)
+23. [参考文献1-知乎](https://zhuanlan.zhihu.com/p/265479955)
+24. [参考文献2-知乎](https://zhuanlan.zhihu.com/p/114733612)
+25. [参考文献3-Stack Exchange](https://tex.stackexchange.com/questions/99615/backref-package-for-page-reference)
+26. [参考文献4-CSDN博客](https://blog.csdn.net/xovee/article/details/109715706)
+27. [参考文献5-CSDN博客](https://blog.csdn.net/xovee/article/details/109896563)
+28. [LaTeX公式转Word公式-简书](https://www.jianshu.com/p/0947ebcfc42e)
