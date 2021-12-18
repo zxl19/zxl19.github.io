@@ -113,6 +113,8 @@ pinned: false
 
 1. [Digital Photography Review](https://www.dpreview.com/)
 2. [Digital Camera World](https://www.digitalcameraworld.com/)
+3. [Fuji Rumors](https://www.fujirumors.com/)
+4. [Nikon Rumors](https://nikonrumors.com/)
 
 ## 参考
 

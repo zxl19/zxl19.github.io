@@ -56,62 +56,78 @@ pinned: false
 3. [【顾俊】清洁相机传感器居然是如此的简单？！](https://www.bilibili.com/video/BV1iQ4y1M7wz)
 4. [相机镜头全面清洁指南：自己清理CMOS传感器其实比想象中简单多了，清洁用品买哪家，迷你版对比测试](https://www.bilibili.com/video/BV1vR4y147T7)
 
-## 富士相机相关
+## 相机品牌调研
+
+### 横向测评
+
+不同品牌间的横向测评，主要参考[毒德大学字幕组](https://space.bilibili.com/8990248)的视频。
+
+1. [【毒德大学字幕组】TCSTV八大品牌相机JPEG直出横评](https://www.bilibili.com/video/BV1Ys411e7nh)
+2. [【毒德大学字幕组】DPReview中端APS-C画幅相机横评](https://www.bilibili.com/video/BV1JJ411Q7WA)
+3. [【DPReview】年轻人的第一台相机？入门级APS-C画幅无反横评](https://www.bilibili.com/video/BV1oE411T7vV)
+
+### 富士
 
 ```text
 腹肌南波湾！
 ```
 
-### 型号选择
+#### 型号选择
 
-1. [这个相机真的有点不一样！——富士X-S10无反相机【值不值得买第508期】](https://www.bilibili.com/video/BV1Y34y1Q7Hu)
-2. [当富士X-T4遇上X-Pro3【值不值得买第431期】](https://www.bilibili.com/video/BV1oV411C7hJ)
-3. [《值不值得买》第283期：真，腹肌南波湾_富士X-T3](https://www.bilibili.com/video/BV13b411A7DN)
+型号选择参考，主要参考[毒德大学字幕组](https://space.bilibili.com/8990248)和[摄影师EDI](https://space.bilibili.com/84480709/)的视频
 
-### 使用技巧
+1. [【DPReview 4K】富士Fujifilm X-S10测评](https://www.bilibili.com/video/BV17K411P7Ek)
+2. [【DPReview 4K】中端APS-C对决！索尼α6400富士X-S10对比测评](https://www.bilibili.com/video/BV1ty4y1t7c4)
+3. [【DPReview 4K】富士Fujifilm X-T30II&X-S10对比测评](https://www.bilibili.com/video/BV13F411a75k)
+4. [【DPReview】富士Fujifilm XF&XC 35mm F2横评](https://www.bilibili.com/video/BV1AE411g7hh)
+5. [富士相机X系列入坑指南II-2021年了富士相机该如何选择购买，漫谈富士产品线的划分](https://www.bilibili.com/video/BV14h411b7dX)
+6. [富士相机X系列入坑指南，新手相机怎么挑选，购买避坑经验分享](https://www.bilibili.com/video/BV18V411m7UG)
+7. [这个相机真的有点不一样！——富士X-S10无反相机【值不值得买第508期】](https://www.bilibili.com/video/BV1Y34y1Q7Hu)
+8. [当富士X-T4遇上X-Pro3【值不值得买第431期】](https://www.bilibili.com/video/BV1oV411C7hJ)
+
+#### 使用技巧
 
 富士相机使用技巧，主要参考[摄影师EDI](https://space.bilibili.com/84480709/)和[HSINYALIN_林星亚](https://space.bilibili.com/7695611)的视频。
 
-1. [富士相机X系列入坑指南II-2021年了富士相机该如何选择购买，漫谈富士产品线的划分](https://www.bilibili.com/video/BV14h411b7dX)
-2. [富士相机X系列入坑指南，新手相机怎么挑选，购买避坑经验分享](https://www.bilibili.com/video/BV18V411m7UG)
-3. [7个富士相机中会影响到画质的菜单设置-富士相机手把手操作教程-富士X-T3演示案例](https://www.bilibili.com/video/BV1CP4y1s7nz)
-4. [富士相机后期降噪方法对比Capture One还是Lightroom](https://www.bilibili.com/video/BV1N64y1b7oP)
-5. [你对RAW文件一无所知：Lightroom VS Capture One](https://www.bilibili.com/video/BV1So4y1d7MW)
+1. [7个富士相机中会影响到画质的菜单设置-富士相机手把手操作教程-富士X-T3演示案例](https://www.bilibili.com/video/BV1CP4y1s7nz)
+2. [富士相机后期降噪方法对比Capture One还是Lightroom](https://www.bilibili.com/video/BV1N64y1b7oP)
+3. [你对RAW文件一无所知：Lightroom VS Capture One](https://www.bilibili.com/video/BV1So4y1d7MW)
 
-### 购买渠道
+#### 购买渠道
 
 由于疫情带来的全球半导体产量下降，大部分机型均无货，可以通过官网查找官方授权经销商。
 
 1. [支持丨富士胶片[中国]](https://www.fujifilm.com.cn/cn/zh-hans/consumer/support)
 
-### 配件选购
+#### 配件选购
 
 配件主要包括快门按钮、相机包、肩带、遮光罩、专用手柄、热靴指柄等。一般来说，不推荐买相机皮套，会与光圈环和翻转屏干涉。肩带最好带快拆扣，方便取用。
 
 1. [【富士XT4】不一定提升创造力但能帮你避坑の配件分享](https://www.bilibili.com/video/BV1ii4y1u7eK)
 2. [【富士X100V】一台没有女孩不爱的相机丨必买的复古配件](https://www.bilibili.com/video/BV1Mb4y167oK)
 
-### GitHub
+#### GitHub
 
 1. [abpy/FujifilmCameraProfiles](https://github.com/abpy/FujifilmCameraProfiles)
 2. [fredrikaverpil/photography](https://github.com/fredrikaverpil/photography)
 3. [akirichev/fujifilm-recipes](https://github.com/akirichev/fujifilm-recipes)
 4. [karthik/fujifilm](https://github.com/karthik/fujifilm)
 
-### 胶片模拟配方
+#### 胶片模拟
 
-1. [Fuji X Weekly](https://fujixweekly.com/)
-2. [F16.click](https://www.f16.click/)
+1. [胶片模拟丨全18种胶片模拟模式完整对比-富士数码影像的文章-知乎](https://zhuanlan.zhihu.com/p/338421522)
+2. [Fuji X Weekly](https://fujixweekly.com/)
+3. [F16.click](https://www.f16.click/)
 
-## 尼康相机相关
+### 尼康
 
-### 型号选择
+#### 型号选择
 
 1. [尼康Z50和Z5怎么选。？-荐机大师的回答-知乎](https://www.zhihu.com/question/427894187/answer/2043697040)
 2. [年轻人的第一台全画幅相机？Nikon Z5深度使用体验丨Links 4K丨尼康Z5](https://www.bilibili.com/video/BV1aZ4y1K7aC)
 3. [登顶雪山的感动 我想分享给你丨带着尼康Z50去登山](https://www.bilibili.com/video/BV1VJ41117An)
 
-### 预设
+#### 预设
 
 1. [Nikon Picture Control Editor](https://nikonpc.com/)
 2. [梦回胶片时代丨尼康Z fc丨Nikon](https://www.bilibili.com/video/BV15o4y1S7XQ)
