@@ -50,8 +50,10 @@ pinned: false
 
 - 《美国纽约摄影学院摄影教材》
 - 《一本摄影书》
+- 《旅行摄影圣经》
 
 1. [推荐一些摄影有关的书籍-平老虎的文章-知乎](https://zhuanlan.zhihu.com/p/44462745)
+2. [【干货】获奖摄影师的学习方法！从0到职业该如何有方法的学习？](https://www.bilibili.com/video/BV14K411K7df)
 
 ## 后期处理
 
@@ -61,8 +63,9 @@ pinned: false
 2. [全15集【Luminar 4后期教程】手把手教你软件操作 - 旅行摄影小课堂出品](https://www.bilibili.com/read/cv13519185)
 3. [B站视频制作教程推荐](https://www.bilibili.com/read/cv960192)
 4. [【何同学】如何在B站学习做视频？ (P2附Pr零基础剪辑教程）](https://www.bilibili.com/video/BV1EW411R77n)
-5. [【Lightroom教程】6个新手也能入门摄影后期的操作小技巧](https://www.bilibili.com/video/BV1M64y147n3)
-6. [【干货】富士用户的Capture One后期指南【HSINYALIN】](https://www.bilibili.com/video/BV1b64y1i7sy)
+5. [【负片】获奖摄影师的Capture One胶片后期指南](https://www.bilibili.com/video/BV1e64y1X72U)
+6. [【Lightroom教程】6个新手也能入门摄影后期的操作小技巧](https://www.bilibili.com/video/BV1M64y147n3)
+7. [【干货】富士用户的Capture One后期指南【HSINYALIN】](https://www.bilibili.com/video/BV1b64y1i7sy)
 
 ### 工具
 
