@@ -17,9 +17,11 @@ pinned: false
 
 1. [microsoft/vcpkg](https://github.com/microsoft/vcpkg)
 
-## 格式化输出
+## 命令行输出
 
 1. [fmtlib/fmt](https://github.com/fmtlib/fmt)
+2. [p-ranav/indicators](https://github.com/p-ranav/indicators)
+3. [p-ranav/tabulate](https://github.com/p-ranav/tabulate)
 
 ## 日期时间
 
@@ -37,9 +39,12 @@ pinned: false
 2. [jbeder/yaml-cpp](https://github.com/jbeder/yaml-cpp)
 3. [CLIUtils/CLI11](https://github.com/CLIUtils/CLI11)
 4. [kazuho/picojson](https://github.com/kazuho/picojson)
-5. [yaml/libyaml](https://github.com/yaml/libyaml)
-6. [Nomango/configor](https://github.com/Nomango/configor)
-7. [taocpp/config](https://github.com/taocpp/config)
+5. [p-ranav/argparse](https://github.com/p-ranav/argparse)
+6. [yaml/libyaml](https://github.com/yaml/libyaml)
+7. [p-ranav/structopt](https://github.com/p-ranav/structopt)
+8. [Nomango/configor](https://github.com/Nomango/configor)
+9. [p-ranav/csv2](https://github.com/p-ranav/csv2)
+10. [taocpp/config](https://github.com/taocpp/config)
 
 ## 调试分析
 
