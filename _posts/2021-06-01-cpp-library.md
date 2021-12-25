@@ -83,6 +83,10 @@ pinned: false
 5. [PatWie/CppNumericalSolvers](https://github.com/PatWie/CppNumericalSolvers)
 6. [johnmcfarlane/cnl](https://github.com/johnmcfarlane/cnl)
 
+## 加密
+
+1. [okdshin/PicoSHA2](https://github.com/okdshin/PicoSHA2)
+
 ## 参考
 
 1. [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp)
