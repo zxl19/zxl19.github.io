@@ -28,6 +28,14 @@ pinned: false
 7. 焦距：32毫米，树脂镜头；
 8. 快门速度：1/140秒；
 
+#### Fujifilm Simple Ace
+
+TODO
+
+#### Kodak FunSaver
+
+TODO
+
 ### 全自动胶片相机
 
 又称为“傻瓜相机”。
