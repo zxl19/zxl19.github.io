@@ -71,3 +71,17 @@ SLAM方向面试题存档。
 10. [forthespada/InterviewGuide](https://github.com/forthespada/InterviewGuide)
 11. [DarLiner/Algorithm_Interview_Notes-Chinese](https://github.com/DarLiner/Algorithm_Interview_Notes-Chinese)
 12. [Liber-coder/CV_Notes](https://github.com/Liber-coder/CV_Notes)
+
+## 计算机系课程
+
+1. [QSCTech/zju-icicles](https://github.com/QSCTech/zju-icicles)
+2. [PKUanonym/REKCARC-TSC-UHT](https://github.com/PKUanonym/REKCARC-TSC-UHT)
+3. [USTC-Resource/USTC-Course](https://github.com/USTC-Resource/USTC-Course)
+4. [c-hj/SJTU-Courses](https://github.com/c-hj/SJTU-Courses)
+5. [HuangCongQing/UCAS_Course_2019](https://github.com/HuangCongQing/UCAS_Course_2019)
+6. [15172658790/Blog](https://github.com/15172658790/Blog)
+7. [Salensoft/thu-cst-cracker](https://github.com/Salensoft/thu-cst-cracker)
+
+## 参考
+
+1. [GitHub开源计算机课程攻略yyds-逛逛GitHub的文章-知乎](https://zhuanlan.zhihu.com/p/447898788)
