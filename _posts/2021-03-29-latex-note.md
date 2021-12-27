@@ -76,14 +76,15 @@ pinned: true
     - 反对称矩阵使用`^{\wedge}`；
     - 矩阵转置使用`^{\mathrm{T}}`；
 
-3. 括号大小自动调整：
+3. 括号大小根据内容自动调整：
 
     ```latex
-    \left(  \right)
-    \left[  \right]
-    \left\{ \right\}
-    \left|  \right|
-    \left\| \right\|
+    \left(  \right)     % 小括号()
+    \left[  \right]     % 中括号[]
+    \left\{ \right\}    % 大括号{}
+    \left|  \right|     % 绝对值||
+    \left\| \right\|    % 范数
+    \left.  \right|     % 左侧不显示，右侧大小自动调整
     ```
 
 4. 使用`\hfill`进行水平填充，同理，使用`\vfill`进行垂直填充；
@@ -92,16 +93,16 @@ pinned: true
 7. 公式、图片、表格的引用标记要进行区分：
 
     ```latex
-    \label{eq:XXX}  % 公式
-    \label{fig:XXX} % 图片
-    \label{tab:XXX} % 表格
+    \label{eq:XXX}      % 公式
+    \label{fig:XXX}     % 图片
+    \label{tab:XXX}     % 表格
     ```
 
 8. 插入对号、错号：
 
     ```latex
-    \ding{51} % 对号
-    \ding{55} % 错号
+    \ding{51}           % 对号
+    \ding{55}           % 错号
     ```
 
 9. 使用`\today`插入当天日期；
@@ -109,13 +110,13 @@ pinned: true
 11. 字母音调：
 
     ```latex
-    \={}    % 一声
-    \'{}    % 二声
-    \v{}    % 三声
-    \u{}    % 类似三声的圆弧
-    \`{}    % 四声
-    \.{}    % 加点
-    \"{}    % 加双点
+    \={}                % 一声
+    \'{}                % 二声
+    \v{}                % 三声
+    \u{}                % 类似三声的圆弧
+    \`{}                % 四声
+    \.{}                % 加点
+    \"{}                % 加双点
     ```
 
 ## 字体大小
@@ -664,27 +665,30 @@ TODO
 2. [latex中文教程-15集从入门到精通包含各种latex操作-bilibili](https://www.bilibili.com/video/BV15x411j7k6)
 3. [【1天玩转LaTeX】【写论文不怕格式出错啦！！！】【耿楠教授授权发布】-bilibili](https://www.bilibili.com/video/BV15b411j7Au)
 4. [LaTex教程【中文字幕】LaTeX by Michelle Krummel-bilibili](https://www.bilibili.com/video/BV1hK41157GG)
-5. [\tab-Stack Exchange](https://tex.stackexchange.com/questions/198432/using-the-tab-command)
-6. [对号&错号-Stack Exchange](https://tex.stackexchange.com/questions/42619/x-mark-to-match-checkmark)
-7. [LaTeX页面设置-冬日暖阳的文章-知乎](https://zhuanlan.zhihu.com/p/360188228)
-8. [空格-Stack Exchange](https://tex.stackexchange.com/questions/31091/space-after-latex-commands)
-9. [音调1-CSDN博客](https://blog.csdn.net/xin_yu_xin/article/details/26467751)
-10. [音调2-知乎](https://zhuanlan.zhihu.com/p/75828544)
-11. [音调3-CSDN博客](https://blog.csdn.net/jianti9962/article/details/114481366)
-12. [字体大小-简书](https://www.jianshu.com/p/ad400d7fe885)
-13. [列表-CSDN博客](https://blog.csdn.net/HugoChen_cs/article/details/105189541)
-14. [公式-简书](https://www.jianshu.com/p/97ec8a3739f6)
-15. [图片1-CSDN博客](https://blog.csdn.net/qq_38526623/article/details/103737589)
-16. [图片2-CSDN博客](https://blog.csdn.net/LeonSUST/article/details/89332744)
-17. [单元格换行-CSDN博客](https://blog.csdn.net/robertchenguangzhi/article/details/48916319)
-18. [\multirow-CSDN博客](https://blog.csdn.net/robert_chen1988/article/details/80861246)
-19. [超链接-CSDN博客](https://blog.csdn.net/OOFFrankDura/article/details/90600855)
-20. [代码块1-Overleaf](https://www.overleaf.com/learn/latex/Code_listing)
-21. [代码块2-CSDN博客](https://blog.csdn.net/RobertChenGuangzhi/article/details/45126785)
-22. [脚注-LaTeX 工作室](https://www.latexstudio.net/archives/51620.html)
-23. [参考文献1-知乎](https://zhuanlan.zhihu.com/p/265479955)
-24. [参考文献2-知乎](https://zhuanlan.zhihu.com/p/114733612)
-25. [参考文献3-Stack Exchange](https://tex.stackexchange.com/questions/99615/backref-package-for-page-reference)
-26. [参考文献4-CSDN博客](https://blog.csdn.net/xovee/article/details/109715706)
-27. [参考文献5-CSDN博客](https://blog.csdn.net/xovee/article/details/109896563)
-28. [LaTeX公式转Word公式-简书](https://www.jianshu.com/p/0947ebcfc42e)
+5. [argmin&argmax-CSDN博客](https://blog.csdn.net/SunshineSki/article/details/87893347)
+6. [矩阵转置-知乎](https://zhuanlan.zhihu.com/p/27490955)
+7. [长竖线-知乎](https://www.zhihu.com/question/35119859/answer/61268787)
+8. [\tab-Stack Exchange](https://tex.stackexchange.com/questions/198432/using-the-tab-command)
+9. [对号&错号-Stack Exchange](https://tex.stackexchange.com/questions/42619/x-mark-to-match-checkmark)
+10. [LaTeX页面设置-冬日暖阳的文章-知乎](https://zhuanlan.zhihu.com/p/360188228)
+11. [空格-Stack Exchange](https://tex.stackexchange.com/questions/31091/space-after-latex-commands)
+12. [音调1-CSDN博客](https://blog.csdn.net/xin_yu_xin/article/details/26467751)
+13. [音调2-知乎](https://zhuanlan.zhihu.com/p/75828544)
+14. [音调3-CSDN博客](https://blog.csdn.net/jianti9962/article/details/114481366)
+15. [字体大小-简书](https://www.jianshu.com/p/ad400d7fe885)
+16. [列表-CSDN博客](https://blog.csdn.net/HugoChen_cs/article/details/105189541)
+17. [公式-简书](https://www.jianshu.com/p/97ec8a3739f6)
+18. [图片1-CSDN博客](https://blog.csdn.net/qq_38526623/article/details/103737589)
+19. [图片2-CSDN博客](https://blog.csdn.net/LeonSUST/article/details/89332744)
+20. [单元格换行-CSDN博客](https://blog.csdn.net/robertchenguangzhi/article/details/48916319)
+21. [\multirow-CSDN博客](https://blog.csdn.net/robert_chen1988/article/details/80861246)
+22. [超链接-CSDN博客](https://blog.csdn.net/OOFFrankDura/article/details/90600855)
+23. [代码块1-Overleaf](https://www.overleaf.com/learn/latex/Code_listing)
+24. [代码块2-CSDN博客](https://blog.csdn.net/RobertChenGuangzhi/article/details/45126785)
+25. [脚注-LaTeX 工作室](https://www.latexstudio.net/archives/51620.html)
+26. [参考文献1-知乎](https://zhuanlan.zhihu.com/p/265479955)
+27. [参考文献2-知乎](https://zhuanlan.zhihu.com/p/114733612)
+28. [参考文献3-Stack Exchange](https://tex.stackexchange.com/questions/99615/backref-package-for-page-reference)
+29. [参考文献4-CSDN博客](https://blog.csdn.net/xovee/article/details/109715706)
+30. [参考文献5-CSDN博客](https://blog.csdn.net/xovee/article/details/109896563)
+31. [LaTeX公式转Word公式-简书](https://www.jianshu.com/p/0947ebcfc42e)
