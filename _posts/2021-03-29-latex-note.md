@@ -65,8 +65,8 @@ pinned: true
 
     - 上下标使用`{}`括起来；
     - 矩阵和向量使用`\mathbf{}`或`\boldsymbol{}`；
-    - 黑板粗体（表示集合）使用`\mathbb{}`，书法体使用`\mathcal{}`；
-    - 绝对值使用`|`，范数使用`\|`；
+    - 黑板粗体（表示数集）使用`\mathbb{}`，书法体使用`\mathcal{}`，正体使用`\mathrm{}`；
+    - 绝对值使用`|`或`\vert`，范数使用`\|`；
     - argmin使用`\mathop{\arg\min}\limits_{}`，argmax同理；
     - 小空格用`\quad`，大空格用`\qquad`；
     - 分式尽量使用`\dfrac{}{}`，若显示有问题再使用`\frac{}{}`；
@@ -74,14 +74,15 @@ pinned: true
     - 点乘使用`\cdot`或`\bullet`，叉乘使用`\times`；
     - 导数使用`\mathrm{d}`，偏导数使用`\partial`；
     - 反对称矩阵使用`^{\wedge}`；
+    - 矩阵转置使用`^{\mathrm{T}}`；
 
 3. 括号大小自动调整：
 
     ```latex
     \left(  \right)
     \left[  \right]
-    \left{  \right}
-    \left| \right|
+    \left\{ \right\}
+    \left|  \right|
     \left\| \right\|
     ```
 
