@@ -66,6 +66,12 @@ pinned: false
 2. [【毒德大学字幕组】DPReview中端APS-C画幅相机横评](https://www.bilibili.com/video/BV1JJ411Q7WA)
 3. [【DPReview】年轻人的第一台相机？入门级APS-C画幅无反横评](https://www.bilibili.com/video/BV1oE411T7vV)
 
+### 历史价格查询
+
+通过查询历史价格走势确定相机的价格范围，在可接收价格范围内下单。
+
+1. [慢慢买](http://tool.manmanbuy.com/historylowest.aspx)
+
 ### 富士
 
 ```text
