@@ -56,6 +56,9 @@ pinned: true
 \usepackage[square,super]{natbib}   % 调整参考文献样式：方括号、右上角
 
 \usepackage[landscape]{geometry}    % 设置页面为横向
+
+\usepackage{tikz}           % 绘制图形
+\usepackage{tikz-3dplot}    % 绘制三维坐标系，坐标变换
 ```
 
 ## 格式约定
@@ -220,17 +223,28 @@ $公式内容$
 
 #### 分段函数
 
-通常在`equation`或`align`环境中使用，对于大括号整体编号：
+通常在`equation`或`align`环境中使用，对于大括号整体编号。
 
-```latex
-\begin{dcases}
-    公式内容 & 条件 \\
-    公式内容 & 条件
-\end{dcases}
-```
+1. 使用`dcases`：
 
-1. `dcases`：条件为纯公式，文本使用`\text{}`；
-2. `dcases*`：条件为纯文本，公式使用`$ $`；
+    ```latex
+    \begin{dcases}
+        公式内容 & 条件 \\
+        公式内容 & 条件
+    \end{dcases}
+    ```
+
+    - `dcases`：条件为纯公式，文本使用`\text{}`；
+    - `dcases*`：条件为纯文本，公式使用`$ $`；
+
+2. 使用`array`：
+
+    ```latex
+    \left\{\begin{array}{l}
+        公式内容 \\
+        公式内容 \\
+    \end{array}\right.
+    ```
 
 #### 向量/矩阵
 
@@ -271,7 +285,13 @@ $公式内容$
     - `p`：page of its own，浮动页；
 
 2. 强制浮动格式：`[!h]`，不考虑美观性；
-3. 图片格式推荐`.eps`；
+3. 图片格式说明：
+
+    - 建议矢量图片使用`.pdf`格式，比如数据可视化的绘图；
+    - 照片应使用`.jpg`格式；
+    - 其他的栅格图应使用无损的`.png`格式；
+    - 注意，$\LaTeX$不支持`.tiff`格式，`.eps`格式已经过时；
+
 4. 图片跨双栏使用`\begin{figure*}`；
 
 ### 插入子图
@@ -603,7 +623,7 @@ int main()
 
 ## 绘图
 
-TODO
+TODO：单独整理。
 
 ### 转换工具
 
@@ -612,7 +632,7 @@ TODO
 
 ## Beamer
 
-TODO
+TODO：单独整理。
 
 ## 高质量网站存档
 
@@ -637,6 +657,7 @@ TODO
 4. [MOON](https://www.moonpapers.com/)
 5. [Overleaf Documentation](https://www.overleaf.com/learn)
 6. [BibTeX](https://www.bibtex.com/)
+7. [TikZ](https://tikz.net/)
 
 ### 高质量模板
 
@@ -646,6 +667,7 @@ TODO
 4. [zheyuye/resume-chinese](https://github.com/zheyuye/resume-chinese)
 5. [tuna/thuthesis](https://github.com/tuna/thuthesis)
 6. [Academic Title Page](https://www.latextemplates.com/template/academic-title-page)
+7. [AlexTsagas/Tikz-Graphics](https://github.com/AlexTsagas/Tikz-Graphics)
 
 ### 学校beamer模板
 
