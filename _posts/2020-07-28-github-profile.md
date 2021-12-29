@@ -43,9 +43,11 @@ pinned: false
 
 ## 美化
 
-1. [github-contribution-grid-snake](https://github.com/marketplace/actions/generate-snake-game-from-github-contribution-grid)
+1. [fangpenlin/avataaars-generator](https://github.com/fangpenlin/avataaars-generator)
+2. [github-contribution-grid-snake](https://github.com/marketplace/actions/generate-snake-game-from-github-contribution-grid)
 
 ## 参考
 
 1. [GitHub隐藏新功能！个人页还能这么玩？-GitHub Daily的文章-知乎](https://zhuanlan.zhihu.com/p/161029860)
 2. [几条经验美化你的GitHub开源项目-简书](https://www.jianshu.com/p/d587b91bacb3)
+3. [GitHub上这款Q版头像生成器，快被网友玩坏了...-GitHub Daily的文章-知乎](https://zhuanlan.zhihu.com/p/450978590)
