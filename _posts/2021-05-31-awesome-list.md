@@ -96,6 +96,18 @@ The main repository serves as a curated list of awesome lists.
 ## 科研
 
 1. [jbhuang0604/awesome-tips](https://github.com/jbhuang0604/awesome-tips)
+2. [writing-resources/awesome-scientific-writing](https://github.com/writing-resources/awesome-scientific-writing)
+
+## LaTeX
+
+1. [posquit0/Awesome-CV](https://github.com/posquit0/Awesome-CV)
+2. [awesome-resume-for-chinese](https://github.com/dyweb/awesome-resume-for-chinese)
+3. [xiaohanyu/awesome-tikz](https://github.com/xiaohanyu/awesome-tikz)
+4. [egeerardyn/awesome-LaTeX](https://github.com/egeerardyn/awesome-LaTeX)
+5. [xinychen/awesome-latex-drawing](https://github.com/xinychen/awesome-latex-drawing)
+6. [darwiin/yaac-another-awesome-cv](https://github.com/darwiin/yaac-another-awesome-cv)
+7. [huajh/awesome-latex-cv](https://github.com/huajh/awesome-latex-cv)
+8. [XiangyunHuang/awesome-beamers](https://github.com/XiangyunHuang/awesome-beamers)
 
 ## 参考
 
