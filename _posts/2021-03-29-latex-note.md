@@ -649,7 +649,9 @@ TODO：单独整理。
 9. [LatexToMathML](http://web.xiaoyv.top/web/LatexToMathML/)
 10. [idf/LaTex2Word-Equation](https://github.com/idf/LaTex2Word-Equation)
 
-### 模板和学习资源
+### 模板和学习资源查询
+
+#### 网站
 
 1. [LaTeX工作室](https://www.latexstudio.net/)
 2. [Overleaf Templates](https://www.overleaf.com/latex/templates)
@@ -658,6 +660,21 @@ TODO：单独整理。
 5. [Overleaf Documentation](https://www.overleaf.com/learn)
 6. [BibTeX](https://www.bibtex.com/)
 7. [TikZ](https://tikz.net/)
+8. [TeXample](https://texample.net/)
+
+#### GitHub
+
+1. [posquit0/Awesome-CV](https://github.com/posquit0/Awesome-CV)
+2. [awesome-resume-for-chinese](https://github.com/dyweb/awesome-resume-for-chinese)
+3. [MartinThoma/LaTeX-examples](https://github.com/MartinThoma/LaTeX-examples)
+4. [xiaohanyu/awesome-tikz](https://github.com/xiaohanyu/awesome-tikz)
+5. [egeerardyn/awesome-LaTeX](https://github.com/egeerardyn/awesome-LaTeX)
+6. [PetarV-/TikZ](https://github.com/PetarV-/TikZ)
+7. [xinychen/awesome-latex-drawing](https://github.com/xinychen/awesome-latex-drawing)
+8. [darwiin/yaac-another-awesome-cv](https://github.com/darwiin/yaac-another-awesome-cv)
+9. [huajh/awesome-latex-cv](https://github.com/huajh/awesome-latex-cv)
+10. [XiangyunHuang/awesome-beamers](https://github.com/XiangyunHuang/awesome-beamers)
+11. [AlexTsagas/Tikz-Graphics](https://github.com/AlexTsagas/Tikz-Graphics)
 
 ### 高质量模板
 
@@ -667,7 +684,6 @@ TODO：单独整理。
 4. [zheyuye/resume-chinese](https://github.com/zheyuye/resume-chinese)
 5. [tuna/thuthesis](https://github.com/tuna/thuthesis)
 6. [Academic Title Page](https://www.latextemplates.com/template/academic-title-page)
-7. [AlexTsagas/Tikz-Graphics](https://github.com/AlexTsagas/Tikz-Graphics)
 
 ### 学校beamer模板
 
