@@ -57,6 +57,35 @@ pinned: false
 
 ## 后期处理
 
+### 工具
+
+#### 照片后期
+
+##### 付费软件
+
+1. Capture One
+2. Lightroom
+3. Luminar
+4. Photoshop
+
+##### 开源软件
+
+1. GIMP
+2. Darktable
+3. RawTherapee
+4. Filmulator
+
+##### 在线处理
+
+1. [Photopea](https://www.photopea.com/)
+2. [稿定](https://ps.gaoding.com/#/)
+
+#### 视频剪辑
+
+1. Premiere
+2. [视频大拍档](https://spdpd.net/)
+3. [万兴喵影](https://www.wondershare.cn/products-solutions/video-creativity/video.html)
+
 ### 教程
 
 1. [全20集【Adobe Lightroom Classic从思路到后期调色】各功能详解视频教程目录](https://www.bilibili.com/read/cv13519248)
@@ -66,23 +95,8 @@ pinned: false
 5. [【负片】获奖摄影师的Capture One胶片后期指南](https://www.bilibili.com/video/BV1e64y1X72U)
 6. [【Lightroom教程】6个新手也能入门摄影后期的操作小技巧](https://www.bilibili.com/video/BV1M64y147n3)
 7. [【干货】富士用户的Capture One后期指南【HSINYALIN】](https://www.bilibili.com/video/BV1b64y1i7sy)
-
-### 工具
-
-#### 照片后期
-
-1. Capture One
-2. Lightroom
-3. Luminar
-4. Photoshop
-5. [Photopea](https://www.photopea.com/)
-6. [稿定](https://ps.gaoding.com/#/)
-
-#### 视频剪辑
-
-1. Premiere
-2. [视频大拍档](https://spdpd.net/)
-3. [万兴喵影](https://www.wondershare.cn/products-solutions/video-creativity/video.html)
+8. [RawTherapee：一个比付费后期软件（Lightroom等）更强大的免费软件](https://www.bilibili.com/video/BV1JK4y1v7CM)
+9. [RawTherapee免费胶片模拟软件上手指南-HaldCLUT](https://www.bilibili.com/video/BV17p4y1s7o6)
 
 ## 摄影UP主
 
@@ -125,3 +139,6 @@ pinned: false
 2. [哪些网站让你感觉发现了新大陆？-不做闲鱼的回答-知乎](https://www.zhihu.com/question/293309623/answer/1675816377)
 3. [b站上有什么好的摄影教学？-早见Hayami的回答-知乎](https://www.zhihu.com/question/312241261/answer/1066491001)
 4. [关注bilibili这17个UP主，你甚至可以在B站学摄影！-A妹的文章-知乎](https://zhuanlan.zhihu.com/p/112964588)
+5. [满足日常需求的应用（三）：图像编辑器丨Linux中国-Linux中国的文章-知乎](https://zhuanlan.zhihu.com/p/407938013)
+6. [Linux上有哪些好用的绘图工具？-亿图图示的回答-知乎](https://www.zhihu.com/question/445559611/answer/1759893444)
+7. [在Linux命令行上编辑照片的4种方法丨Linux中国-Linux中国的文章-知乎](https://zhuanlan.zhihu.com/p/430719348)

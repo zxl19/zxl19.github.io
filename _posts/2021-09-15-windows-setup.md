@@ -47,11 +47,13 @@ pinned: false
 7. Dism++
 8. Everything
 9. FileZilla Client
-10. PlotJuggler
-11. Recuva
-12. ShareX
-13. TeamViewer
-14. Typora
+10. Inkscape
+11. Photoflare
+12. PlotJuggler
+13. Recuva
+14. ShareX
+15. TeamViewer
+16. Typora
 
 ## 常见问题及解决方法
 
@@ -83,7 +85,9 @@ pinned: false
 3. [有哪些软件堪称神器，却很少人知道？-坚果云的回答-知乎](https://www.zhihu.com/question/327826314/answer/1497578134)
 4. [微软复活20年前生产力工具PowerToys，填补Win10缺失功能，开源且免费-量子位的文章-知乎](https://zhuanlan.zhihu.com/p/166292161)
 5. [Windows有哪些强烈不建议装的软件？-一大大的回答-知乎](https://www.zhihu.com/question/392313958/answer/1199936945)
-6. [Windows 10总是不打招呼就自动更新？教你如何关闭它-少数派的文章-知乎](https://zhuanlan.zhihu.com/p/35590496)
-7. [什么工具可以有效清理"C:\Users\用户名\AppData"目录下的文件？-高灵的回答-知乎](https://www.zhihu.com/question/38011537/answer/296426969)
-8. [Win 10 C盘突然爆满，怎么清理？-坚果云的回答-知乎](https://www.zhihu.com/question/53591010/answer/1115174873)
-9. [windows10系统内存占用莫名其妙非常高怎么解决怎么解决？-mhm的回答-知乎](https://www.zhihu.com/question/359072911/answer/924065793)
+6. [满足日常需求的应用（三）：图像编辑器丨Linux中国-Linux中国的文章-知乎](https://zhuanlan.zhihu.com/p/407938013)
+7. [Photoflare：满足简单编辑需求的开源图像编辑器丨Linux中国-Linux中国的文章-知乎](https://zhuanlan.zhihu.com/p/193158124)
+8. [Windows 10总是不打招呼就自动更新？教你如何关闭它-少数派的文章-知乎](https://zhuanlan.zhihu.com/p/35590496)
+9. [什么工具可以有效清理"C:\Users\用户名\AppData"目录下的文件？-高灵的回答-知乎](https://www.zhihu.com/question/38011537/answer/296426969)
+10. [Win 10 C盘突然爆满，怎么清理？-坚果云的回答-知乎](https://www.zhihu.com/question/53591010/answer/1115174873)
+11. [windows10系统内存占用莫名其妙非常高怎么解决怎么解决？-mhm的回答-知乎](https://www.zhihu.com/question/359072911/answer/924065793)
