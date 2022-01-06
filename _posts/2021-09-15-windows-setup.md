@@ -35,6 +35,7 @@ pinned: false
 14. Visual Studio Code
 15. XMind
 16. 格式工厂
+17. 万兴喵影
 
 ### 未安装
 
@@ -45,15 +46,16 @@ pinned: false
 5. Cold Turkey
 6. DAEMON Tools
 7. Dism++
-8. Everything
-9. FileZilla Client
-10. Inkscape
-11. Photoflare
-12. PlotJuggler
-13. Recuva
-14. ShareX
-15. TeamViewer
-16. Typora
+8. drawio-desktop
+9. Everything
+10. FileZilla Client
+11. Inkscape
+12. Photoflare
+13. PlotJuggler
+14. Recuva
+15. ShareX
+16. TeamViewer
+17. Typora
 
 ## 常见问题及解决方法
 

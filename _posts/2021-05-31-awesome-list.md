@@ -71,9 +71,10 @@ The main repository serves as a curated list of awesome lists.
 1. [jbhuang0604/awesome-computer-vision](https://github.com/jbhuang0604/awesome-computer-vision)
 2. [chrieke/awesome-satellite-imagery-datasets](https://github.com/chrieke/awesome-satellite-imagery-datasets)
 
-## 项目标签
+## GitHub项目美化
 
-1. [a-maliarov/awesome-shields](https://github.com/a-maliarov/awesome-shields)
+1. [durgeshsamariya/awesome-github-profile-readme-templates](https://github.com/durgeshsamariya/awesome-github-profile-readme-templates)
+2. [a-maliarov/awesome-shields](https://github.com/a-maliarov/awesome-shields)
 
 ## 科学计算与数值分析
 
