@@ -42,6 +42,7 @@ pinned: false
 7. [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
 8. [elangosundar/awesome-README-templates](https://github.com/elangosundar/awesome-README-templates)
 9. [Ashutosh00710/github-readme-activity-graph](https://github.com/Ashutosh00710/github-readme-activity-graph)
+10. [yoshi389111/github-profile-3d-contrib](https://github.com/yoshi389111/github-profile-3d-contrib)
 
 ## 美化
 
