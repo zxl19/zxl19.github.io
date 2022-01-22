@@ -59,6 +59,8 @@ pinned: true
 
 \usepackage{tikz}           % 绘制图形
 \usepackage{tikz-3dplot}    % 绘制三维坐标系，坐标变换
+
+\usepackage{courier}        % 使用打字机字体/等宽字体
 ```
 
 ## 格式约定
@@ -121,6 +123,8 @@ pinned: true
     \.{}                % 加点
     \"{}                % 加双点
     ```
+
+12. 打字机字体/等宽字体（表示电子邮箱名）使用`\texttt{}`；
 
 ## 字体大小
 
