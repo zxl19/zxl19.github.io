@@ -19,7 +19,7 @@ pinned: false
 
 #### Fujifilm QuickSnap
 
-1. 胶卷：C400或Superia X-TRA 400；
+1. 胶卷：Fujifilm C400或Fujifilm Superia X-TRA 400；
 2. ISO：400；
 3. 规格：135，“全画幅”；
 4. 张数：27；
@@ -30,7 +30,7 @@ pinned: false
 
 #### Fujifilm Simple Ace
 
-1. 胶卷：C400；
+1. 胶卷：Fujifilm C400；
 2. ISO：400；
 3. 规格：135，“全画幅”；
 4. 张数：27；
@@ -41,7 +41,14 @@ pinned: false
 
 #### Kodak FunSaver
 
-TODO
+1. 胶卷：Kodak MAX；
+2. ISO：800；
+3. 规格：135，“全画幅”；
+4. 张数：39；
+5. 有效灯距：1.2-3.5米；
+6. 光圈：F10；
+7. 焦距：30毫米，树脂镜头；
+8. 快门速度：1/100秒；
 
 ### 全自动胶片相机
 
