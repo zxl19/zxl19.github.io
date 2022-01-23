@@ -21,11 +21,14 @@ pinned: false
 刀锐奶化，毒德大学！
 ```
 
-1. [新手如何系统性地学习摄影？-爱摄影的郭同学的回答-知乎](https://www.zhihu.com/question/36095338/answer/968639013)
-2. [新手如何系统性地学习摄影？-500px摄影社区的回答-知乎](https://www.zhihu.com/question/36095338/answer/2051012517)
-3. [如何理解ISO、快门、光圈、曝光这几个概念？-王波的回答-知乎](https://www.zhihu.com/question/21427664/answer/40346193)
-4. [相机光圈、快门、焦距、感光度基本介绍-林青春的文章-知乎](https://zhuanlan.zhihu.com/p/152172663)
-5. [“毒德大学”，“刀锐奶化”这些梗最初起源于哪？-家政学叫兽的回答-知乎](https://www.zhihu.com/question/412237760/answer/1386682793)
+1. [旅行摄影小百科](https://space.bilibili.com/84480709/channel/seriesdetail?sid=247659)
+2. [【硬核科普】焦段是什么？](https://www.bilibili.com/video/BV1nK41157no)
+3. [一学就会的曝光基础](https://www.bilibili.com/video/BV1oW411W7yr)
+4. [新手如何系统性地学习摄影？-爱摄影的郭同学的回答-知乎](https://www.zhihu.com/question/36095338/answer/968639013)
+5. [新手如何系统性地学习摄影？-500px摄影社区的回答-知乎](https://www.zhihu.com/question/36095338/answer/2051012517)
+6. [如何理解ISO、快门、光圈、曝光这几个概念？-王波的回答-知乎](https://www.zhihu.com/question/21427664/answer/40346193)
+7. [相机光圈、快门、焦距、感光度基本介绍-林青春的文章-知乎](https://zhuanlan.zhihu.com/p/152172663)
+8. [“毒德大学”，“刀锐奶化”这些梗最初起源于哪？-家政学叫兽的回答-知乎](https://www.zhihu.com/question/412237760/answer/1386682793)
 
 ### 阳光十六法则
 
@@ -111,20 +114,21 @@ pinned: false
 9. [-彩蜂摄影杂志-](https://space.bilibili.com/318355178)
 10. [Thomas看看世界](https://space.bilibili.com/277329684)
 11. [摄影师泰罗](https://space.bilibili.com/110683415)
-12. [小墨与阿猴](https://space.bilibili.com/25706078)
-13. [彭弘Red](https://space.bilibili.com/55801838)
-14. [摄瘾研究所](https://space.bilibili.com/245627923)
-15. [李涛PS](https://space.bilibili.com/85651824)
-16. [大马猫本](https://space.bilibili.com/44230905)
-17. [摄影师姚佳俊](https://space.bilibili.com/386460499)
-18. [陈忠祥](https://space.bilibili.com/238171819)
-19. [郭城安](https://space.bilibili.com/23686287)
-20. [毒德大学字幕组](https://space.bilibili.com/8990248)
-21. [巫师后期](https://space.bilibili.com/105686205)
-22. [即影InstAmour](https://space.bilibili.com/14118905)
-23. [NOFACE不是大触](https://space.bilibili.com/4012943)
-24. [摄影师EDI](https://space.bilibili.com/84480709)
-25. [HSINYALIN_林星亚](https://space.bilibili.com/7695611)
+12. [HIRO_午饭饭](https://space.bilibili.com/430726)
+13. [小墨与阿猴](https://space.bilibili.com/25706078)
+14. [彭弘Red](https://space.bilibili.com/55801838)
+15. [摄瘾研究所](https://space.bilibili.com/245627923)
+16. [李涛PS](https://space.bilibili.com/85651824)
+17. [大马猫本](https://space.bilibili.com/44230905)
+18. [摄影师姚佳俊](https://space.bilibili.com/386460499)
+19. [陈忠祥](https://space.bilibili.com/238171819)
+20. [郭城安](https://space.bilibili.com/23686287)
+21. [毒德大学字幕组](https://space.bilibili.com/8990248)
+22. [巫师后期](https://space.bilibili.com/105686205)
+23. [即影InstAmour](https://space.bilibili.com/14118905)
+24. [NOFACE不是大触](https://space.bilibili.com/4012943)
+25. [摄影师EDI](https://space.bilibili.com/84480709)
+26. [HSINYALIN_林星亚](https://space.bilibili.com/7695611)
 
 ## 相关网站
 
