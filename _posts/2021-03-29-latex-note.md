@@ -200,6 +200,8 @@ $公式内容$
 
 ##### 多个公式
 
+###### 分别编号
+
 ```latex
 \begin{align}
     \label{eq:1.2}
@@ -207,6 +209,18 @@ $公式内容$
     \label{eq:1.3}
     & 公式内容
 \end{align}
+```
+
+###### 相同编号
+
+```latex
+\begin{equation}
+    \label{eq:1.4}
+    \begin{aligned}
+        & 公式内容 \\
+        & 公式内容
+    \end{aligned}
+\end{equation}
 ```
 
 ##### 公式引用
@@ -719,18 +733,19 @@ TODO：单独整理。
 14. [音调3-CSDN博客](https://blog.csdn.net/jianti9962/article/details/114481366)
 15. [字体大小-简书](https://www.jianshu.com/p/ad400d7fe885)
 16. [列表-CSDN博客](https://blog.csdn.net/HugoChen_cs/article/details/105189541)
-17. [公式-简书](https://www.jianshu.com/p/97ec8a3739f6)
-18. [图片1-CSDN博客](https://blog.csdn.net/qq_38526623/article/details/103737589)
-19. [图片2-CSDN博客](https://blog.csdn.net/LeonSUST/article/details/89332744)
-20. [单元格换行-CSDN博客](https://blog.csdn.net/robertchenguangzhi/article/details/48916319)
-21. [\multirow-CSDN博客](https://blog.csdn.net/robert_chen1988/article/details/80861246)
-22. [超链接-CSDN博客](https://blog.csdn.net/OOFFrankDura/article/details/90600855)
-23. [代码块1-Overleaf](https://www.overleaf.com/learn/latex/Code_listing)
-24. [代码块2-CSDN博客](https://blog.csdn.net/RobertChenGuangzhi/article/details/45126785)
-25. [脚注-LaTeX 工作室](https://www.latexstudio.net/archives/51620.html)
-26. [参考文献1-知乎](https://zhuanlan.zhihu.com/p/265479955)
-27. [参考文献2-知乎](https://zhuanlan.zhihu.com/p/114733612)
-28. [参考文献3-Stack Exchange](https://tex.stackexchange.com/questions/99615/backref-package-for-page-reference)
-29. [参考文献4-CSDN博客](https://blog.csdn.net/xovee/article/details/109715706)
+17. [公式1-简书](https://www.jianshu.com/p/97ec8a3739f6)
+18. [公式2-CSDN博客](https://blog.csdn.net/Strive_For_Future/article/details/118609968)
+19. [图片1-CSDN博客](https://blog.csdn.net/qq_38526623/article/details/103737589)
+20. [图片2-CSDN博客](https://blog.csdn.net/LeonSUST/article/details/89332744)
+21. [单元格换行-CSDN博客](https://blog.csdn.net/robertchenguangzhi/article/details/48916319)
+22. [\multirow-CSDN博客](https://blog.csdn.net/robert_chen1988/article/details/80861246)
+23. [超链接-CSDN博客](https://blog.csdn.net/OOFFrankDura/article/details/90600855)
+24. [代码块1-Overleaf](https://www.overleaf.com/learn/latex/Code_listing)
+25. [代码块2-CSDN博客](https://blog.csdn.net/RobertChenGuangzhi/article/details/45126785)
+26. [脚注-LaTeX 工作室](https://www.latexstudio.net/archives/51620.html)
+27. [参考文献1-知乎](https://zhuanlan.zhihu.com/p/265479955)
+28. [参考文献2-知乎](https://zhuanlan.zhihu.com/p/114733612)
+29. [参考文献3-Stack Exchange](https://tex.stackexchange.com/questions/99615/backref-package-for-page-reference)
+30. [参考文献4-CSDN博客](https://blog.csdn.net/xovee/article/details/109715706)
 30. [参考文献5-CSDN博客](https://blog.csdn.net/xovee/article/details/109896563)
 31. [LaTeX公式转Word公式-简书](https://www.jianshu.com/p/0947ebcfc42e)
