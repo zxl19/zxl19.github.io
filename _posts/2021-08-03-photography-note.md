@@ -128,7 +128,8 @@ pinned: false
 23. [即影InstAmour](https://space.bilibili.com/14118905)
 24. [NOFACE不是大触](https://space.bilibili.com/4012943)
 25. [摄影师EDI](https://space.bilibili.com/84480709)
-26. [HSINYALIN_林星亚](https://space.bilibili.com/7695611)
+26. [英国风光摄影师Nigel](https://space.bilibili.com/1549051576)
+27. [HSINYALIN_林星亚](https://space.bilibili.com/7695611)
 
 ## 相关网站
 
