@@ -377,7 +377,8 @@ $公式内容$
 3. 表格框线：
 
     - 水平框线：使用`\hline`；
-    - 垂直框线：在列之间添加分隔线`|`；
+    - 垂直框线：在对齐方式处对应的列之间添加分隔线`|`；
+    - 部分列水平框线：使用`\cline{i-j}`在i到j列间添加水平框线；
 
 4. 表格跨双栏使用`\begin{table*}`；
 5. 不规则形状表格：
@@ -738,14 +739,15 @@ TODO：单独整理。
 19. [图片1-CSDN博客](https://blog.csdn.net/qq_38526623/article/details/103737589)
 20. [图片2-CSDN博客](https://blog.csdn.net/LeonSUST/article/details/89332744)
 21. [单元格换行-CSDN博客](https://blog.csdn.net/robertchenguangzhi/article/details/48916319)
-22. [\multirow-CSDN博客](https://blog.csdn.net/robert_chen1988/article/details/80861246)
-23. [超链接-CSDN博客](https://blog.csdn.net/OOFFrankDura/article/details/90600855)
-24. [代码块1-Overleaf](https://www.overleaf.com/learn/latex/Code_listing)
-25. [代码块2-CSDN博客](https://blog.csdn.net/RobertChenGuangzhi/article/details/45126785)
-26. [脚注-LaTeX 工作室](https://www.latexstudio.net/archives/51620.html)
-27. [参考文献1-知乎](https://zhuanlan.zhihu.com/p/265479955)
-28. [参考文献2-知乎](https://zhuanlan.zhihu.com/p/114733612)
-29. [参考文献3-Stack Exchange](https://tex.stackexchange.com/questions/99615/backref-package-for-page-reference)
-30. [参考文献4-CSDN博客](https://blog.csdn.net/xovee/article/details/109715706)
-30. [参考文献5-CSDN博客](https://blog.csdn.net/xovee/article/details/109896563)
-31. [LaTeX公式转Word公式-简书](https://www.jianshu.com/p/0947ebcfc42e)
+22. [\cline-CSDN博客](https://blog.csdn.net/huancaoo/article/details/113106636)
+23. [\multirow-CSDN博客](https://blog.csdn.net/robert_chen1988/article/details/80861246)
+24. [超链接-CSDN博客](https://blog.csdn.net/OOFFrankDura/article/details/90600855)
+25. [代码块1-Overleaf](https://www.overleaf.com/learn/latex/Code_listing)
+26. [代码块2-CSDN博客](https://blog.csdn.net/RobertChenGuangzhi/article/details/45126785)
+27. [脚注-LaTeX 工作室](https://www.latexstudio.net/archives/51620.html)
+28. [参考文献1-知乎](https://zhuanlan.zhihu.com/p/265479955)
+29. [参考文献2-知乎](https://zhuanlan.zhihu.com/p/114733612)
+30. [参考文献3-Stack Exchange](https://tex.stackexchange.com/questions/99615/backref-package-for-page-reference)
+31. [参考文献4-CSDN博客](https://blog.csdn.net/xovee/article/details/109715706)
+32. [参考文献5-CSDN博客](https://blog.csdn.net/xovee/article/details/109896563)
+33. [LaTeX公式转Word公式-简书](https://www.jianshu.com/p/0947ebcfc42e)
