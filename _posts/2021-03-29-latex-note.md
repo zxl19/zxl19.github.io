@@ -267,6 +267,8 @@ $公式内容$
 
 #### 向量/矩阵
 
+##### 使用`array`环境
+
 ```latex
 \begin{array}{ccc} % 指定每列的对齐方式，个数对应列数
     1 & 0 & 0 \\
@@ -282,6 +284,25 @@ $公式内容$
     - `r`：right，右对齐；
 
 2. 列之间可以添加分隔线`|`；
+
+##### 使用矩阵环境
+
+```latex
+\begin{bmatrix} % 矩阵样式
+    1 & 0 & 0 \\
+    0 & 1 & 0 \\
+    0 & 0 & 1 \\
+\end{bmatrix}
+```
+
+1. 矩阵样式：
+
+    - `matrix`：无括号；
+    - `pmatrix`：圆括号；
+    - `bmatrix`：方括号；
+    - `Bmatrix`：大括号；
+    - `vmatrix`：行列式；
+    - `Vmatrix`：范数；
 
 ## 图片
 
@@ -738,18 +759,19 @@ TODO：单独整理。
 17. [列表-CSDN博客](https://blog.csdn.net/HugoChen_cs/article/details/105189541)
 18. [公式1-简书](https://www.jianshu.com/p/97ec8a3739f6)
 19. [公式2-CSDN博客](https://blog.csdn.net/Strive_For_Future/article/details/118609968)
-20. [图片1-CSDN博客](https://blog.csdn.net/qq_38526623/article/details/103737589)
-21. [图片2-CSDN博客](https://blog.csdn.net/LeonSUST/article/details/89332744)
-22. [单元格换行-CSDN博客](https://blog.csdn.net/robertchenguangzhi/article/details/48916319)
-23. [\cline-CSDN博客](https://blog.csdn.net/huancaoo/article/details/113106636)
-24. [\multirow-CSDN博客](https://blog.csdn.net/robert_chen1988/article/details/80861246)
-25. [超链接-CSDN博客](https://blog.csdn.net/OOFFrankDura/article/details/90600855)
-26. [代码块1-Overleaf](https://www.overleaf.com/learn/latex/Code_listing)
-27. [代码块2-CSDN博客](https://blog.csdn.net/RobertChenGuangzhi/article/details/45126785)
-28. [脚注-LaTeX 工作室](https://www.latexstudio.net/archives/51620.html)
-29. [参考文献1-知乎](https://zhuanlan.zhihu.com/p/265479955)
-30. [参考文献2-知乎](https://zhuanlan.zhihu.com/p/114733612)
-31. [参考文献3-Stack Exchange](https://tex.stackexchange.com/questions/99615/backref-package-for-page-reference)
-32. [参考文献4-CSDN博客](https://blog.csdn.net/xovee/article/details/109715706)
-33. [参考文献5-CSDN博客](https://blog.csdn.net/xovee/article/details/109896563)
-34. [LaTeX公式转Word公式-简书](https://www.jianshu.com/p/0947ebcfc42e)
+20. [矩阵-知乎](https://zhuanlan.zhihu.com/p/266267223)
+21. [图片1-CSDN博客](https://blog.csdn.net/qq_38526623/article/details/103737589)
+22. [图片2-CSDN博客](https://blog.csdn.net/LeonSUST/article/details/89332744)
+23. [单元格换行-CSDN博客](https://blog.csdn.net/robertchenguangzhi/article/details/48916319)
+24. [\cline-CSDN博客](https://blog.csdn.net/huancaoo/article/details/113106636)
+25. [\multirow-CSDN博客](https://blog.csdn.net/robert_chen1988/article/details/80861246)
+26. [超链接-CSDN博客](https://blog.csdn.net/OOFFrankDura/article/details/90600855)
+27. [代码块1-Overleaf](https://www.overleaf.com/learn/latex/Code_listing)
+28. [代码块2-CSDN博客](https://blog.csdn.net/RobertChenGuangzhi/article/details/45126785)
+29. [脚注-LaTeX 工作室](https://www.latexstudio.net/archives/51620.html)
+30. [参考文献1-知乎](https://zhuanlan.zhihu.com/p/265479955)
+31. [参考文献2-知乎](https://zhuanlan.zhihu.com/p/114733612)
+32. [参考文献3-Stack Exchange](https://tex.stackexchange.com/questions/99615/backref-package-for-page-reference)
+33. [参考文献4-CSDN博客](https://blog.csdn.net/xovee/article/details/109715706)
+34. [参考文献5-CSDN博客](https://blog.csdn.net/xovee/article/details/109896563)
+35. [LaTeX公式转Word公式-简书](https://www.jianshu.com/p/0947ebcfc42e)
