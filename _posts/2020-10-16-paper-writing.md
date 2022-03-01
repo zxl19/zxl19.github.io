@@ -64,18 +64,19 @@ pinned: false
     ```
 
 2. 图片添加坐标轴名称、单位，不必在图中添加图名，可以在图名位置处添加简单说明；
-3. 图片大小建议使用15cm*10cm大小，MATLAB中设置图片大小示例：
+3. MATLAB中设置图片大小示例：
 
     ```matlab
-    set(gcf,'Unit', 'Centimeters', 'Position', [10 5 15 10]);
+    set(gcf,'Unit', 'Centimeters', 'Position', [10 5 15 10]) % 单个图像
+    set(gcf,'Unit', 'Centimeters', 'Position', [10 5 20 15]) % 三个子图
     ```
 
 4. MATLAB中设置坐标轴字体示例：
 
     ```matlab
-    set(gca,'FontName','Times New Roman')
-    xlabel('\fontname{宋体}水平距离\fontname{Times New Roman} / m')
-    ylabel('\fontname{Times New Roman}z / m')
+    set(gca,'FontName','Times New Roman') % 子图中需要分别设置
+    xlabel('\fontname{宋体}时间\fontname{Times New Roman} / s')
+    ylabel('\fontname{Times New Roman}x / m')
     ```
 
 5. 图片中的文字大小应保证与正文中的文字大小接近，建议使用固定字号18磅；
