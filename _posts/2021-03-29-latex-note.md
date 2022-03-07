@@ -78,9 +78,11 @@ pinned: true
     - 度数使用`^{\circ}`；
     - 点乘使用`\cdot`或`\bullet`，叉乘使用`\times`；
     - 导数使用`\mathrm{d}`，偏导数使用`\partial`；
-    - 反对称矩阵使用`^{\wedge}`；
+    - 反对称矩阵使用`^{\wedge}`，其逆运算使用`^{\vee}`；
     - 矩阵转置使用`^{\mathrm{T}}`；
     - 一阶导数使用`^{\prime}`；
+    - 定义等号使用`\triangleq`；
+    - 上面加长横线使用`\overline{}`；
 
 3. 括号大小根据内容自动调整：
 
@@ -680,15 +682,16 @@ TODO：单独整理。
 ### 提升输入效率
 
 1. [常用数学符号的LaTeX表示方法](https://mohu.org/info/symbols/symbols.htm)
-2. [Detexify](http://detexify.kirelabs.org/classify.html)
-3. [公式王](https://gongshi.wang/)
-4. [Tables Generator](https://www.tablesgenerator.com/)
-5. [wch/latexsheet](https://github.com/wch/latexsheet)
-6. [LaTeX在线：吴文中数学公式编辑器](https://latex.91maths.com/)
-7. [blaisewang/img2latex-mathpix](https://github.com/blaisewang/img2latex-mathpix)
-8. [Citation Machine](https://www.citationmachine.net/)
-9. [LatexToMathML](http://web.xiaoyv.top/web/LatexToMathML/)
-10. [idf/LaTex2Word-Equation](https://github.com/idf/LaTex2Word-Equation)
+2. [LaTeX Mathematical Symbols-Rice University](https://www.caam.rice.edu/~heinken/latex/symbols.pdf)
+3. [Detexify](http://detexify.kirelabs.org/classify.html)
+4. [公式王](https://gongshi.wang/)
+5. [Tables Generator](https://www.tablesgenerator.com/)
+6. [wch/latexsheet](https://github.com/wch/latexsheet)
+7. [LaTeX在线：吴文中数学公式编辑器](https://latex.91maths.com/)
+8. [blaisewang/img2latex-mathpix](https://github.com/blaisewang/img2latex-mathpix)
+9. [Citation Machine](https://www.citationmachine.net/)
+10. [LatexToMathML](http://web.xiaoyv.top/web/LatexToMathML/)
+11. [idf/LaTex2Word-Equation](https://github.com/idf/LaTex2Word-Equation)
 
 ### 模板和学习资源查询
 
@@ -747,31 +750,33 @@ TODO：单独整理。
 5. [argmin&argmax-CSDN博客](https://blog.csdn.net/SunshineSki/article/details/87893347)
 6. [矩阵转置-知乎](https://zhuanlan.zhihu.com/p/27490955)
 7. [\prime-CSDN博客](https://blog.csdn.net/yq_forever/article/details/109029875)
-8. [长竖线-知乎](https://www.zhihu.com/question/35119859/answer/61268787)
-9. [\tab-Stack Exchange](https://tex.stackexchange.com/questions/198432/using-the-tab-command)
-10. [对号&错号-Stack Exchange](https://tex.stackexchange.com/questions/42619/x-mark-to-match-checkmark)
-11. [LaTeX页面设置-冬日暖阳的文章-知乎](https://zhuanlan.zhihu.com/p/360188228)
-12. [空格-Stack Exchange](https://tex.stackexchange.com/questions/31091/space-after-latex-commands)
-13. [音调1-CSDN博客](https://blog.csdn.net/xin_yu_xin/article/details/26467751)
-14. [音调2-知乎](https://zhuanlan.zhihu.com/p/75828544)
-15. [音调3-CSDN博客](https://blog.csdn.net/jianti9962/article/details/114481366)
-16. [字体大小-简书](https://www.jianshu.com/p/ad400d7fe885)
-17. [列表-CSDN博客](https://blog.csdn.net/HugoChen_cs/article/details/105189541)
-18. [公式1-简书](https://www.jianshu.com/p/97ec8a3739f6)
-19. [公式2-CSDN博客](https://blog.csdn.net/Strive_For_Future/article/details/118609968)
-20. [矩阵-知乎](https://zhuanlan.zhihu.com/p/266267223)
-21. [图片1-CSDN博客](https://blog.csdn.net/qq_38526623/article/details/103737589)
-22. [图片2-CSDN博客](https://blog.csdn.net/LeonSUST/article/details/89332744)
-23. [单元格换行-CSDN博客](https://blog.csdn.net/robertchenguangzhi/article/details/48916319)
-24. [\cline-CSDN博客](https://blog.csdn.net/huancaoo/article/details/113106636)
-25. [\multirow-CSDN博客](https://blog.csdn.net/robert_chen1988/article/details/80861246)
-26. [超链接-CSDN博客](https://blog.csdn.net/OOFFrankDura/article/details/90600855)
-27. [代码块1-Overleaf](https://www.overleaf.com/learn/latex/Code_listing)
-28. [代码块2-CSDN博客](https://blog.csdn.net/RobertChenGuangzhi/article/details/45126785)
-29. [脚注-LaTeX 工作室](https://www.latexstudio.net/archives/51620.html)
-30. [参考文献1-知乎](https://zhuanlan.zhihu.com/p/265479955)
-31. [参考文献2-知乎](https://zhuanlan.zhihu.com/p/114733612)
-32. [参考文献3-Stack Exchange](https://tex.stackexchange.com/questions/99615/backref-package-for-page-reference)
-33. [参考文献4-CSDN博客](https://blog.csdn.net/xovee/article/details/109715706)
-34. [参考文献5-CSDN博客](https://blog.csdn.net/xovee/article/details/109896563)
-35. [LaTeX公式转Word公式-简书](https://www.jianshu.com/p/0947ebcfc42e)
+8. [\triangleq-CSDN博客](https://blog.csdn.net/weixin_44550010/article/details/107864090)
+9. [\overline-Stack Exchange](https://tex.stackexchange.com/questions/408084/how-to-place-a-wide-bar-over-a-wide-expression)
+10. [长竖线-知乎](https://www.zhihu.com/question/35119859/answer/61268787)
+11. [\tab-Stack Exchange](https://tex.stackexchange.com/questions/198432/using-the-tab-command)
+12. [对号&错号-Stack Exchange](https://tex.stackexchange.com/questions/42619/x-mark-to-match-checkmark)
+13. [LaTeX页面设置-冬日暖阳的文章-知乎](https://zhuanlan.zhihu.com/p/360188228)
+14. [空格-Stack Exchange](https://tex.stackexchange.com/questions/31091/space-after-latex-commands)
+15. [音调1-CSDN博客](https://blog.csdn.net/xin_yu_xin/article/details/26467751)
+16. [音调2-知乎](https://zhuanlan.zhihu.com/p/75828544)
+17. [音调3-CSDN博客](https://blog.csdn.net/jianti9962/article/details/114481366)
+18. [字体大小-简书](https://www.jianshu.com/p/ad400d7fe885)
+19. [列表-CSDN博客](https://blog.csdn.net/HugoChen_cs/article/details/105189541)
+20. [公式1-简书](https://www.jianshu.com/p/97ec8a3739f6)
+21. [公式2-CSDN博客](https://blog.csdn.net/Strive_For_Future/article/details/118609968)
+22. [矩阵-知乎](https://zhuanlan.zhihu.com/p/266267223)
+23. [图片1-CSDN博客](https://blog.csdn.net/qq_38526623/article/details/103737589)
+24. [图片2-CSDN博客](https://blog.csdn.net/LeonSUST/article/details/89332744)
+25. [单元格换行-CSDN博客](https://blog.csdn.net/robertchenguangzhi/article/details/48916319)
+26. [\cline-CSDN博客](https://blog.csdn.net/huancaoo/article/details/113106636)
+27. [\multirow-CSDN博客](https://blog.csdn.net/robert_chen1988/article/details/80861246)
+28. [超链接-CSDN博客](https://blog.csdn.net/OOFFrankDura/article/details/90600855)
+29. [代码块1-Overleaf](https://www.overleaf.com/learn/latex/Code_listing)
+30. [代码块2-CSDN博客](https://blog.csdn.net/RobertChenGuangzhi/article/details/45126785)
+31. [脚注-LaTeX 工作室](https://www.latexstudio.net/archives/51620.html)
+32. [参考文献1-知乎](https://zhuanlan.zhihu.com/p/265479955)
+33. [参考文献2-知乎](https://zhuanlan.zhihu.com/p/114733612)
+34. [参考文献3-Stack Exchange](https://tex.stackexchange.com/questions/99615/backref-package-for-page-reference)
+35. [参考文献4-CSDN博客](https://blog.csdn.net/xovee/article/details/109715706)
+36. [参考文献5-CSDN博客](https://blog.csdn.net/xovee/article/details/109896563)
+37. [LaTeX公式转Word公式-简书](https://www.jianshu.com/p/0947ebcfc42e)
