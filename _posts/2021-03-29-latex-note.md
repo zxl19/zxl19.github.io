@@ -81,8 +81,9 @@ pinned: true
     - 反对称矩阵使用`^{\wedge}`，其逆运算使用`^{\vee}`；
     - 矩阵转置使用`^{\mathrm{T}}`；
     - 一阶导数使用`^{\prime}`；
-    - 定义等号使用`\triangleq`；
-    - 上面加长横线使用`\overline{}`；
+    - 定义等号使用`\triangleq`或`\overset{def}{=}`；
+    - 内容上加长横线使用`\overline{}`；
+    - 内容上加文字使用`\overset{}{}`；
 
 3. 括号大小根据内容自动调整：
 
