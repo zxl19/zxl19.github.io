@@ -67,20 +67,48 @@ pinned: false
 3. MATLAB中设置图片大小示例：
 
     ```matlab
-    set(gcf,'Unit', 'Centimeters', 'Position', [10 5 15 10]) % 单个图像
-    set(gcf,'Unit', 'Centimeters', 'Position', [10 5 20 15]) % 三个子图
+    set(gcf, 'Unit', 'Centimeters', 'Position', [10 5 15 10]) % 单个图像
+    set(gcf, 'Unit', 'Centimeters', 'Position', [10 5 20 15]) % 三个子图
     ```
 
 4. MATLAB中设置坐标轴字体示例：
 
     ```matlab
-    set(gca,'FontName','Times New Roman') % 子图中需要分别设置
+    set(gca, 'FontName', 'Times New Roman') % 子图中需要分别设置
     xlabel('\fontname{宋体}时间\fontname{Times New Roman} / s')
     ylabel('\fontname{Times New Roman}x / m')
     ```
 
-5. 图片中的文字大小应保证与正文中的文字大小接近，建议使用固定字号18磅；
+5. 图片中的文字大小应保证与正文中的文字大小接近，建议使用固定字号18磅搭配`0.6\linewidth`；
 6. 若不要求坐标轴比例相等可以放大坐标区充满图窗；
+7. MATLAB中反转坐标轴方向示例：
+
+    ```matlab
+    set(gca, 'XDir', 'reverse')
+    set(gca, 'YDir', 'reverse')
+    ```
+
+8. MATLAB中设置坐标轴刻度示例：
+
+    ```matlab
+    set(gca, 'XTick', [0 : 0.5 * pi : 2 * pi])
+    set(gca, 'XTickLabel', {'0', '0.5\pi', '\pi', '1.5\pi', '2\pi'})
+    ```
+
+9. MATLAB中颜色图设置示例：
+
+    ```matlab
+    colormap default    % 默认颜色图设置，parula
+    colormap jet        % 由蓝到红，较为美观
+    colormap(jet)       % 作用相同
+    ```
+
+10. MATLAB中颜色栏设置示例：
+
+    ```matlab
+    c = colorbar;
+    c.Label.String = '标注文字';
+    ```
 
 ### 流程图和示意图
 
@@ -133,3 +161,6 @@ pinned: false
 2. [审稿意见怎么回复？需要注意什么？-知乎](https://www.zhihu.com/question/370758333)
 3. [英文论文写作有哪些需要注意的细节？-知乎](https://www.zhihu.com/question/46825717)
 4. [我来分享下自己总结的审稿意见回复的模板吧-方差的文章-知乎](https://zhuanlan.zhihu.com/p/346911007)
+5. [MATLAB坐标轴位置和方向设置-CSDN博客](https://blog.csdn.net/yuejisuo1948/article/details/80801506)
+6. [MATLAB坐标轴刻度设置-百度经验](https://jingyan.baidu.com/article/c1a3101e044849de646deb43.html)
+7. [MATLAB坐标轴刻度设置-CSDN博客](https://blog.csdn.net/yq_forever/article/details/86594602)
