@@ -112,6 +112,10 @@ CMake扩展。
 
 LaTeX语言扩展，可以预览PDF文档。
 
+### Luna Paint——Image Editor
+
+图片编辑扩展，支持多种图片格式。
+
 ### Markdown All in One
 
 Markdown语言扩展。
