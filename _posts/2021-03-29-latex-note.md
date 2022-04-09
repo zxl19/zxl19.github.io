@@ -61,6 +61,8 @@ pinned: true
 \usepackage{tikz-3dplot}    % 绘制三维坐标系，坐标变换
 
 \usepackage{courier}        % 使用打字机字体/等宽字体
+
+\usepackage{placeins}       % 限制浮动体位置
 ```
 
 ## 格式约定
@@ -329,14 +331,15 @@ $公式内容$
     - `p`：page of its own，浮动页；
 
 2. 强制浮动格式：`[!h]`，不考虑美观性；
-3. 图片格式说明：
+3. 使用`\FloatBarrier`限制浮动体位置；
+4. 图片格式说明：
 
     - 建议矢量图片使用`.pdf`格式，比如数据可视化的绘图；
     - 照片应使用`.jpg`格式；
     - 其他的栅格图应使用无损的`.png`格式；
     - 注意，$\LaTeX$不支持`.tiff`格式，`.eps`格式已经过时；
 
-4. 图片跨双栏使用`\begin{figure*}`；
+5. 图片跨双栏使用`\begin{figure*}`；
 
 ### 插入子图
 
