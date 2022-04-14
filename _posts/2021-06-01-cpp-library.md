@@ -26,6 +26,7 @@ pinned: false
 1. [fmtlib/fmt](https://github.com/fmtlib/fmt)
 2. [p-ranav/indicators](https://github.com/p-ranav/indicators)
 3. [p-ranav/tabulate](https://github.com/p-ranav/tabulate)
+4. [tqdm/tqdm.cpp](https://github.com/tqdm/tqdm.cpp)
 
 ## 日期时间
 
