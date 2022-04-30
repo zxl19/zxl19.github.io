@@ -63,6 +63,8 @@ pinned: true
 \usepackage{courier}        % 使用打字机字体/等宽字体
 
 \usepackage{placeins}       % 限制浮动体位置
+
+\usepackage{siunitx}        % 使用国际单位制
 ```
 
 ## 格式约定
@@ -267,7 +269,7 @@ $公式内容$
     ```latex
     \left\{\begin{array}{l}
         公式内容 \\
-        公式内容 \\
+        公式内容
     \end{array}\right.
     ```
 
@@ -279,7 +281,7 @@ $公式内容$
 \begin{array}{ccc} % 指定每列的对齐方式，个数对应列数
     1 & 0 & 0 \\
     0 & 1 & 0 \\
-    0 & 0 & 1 \\
+    0 & 0 & 1
 \end{array}
 ```
 
@@ -297,7 +299,7 @@ $公式内容$
 \begin{bmatrix} % 矩阵样式
     1 & 0 & 0 \\
     0 & 1 & 0 \\
-    0 & 0 & 1 \\
+    0 & 0 & 1
 \end{bmatrix}
 ```
 
@@ -381,6 +383,7 @@ $公式内容$
 
 ```latex
 \begin{table}[htbp] % 指定表格位置
+    % \def\arraystretch{1.3} % 调整表格整体行高
     \centering
     \caption{Table Title} % 表格标题
     \label{tab:1}
@@ -407,7 +410,7 @@ $公式内容$
 
     - 水平框线：使用`\hline`；
     - 垂直框线：在对齐方式处对应的列之间添加分隔线`|`；
-    - 部分列水平框线：使用`\cline{i-j}`在i到j列间添加水平框线；
+    - 部分列水平框线：使用`\cline{i-j}`在i到j列间添加水平框线，使用`\rule{0pt}{11pt}`调节垂直方向距离；
 
 4. 表格跨双栏使用`\begin{table*}`；
 5. 不规则形状表格：
@@ -775,14 +778,16 @@ TODO：单独整理。
 25. [图片2-CSDN博客](https://blog.csdn.net/LeonSUST/article/details/89332744)
 26. [单元格换行-CSDN博客](https://blog.csdn.net/robertchenguangzhi/article/details/48916319)
 27. [\cline-CSDN博客](https://blog.csdn.net/huancaoo/article/details/113106636)
-28. [\multirow-CSDN博客](https://blog.csdn.net/robert_chen1988/article/details/80861246)
-29. [超链接-CSDN博客](https://blog.csdn.net/OOFFrankDura/article/details/90600855)
-30. [代码块1-Overleaf](https://www.overleaf.com/learn/latex/Code_listing)
-31. [代码块2-CSDN博客](https://blog.csdn.net/RobertChenGuangzhi/article/details/45126785)
-32. [脚注-LaTeX 工作室](https://www.latexstudio.net/archives/51620.html)
-33. [参考文献1-知乎](https://zhuanlan.zhihu.com/p/265479955)
-34. [参考文献2-知乎](https://zhuanlan.zhihu.com/p/114733612)
-35. [参考文献3-Stack Exchange](https://tex.stackexchange.com/questions/99615/backref-package-for-page-reference)
-36. [参考文献4-CSDN博客](https://blog.csdn.net/xovee/article/details/109715706)
-37. [参考文献5-CSDN博客](https://blog.csdn.net/xovee/article/details/109896563)
-38. [LaTeX公式转Word公式-简书](https://www.jianshu.com/p/0947ebcfc42e)
+28. [\rule-Stack Exchange](https://tex.stackexchange.com/questions/50352/inserting-a-small-vertical-space-in-a-table)
+29. [长度单位-CSDN博客](https://blog.csdn.net/robert_chen1988/article/details/52739825)
+30. [\multirow-CSDN博客](https://blog.csdn.net/robert_chen1988/article/details/80861246)
+31. [超链接-CSDN博客](https://blog.csdn.net/OOFFrankDura/article/details/90600855)
+32. [代码块1-Overleaf](https://www.overleaf.com/learn/latex/Code_listing)
+33. [代码块2-CSDN博客](https://blog.csdn.net/RobertChenGuangzhi/article/details/45126785)
+34. [脚注-LaTeX 工作室](https://www.latexstudio.net/archives/51620.html)
+35. [参考文献1-知乎](https://zhuanlan.zhihu.com/p/265479955)
+36. [参考文献2-知乎](https://zhuanlan.zhihu.com/p/114733612)
+37. [参考文献3-Stack Exchange](https://tex.stackexchange.com/questions/99615/backref-package-for-page-reference)
+38. [参考文献4-CSDN博客](https://blog.csdn.net/xovee/article/details/109715706)
+39. [参考文献5-CSDN博客](https://blog.csdn.net/xovee/article/details/109896563)
+40. [LaTeX公式转Word公式-简书](https://www.jianshu.com/p/0947ebcfc42e)
