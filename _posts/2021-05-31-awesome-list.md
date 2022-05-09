@@ -41,10 +41,11 @@ The main repository serves as a curated list of awesome lists.
 
 ### SLAM
 
-1. [kanster/awesome-slam](https://github.com/kanster/awesome-slam)
-2. [youngguncho/awesome-slam-datasets](https://github.com/youngguncho/awesome-slam-datasets)
-3. [OpenSLAM/awesome-SLAM-list](https://github.com/OpenSLAM/awesome-SLAM-list)
-4. [SilenceOverflow/Awesome-SLAM](https://github.com/SilenceOverflow/Awesome-SLAM)
+1. [openMVG/awesome_3DReconstruction_list](https://github.com/openMVG/awesome_3DReconstruction_list)
+2. [kanster/awesome-slam](https://github.com/kanster/awesome-slam)
+3. [youngguncho/awesome-slam-datasets](https://github.com/youngguncho/awesome-slam-datasets)
+4. [OpenSLAM/awesome-SLAM-list](https://github.com/OpenSLAM/awesome-SLAM-list)
+5. [SilenceOverflow/Awesome-SLAM](https://github.com/SilenceOverflow/Awesome-SLAM)
 
 ### 自动驾驶
 
