@@ -717,7 +717,7 @@ TODO：单独整理。
 #### GitHub
 
 1. [posquit0/Awesome-CV](https://github.com/posquit0/Awesome-CV)
-2. [awesome-resume-for-chinese](https://github.com/dyweb/awesome-resume-for-chinese)
+2. [dyweb/awesome-resume-for-chinese](https://github.com/dyweb/awesome-resume-for-chinese)
 3. [MartinThoma/LaTeX-examples](https://github.com/MartinThoma/LaTeX-examples)
 4. [xiaohanyu/awesome-tikz](https://github.com/xiaohanyu/awesome-tikz)
 5. [egeerardyn/awesome-LaTeX](https://github.com/egeerardyn/awesome-LaTeX)
@@ -727,6 +727,9 @@ TODO：单独整理。
 9. [huajh/awesome-latex-cv](https://github.com/huajh/awesome-latex-cv)
 10. [XiangyunHuang/awesome-beamers](https://github.com/XiangyunHuang/awesome-beamers)
 11. [AlexTsagas/Tikz-Graphics](https://github.com/AlexTsagas/Tikz-Graphics)
+12. [ElegantLaTeX/ElegantBook](https://github.com/ElegantLaTeX/ElegantBook)
+13. [ElegantLaTeX/ElegantPaper](https://github.com/ElegantLaTeX/ElegantPaper)
+14. [ElegantLaTeX/ElegantNote](https://github.com/ElegantLaTeX/ElegantNote)
 
 ### 高质量模板
 
