@@ -60,6 +60,7 @@ pinned: false
 3. [【顾俊】清洁相机传感器居然是如此的简单？！](https://www.bilibili.com/video/BV1iQ4y1M7wz)
 4. [相机镜头全面清洁指南：自己清理CMOS传感器其实比想象中简单多了，清洁用品买哪家，迷你版对比测试](https://www.bilibili.com/video/BV1vR4y147T7)
 5. [【DPReview 4K】如何清洁（毁灭）你的镜头](https://www.bilibili.com/video/BV1Bz4y1Q7PZ)
+6. [【DPReview】如何清洁（毁灭）你的相机传感器](https://www.bilibili.com/video/BV1MY4y1b7Uh)
 
 ## 相机品牌调研
 
