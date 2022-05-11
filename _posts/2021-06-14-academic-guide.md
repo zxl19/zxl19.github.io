@@ -16,7 +16,7 @@ pinned: false
 ## 资料
 
 1. [现代科研指北](https://github.com/yufree/sciguide)
-2. How to Be a Modern Scientist
+2. [How to Be a Modern Scientist](https://users.metu.edu.tr/ccandan/other/modern_scientist_preview_first_15_pages_Jan_2018.pdf)
 3. [The Ph.D Grind](http://pgbovine.net/PhD-memoir/pguo-PhD-grind.pdf)
 4. [Some Modest Advice for Graduate Students](https://www.researchgate.net/publication/255653424_SOME_MODEST_ADVICE_FOR_GRADUATE_STUDENTS)
 

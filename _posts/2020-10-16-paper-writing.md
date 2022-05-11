@@ -154,13 +154,15 @@ pinned: false
 1. [正确写作美国大学生数学建模竞赛论文](https://github.com/RobbyDeng/MCM2019)
 2. [English Exposed](https://hkupress.hku.hk/pro/con/1612.pdf)
 3. [Academic Phrasebank](https://www.phrasebank.manchester.ac.uk/)
+4. [The Most Common Habits from more than 200 English Papers written by Graduate Chinese Engineering Students](https://www.chrisyttang.org/assets/misc/The%20Most%20Common%20Habits%20from%20more%20than%20200%20English%20Papers%20written.pdf)
 
 ## 参考
 
 1. [MATLAB画图字体-CSDN博客](https://blog.csdn.net/weixin_44891861/article/details/117032147)
-2. [审稿意见怎么回复？需要注意什么？-知乎](https://www.zhihu.com/question/370758333)
-3. [英文论文写作有哪些需要注意的细节？-知乎](https://www.zhihu.com/question/46825717)
-4. [我来分享下自己总结的审稿意见回复的模板吧-方差的文章-知乎](https://zhuanlan.zhihu.com/p/346911007)
-5. [MATLAB坐标轴位置和方向设置-CSDN博客](https://blog.csdn.net/yuejisuo1948/article/details/80801506)
-6. [MATLAB坐标轴刻度设置-百度经验](https://jingyan.baidu.com/article/c1a3101e044849de646deb43.html)
-7. [MATLAB坐标轴刻度设置-CSDN博客](https://blog.csdn.net/yq_forever/article/details/86594602)
+2. [MATLAB坐标轴位置和方向设置-CSDN博客](https://blog.csdn.net/yuejisuo1948/article/details/80801506)
+3. [MATLAB坐标轴刻度设置-百度经验](https://jingyan.baidu.com/article/c1a3101e044849de646deb43.html)
+4. [MATLAB坐标轴刻度设置-CSDN博客](https://blog.csdn.net/yq_forever/article/details/86594602)
+5. [审稿意见怎么回复？需要注意什么？-知乎](https://www.zhihu.com/question/370758333)
+6. [英文论文写作有哪些需要注意的细节？-知乎](https://www.zhihu.com/question/46825717)
+7. [我来分享下自己总结的审稿意见回复的模板吧-方差的文章-知乎](https://zhuanlan.zhihu.com/p/346911007)
+8. [美国老姐看完200+中国学生SCI论文，怒写超详细“中国人英文论文写作指南”，还被推上了B站热门…-量子位的文章-知乎](https://zhuanlan.zhihu.com/p/512095069)
