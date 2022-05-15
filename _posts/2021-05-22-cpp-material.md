@@ -37,9 +37,10 @@ C++（包括CMake）学习资料存档。
 12. [cpp-best-practices/cppbestpractices](https://github.com/cpp-best-practices/cppbestpractices)
 13. [TheLartians/ModernCppStarter](https://github.com/TheLartians/ModernCppStarter)
 14. [tangtangcoding/C-C-](https://github.com/tangtangcoding/C-C-)
-15. [cpp-best-practices/cpp_starter_project](https://github.com/cpp-best-practices/cpp_starter_project)
+15. [cpp-best-practices/gui_starter_template](https://github.com/cpp-best-practices/gui_starter_template)
 16. [0voice/cpp_new_features](https://github.com/0voice/cpp_new_features)
 17. [muqsitnawaz/modern-cpp-cheatsheet](https://github.com/muqsitnawaz/modern-cpp-cheatsheet)
+18. [district10/cmake-templates](https://github.com/district10/cmake-templates)
 
 ## 其他网站
 
