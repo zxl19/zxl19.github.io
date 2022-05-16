@@ -100,6 +100,7 @@ The main repository serves as a curated list of awesome lists.
 
 1. [jbhuang0604/awesome-tips](https://github.com/jbhuang0604/awesome-tips)
 2. [writing-resources/awesome-scientific-writing](https://github.com/writing-resources/awesome-scientific-writing)
+3. [alirezasamar/awesome-phd](https://github.com/alirezasamar/awesome-phd)
 
 ## LaTeX
 

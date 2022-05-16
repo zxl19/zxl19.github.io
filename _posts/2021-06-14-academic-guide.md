@@ -26,10 +26,13 @@ pinned: false
 
 ## GitHub
 
-1. [jbhuang0604/awesome-tips](https://github.com/jbhuang0604/awesome-tips)
+1. [shengyp/doing_the_PhD](https://github.com/shengyp/doing_the_PhD)
+2. [jbhuang0604/awesome-tips](https://github.com/jbhuang0604/awesome-tips)
+3. [writing-resources/awesome-scientific-writing](https://github.com/writing-resources/awesome-scientific-writing)
+4. [macoj/phd](https://github.com/macoj/phd)
+5. [alirezasamar/awesome-phd](https://github.com/alirezasamar/awesome-phd)
 
 ## 参考
 
 1. [现代科研指北-于淼的文章-知乎](https://zhuanlan.zhihu.com/p/305646861)
 2. [给30岁要读博的人什么建议？-太白的回答-知乎](https://www.zhihu.com/question/321599275/answer/1728207632)
-3. [macoj/phd](https://github.com/macoj/phd)
