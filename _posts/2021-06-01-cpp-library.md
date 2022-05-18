@@ -92,6 +92,10 @@ pinned: false
 
 1. [okdshin/PicoSHA2](https://github.com/okdshin/PicoSHA2)
 
+## 序列化
+
+1.[protocolbuffers/protobuf](https://github.com/protocolbuffers/protobuf)
+
 ## 参考
 
 1. [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp)

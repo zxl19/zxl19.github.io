@@ -41,6 +41,7 @@ C++（包括CMake）学习资料存档。
 16. [0voice/cpp_new_features](https://github.com/0voice/cpp_new_features)
 17. [muqsitnawaz/modern-cpp-cheatsheet](https://github.com/muqsitnawaz/modern-cpp-cheatsheet)
 18. [district10/cmake-templates](https://github.com/district10/cmake-templates)
+19. [nikolausmayer/cmake-templates](https://github.com/nikolausmayer/cmake-templates)
 
 ## 其他网站
 
