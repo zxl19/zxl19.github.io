@@ -27,6 +27,7 @@ pinned: false
 2. [MATLAB绘图类型](https://ww2.mathworks.cn/help/matlab/creating_plots/types-of-matlab-plots.html)
 3. [MATLAB Plot Gallery](https://www.mathworks.com/products/matlab/plot-gallery.html)
 4. [Publication Quality Graphics](https://ww2.mathworks.cn/matlabcentral/fileexchange/35246-matlab-plot-gallery-publication-quality-graphics?focused=6792997&tab=example%EF%BC%89)
+5. [tutusjtu/FigureBest-2.0](https://github.com/tutusjtu/FigureBest-2.0)
 
 ### Python
 

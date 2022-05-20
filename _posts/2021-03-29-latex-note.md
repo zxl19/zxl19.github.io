@@ -730,6 +730,7 @@ TODO：单独整理。
 12. [ElegantLaTeX/ElegantBook](https://github.com/ElegantLaTeX/ElegantBook)
 13. [ElegantLaTeX/ElegantPaper](https://github.com/ElegantLaTeX/ElegantPaper)
 14. [ElegantLaTeX/ElegantNote](https://github.com/ElegantLaTeX/ElegantNote)
+15. [xinychen/latex-cookbook](https://github.com/xinychen/latex-cookbook)
 
 ### 高质量模板
 
