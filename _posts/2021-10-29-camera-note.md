@@ -81,12 +81,35 @@ pinned: false
 
 ### 配件选购
 
-配件主要包括快门按钮、相机包、肩带、遮光罩、UV镜、专用手柄、热靴指柄等。一般来说，不推荐买相机皮套，会与光圈环和翻转屏干涉。肩带最好带快拆扣，方便取用。
+#### 功能性配件
 
-1. [可以EDC的单肩摄影包！颜值高得不像实力派](https://www.bilibili.com/video/BV1Zw411f7xZ)
-2. [【富士XT4】不一定提升创造力但能帮你避坑の配件分享](https://www.bilibili.com/video/BV1ii4y1u7eK)
-3. [【富士X100V】一台没有女孩不爱的相机丨必买的复古配件](https://www.bilibili.com/video/BV1Mb4y167oK)
-4. [老生常谈—我们到底需不需要给镜头装UV镜？-翔宇情的文章-知乎](https://zhuanlan.zhihu.com/p/43656792)
+主要包括相机包、三脚架、肩带、遮光罩、UV镜、专用手柄、热靴指柄等。肩带最好带快拆扣，方便取用。
+
+##### 相机包
+
+1. [【DPReview】单肩相机包横评](https://www.bilibili.com/video/BV14Y4y1L7Mt)
+2. [【DPReview】双肩相机包横评](https://www.bilibili.com/video/BV1ot4y1n7cq)
+3. [可以EDC的单肩摄影包！颜值高得不像实力派](https://www.bilibili.com/video/BV1Zw411f7xZ)
+
+##### 三脚架
+
+1. [如何挑选适合旅行的三脚架 - 旅行三脚架选购指南](https://www.bilibili.com/video/BV1UE411T7TJ)
+2. [【DPReview】胡子哥帮你挑大型旅行三脚架](https://www.bilibili.com/video/BV1NF411G7f7)
+3. [【DPReview】摄影脚架 vs 视频脚架](https://www.bilibili.com/video/BV117411m7yv)
+4. [推荐一个三脚架-马小路ET2541，我的惨痛经历告诉你买三脚架别再花冤枉钱了](https://www.bilibili.com/video/BV1e5411L7rz)
+5. [强烈推荐，399元超级性价比便携三脚架极马小路C15I，别错过这车了](https://www.bilibili.com/video/BV1uq4y1u7bN)
+6. [都说让我试试马小路三脚架，我用了并且还爱上了](https://www.bilibili.com/video/BV1sU4y1n7Py)
+
+##### UV镜
+
+1. [老生常谈—我们到底需不需要给镜头装UV镜？-翔宇情的文章-知乎](https://zhuanlan.zhihu.com/p/43656792)
+
+#### 装饰性配件
+
+主要包括快门按钮、相机皮套等。一般来说，不推荐买相机皮套，会与光圈环和翻转屏干涉。
+
+1. [【富士XT4】不一定提升创造力但能帮你避坑の配件分享](https://www.bilibili.com/video/BV1ii4y1u7eK)
+2. [【富士X100V】一台没有女孩不爱的相机丨必买的复古配件](https://www.bilibili.com/video/BV1Mb4y167oK)
 
 ### 历史价格查询
 
