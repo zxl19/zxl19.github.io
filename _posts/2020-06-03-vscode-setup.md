@@ -1,6 +1,6 @@
 ---
 layout: post
-title: VS Code配置存档
+title: VS Code配置
 date: 2020-06-03
 author: zxl19
 tags: [VS Code, Note]
