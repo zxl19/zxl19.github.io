@@ -26,9 +26,10 @@ RawTherapee是一款开源、跨平台的免费图像处理软件。
 #### 教程
 
 1. [RawPedia](http://rawpedia.rawtherapee.com/Main_Page)
-2. [RawTherapee：一个比付费后期软件（Lightroom等）更强大的免费软件](https://www.bilibili.com/video/BV1JK4y1v7CM)
-3. [Rawtherapee中文教程1：认识界面与基本设置](https://www.bilibili.com/video/BV1QA411P7Uy)
-4. [RawTherapee中文教程2：解raw算法](https://www.bilibili.com/video/BV1g64y1e76a)
+2. [RAW Therapee Tutorials](https://www.youtube.com/channel/UCjaDzx2O_Fw-LukahyF5RwA)
+3. [RawTherapee：一个比付费后期软件（Lightroom等）更强大的免费软件](https://www.bilibili.com/video/BV1JK4y1v7CM)
+4. [Rawtherapee中文教程1：认识界面与基本设置](https://www.bilibili.com/video/BV1QA411P7Uy)
+5. [RawTherapee中文教程2：解raw算法](https://www.bilibili.com/video/BV1g64y1e76a)
 
 ## 常见问题及解决方法
 
