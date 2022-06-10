@@ -21,23 +21,24 @@ pinned: false
 
 1. 7-Zip
 2. Adobe Acrobat XI Pro
-3. CloudCompare
-4. Geek Uninstaller
-5. GeoGebra
-6. GitHub Desktop
-7. Mendeley Desktop
-8. NeatReader
-9. PowerToys
-10. RawTherapee
-11. Rufus
-12. SpaceSniffer
-13. TeXstudio
-14. VLC media player
-15. Visual Studio Code
-16. XMind
-17. 格式工厂
-18. 尼康工坊
-19. 万兴喵影
+3. Adobe DNG Converter
+4. CloudCompare
+5. Geek Uninstaller
+6. GeoGebra
+7. GitHub Desktop
+8. Mendeley Desktop
+9. NeatReader
+10. PowerToys
+11. RawTherapee
+12. Rufus
+13. SpaceSniffer
+14. TeXstudio
+15. VLC media player
+16. Visual Studio Code
+17. XMind
+18. 格式工厂
+19. 尼康工坊
+20. 万兴喵影
 
 ### 未安装
 

@@ -35,7 +35,7 @@ pinned: false
 
 使用[图标生成器](https://android-material-icon-generator.bitdroid.de/)，自定义网页标签栏中显示的小图标。
 
-## 常见问题
+## 常见问题及解决方法
 
 ### GitHub图片显示失败
 
