@@ -67,6 +67,9 @@ pinned: false
 
 按照尺寸可以分为120胶片和135胶片，120胶片尺寸上大于135胶片，135胶片更加常用。按照颜色可以分为黑白负片、彩色负片和彩色反转片。
 
+1. [List of photographic films](https://en.wikipedia.org/wiki/List_of_photographic_films)
+2. [List of discontinued photographic films](https://en.wikipedia.org/wiki/List_of_discontinued_photographic_films)
+
 ### 按照尺寸分类
 
 ### 按照颜色分类
