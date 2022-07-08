@@ -70,6 +70,7 @@ pinned: false
 2. Lightroom
 3. Luminar
 4. Photoshop
+5. Affinity
 
 ##### 开源软件
 
