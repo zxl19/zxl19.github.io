@@ -190,6 +190,12 @@ FIXME: 待修复内容
 
 文件图标主题，类似的主题还有Material Icon Theme。
 
+## 快捷键速查表
+
+1. [Windows](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf)
+2. [Linux](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-linux.pdf)
+3. [macOS](https://code.visualstudio.com/shortcuts/keyboard-shortcuts-macos.pdf)
+
 ## 参考
 
 1. [空格宽度-CSDN博客](https://bbs.csdn.net/topics/392557784)
