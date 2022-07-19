@@ -15,8 +15,9 @@ pinned: false
 
 ## 编辑器配置
 
-1. 字体：使用等宽字体更加美观，特别是对于代码中空格的宽度和命令行中的命令显示，在Windows下使用默认设置即可，在Linux下可参考Windows使用`monospace`；
-2. 双击侧边栏和编辑区边界可以自动调整宽度；
+1. `Editor:Font Family`：设置字体，使用等宽字体更加美观，特别是对于代码中空格的宽度和命令行中的命令显示，在Windows下使用默认设置即可，在Linux下可参考Windows使用`monospace`；
+2. `Editor:Word Wrap`：设置超过窗口宽度后自动换行；
+3. 双击侧边栏和编辑区边界可以自动调整宽度；
 
 ## 扩展配置
 
@@ -110,7 +111,39 @@ CMake扩展。
 
 ### LaTeX Workshop
 
-LaTeX语言扩展，可以预览PDF文档。
+LaTeX语言扩展，配置`latex-workshop.latex.tools`、`latex-workshop.latex.recipes`后可以编译文档并预览。
+
+1. `latex-workshop.latex.tools`指定了单条编译命令的参数，示例：
+
+   ```json
+   {
+      "name": "xelatexmk",
+      "command": "latexmk",
+      "args": [
+         "-synctex=1",
+         "-interaction=nonstopmode",
+         "-file-line-error",
+         "-xelatex",
+         "-outdir=%OUTDIR%",
+         "%DOC%"
+      ],
+      "env": {}
+   }
+   ```
+
+2. `latex-workshop.latex.recipes`指定了多条编译命令的执行顺序，示例：
+
+   ```json
+   {
+      "name": "xelatex ➞ biber ➞ xelatex × 2",
+      "tools": [
+         "xelatexmk",
+         "biber",
+         "xelatexmk",
+         "xelatexmk"
+      ]
+   }
+   ```
 
 ### Luna Paint——Image Editor
 
