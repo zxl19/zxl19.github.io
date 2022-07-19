@@ -9,7 +9,7 @@ toc: true
 pinned: false
 ---
 
-我的相机选购调研笔记，包括需求分析、相机构造与参数的选择、清洁保养方式等。
+我的相机选购调研笔记，包括需求分析、相机构造与参数的选择、相机使用与清洁保养等。
 
 <!-- more -->
 
@@ -36,7 +36,7 @@ pinned: false
 
 按照结构，相机可以分为单反（Digital Single Lens Reflex，DSLR）和微单（mirrorless）两类。
 
-相机的基本分类和区别，主要参考[Linksphotograph](https://space.bilibili.com/3816626/)、[彭弘Red](https://space.bilibili.com/55801838/)和[-LKs-](https://space.bilibili.com/125526/)的视频。
+相机的基本分类和区别，主要参考[Linksphotograph](https://space.bilibili.com/3816626)、[彭弘Red](https://space.bilibili.com/55801838)和[-LKs-](https://space.bilibili.com/125526)的视频。
 
 1. [你到底该买哪台相机？从品牌参数到预算需求，一个视频讲清楚丨新手相机选购指南【links】](https://www.bilibili.com/video/BV1754y1D7eW)
 2. [【科普】新手小白应该怎么挑选相机，2020年相机选购指南](https://www.bilibili.com/video/BV1MK411W7mc)
@@ -45,13 +45,21 @@ pinned: false
 
 ### 重要参数
 
-1. 感光元件类型和大小；
-2. 焦距；
-3. 光圈大小；
-4. 像素；
-5. 连拍速度；
+主要包括感光元件类型和大小、焦距、光圈大小、像素、连拍速度等。
 
-## 清洁保养
+1. [【DPReview】中画幅的景深真有这么神奇吗？](https://www.bilibili.com/video/BV19S4y1k7m2)
+2. [【DPReview】低像素的高感画质真有这么神奇吗？](https://www.bilibili.com/video/BV1pi4y117rq)
+3. [【DPReview 4K】什么是镜头的呼吸效应？（以及你为什么要在乎这件事）](https://www.bilibili.com/video/BV1RX4y157kh)
+
+## 相机使用与清洁保养
+
+### 相机使用
+
+1. [【DPReview】如何正确握持相机](https://www.bilibili.com/video/BV1AG411x7ty)
+2. [【DPReview】为什么说波形图比直方图更好（拍照也是如此）](https://www.bilibili.com/video/BV1gr4y1b7nB)
+3. [【DPReview】6个小技巧 让你掌握手动对焦（拍照&视频）](https://www.bilibili.com/video/BV1WL4y1V7CQ)
+
+### 清洁保养
 
 清洁保养主要使用气吹（推荐单向带滤网或者NITECORE）、擦镜纸（推荐蔡司）、CMOS清洁棒（推荐VSGO）等。
 
@@ -59,8 +67,9 @@ pinned: false
 2. [【顾俊】如何清洁你的相机和镜头！](https://www.bilibili.com/video/BV18b411n7u7)
 3. [【顾俊】清洁相机传感器居然是如此的简单？！](https://www.bilibili.com/video/BV1iQ4y1M7wz)
 4. [相机镜头全面清洁指南：自己清理CMOS传感器其实比想象中简单多了，清洁用品买哪家，迷你版对比测试](https://www.bilibili.com/video/BV1vR4y147T7)
-5. [【DPReview 4K】如何清洁（毁灭）你的镜头](https://www.bilibili.com/video/BV1Bz4y1Q7PZ)
-6. [【DPReview】如何清洁（毁灭）你的相机传感器](https://www.bilibili.com/video/BV1MY4y1b7Uh)
+5. [【DPReview 4K】受损的镜头会如何影响画质（灰尘、液体、指印和划痕）](https://www.bilibili.com/video/BV1za4y1Y75V)
+6. [【DPReview 4K】如何清洁（毁灭）你的镜头](https://www.bilibili.com/video/BV1Bz4y1Q7PZ)
+7. [【DPReview】如何清洁（毁灭）你的相机传感器](https://www.bilibili.com/video/BV1MY4y1b7Uh)
 
 ## 相机品牌调研
 
@@ -79,43 +88,47 @@ pinned: false
 1. [支持丨富士胶片[中国]](https://www.fujifilm.com.cn/cn/zh-hans/consumer/support)
 2. [尼康-如何购买](https://www.nikon.com.cn/sc_CN/where_to_buy/where_to_buy.page?lang=)
 
-### 配件选购
+### 历史价格查询
 
-#### 功能性配件
+通过查询历史价格走势确定相机的价格范围，在可接收价格范围内下单。
+
+1. [商品历史价格查询](http://www.hisprice.cn)
+2. [慢慢买](http://tool.manmanbuy.com/historylowest.aspx)
+3. [历史价格查询](http://www.lsjgcx.com)
+
+## 相机配件选购
+
+### 功能性配件
 
 主要包括相机包、三脚架、肩带、遮光罩、UV镜、专用手柄、热靴指柄等。肩带最好带快拆扣，方便取用。
 
-##### 相机包
+#### 相机包
 
 1. [【DPReview】单肩相机包横评](https://www.bilibili.com/video/BV14Y4y1L7Mt)
 2. [【DPReview】双肩相机包横评](https://www.bilibili.com/video/BV1ot4y1n7cq)
-3. [可以EDC的单肩摄影包！颜值高得不像实力派](https://www.bilibili.com/video/BV1Zw411f7xZ)
+3. [摄影包选购指南 - 旅行时如何安全携带摄影设备](https://www.bilibili.com/video/BV1354y1d7Ra)
+4. [可以EDC的单肩摄影包！颜值高得不像实力派](https://www.bilibili.com/video/BV1Zw411f7xZ)
 
-##### 三脚架
+#### 三脚架
 
 1. [如何挑选适合旅行的三脚架 - 旅行三脚架选购指南](https://www.bilibili.com/video/BV1UE411T7TJ)
 2. [【DPReview】胡子哥帮你挑大型旅行三脚架](https://www.bilibili.com/video/BV1NF411G7f7)
 3. [【DPReview】摄影脚架 vs 视频脚架](https://www.bilibili.com/video/BV117411m7yv)
-4. [推荐一个三脚架-马小路ET2541，我的惨痛经历告诉你买三脚架别再花冤枉钱了](https://www.bilibili.com/video/BV1e5411L7rz)
-5. [强烈推荐，399元超级性价比便携三脚架极马小路C15I，别错过这车了](https://www.bilibili.com/video/BV1uq4y1u7bN)
-6. [都说让我试试马小路三脚架，我用了并且还爱上了](https://www.bilibili.com/video/BV1sU4y1n7Py)
+4. [【DPReview】如何选择正确的三脚架云台：球形、三向、齿轮](https://www.bilibili.com/video/BV1hY4y137hR)
+5. [推荐一个三脚架-马小路ET2541，我的惨痛经历告诉你买三脚架别再花冤枉钱了](https://www.bilibili.com/video/BV1e5411L7rz)
+6. [强烈推荐，399元超级性价比便携三脚架极马小路C15I，别错过这车了](https://www.bilibili.com/video/BV1uq4y1u7bN)
+7. [都说让我试试马小路三脚架，我用了并且还爱上了](https://www.bilibili.com/video/BV1sU4y1n7Py)
 
-##### UV镜
+#### UV镜
 
 1. [老生常谈—我们到底需不需要给镜头装UV镜？-翔宇情的文章-知乎](https://zhuanlan.zhihu.com/p/43656792)
 
-#### 装饰性配件
+### 装饰性配件
 
 主要包括快门按钮、相机皮套等。一般来说，不推荐买相机皮套，会与光圈环和翻转屏干涉。
 
 1. [【富士XT4】不一定提升创造力但能帮你避坑の配件分享](https://www.bilibili.com/video/BV1ii4y1u7eK)
 2. [【富士X100V】一台没有女孩不爱的相机丨必买的复古配件](https://www.bilibili.com/video/BV1Mb4y167oK)
-
-### 历史价格查询
-
-通过查询历史价格走势确定相机的价格范围，在可接收价格范围内下单。
-
-1. [慢慢买](http://tool.manmanbuy.com/historylowest.aspx)
 
 ## 富士相机相关
 
@@ -125,7 +138,7 @@ pinned: false
 
 ### 型号选择
 
-型号选择参考，主要参考[毒德大学字幕组](https://space.bilibili.com/8990248)和[摄影师EDI](https://space.bilibili.com/84480709/)的视频
+型号选择参考，主要参考[毒德大学字幕组](https://space.bilibili.com/8990248)和[摄影师EDI](https://space.bilibili.com/84480709)的视频
 
 1. [【DPReview 4K】富士Fujifilm X-S10测评](https://www.bilibili.com/video/BV17K411P7Ek)
 2. [【DPReview 4K】中端APS-C对决！索尼α6400富士X-S10对比测评](https://www.bilibili.com/video/BV1ty4y1t7c4)
@@ -154,8 +167,8 @@ pinned: false
 ### 胶片模拟
 
 1. [胶片模拟丨全18种胶片模拟模式完整对比-富士数码影像的文章-知乎](https://zhuanlan.zhihu.com/p/338421522)
-2. [Fuji X Weekly](https://fujixweekly.com/)
-3. [F16.click](https://www.f16.click/)
+2. [Fuji X Weekly](https://fujixweekly.com)
+3. [F16.click](https://www.f16.click)
 
 ## 尼康相机相关
 
