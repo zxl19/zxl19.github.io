@@ -174,22 +174,6 @@ C.rows()
 C.cols()
 ```
 
-#### 取矩阵行列
-
-```cpp
-P.row(i)
-P.col(j)
-```
-
-#### 取矩阵块
-
-以下两种方式等价，均表示从当前矩阵`(i, j)`元素处开始，取大小为`(rows, cols)`的矩阵：
-
-```cpp
-P.block(i, j, rows, cols)
-P.block<rows, cols>(i, j)
-```
-
 #### 转置
 
 ```cpp
@@ -211,6 +195,50 @@ x.norm()            // 取模
 x.squaredNorm()     // 模的平方
 ```
 
+#### 分块
+
+##### 向量
+
+```cpp
+// Eigen                           // MATLAB
+x.head(n)                          // x(1:n)
+x.head<n>()                        // x(1:n)
+x.tail(n)                          // x(end - n + 1: end)
+x.tail<n>()                        // x(end - n + 1: end)
+x.segment(i, n)                    // x(i+1 : i+n)
+x.segment<n>(i)                    // x(i+1 : i+n)
+```
+
+##### 矩阵
+
+```cpp
+// Eigen                           // MATLAB
+P.block(i, j, rows, cols)          // P(i+1 : i+rows, j+1 : j+cols)
+P.block<rows, cols>(i, j)          // P(i+1 : i+rows, j+1 : j+cols)
+P.row(i)                           // P(i+1, :)
+P.col(j)                           // P(:, j+1)
+P.leftCols<cols>()                 // P(:, 1:cols)
+P.leftCols(cols)                   // P(:, 1:cols)
+P.middleCols<cols>(j)              // P(:, j+1:j+cols)
+P.middleCols(j, cols)              // P(:, j+1:j+cols)
+P.rightCols<cols>()                // P(:, end-cols+1:end)
+P.rightCols(cols)                  // P(:, end-cols+1:end)
+P.topRows<rows>()                  // P(1:rows, :)
+P.topRows(rows)                    // P(1:rows, :)
+P.middleRows<rows>(i)              // P(i+1:i+rows, :)
+P.middleRows(i, rows)              // P(i+1:i+rows, :)
+P.bottomRows<rows>()               // P(end-rows+1:end, :)
+P.bottomRows(rows)                 // P(end-rows+1:end, :)
+P.topLeftCorner(rows, cols)        // P(1:rows, 1:cols)
+P.topRightCorner(rows, cols)       // P(1:rows, end-cols+1:end)
+P.bottomLeftCorner(rows, cols)     // P(end-rows+1:end, 1:cols)
+P.bottomRightCorner(rows, cols)    // P(end-rows+1:end, end-cols+1:end)
+P.topLeftCorner<rows,cols>()       // P(1:rows, 1:cols)
+P.topRightCorner<rows,cols>()      // P(1:rows, end-cols+1:end)
+P.bottomLeftCorner<rows,cols>()    // P(end-rows+1:end, 1:cols)
+P.bottomRightCorner<rows,cols>()   // P(end-rows+1:end, end-cols+1:end)
+```
+
 ### 矩阵运算
 
 #### 方阵相关
@@ -230,6 +258,38 @@ x.transpose() * y
 // 叉乘
 x.cross(y)
 ```
+
+#### 逐元素运算
+
+1. `Matrix`类可以通过调用对应成员函数实现逐元素运算，此时返回值类型为`Matrix`类：
+
+    ```cpp
+    mat1.cwiseMin(mat2)                 mat1.cwiseMin(scalar)
+    mat1.cwiseMax(mat2)                 mat1.cwiseMax(scalar)
+    mat1.cwiseAbs2()
+    mat1.cwiseAbs()
+    mat1.cwiseSqrt()
+    mat1.cwiseInverse()
+    mat1.cwiseProduct(mat2)
+    mat1.cwiseQuotient(mat2)
+    mat1.cwiseEqual(mat2)               mat1.cwiseEqual(scalar)
+    mat1.cwiseNotEqual(mat2)
+    ```
+
+2. 也可以将`Matrix`类转换为`Array`类后调用对应成员函数实现逐元素运算，此时返回值类型为`Array`类：
+
+    ```cpp
+    mat1.array().min(mat2.array())      mat1.array().min(scalar)
+    mat1.array().max(mat2.array())      mat1.array().max(scalar)
+    mat1.array().abs2()
+    mat1.array().abs()
+    mat1.array().sqrt()
+    mat1.array().inverse()
+    mat1.array() * mat2.array()
+    mat1.array() / mat2.array()
+    mat1.array() == mat2.array()        mat1.array() == scalar
+    mat1.array() != mat2.array()
+    ```
 
 #### 求解Ax=b形式线性方程组
 
@@ -272,38 +332,40 @@ Eigen::Vector3f Sigma= svd.singularValues();
 
 ### 逐元素运算
 
+包括算术运算符、比较运算符、常用数学函数等：
+
 ```cpp
 array1.abs2()
-array1.abs()
-array1.sqrt()
-array1.log()
-array1.log10()
-array1.exp()
-array1.pow(array2)
-array1.pow(scalar)
-
+array1.abs()                  abs(array1)
+array1.sqrt()                 sqrt(array1)
+array1.log()                  log(array1)
+array1.log10()                log10(array1)
+array1.exp()                  exp(array1)
+array1.pow(array2)            pow(array1,array2)
+array1.pow(scalar)            pow(array1,scalar)
+                              pow(scalar,array2)
 array1.square()
 array1.cube()
 array1.inverse()
 
-array1.sin()
-array1.cos()
-array1.tan()
-array1.asin()
-array1.acos()
-array1.atan()
-array1.sinh()
-array1.cosh()
-array1.tanh()
-array1.arg()
+array1.sin()                  sin(array1)
+array1.cos()                  cos(array1)
+array1.tan()                  tan(array1)
+array1.asin()                 asin(array1)
+array1.acos()                 acos(array1)
+array1.atan()                 atan(array1)
+array1.sinh()                 sinh(array1)
+array1.cosh()                 cosh(array1)
+array1.tanh()                 tanh(array1)
+array1.arg()                  arg(array1)
 
-array1.floor()
-array1.ceil()
-array1.round()
+array1.floor()                floor(array1)
+array1.ceil()                 ceil(array1)
+array1.round()                round(aray1)
 
-array1.isFinite()
-array1.isInf()
-array1.isNaN()
+array1.isFinite()             isfinite(array1)
+array1.isInf()                isinf(array1)
+array1.isNaN()                isnan(array1)
 ```
 
 ## 位姿表示
