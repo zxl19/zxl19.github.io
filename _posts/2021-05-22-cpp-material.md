@@ -23,26 +23,44 @@ C++（包括CMake）学习资料存档。
 
 ## GitHub
 
+### C++
+
 1. [mortennobel/cpp-cheatsheet](https://github.com/mortennobel/cpp-cheatsheet)
-2. [ttroy50/cmake-examples](https://github.com/ttroy50/cmake-examples)
-3. [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp)
-4. [isocpp/CppCoreGuidelines](https://github.com/isocpp/CppCoreGuidelines)
-5. [Light-City/CPlusPlusThings](https://github.com/Light-City/CPlusPlusThings)
-6. [TheAlgorithms/C-Plus-Plus](https://github.com/TheAlgorithms/C-Plus-Plus)
-7. [changkun/modern-cpp-tutorial](https://github.com/changkun/modern-cpp-tutorial)
-8. [AnthonyCalandra/modern-cpp-features](https://github.com/AnthonyCalandra/modern-cpp-features)
-9. [Tencent/secguide](https://github.com/Tencent/secguide)
-10. [rigtorp/awesome-modern-cpp](https://github.com/rigtorp/awesome-modern-cpp)
-11. [wuye9036/CppTemplateTutorial](https://github.com/wuye9036/CppTemplateTutorial)
-12. [cpp-best-practices/cppbestpractices](https://github.com/cpp-best-practices/cppbestpractices)
-13. [TheLartians/ModernCppStarter](https://github.com/TheLartians/ModernCppStarter)
-14. [tangtangcoding/C-C-](https://github.com/tangtangcoding/C-C-)
-15. [cpp-best-practices/gui_starter_template](https://github.com/cpp-best-practices/gui_starter_template)
-16. [0voice/cpp_new_features](https://github.com/0voice/cpp_new_features)
-17. [muqsitnawaz/modern-cpp-cheatsheet](https://github.com/muqsitnawaz/modern-cpp-cheatsheet)
-18. [district10/cmake-templates](https://github.com/district10/cmake-templates)
-19. [nikolausmayer/cmake-templates](https://github.com/nikolausmayer/cmake-templates)
-20. [facontidavide/CPP_Optimizations_Diary](https://github.com/facontidavide/CPP_Optimizations_Diary)
+2. [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp)
+3. [isocpp/CppCoreGuidelines](https://github.com/isocpp/CppCoreGuidelines)
+4. [Light-City/CPlusPlusThings](https://github.com/Light-City/CPlusPlusThings)
+5. [TheAlgorithms/C-Plus-Plus](https://github.com/TheAlgorithms/C-Plus-Plus)
+6. [wuye9036/CppTemplateTutorial](https://github.com/wuye9036/CppTemplateTutorial)
+7. [cpp-best-practices/cppbestpractices](https://github.com/cpp-best-practices/cppbestpractices)
+
+### C++新特性
+
+1. [changkun/modern-cpp-tutorial](https://github.com/changkun/modern-cpp-tutorial)
+2. [AnthonyCalandra/modern-cpp-features](https://github.com/AnthonyCalandra/modern-cpp-features)
+3. [rigtorp/awesome-modern-cpp](https://github.com/rigtorp/awesome-modern-cpp)
+4. [0voice/cpp_new_features](https://github.com/0voice/cpp_new_features)
+5. [muqsitnawaz/modern-cpp-cheatsheet](https://github.com/muqsitnawaz/modern-cpp-cheatsheet)
+
+### C++并发
+
+1. [xiaoweiChen/Cpp_Concurrency_In_Action](https://github.com/xiaoweiChen/Cpp_Concurrency_In_Action)
+2. [xiaoweiChen/CPP-Concurrency-In-Action-2ed-2019](https://github.com/xiaoweiChen/CPP-Concurrency-In-Action-2ed-2019)
+3. [downdemo/Cpp-Concurrency-in-Action-2ed](https://github.com/downdemo/Cpp-Concurrency-in-Action-2ed)
+4. [xiaoweiChen/Concurrency-with-Modern-Cpp](https://github.com/xiaoweiChen/Concurrency-with-Modern-Cpp)
+
+### CMake
+
+1. [ttroy50/cmake-examples](https://github.com/ttroy50/cmake-examples)
+2. [TheLartians/ModernCppStarter](https://github.com/TheLartians/ModernCppStarter)
+3. [cpp-best-practices/gui_starter_template](https://github.com/cpp-best-practices/gui_starter_template)
+4. [district10/cmake-templates](https://github.com/district10/cmake-templates)
+5. [nikolausmayer/cmake-templates](https://github.com/nikolausmayer/cmake-templates)
+
+### 代码规范
+
+1. [Tencent/secguide](https://github.com/Tencent/secguide)
+2. [tangtangcoding/C-C-](https://github.com/tangtangcoding/C-C-)
+3. [facontidavide/CPP_Optimizations_Diary](https://github.com/facontidavide/CPP_Optimizations_Diary)
 
 ## 其他网站
 
