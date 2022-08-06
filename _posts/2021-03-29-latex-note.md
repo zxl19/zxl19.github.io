@@ -739,6 +739,7 @@ TODO：单独整理。
 13. [ElegantLaTeX/ElegantPaper](https://github.com/ElegantLaTeX/ElegantPaper)
 14. [ElegantLaTeX/ElegantNote](https://github.com/ElegantLaTeX/ElegantNote)
 15. [xinychen/latex-cookbook](https://github.com/xinychen/latex-cookbook)
+16. [Wandmalfarbe/pandoc-latex-template](https://github.com/Wandmalfarbe/pandoc-latex-template)
 
 ### 高质量模板
 
