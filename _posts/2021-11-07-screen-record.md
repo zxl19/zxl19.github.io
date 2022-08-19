@@ -35,6 +35,21 @@ pinned: false
 sudo apt install kazam
 ```
 
+### 设置
+
+1. `Screencast`->`Framerate`->`25`；
+2. `Screencast`->`Record with`->`H264(MP4)`；
+
+## 使用Peek
+
+### 安装
+
+```shell
+sudo add-apt-repository ppa:peek-developers/stable
+sudo apt update
+sudo apt install peek
+```
+
 ## 参考
 
 1. [Screenshots and screencasts-Ubuntu Documentation](https://help.ubuntu.com/stable/ubuntu-help/screen-shot-record.html)

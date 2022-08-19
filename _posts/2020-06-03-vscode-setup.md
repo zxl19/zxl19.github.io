@@ -69,6 +69,26 @@ C/C++语言扩展。
 
 VS Code中文汉化。
 
+### clangd
+
+C/C++语言自动补全、跳转、函数提示等功能。
+
+1. 按照提示关闭C/C++扩展自带的自动补全；
+2. 按照提示安装或更新clangd；
+3. 生成`compile_commands.json`文件，供扩展解析；
+
+   - 在`CMakeList.txt`文件中指定：
+
+      ```cmake
+      set(CMAKE_EXPORT_COMPILE_COMMANDS ON)
+      ```
+
+   - 在编译时指定：
+
+      ```shell
+      cmake .. -DCMAKE_EXPORT_COMPILE_COMMANDS=1
+      ```
+
 ### CMake
 
 CMake语法支持。
@@ -248,3 +268,5 @@ FIXME: 待修复内容
 15. [实时可视化Debug：VS Code开源新工具，一键解析代码结构](https://zhuanlan.zhihu.com/p/109212146)
 16. [Visual Studio Code如何编写运行C、C++程序？-程序员柠檬的回答-知乎](https://www.zhihu.com/question/30315894/answer/1574277687)
 17. [Markdown完美转PDF-简书](https://www.jianshu.com/p/4856a78b96b6)
+18. [Visual Studio会被VS Code及各种插件取代吗？-知乎](https://www.zhihu.com/question/277139137/answer/1657100889)
+19. [使用clangd替代c/c++配置vscode c++项目-smallsunsun的文章-知乎](https://zhuanlan.zhihu.com/p/145430576)
