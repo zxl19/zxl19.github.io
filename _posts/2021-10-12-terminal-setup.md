@@ -170,6 +170,21 @@ plugins=(git themes zsh-autosuggestions zsh-syntax-highlighting)
 | 关闭当前终端 | `Ctrl`+`Shift`+`W` |
 | 关闭当前窗口 | `Ctrl`+`Shift`+`Q` |
 
+### 设置布局
+
+1. `Preferences`->`Layouts`保存当前布局并命名；
+2. 启动时直接打开对应布局：
+
+    ```shell
+    terminator -l <layout>
+    ```
+
+3. 启动时从列表中选择布局：
+
+    ```shell
+    terminator -s
+    ```
+
 ## 参考
 
 1. [相关概念区别1-Stack Exchange](https://askubuntu.com/questions/506510/what-is-the-difference-between-terminal-console-shell-and-command-line)
