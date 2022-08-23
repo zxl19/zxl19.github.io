@@ -47,3 +47,7 @@ scp [-346BCpqrv] [-c cipher] [-F ssh_config] [-i identity_file]
 2. `常规`->`协议`中选择传输协议，`FTP`或`SFTP`；
 3. `常规`->`登录类型`中选择`正常`；
 4. `字符集`中选择`强制UTF-8`保证中文目录名和文件名显示正确；
+
+## 参考
+
+1. [Linux scp命令-菜鸟教程](https://www.runoob.com/linux/linux-comm-scp.html)
