@@ -31,6 +31,14 @@ ftp://192.168.1.1
 ssh username@192.168.1.1
 ```
 
+使用基于SSH的scp命令远程复制文件：
+
+```shell
+scp [-346BCpqrv] [-c cipher] [-F ssh_config] [-i identity_file]
+    [-l limit] [-o ssh_option] [-P port] [-S program]
+    [[user@]host1:]file1 ... [[user@]host2:]file2
+```
+
 ### Filezilla
 
 在`站点管理器`->`新站点`中添加服务器IP地址：

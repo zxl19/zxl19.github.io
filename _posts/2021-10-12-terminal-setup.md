@@ -143,6 +143,33 @@ plugins=(git themes zsh-autosuggestions zsh-syntax-highlighting)
 
 3. 注销或者重启以应用默认shell设置；
 
+## 终端仿真器Terminator
+
+在同一窗口中打开多个终端。
+
+### 安装
+
+1. 下载并安装Terminator：
+
+    ```shell
+    sudo apt install terminator
+    ```
+
+2. 安装完成后会自动设置为系统默认终端，使用`Ctrl`+`Alt`+`T`打开，但是在文件夹中`右键`->`Open in Terminal`仍使用系统自带终端；
+
+### 快捷键
+
+| 功能 | 快捷键 |
+| :--- | :--- |
+| 水平分割窗口 | `Ctrl`+`Shift`+`O` |
+| 垂直分割窗口 | `Ctrl`+`Shift`+`E` |
+| 切换到下一终端 | `Ctrl`+`Shift`+`N` |
+| 切换到上一终端 | `Ctrl`+`Shift`+`P` |
+| 新建标签页 | `Ctrl`+`Shift`+`T` |
+| 新建窗口 | `Ctrl`+`Shift`+`I` |
+| 关闭当前终端 | `Ctrl`+`Shift`+`W` |
+| 关闭当前窗口 | `Ctrl`+`Shift`+`Q` |
+
 ## 参考
 
 1. [相关概念区别1-Stack Exchange](https://askubuntu.com/questions/506510/what-is-the-difference-between-terminal-console-shell-and-command-line)
@@ -157,3 +184,6 @@ plugins=(git themes zsh-autosuggestions zsh-syntax-highlighting)
 10. [Ubuntu install of ROS Melodic](http://wiki.ros.org/melodic/Installation/Ubuntu)
 11. [安装Zsh后ROS相关命令失效-CSDN博客](https://blog.csdn.net/Amazingren/article/details/81746176)
 12. [rosinstall/NonBashShells](http://wiki.ros.org/rosinstall/NonBashShells)
+13. [Ubuntu用Terminator+ZSH打造好用的终端开发环境-很酷的程序员的文章-知乎](https://zhuanlan.zhihu.com/p/346665734)
+14. [切换终端-CSDN博客](https://blog.csdn.net/learning_tortosie/article/details/102581261)
+15. [gnome-terminator/terminator](https://github.com/gnome-terminator/terminator)
