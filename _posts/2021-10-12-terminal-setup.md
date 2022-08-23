@@ -155,7 +155,14 @@ plugins=(git themes zsh-autosuggestions zsh-syntax-highlighting)
     sudo apt install terminator
     ```
 
-2. 安装完成后会自动设置为系统默认终端，使用`Ctrl`+`Alt`+`T`打开，但是在文件夹中`右键`->`Open in Terminal`仍使用系统自带终端；
+2. Terminator在安装完成后会自动设置为系统默认终端，使用`Ctrl`+`Alt`+`T`可以直接启动，但是在文件夹中`右键`->`Open in Terminal`仍使用系统自带终端；
+3. 切换回系统自带终端：
+
+    ```shell
+    sudo update-alternatives --config x-terminal-emulator
+    ```
+
+    选择`/usr/bin/gnome-terminal.wrapper`；
 
 ### 快捷键
 
@@ -170,20 +177,25 @@ plugins=(git themes zsh-autosuggestions zsh-syntax-highlighting)
 | 关闭当前终端 | `Ctrl`+`Shift`+`W` |
 | 关闭当前窗口 | `Ctrl`+`Shift`+`Q` |
 
+全部快捷键参考[Terminator官方文档](https://terminator-gtk3.readthedocs.io/en/latest/)。
+
 ### 设置布局
 
-1. `Preferences`->`Layouts`保存当前布局并命名；
-2. 启动时直接打开对应布局：
+1. 双击终端边界可以均匀调整终端大小；
+2. 在`Preferences`->`Layouts`中保存当前布局并命名；
+3. 启动时直接打开对应布局：
 
     ```shell
     terminator -l <layout>
     ```
 
-3. 启动时从列表中选择布局：
+4. 启动时从列表中选择布局：
 
     ```shell
     terminator -s
     ```
+
+    或者使用快捷键`Alt`+`L`；
 
 ## 参考
 
@@ -202,3 +214,4 @@ plugins=(git themes zsh-autosuggestions zsh-syntax-highlighting)
 13. [Ubuntu用Terminator+ZSH打造好用的终端开发环境-很酷的程序员的文章-知乎](https://zhuanlan.zhihu.com/p/346665734)
 14. [切换终端-CSDN博客](https://blog.csdn.net/learning_tortosie/article/details/102581261)
 15. [gnome-terminator/terminator](https://github.com/gnome-terminator/terminator)
+16. [Terminator](https://terminator-gtk3.readthedocs.io/en/latest/)

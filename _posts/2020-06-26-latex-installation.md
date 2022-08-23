@@ -19,8 +19,8 @@ pinned: false
 2. 以管理员身份运行`install-tl-windows.bat`；
 3. 修改安装路径；
 4. 取消勾选`安装TeXworks前端`；
-5. `Advanced->Customize->Languages`，只勾选`Chinese`、`Chinese/Japanese/Korean(base)`、`US and UK English`三项，其余语言包不常用，取消安装可以节省安装空间；
-6. `Advanced->Customize->Other collections`，确认只有`TeXworks editor`项未被勾选；
+5. `Advanced`->`Customize`->`Languages`，只勾选`Chinese`、`Chinese/Japanese/Korean(base)`、`US and UK English`三项，其余语言包不常用，取消安装可以节省安装空间；
+6. `Advanced`->`Customize`->`Other collections`，确认只有`TeXworks editor`项未被勾选；
 7. 安装TeXLive；
 8. 安装TeXstudio；
 

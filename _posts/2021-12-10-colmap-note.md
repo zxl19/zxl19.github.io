@@ -70,7 +70,7 @@ colmap gui
 
 #### 结果查看
 
-1. `File`->`Import model`导入重建结果；
+1. `File`->`Import model`，导入重建结果；
 
 ## 注意事项
 

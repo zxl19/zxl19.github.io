@@ -29,14 +29,14 @@ pinned: false
 
 ### 联想
 
-1. `F2`->`Security`->`Secure Boot`->`Disabled`
-2. `F12`->`USB Boot Disk`->`Install Ubuntu`
+1. `F2`->`Security`->`Secure Boot`->`Disabled`；
+2. `F12`->`USB Boot Disk`->`Install Ubuntu`；
 
 ### 戴尔
 
-1. `F12`->`BIOS Setup`->`Secure Boot`->`OFF`
-2. `F12`->`BIOS Setup`->`System Configuration`->`SATA Operation`->`AHCI`
-3. `F12`->`USB Boot Disk`->`Install Ubuntu`
+1. `F12`->`BIOS Setup`->`Secure Boot`->`OFF`；
+2. `F12`->`BIOS Setup`->`System Configuration`->`SATA Operation`->`AHCI`；
+3. `F12`->`USB Boot Disk`->`Install Ubuntu`；
 
 ## 安装
 
