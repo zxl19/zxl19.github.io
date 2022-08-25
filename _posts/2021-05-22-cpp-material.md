@@ -40,6 +40,7 @@ C++（包括CMake）学习资料存档。
 3. [rigtorp/awesome-modern-cpp](https://github.com/rigtorp/awesome-modern-cpp)
 4. [0voice/cpp_new_features](https://github.com/0voice/cpp_new_features)
 5. [muqsitnawaz/modern-cpp-cheatsheet](https://github.com/muqsitnawaz/modern-cpp-cheatsheet)
+6. [netcan/advanced-cpp20-programming](https://github.com/netcan/advanced-cpp20-programming)
 
 ### C++并发
 
