@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Markdown编辑器配置
+title: Markdown编辑器配置存档
 date: 2020-06-06
 author: zxl19
 tags: [Markdown, Archive]
@@ -9,7 +9,7 @@ toc: true
 pinned: false
 ---
 
-目前我正在使用的两种Markdown编辑器配置。
+之前使用过的Markdown编辑器配置存档。
 
 <!-- more -->
 
