@@ -50,6 +50,7 @@ pinned: false
 1. [【DPReview】中画幅的景深真有这么神奇吗？](https://www.bilibili.com/video/BV19S4y1k7m2)
 2. [【DPReview】低像素的高感画质真有这么神奇吗？](https://www.bilibili.com/video/BV1pi4y117rq)
 3. [【DPReview 4K】什么是镜头的呼吸效应？（以及你为什么要在乎这件事）](https://www.bilibili.com/video/BV1RX4y157kh)
+4. [【DPReview】传感器的尺寸根本不讲道理 但是我们把问题解决了](https://www.bilibili.com/video/BV1fB4y1x7M8)
 
 ## 相机使用与清洁保养
 
@@ -58,6 +59,7 @@ pinned: false
 1. [【DPReview】如何正确握持相机](https://www.bilibili.com/video/BV1AG411x7ty)
 2. [【DPReview】为什么说波形图比直方图更好（拍照也是如此）](https://www.bilibili.com/video/BV1gr4y1b7nB)
 3. [【DPReview】6个小技巧 让你掌握手动对焦（拍照&视频）](https://www.bilibili.com/video/BV1WL4y1V7CQ)
+4. [【DPReview】大胡子教官的摄影基础练习：圆偏振镜（CPL）](https://www.bilibili.com/video/BV18P411j7uW)
 
 ### 清洁保养
 
