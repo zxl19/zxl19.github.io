@@ -28,6 +28,9 @@ pinned: false
     git config --global user.email "your@email.com"
     ```
 
+    - 更改之前设置的Git全局变量前需要删除`~/.ssh/id_rsa`以及`~/.ssh/id_rsa.pub`；
+    - 设置的邮箱需要添加到GitHub账户中才能计算贡献；
+
 2. 创建SSH key：
 
     ```shell
@@ -67,11 +70,18 @@ pinned: false
     - 点击`Generate token`，将生成的token保存；
     - 在git clone和git push时将token当做密码使用；
 
+## GitHub
+
+- `Contribution settings`->勾选`Private contributions`
+- `Settings`->`Emails`->勾选`Keep my email addresses private`；
+- `Settings`->`Emails`->勾选`Block command line pushes that expose my email`；
+
 ## 参考
 
 1. [GitHub Desktop](https://desktop.github.com/)
 2. [在VScode上配置Git-浪晋的文章-知乎](https://zhuanlan.zhihu.com/p/31417255)
-3. [github/gitignore](https://github.com/github/gitignore)
-4. [Token authentication requirements for Git operations](https://github.blog/2020-12-15-token-authentication-requirements-for-git-operations/)
-5. [Creating a personal access token](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token)
-6. [GitHub防黑客新措施：弃用账密验证Git操作，改用token或SSH密钥，今天0点已执行-量子位的文章-知乎](https://zhuanlan.zhihu.com/p/399759963)
+3. [Missing contributions-GitHub Docs](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/managing-contribution-settings-on-your-profile/why-are-my-contributions-not-showing-up-on-my-profile)
+4. [Managing email preferences-GitHub Docs](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-personal-account-on-github/managing-email-preferences)
+5. [Token authentication requirements for Git operations-GitHub Blog](https://github.blog/2020-12-15-token-authentication-requirements-for-git-operations/)
+6. [Creating a personal access token-GitHub Docs](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token)
+7. [GitHub防黑客新措施：弃用账密验证Git操作，改用token或SSH密钥，今天0点已执行-量子位的文章-知乎](https://zhuanlan.zhihu.com/p/399759963)
