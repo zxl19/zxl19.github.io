@@ -51,23 +51,24 @@ pinned: false
 
     输入`yes`确认。
 
-5. 首次使用需要在GitHub网站上进行验证，授权VS Code登录；
-6. 安装相关VS Code插件；
+5. 安装相关VS Code插件，首次使用需要在GitHub网站上进行验证，授权VS Code登录；
 
     - GitHub Pull Requests and Issues
     - GitLens——Git supercharged
 
-7. 使用SSH进行git clone和git push时不需要使用用户名和密码：
+6. 使用SSH进行git clone和git push时不需要使用用户名和密码：
 
     ```shell
     git clone git@github.com:<username>/<repository>.git
     ```
 
-8. 使用HTTPS进行git clone和git push时仍需要使用用户名和密码，**自2021年8月14日起，GitHub取消了在命令行内使用用户名和密码的clone方式，改为使用personal access token（PAT），其作用和使用方式与密码相同：**
+7. 使用HTTPS进行git clone和git push时仍需要使用用户名和密码，**自2021年8月14日起，GitHub取消了在命令行内使用用户名和密码的clone方式，改为使用personal access token（PAT），其作用和使用方式与密码相同：**
 
     ```shell
     git clone https://github.com/<username>/<repository>.git
     ```
+
+8. 及时删除不再使用的SSH key以及PAT；
 
 ## GitHub
 
