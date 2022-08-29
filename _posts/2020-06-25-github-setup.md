@@ -74,7 +74,6 @@ pinned: false
 
 - `Contribution settings`->勾选`Private contributions`
 - `Settings`->`Emails`->勾选`Keep my email addresses private`；
-- `Settings`->`Emails`->勾选`Block command line pushes that expose my email`；
 
 ## 参考
 
