@@ -57,23 +57,27 @@ pinned: false
     - GitHub Pull Requests and Issues
     - GitLens——Git supercharged
 
-7. **自2021年8月14日起，GitHub取消了在命令行内使用用户名和密码的clone方式，改为使用personal access token（PAT），经测试可以在命令行内使用SSH key进行clone：**
+7. 使用SSH进行git clone和git push时不需要使用用户名和密码：
 
     ```shell
     git clone git@github.com:<username>/<repository>.git
     ```
 
-8. PAT生成和使用：
+8. 使用HTTPS进行git clone和git push时仍需要使用用户名和密码，**自2021年8月14日起，GitHub取消了在命令行内使用用户名和密码的clone方式，改为使用personal access token（PAT），其作用和使用方式与密码相同：**
 
-    - GitHub网站上`Settings`->`Developer Settings`->`Personal access tokens`->`Generate new token`；
-    - 设置token名称、有效期，有效范围（勾选`repo`）；
-    - 点击`Generate token`，将生成的token保存；
-    - 在git clone和git push时将token当做密码使用；
+    ```shell
+    git clone https://github.com/<username>/<repository>.git
+    ```
 
 ## GitHub
 
-- `Contribution settings`->勾选`Private contributions`
-- `Settings`->`Emails`->勾选`Keep my email addresses private`；
+1. `Contribution settings`->勾选`Private contributions`
+2. `Settings`->`Emails`->勾选`Keep my email addresses private`；
+3. PAT的生成和使用：
+
+    - `Settings`->`Developer Settings`->`Personal access tokens`->`Generate new token`；
+    - 设置token名称、有效期，有效范围（勾选`repo`）；
+    - 点击`Generate token`，将生成的token保存；
 
 ## 参考
 
