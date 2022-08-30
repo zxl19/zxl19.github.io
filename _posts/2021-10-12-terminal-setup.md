@@ -166,6 +166,8 @@ plugins=(git themes zsh-autosuggestions zsh-syntax-highlighting)
 
 ### 快捷键
 
+#### Quick Start
+
 | 功能 | 快捷键 |
 | :--- | :--- |
 | 水平分割窗口 | `Ctrl`+`Shift`+`O` |
@@ -177,19 +179,51 @@ plugins=(git themes zsh-autosuggestions zsh-syntax-highlighting)
 | 关闭当前终端 | `Ctrl`+`Shift`+`W` |
 | 关闭当前窗口 | `Ctrl`+`Shift`+`Q` |
 
+#### 补充说明
+
+| 功能 | 快捷键 |
+| :--- | :--- |
+| 复制 | `Ctrl`+`Shift`+`C` |
+| 粘贴 | `Ctrl`+`Shift`+`V` |
+| 切换终端 | `Alt`+方向键 |
+| 切换到下一终端 | `Ctrl`+`Tab` |
+| 切换到上一终端 | `Ctrl`+`Shift`+`Tab` |
+| 切换到上一标签页 | `Ctrl`+`PgUp` |
+| 切换到下一标签页 | `Ctrl`+`PgDn` |
+| 新建窗口 | `Super`+`I` |
+| 隐藏窗口 | `Ctrl`+`Alt`+`A` |
+| 显示帮助 | `F1` |
+| 全屏显示 | `F11` |
+| 调整终端大小 | `Ctrl`+`Shift`+方向键 |
+| 顺时针旋转终端 | `Super`+`R` |
+| 逆时针旋转终端 | `Super`+`Shift`+`R` |
+| 向前移动标签页 | `Ctrl`+`Shift`+`PgUp` |
+| 向后移动标签页 | `Ctrl`+`Shift`+`PgDn` |
+| 放大终端内容 | `Ctrl`+`Shift`+`Z` |
+| 最大化终端 | `Ctrl`+`Shift`+`X` |
+| 重置终端 | `Ctrl`+`Shift`+`R` |
+| 重置并清空终端 | `Ctrl`+`Shift`+`G` |
+| 显示/隐藏滚动条 | `Ctrl`+`Shift`+`S` |
+| 向上滚动 | `Shift`+`PgUp` |
+| 向下滚动 | `Shift`+`PgDn` |
+| 搜索终端 | `Super`+`Ctrl`+`F` |
+| 重命名窗口 | `Ctrl`+`Alt`+`W` |
+| 重命名终端 | `Ctrl`+`Alt`+`X` |
+
 全部快捷键参考[Terminator官方文档](https://terminator-gtk3.readthedocs.io/en/latest/)。
 
 ### 设置布局
 
-1. 双击终端边界可以均匀调整终端大小；
-2. 在`Preferences`->`Layouts`中保存当前布局并命名；
-3. 启动时直接打开对应布局：
+1. 双击终端边界可以均匀调整当前终端大小，`Shift`+双击终端边界可以均匀调整全部终端大小；
+2. 按住鼠标左键可以直接拖拽调整终端位置，按住`Ctrl`+鼠标右键拖拽调整终端位置需要先释放`Ctrl`才能完成调整；
+3. 在`Preferences`->`Layouts`中保存当前布局并命名；
+4. 启动时直接打开对应布局：
 
     ```shell
     terminator -l <layout>
     ```
 
-4. 启动时从列表中选择布局：
+5. 启动时从列表中选择布局：
 
     ```shell
     terminator -s
