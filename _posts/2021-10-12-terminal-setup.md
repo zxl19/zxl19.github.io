@@ -207,8 +207,13 @@ plugins=(git themes zsh-autosuggestions zsh-syntax-highlighting)
 | 向上滚动 | `Shift`+`PgUp` |
 | 向下滚动 | `Shift`+`PgDn` |
 | 搜索终端 | `Super`+`Ctrl`+`F` |
+| 放大当前终端 | `Ctrl`+`+`/滚轮 |
+| 缩小当前终端 | `Ctrl`+`-`/滚轮 |
+| 重置当前终端大小 | `Ctrl`+`0` |
+| 调整全部终端大小 | `Super`+`Ctrl`+滚轮 |
 | 重命名窗口 | `Ctrl`+`Alt`+`W` |
 | 重命名终端 | `Ctrl`+`Alt`+`X` |
+| 打开布局列表 | `Alt`+`L` |
 
 全部快捷键参考[Terminator官方文档](https://terminator-gtk3.readthedocs.io/en/latest/)。
 
