@@ -17,7 +17,7 @@ pinned: false
 
 1. 下载安装VS Code，安装选项全部勾选；
 
-    - 安装插件`Chinese (Simplified) Language Pack for Visual Studio Code`，`C/C++`；
+    - 安装扩展`Chinese (Simplified) Language Pack for Visual Studio Code`，`C/C++`；
 
 2. 安装C++工具链`MinGW-w64`；
 
@@ -85,7 +85,7 @@ pinned: false
 
 5. 一个更复杂的例子；
 
-    - 语法报错：插件设置默认C++98，新语法无法识别，在`设置`->`扩展`->`C++`中进行格式设置；
+    - 语法报错：扩展设置默认C++98，新语法无法识别，在`设置`->`扩展`->`C++`中进行格式设置；
         - `Clang_format_sort includes`：是否对头文件排序；
         - `Cpp Standard`：C++20；
         - `C Standard`：C11；

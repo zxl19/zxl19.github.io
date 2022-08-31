@@ -19,7 +19,7 @@ pinned: false
 
 ## Ubuntu
 
-使用VS Code，其UI已经集成Git命令，结合GitHub相关插件进行管理。
+使用VS Code，其UI已经集成Git命令，结合GitHub相关扩展进行管理。
 
 1. 设置Git全局变量：
 
@@ -51,7 +51,7 @@ pinned: false
 
     输入`yes`确认。
 
-5. 安装相关VS Code插件，首次使用需要在GitHub网站上进行验证，授权VS Code登录；
+5. 安装相关VS Code扩展，首次使用需要在GitHub网站上进行验证，授权VS Code登录；
 
     - GitHub Pull Requests and Issues
     - GitLens——Git supercharged

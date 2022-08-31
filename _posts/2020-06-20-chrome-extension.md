@@ -125,7 +125,7 @@ Download videos from web sites or just collect them in your video list without d
 
 ## 声海盗
 
-下载在线音乐插件，支持豆瓣，虾米，QQ音乐，网易云音乐，新浪乐库，搜狗音乐，QQ音乐电台，酷我，bandcamp，musicbed等。
+下载在线音乐扩展，支持豆瓣，虾米，QQ音乐，网易云音乐，新浪乐库，搜狗音乐，QQ音乐电台，酷我，bandcamp，musicbed等。
 
 ## 扩展管理器(Extension Manager)
 

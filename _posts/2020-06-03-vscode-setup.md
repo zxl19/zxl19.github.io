@@ -77,7 +77,7 @@ C/C++语言自动补全、跳转、函数提示等功能。
 2. 按照提示安装或更新clangd；
 3. 生成`compile_commands.json`文件，供扩展解析；
 
-   - 在`CMakeList.txt`文件中指定：
+   - 在`CMakeLists.txt`文件中指定：
 
       ```cmake
       set(CMAKE_EXPORT_COMPILE_COMMANDS ON)
@@ -119,7 +119,7 @@ CMake扩展。
 
 ### GitLens——Git supercharged
 
-增强VS Code内置git的功能，例如对比修改、查看历史记录和显示代码作者。
+增强VS Code内置Git的功能，例如对比修改、查看历史记录和显示代码作者。
 
 ### Image Preview
 
@@ -128,6 +128,44 @@ CMake扩展。
 ### indent-rainbow
 
 用不同颜色标识缩进。
+
+### koroFileHeader
+
+生成文件头部注释和函数注释，详细配置选项说明参考[Wiki](https://github.com/OBKoro1/koro1FileHeader/wiki)。
+
+1. 文件头部注释：
+
+   - 配置`fileheader.customMade`指定文件头部注释格式，示例：
+
+      ```json
+      "fileheader.customMade": {
+         "Author": "git config user.name && git config user.email",
+         "Date": "Do not edit",
+         "Description": "",
+         "custom_string_obkoro1_copyright": "Copyright (c) ${now_year} by ${git_name_email}, All Rights Reserved. "
+      }
+      ```
+
+   - 快捷键：`Ctrl`+`Super`+`T`；
+
+2. 函数注释：
+
+   - 配置`fileheader.cursorMode`指定函数注释格式，示例：
+
+      ```json
+      "fileheader.cursorMode": {
+         "description": "",
+         "param": "",
+         "return": ""
+      }
+      ```
+
+   - 快捷键：`Ctrl`+`Super`+`I`；
+
+3. 注释图案：
+
+   - 选择注释图案：`Ctrl`+`Shift`+`P`，输入`codeDesign`选择；
+   - 快捷键：`Ctrl`+`Super`+`J`；
 
 ### LaTeX Workshop
 
@@ -207,10 +245,14 @@ Atom的深色主题，类似的主题还有City Lights theme、Material Theme（
 
 代码截图。
 
-1. `Ctrl`+`Shift`+`P`选择Polacode；
+1. `Ctrl`+`Shift`+`P`，选择`Polacode`；
 2. 选中要截图的代码；
 
-目前Polacode使用存在一定问题，可以使用CodeSnap或者Polacode-2020作为代替，使用方法同上。
+**目前Polacode使用存在一定问题，可以使用CodeSnap或者Polacode-2022作为代替，使用方法同上。**
+
+### Pomodoro
+
+番茄工作法。
 
 ### Python
 
@@ -218,7 +260,7 @@ Python语言扩展，安装Pylance、Jupyter、Jupyter Keymap、Jupyter Notebook
 
 ### Rainbow Fart
 
-彩虹屁插件。
+彩虹屁扩展。
 
 ### ROS
 
@@ -270,3 +312,4 @@ FIXME: 待修复内容
 17. [Markdown完美转PDF-简书](https://www.jianshu.com/p/4856a78b96b6)
 18. [Visual Studio会被VS Code及各种插件取代吗？-知乎](https://www.zhihu.com/question/277139137/answer/1657100889)
 19. [使用clangd替代c/c++配置vscode c++项目-smallsunsun的文章-知乎](https://zhuanlan.zhihu.com/p/145430576)
+20. [OBKoro1/koro1FileHeader](https://github.com/OBKoro1/koro1FileHeader)
