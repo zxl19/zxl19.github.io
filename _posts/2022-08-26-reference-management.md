@@ -13,7 +13,16 @@ pinned: false
 
 <!-- more -->
 
+## 文献管理原则
+
+1. 选择能够跨平台使用的文献管理软件并定期同步；
+2. 下载的PDF文档保留原始文件名，防止重复下载；
+3. 使用文件夹对于PDF文档进行粗分类，在文献管理软件中按照文件夹对于PDF文档进行细分；
+
 ## Mendeley Desktop
+
+1. 设置关联文件夹；
+2. 检查重复文件；
 
 **Mendeley Desktop将于2022年9月1日起取消下载，但是相关功能目前仍可使用。**
 
@@ -21,8 +30,13 @@ pinned: false
 
 ## Zotero
 
+1. `New Item`->`Link to File...`，添加PDF文件；
+2. `右键`->`Retrieve Metadata for PDF`，检索PDF元数据；
+3. 不同类型文献对应的图标样式不同；
+
 ## 参考
 
 1. [Mendeley](https://www.mendeley.com)
-2. [Zotero](https://www.zotero.org)
-3. [如何评价Mendeley Desktop即将于2022年9月1日起取消下载？-知乎](https://www.zhihu.com/question/538837744)
+2. [如何评价Mendeley Desktop即将于2022年9月1日起取消下载？-知乎](https://www.zhihu.com/question/538837744)
+3. [Zotero](https://www.zotero.org)
+4. [Adding Files to your Zotero Library-Zotero](https://www.zotero.org/support/attaching_files)
