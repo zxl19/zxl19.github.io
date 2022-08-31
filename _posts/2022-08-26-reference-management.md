@@ -21,8 +21,10 @@ pinned: false
 
 ## Mendeley Desktop
 
-1. 设置关联文件夹；
-2. 检查重复文件；
+1. `File`->`Watch Folder`，设置自动检查的文件夹，自动添加文件夹中的文件；
+2. `Tools`->`Check for Duplicates`，检查重复文件；
+3. `右键`->`Mark As`->`Needs Review`，标记文献信息显示有误的文献；
+4. `Details`->`Search`->`Details are Correct`，重新检索文献信息并确认；
 
 **Mendeley Desktop将于2022年9月1日起取消下载，但是相关功能目前仍可使用。**
 
@@ -30,7 +32,7 @@ pinned: false
 
 ## Zotero
 
-1. `New Item`->`Link to File...`，添加PDF文件；
+1. `New Item`->`Link to File`，添加PDF文件；
 2. `右键`->`Retrieve Metadata for PDF`，检索PDF元数据；
 3. 不同类型文献对应的图标样式不同；
 
