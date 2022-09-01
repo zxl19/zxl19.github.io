@@ -3,7 +3,7 @@ layout: post
 title: 科研绘图资料存档
 date: 2021-05-25
 author: zxl19
-tags: [Paper, Archive]
+tags: [Academic, Paper, Archive]
 comments: true
 toc: true
 pinned: false

@@ -19,7 +19,9 @@ pinned: false
 2. 下载的PDF文档保留原始文件名，防止重复下载；
 3. 使用文件夹对于PDF文档进行粗分类，在文献管理软件中按照文件夹对于PDF文档进行细分；
 
-## Mendeley Desktop
+## 文献管理软件
+
+### Mendeley Desktop
 
 1. `File`->`Watch Folder`，设置自动检查的文件夹，自动添加文件夹中的文件；
 2. `Tools`->`Check for Duplicates`，检查重复文件；
@@ -30,7 +32,7 @@ pinned: false
 
 可以转为使用Mendeley Reference Manager，但是目前使用体验较差。
 
-## Zotero
+### Zotero
 
 1. `New Item`->`Link to File`，添加PDF文件；
 2. `右键`->`Retrieve Metadata for PDF`，检索PDF元数据；

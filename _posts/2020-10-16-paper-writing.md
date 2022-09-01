@@ -3,7 +3,7 @@ layout: post
 title: 不定期更新的论文写作注意事项
 date: 2020-10-16
 author: zxl19
-tags: [Paper, Note]
+tags: [Academic, Paper, Note]
 comments: true
 toc: true
 pinned: false

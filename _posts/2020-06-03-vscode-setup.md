@@ -146,6 +146,14 @@ CMake扩展。
       }
       ```
 
+   - 配置`fileheader.configObj`关闭自动添加文件头部注释，示例：
+
+      ```json
+      "fileheader.customMade": {
+         "autoAdd": false
+      }
+      ```
+
    - 快捷键：`Ctrl`+`Super`+`T`；
 
 2. 函数注释：
