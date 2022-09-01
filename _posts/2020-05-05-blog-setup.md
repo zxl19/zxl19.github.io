@@ -17,7 +17,10 @@ pinned: false
 
 ### 选择博客模板
 
-选择合适的博客模板可以实现更加复杂的博客功能并提高博客的美观性，具体可以在[基于Jekyll的模板网站](http://jekyllthemes.org/)上进行选择。本博客采用[LOFFER模板](https://github.com/FromEndWorld/LOFFER)，具体使用方式按照补充说明后的模板教程，在此向原作者表示感谢。完成此步骤之后，可以实现基本的博客功能。
+选择合适的博客模板可以实现更加复杂的博客功能并提高博客的美观性，具体可以在[基于Jekyll的模板网站](http://jekyllthemes.org)上进行选择。本博客采用[LOFFER模板](https://github.com/FromEndWorld/LOFFER)，具体使用方式按照补充说明后的模板教程，在此向原作者表示感谢。完成此步骤之后，可以实现基本的博客功能。
+
+1. [academicpages/academicpages.github.io](https://github.com/academicpages/academicpages.github.io)
+2. [RayeRen/acad-homepage.github.io](https://github.com/RayeRen/acad-homepage.github.io)
 
 ### 选择开源协议
 
@@ -27,7 +30,13 @@ pinned: false
 
 ### 设置赞赏按钮
 
-在仓库的Settings->Features->Sponsorships中进行设置，会在.github文件夹中生成FUNDING.yml文件，按照文件内的提示进行设置即可。如果不想注册相关网站可以上传[微信赞赏码](https://raw.githubusercontent.com/zxl19/zxl19.github.io/master/images/funding.png)[^2]，在文件中添加微信赞赏码的链接来代替。
+在仓库的Settings->Features->Sponsorships中进行设置，会在.github文件夹中生成FUNDING.yml文件，按照文件内的提示进行设置即可。如果不想注册相关网站可以上传微信赞赏码[^2]，在文件中添加微信赞赏码的链接来代替。
+
+<p align="center">
+    <a href="https://zxl19.github.io">
+        <img src="https://raw.githubusercontent.com/zxl19/zxl19.github.io/master/images/funding.png" alt="buy me a coffee" width="300">
+    </a>
+</p>
 
 [^2]: 以我的赞赏码为例。
 
@@ -35,11 +44,14 @@ pinned: false
 
 使用[图标生成器](https://android-material-icon-generator.bitdroid.de/)，自定义网页标签栏中显示的小图标。
 
+1. [Maddoc42/Android-Material-Icon-Generator](https://github.com/Maddoc42/Android-Material-Icon-Generator)
+
 ## 常见问题及解决方法
 
 ### GitHub图片显示失败
 
-修改hosts文件，具体参考[CSDN博客](https://blog.csdn.net/qq_38232598/article/details/91346392)进行解决。
+1. 修改hosts文件，具体参考[CSDN博客](https://blog.csdn.net/qq_38232598/article/details/91346392)进行解决；
+2. 科学上网；
 
 ### 在Gitee上同步博客
 
