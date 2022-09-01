@@ -19,6 +19,17 @@ pinned: false
 2. 下载的PDF文档保留原始文件名，防止重复下载；
 3. 使用文件夹对于PDF文档进行粗分类，在文献管理软件中按照文件夹对于PDF文档进行细分；
 
+## 文献检索网站
+
+1. [Google Scholar](https://scholar.google.com)
+2. [IEEE Xplore](https://ieeexplore.ieee.org/Xplore/home.jsp)
+3. [Engineering Village](https://www.engineeringvillage.com)
+4. [Web of Science](https://www.webofscience.com)
+5. [中国知网](https://www.cnki.net)
+6. [ResearchGate](https://www.researchgate.net)
+7. [arXiv](https://arxiv.org)
+8. [Sci-Hub](https://sci-hub.se)
+
 ## 文献管理软件
 
 ### Mendeley Desktop
