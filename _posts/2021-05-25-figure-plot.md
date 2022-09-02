@@ -28,6 +28,7 @@ pinned: false
 3. [MATLAB Plot Gallery](https://www.mathworks.com/products/matlab/plot-gallery.html)
 4. [Publication Quality Graphics](https://ww2.mathworks.cn/matlabcentral/fileexchange/35246-matlab-plot-gallery-publication-quality-graphics?focused=6792997&tab=example%EF%BC%89)
 5. [tutusjtu/FigureBest-2.0](https://github.com/tutusjtu/FigureBest-2.0)
+6. [LimHyungTae/paper_quality_plot.matlab](https://github.com/LimHyungTae/paper_quality_plot.matlab)
 
 ### Python
 

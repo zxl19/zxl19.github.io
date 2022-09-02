@@ -26,11 +26,12 @@ pinned: false
 
 ## GitHub
 
-1. [shengyp/doing_the_PhD](https://github.com/shengyp/doing_the_PhD)
-2. [jbhuang0604/awesome-tips](https://github.com/jbhuang0604/awesome-tips)
+1. [jbhuang0604/awesome-tips](https://github.com/jbhuang0604/awesome-tips)
+2. [shengyp/doing_the_PhD](https://github.com/shengyp/doing_the_PhD)
 3. [writing-resources/awesome-scientific-writing](https://github.com/writing-resources/awesome-scientific-writing)
 4. [macoj/phd](https://github.com/macoj/phd)
 5. [alirezasamar/awesome-phd](https://github.com/alirezasamar/awesome-phd)
+6. [weisongwen/researchTools](https://github.com/weisongwen/researchTools)
 
 ## 参考
 
