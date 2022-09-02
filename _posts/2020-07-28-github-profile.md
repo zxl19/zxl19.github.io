@@ -37,12 +37,13 @@ pinned: false
 2. [tipsy/profile-summary-for-github](https://github.com/tipsy/profile-summary-for-github)
 3. [lowlighter/metrics](https://github.com/lowlighter/metrics)
 4. [ryo-ma/github-profile-trophy](https://github.com/ryo-ma/github-profile-trophy)
-5. [vn7n24fzkq/github-profile-summary-cards](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-6. [durgeshsamariya/awesome-github-profile-readme-templates](https://github.com/durgeshsamariya/awesome-github-profile-readme-templates)
+5. [durgeshsamariya/awesome-github-profile-readme-templates](https://github.com/durgeshsamariya/awesome-github-profile-readme-templates)
+6. [yihong0618/running_page](https://github.com/yihong0618/running_page)
 7. [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats)
-8. [elangosundar/awesome-README-templates](https://github.com/elangosundar/awesome-README-templates)
-9. [Ashutosh00710/github-readme-activity-graph](https://github.com/Ashutosh00710/github-readme-activity-graph)
-10. [yoshi389111/github-profile-3d-contrib](https://github.com/yoshi389111/github-profile-3d-contrib)
+8. [vn7n24fzkq/github-profile-summary-cards](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+9. [elangosundar/awesome-README-templates](https://github.com/elangosundar/awesome-README-templates)
+10. [Ashutosh00710/github-readme-activity-graph](https://github.com/Ashutosh00710/github-readme-activity-graph)
+11. [yoshi389111/github-profile-3d-contrib](https://github.com/yoshi389111/github-profile-3d-contrib)
 
 ## 美化
 
