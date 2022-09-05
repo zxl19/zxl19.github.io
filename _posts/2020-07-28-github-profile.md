@@ -44,6 +44,7 @@ pinned: false
 9. [elangosundar/awesome-README-templates](https://github.com/elangosundar/awesome-README-templates)
 10. [Ashutosh00710/github-readme-activity-graph](https://github.com/Ashutosh00710/github-readme-activity-graph)
 11. [yoshi389111/github-profile-3d-contrib](https://github.com/yoshi389111/github-profile-3d-contrib)
+12. [GitHub Star History](https://star-history.com)
 
 ## 美化
 
