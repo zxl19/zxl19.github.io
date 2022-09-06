@@ -697,30 +697,44 @@ TODO：单独整理。
 
 ### 提升输入效率
 
+#### LaTeX数学公式
+
 1. [常用数学符号的LaTeX表示方法](https://mohu.org/info/symbols/symbols.htm)
 2. [LaTeX Mathematical Symbols-Rice University](https://www.caam.rice.edu/~heinken/latex/symbols.pdf)
 3. [Detexify](http://detexify.kirelabs.org/classify.html)
-4. [公式王](https://gongshi.wang/)
-5. [Tables Generator](https://www.tablesgenerator.com/)
-6. [wch/latexsheet](https://github.com/wch/latexsheet)
-7. [LaTeX在线：吴文中数学公式编辑器](https://latex.91maths.com/)
-8. [blaisewang/img2latex-mathpix](https://github.com/blaisewang/img2latex-mathpix)
-9. [Citation Machine](https://www.citationmachine.net/)
-10. [LatexToMathML](http://web.xiaoyv.top/web/LatexToMathML/)
-11. [idf/LaTex2Word-Equation](https://github.com/idf/LaTex2Word-Equation)
+4. [公式王](https://gongshi.wang)
+5. [wch/latexsheet](https://github.com/wch/latexsheet)
+6. [LaTeX在线：吴文中数学公式编辑器](https://latex.91maths.com)
+7. [blaisewang/img2latex-mathpix](https://github.com/blaisewang/img2latex-mathpix)
+
+#### Word数学公式
+
+1. [LatexToMathML](http://web.xiaoyv.top/web/LatexToMathML)
+2. [LaTeX to MathML](https://osanshouo.github.io/latex2mathml-web/index.html)
+3. [idf/LaTex2Word-Equation](https://github.com/idf/LaTex2Word-Equation)
+
+#### 表格
+
+1. [Tables Generator](https://www.tablesgenerator.com)
+
+#### 参考文献
+
+1. [Google Scholar](https://scholar.google.com)
+2. [ZoteroBib](https://zbib.org)
+3. [Citation Machine](https://www.citationmachine.net)
 
 ### 模板和学习资源查询
 
 #### 网站
 
-1. [LaTeX工作室](https://www.latexstudio.net/)
+1. [LaTeX工作室](https://www.latexstudio.net)
 2. [Overleaf Templates](https://www.overleaf.com/latex/templates)
 3. [LaTeX Templates](https://www.latextemplates.com)
-4. [MOON](https://www.moonpapers.com/)
+4. [MOON](https://www.moonpapers.com)
 5. [Overleaf Documentation](https://www.overleaf.com/learn)
-6. [BibTeX](https://www.bibtex.com/)
-7. [TikZ](https://tikz.net/)
-8. [TeXample](https://texample.net/)
+6. [BibTeX](https://www.bibtex.com)
+7. [TikZ](https://tikz.net)
+8. [TeXample](https://texample.net)
 
 #### GitHub
 

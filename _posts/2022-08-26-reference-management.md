@@ -47,7 +47,12 @@ pinned: false
 
 1. `New Item`->`Link to File`，添加PDF文件；
 2. `右键`->`Retrieve Metadata for PDF`，检索PDF元数据；
-3. 不同类型文献对应的图标样式不同；
+3. `右键`->`Create Parent Item`，对于未检索到元数据的PDF文件创建条目：
+
+    - `Create Parent Item`，输入DOI、ISBN等检索号查询；
+    - `Manual Entry`，手动创建条目，默认为PDF文件名；
+    - `Info`->`Item Type`，选择文献类型，不同文献类型对应的图标样式不同；
+    - `Info`->`Title`，填写文献标题；
 
 ## 参考
 
@@ -55,3 +60,4 @@ pinned: false
 2. [如何评价Mendeley Desktop即将于2022年9月1日起取消下载？-知乎](https://www.zhihu.com/question/538837744)
 3. [Zotero](https://www.zotero.org)
 4. [Adding Files to your Zotero Library-Zotero](https://www.zotero.org/support/attaching_files)
+5. [Preferences-Zotero](https://www.zotero.org/support/preferences/search)
