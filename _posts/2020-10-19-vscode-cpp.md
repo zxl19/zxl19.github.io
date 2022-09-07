@@ -22,7 +22,7 @@ pinned: false
 2. 安装C++工具链`MinGW-w64`；
 
     - 包括编译器、调试器、链接器等；
-    - 从[MinGW-64官网](http://mingw-w64.org/doku.php)上下载安装程序：`Downloads`->`MingW-W64-builds`->`Sourceforge`；
+    - 从[MinGW-w64官网](http://mingw-w64.org)下载安装程序：`Downloads`->`MingW-W64-builds`->`Sourceforge`；
     - 右键`以管理员身份运行`；
     - 确定安装选项：
 

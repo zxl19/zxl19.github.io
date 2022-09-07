@@ -51,7 +51,7 @@ pinned: false
 
 #### 安装
 
-1. 参考[官网](https://ohmyz.sh/)进行安装；
+1. 参考[官网](https://ohmyz.sh)进行安装；
 2. 按照提示将系统默认shell设置为Zsh；
 
 #### 配置

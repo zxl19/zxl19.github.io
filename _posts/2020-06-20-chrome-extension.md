@@ -29,7 +29,7 @@ Play 2048 anytime you want, it's always in your browser!
 
 bilibili/哔哩哔哩/B站下载助手，帮你下载版权受限（能看不能缓存）的番剧、视频。
 
-现已支持BV号，可结合[BV号转AV号](https://bv2av.com/)使用。
+现已支持BV号，可结合[Hofuy丨BV-AV在线转换](http://hofuy.cn/tools/bv-av/)使用。
 
 ## Convertio
 

@@ -15,7 +15,7 @@ pinned: false
 
 ## 下载Ubuntu系统镜像文件
 
-在[官网](https://ubuntu.com/download)下载Ubuntu系统镜像文件`ubuntu-16.04.6-desktop-amd64.iso`，更早版本可在[此处](https://ubuntu.com/download/alternative-downloads)找到。
+从[官网](https://ubuntu.com/download)下载Ubuntu系统镜像文件`ubuntu-16.04.6-desktop-amd64.iso`，更早版本可在[此处](https://ubuntu.com/download/alternative-downloads)找到。
 
 ## 制作U盘启动盘
 

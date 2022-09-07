@@ -13,10 +13,11 @@ pinned: false
 
 <!-- more -->
 
-## 公开课
+## 教程
 
-1. [【古月居】古月·ROS入门21讲丨一学就会的ROS机器人入门教程](https://www.bilibili.com/video/BV1zt411G7Vn)
-2. [机器人操作系统入门](https://www.icourse163.org/course/ISCAS-1002580008)
+1. [ROS Documentation](https://wiki.ros.org)
+2. [【古月居】古月·ROS入门21讲丨一学就会的ROS机器人入门教程](https://www.bilibili.com/video/BV1zt411G7Vn)
+3. [机器人操作系统入门](https://www.icourse163.org/course/ISCAS-1002580008)
 
 ## GitHub
 

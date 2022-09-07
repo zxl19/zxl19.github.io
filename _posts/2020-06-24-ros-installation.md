@@ -15,7 +15,8 @@ pinned: false
 
 ## 安装流程
 
-全部流程参考官网的说明即可，采用清华源可以加速下载。
+1. 全部安装流程参考[官网](https://wiki.ros.org/ROS/Installation)说明即可，使用清华源可以加速下载；
+2. 官网只提供当前LTS发行版的下载，历史发行版可以在[此处](https://docs.ros.org)找到；
 
 ## sudo rosdep init失败的解决方式
 
@@ -46,4 +47,4 @@ Website may be down.
 ## 参考
 
 1. [Ubuntu install of ROS Kinetic](http://wiki.ros.org/kinetic/Installation/Ubuntu)
-2. [sudo rosdep init失败-CSDN博客](https://blog.csdn.net/Bryantaoli/article/details/104730474/)
+2. [sudo rosdep init失败-CSDN博客](https://blog.csdn.net/Bryantaoli/article/details/104730474)
