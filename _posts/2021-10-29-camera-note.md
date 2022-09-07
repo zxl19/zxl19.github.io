@@ -61,6 +61,7 @@ pinned: false
 3. [【DPReview】6个小技巧 让你掌握手动对焦（拍照&视频）](https://www.bilibili.com/video/BV1WL4y1V7CQ)
 4. [【DPReview】大胡子教官的摄影基础练习：圆偏振镜（CPL）](https://www.bilibili.com/video/BV18P411j7uW)
 5. [【DPReview】大胡子教官的摄影基础练习：自动感光度（ISO）](https://www.bilibili.com/video/BV1YP4y1o7yF)
+6. [【DPReview】大胡子教官的摄影基础练习：背键对焦](https://www.bilibili.com/video/BV14t4y177hP)
 
 ### 清洁保养
 
