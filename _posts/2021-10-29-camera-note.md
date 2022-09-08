@@ -62,6 +62,7 @@ pinned: false
 4. [【DPReview】大胡子教官的摄影基础练习：圆偏振镜（CPL）](https://www.bilibili.com/video/BV18P411j7uW)
 5. [【DPReview】大胡子教官的摄影基础练习：自动感光度（ISO）](https://www.bilibili.com/video/BV1YP4y1o7yF)
 6. [【DPReview】大胡子教官的摄影基础练习：背键对焦](https://www.bilibili.com/video/BV14t4y177hP)
+7. [【DPReview】大胡子教官的摄影基础练习：JPG vs. Raw](https://www.bilibili.com/video/BV1Ne411u7zt)
 
 ### 清洁保养
 

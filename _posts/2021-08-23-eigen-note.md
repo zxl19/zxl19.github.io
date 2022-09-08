@@ -44,12 +44,12 @@ pinned: true
     ```cpp
     Array44f a1, a2;
     Matrix4f m1, m2;
-    m1 = a1 * a2;                     // 逐元素相乘，运算结果从Array类到Matrix类隐式类型转换
-    a1 = m1 * m2;                     // 矩阵相乘，运算结果从Matrix类到Array类隐式类型转换
-    a2 = a1 + m1.array();             // Array类和Matrix类的对象在运算中禁止混用，需要显式类型转换
-    m2 = a1.matrix() + m1;            // Array类和Matrix类的对象在运算中禁止混用，需要显式类型转换
-    ArrayWrapper<Matrix4f> m1a(m1);   // m1a相当于m1.array()，二者参数相同
-    MatrixWrapper<Array44f> a1m(a1);  // a1m相当于a1.matrix()，二者参数相同
+    m1 = a1 * a2;                       // 逐元素相乘，运算结果从Array类到Matrix类隐式类型转换
+    a1 = m1 * m2;                       // 矩阵相乘，运算结果从Matrix类到Array类隐式类型转换
+    a2 = a1 + m1.array();               // Array类和Matrix类的对象在运算中禁止混用，需要显式类型转换
+    m2 = a1.matrix() + m1;              // Array类和Matrix类的对象在运算中禁止混用，需要显式类型转换
+    ArrayWrapper<Matrix4f> m1a(m1);     // m1a相当于m1.array()，二者参数相同
+    MatrixWrapper<Array44f> a1m(a1);    // a1m相当于a1.matrix()，二者参数相同
     ```
 
 10. `Matrix`类和`Array`类的初始化方式，建议在定义后对变量进行初始化；
@@ -177,14 +177,30 @@ C.cols()
 #### 转置
 
 ```cpp
-x.transpose()
+// 以矩阵为例，向量同理
+// 转置
 C.transpose()
+C.transposeInPlace()    // in-place version
+// 共轭转置
+C.adjoint()
+C.adjointInPlace()      // in-place version
+```
+
+在使用矩阵的转置给自身赋值时需要避免混淆现象（aliasing）：
+
+```cpp
+// 错误，存在混淆现象
+C = C.transpose();
+C = C.adjoint();
+// 正确，避免混淆现象
+C = C.transposeInPlace();
+C = C.adjointInPlace();
 ```
 
 #### 求和
 
 ```cpp
-x.sum()
+// 以矩阵为例，向量同理
 C.sum()
 ```
 
@@ -198,12 +214,13 @@ x.squaredNorm()     // 模的平方
 #### 类型转换
 
 ```cpp
-C.cast<double>();
-C.cast<float>();
-C.cast<int>();
-C.real();
-C.imag();
-C.conjugate();
+// 以矩阵为例，向量同理
+C.cast<double>()    // 转为double类型
+C.cast<float>()     // 转为float类型
+C.cast<int>()       // 转为int类型
+C.real()            // 逐元素取实部
+C.imag()            // 逐元素取虚部
+C.conjugate()       // 逐元素取共轭
 ```
 
 #### 改变大小
@@ -215,7 +232,7 @@ vector.resize(size);
 // 矩阵
 matrix.resize(nb_rows, nb_cols);
 matrix.resize(Eigen::NoChange, nb_cols);
-matrix.resize(nb_rows, Eigen::NoChange);、
+matrix.resize(nb_rows, Eigen::NoChange);
 // 改变大小后保留原有数据
 // 向量
 vector.resizeLike(other_vector);
@@ -332,25 +349,39 @@ x = A.ldlt().solve(b);                  // LDLT分解，要求正定阵或非负
 ```cpp
 Eigen::Matrix3f A;
 // 初始化方式1
-EigenSolver<Matrix3d> eigen_solver(A);
+EigenSolver<Eigen::Matrix3f> eigen_solver(A);
 // 初始化方式2，可用于计算多个矩阵的特征值
-EigenSolver<Matrix3d> eigen_solver;
-eigen_solver.compute(A)
-// 查看计算结果方式
-eigen_solver.eigenvalues()      // 特征值
-eigen_solver.eigenvectors()     // 特征向量
+EigenSolver<Eigen::Matrix3f> eigen_solver;
+eigen_solver.compute(A);
+if (eigen_solver.info() == Eigen::Success) {
+    // 计算成功
+    Eigen::Vector3f eigen_value = eigen_solver.eigenvalues();   // 特征值
+    Eigen::Matrix3f eigen_vector = eigen_solver.eigenvectors(); // 特征向量
+} else if (eigen_solver.info() == Eigen::NoConvergence) {
+    // 计算失败
+    std::cout << "Computation Failed!" << std::endl;
+}
 // 实对称矩阵可以保证对角化成功，初始化方式和查看计算结果方式与上面相同
-SelfAdjointEigenSolver<Matrix3d> eigen_solver(A.transpose() * A);
+SelfAdjointEigenSolver<Eigen::Matrix3f> eigen_solver(A.transpose() * A);
 ```
 
 #### 奇异值分解
 
 ```cpp
+// 方阵
 Eigen::Matrix3f A;
+// 参数Eigen::ComputeFullU和Eigen::ComputeFullV分别表示计算方阵对应的U和V
 Eigen::JacobiSVD<Eigen::Matrix3f> svd(A, Eigen::ComputeFullU | Eigen::ComputeFullV);
 Eigen::Matrix3f U = svd.matrixU();
 Eigen::Matrix3f V = svd.matrixV();
-Eigen::Vector3f Sigma= svd.singularValues();
+Eigen::Vector3f sv = svd.singularValues();
+// 非方阵
+Eigen::MatrixXf A;
+// 参数Eigen::ComputeThinU和Eigen::ComputeThinV分别表示计算非方阵对应的U和V
+Eigen::JacobiSVD<Eigen::MatrixXf> svd(A, Eigen::ComputeThinU | Eigen::ComputeThinV);
+Eigen::MatrixXf U = svd.matrixU();
+Eigen::MatrixXf V = svd.matrixV();
+Eigen::VectorXf sv = svd.singularValues();
 ```
 
 ## Array类
@@ -518,10 +549,11 @@ Eigen::Vector3d v_transformed = T * v;                  // 相当于R * v + t
 5. [zxl19/Eigen-Cheatsheet](https://github.com/zxl19/Eigen-Cheatsheet)
 6. [gaoxiang12/slambook](https://github.com/gaoxiang12/slambook)
 7. [gaoxiang12/slambook2](https://github.com/gaoxiang12/slambook2)
-8. [Linear algebra and decompositions](https://eigen.tuxfamily.org/dox/group__TutorialLinearAlgebra.html)
-9. [LU分解、LDLT分解和Cholesky分解-CSDN博客](https://blog.csdn.net/zhouliyang1990/article/details/21952485)
-10. [SVD-CSDN博客](https://blog.csdn.net/jiang_he_hu_hai/article/details/78363642)
-11. [四元数归一化1-Stack Overflow](https://stackoverflow.com/questions/48019329/difference-between-norm-normalize-and-normalized-in-eigen)\
-12. [四元数归一化2-CSDN博客](https://blog.csdn.net/m0_56348460/article/details/117386857)
-13. [旋转矩阵归一化1-Stack Overflow](https://stackoverflow.com/questions/21761909/eigen-convert-matrix3d-rotation-to-quaternion)
-14. [旋转矩阵归一化2-Stack Overflow](https://stackoverflow.com/questions/43896041/eigen-matrix-to-quaternion-and-back-have-different-result)
+8. [Aliasing](http://www.eigen.tuxfamily.org/dox/group__TopicAliasing.html)
+9. [Linear algebra and decompositions](https://eigen.tuxfamily.org/dox/group__TutorialLinearAlgebra.html)
+10. [LU分解、LDLT分解和Cholesky分解-CSDN博客](https://blog.csdn.net/zhouliyang1990/article/details/21952485)
+11. [SVD-CSDN博客](https://blog.csdn.net/jiang_he_hu_hai/article/details/78363642)
+12. [四元数归一化1-Stack Overflow](https://stackoverflow.com/questions/48019329/difference-between-norm-normalize-and-normalized-in-eigen)
+13. [四元数归一化2-CSDN博客](https://blog.csdn.net/m0_56348460/article/details/117386857)
+14. [旋转矩阵归一化1-Stack Overflow](https://stackoverflow.com/questions/21761909/eigen-convert-matrix3d-rotation-to-quaternion)
+15. [旋转矩阵归一化2-Stack Overflow](https://stackoverflow.com/questions/43896041/eigen-matrix-to-quaternion-and-back-have-different-result)
