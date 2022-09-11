@@ -52,13 +52,14 @@ pinned: false
 8. drawio-desktop
 9. Everything
 10. FileZilla Client
-11. Inkscape
-12. Photoflare
-13. PlotJuggler
-14. Recuva
-15. ShareX
-16. TeamViewer
-17. Typora
+11. Fliqlo
+12. Inkscape
+13. Photoflare
+14. PlotJuggler
+15. Recuva
+16. ShareX
+17. TeamViewer
+18. Typora
 
 ## 常见问题及解决方法
 
