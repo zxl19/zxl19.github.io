@@ -113,6 +113,8 @@ CMake扩展。
 
 集成Draw.io功能，绘制流程图。
 
+在设置中将主题设置为`Kennedy`可以获得更好的显示效果。
+
 ### GitHub Pull Requests and Issues
 
 为VS Code提供GitHub支持。
