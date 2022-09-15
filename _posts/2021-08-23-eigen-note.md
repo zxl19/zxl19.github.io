@@ -16,13 +16,14 @@ pinned: true
 ## Eigen Hello World
 
 1. Eigen是纯头文件库；
-2. Eigen各模块功能可查询[[QuickRef] Dense matrix and array manipulations](https://eigen.tuxfamily.org/dox/group__QuickRefPage.html)；
-3. `#include <Eigen/Eigen>`（全部模块功能）=`#include <Eigen/Dense>`（绝大部分模块功能）+`#include <Eigen/Sparse>`（稀疏矩阵模块功能）；
-4. `#include <Eigen/Core>`为核心模块，包含`Matrix`类和`Array`类的定义、基础的线性代数操作等；
-5. `#include <Eigen/Geometry>`为几何模块，包含SLAM相关的位姿表示、四元数、旋转向量等；
-6. 对于MATLAB用户，可以参考[Eigen short ASCII reference](https://eigen.tuxfamily.org/dox/AsciiQuickReference.txt)快速入门，[zxl19/Eigen-Cheatsheet](https://github.com/zxl19/Eigen-Cheatsheet)将其整理成Markdown和PDF文档；
-7. `Matrix`模板类定义了矩阵和向量，用于进行线性代数运算；`Array`模板类定义了数组，用于进行类似MATLAB的逐元素操作；
-8. Eigen使用`typedef`关键字重命名了常用大小的矩阵和数组，后缀`f`代表`float`、`d`代表`double`、`i`代表`int`，不同精度的矩阵在运算中禁止混用，需要显式类型转换，在使用中应尽可能少用动态大小的矩阵和数组，以提高运行速度：
+2. Eigen稠密矩阵和数组模块功能可以查询[[QuickRef] Dense matrix and array manipulations](https://eigen.tuxfamily.org/dox/group__QuickRefPage.html)；
+3. Eigen稀疏线性代数模块功能可以查询[[QuickRef] Sparse linear algebra](https://eigen.tuxfamily.org/dox/group__SparseQuickRefPage.html)；
+4. `#include <Eigen/Eigen>`（全部模块功能）=`#include <Eigen/Dense>`（绝大部分模块功能）+`#include <Eigen/Sparse>`（稀疏矩阵模块功能）；
+5. `#include <Eigen/Core>`为核心模块，包含`Matrix`类和`Array`类的定义、基础的线性代数操作等；
+6. `#include <Eigen/Geometry>`为几何模块，包含SLAM相关的位姿表示、四元数、旋转向量等；
+7. 对于MATLAB用户，可以参考[Eigen short ASCII reference](https://eigen.tuxfamily.org/dox/AsciiQuickReference.txt)快速入门，[zxl19/Eigen-Cheatsheet](https://github.com/zxl19/Eigen-Cheatsheet)将其整理成Markdown和PDF文档；
+8. `Matrix`模板类定义了矩阵和向量，用于进行线性代数运算；`Array`模板类定义了数组，用于进行类似MATLAB的逐元素操作；
+9. Eigen使用`typedef`关键字重命名了常用大小的矩阵和数组，后缀`f`代表`float`、`d`代表`double`、`i`代表`int`，不同精度的矩阵在运算中禁止混用，需要显式类型转换，在使用中应尽可能少用动态大小的矩阵和数组，以提高运行速度：
 
     ```cpp
     // Matrix类
@@ -39,7 +40,7 @@ pinned: true
     Array<float,4,1>                <=>   Array4f
     ```
 
-9. `Matrix`类和`Array`类之间运算和类型转换的规则：
+10. `Matrix`类和`Array`类之间运算和类型转换的规则：
 
     ```cpp
     Array44f a1, a2;
@@ -52,7 +53,7 @@ pinned: true
     MatrixWrapper<Array44f> a1m(a1);    // a1m相当于a1.matrix()，二者参数相同
     ```
 
-10. `Matrix`类和`Array`类的初始化方式，建议在定义后对变量进行初始化；
+11. `Matrix`类和`Array`类的初始化方式，建议在定义后对变量进行初始化；
 
     - 固定大小-大小确定，可不加行列数：
 
@@ -335,14 +336,40 @@ x.cross(y)
 
 #### 求解Ax=b形式线性方程组
 
+Eigen提供的全部稠密矩阵分解方法及其特性和数值稳定性可以参考[Catalogue of dense decompositions](https://eigen.tuxfamily.org/dox/group__TopicLinearAlgebraDecompositions.html)。
+
+##### 有解析解
+
 ```cpp
 x = A.inverse() * b;                    // 直接求逆，速度最慢
+x = A.partialPivLu().solve(b);          // 部分主元LU分解，要求可逆阵
 x = A.colPivHouseholderQr().solve(b);   // 列主元QR分解
 x = A.llt().solve(b);                   // Cholesky分解，要求正定阵
 x = A.ldlt().solve(b);                  // LDLT分解，要求正定阵或非负定阵
 ```
 
-全部求解方法及其对于矩阵要求、求解速度、求解精度对比：[Linear algebra and decompositions](https://eigen.tuxfamily.org/dox/group__TutorialLinearAlgebra.html)。
+1. Eigen提供的全部求解方法及其对于矩阵要求、求解速度、求解精度的对比可以参考[Linear algebra and decompositions](https://eigen.tuxfamily.org/dox/group__TutorialLinearAlgebra.html)；
+2. Eigen提供的全部求解方法及其在不同大小矩阵下求解速度的定量对比可以参考[Benchmark of dense decompositions](https://eigen.tuxfamily.org/dox/group__DenseDecompositionBenchmark.html)；
+
+##### 无解析解
+
+求解最小二乘问题：
+
+1. Eigen提供的三种求解方法可以参考[Solving linear least squares systems](http://www.eigen.tuxfamily.org/dox/group__LeastSquares.html)；
+2. 三种求解方法及其求解速度和求解精度的对比：
+
+    | 求解方法 | 求解速度 | 求解精度 |
+    | :--- | :--- | :---|
+    | SVD分解 | 低 | 高 |
+    | 列主元QR分解 | 中 | 中 |
+    | 求解正规方程 | 高 | 低 |
+
+```cpp
+x = A.bdcSvd(Eigen::ComputeThinU | Eigen::ComputeThinV).solve(b);   // SVD分解
+x = A.colPivHouseholderQr().solve(b);                               // 列主元QR分解
+x = (A.transpose() * A).ldlt().solve(A.transpose() * b);            // 求解正规方程
+relative_error = (A * x - b).norm() / b.norm();                     // L2范数相对误差
+```
 
 #### 特征值计算
 
@@ -370,14 +397,21 @@ SelfAdjointEigenSolver<Eigen::Matrix3f> eigen_solver(A.transpose() * A);
 ```cpp
 // 方阵
 Eigen::Matrix3f A;
-// 参数Eigen::ComputeFullU和Eigen::ComputeFullV分别表示计算方阵对应的U和V
+// A = USV*
+// 参数Eigen::ComputeFullU和Eigen::ComputeFullV分别表示计算方阵U和方阵V
+// 此时奇异值矩阵S为方阵
 Eigen::JacobiSVD<Eigen::Matrix3f> svd(A, Eigen::ComputeFullU | Eigen::ComputeFullV);
 Eigen::Matrix3f U = svd.matrixU();
 Eigen::Matrix3f V = svd.matrixV();
 Eigen::Vector3f sv = svd.singularValues();
 // 非方阵
 Eigen::MatrixXf A;
-// 参数Eigen::ComputeThinU和Eigen::ComputeThinV分别表示计算非方阵对应的U和V
+// A = USV*
+// 参数Eigen::ComputeFullU和Eigen::ComputeFullV分别表示计算方阵U和方阵V
+// 此时奇异值矩阵S为非方阵
+Eigen::JacobiSVD<Eigen::MatrixXf> svd(A, Eigen::ComputeFullU | Eigen::ComputeFullV);
+// 参数Eigen::ComputeThinU和Eigen::ComputeThinV分别表示计算非方阵U和非方阵V
+// 此时奇异值矩阵S为方阵
 Eigen::JacobiSVD<Eigen::MatrixXf> svd(A, Eigen::ComputeThinU | Eigen::ComputeThinV);
 Eigen::MatrixXf U = svd.matrixU();
 Eigen::MatrixXf V = svd.matrixV();
@@ -550,10 +584,14 @@ Eigen::Vector3d v_transformed = T * v;                  // 相当于R * v + t
 6. [gaoxiang12/slambook](https://github.com/gaoxiang12/slambook)
 7. [gaoxiang12/slambook2](https://github.com/gaoxiang12/slambook2)
 8. [Aliasing](http://www.eigen.tuxfamily.org/dox/group__TopicAliasing.html)
-9. [Linear algebra and decompositions](https://eigen.tuxfamily.org/dox/group__TutorialLinearAlgebra.html)
-10. [LU分解、LDLT分解和Cholesky分解-CSDN博客](https://blog.csdn.net/zhouliyang1990/article/details/21952485)
-11. [SVD-CSDN博客](https://blog.csdn.net/jiang_he_hu_hai/article/details/78363642)
-12. [四元数归一化1-Stack Overflow](https://stackoverflow.com/questions/48019329/difference-between-norm-normalize-and-normalized-in-eigen)
-13. [四元数归一化2-CSDN博客](https://blog.csdn.net/m0_56348460/article/details/117386857)
-14. [旋转矩阵归一化1-Stack Overflow](https://stackoverflow.com/questions/21761909/eigen-convert-matrix3d-rotation-to-quaternion)
-15. [旋转矩阵归一化2-Stack Overflow](https://stackoverflow.com/questions/43896041/eigen-matrix-to-quaternion-and-back-have-different-result)
+9. [Catalogue of dense decompositions](https://eigen.tuxfamily.org/dox/group__TopicLinearAlgebraDecompositions.html)
+10. [Linear algebra and decompositions](https://eigen.tuxfamily.org/dox/group__TutorialLinearAlgebra.html)
+11. [Benchmark of dense decompositions](https://eigen.tuxfamily.org/dox/group__DenseDecompositionBenchmark.html)
+12. [Solving linear least squares systems](http://www.eigen.tuxfamily.org/dox/group__LeastSquares.html)
+13. [LU分解、LDLT分解和Cholesky分解-CSDN博客](https://blog.csdn.net/zhouliyang1990/article/details/21952485)
+14. [奇异值分解（SVD）-漫漫成长的文章-知乎](https://zhuanlan.zhihu.com/p/29846048)
+15. [SVD-CSDN博客](https://blog.csdn.net/jiang_he_hu_hai/article/details/78363642)
+16. [四元数归一化1-Stack Overflow](https://stackoverflow.com/questions/48019329/difference-between-norm-normalize-and-normalized-in-eigen)
+17. [四元数归一化2-CSDN博客](https://blog.csdn.net/m0_56348460/article/details/117386857)
+18. [旋转矩阵归一化1-Stack Overflow](https://stackoverflow.com/questions/21761909/eigen-convert-matrix3d-rotation-to-quaternion)
+19. [旋转矩阵归一化2-Stack Overflow](https://stackoverflow.com/questions/43896041/eigen-matrix-to-quaternion-and-back-have-different-result)
