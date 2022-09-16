@@ -3,7 +3,7 @@ layout: post
 title: 在Windows和Ubuntu系统中使用GitHub进行版本管理
 date: 2020-06-25
 author: zxl19
-tags: [GitHub, Note]
+tags: [Git, GitHub, Note]
 comments: true
 toc: true
 pinned: false
