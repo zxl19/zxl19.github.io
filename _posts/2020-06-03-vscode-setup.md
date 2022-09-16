@@ -322,4 +322,5 @@ FIXME: 待修复内容
 17. [Markdown完美转PDF-简书](https://www.jianshu.com/p/4856a78b96b6)
 18. [Visual Studio会被VS Code及各种插件取代吗？-知乎](https://www.zhihu.com/question/277139137/answer/1657100889)
 19. [使用clangd替代c/c++配置vscode c++项目-smallsunsun的文章-知乎](https://zhuanlan.zhihu.com/p/145430576)
-20. [OBKoro1/koro1FileHeader](https://github.com/OBKoro1/koro1FileHeader)
+20. [最终，我看向了clangd-小钻风的文章-知乎](https://zhuanlan.zhihu.com/p/364518020)
+21. [OBKoro1/koro1FileHeader](https://github.com/OBKoro1/koro1FileHeader)
