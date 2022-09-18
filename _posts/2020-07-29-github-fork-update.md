@@ -15,12 +15,19 @@ pinned: false
 
 ## 操作步骤
 
+### 方法一
+
 1. 点击`Pull requests`；
 2. 点击`New pull request`；
 3. 左侧`base repository`和`base`选择自己的仓库和分支，右侧`head repository`和`compare`选择来源仓库和分支；
 4. 点击`Create pull request`，填写创建信息；
 5. 点击`Merge pull request`，自动检查冲突项；
-6. 点击`Confirm merge`完成合并；
+6. 点击`Confirm merge`，完成合并；
+
+### 方法二
+
+1. 点击`Sync fork`，自动检查冲突项；
+2. 点击`Update branch`，完成合并；
 
 ## 注意事项
 
