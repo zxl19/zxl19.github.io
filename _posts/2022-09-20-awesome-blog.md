@@ -35,6 +35,7 @@ pinned: false
 7. [ZhiBing's Blog-码上看世界](https://azmddy.github.io)
 8. [fluldog-博客园](https://www.cnblogs.com/fluidog)
 9. [zh89233-博客园](https://www.cnblogs.com/love-zf)
+10. [librarookie-博客园](https://www.cnblogs.com/librarookie)
 
 ### 汇总
 
