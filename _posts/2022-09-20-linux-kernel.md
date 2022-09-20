@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 在Ubuntu系统中切换并卸载系统内核
-date: 2021-09-20
+date: 2022-09-20
 author: zxl19
 tags: [Ubuntu, Note]
 comments: true
