@@ -54,12 +54,14 @@ pinned: false
 10. FileZilla Client
 11. Fliqlo
 12. Inkscape
-13. Photoflare
-14. PlotJuggler
-15. Recuva
-16. ShareX
-17. TeamViewer
-18. Typora
+13. Obsidian
+14. Photoflare
+15. PlotJuggler
+16. Recuva
+17. ShareX
+18. TeamViewer
+19. Typora
+20. Zotero
 
 ## 常见问题及解决方法
 

@@ -91,6 +91,7 @@ The main repository serves as a curated list of awesome lists.
 1. [kmaasrud/awesome-obsidian](https://github.com/kmaasrud/awesome-obsidian)
 2. [jyguyomarch/awesome-productivity](https://github.com/jyguyomarch/awesome-productivity)
 3. [eastlakeside/awesome-productivity-cn](https://github.com/eastlakeside/awesome-productivity-cn)
+4. [noghartt/awesome-obsidian-plugins](https://github.com/noghartt/awesome-obsidian-plugins)
 
 ## Zsh插件
 
