@@ -20,9 +20,10 @@ pinned: false
 1. [半闲居士-博客园](https://www.cnblogs.com/gaoxiang12)
 2. [秦通](https://qintong.xyz)
 3. [无求备斋笔记](https://fzheng.me/cn/)
-4. [Yilin's Blog](https://yilingui.xyz)
-5. [KMnO4的行云小扎](https://wastoon.github.io)
-6. [家家的快乐空间-CSDN博客](https://blog.csdn.net/m0_38144614)
+4. [XT的技术博客](https://xiaotaoguo.com)
+5. [Yilin's Blog](https://yilingui.xyz)
+6. [KMnO4的行云小扎](https://wastoon.github.io)
+7. [家家的快乐空间-CSDN博客](https://blog.csdn.net/m0_38144614)
 
 ### 技术博客
 
