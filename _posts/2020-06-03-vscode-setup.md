@@ -97,6 +97,18 @@ CMake语法支持。
 
 CMake扩展。
 
+### cmake-format
+
+格式化`CMakeLists.txt`文件。
+
+1. 安装cmakelang：
+
+   ```shell
+   python3 -m pip install cmakelang
+   ```
+
+2. 在`CMakeLists.txt`文件中`右键`->`Format Document`；
+
 ### Code Runner
 
 运行各种语言的代码。
@@ -241,7 +253,7 @@ MATLAB语言扩展。
 
 ### One Dark Pro
 
-Atom的深色主题，类似的主题还有City Lights theme、Material Theme（会同时安装Material Theme Icon和Community Material Theme）。
+Atom的深色主题，类似的主题还有City Lights theme、Material Theme（会同时安装Community Material Theme和Material Theme Icons）。
 
 在VS Code中通过`Ctrl`+`K`+`Ctrl`+`T`快捷键选择主题。
 
@@ -263,6 +275,13 @@ Atom的深色主题，类似的主题还有City Lights theme、Material Theme（
 ### Pomodoro
 
 番茄工作法。
+
+### Power Mode
+
+在输入时添加炫酷的特效。
+
+1. 在设置中开启扩展；
+2. 在设置中关闭振动特效，可以获得更好的显示效果。
 
 ### Python
 
@@ -287,13 +306,17 @@ TODO: 待办内容
 FIXME: 待修复内容
 ```
 
+### Toggle Zen Mode
+
+添加进入禅模式（zen mode）的按钮，代替`Ctrl`+`K`+`Z`快捷键。
+
 ### Trailing Spaces
 
 显示尾部跟随空格。
 
 ### vscode-icons
 
-文件图标主题，类似的主题还有Material Icon Theme。
+文件图标主题，类似的主题还有Material Icon Theme和Material Theme Icons。
 
 ## 快捷键速查表
 
