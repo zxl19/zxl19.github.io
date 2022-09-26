@@ -20,6 +20,7 @@ pinned: false
 1. [【科研绘图】科研绘图配色的注意点（一）](https://www.bilibili.com/video/BV1J7411G7Uv)
 2. [【科研绘图】科研绘图配色的注意点（二）](https://www.bilibili.com/video/BV167411E7eo)
 3. [【科研绘图】科研绘图配色的注意点（三）](https://www.bilibili.com/video/BV1H7411o7pj)
+4. [【收藏】MATLAB数据可视化教程丨数据图 表达式 隐函数 动画 美化](https://www.bilibili.com/video/BV1Yd4y1M7BF)
 
 ### MATLAB
 
