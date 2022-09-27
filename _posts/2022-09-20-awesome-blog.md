@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 优质个人主页存档
+title: 高质量个人主页存档
 date: 2022-09-20
 author: zxl19
 tags: [Blog, Archive]
@@ -9,7 +9,7 @@ toc: true
 pinned: false
 ---
 
-之前发现的一些优质个人主页存档。
+一些高质量个人主页存档。
 
 <!-- more -->
 
@@ -34,10 +34,11 @@ pinned: false
 5. [Code Yarns](https://codeyarns.com)
 6. [TANG ZhiXiong's Blog](http://blog.tangzhixiong.com)
 7. [ZhiBing's Blog-码上看世界](https://azmddy.github.io)
-8. [fluldog-博客园](https://www.cnblogs.com/fluidog)
-9. [zh89233-博客园](https://www.cnblogs.com/love-zf)
-10. [librarookie-博客园](https://www.cnblogs.com/librarookie)
-11. [木偶Roy-博客园](https://www.cnblogs.com/jyroy)
+8. [术之多](https://www.shuzhiduo.com)
+9. [fluldog-博客园](https://www.cnblogs.com/fluidog)
+10. [zh89233-博客园](https://www.cnblogs.com/love-zf)
+11. [librarookie-博客园](https://www.cnblogs.com/librarookie)
+12. [木偶Roy-博客园](https://www.cnblogs.com/jyroy)
 
 ### 汇总
 

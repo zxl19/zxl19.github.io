@@ -9,7 +9,7 @@ toc: true
 pinned: false
 ---
 
-GitHub上的高质量Awesome List存档，主题涵盖C++（包括CMake）、SLAM等。
+GitHub上的高质量Awesome List存档，主题涵盖C++（包括CMake）、Python、SLAM等。
 
 <!-- more -->
 
@@ -21,7 +21,11 @@ There are awesome lists about everything from CLI applications to fantasy books.
 The main repository serves as a curated list of awesome lists.
 ```
 
-搜索`awesome`+`关键词`即可，关于全部awesome list的汇总可见[sindresorhus/awesome](https://github.com/sindresorhus/awesome)。
+搜索`awesome`+`关键词`即可，关于全部awesome list的一阶、二阶、三阶汇总可见：
+
+1. [sindresorhus/awesome](https://github.com/sindresorhus/awesome)
+2. [bayandin/awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness)
+3. [geekan/awesome-awesome-awesome](https://github.com/geekan/awesome-awesome-awesome)
 
 ## C++（包括CMake）
 
@@ -29,6 +33,11 @@ The main repository serves as a curated list of awesome lists.
 2. [onqtam/awesome-cmake](https://github.com/onqtam/awesome-cmake)
 3. [p-ranav/awesome-hpp](https://github.com/p-ranav/awesome-hpp)
 4. [rigtorp/awesome-modern-cpp](https://github.com/rigtorp/awesome-modern-cpp)
+
+## Python
+
+1. [vinta/awesome-python](https://github.com/vinta/awesome-python)
+2. [jobbole/awesome-python-cn](https://github.com/jobbole/awesome-python-cn)
 
 ## SLAM相关
 
