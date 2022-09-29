@@ -16,9 +16,11 @@ pinned: false
 ## 相关概念区别
 
 1. **terminal（终端）**：文本输入/输出环境；
-2. **console（控制台）**：物理终端；
-3. **shell**：命令行解释器，包括bash、Zsh等；
-4. **bash**：Ubuntu默认的shell；
+2. **TTY**：电传打字机（teletypewriter），其含义与terminal相同；
+3. **console（控制台）**：物理终端；
+4. **shell**：命令行解释器，包括bash、Zsh等；
+5. **bash**：Bourne Again Shell，Ubuntu默认的shell；
+6. **Zsh**：Z shell，为交互式终端设计的shell；
 
 ## bash终端配置
 
@@ -48,6 +50,13 @@ pinned: false
     ```
 
 ### Oh My Zsh安装及配置
+
+Oh My Zsh是针对Zsh的配置框架。
+
+1. [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh)
+2. [sorin-ionescu/prezto](https://github.com/sorin-ionescu/prezto)
+3. [zimfw/zimfw](https://github.com/zimfw/zimfw)
+4. [z-shell/zi](https://github.com/z-shell/zi)
 
 #### 安装
 
@@ -81,6 +90,8 @@ ZEH_THEME=""                # 不使用主题
 在[External themes-Wiki](https://github.com/ohmyzsh/ohmyzsh/wiki/External-themes)中查看可供选择的第三方主题以及第三方主题的安装方法。
 
 1. [romkatv/powerlevel10k](https://github.com/romkatv/powerlevel10k)
+2. [agnoster/agnoster-zsh-theme](https://github.com/agnoster/agnoster-zsh-theme)
+3. [caiogondim/bullet-train.zsh](https://github.com/caiogondim/bullet-train.zsh)
 
 ##### 插件
 
@@ -102,7 +113,10 @@ plugins=(git themes zsh-autosuggestions zsh-syntax-highlighting)
 
 ###### 插件管理
 
-1. [zdharma/zinit](https://github.com/zdharma/zinit)
+1. [zsh-users/antigen](https://github.com/zsh-users/antigen)
+2. [zplug/zplug](https://github.com/zplug/zplug)
+3. [tarjoilija/zgen](https://github.com/tarjoilija/zgen)
+4. [zdharma-continuum/zinit](https://github.com/zdharma-continuum/zinit)
 
 ### 在Zsh终端中使用ROS
 
@@ -147,7 +161,7 @@ plugins=(git themes zsh-autosuggestions zsh-syntax-highlighting)
 
 在同一窗口中打开多个终端。
 
-### 安装
+### 安装及配置
 
 1. 下载并安装Terminator：
 
@@ -239,18 +253,20 @@ plugins=(git themes zsh-autosuggestions zsh-syntax-highlighting)
 ## 参考
 
 1. [相关概念区别1-Stack Exchange](https://askubuntu.com/questions/506510/what-is-the-difference-between-terminal-console-shell-and-command-line)
-2. [相关概念区别2-博客园](https://www.cnblogs.com/sddai/p/9769086.html)
-3. [Update Ubuntu Terminal Color Scheme](https://linuxhint.com/ubuntu_terminal_color_scheme/)
-4. [Colours and formatting in Gnome/Ubuntu's Terminal](https://www.growingwiththeweb.com/2015/05/colours-in-gnome-terminal.html)
-5. [Oh My Zsh-简书](https://www.jianshu.com/p/b8a80dd59414)
-6. [Oh My Zsh-博客园](https://www.cnblogs.com/lcgbk/p/13255836.html)
-7. [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh)
-8. [配置一个简洁高效的Zsh丨Linux中国-Linux中国的文章-知乎](https://zhuanlan.zhihu.com/p/345559097)
-9. [zsh&oh-my-zsh的配置与使用-SCEtoAUX的文章-知乎](https://zhuanlan.zhihu.com/p/58073103)
-10. [Ubuntu install of ROS Melodic](http://wiki.ros.org/melodic/Installation/Ubuntu)
-11. [安装Zsh后ROS相关命令失效-CSDN博客](https://blog.csdn.net/Amazingren/article/details/81746176)
-12. [rosinstall/NonBashShells](http://wiki.ros.org/rosinstall/NonBashShells)
-13. [Ubuntu用Terminator+ZSH打造好用的终端开发环境-很酷的程序员的文章-知乎](https://zhuanlan.zhihu.com/p/346665734)
-14. [切换终端-CSDN博客](https://blog.csdn.net/learning_tortosie/article/details/102581261)
-15. [gnome-terminator/terminator](https://github.com/gnome-terminator/terminator)
-16. [Terminator](https://terminator-gtk3.readthedocs.io/en/latest/)
+2. [相关概念区别2-Stack Exchange](https://unix.stackexchange.com/questions/4126/what-is-the-exact-difference-between-a-terminal-a-shell-a-tty-and-a-con)
+3. [相关概念区别3-博客园](https://www.cnblogs.com/sddai/p/9769086.html)
+4. [Linux黑话解释：TTY是什么？丨Linux中国-Linux中国的文章-知乎](https://zhuanlan.zhihu.com/p/447014333)
+5. [Update Ubuntu Terminal Color Scheme](https://linuxhint.com/ubuntu_terminal_color_scheme/)
+6. [Colours and formatting in Gnome/Ubuntu's Terminal](https://www.growingwiththeweb.com/2015/05/colours-in-gnome-terminal.html)
+7. [Oh My Zsh-简书](https://www.jianshu.com/p/b8a80dd59414)
+8. [Oh My Zsh-博客园](https://www.cnblogs.com/lcgbk/p/13255836.html)
+9. [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh)
+10. [配置一个简洁高效的Zsh丨Linux中国-Linux中国的文章-知乎](https://zhuanlan.zhihu.com/p/345559097)
+11. [zsh&oh-my-zsh的配置与使用-SCEtoAUX的文章-知乎](https://zhuanlan.zhihu.com/p/58073103)
+12. [Ubuntu install of ROS Melodic](http://wiki.ros.org/melodic/Installation/Ubuntu)
+13. [安装Zsh后ROS相关命令失效-CSDN博客](https://blog.csdn.net/Amazingren/article/details/81746176)
+14. [rosinstall/NonBashShells](http://wiki.ros.org/rosinstall/NonBashShells)
+15. [Ubuntu用Terminator+ZSH打造好用的终端开发环境-很酷的程序员的文章-知乎](https://zhuanlan.zhihu.com/p/346665734)
+16. [切换终端-CSDN博客](https://blog.csdn.net/learning_tortosie/article/details/102581261)
+17. [gnome-terminator/terminator](https://github.com/gnome-terminator/terminator)
+18. [Terminator](https://terminator-gtk3.readthedocs.io/en/latest/)

@@ -102,10 +102,11 @@ The main repository serves as a curated list of awesome lists.
 3. [eastlakeside/awesome-productivity-cn](https://github.com/eastlakeside/awesome-productivity-cn)
 4. [noghartt/awesome-obsidian-plugins](https://github.com/noghartt/awesome-obsidian-plugins)
 
-## Zsh插件
+## 命令行相关
 
-1. [unixorn/awesome-zsh-plugins](https://github.com/unixorn/awesome-zsh-plugins)
-2. [hmml/awesome-zsh](https://github.com/hmml/awesome-zsh)
+1. [alebcay/awesome-shell](https://github.com/alebcay/awesome-shell)
+2. [unixorn/awesome-zsh-plugins](https://github.com/unixorn/awesome-zsh-plugins)
+3. [hmml/awesome-zsh](https://github.com/hmml/awesome-zsh)
 
 ## 科研
 

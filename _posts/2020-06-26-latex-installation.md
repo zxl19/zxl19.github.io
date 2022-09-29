@@ -29,13 +29,13 @@ pinned: false
 1. 安装LaTeX发行版：
 
     ```shell
-    sudo apt-get install texlive-full
+    sudo apt install texlive-full
     ```
 
 2. 安装编辑器TeXstudio：
 
     ```shell
-    sudo apt-get install texstudio
+    sudo apt install texstudio
     ```
 
 ## 在线使用
