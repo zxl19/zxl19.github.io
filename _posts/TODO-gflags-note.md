@@ -17,7 +17,7 @@ pinned: false
 
 ```cmake
 # 本地安装
-find_package(gflags REQUIRED)
+find_package(gflags REQUIRED QUIET)
 # 三方库
 add_subdirectory(gflags)
 

@@ -17,9 +17,9 @@ pinned: false
 
 ```cmake
 cmake_minimum_required(VERSION 3.16)
-project(myproj VERSION 1.0)
+project(myproj)
 
-find_package(glog 0.6.0 REQUIRED)
+find_package(glog REQUIRED QUIET)
 
 add_executable(myapp main.cpp)
 target_link_libraries(myapp glog)

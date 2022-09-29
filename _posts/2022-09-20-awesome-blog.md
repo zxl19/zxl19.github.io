@@ -22,8 +22,9 @@ pinned: false
 3. [无求备斋笔记](https://fzheng.me/cn/)
 4. [XT的技术博客](https://xiaotaoguo.com)
 5. [Yilin's Blog](https://yilingui.xyz)
-6. [KMnO4的行云小扎](https://wastoon.github.io)
-7. [家家的快乐空间-CSDN博客](https://blog.csdn.net/m0_38144614)
+6. [RealCat](https://vincentqin.tech)
+7. [KMnO4的行云小扎](https://wastoon.github.io)
+8. [家家的快乐空间-CSDN博客](https://blog.csdn.net/m0_38144614)
 
 ### 技术博客
 

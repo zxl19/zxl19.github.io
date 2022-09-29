@@ -61,11 +61,14 @@ find_package(PCL REQUIRED QUIET)
 find_package(OpenCV REQUIRED QUIET)
 find_package(G2O REQUIRED QUIET)
 find_package(GTSAM REQUIRED QUIET)
+find_package(gflags REQUIRED QUIET)
+find_package(glog REQUIRED QUIET)
+find_package(gtest REQUIRED QUIET)
 
 include_directories(
     include
     ${EIGEN3_INCLUDE_DIRS}
-    ${CERES_INCLUDE_DIRS}
+    # ${CERES_INCLUDE_DIRS}
     ${PCL_INCLUDE_DIRS}
     ${OpenCV_INCLUDE_DIRS}
     ${G2O_INCLUDE_DIRS}
@@ -88,6 +91,9 @@ target_link_libraries(${PROJECT_NAME}
     ${OpenCV_LIBRARIES}
     ${G2O_LIBRARIES}
     ${GTSAM_LIBRARIES}
+    gflags
+    glog
+    gtest
 )
 ```
 
