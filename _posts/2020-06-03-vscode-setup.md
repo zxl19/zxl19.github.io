@@ -314,6 +314,10 @@ FIXME: 待修复内容
 
 显示尾部跟随空格。
 
+### Typora
+
+原名为vscode-office，支持预览PDF、Excel等格式的办公文档，并提供所见即所得（What You See Is What You Get，WYSIWYG）的Markdown编辑器功能。
+
 ### vscode-icons
 
 文件图标主题，类似的主题还有Material Icon Theme和Material Theme Icons。
