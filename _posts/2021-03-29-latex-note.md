@@ -754,6 +754,7 @@ TODO：单独整理。
 14. [ElegantLaTeX/ElegantNote](https://github.com/ElegantLaTeX/ElegantNote)
 15. [xinychen/latex-cookbook](https://github.com/xinychen/latex-cookbook)
 16. [Wandmalfarbe/pandoc-latex-template](https://github.com/Wandmalfarbe/pandoc-latex-template)
+17. [zepinglee/gbt7714-bibtex-style](https://github.com/zepinglee/gbt7714-bibtex-style)
 
 ### 高质量模板
 

@@ -125,6 +125,12 @@ The main repository serves as a curated list of awesome lists.
 7. [huajh/awesome-latex-cv](https://github.com/huajh/awesome-latex-cv)
 8. [XiangyunHuang/awesome-beamers](https://github.com/XiangyunHuang/awesome-beamers)
 
+## 个人主页
+
+1. [jkup/awesome-personal-blogs](https://github.com/jkup/awesome-personal-blogs)
+2. [markodenic/awesome-tech-blogs](https://github.com/markodenic/awesome-tech-blogs)
+3. [learn-anything/blogs](https://github.com/learn-anything/blogs)
+
 ## 参考
 
 1. [Awesome Lists](https://github.com/topics/awesome)
