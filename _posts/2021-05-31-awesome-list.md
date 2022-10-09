@@ -72,6 +72,7 @@ The main repository serves as a curated list of awesome lists.
 5. [XuyangBai/awesome-point-cloud-registration](https://github.com/XuyangBai/awesome-point-cloud-registration)
 6. [kxhit/awesome-point-cloud-place-recognition](https://github.com/kxhit/awesome-point-cloud-place-recognition)
 7. [qiaozhijian/awesome-deeplearning-3d-registration](https://github.com/qiaozhijian/awesome-deeplearning-3d-registration)
+8. [shamangary/awesome-local-global-descriptor](https://github.com/shamangary/awesome-local-global-descriptor)
 
 ### 激光雷达-相机外参标定
 
