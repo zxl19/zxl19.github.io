@@ -34,11 +34,11 @@ pinned: false
 示例：
 
 ```text
-// ! 警告类语句（红色）
-// ? 疑问类语句（蓝色）
-// TODO 待办类语句（橙色）
-// * 高亮类语句（绿色）
-// // 删除线语句（深灰色）
+// ! Alerts             警告类语句（红色）
+// ? Queries            疑问类语句（蓝色）
+// TODO TODOs           待办类语句（橙色）
+// * Highlights         高亮类语句（绿色）
+// // Commented out     删除线语句（深灰色）
 ```
 
 注：在C/C++代码中要谨慎使用高亮类语句。
@@ -295,15 +295,24 @@ Python语言扩展，安装Pylance、Jupyter、Jupyter Keymap、Jupyter Notebook
 
 机器人操作系统（Robot Operating System, ROS）扩展。
 
-### TODO Highlight
+### Todo Tree
 
-高亮`TODO:`和`FIXME:`标识，类似的扩展还有Todo Tree。
+高亮注释中的标签并且以树的形式显示，类似的扩展还有TODO Highlight。
+
+在设置中打开使用配色方案可以获得更好的显示效果。
 
 示例：
 
 ```text
-TODO: 待办内容
-FIXME: 待修复内容
+BUG a known bug that should be corrected.    存在的BUG（红色）
+HACK a workaround.                           应变方法、变通方法（橙色）
+FIXME should be corrected.                   待修复内容（黄色）
+TODO something to be done.                   待办内容（绿色）
+XXX warn other programmers of problematic    警告需要改进的代码（蓝色）
+    or misguiding code, "dirty code" that
+    needs improving.
+[ ] an uncompleted task                      未完成任务（紫色）
+[x] a completed task                         已完成任务（粉色）
 ```
 
 ### Toggle Zen Mode
@@ -321,6 +330,10 @@ FIXME: 待修复内容
 ### vscode-icons
 
 文件图标主题，类似的主题还有Material Icon Theme和Material Theme Icons。
+
+### vscode-mindmap
+
+绘制思维导图。
 
 ## 快捷键速查表
 
@@ -341,13 +354,14 @@ FIXME: 待修复内容
 9. [那些你应该考虑卸载的VSCode扩展-余腾靖的文章-知乎](https://zhuanlan.zhihu.com/p/125773296)
 10. [VSCode插件大全｜VSCode高级玩家之第二篇-三钻的文章-知乎](https://zhuanlan.zhihu.com/p/136428397)
 11. [微软再出神器，这次终于对Python下手了！-Jackpop的文章-知乎](https://zhuanlan.zhihu.com/p/154108630)
-12. [vscode有哪些让人眼前一亮的插件?-量子位的回答-知乎](https://www.zhihu.com/question/311803609/answer/1296896019)
-13. [超越鼓励师for VS Code，写代码不再孤单，有杨超越与你同在-韩骏的文章-知乎](https://zhuanlan.zhihu.com/p/61790645)
-14. [太赞了，VSCode上也能画流程图了！-GitHub Daily的文章-知乎](https://zhuanlan.zhihu.com/p/140895359)
-15. [实时可视化Debug：VS Code开源新工具，一键解析代码结构](https://zhuanlan.zhihu.com/p/109212146)
-16. [Visual Studio Code如何编写运行C、C++程序？-程序员柠檬的回答-知乎](https://www.zhihu.com/question/30315894/answer/1574277687)
-17. [Markdown完美转PDF-简书](https://www.jianshu.com/p/4856a78b96b6)
-18. [Visual Studio会被VS Code及各种插件取代吗？-知乎](https://www.zhihu.com/question/277139137/answer/1657100889)
-19. [使用clangd替代c/c++配置vscode c++项目-smallsunsun的文章-知乎](https://zhuanlan.zhihu.com/p/145430576)
-20. [最终，我看向了clangd-小钻风的文章-知乎](https://zhuanlan.zhihu.com/p/364518020)
-21. [OBKoro1/koro1FileHeader](https://github.com/OBKoro1/koro1FileHeader)
+12. [vscode有哪些让人眼前一亮的插件?-韦易笑的回答-知乎](https://www.zhihu.com/question/311803609/answer/2387914071)
+13. [vscode有哪些让人眼前一亮的插件?-量子位的回答-知乎](https://www.zhihu.com/question/311803609/answer/1296896019)
+14. [超越鼓励师for VS Code，写代码不再孤单，有杨超越与你同在-韩骏的文章-知乎](https://zhuanlan.zhihu.com/p/61790645)
+15. [太赞了，VSCode上也能画流程图了！-GitHub Daily的文章-知乎](https://zhuanlan.zhihu.com/p/140895359)
+16. [实时可视化Debug：VS Code开源新工具，一键解析代码结构](https://zhuanlan.zhihu.com/p/109212146)
+17. [Visual Studio Code如何编写运行C、C++程序？-程序员柠檬的回答-知乎](https://www.zhihu.com/question/30315894/answer/1574277687)
+18. [Markdown完美转PDF-简书](https://www.jianshu.com/p/4856a78b96b6)
+19. [Visual Studio会被VS Code及各种插件取代吗？-知乎](https://www.zhihu.com/question/277139137/answer/1657100889)
+20. [使用clangd替代c/c++配置vscode c++项目-smallsunsun的文章-知乎](https://zhuanlan.zhihu.com/p/145430576)
+21. [最终，我看向了clangd-小钻风的文章-知乎](https://zhuanlan.zhihu.com/p/364518020)
+22. [OBKoro1/koro1FileHeader](https://github.com/OBKoro1/koro1FileHeader)
