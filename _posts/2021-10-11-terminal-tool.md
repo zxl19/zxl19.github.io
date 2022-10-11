@@ -13,6 +13,16 @@ pinned: false
 
 <!-- more -->
 
+## 命令行教程
+
+1. [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line)
+2. [wangdoc/bash-tutorial](https://github.com/wangdoc/bash-tutorial)
+3. [dunwu/linux-tutorial](https://github.com/dunwu/linux-tutorial)
+4. [techarkit/shell-scripting-tutorial](https://github.com/techarkit/shell-scripting-tutorial)
+5. [jaywcjlove/shell-tutorial](https://github.com/jaywcjlove/shell-tutorial)
+6. [spencertipping/shell-tutorial](https://github.com/spencertipping/shell-tutorial)
+7. [ArchLinuxStudio/ShellTutorial](https://github.com/ArchLinuxStudio/ShellTutorial)
+
 ## 性能监控
 
 1. top
