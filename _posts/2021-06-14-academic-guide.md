@@ -30,8 +30,9 @@ pinned: false
 2. [shengyp/doing_the_PhD](https://github.com/shengyp/doing_the_PhD)
 3. [writing-resources/awesome-scientific-writing](https://github.com/writing-resources/awesome-scientific-writing)
 4. [macoj/phd](https://github.com/macoj/phd)
-5. [alirezasamar/awesome-phd](https://github.com/alirezasamar/awesome-phd)
-6. [weisongwen/researchTools](https://github.com/weisongwen/researchTools)
+5. [zheng95z/teach-yourself-research](https://github.com/zheng95z/teach-yourself-research)
+6. [alirezasamar/awesome-phd](https://github.com/alirezasamar/awesome-phd)
+7. [weisongwen/researchTools](https://github.com/weisongwen/researchTools)
 
 ## 参考
 

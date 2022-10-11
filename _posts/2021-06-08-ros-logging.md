@@ -43,5 +43,5 @@ ROS_<verbosity level>[_STREAM][_<other>]
 
 ## 参考
 
-1. [roscpp/Overview/Logging](http://wiki.ros.org/roscpp/Overview/Logging)
-2. [Verbosity Levels](http://wiki.ros.org/Verbosity%20Levels)
+1. [roscpp/Overview/Logging-ROS Wiki](http://wiki.ros.org/roscpp/Overview/Logging)
+2. [Verbosity Levels-ROS Wiki](http://wiki.ros.org/Verbosity%20Levels)

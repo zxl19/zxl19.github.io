@@ -755,6 +755,7 @@ TODO：单独整理。
 15. [xinychen/latex-cookbook](https://github.com/xinychen/latex-cookbook)
 16. [Wandmalfarbe/pandoc-latex-template](https://github.com/Wandmalfarbe/pandoc-latex-template)
 17. [zepinglee/gbt7714-bibtex-style](https://github.com/zepinglee/gbt7714-bibtex-style)
+18. [MLNLP-World/Paper-Picture-Writing-Code](https://github.com/MLNLP-World/Paper-Picture-Writing-Code)
 
 ### 高质量模板
 

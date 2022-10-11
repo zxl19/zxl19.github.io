@@ -15,17 +15,19 @@ pinned: false
 
 ## 教程
 
-1. [ROS Documentation](https://wiki.ros.org)
-2. [【古月居】古月·ROS入门21讲丨一学就会的ROS机器人入门教程](https://www.bilibili.com/video/BV1zt411G7Vn)
-3. [机器人操作系统入门](https://www.icourse163.org/course/ISCAS-1002580008)
+1. [Documentation-ROS Wiki](https://wiki.ros.org)
+2. [ROS C++ Style Guide-ROS Wiki](http://wiki.ros.org/CppStyleGuide)
+3. [【古月居】古月·ROS入门21讲丨一学就会的ROS机器人入门教程](https://www.bilibili.com/video/BV1zt411G7Vn)
+4. [机器人操作系统入门](https://www.icourse163.org/course/ISCAS-1002580008)
 
 ## GitHub
 
 1. [sychaichangkun/ROS-Academy-for-Beginners](https://github.com/sychaichangkun/ROS-Academy-for-Beginners)
 2. [ros-industrial/industrial_training](https://github.com/ros-industrial/industrial_training)
-3. [ros-visualization/visualization_tutorials](https://github.com/ros-visualization/visualization_tutorials)
-4. [project-srs/ros_lecture](https://github.com/project-srs/ros_lecture)
-5. [kaixindelele/ros_demo_mooc](https://github.com/kaixindelele/ros_demo_mooc)
+3. [PickNikRobotics/roscpp_code_format](https://github.com/PickNikRobotics/roscpp_code_format)
+4. [ros-visualization/visualization_tutorials](https://github.com/ros-visualization/visualization_tutorials)
+5. [project-srs/ros_lecture](https://github.com/project-srs/ros_lecture)
+6. [kaixindelele/ros_demo_mooc](https://github.com/kaixindelele/ros_demo_mooc)
 
 ## 书籍
 

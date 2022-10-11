@@ -19,12 +19,13 @@ pinned: false
 
 1. [半闲居士-博客园](https://www.cnblogs.com/gaoxiang12)
 2. [秦通](https://qintong.xyz)
-3. [无求备斋笔记](https://fzheng.me/cn/)
-4. [XT的技术博客](https://xiaotaoguo.com)
-5. [Yilin's Blog](https://yilingui.xyz)
-6. [RealCat](https://vincentqin.tech)
-7. [KMnO4的行云小扎](https://wastoon.github.io)
-8. [家家的快乐空间-CSDN博客](https://blog.csdn.net/m0_38144614)
+3. [Weisong Wen](https://weisongwen.github.io)
+4. [无求备斋笔记](https://fzheng.me/cn/)
+5. [XT的技术博客](https://xiaotaoguo.com)
+6. [Yilin's Blog](https://yilingui.xyz)
+7. [RealCat](https://vincentqin.tech)
+8. [KMnO4的行云小扎](https://wastoon.github.io)
+9. [家家的快乐空间-CSDN博客](https://blog.csdn.net/m0_38144614)
 
 ### 技术博客
 
@@ -35,15 +36,16 @@ pinned: false
 5. [LinuxTOY](https://linuxtoy.org)
 6. [日新亭](https://www.fengerzh.com)
 7. [Code Yarns](https://codeyarns.com)
-8. [TANG ZhiXiong's Blog](http://blog.tangzhixiong.com)
-9. [ZhiBing's Blog-码上看世界](https://azmddy.github.io)
-10. [Sterben_01](https://sterben-01.github.io)
-11. [术之多](https://www.shuzhiduo.com)
-12. [fluldog-博客园](https://www.cnblogs.com/fluidog)
-13. [zh89233-博客园](https://www.cnblogs.com/love-zf)
-14. [librarookie-博客园](https://www.cnblogs.com/librarookie)
-15. [木偶Roy-博客园](https://www.cnblogs.com/jyroy)
-16. [李春港-博客园](https://www.cnblogs.com/lcgbk)
+8. [登龙](https://dlonng.com)
+9. [TANG ZhiXiong's Blog](http://blog.tangzhixiong.com)
+10. [ZhiBing's Blog-码上看世界](https://azmddy.github.io)
+11. [Sterben_01](https://sterben-01.github.io)
+12. [术之多](https://www.shuzhiduo.com)
+13. [fluldog-博客园](https://www.cnblogs.com/fluidog)
+14. [zh89233-博客园](https://www.cnblogs.com/love-zf)
+15. [librarookie-博客园](https://www.cnblogs.com/librarookie)
+16. [木偶Roy-博客园](https://www.cnblogs.com/jyroy)
+17. [李春港-博客园](https://www.cnblogs.com/lcgbk)
 
 ### 汇总
 

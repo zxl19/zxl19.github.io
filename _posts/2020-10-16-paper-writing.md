@@ -126,8 +126,8 @@ pinned: false
 
 ## 审稿人意见回复
 
-1. 参考[知乎问题](https://www.zhihu.com/question/370758333)；
-2. 参考[B站视频](https://www.bilibili.com/video/BV1ix411o7qq)进行对线\doge；
+1. 参考[这个知乎问题](https://www.zhihu.com/question/370758333)进行回复；
+2. 参考[这个B站视频](https://www.bilibili.com/video/BV1ix411o7qq)进行对线:dog:；
 
 ## 作者信息
 
@@ -148,6 +148,13 @@ pinned: false
 
 1. [中国计算机学会推荐国际学术会议和期刊目录](https://www.ccf.org.cn/c/2019-04-25/663625.shtml)
 2. [汽车工程领域高质量科技期刊分级目录](http://m.sae-china.org/a4040.html)
+
+## 写作规范
+
+1. [MLNLP-World/Paper-Writing-Tips](https://github.com/MLNLP-World/Paper-Writing-Tips)
+2. [guanyingc/latex_paper_writing_tips](https://github.com/guanyingc/latex_paper_writing_tips)
+3. [wangdongdut/PaperWriting](https://github.com/wangdongdut/PaperWriting)
+4. [cooelf/PaperWritingTips](https://github.com/cooelf/PaperWritingTips)
 
 ### 英文写作
 

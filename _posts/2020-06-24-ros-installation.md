@@ -46,5 +46,5 @@ Website may be down.
 
 ## 参考
 
-1. [Ubuntu install of ROS Kinetic](http://wiki.ros.org/kinetic/Installation/Ubuntu)
+1. [Ubuntu install of ROS Kinetic-ROS Wiki](http://wiki.ros.org/kinetic/Installation/Ubuntu)
 2. [sudo rosdep init失败-CSDN博客](https://blog.csdn.net/Bryantaoli/article/details/104730474)

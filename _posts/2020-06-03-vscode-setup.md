@@ -23,6 +23,17 @@ pinned: false
 
 扩展配置（按照字母顺序排序）。
 
+### :emojisense:
+
+在输入emoji时自动补全，emoji格式为`:emoji:`。
+
+示例：
+
+```text
+:smile:
+:dog:
+```
+
 ### AsciiDoc
 
 为AsciiDoc格式文档提供语言支持。

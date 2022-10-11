@@ -53,16 +53,19 @@ C++学习资料存档。
 1. [Tencent/secguide](https://github.com/Tencent/secguide)
 2. [tangtangcoding/C-C-](https://github.com/tangtangcoding/C-C-)
 3. [facontidavide/CPP_Optimizations_Diary](https://github.com/facontidavide/CPP_Optimizations_Diary)
+4. [PickNikRobotics/roscpp_code_format](https://github.com/PickNikRobotics/roscpp_code_format)
 
 ## 其他网站
 
 1. [Google C++ Style Guide](https://google.github.io/styleguide/cppguide.html)
 2. [Google开源项目风格指南-C++](https://zh-google-styleguide.readthedocs.io/en/latest/google-cpp-styleguide/contents/)
-3. [C++教程-菜鸟教程](https://www.runoob.com/cplusplus/cpp-tutorial.html)
-4. [cplusplus](http://www.cplusplus.com)
-5. [cppreference](https://en.cppreference.com/w/)
-6. [C语言中文网](http://c.biancheng.net)
-7. [comp.lang.c Frequently Asked Questions](https://c-faq.com)
+3. [C++ Core Guidelines](https://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines.html)
+4. [ROS C++ Style Guide-ROS Wiki](http://wiki.ros.org/CppStyleGuide)
+5. [C++教程-菜鸟教程](https://www.runoob.com/cplusplus/cpp-tutorial.html)
+6. [cplusplus](http://www.cplusplus.com)
+7. [cppreference](https://en.cppreference.com/w/)
+8. [C语言中文网](http://c.biancheng.net)
+9. [comp.lang.c Frequently Asked Questions](https://c-faq.com)
 
 ## 书籍
 
