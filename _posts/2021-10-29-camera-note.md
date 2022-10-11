@@ -117,12 +117,13 @@ pinned: false
 #### 三脚架
 
 1. [如何挑选适合旅行的三脚架 - 旅行三脚架选购指南](https://www.bilibili.com/video/BV1UE411T7TJ)
-2. [【DPReview】胡子哥帮你挑大型旅行三脚架](https://www.bilibili.com/video/BV1NF411G7f7)
-3. [【DPReview】摄影脚架 vs 视频脚架](https://www.bilibili.com/video/BV117411m7yv)
-4. [【DPReview】如何选择正确的三脚架云台：球形、三向、齿轮](https://www.bilibili.com/video/BV1hY4y137hR)
-5. [推荐一个三脚架-马小路ET2541，我的惨痛经历告诉你买三脚架别再花冤枉钱了](https://www.bilibili.com/video/BV1e5411L7rz)
-6. [强烈推荐，399元超级性价比便携三脚架极马小路C15I，别错过这车了](https://www.bilibili.com/video/BV1uq4y1u7bN)
-7. [都说让我试试马小路三脚架，我用了并且还爱上了](https://www.bilibili.com/video/BV1sU4y1n7Py)
+2. [【毒德大学字幕组】DPReview 胡子哥帮你挑旅行三脚架](https://www.bilibili.com/video/BV1tE411o74M)
+3. [【DPReview】胡子哥帮你挑大型旅行三脚架](https://www.bilibili.com/video/BV1NF411G7f7)
+4. [【DPReview】摄影脚架 vs 视频脚架](https://www.bilibili.com/video/BV117411m7yv)
+5. [【DPReview】如何选择正确的三脚架云台：球形、三向、齿轮](https://www.bilibili.com/video/BV1hY4y137hR)
+6. [推荐一个三脚架-马小路ET2541，我的惨痛经历告诉你买三脚架别再花冤枉钱了](https://www.bilibili.com/video/BV1e5411L7rz)
+7. [强烈推荐，399元超级性价比便携三脚架极马小路C15I，别错过这车了](https://www.bilibili.com/video/BV1uq4y1u7bN)
+8. [都说让我试试马小路三脚架，我用了并且还爱上了](https://www.bilibili.com/video/BV1sU4y1n7Py)
 
 #### UV镜
 
