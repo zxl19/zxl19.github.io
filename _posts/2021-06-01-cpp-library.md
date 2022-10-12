@@ -36,7 +36,7 @@ pinned: false
 ## 基础库
 
 1. [facebook/folly](https://github.com/facebook/folly)
-2. [idealvin/co](https://github.com/idealvin/co)
+2. [idealvin/coost](https://github.com/idealvin/coost)
 
 ## 配置参数
 

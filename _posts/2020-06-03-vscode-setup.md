@@ -25,7 +25,7 @@ pinned: false
 
 ### :emojisense:
 
-在输入emoji时自动补全，emoji格式为`:emoji:`。
+在输入emoji时自动补全，emoji格式为`:emoji:`，输入`::`触发提示。
 
 示例：
 
@@ -132,6 +132,8 @@ CMake扩展。
 
 提供一系列编码/解码、加密/解密工具，例如base32、SHA512等。目前base64加密中文存在bug，会出现乱码。
 
+鼠标右键菜单内操作。
+
 ### Draw.io Integration
 
 集成Draw.io功能，绘制流程图。
@@ -141,6 +143,13 @@ CMake扩展。
 ### GitHub Pull Requests and Issues
 
 为VS Code提供GitHub支持。
+
+### gitignore
+
+从[github/gitignore](https://github.com/github/gitignore)仓库中拉取`.gitignore`文件模板。
+
+1. `Ctrl`+`Shift`+`P`，选择`Add gitignore`；
+2. 选择语言，在工程根目录下创建`.gitignore`文件；
 
 ### GitLens——Git supercharged
 

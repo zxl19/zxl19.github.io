@@ -138,7 +138,15 @@ value5 = config.get('SECTION_NAME', 'key5', fallback = 'fallback_value')
 value1 = config.get('SECTION_NAME', 'key1', fallback = 'fallback_value')
 ```
 
+## 使用第三方库
+
+1. [yaml/pyyaml](https://github.com/yaml/pyyaml)
+2. [google/fiddle](https://github.com/google/fiddle)
+3. [pyscaffold/configupdater](https://github.com/pyscaffold/configupdater)
+
 ## 参考
 
 1. [configparser-Python Documentation](https://docs.python.org/3/library/configparser.html)
 2. [读取配置文件-Stack Overflow](https://stackoverflow.com/questions/19379120/how-to-read-a-config-file-using-python)
+3. [cacois/python-configparser-examples](https://github.com/cacois/python-configparser-examples)
+4. [jaraco/configparser](https://github.com/jaraco/configparser)
