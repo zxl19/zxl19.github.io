@@ -58,3 +58,4 @@ pinned: false
 
 1. [目前国内比较优秀的博客作者有哪些？-VeryCB的回答-知乎](https://www.zhihu.com/question/19928148/answer/13378094)
 2. [我最爱的十大博客，你有看吗？-高级开发工程狮的文章-知乎](https://zhuanlan.zhihu.com/p/377302681)
+3. [DLonng/AI-Notes](https://github.com/DLonng/AI-Notes)
