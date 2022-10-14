@@ -78,4 +78,5 @@ C++学习资料存档。
 
 1. [如何塑造一个拿的出手的GitHub账号？-GitHubPorn的回答-知乎](https://www.zhihu.com/question/47567490/answer/1866897272)
 2. [学习C++，应该循序渐进的看哪些书？-嘉炜的回答-知乎](https://www.zhihu.com/question/20410487/answer/15055637)
-3. [有什么高质量的现代C++风格的开源代码?-知乎用户的回答-知乎](https://www.zhihu.com/question/23153437/answer/1962068242)
+3. [有什么高质量的现代C++风格的开源代码?-夏天的回答-知乎](https://www.zhihu.com/question/23153437/answer/1962068242)
+4. [ClangFormatStyleOptions](https://clang.llvm.org/docs/ClangFormatStyleOptions.html)

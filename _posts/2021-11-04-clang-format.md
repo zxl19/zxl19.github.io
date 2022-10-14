@@ -39,6 +39,18 @@ clang-format -style=google -dump-config > .clang-format
 
 在VS Code中的C/C++扩展中设置`可执行文件的完整路径`为`/usr/bin/clang-format`。
 
+## 使用
+
+### 局部关闭格式化
+
+在局部关闭格式化，保证这部分代码的可读性，常用于数组、矩阵的初始化。
+
+```cpp
+// clang-format off
+// 这部分代码不会被clang-format格式化
+// clang-format on
+```
+
 ## 参考
 
 1. [ClangFormat](https://clang.llvm.org/docs/ClangFormat.html)
