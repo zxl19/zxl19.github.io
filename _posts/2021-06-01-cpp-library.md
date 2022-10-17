@@ -87,6 +87,7 @@ pinned: false
 4. [autodiff/autodiff](https://github.com/autodiff/autodiff)
 5. [PatWie/CppNumericalSolvers](https://github.com/PatWie/CppNumericalSolvers)
 6. [johnmcfarlane/cnl](https://github.com/johnmcfarlane/cnl)
+7. [bgrimstad/splinter](https://github.com/bgrimstad/splinter)
 
 ## 加密
 
