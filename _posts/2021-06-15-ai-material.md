@@ -31,6 +31,7 @@ pinned: false
 1. [afshinea/stanford-cs-229-machine-learning](https://github.com/afshinea/stanford-cs-229-machine-learning)
 2. [afshinea/stanford-cs-230-deep-learning](https://github.com/afshinea/stanford-cs-230-deep-learning)
 3. [afshinea/stanford-cs-221-artificial-intelligence](https://github.com/afshinea/stanford-cs-221-artificial-intelligence)
+4. [shervinea/cheatsheet-translation](https://github.com/shervinea/cheatsheet-translation)
 
 ## 神经网络可视化
 

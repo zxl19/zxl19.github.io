@@ -40,7 +40,7 @@ pinned: false
 
 ### Better Comments
 
-根据注释类型生成不同样式的注释。
+根据注释类型生成不同样式的注释，类似的扩展还有Colorful Comments。
 
 示例：
 
@@ -302,6 +302,34 @@ Atom的深色主题，类似的主题还有City Lights theme、Material Theme（
 
 1. 在设置中开启扩展；
 2. 在设置中关闭振动特效，可以获得更好的显示效果。
+
+### Project Manager
+
+管理项目工程，实现快速切换。
+
+1. 打开需要管理的项目工程，并将其保存到收藏夹中：
+
+   - 方法一：`Ctrl`+`Shift`+`P`，输入`Project Manager: Save Project`；
+   - 方法二：在侧边栏中点击保存图标；
+
+2. 修改`projects.json`文件，添加标签：
+
+   - 方法一：`Ctrl`+`Shift`+`P`，输入`Project Manager: Edit Projects`；
+   - 方法二：在侧边栏中点击编辑图标；
+
+   示例：
+
+   ```json
+   {
+      "name": "zxl19.github.io",
+      "rootPath": "/home/zxl19.github.io",
+      "paths": [],
+      "tags": [
+         "zxl19"
+      ],
+      "enabled": true
+   }
+   ```
 
 ### Python
 
