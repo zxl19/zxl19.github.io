@@ -23,6 +23,11 @@ pinned: false
 
 扩展配置（按照字母顺序排序）。
 
+```text
+Occam's razor: entities should not be multiplied beyond necessity.
+奥卡姆剃刀原理：如无必要，勿增实体。
+```
+
 ### :emojisense:
 
 在输入emoji时自动补全，emoji格式为`:emoji:`，输入`::`触发提示。
@@ -333,7 +338,7 @@ Atom的深色主题，类似的主题还有City Lights theme、Material Theme（
 
 ### Python
 
-Python语言扩展，安装Pylance、Jupyter、Jupyter Keymap、Jupyter Notebook Renderers使用增强功能和提高使用体验。
+Python语言扩展，安装Pylance、Jupyter（包括Jupyter Cell Tags、Jupyter Keymap、Jupyter Notebook Renderers、Jupyter Slide Show）使用增强功能和提高使用体验。
 
 ### Rainbow Fart
 
