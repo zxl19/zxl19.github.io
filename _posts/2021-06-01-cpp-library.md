@@ -98,6 +98,10 @@ pinned: false
 
 1. [protocolbuffers/protobuf](https://github.com/protocolbuffers/protobuf)
 
+## 多态
+
+1. [microsoft/proxy](https://github.com/microsoft/proxy)
+
 ## 参考
 
 1. [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp)

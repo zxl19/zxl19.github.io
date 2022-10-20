@@ -55,6 +55,7 @@ The main repository serves as a curated list of awesome lists.
 3. [youngguncho/awesome-slam-datasets](https://github.com/youngguncho/awesome-slam-datasets)
 4. [OpenSLAM/awesome-SLAM-list](https://github.com/OpenSLAM/awesome-SLAM-list)
 5. [SilenceOverflow/Awesome-SLAM](https://github.com/SilenceOverflow/Awesome-SLAM)
+6. [szenergy/awesome-lidar](https://github.com/szenergy/awesome-lidar)
 
 ### 自动驾驶
 
@@ -112,8 +113,9 @@ The main repository serves as a curated list of awesome lists.
 ## 科研
 
 1. [jbhuang0604/awesome-tips](https://github.com/jbhuang0604/awesome-tips)
-2. [writing-resources/awesome-scientific-writing](https://github.com/writing-resources/awesome-scientific-writing)
-3. [alirezasamar/awesome-phd](https://github.com/alirezasamar/awesome-phd)
+2. [JunweiLiang/awesome_lists](https://github.com/JunweiLiang/awesome_lists)
+3. [writing-resources/awesome-scientific-writing](https://github.com/writing-resources/awesome-scientific-writing)
+4. [alirezasamar/awesome-phd](https://github.com/alirezasamar/awesome-phd)
 
 ## LaTeX
 
