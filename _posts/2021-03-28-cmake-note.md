@@ -37,7 +37,7 @@ pinned: true
 ├── scripts         # 存放Python脚本，用于后处理和可视化
 ├── src             # 存放源文件，模块化
 ├── test            # 存放单元测试文件，测试各个模块
-└── thirdparty      # 存放第三方库
+└── third_party     # 存放非本地安装的第三方库
 ```
 
 ### 非ROS工程
@@ -64,6 +64,7 @@ find_package(GTSAM REQUIRED QUIET)
 find_package(gflags REQUIRED QUIET)
 find_package(glog REQUIRED QUIET)
 find_package(gtest REQUIRED QUIET)
+set(SOPHUS_INCLUDE_DIRS "${PROJECT_SOURCE_DIR}/third_party/Sophus")
 
 include_directories(
     include
@@ -73,6 +74,7 @@ include_directories(
     ${OpenCV_INCLUDE_DIRS}
     ${G2O_INCLUDE_DIRS}
     ${GTSAM_INCLUDE_DIRS}
+    ${SOPHUS_INCLUDE_DIRS}
 )
 
 # link_directories(
@@ -210,18 +212,21 @@ target_link_libraries()
 
 | 变量名 | 含义 |
 | :------ | :------|
-| PROJECT_NAME | 工程名 |
-| CMAKE_BUILD_TYPE | 编译模式 |
-| CMAKE_CXX_STANDARD | 使用的C++标准 |
-| CMAKE_CXX_STANDARD_REQUIRED | 是否强制使用指定的C++标准 |
-| CMAKE_CXX_FLAGS | 编译参数 |
-| CMAKE_CXX_FLAGS_DEBUG | Debug模式下的编译参数 |
-| CMAKE_CXX_FLAGS_RELEASE | Release模式下的编译参数 |
-| XXX_FOUND | XXX库是否找到 |
-| XXX_VERSION | XXX库版本 |
-| XXX_INCLUDE_DIRS | XXX库的头文件路径 |
-| XXX_LIBRARY_DIRS | XXX库的链接路径 |
-| XXX_LIBRARIES | XXX库的库名 |
+| `PROJECT_NAME` | 工程名 |
+| `PROJECT_SOURCE_DIR` | 工程顶层目录 |
+| `PROJECT_BINARY_DIR` | 工程编译目录 |
+| `CMAKE_BUILD_TYPE` | 编译模式 |
+| `CMAKE_CXX_STANDARD` | 使用的C++标准 |
+| `CMAKE_CXX_STANDARD_REQUIRED` | 是否强制使用指定的C++标准 |
+| `CMAKE_CXX_FLAGS` | 编译参数 |
+| `CMAKE_CXX_FLAGS_DEBUG` | Debug模式下的编译参数 |
+| `CMAKE_CXX_FLAGS_RELEASE` | Release模式下的编译参数 |
+| `CMAKE_MODULE_PATH` | `.cmake`文件所在路径 |
+| `XXX_FOUND` | `XXX`库是否找到 |
+| `XXX_VERSION` | `XXX`库版本 |
+| `XXX_INCLUDE_DIRS` | `XXX`库的头文件路径 |
+| `XXX_LIBRARY_DIRS` | `XXX`库的链接路径 |
+| `XXX_LIBRARIES` | `XXX`库的库名 |
 
 ## 学习资源
 
@@ -264,6 +269,8 @@ target_link_libraries()
 13. [koide3/hdl_graph_slam](https://github.com/koide3/hdl_graph_slam)
 14. [add_definitions()-CSDN博客](https://blog.csdn.net/fb_941219/article/details/107376017)
 15. [编译选项设置区别-CSDN博客](https://blog.csdn.net/10km/article/details/51731959)
-16. [变量-简书](https://www.jianshu.com/p/1827cd86d576)
-17. [CMake如何入门？-0xCCCCCCCC的回答-知乎](https://www.zhihu.com/question/58949190/answer/999701073)
-18. [CMake和Modern CMake相关资料（不定期补充）-迦非喵的文章-知乎](https://zhuanlan.zhihu.com/p/205324774)
+16. [变量1-简书](https://www.jianshu.com/p/1827cd86d576)
+17. [变量2-CSDN博客](https://blog.csdn.net/juluwangriyue/article/details/123494008)
+18. [变量3-CSDN博客](https://blog.csdn.net/wzj_110/article/details/116674655)
+19. [CMake如何入门？-0xCCCCCCCC的回答-知乎](https://www.zhihu.com/question/58949190/answer/999701073)
+20. [CMake和Modern CMake相关资料（不定期补充）-迦非喵的文章-知乎](https://zhuanlan.zhihu.com/p/205324774)

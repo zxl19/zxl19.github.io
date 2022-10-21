@@ -26,10 +26,11 @@ pinned: false
 2. [996icu/996.ICU](https://github.com/996icu/996.ICU)
 3. [badges/shields](https://github.com/badges/shields)
 4. [alexandresanlim/Badges4-README.md-Profile](https://github.com/alexandresanlim/Badges4-README.md-Profile)
-5. [antonkomarev/github-profile-views-counter](https://github.com/antonkomarev/github-profile-views-counter)
-6. [jwenjian/visitor-badge](https://github.com/jwenjian/visitor-badge)
-7. [gjbae1212/hit-counter](https://github.com/gjbae1212/hit-counter)
-8. [a-maliarov/awesome-shields](https://github.com/a-maliarov/awesome-shields)
+5. [trekhleb/state-of-the-art-shitcode](https://github.com/trekhleb/state-of-the-art-shitcode)
+6. [antonkomarev/github-profile-views-counter](https://github.com/antonkomarev/github-profile-views-counter)
+7. [jwenjian/visitor-badge](https://github.com/jwenjian/visitor-badge)
+8. [gjbae1212/hit-counter](https://github.com/gjbae1212/hit-counter)
+9. [a-maliarov/awesome-shields](https://github.com/a-maliarov/awesome-shields)
 
 ## 统计信息
 

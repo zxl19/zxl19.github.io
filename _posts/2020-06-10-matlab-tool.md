@@ -25,6 +25,10 @@ pinned: false
 
 高质量图片导出工具。[[链接]](https://github.com/altmany/export_fig)
 
+## FigureBest
+
+MATLAB绘图美化插件。[[链接]](https://github.com/tutusjtu/FigureBest-2.0)
+
 ## MAP-LAB
 
 地图信息可视化，建议使用完整版。部分功能使用M_MAP工具箱实现。[[链接1]](http://www.dimitriospiretzidis.com/maplab_home.html)[[链接2]](https://www.eoas.ubc.ca/~rich/map.html)
@@ -43,11 +47,11 @@ pinned: false
 
 ## Matlab-Graph-Optimization
 
-利用MATLAB进行因子图优化。[[链接]](https://github.com/UTS-CAS/Matlab-Graph-Optimization)
+使用MATLAB进行因子图优化。[[链接]](https://github.com/UTS-CAS/Matlab-Graph-Optimization)
 
 ## MATLABRobotics
 
-利用MATLAB实现的机器人学常用算法。[[链接]](https://github.com/AtsushiSakai/MATLABRobotics)
+使用MATLAB实现的机器人学常用算法。[[链接]](https://github.com/AtsushiSakai/MATLABRobotics)
 
 ## MATLAB Schemer
 
@@ -62,12 +66,13 @@ pinned: false
 1. [Beautiful and distinguishable line colors + colormap-MathWorks File Exchange](https://ww2.mathworks.cn/matlabcentral/fileexchange/42673-beautiful-and-distinguishable-line-colors-colormap)
 2. [Calculate Filter Coefficients for Phaseless, Low Pass, Butterworth Filter (compliant with SAE-J211)-MathWorks File Exchange](https://www.mathworks.com/matlabcentral/fileexchange/61852-calculate-filter-coefficients-for-phaseless-low-pass-butterworth-filter-compliant-with-sae-j211)
 3. [altmany/export_fig](https://github.com/altmany/export_fig)
-4. [MAP-LAB-Full](http://www.dimitriospiretzidis.com/maplab_home.html)
-5. [M_MAP](https://www.eoas.ubc.ca/~rich/map.html)
-6. [mattools/matGeom](https://github.com/mattools/matGeom)
-7. [matlab2tikz/matlab2tikz](https://github.com/matlab2tikz/matlab2tikz)
-8. [alexbuczynsky/MATLAB-GPS-Calculations](https://github.com/alexbuczynsky/MATLAB-GPS-Calculations)
-9. [UTS-CAS/Matlab-Graph-Optimization](https://github.com/UTS-CAS/Matlab-Graph-Optimization)
-10. [AtsushiSakai/MATLABRobotics](https://github.com/AtsushiSakai/MATLABRobotics)
-11. [scottclowe/matlab-schemer](https://github.com/scottclowe/matlab-schemer)
-12. [petercorke/robotics-toolbox-matlab](https://github.com/petercorke/robotics-toolbox-matlab)
+4. [tutusjtu/FigureBest-2.0](https://github.com/tutusjtu/FigureBest-2.0)
+5. [MAP-LAB-Full](http://www.dimitriospiretzidis.com/maplab_home.html)
+6. [M_MAP](https://www.eoas.ubc.ca/~rich/map.html)
+7. [mattools/matGeom](https://github.com/mattools/matGeom)
+8. [matlab2tikz/matlab2tikz](https://github.com/matlab2tikz/matlab2tikz)
+9. [alexbuczynsky/MATLAB-GPS-Calculations](https://github.com/alexbuczynsky/MATLAB-GPS-Calculations)
+10. [UTS-CAS/Matlab-Graph-Optimization](https://github.com/UTS-CAS/Matlab-Graph-Optimization)
+11. [AtsushiSakai/MATLABRobotics](https://github.com/AtsushiSakai/MATLABRobotics)
+12. [scottclowe/matlab-schemer](https://github.com/scottclowe/matlab-schemer)
+13. [petercorke/robotics-toolbox-matlab](https://github.com/petercorke/robotics-toolbox-matlab)

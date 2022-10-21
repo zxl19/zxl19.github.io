@@ -102,6 +102,12 @@ pinned: false
 
 1. [microsoft/proxy](https://github.com/microsoft/proxy)
 
+## 有限状态机
+
+1. [BehaviorTree/BehaviorTree.CPP](https://github.com/BehaviorTree/BehaviorTree.CPP)
+2. [boost-ext/sml](https://github.com/boost-ext/sml)
+3. [digint/tinyfsm](https://github.com/digint/tinyfsm)
+
 ## 参考
 
 1. [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp)

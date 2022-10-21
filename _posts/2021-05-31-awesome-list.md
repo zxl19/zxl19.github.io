@@ -56,6 +56,7 @@ The main repository serves as a curated list of awesome lists.
 4. [OpenSLAM/awesome-SLAM-list](https://github.com/OpenSLAM/awesome-SLAM-list)
 5. [SilenceOverflow/Awesome-SLAM](https://github.com/SilenceOverflow/Awesome-SLAM)
 6. [szenergy/awesome-lidar](https://github.com/szenergy/awesome-lidar)
+7. [520xyxyzq/awesome-object-SLAM](https://github.com/520xyxyzq/awesome-object-SLAM)
 
 ### 自动驾驶
 
@@ -133,6 +134,10 @@ The main repository serves as a curated list of awesome lists.
 1. [jkup/awesome-personal-blogs](https://github.com/jkup/awesome-personal-blogs)
 2. [markodenic/awesome-tech-blogs](https://github.com/markodenic/awesome-tech-blogs)
 3. [learn-anything/blogs](https://github.com/learn-anything/blogs)
+
+## AI绘画
+
+1. [hua1995116/awesome-ai-painting](https://github.com/hua1995116/awesome-ai-painting)
 
 ## 参考
 

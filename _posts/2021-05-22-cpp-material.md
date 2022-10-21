@@ -31,6 +31,7 @@ C++学习资料存档。
 5. [TheAlgorithms/C-Plus-Plus](https://github.com/TheAlgorithms/C-Plus-Plus)
 6. [wuye9036/CppTemplateTutorial](https://github.com/wuye9036/CppTemplateTutorial)
 7. [cpp-best-practices/cppbestpractices](https://github.com/cpp-best-practices/cppbestpractices)
+8. [tangtangcoding/C-C-](https://github.com/tangtangcoding/C-C-)
 
 ### C++新特性
 
@@ -51,7 +52,7 @@ C++学习资料存档。
 ### 代码规范
 
 1. [Tencent/secguide](https://github.com/Tencent/secguide)
-2. [tangtangcoding/C-C-](https://github.com/tangtangcoding/C-C-)
+2. [trekhleb/state-of-the-art-shitcode](https://github.com/trekhleb/state-of-the-art-shitcode)
 3. [facontidavide/CPP_Optimizations_Diary](https://github.com/facontidavide/CPP_Optimizations_Diary)
 4. [PickNikRobotics/roscpp_code_format](https://github.com/PickNikRobotics/roscpp_code_format)
 

@@ -16,24 +16,35 @@ pinned: false
 ## Sophus Hello World
 
 1. Sophus是基于Eigen实现的李群和李代数库；
-2. 使用中需包含如下头文件：
+2. Sophus是纯头文件库，使用时需要包含以下头文件：
 
     ```cpp
     #include "sophus/so3.hpp"       // SO(3)
     #include "sophus/se3.hpp"       // SE(3)
     ```
 
-3. Sophus官方并没有提供使用教程，以下内容整理自《视觉SLAM十四讲》；
+3. Sophus官方并没有提供安装和使用教程，以下内容主要整理自《视觉SLAM十四讲》；
+
+## CMakeLists
+
+```cmake
+# 方法一：本地安装
+find_package(Sophus REQUIRED QUIET)
+# 方法二：非本地安装
+set(SOPHUS_INCLUDE_DIRS "${PROJECT_SOURCE_DIR}/third_party/Sophus")
+
+include_directories(${SOPHUS_INCLUDE_DIRS})
+```
 
 ## SO(3)位姿
 
 ```cpp
 Eigen::Matrix3d R;
 Eigen::Quaterniond q(R);
-Sophus::SO3d SO3_R(R);              // Sophus::SO3d可以直接从旋转矩阵构造
-Sophus::SO3d SO3_q(q);              // 也可以通过四元数构造，二者是等价的
-SO3_R.matrix()                      // 转成矩阵
-SO3_q.matrix()                      // 转成矩阵
+Sophus::SO3d SO3_R(R);                  // Sophus::SO3d可以直接从旋转矩阵构造
+Sophus::SO3d SO3_q(q);                  // 也可以通过四元数构造，二者是等价的
+Eigen::Matrix3d R1 = SO3_R.matrix();    // 转成矩阵
+Eigen::Matrix3d R2 = SO3_q.matrix();    // 转成矩阵
 
 // 使用对数映射获得李代数
 Vector3d so3 = SO3_R.log();
@@ -43,7 +54,7 @@ Sophus::SO3d::hat(so3)
 Sophus::SO3d::vee(Sophus::SO3d::hat(so3))
 
 // 增量扰动模型的更新
-Vector3d update_so3(1e-4, 0, 0);    // 更新量
+Vector3d update_so3(1e-4, 0, 0);        // 更新量
 Sophus::SO3d SO3_updated = Sophus::SO3d::exp(update_so3) * SO3_R;
 ```
 
@@ -53,10 +64,12 @@ Sophus::SO3d SO3_updated = Sophus::SO3d::exp(update_so3) * SO3_R;
 Eigen::Matrix3d R;
 Eigen::Quaterniond q(R);
 Vector3d t(1, 0, 0);
-Sophus::SE3d SE3_Rt(R, t);          // 从R，t构造SE(3)
-Sophus::SE3d SE3_qt(q, t);          // 从q，t构造SE(3)
-SE3_Rt.matrix()                     // 转成矩阵
-SE3_qt.matrix()                     // 转成矩阵
+Sophus::SE3d SE3_Rt(R, t);                      // 从R，t构造SE(3)
+Sophus::SE3d SE3_qt(q, t);                      // 从q，t构造SE(3)
+Eigen::Matrix4d T1 = SE3_Rt.matrix();           // 转成矩阵
+Eigen::Matrix4d T2 = SE3_qt.matrix();           // 转成矩阵
+Eigen::Matrix3d R1 = SE3_Rt.so3().matrix();     // 取旋转矩阵
+Eigen::Vector3d t1 = SE3_Rt.translation();      // 取平移向量
 
 // 李代数se(3)是一个六维向量，方便起见先typedef一下
 typedef Eigen::Matrix<double, 6, 1> Vector6d;
@@ -68,7 +81,7 @@ Sophus::SE3d::hat(se3)
 Sophus::SE3d::vee(Sophus::SE3d::hat(se3))
 
 // 增量扰动模型的更新
-Vector6d update_se3;                // 更新量
+Vector6d update_se3;                            // 更新量
 update_se3.setZero();
 update_se3(0, 0) = 1e-4;
 Sophus::SE3d SE3_updated = Sophus::SE3d::exp(update_se3) * SE3_Rt;
@@ -77,6 +90,7 @@ Sophus::SE3d SE3_updated = Sophus::SE3d::exp(update_se3) * SE3_Rt;
 ## 参考
 
 1. [strasdat/Sophus](https://github.com/strasdat/Sophus)
-2. [Sophus库的安装和使用教程-CSDN博客](https://blog.csdn.net/u011092188/article/details/77833022)
-3. [gaoxiang12/slambook](https://github.com/gaoxiang12/slambook)
-4. [gaoxiang12/slambook2](https://github.com/gaoxiang12/slambook2)
+2. [CMakeLists添加Sophus库-CSDN博客](https://blog.csdn.net/weixin_38213410/article/details/98114423)
+3. [Sophus库的安装和使用教程-CSDN博客](https://blog.csdn.net/u011092188/article/details/77833022)
+4. [gaoxiang12/slambook](https://github.com/gaoxiang12/slambook)
+5. [gaoxiang12/slambook2](https://github.com/gaoxiang12/slambook2)

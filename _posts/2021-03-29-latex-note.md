@@ -680,6 +680,11 @@ int main()
 \cite{name1, name2}
 ```
 
+#### 文献格式化工具
+
+1. [yuchenlin/rebiber](https://github.com/yuchenlin/rebiber)
+2. [MLNLP-World/SimBiber](https://github.com/MLNLP-World/SimBiber)
+
 ## 绘图
 
 TODO：单独整理。

@@ -28,14 +28,14 @@ pinned: false
 2. [MATLAB绘图类型](https://ww2.mathworks.cn/help/matlab/creating_plots/types-of-matlab-plots.html)
 3. [MATLAB Plot Gallery](https://www.mathworks.com/products/matlab/plot-gallery.html)
 4. [Publication Quality Graphics](https://ww2.mathworks.cn/matlabcentral/fileexchange/35246-matlab-plot-gallery-publication-quality-graphics?focused=6792997&tab=example%EF%BC%89)
-5. [tutusjtu/FigureBest-2.0](https://github.com/tutusjtu/FigureBest-2.0)
-6. [LimHyungTae/paper_quality_plot.matlab](https://github.com/LimHyungTae/paper_quality_plot.matlab)
+5. [LimHyungTae/paper_quality_plot.matlab](https://github.com/LimHyungTae/paper_quality_plot.matlab)
 
 ### Python
 
 1. [rougier/matplotlib-cheatsheet](https://github.com/rougier/matplotlib-cheatsheet)
-2. [Matplotlib Gallery](https://matplotlib.org/stable/gallery/index.html)
-3. [Seaborn Example Gallery](https://seaborn.pydata.org/examples/index.html)
+2. [guanyingc/python_plot_utils](https://github.com/guanyingc/python_plot_utils)
+3. [Matplotlib Gallery](https://matplotlib.org/stable/gallery/index.html)
+4. [Seaborn Example Gallery](https://seaborn.pydata.org/examples/index.html)
 
 ## 流程图&示意图
 
