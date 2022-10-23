@@ -52,3 +52,4 @@ RawTherapee是一款开源、跨平台的免费图像处理软件。
 
 1. [Film Simulation-RawPedia](http://rawpedia.rawtherapee.com/Film_Simulation)
 2. [RawTherapee 免费胶片模拟软件上手指南 - HaldCLUT](https://www.bilibili.com/video/BV17p4y1s7o6)
+3. [cedeber/hald-clut](https://github.com/cedeber/hald-clut)

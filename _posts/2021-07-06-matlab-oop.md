@@ -101,7 +101,7 @@ end
 ### 视频
 
 1. [Developing Classes Overview](https://www.mathworks.com/videos/developing-classes-overview-68982.html)
-2. [Object-Oriented Programming in MATLAB 丨 Master Class with Loren Shure](https://www.bilibili.com/video/BV1EA411g71G?p=1)
+2. [【官方油管搬运】（英字）和大师学MATLAB编程 （Loren Shure的课堂）](https://www.bilibili.com/video/BV1EA411g71G?p=1)
 
 ## 参考
 

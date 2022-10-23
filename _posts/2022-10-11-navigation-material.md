@@ -36,8 +36,8 @@ pinned: false
 ### 网站
 
 1. [高精度捷联惯性导航算法](http://www.psins.org.cn)
-2. [卡尔曼滤波与组合导航原理【西北工业大学 严恭敏】-bilibili](https://www.bilibili.com/video/BV11K411J7gp)
-3. [PSINS导航工具箱入门与详解【西北工业大学 严恭敏】-bilibili](https://www.bilibili.com/video/BV1R54y1E7ut)
+2. [卡尔曼滤波与组合导航原理【西北工业大学 严恭敏】](https://www.bilibili.com/video/BV11K411J7gp)
+3. [PSINS导航工具箱入门与详解【西北工业大学 严恭敏】](https://www.bilibili.com/video/BV1R54y1E7ut)
 
 ### GitHub
 
