@@ -56,7 +56,8 @@ The main repository serves as a curated list of awesome lists.
 4. [OpenSLAM/awesome-SLAM-list](https://github.com/OpenSLAM/awesome-SLAM-list)
 5. [SilenceOverflow/Awesome-SLAM](https://github.com/SilenceOverflow/Awesome-SLAM)
 6. [szenergy/awesome-lidar](https://github.com/szenergy/awesome-lidar)
-7. [520xyxyzq/awesome-object-SLAM](https://github.com/520xyxyzq/awesome-object-SLAM)
+7. [zhouyong1234/SLAM-All-In-One](https://github.com/zhouyong1234/SLAM-All-In-One)
+8. [520xyxyzq/awesome-object-SLAM](https://github.com/520xyxyzq/awesome-object-SLAM)
 
 ### 自动驾驶
 
@@ -83,7 +84,8 @@ The main repository serves as a curated list of awesome lists.
 ### 计算机视觉
 
 1. [jbhuang0604/awesome-computer-vision](https://github.com/jbhuang0604/awesome-computer-vision)
-2. [chrieke/awesome-satellite-imagery-datasets](https://github.com/chrieke/awesome-satellite-imagery-datasets)
+2. [yenchenlin/awesome-NeRF](https://github.com/yenchenlin/awesome-NeRF)
+3. [chrieke/awesome-satellite-imagery-datasets](https://github.com/chrieke/awesome-satellite-imagery-datasets)
 
 ## GitHub项目美化
 
@@ -121,7 +123,7 @@ The main repository serves as a curated list of awesome lists.
 ## LaTeX
 
 1. [posquit0/Awesome-CV](https://github.com/posquit0/Awesome-CV)
-2. [awesome-resume-for-chinese](https://github.com/dyweb/awesome-resume-for-chinese)
+2. [dyweb/awesome-resume-for-chinese](https://github.com/dyweb/awesome-resume-for-chinese)
 3. [xiaohanyu/awesome-tikz](https://github.com/xiaohanyu/awesome-tikz)
 4. [egeerardyn/awesome-LaTeX](https://github.com/egeerardyn/awesome-LaTeX)
 5. [xinychen/awesome-latex-drawing](https://github.com/xinychen/awesome-latex-drawing)
