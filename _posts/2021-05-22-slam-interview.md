@@ -78,12 +78,15 @@ SLAM方向面试题存档。
 
 1. [QSCTech/zju-icicles](https://github.com/QSCTech/zju-icicles)
 2. [PKUanonym/REKCARC-TSC-UHT](https://github.com/PKUanonym/REKCARC-TSC-UHT)
-3. [USTC-Resource/USTC-Course](https://github.com/USTC-Resource/USTC-Course)
-4. [c-hj/SJTU-Courses](https://github.com/c-hj/SJTU-Courses)
-5. [missing-semester/missing-semester](https://github.com/missing-semester/missing-semester)
-6. [HuangCongQing/UCAS_Course_2019](https://github.com/HuangCongQing/UCAS_Course_2019)
-7. [15172658790/Blog](https://github.com/15172658790/Blog)
-8. [Salensoft/thu-cst-cracker](https://github.com/Salensoft/thu-cst-cracker)
+3. [PKUFlyingPig/cs-self-learning](https://github.com/PKUFlyingPig/cs-self-learning)
+4. [USTC-Resource/USTC-Course](https://github.com/USTC-Resource/USTC-Course)
+5. [c-hj/SJTU-Courses](https://github.com/c-hj/SJTU-Courses)
+6. [missing-semester/missing-semester](https://github.com/missing-semester/missing-semester)
+7. [Salensoft/thu-cst-cracker](https://github.com/Salensoft/thu-cst-cracker)
+8. [HuangCongQing/UCAS_Course_2019](https://github.com/HuangCongQing/UCAS_Course_2019)
+9. [Trinkle23897/THU-CST-Cracker](https://github.com/Trinkle23897/THU-CST-Cracker)
+10. [Trinkle23897/Undergraduate](https://github.com/Trinkle23897/Undergraduate)
+11. [15172658790/Blog](https://github.com/15172658790/Blog)
 
 ## 参考
 
