@@ -116,6 +116,7 @@ pinned: false
 ## 通信框架
 
 1. [zeromq/libzmq](https://github.com/zeromq/libzmq)
+2. [zeromq/cppzmq](https://github.com/zeromq/cppzmq)
 
 ## 参考
 
