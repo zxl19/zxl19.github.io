@@ -108,6 +108,15 @@ pinned: false
 2. [boost-ext/sml](https://github.com/boost-ext/sml)
 3. [digint/tinyfsm](https://github.com/digint/tinyfsm)
 
+## 可视化界面
+
+1. [ocornut/imgui](https://github.com/ocornut/imgui)
+2. [stevenlovegrove/Pangolin](https://github.com/stevenlovegrove/Pangolin)
+
+## 通信框架
+
+1. [zeromq/libzmq](https://github.com/zeromq/libzmq)
+
 ## 参考
 
 1. [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp)
