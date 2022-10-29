@@ -170,7 +170,9 @@ CMake扩展。
 
 ### koroFileHeader
 
-生成文件头部注释和函数注释，详细配置选项说明参考[Wiki](https://github.com/OBKoro1/koro1FileHeader/wiki)。
+生成文件头部注释和函数注释，类似的扩展还有vscode-fileheader。
+
+详细配置选项说明参考[Wiki](https://github.com/OBKoro1/koro1FileHeader/wiki)。
 
 1. 文件头部注释：
 
