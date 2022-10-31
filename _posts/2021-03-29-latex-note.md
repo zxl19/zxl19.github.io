@@ -724,6 +724,10 @@ int main()
 
 1. [Tables Generator](https://www.tablesgenerator.com)
 
+#### 字体
+
+1. [Haixing-Hu/latex-chinese-fonts](https://github.com/Haixing-Hu/latex-chinese-fonts)
+
 #### 参考文献
 
 1. [Google Scholar](https://scholar.google.com)

@@ -153,9 +153,10 @@ pinned: false
 
 1. [MLNLP-World/Paper-Writing-Tips](https://github.com/MLNLP-World/Paper-Writing-Tips)
 2. [guanyingc/latex_paper_writing_tips](https://github.com/guanyingc/latex_paper_writing_tips)
-3. [writing-resources/awesome-scientific-writing](https://github.com/writing-resources/awesome-scientific-writing)
-4. [wangdongdut/PaperWriting](https://github.com/wangdongdut/PaperWriting)
-5. [cooelf/PaperWritingTips](https://github.com/cooelf/PaperWritingTips)
+3. [Haixing-Hu/typesetting-standard](https://github.com/Haixing-Hu/typesetting-standard)
+4. [writing-resources/awesome-scientific-writing](https://github.com/writing-resources/awesome-scientific-writing)
+5. [wangdongdut/PaperWriting](https://github.com/wangdongdut/PaperWriting)
+6. [cooelf/PaperWritingTips](https://github.com/cooelf/PaperWritingTips)
 
 ### 英文写作
 
