@@ -664,14 +664,14 @@ int main()
 
 3. 预设样式说明：
 
-    - plain，按字母的顺序排列，比较次序为作者、年度和标题；
-    - unsrt，样式同plain，只是按照引用的先后排序；
-    - alpha，用作者名首字母+年份后两位作标号，以字母顺序排序；
-    - abbrv，类似plain，将月份全拼改为缩写，更显紧凑；
-    - ieeetr，国际电气电子工程师协会期刊样式；
-    - acm，美国计算机学会期刊样式；
-    - siam，美国工业和应用数学学会期刊样式；
-    - apalike，美国心理学学会期刊样式；
+    - `plain`：按字母的顺序排列，比较次序为作者、年度和标题；
+    - `unsrt`：样式同`plain`，只是按照引用的先后排序；
+    - `alpha`：用作者名首字母+年份后两位作标号，以字母顺序排序；
+    - `abbrv`：类似`plain`，将月份全拼改为缩写，更显紧凑；
+    - `ieeetr`：国际电气电子工程师协会期刊样式；
+    - `acm`：美国计算机学会期刊样式；
+    - `siam`：美国工业和应用数学学会期刊样式；
+    - `apalike`：美国心理学学会期刊样式；
 
 #### 文献引用
 
@@ -682,21 +682,23 @@ int main()
 
 #### 文献格式化工具
 
+##### `.bib`文件格式化
+
 1. [yuchenlin/rebiber](https://github.com/yuchenlin/rebiber)
 2. [MLNLP-World/SimBiber](https://github.com/MLNLP-World/SimBiber)
 
-## 绘图
+##### 引用样式格式化
 
-TODO：单独整理。
+1. [zepinglee/gbt7714-bibtex-style](https://github.com/zepinglee/gbt7714-bibtex-style)
+2. [Haixing-Hu/GBT7714-2005-BibTeX-Style](https://github.com/Haixing-Hu/GBT7714-2005-BibTeX-Style)
 
-### 转换工具
+## TikZ绘图
 
-1. [matlab2tikz/matlab2tikz](https://github.com/matlab2tikz/matlab2tikz)
-2. [nschloe/tikzplotlib](https://github.com/nschloe/tikzplotlib)
+- [x] 单独整理。
 
-## Beamer
+## Beamer演示文稿
 
-TODO：单独整理。
+- [ ] 单独整理。
 
 ## 高质量网站存档
 
@@ -733,96 +735,106 @@ TODO：单独整理。
 #### 网站
 
 1. [LaTeX工作室](https://www.latexstudio.net)
-2. [Overleaf Templates](https://www.overleaf.com/latex/templates)
-3. [LaTeX Templates](https://www.latextemplates.com)
-4. [MOON](https://www.moonpapers.com)
-5. [Overleaf Documentation](https://www.overleaf.com/learn)
+2. [Overleaf Documentation](https://www.overleaf.com/learn)
+3. [Overleaf Templates](https://www.overleaf.com/latex/templates)
+4. [LaTeX Templates](https://www.latextemplates.com)
+5. [MOON](https://www.moonpapers.com)
 6. [BibTeX](https://www.bibtex.com)
 7. [TikZ](https://tikz.net)
 8. [TeXample](https://texample.net)
+9. [LaTeX Beamer](https://latex-beamer.com)
+
+#### 教程
+
+1. 各个宏包的说明文档（TeXstudio中在对应命令上右键打开）；
+2. [latex中文教程-15集从入门到精通包含各种latex操作-bilibili](https://www.bilibili.com/video/BV15x411j7k6)
+3. [【1天玩转LaTeX】【写论文不怕格式出错啦！！！】【耿楠教授授权发布】-bilibili](https://www.bilibili.com/video/BV15b411j7Au)
+4. [LaTex教程【中文字幕】LaTeX by Michelle Krummel-bilibili](https://www.bilibili.com/video/BV1hK41157GG)
 
 #### GitHub
 
+##### 教程
+
+1. [CTeX-org/lshort-zh-cn](https://github.com/CTeX-org/lshort-zh-cn)
+2. [MartinThoma/LaTeX-examples](https://github.com/MartinThoma/LaTeX-examples)
+3. [egeerardyn/awesome-LaTeX](https://github.com/egeerardyn/awesome-LaTeX)
+4. [xinychen/latex-cookbook](https://github.com/xinychen/latex-cookbook)
+5. [oetiker/lshort](https://github.com/oetiker/lshort)
+
+##### 模板
+
+###### 文档模板
+
+1. [ElegantLaTeX/ElegantBook](https://github.com/ElegantLaTeX/ElegantBook)
+2. [ElegantLaTeX/ElegantPaper](https://github.com/ElegantLaTeX/ElegantPaper)
+3. [ElegantLaTeX/ElegantNote](https://github.com/ElegantLaTeX/ElegantNote)
+
+###### 简历模板
+
 1. [posquit0/Awesome-CV](https://github.com/posquit0/Awesome-CV)
 2. [dyweb/awesome-resume-for-chinese](https://github.com/dyweb/awesome-resume-for-chinese)
-3. [MartinThoma/LaTeX-examples](https://github.com/MartinThoma/LaTeX-examples)
-4. [xiaohanyu/awesome-tikz](https://github.com/xiaohanyu/awesome-tikz)
-5. [egeerardyn/awesome-LaTeX](https://github.com/egeerardyn/awesome-LaTeX)
-6. [PetarV-/TikZ](https://github.com/PetarV-/TikZ)
-7. [xinychen/awesome-latex-drawing](https://github.com/xinychen/awesome-latex-drawing)
-8. [darwiin/yaac-another-awesome-cv](https://github.com/darwiin/yaac-another-awesome-cv)
-9. [huajh/awesome-latex-cv](https://github.com/huajh/awesome-latex-cv)
-10. [XiangyunHuang/awesome-beamers](https://github.com/XiangyunHuang/awesome-beamers)
-11. [AlexTsagas/Tikz-Graphics](https://github.com/AlexTsagas/Tikz-Graphics)
-12. [ElegantLaTeX/ElegantBook](https://github.com/ElegantLaTeX/ElegantBook)
-13. [ElegantLaTeX/ElegantPaper](https://github.com/ElegantLaTeX/ElegantPaper)
-14. [ElegantLaTeX/ElegantNote](https://github.com/ElegantLaTeX/ElegantNote)
-15. [xinychen/latex-cookbook](https://github.com/xinychen/latex-cookbook)
-16. [Wandmalfarbe/pandoc-latex-template](https://github.com/Wandmalfarbe/pandoc-latex-template)
-17. [zepinglee/gbt7714-bibtex-style](https://github.com/zepinglee/gbt7714-bibtex-style)
-18. [MLNLP-World/Paper-Picture-Writing-Code](https://github.com/MLNLP-World/Paper-Picture-Writing-Code)
+3. [darwiin/yaac-another-awesome-cv](https://github.com/darwiin/yaac-another-awesome-cv)
+4. [huajh/awesome-latex-cv](https://github.com/huajh/awesome-latex-cv)
+
+#### Beamer模板
+
+1. [XiangyunHuang/awesome-beamers](https://github.com/XiangyunHuang/awesome-beamers)
+2. [清华大学中文Beamer模板-Overleaf](https://www.overleaf.com/latex/templates/qing-hua-da-xue-zhong-wen-beamer-mo-ban/djcnhxpwhrks)
+3. [TsinghuaBeamer-Overleaf](https://www.overleaf.com/latex/templates/tsinghuabeamer/gwchbskgbvrm)
+4. [Trinkle23897/THU-Beamer-Theme](https://github.com/Trinkle23897/THU-Beamer-Theme)
+5. [fuujiro/DLUT-Beamer-Slide-V2](https://github.com/fuujiro/DLUT-Beamer-Slide-V2)
+6. [fuujiro/DLUT-Beamer-Slide-V1](https://github.com/fuujiro/DLUT-Beamer-Slide-V1)
+
+#### 有趣模板
+
+1. [Wandmalfarbe/pandoc-latex-template](https://github.com/Wandmalfarbe/pandoc-latex-template)
+2. [Keldos-Li/typora-latex-theme](https://github.com/Keldos-Li/typora-latex-theme)
+3. [MattX/texword](https://github.com/MattX/texword)
 
 ### 高质量模板
 
 1. [CS310-Assignment Template](https://www.overleaf.com/latex/templates/cs310-assignment-template/qrqpndrxpcht)
 2. [Cheatsheet](https://www.latextemplates.com/template/cheatsheet)
-3. [HarisIqbal88/PlotNeuralNet](https://github.com/HarisIqbal88/PlotNeuralNet)
-4. [zheyuye/resume-chinese](https://github.com/zheyuye/resume-chinese)
-5. [tuna/thuthesis](https://github.com/tuna/thuthesis)
-6. [Academic Title Page](https://www.latextemplates.com/template/academic-title-page)
-
-### 学校beamer模板
-
-1. [清华大学中文Beamer模板](https://www.overleaf.com/latex/templates/qing-hua-da-xue-zhong-wen-beamer-mo-ban/djcnhxpwhrks)
-2. [Trinkle23897/THU-Beamer-Theme](https://github.com/Trinkle23897/THU-Beamer-Theme)
-3. [fuujiro/DLUT-Beamer-Slide-V2](https://github.com/fuujiro/DLUT-Beamer-Slide-V2)
-4. [fuujiro/DLUT-Beamer-Slide-V1](https://github.com/fuujiro/DLUT-Beamer-Slide-V1)
-
-### 有趣模板
-
-1. [Keldos-Li/typora-latex-theme](https://github.com/Keldos-Li/typora-latex-theme)
-2. [MattX/texword](https://github.com/MattX/texword)
+3. [zheyuye/resume-chinese](https://github.com/zheyuye/resume-chinese)
+4. [tuna/thuthesis](https://github.com/tuna/thuthesis)
+5. [Academic Title Page](https://www.latextemplates.com/template/academic-title-page)
 
 ## 参考
 
-1. 各个宏包的说明文档（TeXstudio中在对应命令上右键打开）
-2. [latex中文教程-15集从入门到精通包含各种latex操作-bilibili](https://www.bilibili.com/video/BV15x411j7k6)
-3. [【1天玩转LaTeX】【写论文不怕格式出错啦！！！】【耿楠教授授权发布】-bilibili](https://www.bilibili.com/video/BV15b411j7Au)
-4. [LaTex教程【中文字幕】LaTeX by Michelle Krummel-bilibili](https://www.bilibili.com/video/BV1hK41157GG)
-5. [!TeX-Stack Exchange](https://tex.stackexchange.com/questions/78101/when-and-why-should-i-use-tex-ts-program-and-tex-encoding)
-6. [argmin&argmax-CSDN博客](https://blog.csdn.net/SunshineSki/article/details/87893347)
-7. [矩阵转置-知乎](https://zhuanlan.zhihu.com/p/27490955)
-8. [\prime-CSDN博客](https://blog.csdn.net/yq_forever/article/details/109029875)
-9. [\triangleq-CSDN博客](https://blog.csdn.net/weixin_44550010/article/details/107864090)
-10. [\overline-Stack Exchange](https://tex.stackexchange.com/questions/408084/how-to-place-a-wide-bar-over-a-wide-expression)
-11. [公式上方下方大括号-百度经验](https://jingyan.baidu.com/article/020278118866ee1bcd9ce543.html)
-12. [长竖线-知乎](https://www.zhihu.com/question/35119859/answer/61268787)
-13. [\tab-Stack Exchange](https://tex.stackexchange.com/questions/198432/using-the-tab-command)
-14. [对号&错号-Stack Exchange](https://tex.stackexchange.com/questions/42619/x-mark-to-match-checkmark)
-15. [LaTeX页面设置-冬日暖阳的文章-知乎](https://zhuanlan.zhihu.com/p/360188228)
-16. [空格-Stack Exchange](https://tex.stackexchange.com/questions/31091/space-after-latex-commands)
-17. [音调1-CSDN博客](https://blog.csdn.net/xin_yu_xin/article/details/26467751)
-18. [音调2-知乎](https://zhuanlan.zhihu.com/p/75828544)
-19. [音调3-CSDN博客](https://blog.csdn.net/jianti9962/article/details/114481366)
-20. [字体大小-简书](https://www.jianshu.com/p/ad400d7fe885)
-21. [列表-CSDN博客](https://blog.csdn.net/HugoChen_cs/article/details/105189541)
-22. [公式1-简书](https://www.jianshu.com/p/97ec8a3739f6)
-23. [公式2-CSDN博客](https://blog.csdn.net/Strive_For_Future/article/details/118609968)
-24. [矩阵-知乎](https://zhuanlan.zhihu.com/p/266267223)
-25. [图片1-CSDN博客](https://blog.csdn.net/qq_38526623/article/details/103737589)
-26. [图片2-CSDN博客](https://blog.csdn.net/LeonSUST/article/details/89332744)
-27. [单元格换行-CSDN博客](https://blog.csdn.net/robertchenguangzhi/article/details/48916319)
-28. [\cline-CSDN博客](https://blog.csdn.net/huancaoo/article/details/113106636)
-29. [\rule-Stack Exchange](https://tex.stackexchange.com/questions/50352/inserting-a-small-vertical-space-in-a-table)
-30. [长度单位-CSDN博客](https://blog.csdn.net/robert_chen1988/article/details/52739825)
-31. [\multirow-CSDN博客](https://blog.csdn.net/robert_chen1988/article/details/80861246)
-32. [超链接-CSDN博客](https://blog.csdn.net/OOFFrankDura/article/details/90600855)
-33. [代码块1-Overleaf](https://www.overleaf.com/learn/latex/Code_listing)
-34. [代码块2-CSDN博客](https://blog.csdn.net/RobertChenGuangzhi/article/details/45126785)
-35. [脚注-LaTeX 工作室](https://www.latexstudio.net/archives/51620.html)
-36. [参考文献1-知乎](https://zhuanlan.zhihu.com/p/265479955)
-37. [参考文献2-知乎](https://zhuanlan.zhihu.com/p/114733612)
-38. [参考文献3-Stack Exchange](https://tex.stackexchange.com/questions/99615/backref-package-for-page-reference)
-39. [参考文献4-CSDN博客](https://blog.csdn.net/xovee/article/details/109715706)
-40. [参考文献5-CSDN博客](https://blog.csdn.net/xovee/article/details/109896563)
-41. [LaTeX公式转Word公式-简书](https://www.jianshu.com/p/0947ebcfc42e)
+1. [!TeX-Stack Exchange](https://tex.stackexchange.com/questions/78101/when-and-why-should-i-use-tex-ts-program-and-tex-encoding)
+2. [argmin&argmax-CSDN博客](https://blog.csdn.net/SunshineSki/article/details/87893347)
+3. [矩阵转置-知乎](https://zhuanlan.zhihu.com/p/27490955)
+4. [\prime-CSDN博客](https://blog.csdn.net/yq_forever/article/details/109029875)
+5. [\triangleq-CSDN博客](https://blog.csdn.net/weixin_44550010/article/details/107864090)
+6. [\overline-Stack Exchange](https://tex.stackexchange.com/questions/408084/how-to-place-a-wide-bar-over-a-wide-expression)
+7. [公式上方下方大括号-百度经验](https://jingyan.baidu.com/article/020278118866ee1bcd9ce543.html)
+8. [长竖线-知乎](https://www.zhihu.com/question/35119859/answer/61268787)
+9. [\tab-Stack Exchange](https://tex.stackexchange.com/questions/198432/using-the-tab-command)
+10. [对号&错号-Stack Exchange](https://tex.stackexchange.com/questions/42619/x-mark-to-match-checkmark)
+11. [LaTeX页面设置-冬日暖阳的文章-知乎](https://zhuanlan.zhihu.com/p/360188228)
+12. [空格-Stack Exchange](https://tex.stackexchange.com/questions/31091/space-after-latex-commands)
+13. [音调1-CSDN博客](https://blog.csdn.net/xin_yu_xin/article/details/26467751)
+14. [音调2-知乎](https://zhuanlan.zhihu.com/p/75828544)
+15. [音调3-CSDN博客](https://blog.csdn.net/jianti9962/article/details/114481366)
+16. [字体大小-简书](https://www.jianshu.com/p/ad400d7fe885)
+17. [列表-CSDN博客](https://blog.csdn.net/HugoChen_cs/article/details/105189541)
+18. [公式1-简书](https://www.jianshu.com/p/97ec8a3739f6)
+19. [公式2-CSDN博客](https://blog.csdn.net/Strive_For_Future/article/details/118609968)
+20. [矩阵-知乎](https://zhuanlan.zhihu.com/p/266267223)
+21. [图片1-CSDN博客](https://blog.csdn.net/qq_38526623/article/details/103737589)
+22. [图片2-CSDN博客](https://blog.csdn.net/LeonSUST/article/details/89332744)
+23. [单元格换行-CSDN博客](https://blog.csdn.net/robertchenguangzhi/article/details/48916319)
+24. [\cline-CSDN博客](https://blog.csdn.net/huancaoo/article/details/113106636)
+25. [\rule-Stack Exchange](https://tex.stackexchange.com/questions/50352/inserting-a-small-vertical-space-in-a-table)
+26. [长度单位-CSDN博客](https://blog.csdn.net/robert_chen1988/article/details/52739825)
+27. [\multirow-CSDN博客](https://blog.csdn.net/robert_chen1988/article/details/80861246)
+28. [超链接-CSDN博客](https://blog.csdn.net/OOFFrankDura/article/details/90600855)
+29. [代码块1-Overleaf](https://www.overleaf.com/learn/latex/Code_listing)
+30. [代码块2-CSDN博客](https://blog.csdn.net/RobertChenGuangzhi/article/details/45126785)
+31. [脚注-LaTeX工作室](https://www.latexstudio.net/archives/51620.html)
+32. [参考文献1-知乎](https://zhuanlan.zhihu.com/p/265479955)
+33. [参考文献2-知乎](https://zhuanlan.zhihu.com/p/114733612)
+34. [参考文献3-Stack Exchange](https://tex.stackexchange.com/questions/99615/backref-package-for-page-reference)
+35. [参考文献4-CSDN博客](https://blog.csdn.net/xovee/article/details/109715706)
+36. [参考文献5-CSDN博客](https://blog.csdn.net/xovee/article/details/109896563)
+37. [LaTeX公式转Word公式-简书](https://www.jianshu.com/p/0947ebcfc42e)

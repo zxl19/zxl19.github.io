@@ -90,7 +90,8 @@ The main repository serves as a curated list of awesome lists.
 ## GitHub项目美化
 
 1. [durgeshsamariya/awesome-github-profile-readme-templates](https://github.com/durgeshsamariya/awesome-github-profile-readme-templates)
-2. [a-maliarov/awesome-shields](https://github.com/a-maliarov/awesome-shields)
+2. [elangosundar/awesome-README-templates](https://github.com/elangosundar/awesome-README-templates)
+3. [a-maliarov/awesome-shields](https://github.com/a-maliarov/awesome-shields)
 
 ## 科学计算与数值分析
 
