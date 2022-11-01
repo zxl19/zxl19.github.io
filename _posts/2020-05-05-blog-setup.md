@@ -48,8 +48,9 @@ pinned: false
 
 使用[图标生成器](https://android-material-icon-generator.bitdroid.de)，自定义网页标签栏中显示的小图标。
 
-1. [Android Material Icon Generator](https://android-material-icon-generator.bitdroid.de)
-2. [Favicon Generator](https://redketchup.io/favicon-generator)
+1. [Simple Icons](https://simpleicons.org)
+2. [Android Material Icon Generator](https://android-material-icon-generator.bitdroid.de)
+3. [Favicon Generator](https://redketchup.io/favicon-generator)
 
 ## 常见问题及解决方法
 
@@ -81,6 +82,7 @@ pinned: false
 5. [github/choosealicense.com](https://github.com/github/choosealicense.com)
 6. [【最新】解决Github网页上图片显示失败的问题-CSDN博客](https://blog.csdn.net/qq_38232598/article/details/91346392)
 7. [几条经验美化你的GitHub开源项目-简书](https://www.jianshu.com/p/d587b91bacb3)
-8. [Maddoc42/Android-Material-Icon-Generator](https://github.com/Maddoc42/Android-Material-Icon-Generator)
-9. [Online Tools-RedKetchup](https://redketchup.io)
-10. [如何制作个人学术主页？-知乎](https://www.zhihu.com/question/281476526)
+8. [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
+9. [Maddoc42/Android-Material-Icon-Generator](https://github.com/Maddoc42/Android-Material-Icon-Generator)
+10. [Online Tools-RedKetchup](https://redketchup.io)
+11. [如何制作个人学术主页？-知乎](https://www.zhihu.com/question/281476526)

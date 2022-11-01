@@ -22,15 +22,17 @@ pinned: false
 
 ## 标签
 
-1. [Shields.io](https://shields.io/)
-2. [996icu/996.ICU](https://github.com/996icu/996.ICU)
-3. [badges/shields](https://github.com/badges/shields)
-4. [alexandresanlim/Badges4-README.md-Profile](https://github.com/alexandresanlim/Badges4-README.md-Profile)
-5. [trekhleb/state-of-the-art-shitcode](https://github.com/trekhleb/state-of-the-art-shitcode)
-6. [antonkomarev/github-profile-views-counter](https://github.com/antonkomarev/github-profile-views-counter)
-7. [jwenjian/visitor-badge](https://github.com/jwenjian/visitor-badge)
-8. [gjbae1212/hit-counter](https://github.com/gjbae1212/hit-counter)
-9. [a-maliarov/awesome-shields](https://github.com/a-maliarov/awesome-shields)
+1. [Shields.io](https://shields.io)
+2. [Simple Icons](https://simpleicons.org)
+3. [996icu/996.ICU](https://github.com/996icu/996.ICU)
+4. [badges/shields](https://github.com/badges/shields)
+5. [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
+6. [alexandresanlim/Badges4-README.md-Profile](https://github.com/alexandresanlim/Badges4-README.md-Profile)
+7. [trekhleb/state-of-the-art-shitcode](https://github.com/trekhleb/state-of-the-art-shitcode)
+8. [antonkomarev/github-profile-views-counter](https://github.com/antonkomarev/github-profile-views-counter)
+9. [jwenjian/visitor-badge](https://github.com/jwenjian/visitor-badge)
+10. [gjbae1212/hit-counter](https://github.com/gjbae1212/hit-counter)
+11. [a-maliarov/awesome-shields](https://github.com/a-maliarov/awesome-shields)
 
 ## 统计信息
 
@@ -58,4 +60,5 @@ pinned: false
 1. [GitHub隐藏新功能！个人页还能这么玩？-GitHub Daily的文章-知乎](https://zhuanlan.zhihu.com/p/161029860)
 2. [几条经验美化你的GitHub开源项目-简书](https://www.jianshu.com/p/d587b91bacb3)
 3. [使用Gist让你的GitHub个人主页变酷-z2z23n0的文章-知乎](https://zhuanlan.zhihu.com/p/146289644)
-4. [GitHub上这款Q版头像生成器，快被网友玩坏了...-GitHub Daily的文章-知乎](https://zhuanlan.zhihu.com/p/450978590)
+4. [Github个人首页美化指北-AntzUhl的文章-知乎](https://zhuanlan.zhihu.com/p/265462490)
+5. [GitHub上这款Q版头像生成器，快被网友玩坏了...-GitHub Daily的文章-知乎](https://zhuanlan.zhihu.com/p/450978590)
