@@ -26,6 +26,7 @@ The main repository serves as a curated list of awesome lists.
 1. [sindresorhus/awesome](https://github.com/sindresorhus/awesome)
 2. [bayandin/awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness)
 3. [geekan/awesome-awesome-awesome](https://github.com/geekan/awesome-awesome-awesome)
+4. [MunGell/awesome-for-beginners](https://github.com/MunGell/awesome-for-beginners)
 
 ## C++（包括CMake）
 

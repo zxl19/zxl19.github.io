@@ -73,6 +73,7 @@ SLAM方向面试题存档。
 12. [0voice/campus_recruitmen_questions](https://github.com/0voice/campus_recruitmen_questions)
 13. [DarLiner/Algorithm_Interview_Notes-Chinese](https://github.com/DarLiner/Algorithm_Interview_Notes-Chinese)
 14. [Liber-coder/CV_Notes](https://github.com/Liber-coder/CV_Notes)
+15. [vichitr/HacktoberfestForBeginners](https://github.com/vichitr/HacktoberfestForBeginners)
 
 ## 计算机系课程
 

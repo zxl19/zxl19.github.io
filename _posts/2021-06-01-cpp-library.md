@@ -81,11 +81,11 @@ pinned: false
 
 ## 数学计算
 
-1. [Eigen](http://eigen.tuxfamily.org/)
-2. [Armadillo](http://arma.sourceforge.net/)
-3. [strasdat/Sophus](https://github.com/strasdat/Sophus)
-4. [autodiff/autodiff](https://github.com/autodiff/autodiff)
-5. [PatWie/CppNumericalSolvers](https://github.com/PatWie/CppNumericalSolvers)
+1. [Eigen](http://eigen.tuxfamily.org)
+2. [Armadillo](http://arma.sourceforge.net)
+3. [Ceres Solver](http://ceres-solver.org)
+4. [strasdat/Sophus](https://github.com/strasdat/Sophus)
+5. [autodiff/autodiff](https://github.com/autodiff/autodiff)
 6. [johnmcfarlane/cnl](https://github.com/johnmcfarlane/cnl)
 7. [bgrimstad/splinter](https://github.com/bgrimstad/splinter)
 
@@ -107,6 +107,7 @@ pinned: false
 1. [BehaviorTree/BehaviorTree.CPP](https://github.com/BehaviorTree/BehaviorTree.CPP)
 2. [boost-ext/sml](https://github.com/boost-ext/sml)
 3. [digint/tinyfsm](https://github.com/digint/tinyfsm)
+4. [CodeSports/State-Machine-Using-Boost-Statechart](https://github.com/CodeSports/State-Machine-Using-Boost-Statechart)
 
 ## 可视化界面
 
@@ -117,6 +118,10 @@ pinned: false
 
 1. [zeromq/libzmq](https://github.com/zeromq/libzmq)
 2. [zeromq/cppzmq](https://github.com/zeromq/cppzmq)
+
+## 数据结构
+
+1. [skarupke/flat_hash_map](https://github.com/skarupke/flat_hash_map)
 
 ## 参考
 

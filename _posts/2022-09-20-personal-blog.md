@@ -45,12 +45,13 @@ pinned: false
 14. [术之多](https://www.shuzhiduo.com)
 15. [杨二](https://yangerxiao.com)
 16. [山月行](https://shanyue.tech)
-17. [卜卜口](https://i.magiconch.com)
-18. [fluldog-博客园](https://www.cnblogs.com/fluidog)
-19. [zh89233-博客园](https://www.cnblogs.com/love-zf)
-20. [librarookie-博客园](https://www.cnblogs.com/librarookie)
-21. [木偶Roy-博客园](https://www.cnblogs.com/jyroy)
-22. [李春港-博客园](https://www.cnblogs.com/lcgbk)
+17. [二丫讲梵](http://wiki.eryajf.net)
+18. [卜卜口](https://i.magiconch.com)
+19. [fluldog-博客园](https://www.cnblogs.com/fluidog)
+20. [zh89233-博客园](https://www.cnblogs.com/love-zf)
+21. [librarookie-博客园](https://www.cnblogs.com/librarookie)
+22. [木偶Roy-博客园](https://www.cnblogs.com/jyroy)
+23. [李春港-博客园](https://www.cnblogs.com/lcgbk)
 
 ### 汇总
 

@@ -57,4 +57,5 @@ pinned: false
 
 1. [GitHub隐藏新功能！个人页还能这么玩？-GitHub Daily的文章-知乎](https://zhuanlan.zhihu.com/p/161029860)
 2. [几条经验美化你的GitHub开源项目-简书](https://www.jianshu.com/p/d587b91bacb3)
-3. [GitHub上这款Q版头像生成器，快被网友玩坏了...-GitHub Daily的文章-知乎](https://zhuanlan.zhihu.com/p/450978590)
+3. [使用Gist让你的GitHub个人主页变酷-z2z23n0的文章-知乎](https://zhuanlan.zhihu.com/p/146289644)
+4. [GitHub上这款Q版头像生成器，快被网友玩坏了...-GitHub Daily的文章-知乎](https://zhuanlan.zhihu.com/p/450978590)

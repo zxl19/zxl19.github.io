@@ -372,7 +372,10 @@ XXX warn other programmers of problematic    警告需要改进的代码（蓝�
 
 ### Toggle Zen Mode
 
-添加进入禅模式（zen mode）的按钮，代替`Ctrl`+`K`+`Z`快捷键。
+添加进入禅模式（zen mode）的按钮。
+
+1. 禅模式快捷键：`Ctrl`+`K`+`Z`；
+2. 全屏快捷键：`F11`；
 
 ### Trailing Spaces
 
