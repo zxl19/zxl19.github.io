@@ -87,7 +87,6 @@ pinned: false
 4. [strasdat/Sophus](https://github.com/strasdat/Sophus)
 5. [autodiff/autodiff](https://github.com/autodiff/autodiff)
 6. [johnmcfarlane/cnl](https://github.com/johnmcfarlane/cnl)
-7. [bgrimstad/splinter](https://github.com/bgrimstad/splinter)
 
 ## 加密
 
