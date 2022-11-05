@@ -31,7 +31,8 @@ C++学习资料存档。
 5. [TheAlgorithms/C-Plus-Plus](https://github.com/TheAlgorithms/C-Plus-Plus)
 6. [wuye9036/CppTemplateTutorial](https://github.com/wuye9036/CppTemplateTutorial)
 7. [cpp-best-practices/cppbestpractices](https://github.com/cpp-best-practices/cppbestpractices)
-8. [tangtangcoding/C-C-](https://github.com/tangtangcoding/C-C-)
+8. [applenob/Cpp_Primer_Practice](https://github.com/applenob/Cpp_Primer_Practice)
+9. [tangtangcoding/C-C-](https://github.com/tangtangcoding/C-C-)
 
 ### C++新特性
 

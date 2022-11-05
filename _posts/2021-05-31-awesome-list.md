@@ -78,9 +78,10 @@ The main repository serves as a curated list of awesome lists.
 7. [qiaozhijian/awesome-deeplearning-3d-registration](https://github.com/qiaozhijian/awesome-deeplearning-3d-registration)
 8. [shamangary/awesome-local-global-descriptor](https://github.com/shamangary/awesome-local-global-descriptor)
 
-### 激光雷达-相机外参标定
+### 外参标定
 
 1. [Deephome/Awesome-LiDAR-Camera-Calibration](https://github.com/Deephome/Awesome-LiDAR-Camera-Calibration)
+2. [Taeyoung96/Awesome-LiDAR-IMU-calibration](https://github.com/Taeyoung96/Awesome-LiDAR-IMU-calibration)
 
 ### 计算机视觉
 
