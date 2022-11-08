@@ -118,23 +118,29 @@ nullptr     // 空指针，C++11引入
 
 ## C++11
 
-### 关于模板嵌套中的`>>`
+### 关于嵌套模板中相邻的右尖括号
 
-C++11要求嵌套模板类右侧的尖括号分开，为了避免与输入流运算符`>>`混淆：
+C++11支持嵌套模板中相邻的右尖括号写作`>>`：
+
+```cpp
+vector<vector<int>>
+```
+
+早期C++标准要求嵌套模板中相邻的右尖括号写作`> >`：
 
 ```cpp
 vector<vector<int> >
 ```
 
-否则会报错：
+其原因是为了避免与输入流运算符`>>`混淆，否则会报错：
 
 ```text
-`>>' should be `> >' within a nested template argument list
+`>>' should be `> >' within a nested template argument list.
 ```
 
 ### 关于`auto`和`decltype`
 
-1. `auto`：让编译器在编译器就推导出变量的类型，可以通过=右边的类型推导出变量的类型；
+1. `auto`：让编译器在编译器就推导出变量的类型，可以通过`=`右边的类型推导出变量的类型；
 2. `decltype`：相对于`auto`用于推导变量类型，而`decltype`则用于推导表达式类型，这里只用于编译器分析表达式的类型，表达式实际不会进行运算；
 
 ### 关于`default`
@@ -167,6 +173,7 @@ for (char c : str) {}
 6. [siez_t和int1-CSDN博客](https://blog.csdn.net/wc11223/article/details/70553583)
 7. [siez_t和int2-CSDN博客](https://blog.csdn.net/qq_41598072/article/details/84924997)
 8. [NULL和nullptr-CSDN博客](https://blog.csdn.net/qq_18108083/article/details/84346655)
-9. [模板嵌套中的>>-Stack Overflow](https://stackoverflow.com/questions/6695261/template-within-template-why-should-be-within-a-nested-template-arg)
-10. [C++11新特性，所有知识点都在这了！-程序喵大人的文章-知乎](https://zhuanlan.zhihu.com/p/139515439)
-11. [C++智能指针-小小将的文章-知乎](https://zhuanlan.zhihu.com/p/54078587)
+9. [嵌套模板中的>>1-Stack Overflow](https://stackoverflow.com/questions/6695261/template-within-template-why-should-be-within-a-nested-template-arg)
+10. [嵌套模板中的>>2-Stack Overflow](https://stackoverflow.com/questions/7087033/for-nested-templates-when-did-become-standard-c-instead-of)
+11. [C++11新特性，所有知识点都在这了！-程序喵大人的文章-知乎](https://zhuanlan.zhihu.com/p/139515439)
+12. [C++智能指针-小小将的文章-知乎](https://zhuanlan.zhihu.com/p/54078587)
