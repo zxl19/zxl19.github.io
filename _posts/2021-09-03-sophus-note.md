@@ -16,7 +16,7 @@ pinned: false
 ## Sophus Hello World
 
 1. Sophus是基于Eigen实现的李群和李代数库；
-2. Sophus是纯头文件库，使用时需要包含以下头文件：
+2. Sophus是纯头文件库，使用时需要引入以下头文件：
 
     ```cpp
     #include "sophus/so3.hpp"       // SO(3)

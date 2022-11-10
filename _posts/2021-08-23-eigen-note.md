@@ -574,6 +574,100 @@ Eigen::Vector3d v_transformed = T * v;                  // 相当于R * v + t
     R = L.inverse() * R;
     ```
 
+## 内存对齐
+
+### 内存对齐与向量化运算
+
+1. 内存对齐是向量化运算（vectorization）的前提；
+2. 向量化运算指的是使用单指令多数据流（Single Instruction Multiple Data，SIMD）指令集，实现一条指令对多个操作数的运算，进而实现运算加速；
+3. 常用的SIMD指令集包括SSE（Streaming SIMD Extensions）、AVX（ Advanced Vector Extensions）等，其中SSE的操作数要求16字节对齐；
+
+### Eigen中的内存对齐
+
+1. Eigen将编译时大小固定，并且大小是16字节的整数倍的对象称为固定大小可向量化的（fixed-size vectorizable），主要包括：
+
+    ```cpp
+    Eigen::Vector2d
+    Eigen::Vector4d
+    Eigen::Vector4f
+    Eigen::Matrix2d
+    Eigen::Matrix2f
+    Eigen::Matrix4d
+    Eigen::Matrix4f
+    Eigen::Affine3d
+    Eigen::Affine3f
+    Eigen::Quaterniond
+    Eigen::Quaternionf
+    ```
+
+2. 对于包含固定大小可向量化的Eigen对象的类和结构体，如果需要使用`new`关键字进行动态内存分配，则需要将宏`EIGEN_MAKE_ALIGNED_OPERATOR_NEW`声明为类和结构体的公有成员，这样在动态内存分配时会自动进行内存对齐：
+
+    ```cpp
+    class Foo {
+     private:
+      Eigen::Vector4d v;
+
+     public:
+      EIGEN_MAKE_ALIGNED_OPERATOR_NEW
+    };
+
+    Foo* foo = new Foo;
+    ```
+
+    - 如果使用C++17标准进行编译则不需要上述操作，因为C++17标准有对于超出默认对齐尺寸（over-aligned）数据的动态内存分配机制；
+    - 在C++17标准下，宏`EIGEN_MAKE_ALIGNED_OPERATOR_NEW`定义为空；
+    - 尽量将类和结构体中的Eigen对象声明一起放在类和结构体的开头，这并不是Eigen内存对齐的强制要求，但是可以节省内存对齐的空间；
+    - 动态大小的Eigen对象自动进行动态内存分配，自动进行内存对齐，不需要上述操作；
+
+3. 如果需要根据模板参数进行条件判断是否使用内存对齐，则需要使用宏`EIGEN_MAKE_ALIGNED_OPERATOR_NEW_IF(NeedsToAlign)`进行判断：
+
+    ```cpp
+    template<int n> class Foo {
+      typedef Eigen::Matrix<float, n, 1> Vector;
+      enum { NeedsToAlign = (sizeof(Vector) % 16) == 0 };
+      Vector v;
+     public:
+      EIGEN_MAKE_ALIGNED_OPERATOR_NEW_IF(NeedsToAlign)
+    };
+
+    Foo<4> *foo4 = new Foo<4>; // foo4 is guaranteed to be 128bit-aligned
+    Foo<3> *foo3 = new Foo<3>; // foo3 has only the system defaultalignment guarantee
+    ```
+
+    - 在参数`NeedsToAlign`为真时，自动添加宏`EIGEN_MAKE_ALIGNED_OPERATOR_NEW`进行内存对齐；
+    - 如果使用C++17标准进行编译则不需要上述操作，因为C++17标准有对于超出默认对齐尺寸数据的动态内存分配机制；
+    - 在C++17标准下，宏`EIGEN_MAKE_ALIGNED_OPERATOR_NEW_IF`定义为空；
+
+4. 如果不想在多处声明宏`EIGEN_MAKE_ALIGNED_OPERATOR_NEW`，可以通过以下两个方法：
+
+    - 使用`Eigen::DontAlign`关闭内存对齐，但是这会带来加载和存储上的耗时，主要取决于硬件：
+
+        ```cpp
+        class Foo {
+         private:
+          Eigen::Matrix<double, 4, 1, Eigen::DontAlign> v;
+        }
+
+    - 将固定大小可向量化的Eigen对象声明为类和结构体的私有成员，在创建类和结构体的对象时动态分配内存：
+
+        ```cpp
+        struct Foo_d {
+          EIGEN_MAKE_ALIGNED_OPERATOR_NEW
+          Vector4d v;
+        };
+
+        struct Foo {
+          Foo() { init_d(); }
+          ~Foo() { delete d; }
+          void bar() {
+            // use d->v instead of v
+          }
+         private:
+          void init_d() { d = new Foo_d; }
+          Foo_d* d;
+        };
+        ```
+
 ## 参考
 
 1. [Eigen: Main Page](https://eigen.tuxfamily.org/dox/)
@@ -596,3 +690,9 @@ Eigen::Vector3d v_transformed = T * v;                  // 相当于R * v + t
 18. [四元数归一化2-CSDN博客](https://blog.csdn.net/m0_56348460/article/details/117386857)
 19. [旋转矩阵归一化1-Stack Overflow](https://stackoverflow.com/questions/21761909/eigen-convert-matrix3d-rotation-to-quaternion)
 20. [旋转矩阵归一化2-Stack Overflow](https://stackoverflow.com/questions/43896041/eigen-matrix-to-quaternion-and-back-have-different-result)
+21. [Alignement issues](https://eigen.tuxfamily.org/dox/group__DenseMatrixManipulation__Alignement.html)
+22. [向量化运算-CSDN博客](https://blog.csdn.net/weixin_38251332/article/details/120308863)
+23. [Eigen内存对齐1-CSDN博客](https://blog.csdn.net/shyjhyp11/article/details/123208279)
+24. [Eigen内存对齐2-CSDN博客](https://blog.csdn.net/shyjhyp11/article/details/123204444)
+25. [从Eigen向量化谈内存对齐-王金戈的文章-知乎](https://zhuanlan.zhihu.com/p/93824687)
+26. [Eigen内存对齐-卷儿的文章-知乎](https://zhuanlan.zhihu.com/p/349413376)
