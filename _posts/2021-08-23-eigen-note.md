@@ -574,7 +574,7 @@ Eigen::Vector3d v_transformed = T * v;                  // 相当于R * v + t
     R = L.inverse() * R;
     ```
 
-## 内存对齐
+## Eigen中的内存对齐问题
 
 ### 内存对齐与向量化运算
 
@@ -582,33 +582,35 @@ Eigen::Vector3d v_transformed = T * v;                  // 相当于R * v + t
 2. 向量化运算指的是使用单指令多数据流（Single Instruction Multiple Data，SIMD）指令集，实现一条指令对多个操作数的运算，进而实现运算加速；
 3. 常用的SIMD指令集包括SSE（Streaming SIMD Extensions）、AVX（ Advanced Vector Extensions）等，其中SSE的操作数要求16字节对齐；
 
-### Eigen中的内存对齐
+### 固定大小可向量化的Eigen对象
 
-1. Eigen将编译时大小固定，并且大小是16字节的整数倍的对象称为固定大小可向量化的（fixed-size vectorizable），主要包括：
+Eigen将编译时大小固定，并且大小是16字节的整数倍的对象称为固定大小可向量化的（fixed-size vectorizable），主要包括：
 
-    ```cpp
-    Eigen::Vector2d
-    Eigen::Vector4d
-    Eigen::Vector4f
-    Eigen::Matrix2d
-    Eigen::Matrix2f
-    Eigen::Matrix4d
-    Eigen::Matrix4f
-    Eigen::Affine3d
-    Eigen::Affine3f
-    Eigen::Quaterniond
-    Eigen::Quaternionf
-    ```
+```cpp
+Eigen::Vector2d
+Eigen::Vector4d
+Eigen::Vector4f
+Eigen::Matrix2d
+Eigen::Matrix2f
+Eigen::Matrix4d
+Eigen::Matrix4f
+Eigen::Affine3d
+Eigen::Affine3f
+Eigen::Quaterniond
+Eigen::Quaternionf
+```
 
-2. 对于包含固定大小可向量化的Eigen对象的类和结构体，如果需要使用`new`关键字进行动态内存分配，则需要将宏`EIGEN_MAKE_ALIGNED_OPERATOR_NEW`声明为类和结构体的公有成员，这样在动态内存分配时会自动进行内存对齐：
+### 包含Eigen对象的类和结构体
+
+1. 对于包含固定大小可向量化的Eigen对象的类和结构体，如果需要使用`new`关键字进行动态内存分配，则需要将宏`EIGEN_MAKE_ALIGNED_OPERATOR_NEW`声明为类和结构体的公有成员，这样在动态内存分配时会自动进行内存对齐：
 
     ```cpp
     class Foo {
-     private:
-      Eigen::Vector4d v;
+    private:
+    Eigen::Vector4d v;
 
-     public:
-      EIGEN_MAKE_ALIGNED_OPERATOR_NEW
+    public:
+    EIGEN_MAKE_ALIGNED_OPERATOR_NEW
     };
 
     Foo* foo = new Foo;
@@ -619,7 +621,7 @@ Eigen::Vector3d v_transformed = T * v;                  // 相当于R * v + t
     - 尽量将类和结构体中的Eigen对象声明一起放在类和结构体的开头，这并不是Eigen内存对齐的强制要求，但是可以节省内存对齐的空间；
     - 动态大小的Eigen对象自动进行动态内存分配，自动进行内存对齐，不需要上述操作；
 
-3. 如果需要根据模板参数进行条件判断是否使用内存对齐，则需要使用宏`EIGEN_MAKE_ALIGNED_OPERATOR_NEW_IF(NeedsToAlign)`进行判断：
+2. 如果需要根据模板参数进行条件判断是否使用内存对齐，则需要使用宏`EIGEN_MAKE_ALIGNED_OPERATOR_NEW_IF`进行判断：
 
     ```cpp
     template<int n> class Foo {
@@ -638,9 +640,9 @@ Eigen::Vector3d v_transformed = T * v;                  // 相当于R * v + t
     - 如果使用C++17标准进行编译则不需要上述操作，因为C++17标准有对于超出默认对齐尺寸数据的动态内存分配机制；
     - 在C++17标准下，宏`EIGEN_MAKE_ALIGNED_OPERATOR_NEW_IF`定义为空；
 
-4. 如果不想在多处声明宏`EIGEN_MAKE_ALIGNED_OPERATOR_NEW`，可以通过以下两个方法：
+3. 如果不想在多处声明宏`EIGEN_MAKE_ALIGNED_OPERATOR_NEW`，可以通过以下两个方法：
 
-    - 使用`Eigen::DontAlign`关闭内存对齐，但是这会带来加载和存储上的耗时，主要取决于硬件：
+    - 使用`Eigen::DontAlign`关闭内存对齐，但是这会带来加载和存储上的额外耗时，具体影响程度主要取决于硬件：
 
         ```cpp
         class Foo {
@@ -648,7 +650,7 @@ Eigen::Vector3d v_transformed = T * v;                  // 相当于R * v + t
           Eigen::Matrix<double, 4, 1, Eigen::DontAlign> v;
         }
 
-    - 将固定大小可向量化的Eigen对象声明为类和结构体的私有成员，在创建类和结构体的对象时动态分配内存：
+    - 将固定大小可向量化的Eigen对象指针声明为类和结构体的私有成员，在创建类和结构体的对象时动态分配内存，优点是类和结构体不受到内存对齐的影响，缺点是需要额外的堆（heap）分配：
 
         ```cpp
         struct Foo_d {
@@ -667,6 +669,40 @@ Eigen::Vector3d v_transformed = T * v;                  // 相当于R * v + t
           Foo_d* d;
         };
         ```
+
+### 包含Eigen对象的STL容器
+
+1. 对于包含固定大小可向量化的Eigen对象的STL容器，需要使用超出默认对齐尺寸的堆内存管理器（over-aligned allocator）`Eigen::aligned_allocator`进行内存对齐：
+
+    ```cpp
+    std::map<int, Eigen::Vector4d, std::less<int>, Eigen::aligned_allocator<std::pair<const int, Eigen::Vector4d> > >
+    ```
+
+    - `std::less`是`std::map`默认的排序函数，但是在这里为了指定堆内存管理器类型需要在其之前指定；
+    - 如果使用C++17标准进行编译则不需要上述操作，因为C++17标准有对于超出默认对齐尺寸数据的动态内存分配机制；
+
+2. 如果需要使用`std::vector`，除了需要使用堆内存管理器`Eigen::aligned_allocator`，还需要引入头文件`#include <Eigen/StdVector>`进行内存对齐：
+
+    ```cpp
+    #include <Eigen/StdVector>
+
+    std::vector<Eigen::Vector4f, Eigen::aligned_allocator<Eigen::Vector4f> >
+    ```
+
+    - C++11之前的标准在调用`std::vector`的`resize()`成员函数时会调用元素的默认构造函数，造成元素的值传递，会破坏内存对齐；
+    - 如果使用C++11以后的标准进行编译则不需要上述操作，因为C++11标准修复了之前标准中`std::vector`存在的问题；
+
+3. 如果需要根据模板参数进行条件判断`std::vector`是否使用内存对齐，则需要使用宏`EIGEN_DEFINE_STL_VECTOR_SPECIALIZATION`进行判断：
+
+    ```cpp
+    #include<Eigen/StdVector>
+
+    EIGEN_DEFINE_STL_VECTOR_SPECIALIZATION(Eigen::Matrix2d)
+    std::vector<Eigen::Vector2d>
+    ```
+
+    - 如果使用C++11以后的标准进行编译则不需要上述操作，因为C++11标准修复了之前标准中`std::vector`存在的问题；
+    - 优点是不需要在多处指定堆内存管理器`Eigen::aligned_allocator`，缺点是需要在每次声明`std::vector`前声明宏`EIGEN_DEFINE_STL_VECTOR_SPECIALIZATION`，否则会使用默认堆内存管理器`std::allocator`造成程序崩溃；
 
 ## 参考
 

@@ -772,13 +772,18 @@ int main()
 1. [ElegantLaTeX/ElegantBook](https://github.com/ElegantLaTeX/ElegantBook)
 2. [ElegantLaTeX/ElegantPaper](https://github.com/ElegantLaTeX/ElegantPaper)
 3. [ElegantLaTeX/ElegantNote](https://github.com/ElegantLaTeX/ElegantNote)
+4. [DeathKing/LaTeX-Template-Cn](https://github.com/DeathKing/LaTeX-Template-Cn)
 
 ###### 简历模板
 
 1. [posquit0/Awesome-CV](https://github.com/posquit0/Awesome-CV)
-2. [dyweb/awesome-resume-for-chinese](https://github.com/dyweb/awesome-resume-for-chinese)
-3. [darwiin/yaac-another-awesome-cv](https://github.com/darwiin/yaac-another-awesome-cv)
-4. [huajh/awesome-latex-cv](https://github.com/huajh/awesome-latex-cv)
+2. [billryan/resume](https://github.com/billryan/resume)
+3. [sb2nov/resume](https://github.com/sb2nov/resume)
+4. [dyweb/awesome-resume-for-chinese](https://github.com/dyweb/awesome-resume-for-chinese)
+5. [jankapunkt/latexcv](https://github.com/jankapunkt/latexcv)
+6. [hijiangtao/resume](https://github.com/hijiangtao/resume)
+7. [darwiin/yaac-another-awesome-cv](https://github.com/darwiin/yaac-another-awesome-cv)
+8. [huajh/awesome-latex-cv](https://github.com/huajh/awesome-latex-cv)
 
 #### Beamer模板
 
