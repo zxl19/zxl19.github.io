@@ -25,7 +25,14 @@ man gdb
 gdb --help
 ```
 
-CMakeLists中-g -ggdb
+CMakeLists中添加-g -ggdb
+
+```shell
+gdb --args
+r
+bt
+p
+```
 
 ## 参考
 

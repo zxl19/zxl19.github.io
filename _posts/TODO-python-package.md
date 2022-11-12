@@ -33,6 +33,7 @@ pinned: false
 1. progressbar
 2. tqdm
 3. colorama
+4. rich
 
 ## 数据可视化
 
@@ -58,5 +59,11 @@ pinned: false
 
 1. cpplint
 2. cmakelang
+
+### 机器学习&深度学习
+
+1. pytorch
+2. tensorflow
+3. scikit-learn
 
 ## 参考

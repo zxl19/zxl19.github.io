@@ -184,7 +184,23 @@ virtual value_type function_name(variables) = 0;
 
 ### 结构体`struct`和类`class`
 
-### 结构体`struct`和共用体`union`
+1. 结构体是一种特殊形态的类，它和类一样，可以有自己的数据成员和函数成员，可以有自己的构造函数和析构函数，可以控制访问权限，可以继承，支持包含多态等，二者定义的语法形式也几乎一样；
+2. 结构体和类的唯一区别在于，结构体和类具有不同的默认访问控制属性：
+
+    - 在类中，对于未指定访问控制属性的成员，其访问控制属性为私有类型`private`；
+    - 在结构体中，对于未指定任何访问控制属性的成员，其访问控制属性为公有类型`public`；
+
+3. C++引入结构体是为了保持和C程序的兼容性；
+
+### 结构体`struct`和联合体`union`
+
+1. 联合体是一种特殊形态的类，它可以有自己的数据成员和函数成员，可以有自己的构造函数和析构函数，可以控制访问权限；
+2. 与结构体一样，联合体也是从C语言继承而来的，因此它的默认访问控制属性也是公共属性的；
+3. 联合体的全部数据成员共享同一组内存单元；
+4. 联合体在存储时具有两种存储形式，具体采用哪种存储形式由处理器决定：
+
+    - 大端模式（big endian）：高位字节保存在内存中的低位地址，低位字节保存在内存中的高位地址，这种存储方式符合人的正常思维习惯；
+    - 小端模式（little endian）：低位字节保存在内存中的低位地址，高位字节保存在内存中的高位地址，这种存储方式有利于计算机处理；
 
 ### `#define`和`const`
 
@@ -264,10 +280,12 @@ for (char c : str) {}
 3. [C++教程-菜鸟教程](https://www.runoob.com/cplusplus/cpp-tutorial.html)
 4. [C++入门教程-C语言中文网](http://c.biancheng.net/cplus/)
 5. [C++11教程-C语言中文网](http://c.biancheng.net/cplus/11/)
-6. [siez_t和int1-CSDN博客](https://blog.csdn.net/wc11223/article/details/70553583)
-7. [siez_t和int2-CSDN博客](https://blog.csdn.net/qq_41598072/article/details/84924997)
-8. [NULL和nullptr-CSDN博客](https://blog.csdn.net/qq_18108083/article/details/84346655)
-9. [嵌套模板中的>>1-Stack Overflow](https://stackoverflow.com/questions/6695261/template-within-template-why-should-be-within-a-nested-template-arg)
-10. [嵌套模板中的>>2-Stack Overflow](https://stackoverflow.com/questions/7087033/for-nested-templates-when-did-become-standard-c-instead-of)
-11. [C++11新特性，所有知识点都在这了！-程序喵大人的文章-知乎](https://zhuanlan.zhihu.com/p/139515439)
-12. [C++智能指针-小小将的文章-知乎](https://zhuanlan.zhihu.com/p/54078587)
+6. [共用体的大端模式和小端模式1-CSDN博客](https://blog.csdn.net/weixin_43955214/article/details/104218105)
+7. [共用体的大端模式和小端模式2-CSDN博客](https://blog.csdn.net/favory/article/details/4441361)
+8. [siez_t和int1-CSDN博客](https://blog.csdn.net/wc11223/article/details/70553583)
+9. [siez_t和int2-CSDN博客](https://blog.csdn.net/qq_41598072/article/details/84924997)
+10. [NULL和nullptr-CSDN博客](https://blog.csdn.net/qq_18108083/article/details/84346655)
+11. [嵌套模板中的>>1-Stack Overflow](https://stackoverflow.com/questions/6695261/template-within-template-why-should-be-within-a-nested-template-arg)
+12. [嵌套模板中的>>2-Stack Overflow](https://stackoverflow.com/questions/7087033/for-nested-templates-when-did-become-standard-c-instead-of)
+13. [C++11新特性，所有知识点都在这了！-程序喵大人的文章-知乎](https://zhuanlan.zhihu.com/p/139515439)
+14. [C++智能指针-小小将的文章-知乎](https://zhuanlan.zhihu.com/p/54078587)
