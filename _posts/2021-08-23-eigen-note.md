@@ -580,25 +580,27 @@ Eigen::Vector3d v_transformed = T * v;                  // 相当于R * v + t
 
 1. 内存对齐是向量化运算（vectorization）的前提；
 2. 向量化运算指的是使用单指令多数据流（Single Instruction Multiple Data，SIMD）指令集，实现一条指令对多个操作数的运算，进而实现运算加速；
-3. 常用的SIMD指令集包括SSE（Streaming SIMD Extensions）、AVX（ Advanced Vector Extensions）等，其中SSE的操作数要求16字节对齐；
+3. 常用的SIMD指令集包括SSE（Streaming SIMD Extensions）、AVX（ Advanced Vector Extensions）等，其中SSE的操作数要求16字节对齐，AVX的操作数要求32字节对齐；
 
 ### 固定大小可向量化的Eigen对象
 
-Eigen将编译时大小固定，并且大小是16字节的整数倍的对象称为固定大小可向量化的（fixed-size vectorizable），主要包括：
+1. Eigen将编译时大小固定，并且大小是16字节的整数倍的对象称为固定大小可向量化的（fixed-size vectorizable），主要包括：
 
-```cpp
-Eigen::Vector2d
-Eigen::Vector4d
-Eigen::Vector4f
-Eigen::Matrix2d
-Eigen::Matrix2f
-Eigen::Matrix4d
-Eigen::Matrix4f
-Eigen::Affine3d
-Eigen::Affine3f
-Eigen::Quaterniond
-Eigen::Quaternionf
-```
+    ```cpp
+    Eigen::Vector2d
+    Eigen::Vector4d
+    Eigen::Vector4f
+    Eigen::Matrix2d
+    Eigen::Matrix2f
+    Eigen::Matrix4d
+    Eigen::Matrix4f
+    Eigen::Affine3d
+    Eigen::Affine3f
+    Eigen::Quaterniond
+    Eigen::Quaternionf
+    ```
+
+2. 目前向量化运算支持128位数据包（例如SSE、AltiVec）、256位数据包（例如AVX）、512位数据包（例如AVX512），分别对应16字节、32字节、64字节，对于这些大小的数据包读写效率最高，因此对于固定大小可向量化的Eigen对象进行内存对齐有利于提高运算效率；
 
 ### 包含Eigen对象的类和结构体
 
@@ -606,11 +608,11 @@ Eigen::Quaternionf
 
     ```cpp
     class Foo {
-    private:
-    Eigen::Vector4d v;
+     private:
+      Eigen::Vector4d v;
 
-    public:
-    EIGEN_MAKE_ALIGNED_OPERATOR_NEW
+     public:
+      EIGEN_MAKE_ALIGNED_OPERATOR_NEW
     };
 
     Foo* foo = new Foo;
@@ -624,7 +626,8 @@ Eigen::Quaternionf
 2. 如果需要根据模板参数进行条件判断是否使用内存对齐，则需要使用宏`EIGEN_MAKE_ALIGNED_OPERATOR_NEW_IF`进行判断：
 
     ```cpp
-    template<int n> class Foo {
+    template<int n>
+    class Foo {
       typedef Eigen::Matrix<float, n, 1> Vector;
       enum { NeedsToAlign = (sizeof(Vector) % 16) == 0 };
       Vector v;
@@ -633,7 +636,7 @@ Eigen::Quaternionf
     };
 
     Foo<4> *foo4 = new Foo<4>; // foo4 is guaranteed to be 128bit-aligned
-    Foo<3> *foo3 = new Foo<3>; // foo3 has only the system defaultalignment guarantee
+    Foo<3> *foo3 = new Foo<3>; // foo3 has only the system default alignment guarantee
     ```
 
     - 在参数`NeedsToAlign`为真时，自动添加宏`EIGEN_MAKE_ALIGNED_OPERATOR_NEW`进行内存对齐；
@@ -703,6 +706,28 @@ Eigen::Quaternionf
 
     - 如果使用C++11以后的标准进行编译则不需要上述操作，因为C++11标准修复了之前标准中`std::vector`存在的问题；
     - 优点是不需要在多处指定堆内存管理器`Eigen::aligned_allocator`，缺点是需要在每次声明`std::vector`前声明宏`EIGEN_DEFINE_STL_VECTOR_SPECIALIZATION`，否则会使用默认堆内存管理器`std::allocator`造成程序崩溃；
+
+### 将Eigen对象作为函数参数传递
+
+1. 从C++的角度，不建议使用值传递，因为会调用拷贝构造函数，对于大对象较为耗时，建议使用引用传递，如果不需要修改函数参数，建议使用常引用传递；
+2. 从Eigen的角度，在将固定大小可向量化的Eigen对象作为函数参数传递时，不能使用值传递，应当使用引用传递，如果不需要修改函数参数，建议使用常引用传递；
+
+    ```cpp
+    void my_function(Eigen::Vector2d v);        // 错误
+    void my_function(const Eigen::Vector2d& v); // 正确
+    ```
+
+    ```cpp
+    struct Foo {
+      Eigen::Vector2d v;
+    };
+
+    void my_function(Foo v);                    // 错误
+    void my_function(const Foo& v);             // 正确
+    ```
+
+    - 原因是在值传递的过程中不考虑Eigen对象的内存对齐修饰符（alignment modifier）；
+    - Eigen对象作为函数返回值不受影响；
 
 ## 参考
 
