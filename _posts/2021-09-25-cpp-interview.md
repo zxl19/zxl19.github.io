@@ -84,7 +84,7 @@ static const value_type variable_name;
 #### 常引用
 
 ```cpp
-const value_type &reference_name;
+const value_type& reference_name;
 ```
 
 1. 常引用所引用的对象不能被更新；
@@ -112,6 +112,8 @@ inline value_type function_name(variables) {
 1. 内联函数不是在调用时发生控制转移，而是在编译时将函数体嵌入在每一个调用处；
 2. 对于一些功能简单、规模较小又使用频繁的函数，可以设计为内联函数；
 
+### `new`关键字
+
 ### `override`关键字
 
 ### `static`关键字
@@ -135,12 +137,6 @@ static value_type function_name(variables);
 ### `this`关键字
 
 ### `typedef`关键字
-
-### `union`关键字
-
-### 关于`static`
-
-### 关于`this`
 
 ### `using`关键字
 
