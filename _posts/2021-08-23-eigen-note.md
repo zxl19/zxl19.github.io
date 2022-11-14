@@ -684,7 +684,7 @@ Eigen::Vector3d v_transformed = T * v;                  // 相当于R * v + t
     - `std::less`是`std::map`默认的排序函数，但是在这里为了指定堆内存管理器类型需要在其之前指定；
     - 如果使用C++17标准进行编译则不需要上述操作，因为C++17标准有对于超出默认对齐尺寸数据的动态内存分配机制；
 
-2. 如果需要使用`std::vector`，除了需要使用堆内存管理器`Eigen::aligned_allocator`，还需要引入头文件`#include <Eigen/StdVector>`进行内存对齐：
+2. 如果需要使用`std::vector`，除了需要使用堆内存管理器`Eigen::aligned_allocator`，还需要包含头文件`#include <Eigen/StdVector>`进行内存对齐：
 
     ```cpp
     #include <Eigen/StdVector>
