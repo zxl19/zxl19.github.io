@@ -3,7 +3,7 @@ layout: post
 title: 摄影后期学习笔记
 date: 2022-06-10
 author: zxl19
-tags: [Photography, Note]
+tags: [Photography, Blog]
 comments: true
 toc: true
 pinned: false

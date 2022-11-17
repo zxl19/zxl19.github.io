@@ -125,7 +125,8 @@ pinned: false
 ## 数据结构
 
 1. [skarupke/flat_hash_map](https://github.com/skarupke/flat_hash_map)
-2. [ZigRazor/CXXGraph](https://github.com/ZigRazor/CXXGraph)
+2. [stotko/stdgpu](https://github.com/stotko/stdgpu)
+3. [ZigRazor/CXXGraph](https://github.com/ZigRazor/CXXGraph)
 
 ## 参考
 
