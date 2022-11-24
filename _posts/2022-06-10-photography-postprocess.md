@@ -31,6 +31,18 @@ RawTherapee是一款开源、跨平台的免费图像处理软件。
 4. [Rawtherapee中文教程1：认识界面与基本设置](https://www.bilibili.com/video/BV1QA411P7Uy)
 5. [RawTherapee中文教程2：解raw算法](https://www.bilibili.com/video/BV1g64y1e76a)
 
+### Luminar
+
+Luminar是一款使用人工智能技术的图像处理软件，操作相对简单，适合人像后期。
+
+#### 教程
+
+1. [Luminar Neo/AI/4的区别，哪个版本最好用，有没有升级的必要，旅行摄影后期智能修图软件对比评测](https://www.bilibili.com/video/BV1WL411N7U4)
+2. [Luminar AI和4有什么区别，哪个值得买，深度挖掘Luminar AI隐藏功能](https://www.bilibili.com/video/BV1RN411d7u9)
+3. [Lightroom vs Luminar摄影后期软件哪家强，全方位横向比较](https://www.bilibili.com/video/BV16Z4y1T7d6)
+4. [在购买Luminar AI前你需要知道的5件事，你的人工智能小助理](https://www.bilibili.com/video/BV1gT4y1u7ub)
+5. [Luminar NEO你够了！这么多拓展插件哪个值得买，有了之后能代替LR和PS吗？](https://www.bilibili.com/video/BV1A14y1p7vm)
+
 ## 常见问题及解决方法
 
 ### RAW文件格式

@@ -57,12 +57,13 @@ pinned: false
 ### 相机使用
 
 1. [【DPReview】如何正确握持相机](https://www.bilibili.com/video/BV1AG411x7ty)
-2. [【DPReview】为什么说波形图比直方图更好（拍照也是如此）](https://www.bilibili.com/video/BV1gr4y1b7nB)
-3. [【DPReview】6个小技巧 让你掌握手动对焦（拍照&视频）](https://www.bilibili.com/video/BV1WL4y1V7CQ)
+2. [【DPReview】大胡子教官的摄影基础练习：自动感光度（ISO）](https://www.bilibili.com/video/BV1YP4y1o7yF)
+3. [【DPReview】大胡子教官的摄影基础练习：背键对焦](https://www.bilibili.com/video/BV14t4y177hP)
 4. [【DPReview】大胡子教官的摄影基础练习：圆偏振镜（CPL）](https://www.bilibili.com/video/BV18P411j7uW)
-5. [【DPReview】大胡子教官的摄影基础练习：自动感光度（ISO）](https://www.bilibili.com/video/BV1YP4y1o7yF)
-6. [【DPReview】大胡子教官的摄影基础练习：背键对焦](https://www.bilibili.com/video/BV14t4y177hP)
-7. [【DPReview】大胡子教官的摄影基础练习：JPG vs. Raw](https://www.bilibili.com/video/BV1Ne411u7zt)
+5. [【DPReview】大胡子教官的摄影基础练习：JPG vs. Raw](https://www.bilibili.com/video/BV1Ne411u7zt)
+6. [【DPReview】大胡子教官的摄影基础练习：白平衡](https://www.bilibili.com/video/BV12K411d7ku)
+7. [【DPReview】6个小技巧 让你掌握手动对焦（拍照&视频）](https://www.bilibili.com/video/BV1WL4y1V7CQ)
+8. [【DPReview】为什么说波形图比直方图更好（拍照也是如此）](https://www.bilibili.com/video/BV1gr4y1b7nB)
 
 ### 清洁保养
 
@@ -76,7 +77,16 @@ pinned: false
 6. [【DPReview 4K】如何清洁（毁灭）你的镜头](https://www.bilibili.com/video/BV1Bz4y1Q7PZ)
 7. [【DPReview】如何清洁（毁灭）你的相机传感器](https://www.bilibili.com/video/BV1MY4y1b7Uh)
 
-## 相机品牌调研
+## 相机品牌选择
+
+### 品牌调研
+
+1. [【DPReview】尼康相机的好与坏](https://www.bilibili.com/video/BV1ht4y1H7fB)
+2. [【DPReview】索尼α相机的好与坏](https://www.bilibili.com/video/BV17S4y1m7d4)
+3. [【DPReview】佳能相机的好与坏](https://www.bilibili.com/video/BV1UY4y1z7Ee)
+4. [【DPReview】松下相机的好与坏](https://www.bilibili.com/video/BV1or4y157of)
+5. [【DPReview】徕卡的好与坏](https://www.bilibili.com/video/BV1Gd4y1R7aQ)
+6. [【DPReview】富士相机的好与坏](https://www.bilibili.com/video/BV1D14y1H7xH)
 
 ### 横向测评
 
@@ -135,6 +145,7 @@ pinned: false
 
 1. [【富士XT4】不一定提升创造力但能帮你避坑の配件分享](https://www.bilibili.com/video/BV1ii4y1u7eK)
 2. [【富士X100V】一台没有女孩不爱的相机丨必买的复古配件](https://www.bilibili.com/video/BV1Mb4y167oK)
+3. [富士相机如何安装Peak Design快拆扣，穿针引线绝活传授](https://www.bilibili.com/video/BV1mV4y1T72A)
 
 ## 富士相机相关
 
