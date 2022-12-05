@@ -13,7 +13,7 @@ pinned: false
 
 <!-- more -->
 
-## 文章结构
+## 文章格式
 
 1. 使用官方提供的模板；
 2. 采用总-分结构，先综述本文的方法，然后介绍方法的各个部分，对于文章创新点对应的部分要着重介绍，最后通过实验说明：
@@ -41,19 +41,27 @@ pinned: false
     Acknowledgements
     ```
 
-3. 文字采用两端对齐更加美观；
-4. 公式和编号右对齐，在中间用`Tab`键隔开；
+3. 在使用Word时，文字采用两端对齐更加美观；
+4. 在使用Word时，公式和编号右对齐，在中间用`Tab`键隔开；
+5. 英文专有名词要在首次出现时说明中文全称、英文全称和英文缩写，后文才能使用英文缩写：
+
+    ```text
+    即时定位与地图构建（Simultaneous Localization And Mapping，SLAM）
+    ```
+
+6. 需要强调的数字使用阿拉伯数字，其余数字使用汉语数字；
 
 ## 图片
 
 ### 整体原则
 
-1. 图片中中文使用宋体，英文和数字使用Times New Roman；
-2. 图片分辨率大于800像素；
-3. 在使用Word时图片建议使用`.tiff`格式，更加清晰；
-4. 在使用$\LaTeX$时图片格式建议首先使用`.pdf`格式，其次使用`.png`或`.jpg`格式，`.eps`格式已较少使用；
-5. 指代图片时应使用图片编号，例如：“如图1所示”；
-6. 在转换PDF时，使用`打印->打印机属性->印刷质量`提高图片的清晰度；
+1. 在设置图片样式时，优先使用代码设置，易于调整和复现；
+2. 图片中中文使用宋体，英文和数字使用Times New Roman；
+3. 图片分辨率大于800像素；
+4. 在使用Word时，图片建议使用`.tiff`格式，更加清晰；
+5. 在使用$\LaTeX$时，图片格式建议首先使用`.pdf`格式，其次使用`.png`或`.jpg`格式，`.eps`格式已较少使用；
+6. 指代图片时应使用图片编号，例如：“如图1所示”；
+7. 在转换PDF时，使用`打印->打印机属性->印刷质量`提高图片的清晰度；
 
 ### 曲线图
 
@@ -167,11 +175,14 @@ pinned: false
 
 ## 参考
 
-1. [MATLAB画图字体-CSDN博客](https://blog.csdn.net/weixin_44891861/article/details/117032147)
-2. [MATLAB坐标轴位置和方向设置-CSDN博客](https://blog.csdn.net/yuejisuo1948/article/details/80801506)
-3. [MATLAB坐标轴刻度设置-百度经验](https://jingyan.baidu.com/article/c1a3101e044849de646deb43.html)
-4. [MATLAB坐标轴刻度设置-CSDN博客](https://blog.csdn.net/yq_forever/article/details/86594602)
-5. [审稿意见怎么回复？需要注意什么？-知乎](https://www.zhihu.com/question/370758333)
-6. [英文论文写作有哪些需要注意的细节？-知乎](https://www.zhihu.com/question/46825717)
-7. [我来分享下自己总结的审稿意见回复的模板吧-方差的文章-知乎](https://zhuanlan.zhihu.com/p/346911007)
-8. [美国老姐看完200+中国学生SCI论文，怒写超详细“中国人英文论文写作指南”，还被推上了B站热门…-量子位的文章-知乎](https://zhuanlan.zhihu.com/p/512095069)
+1. [Matlab自动导出论文插图-阿昆的科研日常的文章-知乎](https://zhuanlan.zhihu.com/p/82772502)
+2. [MATLAB如何导出精美的论文插图？-易夕的文章-知乎](https://zhuanlan.zhihu.com/p/65116358)
+3. [MATLAB绘图：输入LaTeX公式-易夕的文章-知乎](https://zhuanlan.zhihu.com/p/148709763)
+4. [MATLAB画图字体-CSDN博客](https://blog.csdn.net/weixin_44891861/article/details/117032147)
+5. [MATLAB坐标轴位置和方向设置-CSDN博客](https://blog.csdn.net/yuejisuo1948/article/details/80801506)
+6. [MATLAB坐标轴刻度设置-百度经验](https://jingyan.baidu.com/article/c1a3101e044849de646deb43.html)
+7. [MATLAB坐标轴刻度设置-CSDN博客](https://blog.csdn.net/yq_forever/article/details/86594602)
+8. [审稿意见怎么回复？需要注意什么？-知乎](https://www.zhihu.com/question/370758333)
+9. [英文论文写作有哪些需要注意的细节？-知乎](https://www.zhihu.com/question/46825717)
+10. [我来分享下自己总结的审稿意见回复的模板吧-方差的文章-知乎](https://zhuanlan.zhihu.com/p/346911007)
+11. [美国老姐看完200+中国学生SCI论文，怒写超详细“中国人英文论文写作指南”，还被推上了B站热门…-量子位的文章-知乎](https://zhuanlan.zhihu.com/p/512095069)
