@@ -268,10 +268,43 @@ for (char c : str) {}
 
 ### 关于智能指针
 
-1. `std::shared_ptr`
-2. `std::weak_ptr`
-3. `std::unique_ptr`
-4. `std::auto_ptr`：C++11弃用，C++17移出；
+使用时需要包含头文件：
+
+```cpp
+#include <memory>
+```
+
+1. `std::auto_ptr`：自动指针，C++11弃用，C++17移出；
+2. `std::shared_ptr`：共享指针；
+3. `std::weak_ptr`：弱共享指针；
+4. `std::unique_ptr`：独享指针；
+
+#### 共享指针辅助构造函数`make_shared()`
+
+原型声明：
+
+```cpp
+template <class T, class... Args>
+shared_ptr<T> make_shared(Args&&... args);
+```
+
+#### 独享指针辅助构造函数`make_unique()`
+
+原型声明：
+
+```cpp
+template <class T, class... Args>
+unique_ptr<T> make_unique(Args&&... args);
+```
+
+在C++14中引入，在C++11中可以自己实现：
+
+```cpp
+template <typename T, typename... Args>
+std::unique_ptr<T> make_unique(Args&&... args) {
+    return std::unique_ptr<T>(new T(std::forward<Args>(args)...));
+}
+```
 
 ## 参考
 
@@ -288,4 +321,6 @@ for (char c : str) {}
 11. [嵌套模板中的>>1-Stack Overflow](https://stackoverflow.com/questions/6695261/template-within-template-why-should-be-within-a-nested-template-arg)
 12. [嵌套模板中的>>2-Stack Overflow](https://stackoverflow.com/questions/7087033/for-nested-templates-when-did-become-standard-c-instead-of)
 13. [C++11新特性，所有知识点都在这了！-程序喵大人的文章-知乎](https://zhuanlan.zhihu.com/p/139515439)
-14. [C++智能指针-小小将的文章-知乎](https://zhuanlan.zhihu.com/p/54078587)
+14. [c++是否应避免使用普通指针，而使用智能指针（包括shared，unique，weak）？-张小方的回答-知乎](https://www.zhihu.com/question/319277442/answer/1517987598)
+15. [现代C++：一文读懂智能指针-FOCUS的文章-知乎](https://zhuanlan.zhihu.com/p/150555165)
+16. [C++智能指针-小小将的文章-知乎](https://zhuanlan.zhihu.com/p/54078587)
