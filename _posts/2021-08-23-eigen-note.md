@@ -515,6 +515,8 @@ Eigen::Quaterniond q = Eigen::Quaterniond(q_w, q_x, q_y, q_z);
 Eigen::Quaterniond q = Eigen::Quaterniond(rotation_vector);
 // 可以把旋转矩阵赋值给四元数
 Eigen::Quaterniond q = Eigen::Quaterniond(rotation_matrix);
+// 向量v1和向量v2之间的旋转，将向量v1旋转到与向量v2同向，对于两个向量的模长没有要求
+Eigen::Quaterniond q = Eigen::Quaterniond::FromTwoVectors(v1, v2);
 // 访问四元数中各元素
 q.x()
 q.y()
