@@ -57,13 +57,14 @@ pinned: false
 ### 相机使用
 
 1. [【DPReview】如何正确握持相机](https://www.bilibili.com/video/BV1AG411x7ty)
-2. [【DPReview】大胡子教官的摄影基础练习：自动感光度（ISO）](https://www.bilibili.com/video/BV1YP4y1o7yF)
-3. [【DPReview】大胡子教官的摄影基础练习：背键对焦](https://www.bilibili.com/video/BV14t4y177hP)
-4. [【DPReview】大胡子教官的摄影基础练习：圆偏振镜（CPL）](https://www.bilibili.com/video/BV18P411j7uW)
+2. [【DPReview】大胡子教官的摄影基础练习：圆偏振镜（CPL）](https://www.bilibili.com/video/BV18P411j7uW)
+3. [【DPReview】大胡子教官的摄影基础练习：自动感光度（ISO）](https://www.bilibili.com/video/BV1YP4y1o7yF)
+4. [【DPReview】大胡子教官的摄影基础练习：背键对焦](https://www.bilibili.com/video/BV14t4y177hP)
 5. [【DPReview】大胡子教官的摄影基础练习：JPG vs. Raw](https://www.bilibili.com/video/BV1Ne411u7zt)
 6. [【DPReview】大胡子教官的摄影基础练习：白平衡](https://www.bilibili.com/video/BV12K411d7ku)
-7. [【DPReview】6个小技巧 让你掌握手动对焦（拍照&视频）](https://www.bilibili.com/video/BV1WL4y1V7CQ)
-8. [【DPReview】为什么说波形图比直方图更好（拍照也是如此）](https://www.bilibili.com/video/BV1gr4y1b7nB)
+7. [【DPReview】大胡子教官的摄影基础练习：透视](https://www.bilibili.com/video/BV1uP4y1d75s)
+8. [【DPReview】6个小技巧 让你掌握手动对焦（拍照&视频）](https://www.bilibili.com/video/BV1WL4y1V7CQ)
+9. [【DPReview】为什么说波形图比直方图更好（拍照也是如此）](https://www.bilibili.com/video/BV1gr4y1b7nB)
 
 ### 清洁保养
 
@@ -73,9 +74,10 @@ pinned: false
 2. [【顾俊】如何清洁你的相机和镜头！](https://www.bilibili.com/video/BV18b411n7u7)
 3. [【顾俊】清洁相机传感器居然是如此的简单？！](https://www.bilibili.com/video/BV1iQ4y1M7wz)
 4. [相机镜头全面清洁指南：自己清理CMOS传感器其实比想象中简单多了，清洁用品买哪家，迷你版对比测试](https://www.bilibili.com/video/BV1vR4y147T7)
-5. [【DPReview 4K】受损的镜头会如何影响画质（灰尘、液体、指印和划痕）](https://www.bilibili.com/video/BV1za4y1Y75V)
-6. [【DPReview 4K】如何清洁（毁灭）你的镜头](https://www.bilibili.com/video/BV1Bz4y1Q7PZ)
-7. [【DPReview】如何清洁（毁灭）你的相机传感器](https://www.bilibili.com/video/BV1MY4y1b7Uh)
+5. [擦镜头是件陶冶情操的小事，如何自己安全清洁镜头和滤镜](https://www.bilibili.com/video/BV1DK411c7DB)
+6. [【DPReview 4K】受损的镜头会如何影响画质（灰尘、液体、指印和划痕）](https://www.bilibili.com/video/BV1za4y1Y75V)
+7. [【DPReview 4K】如何清洁（毁灭）你的镜头](https://www.bilibili.com/video/BV1Bz4y1Q7PZ)
+8. [【DPReview】如何清洁（毁灭）你的相机传感器](https://www.bilibili.com/video/BV1MY4y1b7Uh)
 
 ## 相机品牌选择
 
@@ -95,6 +97,7 @@ pinned: false
 1. [【毒德大学字幕组】TCSTV八大品牌相机JPEG直出横评](https://www.bilibili.com/video/BV1Ys411e7nh)
 2. [【毒德大学字幕组】DPReview中端APS-C画幅相机横评](https://www.bilibili.com/video/BV1JJ411Q7WA)
 3. [【DPReview】年轻人的第一台相机？入门级APS-C画幅无反横评](https://www.bilibili.com/video/BV1oE411T7vV)
+4. [【DPReview】拍立得相机横评](https://www.bilibili.com/video/BV1u44y1f7iy)
 
 ### 购买渠道
 
@@ -135,6 +138,12 @@ pinned: false
 7. [强烈推荐，399元超级性价比便携三脚架极马小路C15I，别错过这车了](https://www.bilibili.com/video/BV1uq4y1u7bN)
 8. [都说让我试试马小路三脚架，我用了并且还爱上了](https://www.bilibili.com/video/BV1sU4y1n7Py)
 
+#### ND滤镜
+
+1. [ND减光滤镜实战应用，如何轻松拍摄出日光慢门长曝光效果](https://www.bilibili.com/video/BV1Vo4y1y7Rj)
+2. [风光滤镜系统入坑指南：圆形和方片滤镜如何选择，购买时需要注意哪些关键点，各种滤镜的利与弊](https://www.bilibili.com/video/BV1f5411Z7ow)
+3. [5个使用插片滤镜系统时容易犯的错误 - ND/GND和CPL滤镜购买及使用攻略](https://www.bilibili.com/video/BV1X7411E7ZT)
+
 #### UV镜
 
 1. [老生常谈—我们到底需不需要给镜头装UV镜？-翔宇情的文章-知乎](https://zhuanlan.zhihu.com/p/43656792)
@@ -161,10 +170,11 @@ pinned: false
 2. [【DPReview 4K】中端APS-C对决！索尼α6400富士X-S10对比测评](https://www.bilibili.com/video/BV1ty4y1t7c4)
 3. [【DPReview 4K】富士Fujifilm X-T30II&X-S10对比测评](https://www.bilibili.com/video/BV13F411a75k)
 4. [【DPReview】富士Fujifilm XF&XC 35mm F2横评](https://www.bilibili.com/video/BV1AE411g7hh)
-5. [富士相机X系列入坑指南II-2021年了富士相机该如何选择购买，漫谈富士产品线的划分](https://www.bilibili.com/video/BV14h411b7dX)
-6. [富士相机X系列入坑指南，新手相机怎么挑选，购买避坑经验分享](https://www.bilibili.com/video/BV18V411m7UG)
-7. [这个相机真的有点不一样！——富士X-S10无反相机【值不值得买第508期】](https://www.bilibili.com/video/BV1Y34y1Q7Hu)
-8. [当富士X-T4遇上X-Pro3【值不值得买第431期】](https://www.bilibili.com/video/BV1oV411C7hJ)
+5. [【DPReview】我们眼中最好的富士X卡口镜头](https://www.bilibili.com/video/BV1LV4y1A7i3)
+6. [富士相机X系列入坑指南II-2021年了富士相机该如何选择购买，漫谈富士产品线的划分](https://www.bilibili.com/video/BV14h411b7dX)
+7. [富士相机X系列入坑指南，新手相机怎么挑选，购买避坑经验分享](https://www.bilibili.com/video/BV18V411m7UG)
+8. [这个相机真的有点不一样！——富士X-S10无反相机【值不值得买第508期】](https://www.bilibili.com/video/BV1Y34y1Q7Hu)
+9. [当富士X-T4遇上X-Pro3【值不值得买第431期】](https://www.bilibili.com/video/BV1oV411C7hJ)
 
 ### 使用技巧
 

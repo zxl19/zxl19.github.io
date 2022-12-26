@@ -297,7 +297,7 @@ template <class T, class... Args>
 unique_ptr<T> make_unique(Args&&... args);
 ```
 
-在C++14中引入，在C++11中可以自己实现：
+在C++14中引入，在C++11中可以使用以下方式实现：
 
 ```cpp
 template <typename T, typename... Args>
