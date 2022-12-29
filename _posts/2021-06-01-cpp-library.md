@@ -55,14 +55,15 @@ pinned: false
 ## 调试分析
 
 1. [google/googletest](https://github.com/google/googletest)
-2. [catchorg/Catch2](https://github.com/catchorg/Catch2)
-3. [google/benchmark](https://github.com/google/benchmark)
-4. [google/glog](https://github.com/google/glog)
-5. [onqtam/doctest](https://github.com/onqtam/doctest)
-6. [google/orbit](https://github.com/google/orbit)
-7. [gflags/gflags](https://github.com/gflags/gflags)
-8. [jonasmr/microprofile](https://github.com/jonasmr/microprofile)
-9. [mpusz/units](https://github.com/mpusz/units)
+2. [gabime/spdlog](https://github.com/gabime/spdlog)
+3. [catchorg/Catch2](https://github.com/catchorg/Catch2)
+4. [google/benchmark](https://github.com/google/benchmark)
+5. [google/glog](https://github.com/google/glog)
+6. [onqtam/doctest](https://github.com/onqtam/doctest)
+7. [google/orbit](https://github.com/google/orbit)
+8. [gflags/gflags](https://github.com/gflags/gflags)
+9. [jonasmr/microprofile](https://github.com/jonasmr/microprofile)
+10. [mpusz/units](https://github.com/mpusz/units)
 
 ## 数据可视化
 

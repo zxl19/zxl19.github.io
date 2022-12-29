@@ -16,7 +16,7 @@ pinned: false
 ## Sophus Hello World
 
 1. Sophus是基于Eigen实现的李群和李代数库；
-2. Sophus是纯头文件库，使用时需要引入以下头文件：
+2. Sophus是纯头文件库，使用时需要包含头文件：
 
     ```cpp
     #include "sophus/so3.hpp"       // SO(3)
@@ -41,21 +41,22 @@ include_directories(${SOPHUS_INCLUDE_DIRS})
 ```cpp
 Eigen::Matrix3d R;
 Eigen::Quaterniond q(R);
-Sophus::SO3d SO3_R(R);                  // Sophus::SO3d可以直接从旋转矩阵构造
-Sophus::SO3d SO3_q(q);                  // 也可以通过四元数构造，二者是等价的
-Eigen::Matrix3d R1 = SO3_R.matrix();    // 转成矩阵
-Eigen::Matrix3d R2 = SO3_q.matrix();    // 转成矩阵
+Sophus::SO3d SO3(R);                            // Sophus::SO3d可以直接从旋转矩阵构造
+Sophus::SO3d SO3(q);                            // 也可以通过四元数构造，二者是等价的
+Sophus::SO3d SO3_inv = SO3.inverse();           // 取李群逆
+Eigen::Matrix3d R = SO3.matrix();               // 转成矩阵
+Eigen::Quaterniond q = SO3.unit_quaternion();   // 转成单位四元数
 
 // 使用对数映射获得李代数
-Vector3d so3 = SO3_R.log();
+Eigen::Vector3d so3 = SO3.log();
 // hat为向量到反对称矩阵
 Sophus::SO3d::hat(so3)
 // vee为反对称矩阵到向量
 Sophus::SO3d::vee(Sophus::SO3d::hat(so3))
 
 // 增量扰动模型的更新
-Vector3d update_so3(1e-4, 0, 0);        // 更新量
-Sophus::SO3d SO3_updated = Sophus::SO3d::exp(update_so3) * SO3_R;
+Eigen::Vector3d update_so3(1e-4, 0, 0);         // 更新量
+Sophus::SO3d SO3_updated = Sophus::SO3d::exp(update_so3) * SO3;
 ```
 
 ## SE(3)位姿
@@ -63,13 +64,15 @@ Sophus::SO3d SO3_updated = Sophus::SO3d::exp(update_so3) * SO3_R;
 ```cpp
 Eigen::Matrix3d R;
 Eigen::Quaterniond q(R);
-Vector3d t(1, 0, 0);
-Sophus::SE3d SE3_Rt(R, t);                      // 从R，t构造SE(3)
-Sophus::SE3d SE3_qt(q, t);                      // 从q，t构造SE(3)
-Eigen::Matrix4d T1 = SE3_Rt.matrix();           // 转成矩阵
-Eigen::Matrix4d T2 = SE3_qt.matrix();           // 转成矩阵
-Eigen::Matrix3d R1 = SE3_Rt.so3().matrix();     // 取旋转矩阵
-Eigen::Vector3d t1 = SE3_Rt.translation();      // 取平移向量
+Eigen::Vector3d t(1, 0, 0);
+Sophus::SE3d SE3(R, t);                         // 从R，t构造SE(3)
+Sophus::SE3d SE3(q, t);                         // 从q，t构造SE(3)
+Sophus::SE3d SE3_inv = SE3.inverse();           // 取李群逆
+Sophus::SO3d SO3 = SE3.so3();                   // 取李群旋转
+Eigen::Matrix4d T = SE3.matrix();               // 转成矩阵
+Eigen::Matrix3d R = SE3.so3().matrix();         // 取旋转矩阵
+Eigen::Quaterniond q = SE3.unit_quaternion();   // 取单位四元数
+Eigen::Vector3d t = SE3.translation();          // 取平移向量
 
 // 李代数se(3)是一个六维向量，方便起见先typedef一下
 typedef Eigen::Matrix<double, 6, 1> Vector6d;
