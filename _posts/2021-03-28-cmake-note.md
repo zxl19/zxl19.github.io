@@ -239,12 +239,13 @@ target_link_libraries()
 ### GitHub
 
 1. [ttroy50/cmake-examples](https://github.com/ttroy50/cmake-examples)
-2. [Effective Modern CMake](https://gist.github.com/mbinna/c61dbb39bca0e4fb7d1f73b0d66a4fd1)
-3. [kelthuzadx/EffectiveModernCppChinese](https://github.com/kelthuzadx/EffectiveModernCppChinese)
-4. [TheLartians/ModernCppStarter](https://github.com/TheLartians/ModernCppStarter)
-5. [cpp-best-practices/gui_starter_template](https://github.com/cpp-best-practices/gui_starter_template)
+2. [mbinna/effective_modern_cmake.md](https://gist.github.com/mbinna/c61dbb39bca0e4fb7d1f73b0d66a4fd1)
+3. [TheLartians/ModernCppStarter](https://github.com/TheLartians/ModernCppStarter)
+4. [cpp-best-practices/gui_starter_template](https://github.com/cpp-best-practices/gui_starter_template)
+5. [pabloariasal/modern-cmake-sample](https://github.com/pabloariasal/modern-cmake-sample)
 6. [district10/cmake-templates](https://github.com/district10/cmake-templates)
-7. [nikolausmayer/cmake-templates](https://github.com/nikolausmayer/cmake-templates)
+7. [Modern-CMake-CN/Modern-CMake-zh_CN](https://github.com/Modern-CMake-CN/Modern-CMake-zh_CN)
+8. [nikolausmayer/cmake-templates](https://github.com/nikolausmayer/cmake-templates)
 
 ### 书籍
 
