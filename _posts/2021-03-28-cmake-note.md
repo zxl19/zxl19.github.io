@@ -242,10 +242,12 @@ target_link_libraries()
 2. [mbinna/effective_modern_cmake.md](https://gist.github.com/mbinna/c61dbb39bca0e4fb7d1f73b0d66a4fd1)
 3. [TheLartians/ModernCppStarter](https://github.com/TheLartians/ModernCppStarter)
 4. [cpp-best-practices/gui_starter_template](https://github.com/cpp-best-practices/gui_starter_template)
-5. [pabloariasal/modern-cmake-sample](https://github.com/pabloariasal/modern-cmake-sample)
-6. [district10/cmake-templates](https://github.com/district10/cmake-templates)
-7. [Modern-CMake-CN/Modern-CMake-zh_CN](https://github.com/Modern-CMake-CN/Modern-CMake-zh_CN)
-8. [nikolausmayer/cmake-templates](https://github.com/nikolausmayer/cmake-templates)
+5. [filipdutescu/modern-cpp-template](https://github.com/filipdutescu/modern-cpp-template)
+6. [pr0g/cmake-examples](https://github.com/pr0g/cmake-examples)
+7. [pabloariasal/modern-cmake-sample](https://github.com/pabloariasal/modern-cmake-sample)
+8. [district10/cmake-templates](https://github.com/district10/cmake-templates)
+9. [Modern-CMake-CN/Modern-CMake-zh_CN](https://github.com/Modern-CMake-CN/Modern-CMake-zh_CN)
+10. [nikolausmayer/cmake-templates](https://github.com/nikolausmayer/cmake-templates)
 
 ### 书籍
 
