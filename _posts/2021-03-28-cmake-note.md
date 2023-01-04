@@ -13,6 +13,18 @@ pinned: true
 
 <!-- more -->
 
+## CMake Hello World
+
+1. CMake是Cross Platform Make的简称，是开源跨平台的构建生成（build generator）工具；
+2. CMake使用`CMakeLists.txt`配置文件控制编译过程，以C++编译过程为例：
+
+    ```shell
+    mkdir build
+    cd build
+    cmake ..    # CMake根据CMakeLists.txt配置文件生成Makefile文件
+    make -j     # 编译器根据Makefile文件完成编译过程
+    ```
+
 ## 常用模板
 
 ### 文件夹结构
@@ -254,24 +266,25 @@ target_link_libraries()
 
 ## 参考
 
-1. [gaoxiang12/faster-lio](https://github.com/gaoxiang12/faster-lio)
-2. [Ceres CMakeLists-CSDN博客](https://blog.csdn.net/sinat_28752257/article/details/82758546)
-3. [CMakeLists-简书](https://www.jianshu.com/p/95c744a5c6f1)
-4. [指定C++编译标准1-Stack Overflow](https://stackoverflow.com/questions/42834844/how-to-get-cmake-to-pass-either-std-c14-c1y-or-c17-c1z-based-on-gcc-vers)
-5. [指定C++编译标准2-Crascit](https://crascit.com/2015/03/28/enabling-cxx11-in-cmake/)
-6. [指定C++编译标准3-腾讯云](https://cloud.tencent.com/developer/article/1741243)
-7. [指定C++编译标准4-azmddy](https://azmddy.github.io/article/IT%E5%9F%BA%E7%A1%80/%E6%9E%84%E5%BB%BA/CMake/cmake-day-2.html)
-8. [Eigen内存对齐-卷儿的文章-知乎](https://zhuanlan.zhihu.com/p/349413376)
-9. [catkin/CMakeLists.txt-ROS Wiki](http://wiki.ros.org/catkin/CMakeLists.txt)
-10. [HKUST-Aerial-Robotics/A-LOAM](https://github.com/HKUST-Aerial-Robotics/A-LOAM)
-11. [RobustFieldAutonomyLab/LeGO-LOAM](https://github.com/RobustFieldAutonomyLab/LeGO-LOAM)
-12. [TixiaoShan/LIO-SAM](https://github.com/TixiaoShan/LIO-SAM)
-13. [TixiaoShan/LVI-SAM](https://github.com/TixiaoShan/LVI-SAM)
-14. [koide3/hdl_graph_slam](https://github.com/koide3/hdl_graph_slam)
-15. [add_definitions()-CSDN博客](https://blog.csdn.net/fb_941219/article/details/107376017)
-16. [编译选项设置区别-CSDN博客](https://blog.csdn.net/10km/article/details/51731959)
-17. [变量1-简书](https://www.jianshu.com/p/1827cd86d576)
-18. [变量2-CSDN博客](https://blog.csdn.net/juluwangriyue/article/details/123494008)
-19. [变量3-CSDN博客](https://blog.csdn.net/wzj_110/article/details/116674655)
-20. [CMake如何入门？-0xCCCCCCCC的回答-知乎](https://www.zhihu.com/question/58949190/answer/999701073)
-21. [CMake和Modern CMake相关资料（不定期补充）-迦非喵的文章-知乎](https://zhuanlan.zhihu.com/p/205324774)
+1. [CMake](https://cmake.org)
+2. [gaoxiang12/faster-lio](https://github.com/gaoxiang12/faster-lio)
+3. [Ceres CMakeLists-CSDN博客](https://blog.csdn.net/sinat_28752257/article/details/82758546)
+4. [CMakeLists-简书](https://www.jianshu.com/p/95c744a5c6f1)
+5. [指定C++编译标准1-Stack Overflow](https://stackoverflow.com/questions/42834844/how-to-get-cmake-to-pass-either-std-c14-c1y-or-c17-c1z-based-on-gcc-vers)
+6. [指定C++编译标准2-Crascit](https://crascit.com/2015/03/28/enabling-cxx11-in-cmake/)
+7. [指定C++编译标准3-腾讯云](https://cloud.tencent.com/developer/article/1741243)
+8. [指定C++编译标准4-azmddy](https://azmddy.github.io/article/IT%E5%9F%BA%E7%A1%80/%E6%9E%84%E5%BB%BA/CMake/cmake-day-2.html)
+9. [Eigen内存对齐-卷儿的文章-知乎](https://zhuanlan.zhihu.com/p/349413376)
+10. [catkin/CMakeLists.txt-ROS Wiki](http://wiki.ros.org/catkin/CMakeLists.txt)
+11. [HKUST-Aerial-Robotics/A-LOAM](https://github.com/HKUST-Aerial-Robotics/A-LOAM)
+12. [RobustFieldAutonomyLab/LeGO-LOAM](https://github.com/RobustFieldAutonomyLab/LeGO-LOAM)
+13. [TixiaoShan/LIO-SAM](https://github.com/TixiaoShan/LIO-SAM)
+14. [TixiaoShan/LVI-SAM](https://github.com/TixiaoShan/LVI-SAM)
+15. [koide3/hdl_graph_slam](https://github.com/koide3/hdl_graph_slam)
+16. [add_definitions()-CSDN博客](https://blog.csdn.net/fb_941219/article/details/107376017)
+17. [编译选项设置区别-CSDN博客](https://blog.csdn.net/10km/article/details/51731959)
+18. [变量1-简书](https://www.jianshu.com/p/1827cd86d576)
+19. [变量2-CSDN博客](https://blog.csdn.net/juluwangriyue/article/details/123494008)
+20. [变量3-CSDN博客](https://blog.csdn.net/wzj_110/article/details/116674655)
+21. [CMake如何入门？-0xCCCCCCCC的回答-知乎](https://www.zhihu.com/question/58949190/answer/999701073)
+22. [CMake和Modern CMake相关资料（不定期补充）-迦非喵的文章-知乎](https://zhuanlan.zhihu.com/p/205324774)

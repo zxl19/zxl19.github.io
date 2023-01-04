@@ -1,6 +1,6 @@
 ---
 layout: post
-title: C++设置输出样式
+title: C++设置输出颜色
 date: 2021-10-09
 author: zxl19
 tags: [C++, Note]
@@ -9,52 +9,13 @@ toc: true
 pinned: false
 ---
 
-C++设置输出样式的方法，包括输出到文件和终端中的数字格式、字体和底纹样式。
+C++设置输出颜色的方法，包括文字和底纹颜色。
 
 <!-- more -->
 
-## 文件输出
+## 使用ANSI转义序列
 
-```cpp
-#include <iostream>
-
-int main() {
-    std::ofstream outfile("output.txt", std::ios::out);
-    outfile << "Hello World!" << std::endl;
-    return 0;
-}
-```
-
-## 数字格式
-
-### 有效数字和小数位数
-
-```cpp
-#include <iostream>
-#include <iomanip>
-
-int main() {
-    double pi = 3.14159265;
-
-    // 输出六位有效数字：3.14159
-    std::cout << std::setprecision(6) << pi << std::endl;
-
-    // 固定小数点，输出六位小数：3.141593
-    // 全局设置
-    std::cout.setf(std::ios::fixed);
-    std::cout << std::setprecision(6) << pi << std::endl;
-    std::cout.unsetf(std::ios::fixed);
-    // 局部设置
-    std::cout << std::ios::fixed << std::setprecision(6) << pi << std::endl;
-    return 0;
-}
-```
-
-## 文字和底纹样式
-
-### 使用ANSI转义序列
-
-#### 复杂实现
+### 复杂实现
 
 使用带参数宏定义了字体和底纹样式：
 
@@ -163,7 +124,7 @@ int main() {
 #endif /* COLORS_HPP */
 ```
 
-##### 使用方法
+#### 使用方法
 
 ```cpp
 // 使用后自动恢复默认样式，可嵌套使用
@@ -176,7 +137,7 @@ std::cout << SetForeRED << "This text and all text after it will be red until RE
 std::cout << SetBOLD << "I and all text after me will be BOLD/Bright until RESETTEXT is called in some way!" << std::endl;
 ```
 
-#### 简单实现
+### 简单实现
 
 使用带参数宏定义了字体样式：
 
@@ -206,14 +167,14 @@ std::cout << SetBOLD << "I and all text after me will be BOLD/Bright until RESET
 #endif /* COLORS_HPP */
 ```
 
-##### 使用方法
+#### 使用方法
 
 ```cpp
 // 使用后保持当前样式设置，使用RESET恢复默认样式
 std::cout << RED << "Hello World" << RESET << std::endl;
 ```
 
-### 使用fmt库
+## 使用fmt库
 
 ```cpp
 #include <fmt/color.h>
@@ -227,10 +188,8 @@ int main() {
 
 ## 参考
 
-1. [C++文件输入输出-十面埋伏的文章-知乎](https://zhuanlan.zhihu.com/p/346054098)
-2. [有效数字和小数位数1-CSDN博客](https://blog.csdn.net/weixin_39484422/article/details/89072133)
-3. [有效数字和小数位数2-CSDN博客](https://blog.csdn.net/xiongyangg/article/details/24439295)
-4. [文字和底纹样式1-Stack Overflow](https://stackoverflow.com/questions/2616906/how-do-i-output-coloured-text-to-a-linux-terminal)
-5. [文字和底纹样式2-Stack Overflow](https://stackoverflow.com/questions/9158150/colored-output-in-c/9158263)
-6. [ANSI escape code-Wikipedia](https://en.wikipedia.org/wiki/ANSI_escape_code)
-7. [fmtlib/fmt](https://github.com/fmtlib/fmt)
+1. [文字和底纹颜色1-Stack Overflow](https://stackoverflow.com/questions/2616906/how-do-i-output-coloured-text-to-a-linux-terminal)
+2. [文字和底纹颜色2-Stack Overflow](https://stackoverflow.com/questions/9158150/colored-output-in-c/9158263)
+3. [ANSI escape code-Wikipedia](https://en.wikipedia.org/wiki/ANSI_escape_code)
+4. [fmtlib/fmt](https://github.com/fmtlib/fmt)
+5. [wakanapo/TextColoring](https://github.com/wakanapo/TextColoring)

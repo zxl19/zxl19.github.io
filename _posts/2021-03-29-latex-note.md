@@ -799,7 +799,8 @@ int main()
 
 1. [Wandmalfarbe/pandoc-latex-template](https://github.com/Wandmalfarbe/pandoc-latex-template)
 2. [Keldos-Li/typora-latex-theme](https://github.com/Keldos-Li/typora-latex-theme)
-3. [MattX/texword](https://github.com/MattX/texword)
+3. [Ruzim/NSFC-application-template-latex](https://github.com/Ruzim/NSFC-application-template-latex)
+4. [MattX/texword](https://github.com/MattX/texword)
 
 ### 高质量模板
 
