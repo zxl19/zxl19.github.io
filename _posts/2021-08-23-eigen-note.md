@@ -22,22 +22,32 @@ pinned: true
 5. `#include <Eigen/Core>`为核心模块，包含`Matrix`类和`Array`类的定义、基础的线性代数操作等；
 6. `#include <Eigen/Geometry>`为几何模块，包含SLAM相关的位姿表示、四元数、旋转向量等；
 7. 对于MATLAB用户，可以参考[Eigen short ASCII reference](https://eigen.tuxfamily.org/dox/AsciiQuickReference.txt)快速入门，[zxl19/Eigen-Cheatsheet](https://github.com/zxl19/Eigen-Cheatsheet)将其整理成Markdown和PDF文档；
-8. `Matrix`模板类定义了矩阵和向量，用于进行线性代数运算；`Array`模板类定义了数组，用于进行类似MATLAB的逐元素操作；
-9. Eigen使用`typedef`关键字重命名了常用大小的矩阵和数组，后缀`f`代表`float`、`d`代表`double`、`i`代表`int`，不同精度的矩阵在运算中禁止混用，需要显式类型转换，在使用中应尽可能少用动态大小的矩阵和数组，以提高运行速度：
+8. `Matrix`模板类定义了矩阵和向量，用于进行线性代数运算，`Array`模板类定义了数组，用于进行类似MATLAB的逐元素操作，以`Matrix`模板类的原型声明为例对于模板参数进行说明：
+
+    ```cpp
+    Matrix<typename Scalar,                                 // [必需] 数据类型
+           int RowsAtCompileTime,                           // [必需] 编译时确定的行数，如果不确定可以使用Dynamic指定动态大小
+           int ColsAtCompileTime,                           // [必需] 编译时确定的列数，如果不确定可以使用Dynamic指定动态大小
+           int Options = 0,                                 // [可选] 位字段，可以使用RowMajor指定逐行保存，或者使用ColMajor指定逐列保存，Eigen默认逐列保存
+           int MaxRowsAtCompileTime = RowsAtCompileTime,    // [可选] 编译时确定的最大行数，用于避免动态内存分配
+           int MaxColsAtCompileTime = ColsAtCompileTime>    // [可选] 编译时确定的最大列数，用于避免动态内存分配
+    ```
+
+9. Eigen使用`typedef`关键字重命名了常用大小的矩阵和数组，后缀`f`代表`float`、`d`代表`double`、`i`代表`int`，不同数据类型的矩阵在运算中禁止混用，需要显式类型转换，在使用中应尽可能少用动态大小的矩阵和数组，以提高运行速度：
 
     ```cpp
     // Matrix类
-    Matrix<float,Dynamic,Dynamic>   <=>   MatrixXf
-    Matrix<double,Dynamic,1>        <=>   VectorXd
-    Matrix<int,1,Dynamic>           <=>   RowVectorXi
-    Matrix<float,3,3>               <=>   Matrix3f
-    Matrix<float,4,1>               <=>   Vector4f
+    Matrix<float, Dynamic, Dynamic>     <=>     MatrixXf
+    Matrix<double, Dynamic, 1>          <=>     VectorXd
+    Matrix<int, 1, Dynamic>             <=>     RowVectorXi
+    Matrix<float, 3 , 3>                <=>     Matrix3f
+    Matrix<float, 4, 1>                 <=>     Vector4f
     // Array类
-    Array<float,Dynamic,Dynamic>    <=>   ArrayXXf
-    Array<double,Dynamic,1>         <=>   ArrayXd
-    Array<int,1,Dynamic>            <=>   RowArrayXi
-    Array<float,3,3>                <=>   Array33f
-    Array<float,4,1>                <=>   Array4f
+    Array<float, Dynamic, Dynamic>      <=>     ArrayXXf
+    Array<double, Dynamic, 1>           <=>     ArrayXd
+    Array<int, 1, Dynamic>              <=>     RowArrayXi
+    Array<float, 3, 3>                  <=>     Array33f
+    Array<float, 4, 1>                  <=>     Array4f
     ```
 
 10. `Matrix`类和`Array`类之间运算和类型转换的规则：
@@ -55,10 +65,10 @@ pinned: true
 
 11. `Matrix`类和`Array`类的初始化方式，建议在定义后对变量进行初始化；
 
-    - 固定大小-大小确定，可不加行列数：
+    - 固定大小——大小确定，可不加行列数：
 
         ```cpp
-        typedef {Matrix3f|Array33f} FixedXD;
+        typedef {Matrix3f | Array33f} FixedXD;
         FixedXD x;
         // 创建对应类的对象（作为等号右值）
         x = FixedXD::Identity();
@@ -79,7 +89,7 @@ pinned: true
     - 二维动态大小：
 
         ```cpp
-        typedef {MatrixXf|ArrayXXf} Dynamic2D;
+        typedef {MatrixXf | ArrayXXf} Dynamic2D;
         Dynamic2D x;
         // 创建对应类的对象（作为等号右值）
         x = Dynamic2D::Identity(rows, cols);
@@ -98,7 +108,7 @@ pinned: true
     - 一维动态大小：
 
         ```cpp
-        typedef {VectorXf|ArrayXf} Dynamic1D;
+        typedef {VectorXf | ArrayXf} Dynamic1D;
         Dynamic1D x;
         // 创建对应类的对象（作为等号右值）
         x = Dynamic1D::Zero(size);
@@ -136,14 +146,24 @@ x.setUnit(size, i);
 可以使用`<<`运算符逐行对于元素进行初始化，也可以使用下标对于特定元素进行初始化：
 
 ```cpp
-Eigen::Matrix2d A;
+// 二维固定大小
+Matrix2d A;
 A << 1.0, 0.0,
     0.0, 1.0;
 A(0, 0) = 1.0;
 A(0, 1) = 0.0;
 A(1, 0) = 0.0;
 A(1, 1) = 1.0;
-Eigen::Vector4d b(0, 1, 2, 3);
+// 二维动态大小
+int rows = 5, cols = 5;
+MatrixXf m(rows, cols);
+// .finished()成员函数返回初始化后的临时变量
+m << (Matrix3f() << 1, 2, 3, 4, 5, 6, 7, 8, 9).finished(),
+     MatrixXf::Zero(3, cols - 3),
+     MatrixXf::Zero(rows - 3, 3),
+     MatrixXf::Identity(rows - 3, cols - 3);
+// 一维固定大小
+Vector4d b(0, 1, 2, 3);
 b << 0, 1, 2, 3;
 b(0) = 0;
 b(1) = 1;
@@ -253,6 +273,24 @@ vector.conservativeResize(size);
 // 矩阵
 matrix.resizeLike(other_matrix);
 matrix.conservativeResize(nb_rows, nb_cols);
+```
+
+#### 获取运行时信息
+
+```cpp
+// 返回指向第一个元素的指针
+// 向量
+x.data()
+// 矩阵
+C.data()
+// 返回内部步长（inner stride），即相邻元素之间的内存地址增量
+// 向量
+x.innerStride()
+// 矩阵
+C.innerStride()
+// 返回外部步长（outer stride），即相邻行或列之间的内存地址增量，取决于矩阵是逐行保存还是逐列保存
+// 矩阵
+C.outerStride()
 ```
 
 #### 分块
