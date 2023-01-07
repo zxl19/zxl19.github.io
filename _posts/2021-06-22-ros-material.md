@@ -27,7 +27,8 @@ pinned: false
 3. [PickNikRobotics/roscpp_code_format](https://github.com/PickNikRobotics/roscpp_code_format)
 4. [ros-visualization/visualization_tutorials](https://github.com/ros-visualization/visualization_tutorials)
 5. [project-srs/ros_lecture](https://github.com/project-srs/ros_lecture)
-6. [kaixindelele/ros_demo_mooc](https://github.com/kaixindelele/ros_demo_mooc)
+6. [methylDragon/pcl-ros-tutorial](https://github.com/methylDragon/pcl-ros-tutorial)
+7. [kaixindelele/ros_demo_mooc](https://github.com/kaixindelele/ros_demo_mooc)
 
 ## 书籍
 

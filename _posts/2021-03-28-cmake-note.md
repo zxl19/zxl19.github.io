@@ -15,7 +15,7 @@ pinned: true
 
 ## CMake Hello World
 
-1. CMake是Cross Platform Make的简称，是开源跨平台的构建生成（build generator）工具；
+1. CMake是Cross Platform Make的简称，是开源、跨平台的构建生成（build generator）工具；
 2. CMake使用`CMakeLists.txt`配置文件控制编译过程，以C++编译过程为例：
 
     ```shell
@@ -31,25 +31,30 @@ pinned: true
 
 ```shell
 .
-├── app             # 存放可执行文件，调用各个模块
-├── build           # 存放编译生成文件
-├── cmake           # 存放.cmake文件，查找依赖库
-├── CMakeLists.txt  # 项目编译规则
-├── config          # 存放配置文件，硬件参数和软件参数分开保存
-├── doc             # 存放项目文档
-├── docker          # 存放Docker镜像
-├── include         # 存放头文件，模块化
-├── launch          # 存放.launch文件，启动ROS功能包的各个节点
-├── LICENSE         # 开源协议
-├── log             # 存放日志文件
-├── msg             # 存放.msg文件，自定义ROS消息类型
-├── package.xml     # 依赖的ROS功能包
-├── README.md       # 项目说明文档
-├── rviz_cfg        # 存放.rviz文件，配置Rviz可视化参数
-├── scripts         # 存放Python脚本，用于后处理和可视化
-├── src             # 存放源文件，模块化
-├── test            # 存放单元测试文件，测试各个模块
-└── third_party     # 存放非本地安装的第三方库
+├── app                     # 存放可执行文件，调用各个模块
+├── build                   # 存放编译生成文件
+├── cmake                   # 存放.cmake文件，查找依赖库
+├── CMakeLists.txt          # 项目编译规则
+├── config                  # 存放配置文件，硬件参数和软件参数分开保存
+├── doc                     # 存放项目文档
+├── docker                  # 存放Docker镜像
+├── include                 # 存放头文件，模块化
+├── launch                  # 存放.launch文件，启动ROS功能包的各个节点
+├── LICENSE                 # 开源协议
+├── log                     # 存放日志文件
+├── msg                     # 存放.msg文件，自定义ROS消息类型
+├── package.xml             # 依赖的ROS功能包
+├── README.md               # 项目说明文档
+├── rviz_cfg                # 存放.rviz文件，配置Rviz可视化参数
+├── scripts                 # 存放Python脚本，用于后处理和可视化
+├── src                     # 存放源文件，模块化，编译成库
+│   ├── algorithm           # 基础算法，滤波器、最近邻、RANSAC、样条曲线等
+│   ├── CMakeLists.txt      # 添加子目录
+│   ├── common              # 模块间共用的类、函数、常量等
+│   ├── slam                # SLAM算法，激光、视觉、时间同步、位姿估计
+│   └── ui                  # 可视化界面
+├── test                    # 存放单元测试文件，测试各个模块
+└── third_party             # 存放非本地安装的第三方库
 ```
 
 ### 非ROS工程
@@ -123,24 +128,118 @@ target_link_libraries(${PROJECT_NAME}
 ### 基本结构
 
 ```cmake
+# 工程配置
 cmake_minimum_required()
 project()
-
-# 常用命令
 set()
 include()
+
+# 编译规则
+find_package()
+include_directories()
+# link_directories()
+add_library()
+add_executable()
+add_dependencies()
+target_link_libraries()
+
+# 辅助函数
 option()
 message()
 add_definitions()
 add_subdirectory()
 aux_source_directory()
 # add_compile_options()
+install()
 
-# 查找依赖库
-find_package()
-include_directories()
+# 条件判断
+if()
+    # do something
+elseif()
+    # do something
+else()
+    # do something
+endif()
 
-# link_directories()
+# 循环遍历
+foreach()
+    # do something
+endforeach()
+```
+
+### 结构说明
+
+#### 基础说明
+
+1. `CMakeLists.txt`文件使用`#`注释；
+2. 功能函数名使用大小写均可，但是推荐使用小写，可读性更好；
+
+#### 工程配置
+
+1. `cmake_minimum_required()`用于指定CMake的最低版本，命令格式如下：
+
+    ```cmake
+    cmake_minimum_required(VERSION <major.minor>)
+    ```
+
+    示例：
+
+    ```cmake
+    cmake_minimum_required(VERSION 3.1.0)
+    ```
+
+2. `project()`用于指定工程名，命令格式如下：
+
+    ```cmake
+    project(<project_name>)
+    ```
+
+    示例：
+
+    ```cmake
+    project(HelloWorld)
+    ```
+
+3. `set()`用于定义变量并赋值，命令格式如下：
+
+    ```cmake
+    set(<variable> <value>)
+    ```
+
+    - CMake中，`X`表示变量名，`${X}`表示变量值，`if()`语句直接用变量名判断；
+    - 常用于设置编译选项，需要注意追加和覆盖的区别：
+
+        ```cmake
+        set(CMAKE_CXX_FLAGS "${CMAKE_CXX_FLAGS} -O3")   # 追加
+        set(CMAKE_CXX_FLAGS "-O3")                      # 覆盖
+        ```
+
+4. `include()`用于从文件或模块中加载并运行CMake代码：
+
+    ```cmake
+    include(<file | module>)
+    ```
+
+    - 推荐将查找依赖库的部分写到`cmake`文件夹中的`packages.cmake`文件中，使用`include()`包含该文件即可：
+
+        ```cmake
+        include(cmake/packages.cmake)
+        ```
+
+    - `packages.cmake`文件示例：
+
+        ```cmake
+        list(APPEND CMAKE_MODULE_PATH ${PROJECT_SOURCE_DIR}/cmake)
+
+        find_package(Eigen3 REQUIRED QUIET)
+        find_package(PCL REQUIRED QUIET)
+
+        include_directories(
+            include
+            ${EIGEN3_INCLUDE_DIRS}
+            ${PCL_INCLUDE_DIRS}
+        )
+        ```
 
 add_library()
 
@@ -255,8 +354,9 @@ target_link_libraries()
 3. [kelthuzadx/EffectiveModernCppChinese](https://github.com/kelthuzadx/EffectiveModernCppChinese)
 4. [TheLartians/ModernCppStarter](https://github.com/TheLartians/ModernCppStarter)
 5. [cpp-best-practices/gui_starter_template](https://github.com/cpp-best-practices/gui_starter_template)
-6. [district10/cmake-templates](https://github.com/district10/cmake-templates)
-7. [nikolausmayer/cmake-templates](https://github.com/nikolausmayer/cmake-templates)
+6. [BrightXiaoHan/CMakeTutorial](https://github.com/BrightXiaoHan/CMakeTutorial)
+7. [district10/cmake-templates](https://github.com/district10/cmake-templates)
+8. [nikolausmayer/cmake-templates](https://github.com/nikolausmayer/cmake-templates)
 
 ### 书籍
 

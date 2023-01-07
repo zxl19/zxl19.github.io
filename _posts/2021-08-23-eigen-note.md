@@ -15,7 +15,12 @@ pinned: true
 
 ## Eigen Hello World
 
-1. Eigen是纯头文件库；
+1. Eigen是纯头文件库，定义的类、函数、常量等均在`Eigen`命名空间中，为了使表示形式简便，本文默认使用`Eigen`命名空间：
+
+    ```cpp
+    using namespace Eigen;
+    ```
+
 2. Eigen稠密矩阵和数组模块功能可以查询[[QuickRef] Dense matrix and array manipulations](https://eigen.tuxfamily.org/dox/group__QuickRefPage.html)；
 3. Eigen稀疏线性代数模块功能可以查询[[QuickRef] Sparse linear algebra](https://eigen.tuxfamily.org/dox/group__SparseQuickRefPage.html)；
 4. `#include <Eigen/Eigen>`（全部模块功能）=`#include <Eigen/Dense>`（绝大部分模块功能）+`#include <Eigen/Sparse>`（稀疏矩阵模块功能）；
@@ -28,7 +33,7 @@ pinned: true
     Matrix<typename Scalar,                                 // [必需] 数据类型
            int RowsAtCompileTime,                           // [必需] 编译时确定的行数，如果不确定可以使用Dynamic指定动态大小
            int ColsAtCompileTime,                           // [必需] 编译时确定的列数，如果不确定可以使用Dynamic指定动态大小
-           int Options = 0,                                 // [可选] 位字段，可以使用RowMajor指定逐行保存，或者使用ColMajor指定逐列保存，Eigen默认逐列保存
+           int Options = 0,                                 // [可选] 位字段，可以使用RowMajor指定逐行保存，或者使用ColMajor指定逐列保存，默认逐列保存
            int MaxRowsAtCompileTime = RowsAtCompileTime,    // [可选] 编译时确定的最大行数，用于避免动态内存分配
            int MaxColsAtCompileTime = ColsAtCompileTime>    // [可选] 编译时确定的最大列数，用于避免动态内存分配
     ```
@@ -259,14 +264,14 @@ C.conjugate()       // 逐元素取共轭
 #### 改变大小
 
 ```cpp
-// 改变大小后删除原有数据
+// 大小改变后删除原有数据，大小不变时无操作
 // 向量
 vector.resize(size);
 // 矩阵
 matrix.resize(nb_rows, nb_cols);
-matrix.resize(Eigen::NoChange, nb_cols);
-matrix.resize(nb_rows, Eigen::NoChange);
-// 改变大小后保留原有数据
+matrix.resize(NoChange, nb_cols);
+matrix.resize(nb_rows, NoChange);
+// 大小改变后保留原有数据
 // 向量
 vector.resizeLike(other_vector);
 vector.conservativeResize(size);
@@ -415,57 +420,57 @@ x = A.ldlt().solve(b);                  // LDLT分解，要求正定阵或非负
     | 求解正规方程 | 高 | 低 |
 
 ```cpp
-x = A.bdcSvd(Eigen::ComputeThinU | Eigen::ComputeThinV).solve(b);   // SVD分解
-x = A.colPivHouseholderQr().solve(b);                               // 列主元QR分解
-x = (A.transpose() * A).ldlt().solve(A.transpose() * b);            // 求解正规方程
-relative_error = (A * x - b).norm() / b.norm();                     // L2范数相对误差
+x = A.bdcSvd(ComputeThinU | ComputeThinV).solve(b);         // SVD分解
+x = A.colPivHouseholderQr().solve(b);                       // 列主元QR分解
+x = (A.transpose() * A).ldlt().solve(A.transpose() * b);    // 求解正规方程
+relative_error = (A * x - b).norm() / b.norm();             // L2范数相对误差
 ```
 
 #### 特征值计算
 
 ```cpp
-Eigen::Matrix3f A;
+Matrix3f A;
 // 初始化方式1
-EigenSolver<Eigen::Matrix3f> eigen_solver(A);
+EigenSolver<Matrix3f> eigen_solver(A);
 // 初始化方式2，可用于计算多个矩阵的特征值
-EigenSolver<Eigen::Matrix3f> eigen_solver;
+EigenSolver<Matrix3f> eigen_solver;
 eigen_solver.compute(A);
-if (eigen_solver.info() == Eigen::Success) {
+if (eigen_solver.info() == Success) {
     // 计算成功
-    Eigen::Vector3f eigen_value = eigen_solver.eigenvalues();   // 特征值
-    Eigen::Matrix3f eigen_vector = eigen_solver.eigenvectors(); // 特征向量
-} else if (eigen_solver.info() == Eigen::NoConvergence) {
+    Vector3f eigen_value = eigen_solver.eigenvalues();      // 特征值
+    Matrix3f eigen_vector = eigen_solver.eigenvectors();    // 特征向量
+} else if (eigen_solver.info() == NoConvergence) {
     // 计算失败
     std::cout << "Computation Failed!" << std::endl;
 }
 // 实对称矩阵可以保证对角化成功，初始化方式和查看计算结果方式与上面相同
-SelfAdjointEigenSolver<Eigen::Matrix3f> eigen_solver(A.transpose() * A);
+SelfAdjointEigenSolver<Matrix3f> eigen_solver(A.transpose() * A);
 ```
 
 #### 奇异值分解
 
 ```cpp
 // 方阵
-Eigen::Matrix3f A;
+Matrix3f A;
 // A = USV*
-// 参数Eigen::ComputeFullU和Eigen::ComputeFullV分别表示计算方阵U和方阵V
+// 参数ComputeFullU和ComputeFullV分别表示计算方阵U和方阵V
 // 此时奇异值矩阵S为方阵
-Eigen::JacobiSVD<Eigen::Matrix3f> svd(A, Eigen::ComputeFullU | Eigen::ComputeFullV);
-Eigen::Matrix3f U = svd.matrixU();
-Eigen::Matrix3f V = svd.matrixV();
-Eigen::Vector3f sv = svd.singularValues();
+JacobiSVD<Matrix3f> svd(A, ComputeFullU | ComputeFullV);
+Matrix3f U = svd.matrixU();
+Matrix3f V = svd.matrixV();
+Vector3f sv = svd.singularValues();
 // 非方阵
-Eigen::MatrixXf A;
+MatrixXf A;
 // A = USV*
-// 参数Eigen::ComputeFullU和Eigen::ComputeFullV分别表示计算方阵U和方阵V
+// 参数ComputeFullU和ComputeFullV分别表示计算方阵U和方阵V
 // 此时奇异值矩阵S为非方阵
-Eigen::JacobiSVD<Eigen::MatrixXf> svd(A, Eigen::ComputeFullU | Eigen::ComputeFullV);
-// 参数Eigen::ComputeThinU和Eigen::ComputeThinV分别表示计算非方阵U和非方阵V
+JacobiSVD<MatrixXf> svd(A, ComputeFullU | ComputeFullV);
+// 参数ComputeThinU和ComputeThinV分别表示计算非方阵U和非方阵V
 // 此时奇异值矩阵S为方阵
-Eigen::JacobiSVD<Eigen::MatrixXf> svd(A, Eigen::ComputeThinU | Eigen::ComputeThinV);
-Eigen::MatrixXf U = svd.matrixU();
-Eigen::MatrixXf V = svd.matrixV();
-Eigen::VectorXf sv = svd.singularValues();
+JacobiSVD<MatrixXf> svd(A, ComputeThinU | ComputeThinV);
+MatrixXf U = svd.matrixU();
+MatrixXf V = svd.matrixV();
+VectorXf sv = svd.singularValues();
 ```
 
 ## Array类
@@ -525,17 +530,17 @@ array1.isNaN()                isnan(array1)
 示例：
 
 ```cpp
-// 3D旋转矩阵直接使用Eigen::Matrix3d或Eigen::Matrix3f
-Eigen::Matrix3d rotation_matrix = Eigen::Matrix3d::Identity();
+// 3D旋转矩阵直接使用Matrix3d或Matrix3f
+Matrix3d rotation_matrix = Matrix3d::Identity();
 // 旋转向量使用AngleAxis，其底层不直接是Matrix类，但运算可以当作矩阵（因为重载了运算符）
-Eigen::AngleAxisd rotation_vector(M_PI / 4, Vector3d(0, 0, 1)); // 沿Z轴旋转45度
-rotation_matrix = rotation_vector.matrix();                     // 旋转向量转旋转矩阵
-rotation_matrix = rotation_vector.toRotationMatrix();           // 旋转向量转旋转矩阵
+AngleAxisd rotation_vector(M_PI / 4, Vector3d(0, 0, 1));    // 沿Z轴旋转45度
+rotation_matrix = rotation_vector.matrix();                 // 旋转向量转旋转矩阵
+rotation_matrix = rotation_vector.toRotationMatrix();       // 旋转向量转旋转矩阵
 // 用AngleAxis进行坐标变换
-Eigen::Vector3d v(1, 0, 0);
-Eigen::Vector3d v_rotated = rotation_vector * v;
+Vector3d v(1, 0, 0);
+Vector3d v_rotated = rotation_vector * v;
 // 相当于用旋转矩阵进行坐标变换
-Eigen::Vector3d v_rotated = rotation_matrix * v;
+Vector3d v_rotated = rotation_matrix * v;
 ```
 
 #### 欧拉角
@@ -544,12 +549,12 @@ Eigen::Vector3d v_rotated = rotation_matrix * v;
 
 ```cpp
 // 欧拉角转旋转矩阵，借助旋转向量
-Eigen::AngleAxisd roll_vector(roll_rad, Eigen::Vector3d::UnitX());
-Eigen::AngleAxisd pitch_vector(pitch_rad, Eigen::Vector3d::UnitY());
-Eigen::AngleAxisd yaw_vector(yaw_rad, Eigen::Vector3d::UnitZ());
-Eigen::Matrix3d rotation_matrix = (roll_vector * pitch_vector * yaw_vector).toRotationMatrix();
+AngleAxisd roll_vector(roll_rad, Vector3d::UnitX());
+AngleAxisd pitch_vector(pitch_rad, Vector3d::UnitY());
+AngleAxisd yaw_vector(yaw_rad, Vector3d::UnitZ());
+Matrix3d rotation_matrix = (roll_vector * pitch_vector * yaw_vector).toRotationMatrix();
 // 旋转矩阵转欧拉角
-Eigen::Vector3d euler_angles = rotation_matrix.eulerAngles(2, 1, 0);    // ZYX顺序，即yaw-pitch-roll顺序
+Vector3d euler_angles = rotation_matrix.eulerAngles(2, 1, 0);   // ZYX顺序，即yaw-pitch-roll顺序
 ```
 
 #### 四元数
@@ -560,13 +565,13 @@ Eigen::Vector3d euler_angles = rotation_matrix.eulerAngles(2, 1, 0);    // ZYX�
 
 ```cpp
 // 直接初始化，注意参数顺序为(w，x，y，z)
-Eigen::Quaterniond q = Eigen::Quaterniond(q_w, q_x, q_y, q_z);
+Quaterniond q = Quaterniond(q_w, q_x, q_y, q_z);
 // 可以把AngleAxis赋值给四元数，反之亦然
-Eigen::Quaterniond q = Eigen::Quaterniond(rotation_vector);
+Quaterniond q = Quaterniond(rotation_vector);
 // 可以把旋转矩阵赋值给四元数
-Eigen::Quaterniond q = Eigen::Quaterniond(rotation_matrix);
+Quaterniond q = Quaterniond(rotation_matrix);
 // 向量v1和向量v2之间的旋转，将向量v1旋转到与向量v2同向，对于两个向量的模长没有要求
-Eigen::Quaterniond q = Eigen::Quaterniond::FromTwoVectors(v1, v2);
+Quaterniond q = Quaterniond::FromTwoVectors(v1, v2);
 // 访问四元数中各元素
 q.x()
 q.y()
@@ -586,13 +591,13 @@ v_rotated = q * v;      // 注意数学上是qvq^{-1}
 示例：
 
 ```cpp
-// 欧氏变换矩阵使用 Eigen::Isometry
-Eigen::Isometry3d T = Eigen::Isometry3d::Identity();    // 虽然称为3d，实质上是4*4的矩阵
-T.rotate(rotation_vector);                              // 按照rotation_vector进行旋转
-T.pretranslate(Vector3d(1, 2, 3))                       // 把平移向量设成(1, 2, 3)
-T.matrix()                                              // 欧氏变换矩阵
+// 欧氏变换矩阵使用Isometry
+Isometry3d T = Isometry3d::Identity();  // 虽然称为3d，实质上是4*4的矩阵
+T.rotate(rotation_vector);              // 按照rotation_vector进行旋转
+T.pretranslate(Vector3d(1, 2, 3))       // 把平移向量设成(1, 2, 3)
+T.matrix()                              // 欧氏变换矩阵
 // 用欧氏变换矩阵进行坐标变换
-Eigen::Vector3d v_transformed = T * v;                  // 相当于R * v + t
+Vector3d v_transformed = T * v;         // 相当于R * v + t
 ```
 
 ### 位姿相关运算
@@ -604,25 +609,25 @@ Eigen::Vector3d v_transformed = T * v;                  // 相当于R * v + t
     通过将旋转矩阵转换为四元数，将四元数归一化后再转回旋转矩阵。
 
     ```cpp
-    Eigen::Matrix3f R;
-    Eigen::Quaternionf q(R);
+    Matrix3f R;
+    Quaternionf q(R);
     R = q.normalized().toRotationMatrix();
     ```
 
 2. SVD分解法：
 
     ```cpp
-    Eigen::Matrix3f R;
-    Eigen::JacobiSVD<Eigen::MatrixXf> svd(R, Eigen::ComputeFullU | Eigen::ComputeFullV);
+    Matrix3f R;
+    JacobiSVD<MatrixXf> svd(R, ComputeFullU | ComputeFullV);
     R = svd.matrixU() * svd.matrixV().transpose();
     ```
 
 3. 流形投影法：
 
     ```cpp
-    Eigen::Matrix3f R;
-    Eigen::Matrix3f H = R * R.transpose();
-    Eigen::Matrix3f L = H.llt().matrixL();
+    Matrix3f R;
+    Matrix3f H = R * R.transpose();
+    Matrix3f L = H.llt().matrixL();
     R = L.inverse() * R;
     ```
 
@@ -639,17 +644,17 @@ Eigen::Vector3d v_transformed = T * v;                  // 相当于R * v + t
 1. Eigen将编译时大小固定，并且大小是16字节的整数倍的对象称为固定大小可向量化的（fixed-size vectorizable），主要包括：
 
     ```cpp
-    Eigen::Vector2d
-    Eigen::Vector4d
-    Eigen::Vector4f
-    Eigen::Matrix2d
-    Eigen::Matrix2f
-    Eigen::Matrix4d
-    Eigen::Matrix4f
-    Eigen::Affine3d
-    Eigen::Affine3f
-    Eigen::Quaterniond
-    Eigen::Quaternionf
+    Vector2d
+    Vector4d
+    Vector4f
+    Matrix2d
+    Matrix2f
+    Matrix4d
+    Matrix4f
+    Affine3d
+    Affine3f
+    Quaterniond
+    Quaternionf
     ```
 
 2. 目前向量化运算支持128位数据包（例如SSE、AltiVec）、256位数据包（例如AVX）、512位数据包（例如AVX512），分别对应16字节、32字节、64字节，对于这些大小的数据包读写效率最高，因此对于固定大小可向量化的Eigen对象进行内存对齐有利于提高运算效率；
@@ -661,7 +666,7 @@ Eigen::Vector3d v_transformed = T * v;                  // 相当于R * v + t
     ```cpp
     class Foo {
      private:
-      Eigen::Vector4d v;
+      Vector4d v;
 
      public:
       EIGEN_MAKE_ALIGNED_OPERATOR_NEW
@@ -680,7 +685,7 @@ Eigen::Vector3d v_transformed = T * v;                  // 相当于R * v + t
     ```cpp
     template<int n>
     class Foo {
-      typedef Eigen::Matrix<float, n, 1> Vector;
+      typedef Matrix<float, n, 1> Vector;
       enum { NeedsToAlign = (sizeof(Vector) % 16) == 0 };
       Vector v;
      public:
@@ -697,12 +702,12 @@ Eigen::Vector3d v_transformed = T * v;                  // 相当于R * v + t
 
 3. 如果不想在多处声明宏`EIGEN_MAKE_ALIGNED_OPERATOR_NEW`，可以通过以下两个方法：
 
-    - 使用`Eigen::DontAlign`关闭内存对齐，但是这会带来加载和存储上的额外耗时，具体影响程度主要取决于硬件：
+    - 使用`DontAlign`关闭内存对齐，但是这会带来加载和存储上的额外耗时，具体影响程度主要取决于硬件：
 
         ```cpp
         class Foo {
          private:
-          Eigen::Matrix<double, 4, 1, Eigen::DontAlign> v;
+          Matrix<double, 4, 1, DontAlign> v;
         }
 
     - 将固定大小可向量化的Eigen对象指针声明为类和结构体的私有成员，在创建类和结构体的对象时动态分配内存，优点是类和结构体不受到内存对齐的影响，缺点是需要额外的堆（heap）分配：
@@ -727,21 +732,21 @@ Eigen::Vector3d v_transformed = T * v;                  // 相当于R * v + t
 
 ### 包含Eigen对象的STL容器
 
-1. 对于包含固定大小可向量化的Eigen对象的STL容器，需要使用超出默认对齐尺寸的堆内存管理器（over-aligned allocator）`Eigen::aligned_allocator`进行内存对齐：
+1. 对于包含固定大小可向量化的Eigen对象的STL容器，需要使用Eigen定义的超出默认对齐尺寸的堆内存管理器（over-aligned allocator）`aligned_allocator`进行内存对齐：
 
     ```cpp
-    std::map<int, Eigen::Vector4d, std::less<int>, Eigen::aligned_allocator<std::pair<const int, Eigen::Vector4d> > >
+    std::map<int, Vector4d, std::less<int>, aligned_allocator<std::pair<const int, Vector4d> > >
     ```
 
     - `std::less`是`std::map`默认的排序函数，但是在这里为了指定堆内存管理器类型需要在其之前指定；
     - 如果使用C++17标准进行编译则不需要上述操作，因为C++17标准有对于超出默认对齐尺寸数据的动态内存分配机制；
 
-2. 如果需要使用`std::vector`，除了需要使用堆内存管理器`Eigen::aligned_allocator`，还需要包含头文件`#include <Eigen/StdVector>`进行内存对齐：
+2. 如果需要使用`std::vector`，除了需要使用Eigen定义的堆内存管理器`aligned_allocator`，还需要包含头文件`#include <Eigen/StdVector>`进行内存对齐：
 
     ```cpp
     #include <Eigen/StdVector>
 
-    std::vector<Eigen::Vector4f, Eigen::aligned_allocator<Eigen::Vector4f> >
+    std::vector<Vector4f, aligned_allocator<Vector4f> >
     ```
 
     - C++11之前的标准在调用`std::vector`的`resize()`成员函数时会调用元素的默认构造函数，造成元素的值传递，会破坏内存对齐；
@@ -752,12 +757,12 @@ Eigen::Vector3d v_transformed = T * v;                  // 相当于R * v + t
     ```cpp
     #include<Eigen/StdVector>
 
-    EIGEN_DEFINE_STL_VECTOR_SPECIALIZATION(Eigen::Matrix2d)
-    std::vector<Eigen::Vector2d>
+    EIGEN_DEFINE_STL_VECTOR_SPECIALIZATION(Matrix2d)
+    std::vector<Vector2d>
     ```
 
     - 如果使用C++11以后的标准进行编译则不需要上述操作，因为C++11标准修复了之前标准中`std::vector`存在的问题；
-    - 优点是不需要在多处指定堆内存管理器`Eigen::aligned_allocator`，缺点是需要在每次声明`std::vector`前声明宏`EIGEN_DEFINE_STL_VECTOR_SPECIALIZATION`，否则会使用默认堆内存管理器`std::allocator`造成程序崩溃；
+    - 优点是不需要在多处指定Eigen定义的堆内存管理器`aligned_allocator`，缺点是需要在每次声明`std::vector`前声明宏`EIGEN_DEFINE_STL_VECTOR_SPECIALIZATION`，否则会使用默认堆内存管理器`std::allocator`造成程序崩溃；
 
 ### 将Eigen对象作为函数参数传递
 
@@ -765,13 +770,13 @@ Eigen::Vector3d v_transformed = T * v;                  // 相当于R * v + t
 2. 从Eigen的角度，在将固定大小可向量化的Eigen对象作为函数参数传递时，不能使用值传递，应当使用引用传递，如果不需要修改函数参数，建议使用常引用传递；
 
     ```cpp
-    void my_function(Eigen::Vector2d v);        // 错误
-    void my_function(const Eigen::Vector2d& v); // 正确
+    void my_function(Vector2d v);        // 错误
+    void my_function(const Vector2d& v); // 正确
     ```
 
     ```cpp
     struct Foo {
-      Eigen::Vector2d v;
+      Vector2d v;
     };
 
     void my_function(Foo v);                    // 错误
@@ -780,6 +785,58 @@ Eigen::Vector3d v_transformed = T * v;                  // 相当于R * v + t
 
     - 原因是在值传递的过程中不考虑Eigen对象的内存对齐修饰符（alignment modifier）；
     - Eigen对象作为函数返回值不受影响；
+
+## Eigen中的C++11`auto`关键字问题
+
+不建议在Eigen表达式中使用`auto`关键字，特别是不要使用`auto`关键字代替`Matrix`类，部分情况下存在未定义行为：
+
+1. 可能导致表达式被重复计算；
+
+    示例：
+
+    ```cpp
+    MatrixXd A, B;
+    auto C = A * B;         // 返回抽象表达式，表示矩阵乘积并保存到A和B的引用
+    for (...) {
+      w = C * v;            // 每次循环都会重复计算A * B
+    }
+    ```
+
+2. 可能导致表达式的值发生变化；
+
+    示例：
+
+    ```cpp
+    MatrixXd A, B;
+    auto C = A * B;         // 返回抽象表达式，表示矩阵乘积并保存对A和B的引用
+    MatrixXd R1 = C;
+    // do something with A
+    MatrixXd R2 = C;        // A的值发生了变化，导致表达式的值发生了变化，R1≠R2
+    ```
+
+3. 可能导致程序崩溃；
+
+    - 示例一：
+
+        ```cpp
+        // eval()成员函数返回表达式的计算结果，是一个临时对象
+        // transpose()成员函数返回对这个临时对象的引用
+        // 执行后表达式C是一个对已被析构的临时对象的引用
+        auto C = ((A + B).eval()).transpose();
+        // 再使用表达式C会导致程度崩溃
+        // do something with C
+        ```
+
+    - 示例二：
+
+        ```cpp
+        VectorXd u, v;
+        // normalized()成员函数会隐式调用eval()成员函数
+        auto C = u + (A * v).normalized();
+        // do something with C
+        ```
+
+4. 解决方案是对于表达式整体调用`eval()`成员函数，返回确定类型的表达式的值，如果对于一个`Matrix`类的对象调用该函数则返回常引用以避免无用拷贝；
 
 ## 参考
 
@@ -809,3 +866,4 @@ Eigen::Vector3d v_transformed = T * v;                  // 相当于R * v + t
 24. [Eigen内存对齐2-CSDN博客](https://blog.csdn.net/shyjhyp11/article/details/123204444)
 25. [从Eigen向量化谈内存对齐-王金戈的文章-知乎](https://zhuanlan.zhihu.com/p/93824687)
 26. [Eigen内存对齐-卷儿的文章-知乎](https://zhuanlan.zhihu.com/p/349413376)
+27. [Common pitfalls](https://eigen.tuxfamily.org/dox/TopicPitfalls.html)

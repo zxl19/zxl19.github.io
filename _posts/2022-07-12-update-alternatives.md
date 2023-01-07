@@ -27,6 +27,14 @@ sudo update-alternatives --install /usr/bin/gcc gcc /usr/bin/gcc-7 7
 sudo update-alternatives --install /usr/bin/g++ g++ /usr/bin/g++-7 7
 sudo update-alternatives --install /usr/bin/gcc gcc /usr/bin/gcc-9 9
 sudo update-alternatives --install /usr/bin/g++ g++ /usr/bin/g++-9 9
+sudo update-alternatives --install /usr/bin/gcc gcc /usr/bin/gcc-11 11
+sudo update-alternatives --install /usr/bin/g++ g++ /usr/bin/g++-11 11
+```
+
+格式说明：
+
+```shell
+sudo update-alternatives --install <link> <name> <path> <priority>
 ```
 
 ## 选择版本
