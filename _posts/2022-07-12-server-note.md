@@ -17,10 +17,18 @@ pinned: false
 
 ### FTP
 
-在`文件`->`其他位置`中使用FTP连接：
+在`文件`->`其他位置`中使用FTP（File Transfer Protocol）协议连接：
 
 ```shell
 ftp://192.168.1.1
+```
+
+### SMB
+
+在`文件`->`其他位置`中使用SMB（Server Message Block）协议连接：
+
+```shell
+smb://192.168.1.1
 ```
 
 ### SSH

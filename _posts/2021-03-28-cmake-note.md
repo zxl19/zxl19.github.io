@@ -34,9 +34,9 @@ pinned: true
 ├── app                     # 存放可执行文件，调用各个模块
 ├── build                   # 存放编译生成文件
 ├── cmake                   # 存放.cmake文件，查找依赖库
-├── CMakeLists.txt          # 项目编译规则
+├── CMakeLists.txt          # 工程编译规则
 ├── config                  # 存放配置文件，硬件参数和软件参数分开保存
-├── doc                     # 存放项目文档
+├── doc                     # 存放各个模块的开发文档
 ├── docker                  # 存放Docker镜像
 ├── include                 # 存放头文件，模块化
 ├── launch                  # 存放.launch文件，启动ROS功能包的各个节点
@@ -44,7 +44,7 @@ pinned: true
 ├── log                     # 存放日志文件
 ├── msg                     # 存放.msg文件，自定义ROS消息类型
 ├── package.xml             # 依赖的ROS功能包
-├── README.md               # 项目说明文档
+├── README.md               # 工程说明文档
 ├── rviz_cfg                # 存放.rviz文件，配置Rviz可视化参数
 ├── scripts                 # 存放Python脚本，用于后处理和可视化
 ├── src                     # 存放源文件，模块化，编译成库
@@ -132,6 +132,7 @@ target_link_libraries(${PROJECT_NAME}
 cmake_minimum_required()
 project()
 set()
+unset()
 include()
 
 # 编译规则
@@ -167,16 +168,18 @@ foreach()
 endforeach()
 ```
 
-### 结构说明
+### 常用命令
 
 #### 基础说明
 
 1. `CMakeLists.txt`文件使用`#`注释；
-2. 功能函数名使用大小写均可，但是推荐使用小写，可读性更好；
+2. 功能函数名不区分大小写，支持大小写混用，但是推荐使用小写，可读性更好；
+3. 功能函数参数中`<...>`表示必需项，`[...]`表示可选项，`|`表示或；
+4. 变量名和字符串区分大小写；
 
 #### 工程配置
 
-1. `cmake_minimum_required()`用于指定CMake的最低版本，命令格式如下：
+1. `cmake_minimum_required()`用于指定CMake的最低版本，常用命令格式如下：
 
     ```cmake
     cmake_minimum_required(VERSION <major.minor>)
@@ -188,7 +191,7 @@ endforeach()
     cmake_minimum_required(VERSION 3.1.0)
     ```
 
-2. `project()`用于指定工程名，命令格式如下：
+2. `project()`用于指定工程名，常用命令格式如下：
 
     ```cmake
     project(<project_name>)
@@ -200,13 +203,13 @@ endforeach()
     project(HelloWorld)
     ```
 
-3. `set()`用于定义变量并赋值，命令格式如下：
+3. `set()`用于定义变量并赋值，常用命令格式如下：
 
     ```cmake
     set(<variable> <value>)
     ```
 
-    - CMake中，`X`表示变量名，`${X}`表示变量值，`if()`语句直接用变量名判断；
+    - CMake中，`X`表示变量名，`${X}`表示变量值；
     - 常用于设置编译选项，需要注意追加和覆盖的区别：
 
         ```cmake
@@ -214,7 +217,13 @@ endforeach()
         set(CMAKE_CXX_FLAGS "-O3")                      # 覆盖
         ```
 
-4. `include()`用于从文件或模块中加载并运行CMake代码：
+4. `unset()`用于取消定义变量，常用命令格式如下：
+
+    ```cmake
+    unset(<variable>)
+    ```
+
+5. `include()`用于从文件或模块中加载并运行CMake代码，常用命令格式如下：
 
     ```cmake
     include(<file | module>)
@@ -241,83 +250,198 @@ endforeach()
         )
         ```
 
-add_library()
+#### 编译规则
 
-add_executable()
-add_dependencies()
-target_link_libraries()
-```
-
-### 结构说明
-
-1. 推荐使用`set()`进行编译选项的设置，注意追加和覆盖的区别：
+1. `find_package()`用于查找外部工程并加载相关设置，外部工程通常为功能包或第三方依赖库，常用命令格式如下：
 
     ```cmake
-    set(CMAKE_CXX_FLAGS "${CMAKE_CXX_FLAGS} -O3")   # 追加
-    set(CMAKE_CXX_FLAGS "-O3")                      # 覆盖
+    find_package(<package> [version] [QUIET] [REQUIRED]
+                 [[COMPONENTS] [components...]])
     ```
 
-2. 推荐将查找依赖库的部分写到`cmake`文件夹中的`packages.cmake`文件中，使用`include()`包含该文件即可：
+2. `include_directories()`用于指定包含头文件目录，常用命令格式如下：
 
     ```cmake
-    include(cmake/packages.cmake)
+    include_directories(<directory1> [directory2 ...])
     ```
 
-    `packages.cmake`文件示例：
+    - 目录名被添加到`INCLUDE_DIRECTORIES`变量中；
+    - 纯头文件库只需要`include_directories()`即可，例如：Eigen；
+
+3. `link_directories()`用于指定链接时查找的库文件目录，常用命令格式如下：
 
     ```cmake
-    list(APPEND CMAKE_MODULE_PATH ${PROJECT_SOURCE_DIR}/cmake)
-
-    find_package(Eigen3 REQUIRED QUIET)
-    find_package(PCL REQUIRED QUIET)
-
-    include_directories(
-        include
-        ${EIGEN3_INCLUDE_DIRS}
-        ${PCL_INCLUDE_DIRS}
-    )
+    link_directories(<directory1> [directory2 ...])
     ```
 
-3. `add_definitions()`可用于定义预处理宏，实现条件编译：
+    - 在使用`find_package()`找到外部工程后会自动添加链接库信息，[不建议](http://wiki.ros.org/catkin/CMakeLists.txt)再使用`link_directories()`；
+
+4. `add_library()`用于将指定的源文件编译成库，常用命令格式如下：
 
     ```cmake
-    option(USE_FLAG_A "Use Flag A" ON)
-    option(USE_FLAG_B "Use Flag B" OFF)
-    if(USE_FLAG_A)
-        message("USING_FLAG_A")
-        add_definitions(-DFLAG_A)   # 定义了名为FLAG_A的宏
-    elseif(USE_FLAG_B)
-        message("USING_FLAG_B")
-        add_definitions(-DFLAG_B)   # 定义了名为FLAG_B的宏
-    else()
-        message("DEFAULT")
-    endif()
+    add_library(<name> [STATIC | SHARED | MODULE]
+                <source1> [source2 ...])
     ```
 
-    条件编译示例：
+    - 库的类型说明：
 
-    ```cpp
-    #ifdef FLAG_A
-        // do something
-    #elif FLAG_B
-        // do something
-    #else
-        // do something
-    #endif
-    ```
+        | 库的类型 | 说明 |
+        | :--- | :--- |
+        | `STATIC` | 静态库，在链接时使用，在Linux系统中后缀为`.a`，在Windows系统中后缀为`.lib`，用空间换时间，全量更新 |
+        | `SHARED` | 在程序运行时动态链接并加载，在Linux系统中被称为共享库，后缀为`.so`（shared object），在Windows系统中被称为动态链接库，后缀为`.dll`（dynamic link library），用时间换空间，增量更新 |
+        | `MODULE` | 插件库，不链接，在程序运行时使用`dlopen`动态加载，使用较少 |
 
-4. 使用`add_subdirectory()`添加的子目录中需要存在`CMakeLists.txt`文件，内容可以为空；
-5. 推荐使用`aux_source_directory()`或`set()`构建源文件列表；
-6. `add_compile_options()`和`add_definitions()`针对所有编译器（包括C和C++），应慎重使用：
+    - 如果未显式指定库的类型，将根据`BUILD_SHARED_LIBS`变量的值进行判断；
+    - 常用于将各个模块分别编译成库：
+
+        ```cmake
+        add_library(${PROJECT_NAME}.algorithm SHARED
+            foo1.cpp
+            bar1.cpp
+        )
+        add_library(${PROJECT_NAME}.common SHARED
+            foo2.cpp
+            bar2.cpp
+        )
+        ```
+
+5. `add_executable()`用于将指定的源文件编译成可执行文件，常用命令格式如下：
 
     ```cmake
-    add_compile_options(-std=c++11 -Wall -pthread -fexceptions)     # 不推荐
+    add_executable(<name>
+                   <source1> [source2 ...])
     ```
 
-7. 纯头文件库只需`include_directories()`，例如：Eigen；
-8. 在`find_package()`之后已能正确找到对应库路径，[不建议](http://wiki.ros.org/catkin/CMakeLists.txt)再使用`link_directories()`；
-9. 推荐将自己定义的类和函数模块化，使用`add_library()`编译成静态库，在编译可执行文件时直接链接相关静态库即可；
-10. 当定义的目标依赖另一个目标，确保在源码编译本目标之前，其他的目标已经被构建，使用`add_dependencies()`；
+6. `add_dependencies()`用于指定顶层编译目标（top-level targets）之间的依赖关系，常用命令格式如下：
+
+    ```cmake
+    add_dependencies(<target>
+                     <dependency1> [dependency2 ...])
+    ```
+
+    - 顶层编译目标是由`add_library()`、`add_executable()`、`add_custom_target()`功能函数创建的编译目标，不包括`install()`功能函数生成的编译目标；
+    - 当定义的顶层编译目标依赖其他顶层编译目标时，需要使用`add_dependencies()`指定依赖关系，保证在构建本目标之前，其他目标已构建完成；
+    - 常用于`target_link_libraries()`之前；
+
+7. `target_link_libraries()`用于指定编译目标需要链接的依赖库，常用命令格式如下：
+
+    ```cmake
+    target_link_libraries(<target>
+                          <item1> [item2 ...])
+    ```
+
+    - 编译目标由`add_executable()`、`add_library()`功能函数创建；
+
+#### 辅助函数
+
+1. `option()`用于设置编译选项，常用语法如下：
+
+    ```cmake
+    option(<option_variable> "help string describing option"
+           [initial_value])
+    ```
+
+    - 编译选项分为`ON`和`OFF`；
+    - 如果不设置编译选项，初值默认为`OFF`；
+
+2. `message()`用于输出消息，常用语法如下：
+
+    ```cmake
+    message([mode] "message to display" ...)
+    ```
+
+    - 消息类型说明：
+
+        | 消息类型 | 说明 |
+        | :--- | :--- |
+        | `FATAL_ERROR` | CMake错误，停止处理和生成 |
+        | `SEND_ERROR` | CMake错误，继续处理但跳过生成 |
+        | `WARNING` | CMake警告，继续处理 |
+        | `AUTHOR_WARNING` | CMake开发者警告，继续处理 |
+        | `DEPRECATION` | 如果定义了`CMAKE_ERROR_DEPRECATED`或`CMAKE_WARN_DEPRECATED`，则输出CMake弃用错误或警告，否则无消息输出 |
+        | `NOTICE`或未显式指定 | 打印到`stderr`的重要消息 |
+        | `STATUS` | 一行以内的简明信息，供项目用户使用 |
+        | `VERBOSE` | 详细信息，供项目用户使用 |
+        | `DEBUG` | 详细信息，供项目开发者使用 |
+        | `TRACE` | 细粒度信息，包含底层实现细节，临时使用，在项目发布、打包时删除 |
+
+3. `add_definitions()`用于为编译指令添加`-D`开头的定义，常用语法如下：
+
+    ```cmake
+    add_definitions(-DFOO -DBAR ...)
+    ```
+
+    - 常用于实现条件编译：
+
+        ```cmake
+        option(USE_FLAG_A "Use Flag A" ON)
+        option(USE_FLAG_B "Use Flag B" OFF)
+        if(USE_FLAG_A)
+            message("USING_FLAG_A")
+            add_definitions(-DFLAG_A)   # 定义了名为FLAG_A的宏
+        elseif(USE_FLAG_B)
+            message("USING_FLAG_B")
+            add_definitions(-DFLAG_B)   # 定义了名为FLAG_B的宏
+        else()
+            message("DEFAULT")
+        endif()
+        ```
+
+    - 条件编译示例：
+
+        ```cpp
+        #ifdef FLAG_A
+            // do something
+        #elif FLAG_B
+            // do something
+        #else
+            // do something
+        #endif
+        ```
+
+4. `add_subdirectory()`用于添加子目录，常用语法如下：
+
+    ```cmake
+    add_subdirectory(<directory>)
+    ```
+
+    - 添加的子目录中需要存在`CMakeLists.txt`文件；
+
+5. `aux_source_directory()`用于将指定目录中的源文件列表保存到变量中，常用语法如下：
+
+    ```cmake
+    aux_source_directory(<directory> <variable>)
+    ```
+
+    - 常用于构建源文件列表：
+
+        ```cmake
+        aux_source_directory(${PROJECT_NAME}/test TEST_SOURCES)
+        ```
+
+    - 也可以使用`set()`构建源文件列表：
+
+        ```cmake
+        set(TEST_SOURCES
+            ${PROJECT_NAME}/test/test_algorithm.cpp
+            ${PROJECT_NAME}/test/test_common.cpp
+            ${PROJECT_NAME}/test/test_slam.cpp
+        )
+        ```
+
+6. `add_compile_options()`用于设置编译选项，常用语法如下：
+
+    ```cmake
+    add_compile_options(<option1> [option2 ...])
+    ```
+
+    - `add_compile_options()`和`add_definitions()`针对所有编译器（包括C和C++），应慎重使用：
+
+        ```cmake
+        add_compile_options(-std=c++11 -Wall -pthread -fexceptions)     # 不推荐
+        ```
+
+7. `install()`用于定义安装规则，常用语法如下：
 
 ### 常用变量
 
@@ -332,7 +456,7 @@ target_link_libraries()
 | `CMAKE_CXX_FLAGS` | 编译参数 |
 | `CMAKE_CXX_FLAGS_DEBUG` | Debug模式下的编译参数 |
 | `CMAKE_CXX_FLAGS_RELEASE` | Release模式下的编译参数 |
-| `CMAKE_MODULE_PATH` | `.cmake`文件所在路径 |
+| `CMAKE_MODULE_PATH` | `include()`命令和`find_package()`命令查找CMake模块的路径 |
 | `XXX_FOUND` | `XXX`库是否找到 |
 | `XXX_VERSION` | `XXX`库版本 |
 | `XXX_INCLUDE_DIRS` | `XXX`库的头文件路径 |
@@ -344,8 +468,10 @@ target_link_libraries()
 ### 网站
 
 1. [CMake Reference Documentation](https://cmake.org/cmake/help/latest/index.html)
-2. [基于VSCode和CMake实现C/C++开发丨Linux篇](https://www.bilibili.com/video/BV1fy4y1b7TC)
-3. [Cmake的应用与实践](https://www.bilibili.com/video/BV17J411m7o1)
+2. [CMake Tutorial](https://cmake.org/cmake/help/latest/guide/tutorial/index.html)
+3. [cmake使用教程](https://juejin.cn/post/6844903557183832078)
+4. [基于VSCode和CMake实现C/C++开发丨Linux篇](https://www.bilibili.com/video/BV1fy4y1b7TC)
+5. [Cmake的应用与实践](https://www.bilibili.com/video/BV17J411m7o1)
 
 ### GitHub
 
@@ -381,10 +507,15 @@ target_link_libraries()
 13. [TixiaoShan/LIO-SAM](https://github.com/TixiaoShan/LIO-SAM)
 14. [TixiaoShan/LVI-SAM](https://github.com/TixiaoShan/LVI-SAM)
 15. [koide3/hdl_graph_slam](https://github.com/koide3/hdl_graph_slam)
-16. [add_definitions()-CSDN博客](https://blog.csdn.net/fb_941219/article/details/107376017)
-17. [编译选项设置区别-CSDN博客](https://blog.csdn.net/10km/article/details/51731959)
-18. [变量1-简书](https://www.jianshu.com/p/1827cd86d576)
-19. [变量2-CSDN博客](https://blog.csdn.net/juluwangriyue/article/details/123494008)
-20. [变量3-CSDN博客](https://blog.csdn.net/wzj_110/article/details/116674655)
-21. [CMake如何入门？-0xCCCCCCCC的回答-知乎](https://www.zhihu.com/question/58949190/answer/999701073)
-22. [CMake和Modern CMake相关资料（不定期补充）-迦非喵的文章-知乎](https://zhuanlan.zhihu.com/p/205324774)
+16. [Cmake之深入理解find_package()的用法-希葛格的韩少君的文章-知乎](https://zhuanlan.zhihu.com/p/97369704)
+17. [静态库、动态库、共享库的区别-博客园](https://www.cnblogs.com/sunsky303/p/7731911.html)
+18. [add_dependencies()1-CSDN博客](https://blog.csdn.net/KingOfMyHeart/article/details/112983922)
+19. [add_dependencies()2-CSDN博客](https://blog.csdn.net/zhizhengguan/article/details/118381772)
+20. [add_dependencies()3-CSDN博客](https://blog.csdn.net/new9232/article/details/125831009)
+21. [add_definitions()-CSDN博客](https://blog.csdn.net/fb_941219/article/details/107376017)
+22. [编译选项设置区别-CSDN博客](https://blog.csdn.net/10km/article/details/51731959)
+23. [变量1-简书](https://www.jianshu.com/p/1827cd86d576)
+24. [变量2-CSDN博客](https://blog.csdn.net/juluwangriyue/article/details/123494008)
+25. [变量3-CSDN博客](https://blog.csdn.net/wzj_110/article/details/116674655)
+26. [CMake如何入门？-0xCCCCCCCC的回答-知乎](https://www.zhihu.com/question/58949190/answer/999701073)
+27. [CMake和Modern CMake相关资料（不定期补充）-迦非喵的文章-知乎](https://zhuanlan.zhihu.com/p/205324774)
