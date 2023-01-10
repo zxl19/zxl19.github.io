@@ -25,23 +25,23 @@ C++学习资料存档。
 ### C++
 
 1. [mortennobel/cpp-cheatsheet](https://github.com/mortennobel/cpp-cheatsheet)
-2. [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp)
-3. [isocpp/CppCoreGuidelines](https://github.com/isocpp/CppCoreGuidelines)
-4. [Light-City/CPlusPlusThings](https://github.com/Light-City/CPlusPlusThings)
-5. [TheAlgorithms/C-Plus-Plus](https://github.com/TheAlgorithms/C-Plus-Plus)
-6. [wuye9036/CppTemplateTutorial](https://github.com/wuye9036/CppTemplateTutorial)
-7. [cpp-best-practices/cppbestpractices](https://github.com/cpp-best-practices/cppbestpractices)
-8. [applenob/Cpp_Primer_Practice](https://github.com/applenob/Cpp_Primer_Practice)
-9. [tangtangcoding/C-C-](https://github.com/tangtangcoding/C-C-)
+2. [isocpp/CppCoreGuidelines](https://github.com/isocpp/CppCoreGuidelines)
+3. [Light-City/CPlusPlusThings](https://github.com/Light-City/CPlusPlusThings)
+4. [TheAlgorithms/C-Plus-Plus](https://github.com/TheAlgorithms/C-Plus-Plus)
+5. [wuye9036/CppTemplateTutorial](https://github.com/wuye9036/CppTemplateTutorial)
+6. [cpp-best-practices/cppbestpractices](https://github.com/cpp-best-practices/cppbestpractices)
+7. [applenob/Cpp_Primer_Practice](https://github.com/applenob/Cpp_Primer_Practice)
+8. [tangtangcoding/C-C-](https://github.com/tangtangcoding/C-C-)
 
 ### C++新特性
 
 1. [changkun/modern-cpp-tutorial](https://github.com/changkun/modern-cpp-tutorial)
 2. [AnthonyCalandra/modern-cpp-features](https://github.com/AnthonyCalandra/modern-cpp-features)
 3. [rigtorp/awesome-modern-cpp](https://github.com/rigtorp/awesome-modern-cpp)
-4. [0voice/cpp_new_features](https://github.com/0voice/cpp_new_features)
-5. [muqsitnawaz/modern-cpp-cheatsheet](https://github.com/muqsitnawaz/modern-cpp-cheatsheet)
-6. [netcan/advanced-cpp20-programming](https://github.com/netcan/advanced-cpp20-programming)
+4. [CnTransGroup/EffectiveModernCppChinese](https://github.com/CnTransGroup/EffectiveModernCppChinese)
+5. [0voice/cpp_new_features](https://github.com/0voice/cpp_new_features)
+6. [muqsitnawaz/modern-cpp-cheatsheet](https://github.com/muqsitnawaz/modern-cpp-cheatsheet)
+7. [netcan/advanced-cpp20-programming](https://github.com/netcan/advanced-cpp20-programming)
 
 ### C++并发
 
