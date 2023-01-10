@@ -143,6 +143,7 @@ add_library()
 add_executable()
 add_dependencies()
 target_link_libraries()
+target_include_directories()
 
 # 辅助函数
 option()
@@ -152,6 +153,8 @@ add_subdirectory()
 aux_source_directory()
 # add_compile_options()
 install()
+enable_testing()
+add_test()
 
 # 条件判断
 if()
@@ -163,9 +166,14 @@ else()
 endif()
 
 # 循环遍历
+## for循环
 foreach()
     # do something
 endforeach()
+## while循环
+while()
+    # do something
+endwhile()
 ```
 
 ### 常用命令
@@ -175,7 +183,7 @@ endforeach()
 1. `CMakeLists.txt`文件使用`#`注释；
 2. 功能函数名不区分大小写，支持大小写混用，但是推荐使用小写，可读性更好；
 3. 功能函数参数中`<...>`表示必需项，`[...]`表示可选项，`|`表示或；
-4. 变量名和字符串区分大小写；
+4. 变量名和字符串区分大小写，推荐使用大写，可读性更好；
 
 #### 工程配置
 
@@ -303,6 +311,10 @@ endforeach()
             foo2.cpp
             bar2.cpp
         )
+        add_library(${PROJECT_NAME}.slam SHARED
+            foo3.cpp
+            bar3.cpp
+        )
         ```
 
 5. `add_executable()`用于将指定的源文件编译成可执行文件，常用命令格式如下：
@@ -320,7 +332,7 @@ endforeach()
     ```
 
     - 顶层编译目标是由`add_library()`、`add_executable()`、`add_custom_target()`功能函数创建的编译目标，不包括`install()`功能函数生成的编译目标；
-    - 当定义的顶层编译目标依赖其他顶层编译目标时，需要使用`add_dependencies()`指定依赖关系，保证在构建本目标之前，其他目标已构建完成；
+    - 当定义的顶层编译目标依赖其他顶层编译目标时，需要使用`add_dependencies()`指定依赖关系，保证在构建本目标之前，本目标依赖的其他目标已构建完成；
     - 常用于`target_link_libraries()`之前；
 
 7. `target_link_libraries()`用于指定编译目标需要链接的依赖库，常用命令格式如下：
@@ -332,17 +344,37 @@ endforeach()
 
     - 编译目标由`add_executable()`、`add_library()`功能函数创建；
 
+8. `target_include_directories()`用于指定编译目标需要包含的头文件目录，常用命令格式如下：
+
+    ```cmake
+    target_include_directories(<target>
+                               <PRIVATE | INTERFACE | PUBLIC>
+                               <item1> [item2 ...]
+    )
+    ```
+
+    - 编译目标由`add_executable()`、`add_library()`功能函数创建；
+    - 参数说明：
+
+        | 参数 | 说明 |
+        | :--- | :--- |
+        | `PRIVATE` | 私有，仅在编译目标内部使用，外部无法通过编译目标使用 |
+        | `INTERFACE` | 接口，编译目标内部不使用，外部通过编译目标使用 |
+        | `PUBLIC` | 公开，编译目标内部使用，外部通过编译目标使用，`PUBLIC = PRIVATE + INTERFACE` |
+
+    - `include_directories()`包含的头文件目录可以被工程中的所有文件访问，但是`target_include_directories()`只能被指定的编译目标访问；
+
 #### 辅助函数
 
 1. `option()`用于设置编译选项，常用语法如下：
 
     ```cmake
-    option(<option_variable> "help string describing option"
-           [initial_value])
+    option(<variable> "help string describing option"
+           [value])
     ```
 
-    - 编译选项分为`ON`和`OFF`；
-    - 如果不设置编译选项，初值默认为`OFF`；
+    - 编译选项是布尔值，分为`ON`和`OFF`；
+    - 如果未显式指定编译选项的值，默认为`OFF`；
 
 2. `message()`用于输出消息，常用语法如下：
 
@@ -371,7 +403,7 @@ endforeach()
     add_definitions(-DFOO -DBAR ...)
     ```
 
-    - 常用于实现条件编译：
+    - 常用于定义宏，实现条件编译：
 
         ```cmake
         option(USE_FLAG_A "Use Flag A" ON)
@@ -441,7 +473,198 @@ endforeach()
         add_compile_options(-std=c++11 -Wall -pthread -fexceptions)     # 不推荐
         ```
 
-7. `install()`用于定义安装规则，常用语法如下：
+7. `install()`用于定义安装规则，包括编译目标、文件、目录等；
+
+    - 安装编译目标的常用语法如下：
+
+        ```cmake
+        install(TARGETS <target1> [target2 ...]
+                <ARCHIVE | LIBRARY | RUNTIME> DESTINATION <directory>
+        )
+        ```
+
+        - 编译目标由`add_executable()`、`add_library()`功能函数创建；
+        - 参数说明：
+
+            | 参数 | 说明 |
+            | :--- | :--- |
+            | `ARCHIVE` | `STATIC`类型的库 |
+            | `LIBRARY` | `SHARED`和`MODULE`类型的库 |
+            | `RUNTIME` | 可执行文件 |
+
+        - 示例：
+
+            ```cmake
+            install(TARGETS ${PROJECT_NAME}.algorithm
+                    LIBRARY DESTINATION lib
+                    ARCHIVE DESTINATION lib
+                    RUNTIME DESTINATION bin
+            )
+            install(TARGETS ${PROJECT_NAME}.common
+                    LIBRARY DESTINATION lib
+                    ARCHIVE DESTINATION lib
+                    RUNTIME DESTINATION bin
+            )
+            install(TARGETS ${PROJECT_NAME}.slam
+                    LIBRARY DESTINATION lib
+                    ARCHIVE DESTINATION lib
+                    RUNTIME DESTINATION bin
+            )
+            ```
+
+    - 安装文件的常用语法如下：
+
+        ```cmake
+        install(<FILES | PROGRAMS> <file1> [file2 ...]
+                DESTINATION <directory>
+        )
+        ```
+
+    - 安装目录的常用语法如下：
+
+        ```cmake
+        install(DIRECTORY <directory1> [directory2 ...]
+                DESTINATION <directory3>
+                [FILES_MATCHING [PATTERN <pattern> | REGEX <regex>]]
+        )
+        ```
+
+        - 可以使用模糊匹配或正则表达式查找指定的文件名；
+        - 示例：
+
+            ```cmake
+            install(DIRECTORY "${CMAKE_CURRENT_SOURCE_DIR}/third_party/Sophus/"
+                    DESTINATION "include/Sophus"
+                    FILES_MATCHING
+                    PATTERN "*.h"
+                    PATTERN "*.hpp"
+            )
+            ```
+
+8. `enable_testing()`用于启用当前目录下的所有测试，供`CTest`模块使用，常用语法如下：
+
+    ```cmake
+    enable_testing()
+    ```
+
+    - `CTest`模块希望在工程编译目录下找到测试文件，因此本命令应位于工程顶层`CMakeLists.txt`文件中；
+    - 如果已经在`CMakeLists.txt`文件中包含`CTest`模块，则`enable_testing()`命令会被自动调用：
+
+        ```cmake
+        include(CTest)
+        ```
+
+9. `add_test()`用于生成测试文件，供`CTest`模块使用，常用语法如下：
+
+    ```cmake
+    add_test(NAME <name>
+             COMMAND <command> [<arg> ...]
+    )
+    ```
+
+#### 条件判断
+
+##### 常用语法
+
+`if()`用于根据条件判断执行不同的命令，常用语法如下：
+
+```cmake
+if(<condition>)
+    <command>
+elseif(<condition>)     # optional block, can be repeated
+    <command>
+else()                  # optional block
+    <command>
+endif()
+```
+
+##### 表达式优先级
+
+1. 括号`()`;
+2. 一元测试（unary test）：
+
+    - `EXISTS`：文件或目录是否存在；
+    - `COMMAND`：是否为可调用的命令、宏、函数；
+    - `DEFINED`：变量是否定义；
+
+3. 二元测试（binary test）：
+
+    - `EQUAL`：等于；
+    - `LESS`：小于；
+    - `LESS_EQUAL`：小于等于；
+    - `GREATER`：大于；
+    - `GREATER_EQUAL`：大于等于；
+    - `STREQUAL`：字符串等于；
+    - `STRLESS`：字符串小于；
+    - `STRLESS_EQUAL`：字符串小于等于；
+    - `STRGREATER`：字符串大于；
+    - `STRGREATER_EQUAL`：字符串大于等于；
+    - `VERSION_EQUAL`：版本等于；
+    - `VERSION_LESS`：版本小于；
+    - `VERSION_LESS_EQUAL`：版本小于等于；
+    - `VERSION_GREATER`：版本大于；
+    - `VERSION_GREATER_EQUAL`：版本大于等于；
+    - `PATH_EQUAL`：路径等于；
+    - `MATCHES`：匹配正则表达式结果；
+
+4. 一元逻辑运算符（unary logical operator）：
+
+    - `NOT`：逻辑非；
+
+5. 二元逻辑运算符（binary logical operator），从左到右，无短路现象：
+
+    - `AND`：逻辑与；
+    - `OR`：逻辑或；
+
+##### 表达式类型说明
+
+1. 常量：
+
+    - 返回真：`1`、`ON`、`YES`、`TRUE`、`Y`、非零数（包括浮点数）；
+    - 返回假：`0`、`OFF`、`NO`、`FALSE`、`N`、`IGNORE`、`NOTFOUND`、空字符串、后缀为`-NOTFOUND`；
+
+2. 变量：
+
+    - 返回真：**变量值**为真常量；
+    - 返回假：**变量值**为假常量，或者变量未被定义；
+    - 宏定义和环境变量不是变量，会返回假；
+
+3. 字符串：
+
+    - 带引号的字符串始终返回假，除非字符串的值是真常量；
+
+#### 循环遍历
+
+1. 循环体中的命令在循环中会被记录，在循环结束后一起执行；
+2. `foreach()`用于对列表中的每一个值执行相同的命令，常用语法如下：
+
+    ```cmake
+    foreach(<loop_variable> <variable_list>)
+        <command>
+    endforeach([loop_variable])
+    ```
+
+    - 示例：
+
+        ```cmake
+        foreach(test_src ${TEST_SOURCES})
+            add_executable(${test_src} ${test_src}.cpp)
+            target_link_libraries(${test_src}
+                ${PROJECT_NAME}.algorithm
+                ${PROJECT_NAME}.common
+                ${PROJECT_NAME}.slam
+            )
+            add_test(${test_src} ${test_src})
+        endforeach(test_src)
+        ```
+
+3. `while()`用于在表达式的值为真时执行相同的命令，常用语法如下：
+
+    ```cmake
+    while(<condition>)
+        <command>
+    endwhile([condition])
+    ```
 
 ### 常用变量
 
@@ -450,6 +673,11 @@ endforeach()
 | `PROJECT_NAME` | 工程名 |
 | `PROJECT_SOURCE_DIR` | 工程顶层目录 |
 | `PROJECT_BINARY_DIR` | 工程编译目录 |
+| `CMAKE_VERSION` | CMake版本 |
+| `CMAKE_SOURCE_DIR` | 工程顶层目录 |
+| `CMAKE_BINARY_DIR` | 工程编译目录 |
+| `CMAKE_CURRENT_SOURCE_DIR` | 当前处理`CMakeLists.txt`文件的所在目录 |
+| `CMAKE_CURRENT_BINARY_DIR` | 当前处理`CMakeLists.txt`文件的编译目录 |
 | `CMAKE_BUILD_TYPE` | 编译模式 |
 | `CMAKE_CXX_STANDARD` | 使用的C++标准 |
 | `CMAKE_CXX_STANDARD_REQUIRED` | 是否强制使用指定的C++标准 |
@@ -469,9 +697,10 @@ endforeach()
 
 1. [CMake Reference Documentation](https://cmake.org/cmake/help/latest/index.html)
 2. [CMake Tutorial](https://cmake.org/cmake/help/latest/guide/tutorial/index.html)
-3. [cmake使用教程](https://juejin.cn/post/6844903557183832078)
-4. [基于VSCode和CMake实现C/C++开发丨Linux篇](https://www.bilibili.com/video/BV1fy4y1b7TC)
-5. [Cmake的应用与实践](https://www.bilibili.com/video/BV17J411m7o1)
+3. [CMake-Runebook.dev](https://runebook.dev/zh-CN/docs/cmake/-index-)
+4. [cmake使用教程](https://juejin.cn/post/6844903557183832078)
+5. [基于VSCode和CMake实现C/C++开发丨Linux篇](https://www.bilibili.com/video/BV1fy4y1b7TC)
+6. [Cmake的应用与实践](https://www.bilibili.com/video/BV17J411m7o1)
 
 ### GitHub
 
@@ -512,10 +741,12 @@ endforeach()
 18. [add_dependencies()1-CSDN博客](https://blog.csdn.net/KingOfMyHeart/article/details/112983922)
 19. [add_dependencies()2-CSDN博客](https://blog.csdn.net/zhizhengguan/article/details/118381772)
 20. [add_dependencies()3-CSDN博客](https://blog.csdn.net/new9232/article/details/125831009)
-21. [add_definitions()-CSDN博客](https://blog.csdn.net/fb_941219/article/details/107376017)
-22. [编译选项设置区别-CSDN博客](https://blog.csdn.net/10km/article/details/51731959)
-23. [变量1-简书](https://www.jianshu.com/p/1827cd86d576)
-24. [变量2-CSDN博客](https://blog.csdn.net/juluwangriyue/article/details/123494008)
-25. [变量3-CSDN博客](https://blog.csdn.net/wzj_110/article/details/116674655)
-26. [CMake如何入门？-0xCCCCCCCC的回答-知乎](https://www.zhihu.com/question/58949190/answer/999701073)
-27. [CMake和Modern CMake相关资料（不定期补充）-迦非喵的文章-知乎](https://zhuanlan.zhihu.com/p/205324774)
+21. [cmake：target_**中的PUBLIC，PRIVATE，INTERFACE-大川搬砖的文章-知乎](https://zhuanlan.zhihu.com/p/82244559)
+22. [add_definitions()-CSDN博客](https://blog.csdn.net/fb_941219/article/details/107376017)
+23. [编译选项设置区别-CSDN博客](https://blog.csdn.net/10km/article/details/51731959)
+24. [变量1-掘金](https://juejin.cn/post/6998055558741753893)
+25. [变量2-简书](https://www.jianshu.com/p/1827cd86d576)
+26. [变量3-CSDN博客](https://blog.csdn.net/juluwangriyue/article/details/123494008)
+27. [变量4-CSDN博客](https://blog.csdn.net/wzj_110/article/details/116674655)
+28. [CMake如何入门？-0xCCCCCCCC的回答-知乎](https://www.zhihu.com/question/58949190/answer/999701073)
+29. [CMake和Modern CMake相关资料（不定期补充）-迦非喵的文章-知乎](https://zhuanlan.zhihu.com/p/205324774)
