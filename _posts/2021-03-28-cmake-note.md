@@ -16,11 +16,12 @@ pinned: true
 ## CMake Hello World
 
 1. CMake是Cross Platform Make的简称，是开源、跨平台的构建生成（build generator）工具；
-2. CMake使用`CMakeLists.txt`配置文件控制编译过程，以C++编译过程为例：
+2. CMake工程的构建方式可以分为内部构建（in-source build）和外部构建（out-of-source build）两种，外部构建使用`build`文件夹存储编译生成文件，使源代码与编译生成文件分离，便于维护，推荐使用外部构建；
+3. CMake使用`CMakeLists.txt`配置文件控制编译过程，以C++编译过程为例：
 
     ```shell
     mkdir build
-    cd build
+    cd build    # 外部构建
     cmake ..    # CMake根据CMakeLists.txt配置文件生成Makefile文件
     make -j     # 编译器根据Makefile文件完成编译过程
     ```
@@ -725,31 +726,32 @@ endif()
 ## 参考
 
 1. [CMake](https://cmake.org)
-2. [gaoxiang12/faster-lio](https://github.com/gaoxiang12/faster-lio)
-3. [Ceres CMakeLists-CSDN博客](https://blog.csdn.net/sinat_28752257/article/details/82758546)
-4. [CMakeLists-简书](https://www.jianshu.com/p/95c744a5c6f1)
-5. [指定C++编译标准1-Stack Overflow](https://stackoverflow.com/questions/42834844/how-to-get-cmake-to-pass-either-std-c14-c1y-or-c17-c1z-based-on-gcc-vers)
-6. [指定C++编译标准2-Crascit](https://crascit.com/2015/03/28/enabling-cxx11-in-cmake/)
-7. [指定C++编译标准3-腾讯云](https://cloud.tencent.com/developer/article/1741243)
-8. [指定C++编译标准4-azmddy](https://azmddy.github.io/article/IT%E5%9F%BA%E7%A1%80/%E6%9E%84%E5%BB%BA/CMake/cmake-day-2.html)
-9. [Eigen内存对齐-卷儿的文章-知乎](https://zhuanlan.zhihu.com/p/349413376)
-10. [catkin/CMakeLists.txt-ROS Wiki](http://wiki.ros.org/catkin/CMakeLists.txt)
-11. [HKUST-Aerial-Robotics/A-LOAM](https://github.com/HKUST-Aerial-Robotics/A-LOAM)
-12. [RobustFieldAutonomyLab/LeGO-LOAM](https://github.com/RobustFieldAutonomyLab/LeGO-LOAM)
-13. [TixiaoShan/LIO-SAM](https://github.com/TixiaoShan/LIO-SAM)
-14. [TixiaoShan/LVI-SAM](https://github.com/TixiaoShan/LVI-SAM)
-15. [koide3/hdl_graph_slam](https://github.com/koide3/hdl_graph_slam)
-16. [Cmake之深入理解find_package()的用法-希葛格的韩少君的文章-知乎](https://zhuanlan.zhihu.com/p/97369704)
-17. [静态库、动态库、共享库的区别-博客园](https://www.cnblogs.com/sunsky303/p/7731911.html)
-18. [add_dependencies()1-CSDN博客](https://blog.csdn.net/KingOfMyHeart/article/details/112983922)
-19. [add_dependencies()2-CSDN博客](https://blog.csdn.net/zhizhengguan/article/details/118381772)
-20. [add_dependencies()3-CSDN博客](https://blog.csdn.net/new9232/article/details/125831009)
-21. [cmake：target_**中的PUBLIC，PRIVATE，INTERFACE-大川搬砖的文章-知乎](https://zhuanlan.zhihu.com/p/82244559)
-22. [add_definitions()-CSDN博客](https://blog.csdn.net/fb_941219/article/details/107376017)
-23. [编译选项设置区别-CSDN博客](https://blog.csdn.net/10km/article/details/51731959)
-24. [变量1-掘金](https://juejin.cn/post/6998055558741753893)
-25. [变量2-简书](https://www.jianshu.com/p/1827cd86d576)
-26. [变量3-CSDN博客](https://blog.csdn.net/juluwangriyue/article/details/123494008)
-27. [变量4-CSDN博客](https://blog.csdn.net/wzj_110/article/details/116674655)
-28. [CMake如何入门？-0xCCCCCCCC的回答-知乎](https://www.zhihu.com/question/58949190/answer/999701073)
-29. [CMake和Modern CMake相关资料（不定期补充）-迦非喵的文章-知乎](https://zhuanlan.zhihu.com/p/205324774)
+2. [内部构建和外部构建-CSDN博客](https://blog.csdn.net/sandalphon4869/article/details/100589747)
+3. [gaoxiang12/faster-lio](https://github.com/gaoxiang12/faster-lio)
+4. [Ceres CMakeLists-CSDN博客](https://blog.csdn.net/sinat_28752257/article/details/82758546)
+5. [CMakeLists-简书](https://www.jianshu.com/p/95c744a5c6f1)
+6. [指定C++编译标准1-Stack Overflow](https://stackoverflow.com/questions/42834844/how-to-get-cmake-to-pass-either-std-c14-c1y-or-c17-c1z-based-on-gcc-vers)
+7. [指定C++编译标准2-Crascit](https://crascit.com/2015/03/28/enabling-cxx11-in-cmake/)
+8. [指定C++编译标准3-腾讯云](https://cloud.tencent.com/developer/article/1741243)
+9. [指定C++编译标准4-azmddy](https://azmddy.github.io/article/IT%E5%9F%BA%E7%A1%80/%E6%9E%84%E5%BB%BA/CMake/cmake-day-2.html)
+10. [Eigen内存对齐-卷儿的文章-知乎](https://zhuanlan.zhihu.com/p/349413376)
+11. [catkin/CMakeLists.txt-ROS Wiki](http://wiki.ros.org/catkin/CMakeLists.txt)
+12. [HKUST-Aerial-Robotics/A-LOAM](https://github.com/HKUST-Aerial-Robotics/A-LOAM)
+13. [RobustFieldAutonomyLab/LeGO-LOAM](https://github.com/RobustFieldAutonomyLab/LeGO-LOAM)
+14. [TixiaoShan/LIO-SAM](https://github.com/TixiaoShan/LIO-SAM)
+15. [TixiaoShan/LVI-SAM](https://github.com/TixiaoShan/LVI-SAM)
+16. [koide3/hdl_graph_slam](https://github.com/koide3/hdl_graph_slam)
+17. [Cmake之深入理解find_package()的用法-希葛格的韩少君的文章-知乎](https://zhuanlan.zhihu.com/p/97369704)
+18. [静态库、动态库、共享库的区别-博客园](https://www.cnblogs.com/sunsky303/p/7731911.html)
+19. [add_dependencies()1-CSDN博客](https://blog.csdn.net/KingOfMyHeart/article/details/112983922)
+20. [add_dependencies()2-CSDN博客](https://blog.csdn.net/zhizhengguan/article/details/118381772)
+21. [add_dependencies()3-CSDN博客](https://blog.csdn.net/new9232/article/details/125831009)
+22. [cmake：target_**中的PUBLIC，PRIVATE，INTERFACE-大川搬砖的文章-知乎](https://zhuanlan.zhihu.com/p/82244559)
+23. [add_definitions()-CSDN博客](https://blog.csdn.net/fb_941219/article/details/107376017)
+24. [编译选项设置区别-CSDN博客](https://blog.csdn.net/10km/article/details/51731959)
+25. [变量1-掘金](https://juejin.cn/post/6998055558741753893)
+26. [变量2-简书](https://www.jianshu.com/p/1827cd86d576)
+27. [变量3-CSDN博客](https://blog.csdn.net/juluwangriyue/article/details/123494008)
+28. [变量4-CSDN博客](https://blog.csdn.net/wzj_110/article/details/116674655)
+29. [CMake如何入门？-0xCCCCCCCC的回答-知乎](https://www.zhihu.com/question/58949190/answer/999701073)
+30. [CMake和Modern CMake相关资料（不定期补充）-迦非喵的文章-知乎](https://zhuanlan.zhihu.com/p/205324774)
