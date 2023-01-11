@@ -43,14 +43,16 @@ pinned: false
 1. [nlohmann/json](https://github.com/nlohmann/json)
 2. [jbeder/yaml-cpp](https://github.com/jbeder/yaml-cpp)
 3. [CLIUtils/CLI11](https://github.com/CLIUtils/CLI11)
-4. [kazuho/picojson](https://github.com/kazuho/picojson)
-5. [p-ranav/argparse](https://github.com/p-ranav/argparse)
-6. [yaml/libyaml](https://github.com/yaml/libyaml)
-7. [p-ranav/structopt](https://github.com/p-ranav/structopt)
+4. [p-ranav/argparse](https://github.com/p-ranav/argparse)
+5. [Taywee/args](https://github.com/Taywee/args)
+6. [kazuho/picojson](https://github.com/kazuho/picojson)
+7. [yaml/libyaml](https://github.com/yaml/libyaml)
 8. [Nomango/configor](https://github.com/Nomango/configor)
-9. [p-ranav/csv2](https://github.com/p-ranav/csv2)
-10. [cparse/cparse](https://github.com/cparse/cparse)
-11. [taocpp/config](https://github.com/taocpp/config)
+9. [p-ranav/structopt](https://github.com/p-ranav/structopt)
+10. [p-ranav/csv2](https://github.com/p-ranav/csv2)
+11. [cparse/cparse](https://github.com/cparse/cparse)
+12. [taocpp/config](https://github.com/taocpp/config)
+13. [Taywee/argsplus](https://github.com/Taywee/argsplus)
 
 ## 调试分析
 
@@ -129,6 +131,11 @@ pinned: false
 1. [skarupke/flat_hash_map](https://github.com/skarupke/flat_hash_map)
 2. [stotko/stdgpu](https://github.com/stotko/stdgpu)
 3. [ZigRazor/CXXGraph](https://github.com/ZigRazor/CXXGraph)
+
+## Python绑定
+
+1. [pybind/pybind11](https://github.com/pybind/pybind11)
+2. [wjakob/nanobind](https://github.com/wjakob/nanobind)
 
 ## 参考
 

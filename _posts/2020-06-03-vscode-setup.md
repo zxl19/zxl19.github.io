@@ -105,6 +105,8 @@ C/C++语言自动补全、跳转、函数提示等功能。
       cmake .. -DCMAKE_EXPORT_COMPILE_COMMANDS=1
       ```
 
+   - 建议将生成的`compile_commands.json`文件放到工程顶层目录或者`build`文件夹中；
+
 ### CMake
 
 CMake语法支持。

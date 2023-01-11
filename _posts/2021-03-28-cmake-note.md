@@ -58,7 +58,9 @@ pinned: true
 └── third_party             # 存放非本地安装的第三方库
 ```
 
-### 非ROS工程
+### CMakeLists
+
+#### 非ROS工程
 
 ```cmake
 cmake_minimum_required(VERSION 3.0)
@@ -117,7 +119,7 @@ target_link_libraries(${PROJECT_NAME}
 )
 ```
 
-### ROS工程
+#### ROS工程
 
 1. 使用`catkin_create_pkg`命令新建功能包，会自动生成`CMakeLists.txt`文件，其中包含格式说明；
 2. 参考[ROS官方文档](http://wiki.ros.org/catkin/CMakeLists.txt)；

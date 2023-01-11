@@ -40,8 +40,9 @@ C++学习资料存档。
 3. [rigtorp/awesome-modern-cpp](https://github.com/rigtorp/awesome-modern-cpp)
 4. [CnTransGroup/EffectiveModernCppChinese](https://github.com/CnTransGroup/EffectiveModernCppChinese)
 5. [0voice/cpp_new_features](https://github.com/0voice/cpp_new_features)
-6. [muqsitnawaz/modern-cpp-cheatsheet](https://github.com/muqsitnawaz/modern-cpp-cheatsheet)
-7. [netcan/advanced-cpp20-programming](https://github.com/netcan/advanced-cpp20-programming)
+6. [federico-busato/Modern-CPP-Programming](https://github.com/federico-busato/Modern-CPP-Programming)
+7. [muqsitnawaz/modern-cpp-cheatsheet](https://github.com/muqsitnawaz/modern-cpp-cheatsheet)
+8. [netcan/advanced-cpp20-programming](https://github.com/netcan/advanced-cpp20-programming)
 
 ### C++并发
 
