@@ -122,10 +122,11 @@ pinned: false
 
 #### 相机包
 
-1. [【DPReview】单肩相机包横评](https://www.bilibili.com/video/BV14Y4y1L7Mt)
-2. [【DPReview】双肩相机包横评](https://www.bilibili.com/video/BV1ot4y1n7cq)
-3. [摄影包选购指南 - 旅行时如何安全携带摄影设备](https://www.bilibili.com/video/BV1354y1d7Ra)
-4. [可以EDC的单肩摄影包！颜值高得不像实力派](https://www.bilibili.com/video/BV1Zw411f7xZ)
+1. [【DPReview】胡子哥的相机包里都有些什么？](https://www.bilibili.com/video/BV14d4y1j7iX)
+2. [【DPReview】单肩相机包横评](https://www.bilibili.com/video/BV14Y4y1L7Mt)
+3. [【DPReview】双肩相机包横评](https://www.bilibili.com/video/BV1ot4y1n7cq)
+4. [摄影包选购指南 - 旅行时如何安全携带摄影设备](https://www.bilibili.com/video/BV1354y1d7Ra)
+5. [可以EDC的单肩摄影包！颜值高得不像实力派](https://www.bilibili.com/video/BV1Zw411f7xZ)
 
 #### 三脚架
 

@@ -179,6 +179,32 @@ while()
 endwhile()
 ```
 
+### 常用变量
+
+| 变量名 | 含义 |
+| :------ | :------|
+| `PROJECT_NAME` | 工程名 |
+| `PROJECT_SOURCE_DIR` | 工程顶层目录 |
+| `PROJECT_BINARY_DIR` | 工程编译目录 |
+| `CMAKE_VERSION` | CMake版本 |
+| `CMAKE_SOURCE_DIR` | 工程顶层目录 |
+| `CMAKE_BINARY_DIR` | 工程编译目录 |
+| `CMAKE_CURRENT_SOURCE_DIR` | 当前处理`CMakeLists.txt`文件的所在目录 |
+| `CMAKE_CURRENT_BINARY_DIR` | 当前处理`CMakeLists.txt`文件的编译目录 |
+| `CMAKE_BUILD_TYPE` | 编译模式 |
+| `CMAKE_CXX_STANDARD` | 使用的C++标准 |
+| `CMAKE_CXX_STANDARD_REQUIRED` | 是否强制使用指定的C++标准 |
+| `CMAKE_CXX_FLAGS` | 编译参数 |
+| `CMAKE_CXX_FLAGS_DEBUG` | Debug模式下的编译参数 |
+| `CMAKE_CXX_FLAGS_RELEASE` | Release模式下的编译参数 |
+| `CMAKE_MODULE_PATH` | `include()`命令和`find_package()`命令查找CMake模块的路径 |
+| `CMAKE_INSTALL_PREFIX` | `install()`命令使用相对路径安装时的路径前缀 |
+| `XXX_FOUND` | `XXX`库是否找到 |
+| `XXX_VERSION` | `XXX`库版本 |
+| `XXX_INCLUDE_DIRS` | `XXX`库的头文件路径 |
+| `XXX_LIBRARY_DIRS` | `XXX`库的链接路径 |
+| `XXX_LIBRARIES` | `XXX`库的库名 |
+
 ### 常用命令
 
 #### 基础说明
@@ -277,6 +303,7 @@ endwhile()
     ```
 
     - 目录名被添加到`INCLUDE_DIRECTORIES`变量中；
+    - 如果使用相对路径，认为其相对于`CMAKE_CURRENT_SOURCE_DIR`；
     - 纯头文件库只需要`include_directories()`即可，例如：Eigen；
 
 3. `link_directories()`用于指定链接时查找的库文件目录，常用命令格式如下：
@@ -285,7 +312,8 @@ endwhile()
     link_directories(<directory1> [directory2 ...])
     ```
 
-    - 在使用`find_package()`找到外部工程后会自动添加链接库信息，[不建议](http://wiki.ros.org/catkin/CMakeLists.txt)再使用`link_directories()`；
+    - 如果使用相对路径，认为其相对于`CMAKE_CURRENT_SOURCE_DIR`；
+    - CMake和ROS均**不建议**使用`link_directories()`，因为使用`find_package()`已经能够获得外部工程的完整绝对路径，通常可以直接使用`target_link_libraries()`；
 
 4. `add_library()`用于将指定的源文件编译成库，常用命令格式如下：
 
@@ -365,7 +393,9 @@ endwhile()
         | `INTERFACE` | 接口，编译目标内部不使用，外部通过编译目标使用 |
         | `PUBLIC` | 公开，编译目标内部使用，外部通过编译目标使用，`PUBLIC = PRIVATE + INTERFACE` |
 
+    - 如果使用相对路径，认为其相对于`CMAKE_CURRENT_SOURCE_DIR`；
     - `include_directories()`包含的头文件目录可以被工程中的所有文件访问，但是`target_include_directories()`只能被指定的编译目标访问；
+    - 如果工程中存在不同目录下的同名头文件，为了避免混淆，建议使用`target_include_directories()`；
 
 #### 辅助函数
 
@@ -434,13 +464,14 @@ endwhile()
         #endif
         ```
 
-4. `add_subdirectory()`用于添加子目录，常用语法如下：
+4. `add_subdirectory()`用于添加子目录到工程中进行构建，常用语法如下：
 
     ```cmake
     add_subdirectory(<directory>)
     ```
 
     - 添加的子目录中需要存在`CMakeLists.txt`文件；
+    - 如果使用相对路径，认为其相对于`CMAKE_CURRENT_SOURCE_DIR`；
 
 5. `aux_source_directory()`用于将指定目录中的源文件列表保存到变量中，常用语法如下：
 
@@ -448,21 +479,27 @@ endwhile()
     aux_source_directory(<directory> <variable>)
     ```
 
+    - 如果使用相对路径，认为其相对于`CMAKE_CURRENT_SOURCE_DIR`；
     - 常用于构建源文件列表：
 
         ```cmake
         aux_source_directory(${PROJECT_NAME}/test TEST_SOURCES)
         ```
 
+        - 需要注意的是，源文件列表不会随着目录中的源文件增加而自动更新，需要手动重新运行CMake来更新源文件列表；
+
     - 也可以使用`set()`构建源文件列表：
 
         ```cmake
         set(TEST_SOURCES
             ${PROJECT_NAME}/test/test_algorithm.cpp
-            ${PROJECT_NAME}/test/test_common.cpp
+            # ${PROJECT_NAME}/test/test_common.cpp
             ${PROJECT_NAME}/test/test_slam.cpp
         )
         ```
+
+        - 可以直观看出源文件列表的内容，并且可以控制添加到源文件列表中的源文件；
+        - 修改`CMakeLists.txt`文件后必须重新运行CMake，可以保证源文件列表的及时更新；
 
 6. `add_compile_options()`用于设置编译选项，常用语法如下：
 
@@ -495,6 +532,9 @@ endwhile()
             | `LIBRARY` | `SHARED`和`MODULE`类型的库 |
             | `RUNTIME` | 可执行文件 |
 
+        - 如果使用相对路径，认为其相对于`CMAKE_INSTALL_PREFIX`：
+            - 在Unix系统中，`CMAKE_INSTALL_PREFIX`默认值为`/usr/local`；
+            - 在Windows系统中，`CMAKE_INSTALL_PREFIX`默认值为`C:/Program Files/${PROJECT_NAME}`；
         - 示例：
 
             ```cmake
@@ -669,31 +709,6 @@ endif()
     endwhile([condition])
     ```
 
-### 常用变量
-
-| 变量名 | 含义 |
-| :------ | :------|
-| `PROJECT_NAME` | 工程名 |
-| `PROJECT_SOURCE_DIR` | 工程顶层目录 |
-| `PROJECT_BINARY_DIR` | 工程编译目录 |
-| `CMAKE_VERSION` | CMake版本 |
-| `CMAKE_SOURCE_DIR` | 工程顶层目录 |
-| `CMAKE_BINARY_DIR` | 工程编译目录 |
-| `CMAKE_CURRENT_SOURCE_DIR` | 当前处理`CMakeLists.txt`文件的所在目录 |
-| `CMAKE_CURRENT_BINARY_DIR` | 当前处理`CMakeLists.txt`文件的编译目录 |
-| `CMAKE_BUILD_TYPE` | 编译模式 |
-| `CMAKE_CXX_STANDARD` | 使用的C++标准 |
-| `CMAKE_CXX_STANDARD_REQUIRED` | 是否强制使用指定的C++标准 |
-| `CMAKE_CXX_FLAGS` | 编译参数 |
-| `CMAKE_CXX_FLAGS_DEBUG` | Debug模式下的编译参数 |
-| `CMAKE_CXX_FLAGS_RELEASE` | Release模式下的编译参数 |
-| `CMAKE_MODULE_PATH` | `include()`命令和`find_package()`命令查找CMake模块的路径 |
-| `XXX_FOUND` | `XXX`库是否找到 |
-| `XXX_VERSION` | `XXX`库版本 |
-| `XXX_INCLUDE_DIRS` | `XXX`库的头文件路径 |
-| `XXX_LIBRARY_DIRS` | `XXX`库的链接路径 |
-| `XXX_LIBRARIES` | `XXX`库的库名 |
-
 ## 学习资源
 
 ### 网站
@@ -743,18 +758,20 @@ endif()
 14. [TixiaoShan/LIO-SAM](https://github.com/TixiaoShan/LIO-SAM)
 15. [TixiaoShan/LVI-SAM](https://github.com/TixiaoShan/LVI-SAM)
 16. [koide3/hdl_graph_slam](https://github.com/koide3/hdl_graph_slam)
-17. [Cmake之深入理解find_package()的用法-希葛格的韩少君的文章-知乎](https://zhuanlan.zhihu.com/p/97369704)
-18. [静态库、动态库、共享库的区别-博客园](https://www.cnblogs.com/sunsky303/p/7731911.html)
-19. [add_dependencies()1-CSDN博客](https://blog.csdn.net/KingOfMyHeart/article/details/112983922)
-20. [add_dependencies()2-CSDN博客](https://blog.csdn.net/zhizhengguan/article/details/118381772)
-21. [add_dependencies()3-CSDN博客](https://blog.csdn.net/new9232/article/details/125831009)
-22. [cmake：target_**中的PUBLIC，PRIVATE，INTERFACE-大川搬砖的文章-知乎](https://zhuanlan.zhihu.com/p/82244559)
-23. [add_definitions()-CSDN博客](https://blog.csdn.net/fb_941219/article/details/107376017)
-24. [编译选项设置区别-CSDN博客](https://blog.csdn.net/10km/article/details/51731959)
-25. [变量1-博客园](https://www.cnblogs.com/narjaja/p/9533174.html)
-26. [变量2-掘金](https://juejin.cn/post/6998055558741753893)
-27. [变量3-CSDN博客](https://blog.csdn.net/juluwangriyue/article/details/123494008)
-28. [变量4-CSDN博客](https://blog.csdn.net/wzj_110/article/details/116674655)
-29. [变量5-简书](https://www.jianshu.com/p/1827cd86d576)
-30. [CMake如何入门？-0xCCCCCCCC的回答-知乎](https://www.zhihu.com/question/58949190/answer/999701073)
-31. [CMake和Modern CMake相关资料（不定期补充）-迦非喵的文章-知乎](https://zhuanlan.zhihu.com/p/205324774)
+17. [变量1-博客园](https://www.cnblogs.com/narjaja/p/9533174.html)
+18. [变量2-掘金](https://juejin.cn/post/6998055558741753893)
+19. [变量3-CSDN博客](https://blog.csdn.net/juluwangriyue/article/details/123494008)
+20. [变量4-CSDN博客](https://blog.csdn.net/wzj_110/article/details/116674655)
+21. [变量5-简书](https://www.jianshu.com/p/1827cd86d576)
+22. [Cmake之深入理解find_package()的用法-希葛格的韩少君的文章-知乎](https://zhuanlan.zhihu.com/p/97369704)
+23. [静态库、动态库、共享库的区别-博客园](https://www.cnblogs.com/sunsky303/p/7731911.html)
+24. [add_dependencies()1-CSDN博客](https://blog.csdn.net/KingOfMyHeart/article/details/112983922)
+25. [add_dependencies()2-CSDN博客](https://blog.csdn.net/zhizhengguan/article/details/118381772)
+26. [add_dependencies()3-CSDN博客](https://blog.csdn.net/new9232/article/details/125831009)
+27. [cmake：target_**中的PUBLIC，PRIVATE，INTERFACE-大川搬砖的文章-知乎](https://zhuanlan.zhihu.com/p/82244559)
+28. [target_link_directories()1-CSDN博客](https://blog.csdn.net/qq_33726635/article/details/121896441)
+29. [target_link_directories()2-CSDN博客](https://blog.csdn.net/zhizhengguan/article/details/115331314)
+30. [add_definitions()-CSDN博客](https://blog.csdn.net/fb_941219/article/details/107376017)
+31. [编译选项设置区别-CSDN博客](https://blog.csdn.net/10km/article/details/51731959)
+32. [CMake如何入门？-0xCCCCCCCC的回答-知乎](https://www.zhihu.com/question/58949190/answer/999701073)
+33. [CMake和Modern CMake相关资料（不定期补充）-迦非喵的文章-知乎](https://zhuanlan.zhihu.com/p/205324774)
