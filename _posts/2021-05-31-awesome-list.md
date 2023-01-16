@@ -144,6 +144,11 @@ The main repository serves as a curated list of awesome lists.
 
 1. [hua1995116/awesome-ai-painting](https://github.com/hua1995116/awesome-ai-painting)
 
+## 数据科学
+
+1. [academic/awesome-datascience](https://github.com/academic/awesome-datascience)
+2. [newTendermint/awesome-bigdata](https://github.com/newTendermint/awesome-bigdata)
+
 ## 参考
 
 1. [Awesome Lists](https://github.com/topics/awesome)

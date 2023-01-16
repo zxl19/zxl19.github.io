@@ -27,12 +27,13 @@ pinned: false
 3. [996icu/996.ICU](https://github.com/996icu/996.ICU)
 4. [badges/shields](https://github.com/badges/shields)
 5. [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
-6. [alexandresanlim/Badges4-README.md-Profile](https://github.com/alexandresanlim/Badges4-README.md-Profile)
-7. [trekhleb/state-of-the-art-shitcode](https://github.com/trekhleb/state-of-the-art-shitcode)
-8. [antonkomarev/github-profile-views-counter](https://github.com/antonkomarev/github-profile-views-counter)
-9. [jwenjian/visitor-badge](https://github.com/jwenjian/visitor-badge)
-10. [gjbae1212/hit-counter](https://github.com/gjbae1212/hit-counter)
-11. [a-maliarov/awesome-shields](https://github.com/a-maliarov/awesome-shields)
+6. [othneildrew/Best-README-Template](https://github.com/othneildrew/Best-README-Template)
+7. [alexandresanlim/Badges4-README.md-Profile](https://github.com/alexandresanlim/Badges4-README.md-Profile)
+8. [trekhleb/state-of-the-art-shitcode](https://github.com/trekhleb/state-of-the-art-shitcode)
+9. [antonkomarev/github-profile-views-counter](https://github.com/antonkomarev/github-profile-views-counter)
+10. [jwenjian/visitor-badge](https://github.com/jwenjian/visitor-badge)
+11. [gjbae1212/hit-counter](https://github.com/gjbae1212/hit-counter)
+12. [a-maliarov/awesome-shields](https://github.com/a-maliarov/awesome-shields)
 
 ## 统计信息
 
