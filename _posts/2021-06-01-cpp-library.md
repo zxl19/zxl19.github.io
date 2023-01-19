@@ -95,7 +95,7 @@ pinned: false
 5. [autodiff/autodiff](https://github.com/autodiff/autodiff)
 6. [johnmcfarlane/cnl](https://github.com/johnmcfarlane/cnl)
 7. [romeric/Fastor](https://github.com/romeric/Fastor)
-8. [EricLengyel/Terathon-Math-Library](https://github.com/EricLengyel/Terathon-Math-Library)
+8. [sikang/DecompUtil](https://github.com/sikang/DecompUtil)
 
 ## 加密
 
