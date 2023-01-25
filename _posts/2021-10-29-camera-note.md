@@ -65,6 +65,7 @@ pinned: false
 7. [【DPReview】大胡子教官的摄影基础练习：透视](https://www.bilibili.com/video/BV1uP4y1d75s)
 8. [【DPReview】6个小技巧 让你掌握手动对焦（拍照&视频）](https://www.bilibili.com/video/BV1WL4y1V7CQ)
 9. [【DPReview】为什么说波形图比直方图更好（拍照也是如此）](https://www.bilibili.com/video/BV1gr4y1b7nB)
+10. [【DPReview】为什么快门角度比快门速度更好（对于视频拍摄）](https://www.bilibili.com/video/BV1pt4y1H7sW)
 
 ### 清洁保养
 
