@@ -26,6 +26,15 @@ pinned: true
     make -j     # 编译器根据Makefile文件完成编译过程
     ```
 
+4. CMake提供了图形化交互界面CMake GUI，使用以下命令安装并运行：
+
+    ```shell
+    # 安装
+    sudo apt install cmake-qt-gui
+    # 运行
+    cmake-gui
+    ```
+
 ## 常用模板
 
 ### 文件夹结构

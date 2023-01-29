@@ -43,17 +43,18 @@ pinned: false
 1. [nlohmann/json](https://github.com/nlohmann/json)
 2. [open-source-parsers/jsoncpp](https://github.com/open-source-parsers/jsoncpp)
 3. [jbeder/yaml-cpp](https://github.com/jbeder/yaml-cpp)
-4. [CLIUtils/CLI11](https://github.com/CLIUtils/CLI11)
-5. [p-ranav/argparse](https://github.com/p-ranav/argparse)
-6. [Taywee/args](https://github.com/Taywee/args)
-7. [kazuho/picojson](https://github.com/kazuho/picojson)
-8. [yaml/libyaml](https://github.com/yaml/libyaml)
-9. [Nomango/configor](https://github.com/Nomango/configor)
-10. [p-ranav/structopt](https://github.com/p-ranav/structopt)
-11. [p-ranav/csv2](https://github.com/p-ranav/csv2)
-12. [cparse/cparse](https://github.com/cparse/cparse)
-13. [taocpp/config](https://github.com/taocpp/config)
-14. [Taywee/argsplus](https://github.com/Taywee/argsplus)
+4. [jarro2783/cxxopts](https://github.com/jarro2783/cxxopts)
+5. [CLIUtils/CLI11](https://github.com/CLIUtils/CLI11)
+6. [p-ranav/argparse](https://github.com/p-ranav/argparse)
+7. [Taywee/args](https://github.com/Taywee/args)
+8. [kazuho/picojson](https://github.com/kazuho/picojson)
+9. [yaml/libyaml](https://github.com/yaml/libyaml)
+10. [Nomango/configor](https://github.com/Nomango/configor)
+11. [p-ranav/structopt](https://github.com/p-ranav/structopt)
+12. [p-ranav/csv2](https://github.com/p-ranav/csv2)
+13. [cparse/cparse](https://github.com/cparse/cparse)
+14. [taocpp/config](https://github.com/taocpp/config)
+15. [Taywee/argsplus](https://github.com/Taywee/argsplus)
 
 ## 调试分析
 
@@ -122,10 +123,11 @@ pinned: false
 1. [ocornut/imgui](https://github.com/ocornut/imgui)
 2. [stevenlovegrove/Pangolin](https://github.com/stevenlovegrove/Pangolin)
 
-## 通信框架
+## 通信
 
-1. [zeromq/libzmq](https://github.com/zeromq/libzmq)
-2. [zeromq/cppzmq](https://github.com/zeromq/cppzmq)
+1. [yhirose/cpp-httplib](https://github.com/yhirose/cpp-httplib)
+2. [zeromq/libzmq](https://github.com/zeromq/libzmq)
+3. [zeromq/cppzmq](https://github.com/zeromq/cppzmq)
 
 ## 数据结构
 

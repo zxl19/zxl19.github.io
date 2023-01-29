@@ -21,7 +21,6 @@ pinned: false
 ## 安装
 
 ```shell
-sudo apt update
 sudo apt install proxychains4
 ```
 

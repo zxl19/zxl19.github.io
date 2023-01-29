@@ -91,9 +91,10 @@ The main repository serves as a curated list of awesome lists.
 
 ## GitHub项目美化
 
-1. [durgeshsamariya/awesome-github-profile-readme-templates](https://github.com/durgeshsamariya/awesome-github-profile-readme-templates)
-2. [elangosundar/awesome-README-templates](https://github.com/elangosundar/awesome-README-templates)
-3. [a-maliarov/awesome-shields](https://github.com/a-maliarov/awesome-shields)
+1. [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme)
+2. [durgeshsamariya/awesome-github-profile-readme-templates](https://github.com/durgeshsamariya/awesome-github-profile-readme-templates)
+3. [elangosundar/awesome-README-templates](https://github.com/elangosundar/awesome-README-templates)
+4. [a-maliarov/awesome-shields](https://github.com/a-maliarov/awesome-shields)
 
 ## 科学计算与数值分析
 
@@ -148,6 +149,16 @@ The main repository serves as a curated list of awesome lists.
 
 1. [academic/awesome-datascience](https://github.com/academic/awesome-datascience)
 2. [newTendermint/awesome-bigdata](https://github.com/newTendermint/awesome-bigdata)
+
+## Git（包括GitHub）
+
+1. [dictcp/awesome-git](https://github.com/dictcp/awesome-git)
+2. [AntBranch/awesome-github](https://github.com/AntBranch/awesome-github)
+3. [stefanbuck/awesome-browser-extensions-for-github](https://github.com/stefanbuck/awesome-browser-extensions-for-github)
+
+## Docker
+
+1. [veggiemonk/awesome-docker](https://github.com/veggiemonk/awesome-docker)
 
 ## 参考
 

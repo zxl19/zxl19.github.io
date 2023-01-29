@@ -55,6 +55,13 @@ pinned: false
 | 列出本地镜像 | `docker images` |
 | 删除本地一个或多个镜像 | `docker rmi` |
 
+## Docker容器创建和管理
+
+1. [Docker Hub](https://hub.docker.com)
+2. [jesseduffield/lazydocker](https://github.com/jesseduffield/lazydocker)
+3. [portainer/portainer](https://github.com/portainer/portainer)
+4. [skanehira/docui](https://github.com/skanehira/docui)
+
 ## 解决运行Docker需要sudo问题
 
 ### 产生原因
@@ -108,7 +115,7 @@ Docker进程使用Unix socket而不是TCP端口。而默认情况下，Unix sock
 ## 参考
 
 1. [Docker教程-菜鸟教程](https://www.runoob.com/docker/docker-tutorial.html)
-2. [Docker Hub](https://hub.docker.com/)
+2. [veggiemonk/awesome-docker](https://github.com/veggiemonk/awesome-docker)
 3. [Docker启动Get Permission Denied-博客园](https://www.cnblogs.com/informatics/p/8276172.html)
 4. [解决运行docker命令要用sudo的问题-博客园](https://www.cnblogs.com/zyh1994/p/13688542.html)
 5. [解决运行docker命令要用sudo的问题-简书](https://www.jianshu.com/p/1354e0506753)

@@ -17,7 +17,7 @@ pinned: false
 
 1. [吴恩达机器学习](https://study.163.com/course/introduction/1210076550.htm)
 
-## 书籍
+## 教材
 
 1. [动手学深度学习](http://zh.d2l.ai)
 2. [神经网络与深度学习](https://nndl.github.io)
@@ -25,8 +25,9 @@ pinned: false
 4. [Neural Network and Deep Learning](http://neuralnetworksanddeeplearning.com/about.html)
 5. [Pattern Recognition and Machine Learning](http://users.isr.ist.utl.pt/~wurmd/Livros/school/Bishop%20-%20Pattern%20Recognition%20And%20Machine%20Learning%20-%20Springer%20%202006.pdf)
 6. [Foundations of Machine Learning](https://cs.nyu.edu/~mohri/mlbook/)
-7. [openai/openai-cookbook](https://github.com/openai/openai-cookbook)
-8. [google-research/tuning_playbook](https://github.com/google-research/tuning_playbook)
+7. [google-research/tuning_playbook](https://github.com/google-research/tuning_playbook)
+8. [openai/openai-cookbook](https://github.com/openai/openai-cookbook)
+9. [ahmedbahaaeldin/From-0-to-Research-Scientist-resources-guide](https://github.com/ahmedbahaaeldin/From-0-to-Research-Scientist-resources-guide)
 
 ## 速查表
 
