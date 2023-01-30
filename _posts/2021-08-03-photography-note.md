@@ -24,11 +24,14 @@ pinned: false
 1. [旅行摄影小百科](https://space.bilibili.com/84480709/channel/seriesdetail?sid=247659)
 2. [【硬核科普】焦段是什么？](https://www.bilibili.com/video/BV1nK41157no)
 3. [一学就会的曝光基础](https://www.bilibili.com/video/BV1oW411W7yr)
-4. [新手如何系统性地学习摄影？-爱摄影的郭同学的回答-知乎](https://www.zhihu.com/question/36095338/answer/968639013)
-5. [新手如何系统性地学习摄影？-500px摄影社区的回答-知乎](https://www.zhihu.com/question/36095338/answer/2051012517)
-6. [如何理解ISO、快门、光圈、曝光这几个概念？-王波的回答-知乎](https://www.zhihu.com/question/21427664/answer/40346193)
-7. [相机光圈、快门、焦距、感光度基本介绍-林青春的文章-知乎](https://zhuanlan.zhihu.com/p/152172663)
-8. [“毒德大学”，“刀锐奶化”这些梗最初起源于哪？-家政学叫兽的回答-知乎](https://www.zhihu.com/question/412237760/answer/1386682793)
+4. [完美曝光的秘诀](https://www.bilibili.com/video/BV11x41157WX)
+5. [【科普】快门速度怎么调？这个视频带你彻底认识相机快门！](https://www.bilibili.com/video/BV13Y411f7Wv)
+6. [【科普】光圈究竟影响什么？一个视频解答你对光圈所有疑问！](https://www.bilibili.com/video/BV18v4y167Eb)
+7. [新手如何系统性地学习摄影？-爱摄影的郭同学的回答-知乎](https://www.zhihu.com/question/36095338/answer/968639013)
+8. [新手如何系统性地学习摄影？-500px摄影社区的回答-知乎](https://www.zhihu.com/question/36095338/answer/2051012517)
+9. [如何理解ISO、快门、光圈、曝光这几个概念？-王波的回答-知乎](https://www.zhihu.com/question/21427664/answer/40346193)
+10. [相机光圈、快门、焦距、感光度基本介绍-林青春的文章-知乎](https://zhuanlan.zhihu.com/p/152172663)
+11. [“毒德大学”，“刀锐奶化”这些梗最初起源于哪？-家政学叫兽的回答-知乎](https://www.zhihu.com/question/412237760/answer/1386682793)
 
 ### 阳光十六法则
 

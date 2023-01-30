@@ -13,6 +13,11 @@ pinned: false
 
 <!-- more -->
 
+## Markdown Hello World
+
+1. Markdown是标记语言（markup language）的一种，标记语言是指一种文本编码系统（text-encoding system），它由插入文本文档中的一组符号组成，以控制其结构、格式或各部分之间的关系；
+2. 常用的标记语言除了Markdown，还有AsciiDoc、reStructuredText等；
+
 ## 标题
 
 ### 使用`=`和`-`标记一级和二级标题
@@ -272,7 +277,13 @@ TODO
 
 ## 参考
 
-1. [Markdown教程-菜鸟教程](https://www.runoob.com/markdown/md-tutorial.html)
-2. [Markdown语法教程](https://markdown.com.cn/)
-3. [代码块-简书](https://www.jianshu.com/p/c2b75ff24c33)
-4. [待办事项-简书](https://www.jianshu.com/p/0b257de21eb5)
+1. [Markup language-Wikipedia](https://en.wikipedia.org/wiki/Markup_language)
+2. [Plain text documentation in version control-the 3 best markup languages](https://www.augmentedmind.de/2020/12/06/plain-text-documentation-in-vcs/)
+3. [Markdown教程-菜鸟教程](https://www.runoob.com/markdown/md-tutorial.html)
+4. [Markdown语法教程](https://markdown.com.cn)
+5. [AsciiDoc](https://asciidoc.org)
+6. [reStructuredText-SourceForge](https://docutils.sourceforge.io/rst.html)
+7. [Introduction to reStructuredText-Write the Docs](https://www.writethedocs.org/guide/writing/reStructuredText/)
+8. [reStructuredText-Sphinx documentation](https://www.sphinx-doc.org/en/master/usage/restructuredtext/index.html)
+9. [代码块-简书](https://www.jianshu.com/p/c2b75ff24c33)
+10. [待办事项-简书](https://www.jianshu.com/p/0b257de21eb5)

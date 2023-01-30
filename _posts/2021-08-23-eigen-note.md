@@ -586,7 +586,7 @@ q.toRotationMatrix()    // 四元数转旋转矩阵
 v_rotated = q * v;      // 注意数学上是qvq^{-1}
 ```
 
-#### 欧式变换
+#### 欧氏变换
 
 示例：
 
@@ -630,6 +630,26 @@ Vector3d v_transformed = T * v;         // 相当于R * v + t
     Matrix3f L = H.llt().matrixL();
     R = L.inverse() * R;
     ```
+
+#### 位姿插值
+
+```cpp
+double t1, t2, t;
+Quaterniond quat1, quat2, quat;
+Vector3d trans1, trans2, trans;
+assert(t1 <= t && t <= t2);
+// 当t1和t2过于接近时，选择与当前时刻最近的位姿作为插值结果即可
+if (t2 - t1 <= std::numeric_limits<double>::epsilon()) {
+  quat = ((t1 + t2) > 2 * t) ? quat1 : quat2;
+  trans = ((t1 + t2) > 2 * t) ? trans1 : trans2;
+}
+// 这里可以看出当t1和t2过于接近时会引起数值误差
+double ratio = (t - t1) / (t2 - t1);
+// 旋转部分位姿使用球面线性插值（Spherical Linear Interpolation，SLERP）
+Quaterniond quat = quat1.slerp(ratio, quat2);
+// 平移部分位姿使用线性插值
+Vector3d trans = trans1 + ratio * (trans2 - trans1);
+```
 
 ## Eigen中的内存对齐问题
 
@@ -858,12 +878,15 @@ Vector3d v_transformed = T * v;         // 相当于R * v + t
 16. [SVD-CSDN博客](https://blog.csdn.net/jiang_he_hu_hai/article/details/78363642)
 17. [四元数归一化1-Stack Overflow](https://stackoverflow.com/questions/48019329/difference-between-norm-normalize-and-normalized-in-eigen)
 18. [四元数归一化2-CSDN博客](https://blog.csdn.net/m0_56348460/article/details/117386857)
-19. [旋转矩阵归一化1-Stack Overflow](https://stackoverflow.com/questions/21761909/eigen-convert-matrix3d-rotation-to-quaternion)
-20. [旋转矩阵归一化2-Stack Overflow](https://stackoverflow.com/questions/43896041/eigen-matrix-to-quaternion-and-back-have-different-result)
-21. [Alignement issues](https://eigen.tuxfamily.org/dox/group__DenseMatrixManipulation__Alignement.html)
-22. [向量化运算-CSDN博客](https://blog.csdn.net/weixin_38251332/article/details/120308863)
-23. [Eigen内存对齐1-CSDN博客](https://blog.csdn.net/shyjhyp11/article/details/123208279)
-24. [Eigen内存对齐2-CSDN博客](https://blog.csdn.net/shyjhyp11/article/details/123204444)
-25. [从Eigen向量化谈内存对齐-王金戈的文章-知乎](https://zhuanlan.zhihu.com/p/93824687)
-26. [Eigen内存对齐-卷儿的文章-知乎](https://zhuanlan.zhihu.com/p/349413376)
-27. [Common pitfalls](https://eigen.tuxfamily.org/dox/TopicPitfalls.html)
+19. [四元数的球面线性插值（slerp）-一条放浪不羁的爬虫的文章-知乎](https://zhuanlan.zhihu.com/p/538653027)
+20. [机械臂如何实现笛卡尔空间中姿态的插值？-fly qq的回答-知乎](https://www.zhihu.com/question/22910238/answer/1096183240)
+21. [机械臂如何实现笛卡尔空间中姿态的插值？-桂凯的回答-知乎](https://www.zhihu.com/question/22910238/answer/1098345012)
+22. [旋转矩阵归一化1-Stack Overflow](https://stackoverflow.com/questions/21761909/eigen-convert-matrix3d-rotation-to-quaternion)
+23. [旋转矩阵归一化2-Stack Overflow](https://stackoverflow.com/questions/43896041/eigen-matrix-to-quaternion-and-back-have-different-result)
+24. [Alignement issues](https://eigen.tuxfamily.org/dox/group__DenseMatrixManipulation__Alignement.html)
+25. [向量化运算-CSDN博客](https://blog.csdn.net/weixin_38251332/article/details/120308863)
+26. [Eigen内存对齐1-CSDN博客](https://blog.csdn.net/shyjhyp11/article/details/123208279)
+27. [Eigen内存对齐2-CSDN博客](https://blog.csdn.net/shyjhyp11/article/details/123204444)
+28. [从Eigen向量化谈内存对齐-王金戈的文章-知乎](https://zhuanlan.zhihu.com/p/93824687)
+29. [Eigen内存对齐-卷儿的文章-知乎](https://zhuanlan.zhihu.com/p/349413376)
+30. [Common pitfalls](https://eigen.tuxfamily.org/dox/TopicPitfalls.html)

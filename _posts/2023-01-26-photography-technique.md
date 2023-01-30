@@ -46,7 +46,8 @@ pinned: false
 堆栈合成指的是在固定机位下拍摄多张照片，后期合成一张照片的拍摄方法，常用于代替风景类题材的长曝光或者生成天文类题材的序列照片。
 
 1. [拍摄车轨，不要在用减光镜长曝光了，今天教你多张拍摄，堆栈合成。](https://www.bilibili.com/video/BV1qa41147mn)
-2. [难得一遇的月全食马上就要来了，如何拍摄出好看的月全食照片？这个视频收藏起来](https://www.bilibili.com/video/BV1YD4y1t7YB)
+2. [【教学】星轨怎么拍？三分钟学会星轨前期拍摄及后期处理！](https://www.bilibili.com/video/BV1oK411q7Mi)
+3. [难得一遇的月全食马上就要来了，如何拍摄出好看的月全食照片？这个视频收藏起来](https://www.bilibili.com/video/BV1YD4y1t7YB)
 
 ## 包围摄影
 

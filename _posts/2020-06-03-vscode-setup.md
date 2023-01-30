@@ -342,7 +342,7 @@ Atom的深色主题，类似的主题还有City Lights theme、Material Theme（
 
 ### Python
 
-Python语言扩展，安装Pylance、Jupyter（包括Jupyter Cell Tags、Jupyter Keymap、Jupyter Notebook Renderers、Jupyter Slide Show）使用增强功能和提高使用体验。
+Python语言扩展，安装Pylance、Jupyter（包括Jupyter Cell Tags、Jupyter Keymap、Jupyter Notebook Renderers、Jupyter Slide Show）、isort等扩展可以使用增强功能并提高使用体验。
 
 ### Rainbow Fart
 
