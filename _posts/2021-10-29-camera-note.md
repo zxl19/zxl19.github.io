@@ -218,4 +218,4 @@ pinned: false
 ## 参考
 
 1. [富士相机哪款性价比高？2021富士相机详细购买指南（超高性价比精选6款推荐）-花千里的文章-知乎](https://zhuanlan.zhihu.com/p/180538577)
-2. [想网购一部富士相机哪里买比较靠谱？-知乎用户的回答-知乎](https://www.zhihu.com/question/389541186/answer/1836869122)
+2. [想网购一部富士相机哪里买比较靠谱?-MoreLong的回答-知乎](https://www.zhihu.com/question/389541186/answer/1836869122)

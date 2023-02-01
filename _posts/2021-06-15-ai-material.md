@@ -17,7 +17,7 @@ pinned: false
 
 1. [吴恩达机器学习](https://study.163.com/course/introduction/1210076550.htm)
 
-## 教材
+## 教程
 
 1. [动手学深度学习](http://zh.d2l.ai)
 2. [神经网络与深度学习](https://nndl.github.io)
@@ -41,6 +41,11 @@ pinned: false
 1. [ashishpatel26/Tools-to-Design-or-Visualize-Architecture-of-Neural-Network](https://github.com/ashishpatel26/Tools-to-Design-or-Visualize-Architecture-of-Neural-Network)
 2. [HarisIqbal88/PlotNeuralNet](https://github.com/HarisIqbal88/PlotNeuralNet)
 3. [lutzroeder/netron](https://github.com/lutzroeder/netron)
+
+## 模型部署
+
+1. [google/mediapipe](https://github.com/google/mediapipe)
+2. [open-mmlab/mmdeploy](https://github.com/open-mmlab/mmdeploy)
 
 ## 参考
 

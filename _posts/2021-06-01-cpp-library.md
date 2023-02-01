@@ -17,9 +17,15 @@ pinned: false
 
 1. [microsoft/vcpkg](https://github.com/microsoft/vcpkg)
 
-## 文件系统
+## 文件
+
+### 文件系统
 
 1. [gulrak/filesystem](https://github.com/gulrak/filesystem)
+
+### 文件压缩
+
+1. [r-lyeh-archived/bundle](https://github.com/r-lyeh-archived/bundle)
 
 ## 命令行输出
 
@@ -69,6 +75,7 @@ pinned: false
 9. [PlatformLab/NanoLog](https://github.com/PlatformLab/NanoLog)
 10. [jonasmr/microprofile](https://github.com/jonasmr/microprofile)
 11. [mpusz/units](https://github.com/mpusz/units)
+12. [rollbear/trompeloeil](https://github.com/rollbear/trompeloeil)
 
 ## 数据可视化
 
@@ -106,10 +113,12 @@ pinned: false
 ## 序列化
 
 1. [protocolbuffers/protobuf](https://github.com/protocolbuffers/protobuf)
+2. [qicosmos/iguana](https://github.com/qicosmos/iguana)
 
 ## 多态
 
 1. [microsoft/proxy](https://github.com/microsoft/proxy)
+2. [kelbon/AnyAny](https://github.com/kelbon/AnyAny)
 
 ## 有限状态机
 
@@ -125,9 +134,18 @@ pinned: false
 
 ## 通信
 
-1. [yhirose/cpp-httplib](https://github.com/yhirose/cpp-httplib)
-2. [zeromq/libzmq](https://github.com/zeromq/libzmq)
-3. [zeromq/cppzmq](https://github.com/zeromq/cppzmq)
+### 通信框架
+
+1. [zeromq/libzmq](https://github.com/zeromq/libzmq)
+2. [zeromq/cppzmq](https://github.com/zeromq/cppzmq)
+
+### 网络库
+
+1. [libuv/libuv](https://github.com/libuv/libuv)
+2. [libevent/libevent](https://github.com/libevent/libevent)
+3. [yhirose/cpp-httplib](https://github.com/yhirose/cpp-httplib)
+4. [ithewei/libhv](https://github.com/ithewei/libhv)
+5. [skypjack/uvw](https://github.com/skypjack/uvw)
 
 ## 数据结构
 
@@ -144,11 +162,13 @@ pinned: false
 
 1. [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp)
 2. [p-ranav/awesome-hpp](https://github.com/p-ranav/awesome-hpp)
-3. [你工作中最推荐的C/C++程序库有哪些，为什么？-iiif的回答-知乎](https://www.zhihu.com/question/51134387/answer/571858930)
-4. [有什么高质量的现代C++风格的开源代码?-知乎用户的回答-知乎](https://www.zhihu.com/question/23153437/answer/1962068242)
-5. [你读过的最好的C++开源代码是什么？-编程指北的回答-知乎](https://www.zhihu.com/question/21376384/answer/1925233838)
-6. [有哪些优秀的C++代码库可以推荐学习？-idealvin的回答-知乎](https://www.zhihu.com/question/281276664/answer/907647528)
-7. [求问c++解析配置文件，解析命令输入的最佳实践，最好能给到相应的库？-邱昊宇的回答-知乎](https://www.zhihu.com/question/433864615/answer/1616753838)
-8. [Google对C++的影响有多大？-编程指北的回答-知乎](https://www.zhihu.com/question/40165082/answer/1925222483)
-9. [你工作中最推荐的C/C++程序库有哪些，为什么？-知乎用户的回答-知乎](https://www.zhihu.com/question/51134387/answer/386066052)
+3. [你工作中最推荐的C/C++程序库有哪些，为什么？-Zhao Zhang的回答-知乎](https://www.zhihu.com/question/51134387/answer/386066052)
+4. [你工作中最推荐的C/C++程序库有哪些，为什么？-iiif的回答-知乎](https://www.zhihu.com/question/51134387/answer/571858930)
+5. [有什么高质量的现代C++风格的开源代码?-夏天的回答-知乎](https://www.zhihu.com/question/23153437/answer/1962068242)
+6. [你读过的最好的C++开源代码是什么？-编程指北的回答-知乎](https://www.zhihu.com/question/21376384/answer/1925233838)
+7. [有哪些优秀的C++代码库可以推荐学习？-idealvin的回答-知乎](https://www.zhihu.com/question/281276664/answer/907647528)
+8. [求问c++解析配置文件，解析命令输入的最佳实践，最好能给到相应的库？-邱昊宇的回答-知乎](https://www.zhihu.com/question/433864615/answer/1616753838)
+9. [Google对C++的影响有多大？-编程指北的回答-知乎](https://www.zhihu.com/question/40165082/answer/1925222483)
 10. [有哪些值得推荐的小型C语言开源项目？-fanfan的回答-知乎](https://www.zhihu.com/question/20792016/answer/1982761892)
+11. [有什么高质量的C++单头文件库?-liulun的回答-知乎](https://www.zhihu.com/question/496257115/answer/2842977837)
+12. [有什么高质量的C++单头文件库?-芒果浩明的回答-知乎](https://www.zhihu.com/question/496257115/answer/2255551935)

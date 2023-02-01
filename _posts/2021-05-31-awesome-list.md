@@ -52,13 +52,15 @@ The main repository serves as a curated list of awesome lists.
 ### SLAM
 
 1. [openMVG/awesome_3DReconstruction_list](https://github.com/openMVG/awesome_3DReconstruction_list)
-2. [kanster/awesome-slam](https://github.com/kanster/awesome-slam)
-3. [youngguncho/awesome-slam-datasets](https://github.com/youngguncho/awesome-slam-datasets)
-4. [OpenSLAM/awesome-SLAM-list](https://github.com/OpenSLAM/awesome-SLAM-list)
-5. [SilenceOverflow/Awesome-SLAM](https://github.com/SilenceOverflow/Awesome-SLAM)
-6. [szenergy/awesome-lidar](https://github.com/szenergy/awesome-lidar)
-7. [zhouyong1234/SLAM-All-In-One](https://github.com/zhouyong1234/SLAM-All-In-One)
-8. [520xyxyzq/awesome-object-SLAM](https://github.com/520xyxyzq/awesome-object-SLAM)
+2. [tzutalin/awesome-visual-slam](https://github.com/tzutalin/awesome-visual-slam)
+3. [kanster/awesome-slam](https://github.com/kanster/awesome-slam)
+4. [youngguncho/awesome-slam-datasets](https://github.com/youngguncho/awesome-slam-datasets)
+5. [OpenSLAM/awesome-SLAM-list](https://github.com/OpenSLAM/awesome-SLAM-list)
+6. [SilenceOverflow/Awesome-SLAM](https://github.com/SilenceOverflow/Awesome-SLAM)
+7. [szenergy/awesome-lidar](https://github.com/szenergy/awesome-lidar)
+8. [zhuhu00/Awesome_Dynamic_SLAM](https://github.com/zhuhu00/Awesome_Dynamic_SLAM)
+9. [zhouyong1234/SLAM-All-In-One](https://github.com/zhouyong1234/SLAM-All-In-One)
+10. [520xyxyzq/awesome-object-SLAM](https://github.com/520xyxyzq/awesome-object-SLAM)
 
 ### 自动驾驶
 
@@ -143,7 +145,19 @@ The main repository serves as a curated list of awesome lists.
 
 ## AI绘画
 
-1. [hua1995116/awesome-ai-painting](https://github.com/hua1995116/awesome-ai-painting)
+1. [heejkoo/Awesome-Diffusion-Models](https://github.com/heejkoo/Awesome-Diffusion-Models)
+2. [hua1995116/awesome-ai-painting](https://github.com/hua1995116/awesome-ai-painting)
+3. [awesome-stable-diffusion/awesome-stable-diffusion](https://github.com/awesome-stable-diffusion/awesome-stable-diffusion)
+
+## AI对话
+
+1. [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts)
+2. [humanloop/awesome-chatgpt](https://github.com/humanloop/awesome-chatgpt)
+3. [PlexPt/awesome-chatgpt-prompts-zh](https://github.com/PlexPt/awesome-chatgpt-prompts-zh)
+4. [Kamigami55/awesome-chatgpt](https://github.com/Kamigami55/awesome-chatgpt)
+5. [saharmor/awesome-chatgpt](https://github.com/saharmor/awesome-chatgpt)
+6. [eon01/awesome-chatgpt](https://github.com/eon01/awesome-chatgpt)
+7. [del-xiong/awesome-chatgpt](https://github.com/del-xiong/awesome-chatgpt)
 
 ## 数据科学
 

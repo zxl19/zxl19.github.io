@@ -65,6 +65,10 @@ pinned: false
 
 1. [proxychains4](https://github.com/rofl0r/proxychains-ng)
 
+## 彩蛋和游戏
+
+1. [40个超有趣的Linux命令行彩蛋和游戏.md](https://github.com/TommyZihao/Zihao-Blog)
+
 ## 参考
 
 1. [哪些命令行工具让你相见恨晚？-程序员客栈的回答-知乎](https://www.zhihu.com/question/41115077/answer/602854935)
@@ -76,3 +80,4 @@ pinned: false
 7. [Oh My Zsh-简书](https://www.jianshu.com/p/b8a80dd59414)
 8. [Oh My Zsh-博客园](https://www.cnblogs.com/lcgbk/p/13255836.html)
 9. [Ubuntu下实现命令行走代理/终端走代理的方法-lyh458的文章-知乎](https://zhuanlan.zhihu.com/p/377550825)
+10. [40个超有趣的Linux命令行彩蛋和游戏-张子豪的文章-知乎](https://zhuanlan.zhihu.com/p/51904179)

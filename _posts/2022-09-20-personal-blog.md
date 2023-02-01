@@ -49,11 +49,13 @@ pinned: false
 18. [二丫讲梵](http://wiki.eryajf.net)
 19. [卜卜口](https://i.magiconch.com)
 20. [V2方圆](https://www.v2fy.com)
-21. [fluldog-博客园](https://www.cnblogs.com/fluidog)
-22. [zh89233-博客园](https://www.cnblogs.com/love-zf)
-23. [librarookie-博客园](https://www.cnblogs.com/librarookie)
-24. [木偶Roy-博客园](https://www.cnblogs.com/jyroy)
-25. [李春港-博客园](https://www.cnblogs.com/lcgbk)
+21. [TommyZihao/Zihao-Blog](https://github.com/TommyZihao/Zihao-Blog)
+22. [weisongwen/researchTools](https://github.com/weisongwen/researchTools)
+23. [fluldog-博客园](https://www.cnblogs.com/fluidog)
+24. [zh89233-博客园](https://www.cnblogs.com/love-zf)
+25. [librarookie-博客园](https://www.cnblogs.com/librarookie)
+26. [木偶Roy-博客园](https://www.cnblogs.com/jyroy)
+27. [李春港-博客园](https://www.cnblogs.com/lcgbk)
 
 ### 汇总
 

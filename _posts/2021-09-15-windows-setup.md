@@ -88,7 +88,7 @@ pinned: false
 
 ## 参考
 
-1. [Windows 10有哪些值得推荐的必装软件？-知乎用户的回答-知乎](https://www.zhihu.com/question/35088093/answer/750779336)
+1. [Windows 10有哪些值得推荐的必装软件？-crystal的回答-知乎](https://www.zhihu.com/question/35088093/answer/750779336)
 2. [Windows系统中有哪些软件可以被你评为「必装」？-ag獭的回答-知乎](https://www.zhihu.com/question/21287237/answer/983612572)
 3. [有哪些软件堪称神器，却很少人知道？-坚果云的回答-知乎](https://www.zhihu.com/question/327826314/answer/1497578134)
 4. [微软复活20年前生产力工具PowerToys，填补Win10缺失功能，开源且免费-量子位的文章-知乎](https://zhuanlan.zhihu.com/p/166292161)

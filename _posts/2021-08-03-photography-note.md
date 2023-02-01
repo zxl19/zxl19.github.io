@@ -48,7 +48,7 @@ pinned: false
 5. [阳光16法则该如何去测光？-Spinlips的回答-知乎](https://www.zhihu.com/question/38169738/answer/75286013)
 6. [【KingJvpes】玩胶片不可不学的阳光十六法则（中字）](https://www.bilibili.com/video/BV13j411f7gs)
 
-## 教材
+## 书籍
 
 ```text
 大家注意啊！现在啊，白平衡自动，ISO100，光圈11（吸气声），光圈优先，现在开始拍！

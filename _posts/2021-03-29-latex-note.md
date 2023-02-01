@@ -97,16 +97,19 @@ pinned: true
     - 内容上加长横线使用`\overline{}`；
     - 内容上加文字使用`\overset{}{}`；
     - 公式上方大括号使用`\overbrace{}^{}`，公式下方大括号使用`\underbrace{}_{}`；
+    - 向上取整使用`\lceil \rceil`、向下取整使用`\lfloor \rfloor`；
 
 3. 括号大小根据内容自动调整：
 
     ```latex
-    \left(  \right)     % 小括号()
-    \left[  \right]     % 中括号[]
-    \left\{ \right\}    % 大括号{}
-    \left|  \right|     % 绝对值||
-    \left\| \right\|    % 范数
-    \left.  \right|     % 左侧不显示，右侧大小自动调整
+    \left(          \right)         % 小括号()
+    \left[          \right]         % 中括号[]
+    \left\{         \right\}        % 大括号{}
+    \left|          \right|         % 绝对值||
+    \left\|         \right\|        % 范数
+    \left.          \right|         % 左侧不显示，右侧大小自动调整
+    \left\lceil     \right\rceil    % 向上取整⌈⌉
+    \left\lfloor    \right\rfloor   % 向下取整⌊⌋
     ```
 
 4. 使用`\hfill`进行水平填充，同理，使用`\vfill`进行垂直填充；
@@ -128,7 +131,7 @@ pinned: true
     ```
 
 9. 使用`\today`插入当天日期；
-10. 使用`\ `在$\LaTeX$命令后插入空格；
+10. 使用`\ `或`{}`在$\LaTeX$命令后插入空格；
 11. 字母音调：
 
     ```latex
