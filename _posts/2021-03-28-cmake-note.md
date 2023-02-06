@@ -718,7 +718,7 @@ endif()
     endwhile([condition])
     ```
 
-## 学习资源
+## 资料
 
 ### 网站
 
@@ -741,7 +741,9 @@ endif()
 8. [pabloariasal/modern-cmake-sample](https://github.com/pabloariasal/modern-cmake-sample)
 9. [district10/cmake-templates](https://github.com/district10/cmake-templates)
 10. [Modern-CMake-CN/Modern-CMake-zh_CN](https://github.com/Modern-CMake-CN/Modern-CMake-zh_CN)
-11. [nikolausmayer/cmake-templates](https://github.com/nikolausmayer/cmake-templates)
+11. [mortennobel/CMake-Cheatsheet](https://github.com/mortennobel/CMake-Cheatsheet)
+12. [mariokonrad/cmake-cheatsheet](https://github.com/mariokonrad/cmake-cheatsheet)
+13. [nikolausmayer/cmake-templates](https://github.com/nikolausmayer/cmake-templates)
 
 ### 书籍
 

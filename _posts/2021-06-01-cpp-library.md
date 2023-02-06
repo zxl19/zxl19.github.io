@@ -158,6 +158,15 @@ pinned: false
 1. [pybind/pybind11](https://github.com/pybind/pybind11)
 2. [wjakob/nanobind](https://github.com/wjakob/nanobind)
 
+## `nameof`宏
+
+1. [Neargye/nameof](https://github.com/Neargye/nameof)
+2. [bravikov/nameof](https://github.com/bravikov/nameof)
+
+## 并发
+
+1. [David-Haim/concurrencpp](https://github.com/David-Haim/concurrencpp)
+
 ## 参考
 
 1. [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp)

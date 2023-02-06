@@ -28,6 +28,7 @@ pinned: false
 7. [google-research/tuning_playbook](https://github.com/google-research/tuning_playbook)
 8. [openai/openai-cookbook](https://github.com/openai/openai-cookbook)
 9. [ahmedbahaaeldin/From-0-to-Research-Scientist-resources-guide](https://github.com/ahmedbahaaeldin/From-0-to-Research-Scientist-resources-guide)
+10. [leerumor/ai-study](https://github.com/leerumor/ai-study)
 
 ## 速查表
 
