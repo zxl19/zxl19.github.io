@@ -24,8 +24,9 @@ pinned: false
 5. [XT的技术博客](https://xiaotaoguo.com)
 6. [Yilin's Blog](https://yilingui.xyz)
 7. [RealCat](https://vincentqin.tech)
-8. [KMnO4的行云小扎](https://wastoon.github.io)
-9. [家家的快乐空间-CSDN博客](https://blog.csdn.net/m0_38144614)
+8. [无处不在的小土](https://gaoyichao.com/Xiaotu/)
+9. [KMnO4的行云小扎](https://wastoon.github.io)
+10. [家家的快乐空间-CSDN博客](https://blog.csdn.net/m0_38144614)
 
 ### 技术博客
 

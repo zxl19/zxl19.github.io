@@ -101,9 +101,10 @@ pinned: false
 3. [Ceres Solver](http://ceres-solver.org)
 4. [strasdat/Sophus](https://github.com/strasdat/Sophus)
 5. [autodiff/autodiff](https://github.com/autodiff/autodiff)
-6. [johnmcfarlane/cnl](https://github.com/johnmcfarlane/cnl)
-7. [romeric/Fastor](https://github.com/romeric/Fastor)
-8. [sikang/DecompUtil](https://github.com/sikang/DecompUtil)
+6. [davideberly/GeometricTools](https://github.com/davideberly/GeometricTools)
+7. [johnmcfarlane/cnl](https://github.com/johnmcfarlane/cnl)
+8. [romeric/Fastor](https://github.com/romeric/Fastor)
+9. [sikang/DecompUtil](https://github.com/sikang/DecompUtil)
 
 ## 加密
 
@@ -131,6 +132,7 @@ pinned: false
 
 1. [ocornut/imgui](https://github.com/ocornut/imgui)
 2. [stevenlovegrove/Pangolin](https://github.com/stevenlovegrove/Pangolin)
+3. [koide3/iridescence](https://github.com/koide3/iridescence)
 
 ## 通信
 
