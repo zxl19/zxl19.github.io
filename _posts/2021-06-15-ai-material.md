@@ -16,19 +16,21 @@ pinned: false
 ## 公开课
 
 1. [吴恩达机器学习](https://study.163.com/course/introduction/1210076550.htm)
+2. [Kaggle](https://www.kaggle.com)
 
 ## 教程
 
 1. [动手学深度学习](http://zh.d2l.ai)
 2. [神经网络与深度学习](https://nndl.github.io)
-3. [Machine Learning Yearning](https://deeplearning-ai.github.io/machine-learning-yearning-cn/)
-4. [Neural Network and Deep Learning](http://neuralnetworksanddeeplearning.com/about.html)
-5. [Pattern Recognition and Machine Learning](http://users.isr.ist.utl.pt/~wurmd/Livros/school/Bishop%20-%20Pattern%20Recognition%20And%20Machine%20Learning%20-%20Springer%20%202006.pdf)
-6. [Foundations of Machine Learning](https://cs.nyu.edu/~mohri/mlbook/)
-7. [google-research/tuning_playbook](https://github.com/google-research/tuning_playbook)
-8. [openai/openai-cookbook](https://github.com/openai/openai-cookbook)
-9. [ahmedbahaaeldin/From-0-to-Research-Scientist-resources-guide](https://github.com/ahmedbahaaeldin/From-0-to-Research-Scientist-resources-guide)
-10. [leerumor/ai-study](https://github.com/leerumor/ai-study)
+3. [机器学习](https://cs.nju.edu.cn/zhouzh/zhouzh.files/publication/MLbook2016.htm)
+4. [Machine Learning Yearning](https://deeplearning-ai.github.io/machine-learning-yearning-cn/)
+5. [Neural Network and Deep Learning](http://neuralnetworksanddeeplearning.com/about.html)
+6. [Pattern Recognition and Machine Learning](http://users.isr.ist.utl.pt/~wurmd/Livros/school/Bishop%20-%20Pattern%20Recognition%20And%20Machine%20Learning%20-%20Springer%20%202006.pdf)
+7. [Foundations of Machine Learning](https://cs.nyu.edu/~mohri/mlbook/)
+8. [google-research/tuning_playbook](https://github.com/google-research/tuning_playbook)
+9. [openai/openai-cookbook](https://github.com/openai/openai-cookbook)
+10. [ahmedbahaaeldin/From-0-to-Research-Scientist-resources-guide](https://github.com/ahmedbahaaeldin/From-0-to-Research-Scientist-resources-guide)
+11. [leerumor/ai-study](https://github.com/leerumor/ai-study)
 
 ## 速查表
 

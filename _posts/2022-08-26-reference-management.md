@@ -25,10 +25,13 @@ pinned: false
 2. [IEEE Xplore](https://ieeexplore.ieee.org/Xplore/home.jsp)
 3. [Engineering Village](https://www.engineeringvillage.com)
 4. [Web of Science](https://www.webofscience.com)
-5. [中国知网](https://www.cnki.net)
-6. [ResearchGate](https://www.researchgate.net)
-7. [arXiv](https://arxiv.org)
-8. [Sci-Hub](https://sci-hub.se)
+5. [清华大学图书馆](https://lib.tsinghua.edu.cn)
+6. [中国知网](https://www.cnki.net)
+7. [ResearchGate](https://www.researchgate.net)
+8. [arXiv](https://arxiv.org)
+9. [Papers With Code](https://paperswithcode.com)
+10. [Sci-Hub](https://sci-hub.se)
+11. [Library Genesis](https://libgen.is)
 
 ## 文献管理软件
 
