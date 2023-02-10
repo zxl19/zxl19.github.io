@@ -169,6 +169,12 @@ pinned: false
 
 1. [David-Haim/concurrencpp](https://github.com/David-Haim/concurrencpp)
 
+## 惰性求值
+
+1. [jscheiny/Streams](https://github.com/jscheiny/Streams)
+2. [MarcDirven/cpp-lazy](https://github.com/MarcDirven/cpp-lazy)
+3. [SaadAttieh/lazyCode](https://github.com/SaadAttieh/lazyCode)
+
 ## 参考
 
 1. [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp)

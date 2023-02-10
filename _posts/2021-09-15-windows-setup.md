@@ -42,26 +42,28 @@ pinned: false
 
 ### 未安装
 
-1. calibre
-2. CCleaner
-3. Clash
-4. Cmder
-5. Cold Turkey
-6. DAEMON Tools
-7. Dism++
-8. drawio-desktop
-9. Everything
-10. FileZilla Client
-11. Fliqlo
-12. Inkscape
-13. Obsidian
-14. Photoflare
-15. PlotJuggler
-16. Recuva
-17. ShareX
-18. TeamViewer
-19. Typora
-20. Zotero
+1. Beyond Compare
+2. calibre
+3. CCleaner
+4. Clash
+5. Cmder
+6. Cold Turkey
+7. DAEMON Tools
+8. Dism++
+9. drawio-desktop
+10. Everything
+11. FileZilla Client
+12. Fliqlo
+13. Inkscape
+14. Obsidian
+15. Photoflare
+16. PlotJuggler
+17. Recuva
+18. ShareX
+19. TeamViewer
+20. Typora
+21. Understand
+22. Zotero
 
 ## 常见问题及解决方法
 
@@ -93,9 +95,11 @@ pinned: false
 3. [有哪些软件堪称神器，却很少人知道？-坚果云的回答-知乎](https://www.zhihu.com/question/327826314/answer/1497578134)
 4. [微软复活20年前生产力工具PowerToys，填补Win10缺失功能，开源且免费-量子位的文章-知乎](https://zhuanlan.zhihu.com/p/166292161)
 5. [Windows有哪些强烈不建议装的软件？-一大大的回答-知乎](https://www.zhihu.com/question/392313958/answer/1199936945)
-6. [满足日常需求的应用（三）：图像编辑器丨Linux中国-Linux中国的文章-知乎](https://zhuanlan.zhihu.com/p/407938013)
-7. [Photoflare：满足简单编辑需求的开源图像编辑器丨Linux中国-Linux中国的文章-知乎](https://zhuanlan.zhihu.com/p/193158124)
-8. [Windows 10总是不打招呼就自动更新？教你如何关闭它-少数派的文章-知乎](https://zhuanlan.zhihu.com/p/35590496)
-9. [什么工具可以有效清理"C:\Users\用户名\AppData"目录下的文件？-高灵的回答-知乎](https://www.zhihu.com/question/38011537/answer/296426969)
-10. [Win 10 C盘突然爆满，怎么清理？-坚果云的回答-知乎](https://www.zhihu.com/question/53591010/answer/1115174873)
-11. [windows10系统内存占用莫名其妙非常高怎么解决怎么解决？-mhm的回答-知乎](https://www.zhihu.com/question/359072911/answer/924065793)
+6. [代码对比工具，就用这7个！-李二狗的文章-知乎](https://zhuanlan.zhihu.com/p/375551784)
+7. [满足日常需求的应用（三）：图像编辑器丨Linux中国-Linux中国的文章-知乎](https://zhuanlan.zhihu.com/p/407938013)
+8. [Photoflare：满足简单编辑需求的开源图像编辑器丨Linux中国-Linux中国的文章-知乎](https://zhuanlan.zhihu.com/p/193158124)
+9. [你用过的最好的代码阅读或编辑工具是什么？-韦易笑的回答-知乎](https://www.zhihu.com/question/19570229/answer/1626066191)
+10. [Windows 10总是不打招呼就自动更新？教你如何关闭它-少数派的文章-知乎](https://zhuanlan.zhihu.com/p/35590496)
+11. [什么工具可以有效清理"C:\Users\用户名\AppData"目录下的文件？-高灵的回答-知乎](https://www.zhihu.com/question/38011537/answer/296426969)
+12. [Win 10 C盘突然爆满，怎么清理？-坚果云的回答-知乎](https://www.zhihu.com/question/53591010/answer/1115174873)
+13. [windows10系统内存占用莫名其妙非常高怎么解决怎么解决？-mhm的回答-知乎](https://www.zhihu.com/question/359072911/answer/924065793)

@@ -24,14 +24,16 @@ C++学习资料存档。
 
 ### C++
 
-1. [mortennobel/cpp-cheatsheet](https://github.com/mortennobel/cpp-cheatsheet)
-2. [isocpp/CppCoreGuidelines](https://github.com/isocpp/CppCoreGuidelines)
-3. [Light-City/CPlusPlusThings](https://github.com/Light-City/CPlusPlusThings)
-4. [TheAlgorithms/C-Plus-Plus](https://github.com/TheAlgorithms/C-Plus-Plus)
-5. [wuye9036/CppTemplateTutorial](https://github.com/wuye9036/CppTemplateTutorial)
-6. [cpp-best-practices/cppbestpractices](https://github.com/cpp-best-practices/cppbestpractices)
-7. [applenob/Cpp_Primer_Practice](https://github.com/applenob/Cpp_Primer_Practice)
-8. [tangtangcoding/C-C-](https://github.com/tangtangcoding/C-C-)
+1. [gibsjose/cpp-cheat-sheet](https://github.com/gibsjose/cpp-cheat-sheet)
+2. [mortennobel/cpp-cheatsheet](https://github.com/mortennobel/cpp-cheatsheet)
+3. [crazyguitar/cppcheatsheet](https://github.com/crazyguitar/cppcheatsheet)
+4. [isocpp/CppCoreGuidelines](https://github.com/isocpp/CppCoreGuidelines)
+5. [Light-City/CPlusPlusThings](https://github.com/Light-City/CPlusPlusThings)
+6. [TheAlgorithms/C-Plus-Plus](https://github.com/TheAlgorithms/C-Plus-Plus)
+7. [wuye9036/CppTemplateTutorial](https://github.com/wuye9036/CppTemplateTutorial)
+8. [cpp-best-practices/cppbestpractices](https://github.com/cpp-best-practices/cppbestpractices)
+9. [applenob/Cpp_Primer_Practice](https://github.com/applenob/Cpp_Primer_Practice)
+10. [tangtangcoding/C-C-](https://github.com/tangtangcoding/C-C-)
 
 ### C++新特性
 
@@ -66,11 +68,12 @@ C++学习资料存档。
 2. [Google开源项目风格指南-C++](https://zh-google-styleguide.readthedocs.io/en/latest/google-cpp-styleguide/contents/)
 3. [C++ Core Guidelines](https://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines.html)
 4. [ROS C++ Style Guide-ROS Wiki](http://wiki.ros.org/CppStyleGuide)
-5. [C++教程-菜鸟教程](https://www.runoob.com/cplusplus/cpp-tutorial.html)
-6. [cplusplus](http://www.cplusplus.com)
-7. [cppreference](https://en.cppreference.com/w/)
-8. [C语言中文网](http://c.biancheng.net)
-9. [comp.lang.c Frequently Asked Questions](https://c-faq.com)
+5. [cplusplus](http://www.cplusplus.com)
+6. [cppreference](https://en.cppreference.com/w/)
+7. [C/C++ Cheat Sheet](https://www.cppcheatsheet.com)
+8. [comp.lang.c Frequently Asked Questions](https://c-faq.com)
+9. [C++教程-菜鸟教程](https://www.runoob.com/cplusplus/cpp-tutorial.html)
+10. [C语言中文网](http://c.biancheng.net)
 
 ## 书籍
 

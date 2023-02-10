@@ -135,6 +135,10 @@ CMake扩展。
 
 拼写检查。
 
+### Compare Folders
+
+按照内容比较文件夹，并排显示文件夹中的文件内容差异。
+
 ### Crypto Tools
 
 提供一系列编码/解码、加密/解密工具，例如base32、SHA512等。目前base64加密中文存在bug，会出现乱码。
@@ -261,6 +265,25 @@ LaTeX语言扩展，配置`latex-workshop.latex.tools`、`latex-workshop.latex.r
 ### Markdown All in One
 
 Markdown语言扩展。
+
+1. 快捷键：
+
+   | 功能 | 快捷键 |
+   | :--- | :--- |
+   | 切换粗体 | `Ctrl`+`B` |
+   | 切换斜体 | `Ctrl`+`I` |
+   | 切换删除线 | `Alt`+`S` |
+   | 标题升级 | `Ctrl`+`Shift`+`]` |
+   | 标题降级 | `Ctrl`+`Shift`+`[` |
+   | 切换数学环境 | `Ctrl`+`M` |
+   | 切换勾选 | `Alt`+`C` |
+   | 预览 | `Ctrl`+`Shift`+`V` |
+   | 侧边预览 | `Ctrl`+`K`+`V` |
+
+2. 生成目录：
+
+   - `Ctrl`+`Shift`+`P`，选择`Markdown All in One: Create Table of Contents`；
+   - 目录在文件保存时自动更新；
 
 ### Markdown PDF
 
