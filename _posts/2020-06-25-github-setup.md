@@ -15,7 +15,44 @@ pinned: false
 
 ## Windows
 
-使用GitHub Desktop进行管理，可以满足大部分需求。
+### GitHub Desktop
+
+GitHub Desktop是GitHub开发的客户端，使用图形化交互界面代替了Git的命令行操作，可以满足大部分需求。但是GitHub Desktop内置的Git无法在编辑器中使用，因此无法在编辑器中提供修改高亮。
+
+### Git for Windows
+
+#### 安装
+
+在官网下载Git安装包`Git-2.39.1-64-bit.exe`并运行：
+
+1. `Information`许可证信息；
+2. `Select Destination Location`选择安装位置：`D:\Program Files\Git`；
+3. `Select Components`选择安装组件：
+
+    - 勾选`Additional icons`->`On the Desktop`；
+    - 勾选`Add a Git Bash Profile to Windows Terminal`；
+    - 其余选项保持默认；
+
+4. `Select Star Menu Folder`选择开始菜单文件夹；
+5. `Choosing the default editor used by Git`选择Git使用的默认编辑器：`Use Visual Studio Code as Git's default editor`；
+6. `Adjusting the name of the initial branch in new repositories`调整新仓库初始分支名：`Let Git decide`（目前默认初始分支名为`master`，后续可能更改）；
+7. `Adjusting your PATH environment`调整PATH环境变量：`Git from the command line and also from 3rd-party software`（推荐）；
+8. `Choosing the SSH executable`选择SSH可执行文件：`Use bundled OpenSSH`；
+9. `Choosing HTTPS transport backend`选择HTTPS传输后端：`Use the OpenSSL library`；
+10. `Configuring the line ending conversions`配置行尾序列转换：`Checkout Windows-style, commit Unix-style like line endings`；
+11. `Configuring the terminal emulator to use with Git Bash`配置Git Bash使用的终端仿真器：`Use MinTTY(the default terminal of MSYS2)`；
+12. `Choose the default behavior of 'git pull'`选择`git pull`的默认行为：`Default(fast-forward or merge)`；
+13. `Choose a credential helper`选择安全证书助手：`Git Credential Manager`；
+14. `Configuring extra options`配置其他选项：`Enable file system caching`；
+15. `Configuring experimental options`配置实验选项：保持默认，全不勾选；
+
+#### 配置
+
+在VS Code中配置Git扩展的`Git: Path`选项，在`settings.json`文件中指定Git可执行文件的路径和文件名：
+
+```json
+"git.path": "D:\\Program Files\\Git\\bin\\git.exe"
+```
 
 ## Ubuntu
 
@@ -82,10 +119,12 @@ pinned: false
 
 ## 参考
 
-1. [GitHub Desktop](https://desktop.github.com/)
-2. [在VScode上配置Git-浪晋的文章-知乎](https://zhuanlan.zhihu.com/p/31417255)
-3. [Missing contributions-GitHub Docs](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/managing-contribution-settings-on-your-profile/why-are-my-contributions-not-showing-up-on-my-profile)
-4. [Managing email preferences-GitHub Docs](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-personal-account-on-github/managing-email-preferences)
-5. [Token authentication requirements for Git operations-GitHub Blog](https://github.blog/2020-12-15-token-authentication-requirements-for-git-operations/)
-6. [Creating a personal access token-GitHub Docs](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token)
-7. [GitHub防黑客新措施：弃用账密验证Git操作，改用token或SSH密钥，今天0点已执行-量子位的文章-知乎](https://zhuanlan.zhihu.com/p/399759963)
+1. [GitHub Desktop](https://desktop.github.com)
+2. [Git](https://git-scm.com)
+3. [Windows系统Git安装教程（详解Git安装过程）-maanlong的文章-知乎](https://zhuanlan.zhihu.com/p/242540359)
+4. [在VScode上配置Git-浪晋的文章-知乎](https://zhuanlan.zhihu.com/p/31417255)
+5. [Missing contributions-GitHub Docs](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/managing-contribution-settings-on-your-profile/why-are-my-contributions-not-showing-up-on-my-profile)
+6. [Managing email preferences-GitHub Docs](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-personal-account-on-github/managing-email-preferences)
+7. [Token authentication requirements for Git operations-GitHub Blog](https://github.blog/2020-12-15-token-authentication-requirements-for-git-operations/)
+8. [Creating a personal access token-GitHub Docs](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token)
+9. [GitHub防黑客新措施：弃用账密验证Git操作，改用token或SSH密钥，今天0点已执行-量子位的文章-知乎](https://zhuanlan.zhihu.com/p/399759963)
