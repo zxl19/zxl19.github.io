@@ -71,11 +71,12 @@ pinned: false
 5. [google/glog](https://github.com/google/glog)
 6. [onqtam/doctest](https://github.com/onqtam/doctest)
 7. [google/orbit](https://github.com/google/orbit)
-8. [gflags/gflags](https://github.com/gflags/gflags)
-9. [PlatformLab/NanoLog](https://github.com/PlatformLab/NanoLog)
-10. [jonasmr/microprofile](https://github.com/jonasmr/microprofile)
-11. [mpusz/units](https://github.com/mpusz/units)
-12. [rollbear/trompeloeil](https://github.com/rollbear/trompeloeil)
+8. [bombela/backward-cpp](https://github.com/bombela/backward-cpp)
+9. [gflags/gflags](https://github.com/gflags/gflags)
+10. [PlatformLab/NanoLog](https://github.com/PlatformLab/NanoLog)
+11. [jonasmr/microprofile](https://github.com/jonasmr/microprofile)
+12. [mpusz/units](https://github.com/mpusz/units)
+13. [rollbear/trompeloeil](https://github.com/rollbear/trompeloeil)
 
 ## 数据可视化
 

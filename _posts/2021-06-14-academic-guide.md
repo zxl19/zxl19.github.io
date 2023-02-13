@@ -15,7 +15,7 @@ pinned: false
 
 ## 资料
 
-1. [现代科研指北](https://github.com/yufree/sciguide)
+1. [现代科研指北](https://yufree.github.io/sciguide/)
 2. [How to Be a Modern Scientist](https://users.metu.edu.tr/ccandan/other/modern_scientist_preview_first_15_pages_Jan_2018.pdf)
 3. [The Ph.D Grind](http://pgbovine.net/PhD-memoir/pguo-PhD-grind.pdf)
 4. [Some Modest Advice for Graduate Students](https://www.researchgate.net/publication/255653424_SOME_MODEST_ADVICE_FOR_GRADUATE_STUDENTS)
@@ -23,6 +23,7 @@ pinned: false
 ## 网站
 
 1. [科学网——博客](http://blog.sciencenet.cn/blog.php)
+2. [How to Read a Paper Efficiently (By Prof. Pete Carr) 如何高效阅读论文](https://www.bilibili.com/video/BV14s411N76u)
 
 ## GitHub
 
@@ -32,7 +33,8 @@ pinned: false
 4. [macoj/phd](https://github.com/macoj/phd)
 5. [zheng95z/teach-yourself-research](https://github.com/zheng95z/teach-yourself-research)
 6. [alirezasamar/awesome-phd](https://github.com/alirezasamar/awesome-phd)
-7. [weisongwen/researchTools](https://github.com/weisongwen/researchTools)
+7. [yufree/sciguide](https://github.com/yufree/sciguide)
+8. [weisongwen/researchTools](https://github.com/weisongwen/researchTools)
 
 ## 参考
 

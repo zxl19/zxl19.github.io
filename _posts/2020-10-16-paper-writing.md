@@ -173,6 +173,12 @@ pinned: false
 3. [Academic Phrasebank](https://www.phrasebank.manchester.ac.uk/)
 4. [The Most Common Habits from more than 200 English Papers written by Graduate Chinese Engineering Students](https://www.chrisyttang.org/assets/misc/The%20Most%20Common%20Habits%20from%20more%20than%20200%20English%20Papers%20written.pdf)
 
+### 海报模板
+
+1. [zhoubolei/poster_template](https://github.com/zhoubolei/poster_template)
+2. [rafaelbailo/betterposter-latex-template](https://github.com/rafaelbailo/betterposter-latex-template)
+3. [HolgerGerhardt/TeXTemplates](https://github.com/HolgerGerhardt/TeXTemplates)
+
 ## 参考
 
 1. [Matlab自动导出论文插图-阿昆的科研日常的文章-知乎](https://zhuanlan.zhihu.com/p/82772502)
