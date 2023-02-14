@@ -19,8 +19,8 @@ pinned: false
 2. Sophus是纯头文件库，使用时需要包含头文件：
 
     ```cpp
-    #include "sophus/so3.hpp"       // SO(3)
-    #include "sophus/se3.hpp"       // SE(3)
+    #include "sophus/so3.hpp"       // SO(3)李群
+    #include "sophus/se3.hpp"       // SE(3)李群
     ```
 
 3. Sophus官方并没有提供安装和使用教程，以下内容主要整理自《视觉SLAM十四讲》；
@@ -36,16 +36,24 @@ set(SOPHUS_INCLUDE_DIRS "${PROJECT_SOURCE_DIR}/third_party/Sophus")
 include_directories(${SOPHUS_INCLUDE_DIRS})
 ```
 
-## SO(3)位姿
+## SO(3)李群
 
 ```cpp
 Eigen::Matrix3d R;
 Eigen::Quaterniond q(R);
-Sophus::SO3d SO3(R);                            // Sophus::SO3d可以直接从旋转矩阵构造
-Sophus::SO3d SO3(q);                            // 也可以通过四元数构造，二者是等价的
+Sophus::SO3d SO3(R);                            // 通过旋转矩阵构造Sophus::SO3d
+Sophus::SO3d SO3(q);                            // 通过四元数构造Sophus::SO3d
 Sophus::SO3d SO3_inv = SO3.inverse();           // 取李群逆
-Eigen::Matrix3d R = SO3.matrix();               // 转成矩阵
-Eigen::Quaterniond q = SO3.unit_quaternion();   // 转成单位四元数
+Eigen::Matrix3d R = SO3.matrix();               // 取旋转矩阵
+Eigen::Quaterniond q = SO3.unit_quaternion();   // 取单位四元数
+
+// 取欧拉角，单位为弧度
+double euler_x = SO3.angleX();                  // 围绕x轴旋转的欧拉角，即滚转角（roll）
+double euler_y = SO3.angleY();                  // 围绕y轴旋转的欧拉角，即俯仰角（pitch）
+double euler_z = SO3.angleZ();                  // 围绕z轴旋转的欧拉角，即偏航角（yaw）
+
+// 通过欧拉角构造Sophus::SO3d，旋转顺序为ZYX，单位为弧度
+SO3 = SO3d::rotX(euler_x) * SO3d::rotY(euler_y) * SO3d::rotZ(euler_z);
 
 // 使用对数映射获得李代数
 Eigen::Vector3d so3 = SO3.log();
@@ -59,20 +67,28 @@ Eigen::Vector3d update_so3(1e-4, 0, 0);         // 更新量
 Sophus::SO3d SO3_updated = Sophus::SO3d::exp(update_so3) * SO3;
 ```
 
-## SE(3)位姿
+## SE(3)李群
 
 ```cpp
 Eigen::Matrix3d R;
 Eigen::Quaterniond q(R);
 Eigen::Vector3d t(1, 0, 0);
-Sophus::SE3d SE3(R, t);                         // 从R，t构造SE(3)
-Sophus::SE3d SE3(q, t);                         // 从q，t构造SE(3)
+Sophus::SE3d SE3(R, t);                         // 通过R，t构造Sophus::SE3d
+Sophus::SE3d SE3(q, t);                         // 通过q，t构造Sophus::SE3d
 Sophus::SE3d SE3_inv = SE3.inverse();           // 取李群逆
-Sophus::SO3d SO3 = SE3.so3();                   // 取李群旋转
-Eigen::Matrix4d T = SE3.matrix();               // 转成矩阵
+Sophus::SO3d SO3 = SE3.so3();                   // 取SO(3)李群
+Eigen::Matrix4d T = SE3.matrix();               // 取变换矩阵
 Eigen::Matrix3d R = SE3.so3().matrix();         // 取旋转矩阵
-Eigen::Quaterniond q = SE3.unit_quaternion();   // 取单位四元数
+Eigen::Quaterniond q = SE3.unit_quaternion();   // 取单位四元数，本质上是调用this->so3().unit_quaternion()
 Eigen::Vector3d t = SE3.translation();          // 取平移向量
+
+// 取欧拉角，单位为弧度
+double euler_x = SE3.angleX();                  // 围绕x轴旋转的欧拉角，即滚转角（roll），本质上是调用this->so3().angleX()
+double euler_y = SE3.angleY();                  // 围绕y轴旋转的欧拉角，即俯仰角（pitch），本质上是调用this->so3().angleY()
+double euler_z = SE3.angleZ();                  // 围绕z轴旋转的欧拉角，即偏航角（yaw），本质上是调用this->so3().angleZ()
+
+// 通过欧拉角构造Sophus::SE3d的旋转部分，旋转顺序为ZYX，单位为弧度
+SE3.so3() = SO3d::rotX(euler_x) * SO3d::rotY(euler_y) * SO3d::rotZ(euler_z);
 
 // 李代数se(3)是一个六维向量，方便起见先typedef一下
 typedef Eigen::Matrix<double, 6, 1> Vector6d;

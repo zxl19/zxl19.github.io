@@ -15,14 +15,30 @@ pinned: false
 
 ## 数据绘图
 
-### B站
+### 常用工具
+
+1. MATLAB；
+2. Python：
+
+    - [matplotlib](https://matplotlib.org)
+    - [seaborn](https://seaborn.pydata.org)
+
+3. [gnuplot](http://www.gnuplot.info)
+
+### 配色教程
 
 1. [【科研绘图】科研绘图配色的注意点（一）](https://www.bilibili.com/video/BV1J7411G7Uv)
 2. [【科研绘图】科研绘图配色的注意点（二）](https://www.bilibili.com/video/BV167411E7eo)
 3. [【科研绘图】科研绘图配色的注意点（三）](https://www.bilibili.com/video/BV1H7411o7pj)
-4. [【收藏】MATLAB数据可视化教程丨数据图 表达式 隐函数 动画 美化](https://www.bilibili.com/video/BV1Yd4y1M7BF)
 
 ### MATLAB
+
+#### 样式控制
+
+1. [MATLAB技巧之绘图篇-戴正旭的文章-知乎](https://zhuanlan.zhihu.com/p/92283650)
+2. [你见过最美的MATLAB绘图是什么？-程序猿老王的回答-知乎](https://www.zhihu.com/question/43309577/answer/2311550516)
+3. [如何在论文中画出漂亮的插图？-slandarer的回答-知乎](https://www.zhihu.com/question/21664179/answer/2877054256)
+4. [【收藏】MATLAB数据可视化教程丨数据图 表达式 隐函数 动画 美化](https://www.bilibili.com/video/BV1Yd4y1M7BF)
 
 #### GitHub
 
@@ -49,14 +65,39 @@ pinned: false
 1. [Matplotlib Gallery](https://matplotlib.org/stable/gallery/index.html)
 2. [Seaborn Example Gallery](https://seaborn.pydata.org/examples/index.html)
 
+### gnuplot
+
+#### 样式控制
+
+1. [一张图急速入门科研绘图Gnuplot-星未的文章-知乎](https://zhuanlan.zhihu.com/p/356438078)
+2. [gnuplot入门教程1-CSDN博客](https://blog.csdn.net/liyuanbhu/article/details/8502383)
+3. [gnuplot入门教程2-CSDN博客](https://blog.csdn.net/liyuanbhu/article/details/8502418)
+4. [gnuplot入门教程3-CSDN博客](https://blog.csdn.net/liyuanbhu/article/details/8502450)
+5. [gnuplot入门教程4-CSDN博客](https://blog.csdn.net/liyuanbhu/article/details/8502461)
+6. [gnuplot下载及基本使用](https://blog.csdn.net/weixin_42014622/article/details/82962634)
+
+#### GitHub
+
+1. [Gnuplotting/gnuplot-palettes](https://github.com/Gnuplotting/gnuplot-palettes)
+2. [Gnuplotting/gnuplot-configs](https://github.com/Gnuplotting/gnuplot-configs)
+
+#### 图片示例
+
+1. [Demos for gnuplot](https://gnuplot.sourceforge.net/demo/)
+
 ## 流程图&示意图
 
-1. [diagrams.net](https://www.diagrams.net/)
-2. [Inkscape](https://inkscape.org/)
+### 常用工具
+
+1. [diagrams.net](https://www.diagrams.net)
+
+    - [jgraph/drawio](https://github.com/jgraph/drawio)
+    - [jgraph/drawio-desktop](https://github.com/jgraph/drawio-desktop)
+    - [hediet/vscode-drawio](https://github.com/hediet/vscode-drawio)
+
+2. [Inkscape](https://inkscape.org)
 3. [TikZ+PGF](https://www.ctan.org/pkg/pgf)
-4. [jgraph/drawio](https://github.com/jgraph/drawio)
-5. [jgraph/drawio-desktop](https://github.com/jgraph/drawio-desktop)
-6. [hediet/vscode-drawio](https://github.com/hediet/vscode-drawio)
+4. PowerPoint
 
 ## 参考
 

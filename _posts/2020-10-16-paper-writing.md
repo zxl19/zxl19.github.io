@@ -172,6 +172,7 @@ pinned: false
 2. [English Exposed](https://hkupress.hku.hk/pro/con/1612.pdf)
 3. [Academic Phrasebank](https://www.phrasebank.manchester.ac.uk/)
 4. [The Most Common Habits from more than 200 English Papers written by Graduate Chinese Engineering Students](https://www.chrisyttang.org/assets/misc/The%20Most%20Common%20Habits%20from%20more%20than%20200%20English%20Papers%20written.pdf)
+5. [Mathematical English (a brief summary)](https://webusers.imj-prg.fr/~jan.nekovar/co/en/en.pdf)
 
 ### 海报模板
 
@@ -192,3 +193,4 @@ pinned: false
 9. [英文论文写作有哪些需要注意的细节？-知乎](https://www.zhihu.com/question/46825717)
 10. [我来分享下自己总结的审稿意见回复的模板吧-方差的文章-知乎](https://zhuanlan.zhihu.com/p/346911007)
 11. [美国老姐看完200+中国学生SCI论文，怒写超详细“中国人英文论文写作指南”，还被推上了B站热门…-量子位的文章-知乎](https://zhuanlan.zhihu.com/p/512095069)
+12. [数学公式、符号怎么用英语念出来？-半个冯博士的回答-知乎](https://www.zhihu.com/question/52818597/answer/2053270796)
