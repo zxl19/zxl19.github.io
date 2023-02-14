@@ -25,20 +25,21 @@ pinned: false
 4. CloudCompare
 5. Geek Uninstaller
 6. GeoGebra
-7. GitHub Desktop
-8. Mendeley Desktop
-9. NeatReader
-10. PowerToys
-11. RawTherapee
-12. Rufus
-13. SpaceSniffer
-14. TeXstudio
-15. VLC media player
-16. Visual Studio Code
-17. XMind
-18. 格式工厂
-19. 尼康工坊
-20. 万兴喵影
+7. Git for Windows
+8. GitHub Desktop
+9. Mendeley Desktop
+10. NeatReader
+11. PowerToys
+12. RawTherapee
+13. Rufus
+14. SpaceSniffer
+15. TeXstudio
+16. VLC media player
+17. Visual Studio Code
+18. XMind
+19. 格式工厂
+20. 尼康工坊
+21. 万兴喵影
 
 ### 未安装
 
@@ -55,15 +56,16 @@ pinned: false
 11. FileZilla Client
 12. Fliqlo
 13. Inkscape
-14. Obsidian
-15. Photoflare
-16. PlotJuggler
-17. Recuva
-18. ShareX
-19. TeamViewer
-20. Typora
-21. Understand
-22. Zotero
+14. Luminar
+15. Obsidian
+16. Photoflare
+17. PlotJuggler
+18. Recuva
+19. ShareX
+20. TeamViewer
+21. Typora
+22. Understand
+23. Zotero
 
 ## 常见问题及解决方法
 

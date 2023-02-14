@@ -137,7 +137,7 @@ CMake扩展。
 
 ### Compare Folders
 
-按照内容比较文件夹，并排显示文件夹中的文件内容差异。
+按照内容比较文件夹，并排显示文件夹中的文件内容差异。可以用于代替Beyond Compare和CC Compare的功能。
 
 ### Crypto Tools
 
@@ -451,3 +451,5 @@ XXX warn other programmers of problematic    警告需要改进的代码（蓝�
 23. [当你上班可以摸鱼的时候可以做些什么？-程序员阿德的回答-知乎](https://www.zhihu.com/question/365629693/answer/2127925726)
 24. [装上这几个VSCode插件后，上班划水摸鱼不是梦-GitHub Daily的文章-知乎](https://zhuanlan.zhihu.com/p/58302580)
 25. [炸裂！VSCode 摸鱼神器！！！-YYds的文章-知乎](https://zhuanlan.zhihu.com/p/408767088)
+26. [cxasm/cc-compare](https://github.com/cxasm/cc-compare)
+27. [YKB2333/Beyond-Compare](https://github.com/YKB2333/Beyond-Compare)

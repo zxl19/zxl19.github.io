@@ -23,7 +23,7 @@ GitHub Desktop是GitHub开发的客户端，使用图形化交互界面代替了
 
 #### 安装
 
-在官网下载Git安装包`Git-2.39.1-64-bit.exe`并运行：
+在[官网](https://git-scm.com/download/win)下载Git安装包`Git-2.39.1-64-bit.exe`并运行：
 
 1. `Information`许可证信息；
 2. `Select Destination Location`选择安装位置：`D:\Program Files\Git`；
@@ -57,7 +57,7 @@ GitHub Desktop是GitHub开发的客户端，使用图形化交互界面代替了
 #### 使用
 
 1. 安装并配置Git后可以在VS Code中使用Git的全部功能；
-2. 可以在Git Bash的终端模拟器中使用Git的命令行操作；
+2. 可以在Git Bash终端模拟器中使用Git的命令行操作；
 
 ## Ubuntu
 
@@ -127,10 +127,12 @@ GitHub Desktop是GitHub开发的客户端，使用图形化交互界面代替了
 1. [GitHub Desktop](https://desktop.github.com)
 2. [desktop/desktop](https://github.com/desktop/desktop)
 3. [Git](https://git-scm.com)
-4. [Windows系统Git安装教程（详解Git安装过程）-maanlong的文章-知乎](https://zhuanlan.zhihu.com/p/242540359)
-5. [在VScode上配置Git-浪晋的文章-知乎](https://zhuanlan.zhihu.com/p/31417255)
-6. [Missing contributions-GitHub Docs](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/managing-contribution-settings-on-your-profile/why-are-my-contributions-not-showing-up-on-my-profile)
-7. [Managing email preferences-GitHub Docs](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-personal-account-on-github/managing-email-preferences)
-8. [Token authentication requirements for Git operations-GitHub Blog](https://github.blog/2020-12-15-token-authentication-requirements-for-git-operations/)
-9. [Creating a personal access token-GitHub Docs](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token)
-10. [GitHub防黑客新措施：弃用账密验证Git操作，改用token或SSH密钥，今天0点已执行-量子位的文章-知乎](https://zhuanlan.zhihu.com/p/399759963)
+4. [git/git](https://github.com/git/git)
+5. [Differences between Git-scm, msysGit & Git for Windows](https://cloudaffaire.com/faq/differences-between-git-scm-msysgit-git-for-windows/)
+6. [Windows系统Git安装教程（详解Git安装过程）-maanlong的文章-知乎](https://zhuanlan.zhihu.com/p/242540359)
+7. [在VScode上配置Git-浪晋的文章-知乎](https://zhuanlan.zhihu.com/p/31417255)
+8. [Missing contributions-GitHub Docs](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/managing-contribution-settings-on-your-profile/why-are-my-contributions-not-showing-up-on-my-profile)
+9. [Managing email preferences-GitHub Docs](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-personal-account-on-github/managing-email-preferences)
+10. [Token authentication requirements for Git operations-GitHub Blog](https://github.blog/2020-12-15-token-authentication-requirements-for-git-operations/)
+11. [Creating a personal access token-GitHub Docs](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token)
+12. [GitHub防黑客新措施：弃用账密验证Git操作，改用token或SSH密钥，今天0点已执行-量子位的文章-知乎](https://zhuanlan.zhihu.com/p/399759963)
