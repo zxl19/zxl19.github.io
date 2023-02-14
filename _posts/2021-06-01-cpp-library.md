@@ -80,9 +80,9 @@ pinned: false
 
 ## 数据可视化
 
-1. [idea4good/GuiLite](https://github.com/idea4good/GuiLite)
-2. [lava/matplotlib-cpp](https://github.com/lava/matplotlib-cpp)
-3. [sciplot/sciplot](https://github.com/sciplot/sciplot)
+1. [lava/matplotlib-cpp](https://github.com/lava/matplotlib-cpp)
+2. [sciplot/sciplot](https://github.com/sciplot/sciplot)
+3. [dstahlke/gnuplot-iostream](https://github.com/dstahlke/gnuplot-iostream)
 
 ## 机器学习&深度学习
 
@@ -132,8 +132,9 @@ pinned: false
 ## 可视化界面
 
 1. [ocornut/imgui](https://github.com/ocornut/imgui)
-2. [stevenlovegrove/Pangolin](https://github.com/stevenlovegrove/Pangolin)
-3. [koide3/iridescence](https://github.com/koide3/iridescence)
+2. [idea4good/GuiLite](https://github.com/idea4good/GuiLite)
+3. [stevenlovegrove/Pangolin](https://github.com/stevenlovegrove/Pangolin)
+4. [koide3/iridescence](https://github.com/koide3/iridescence)
 
 ## 通信
 
