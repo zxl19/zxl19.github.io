@@ -224,7 +224,7 @@ C.adjoint()
 C.adjointInPlace()      // in-place version
 ```
 
-在使用矩阵的转置给自身赋值时需要避免混淆现象（aliasing）：
+在使用矩阵的转置给自身赋值时需要避免混淆现象（aliasing），混淆现象的产生原因和应对方法将在后文中详述：
 
 ```cpp
 // 错误，存在混淆现象

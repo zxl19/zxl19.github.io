@@ -44,6 +44,7 @@ pinned: false
 1. [ashishpatel26/Tools-to-Design-or-Visualize-Architecture-of-Neural-Network](https://github.com/ashishpatel26/Tools-to-Design-or-Visualize-Architecture-of-Neural-Network)
 2. [HarisIqbal88/PlotNeuralNet](https://github.com/HarisIqbal88/PlotNeuralNet)
 3. [lutzroeder/netron](https://github.com/lutzroeder/netron)
+4. [dair-ai/ml-visuals](https://github.com/dair-ai/ml-visuals)
 
 ## 模型部署
 
@@ -62,3 +63,4 @@ pinned: false
 8. [【杂谈】那些酷炫的深度学习网络图怎么画出来的？-言有三的文章-知乎](https://zhuanlan.zhihu.com/p/60146525)
 9. [深度学习、机器学习模型可视化神器：netron-田海山的文章-知乎](https://zhuanlan.zhihu.com/p/71207696)
 10. [23款神经网络的设计和可视化工具（8.12 更新）-鑫鑫淼淼焱焱的文章-知乎](https://zhuanlan.zhihu.com/p/147462170)
+11. [科研作图的一些个人想法-高峰OUC的文章-知乎](https://zhuanlan.zhihu.com/p/603088040)
