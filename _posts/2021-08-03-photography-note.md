@@ -21,6 +21,12 @@ pinned: false
 刀锐奶化，毒德大学！
 ```
 
+```text
+35 equivalent lenses, they are just never wide enough or never tight enough, like story of my life.
+
+等效35啊，不够广阔也不够紧凑，就像我艰难的人生。
+```
+
 1. [旅行摄影小百科](https://space.bilibili.com/84480709/channel/seriesdetail?sid=247659)
 2. [【硬核科普】焦段是什么？](https://www.bilibili.com/video/BV1nK41157no)
 3. [一学就会的曝光基础](https://www.bilibili.com/video/BV1oW411W7yr)
@@ -33,6 +39,7 @@ pinned: false
 10. [如何理解ISO、快门、光圈、曝光这几个概念？-王波的回答-知乎](https://www.zhihu.com/question/21427664/answer/40346193)
 11. [相机光圈、快门、焦距、感光度基本介绍-林青春的文章-知乎](https://zhuanlan.zhihu.com/p/152172663)
 12. [“毒德大学”，“刀锐奶化”这些梗最初起源于哪？-家政学叫兽的回答-知乎](https://www.zhihu.com/question/412237760/answer/1386682793)
+13. [【DPReview】富士 Fujifilm X100V 上手初评](https://www.bilibili.com/video/BV1p741137BZ)
 
 ### 阳光十六法则
 
