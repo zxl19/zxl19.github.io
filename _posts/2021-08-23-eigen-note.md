@@ -224,13 +224,13 @@ C.adjoint()
 C.adjointInPlace()      // in-place version
 ```
 
-在使用矩阵的转置给自身赋值时需要避免混淆现象（aliasing），混淆现象的产生原因和应对方法将在后文中详述：
+在使用矩阵的转置给自身赋值时需要避免混淆问题（aliasing），混淆问题的产生原因和应对方法将在后文中详述：
 
 ```cpp
-// 错误，存在混淆现象
+// 错误，存在混淆问题
 C = C.transpose();
 C = C.adjoint();
-// 正确，避免混淆现象
+// 正确，避免混淆问题
 C = C.transposeInPlace();
 C = C.adjointInPlace();
 ```
@@ -868,25 +868,28 @@ Vector3d trans = trans1 + ratio * (trans2 - trans1);
 6. [gaoxiang12/slambook](https://github.com/gaoxiang12/slambook)
 7. [gaoxiang12/slambook2](https://github.com/gaoxiang12/slambook2)
 8. [qixianyu-buaa/EigenChineseDocument](https://github.com/qixianyu-buaa/EigenChineseDocument)
-9. [Aliasing](http://www.eigen.tuxfamily.org/dox/group__TopicAliasing.html)
-10. [Catalogue of dense decompositions](https://eigen.tuxfamily.org/dox/group__TopicLinearAlgebraDecompositions.html)
-11. [Linear algebra and decompositions](https://eigen.tuxfamily.org/dox/group__TutorialLinearAlgebra.html)
-12. [Benchmark of dense decompositions](https://eigen.tuxfamily.org/dox/group__DenseDecompositionBenchmark.html)
-13. [Solving linear least squares systems](http://www.eigen.tuxfamily.org/dox/group__LeastSquares.html)
-14. [LU分解、LDLT分解和Cholesky分解-CSDN博客](https://blog.csdn.net/zhouliyang1990/article/details/21952485)
-15. [奇异值分解（SVD）-漫漫成长的文章-知乎](https://zhuanlan.zhihu.com/p/29846048)
-16. [SVD-CSDN博客](https://blog.csdn.net/jiang_he_hu_hai/article/details/78363642)
-17. [四元数归一化1-Stack Overflow](https://stackoverflow.com/questions/48019329/difference-between-norm-normalize-and-normalized-in-eigen)
-18. [四元数归一化2-CSDN博客](https://blog.csdn.net/m0_56348460/article/details/117386857)
-19. [四元数的球面线性插值（slerp）-一条放浪不羁的爬虫的文章-知乎](https://zhuanlan.zhihu.com/p/538653027)
-20. [机械臂如何实现笛卡尔空间中姿态的插值？-fly qq的回答-知乎](https://www.zhihu.com/question/22910238/answer/1096183240)
-21. [机械臂如何实现笛卡尔空间中姿态的插值？-桂凯的回答-知乎](https://www.zhihu.com/question/22910238/answer/1098345012)
-22. [旋转矩阵归一化1-Stack Overflow](https://stackoverflow.com/questions/21761909/eigen-convert-matrix3d-rotation-to-quaternion)
-23. [旋转矩阵归一化2-Stack Overflow](https://stackoverflow.com/questions/43896041/eigen-matrix-to-quaternion-and-back-have-different-result)
-24. [Alignement issues](https://eigen.tuxfamily.org/dox/group__DenseMatrixManipulation__Alignement.html)
-25. [向量化运算-CSDN博客](https://blog.csdn.net/weixin_38251332/article/details/120308863)
-26. [Eigen内存对齐1-CSDN博客](https://blog.csdn.net/shyjhyp11/article/details/123208279)
-27. [Eigen内存对齐2-CSDN博客](https://blog.csdn.net/shyjhyp11/article/details/123204444)
-28. [从Eigen向量化谈内存对齐-王金戈的文章-知乎](https://zhuanlan.zhihu.com/p/93824687)
-29. [Eigen内存对齐-卷儿的文章-知乎](https://zhuanlan.zhihu.com/p/349413376)
-30. [Common pitfalls](https://eigen.tuxfamily.org/dox/TopicPitfalls.html)
+9. [Catalogue of dense decompositions](https://eigen.tuxfamily.org/dox/group__TopicLinearAlgebraDecompositions.html)
+10. [Linear algebra and decompositions](https://eigen.tuxfamily.org/dox/group__TutorialLinearAlgebra.html)
+11. [Benchmark of dense decompositions](https://eigen.tuxfamily.org/dox/group__DenseDecompositionBenchmark.html)
+12. [Solving linear least squares systems](http://www.eigen.tuxfamily.org/dox/group__LeastSquares.html)
+13. [LU分解、LDLT分解和Cholesky分解-CSDN博客](https://blog.csdn.net/zhouliyang1990/article/details/21952485)
+14. [奇异值分解（SVD）-漫漫成长的文章-知乎](https://zhuanlan.zhihu.com/p/29846048)
+15. [SVD-CSDN博客](https://blog.csdn.net/jiang_he_hu_hai/article/details/78363642)
+16. [四元数归一化1-Stack Overflow](https://stackoverflow.com/questions/48019329/difference-between-norm-normalize-and-normalized-in-eigen)
+17. [四元数归一化2-CSDN博客](https://blog.csdn.net/m0_56348460/article/details/117386857)
+18. [四元数的球面线性插值（slerp）-一条放浪不羁的爬虫的文章-知乎](https://zhuanlan.zhihu.com/p/538653027)
+19. [机械臂如何实现笛卡尔空间中姿态的插值？-fly qq的回答-知乎](https://www.zhihu.com/question/22910238/answer/1096183240)
+20. [机械臂如何实现笛卡尔空间中姿态的插值？-桂凯的回答-知乎](https://www.zhihu.com/question/22910238/answer/1098345012)
+21. [旋转矩阵归一化1-Stack Overflow](https://stackoverflow.com/questions/21761909/eigen-convert-matrix3d-rotation-to-quaternion)
+22. [旋转矩阵归一化2-Stack Overflow](https://stackoverflow.com/questions/43896041/eigen-matrix-to-quaternion-and-back-have-different-result)
+23. [Common pitfalls](https://eigen.tuxfamily.org/dox/TopicPitfalls.html)
+24. [Aliasing](http://www.eigen.tuxfamily.org/dox/group__TopicAliasing.html)
+25. [Alignement issues](https://eigen.tuxfamily.org/dox/group__DenseMatrixManipulation__Alignement.html)
+26. [向量化运算-CSDN博客](https://blog.csdn.net/weixin_38251332/article/details/120308863)
+27. [Eigen内存对齐1-CSDN博客](https://blog.csdn.net/shyjhyp11/article/details/123208279)
+28. [Eigen内存对齐2-CSDN博客](https://blog.csdn.net/shyjhyp11/article/details/123204444)
+29. [从Eigen向量化谈内存对齐-王金戈的文章-知乎](https://zhuanlan.zhihu.com/p/93824687)
+30. [Eigen内存对齐-卷儿的文章-知乎](https://zhuanlan.zhihu.com/p/349413376)
+31. [Lazy Evaluation and Aliasing](http://www.eigen.tuxfamily.org/dox/TopicLazyEvaluation.html)
+32. [eager evaluation (及早求值) & lazy evaluation (惰性求值)-CSDN博客](https://blog.csdn.net/JNingWei/article/details/80047122)
+33. [noalias()-CSDN博客](https://blog.csdn.net/weixin_30550081/article/details/95276173)
