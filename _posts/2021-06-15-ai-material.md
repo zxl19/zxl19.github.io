@@ -31,6 +31,8 @@ pinned: false
 9. [openai/openai-cookbook](https://github.com/openai/openai-cookbook)
 10. [ahmedbahaaeldin/From-0-to-Research-Scientist-resources-guide](https://github.com/ahmedbahaaeldin/From-0-to-Research-Scientist-resources-guide)
 11. [leerumor/ai-study](https://github.com/leerumor/ai-study)
+12. [mikeizbicki/cmc-csci143](https://github.com/mikeizbicki/cmc-csci143)
+13. [mikeizbicki/cmc-csci145-math166](https://github.com/mikeizbicki/cmc-csci145-math166)
 
 ## 速查表
 

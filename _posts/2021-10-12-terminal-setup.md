@@ -255,6 +255,10 @@ plugins=(git themes zsh-autosuggestions zsh-syntax-highlighting)
 1. 在`Preferences`->`Profiles`->`Scrolling`中设置回滚行数；
 2. 默认回滚行数为500，可以勾选`Infinite Scrollback`选择无限回滚；
 
+### 设置主题
+
+1. [EliverLara/terminator-themes](https://github.com/EliverLara/terminator-themes)
+
 ## 参考
 
 1. [相关概念区别1-Stack Exchange](https://askubuntu.com/questions/506510/what-is-the-difference-between-terminal-console-shell-and-command-line)

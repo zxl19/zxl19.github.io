@@ -70,9 +70,24 @@ void post_order(TreeNode* Node) {
 }
 ```
 
+## 资料
+
+### 教程
+
+1. [数据结构（C++语言版）](https://dsa.cs.tsinghua.edu.cn/~deng/ds/dsacpp/index.htm)
+2. [数据结构-C语言中文网](http://c.biancheng.net/data_structure/)
+3. [mikeizbicki/cmc-csci046](https://github.com/mikeizbicki/cmc-csci046)
+
+### GitHub
+
+1. [mandliya/algorithms_and_data_structures](https://github.com/mandliya/algorithms_and_data_structures)
+2. [cp-algorithms/cp-algorithms](https://github.com/cp-algorithms/cp-algorithms)
+3. [rachitiitr/DataStructures-Algorithms](https://github.com/rachitiitr/DataStructures-Algorithms)
+4. [jainaman224/Algo_Ds_Notes](https://github.com/jainaman224/Algo_Ds_Notes)
+5. [ShahjalalShohag/code-library](https://github.com/ShahjalalShohag/code-library)
+6. [sachuverma/DataStructures-Algorithms](https://github.com/sachuverma/DataStructures-Algorithms)
+
 ## 参考
 
-1. 《C++语言程序设计》
-2. [数据结构-C语言中文网](http://c.biancheng.net/data_structure/)
-3. [链表-腾讯云](https://cloud.tencent.com/developer/article/1656468)
-4. [二叉树-CSDN博客](https://blog.csdn.net/u013834525/article/details/80421684)
+1. [链表-腾讯云](https://cloud.tencent.com/developer/article/1656468)
+2. [二叉树-CSDN博客](https://blog.csdn.net/u013834525/article/details/80421684)

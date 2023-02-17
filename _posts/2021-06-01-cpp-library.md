@@ -169,7 +169,12 @@ pinned: false
 
 ## 并发
 
-1. [David-Haim/concurrencpp](https://github.com/David-Haim/concurrencpp)
+1. [progschj/ThreadPool](https://github.com/progschj/ThreadPool)
+2. [David-Haim/concurrencpp](https://github.com/David-Haim/concurrencpp)
+3. [mbrossard/threadpool](https://github.com/mbrossard/threadpool)
+4. [lzpong/threadpool](https://github.com/lzpong/threadpool)
+5. [lizhenghn123/zl_threadpool](https://github.com/lizhenghn123/zl_threadpool)
+6. [tghosgor/threadpool11](https://github.com/tghosgor/threadpool11)
 
 ## 惰性求值
 
