@@ -33,6 +33,8 @@ pinned: false
 2. [p-ranav/indicators](https://github.com/p-ranav/indicators)
 3. [p-ranav/tabulate](https://github.com/p-ranav/tabulate)
 4. [tqdm/tqdm.cpp](https://github.com/tqdm/tqdm.cpp)
+5. [JustWhit3/osmanip](https://github.com/JustWhit3/osmanip)
+6. [srilakshmikanthanp/libansi](https://github.com/srilakshmikanthanp/libansi)
 
 ## 日期时间
 
@@ -116,6 +118,7 @@ pinned: false
 
 1. [protocolbuffers/protobuf](https://github.com/protocolbuffers/protobuf)
 2. [qicosmos/iguana](https://github.com/qicosmos/iguana)
+3. [p-ranav/alpaca](https://github.com/p-ranav/alpaca)
 
 ## 多态
 
