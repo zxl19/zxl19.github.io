@@ -25,54 +25,54 @@ pinned: true
 
 ```latex
 \usepackage{amsmath,amsthm,amsfonts,amssymb,amscd}  % 数学公式、符号等宏包
-\usepackage{enumerate}      % 插入带序号列表
-\usepackage{graphicx}       % 插入图片
-\usepackage{listings}       % 插入代码块
+\usepackage{enumerate}              % 插入带序号列表
+\usepackage{graphicx}               % 插入图片
+\usepackage{listings}               % 插入代码块
 
-\usepackage{hyperref}       % 插入超链接，官方文档建议在最后调用
+\usepackage{hyperref}               % 插入超链接，官方文档建议在最后调用
 \usepackage[backref]{hyperref}      % 章节引回
 \usepackage[pagebackref]{hyperref}  % 页码引回
-\hypersetup{                % 超链接样式设置
+\hypersetup{                        % 超链接样式设置
     colorlinks=false,
     linkcolor=blue,
     linkbordercolor={0 0 1}
 }
-\hypersetup{hidelinks}      % 不显示超链接线框
+\hypersetup{hidelinks}              % 不显示超链接线框
 
-\usepackage{ctex}           % 中文支持
-\usepackage{mathtools}      % 插入分段函数
+\usepackage{ctex}                   % 中文支持
+\usepackage{mathtools}              % 插入分段函数
 
-\usepackage{algorithm}      % 插入伪代码
-\usepackage{algpseudocode}  % 插入伪代码
+\usepackage{algorithm}              % 插入伪代码
+\usepackage{algpseudocode}          % 插入伪代码
 \renewcommand{\algorithmicrequire}{\textbf{Input:}} % Use Input in the format of Algorithm
 \renewcommand{\algorithmicensure}{\textbf{Output:}} % Use Output in the format of Algorithm
 
 \usepackage[framed,numbered,autolinebreaks,useliterate]{mcode}  % 插入MATLAB代码块，基于listings开发
-\usepackage{multirow}       % 跨多行表格
-\usepackage{subfigure}      % 插入子图
+\usepackage{multirow}               % 跨多行表格
+\usepackage{subfigure}              % 插入子图
 
-\usepackage{tabto}          % 插入Tab
-\NumTabs{16}                % define 16 equally spaced tabs starting at the left margin
-                            % and spanning \linewidth
+\usepackage{tabto}                  % 插入Tab
+\NumTabs{16}                        % define 16 equally spaced tabs starting at the left margin
+                                    % and spanning \linewidth
 
-\usepackage{fontawesome}    % 添加小图标
+\usepackage{fontawesome}            % 添加小图标
 
-\usepackage{pifont}         % 添加对号、错号
-\newcommand{\cmark}{\ding{51}}  % 对号
-\newcommand{\xmark}{\ding{55}}  % 错号
+\usepackage{pifont}                 % 添加对号、错号
+\newcommand{\cmark}{\ding{51}}      % 定义对号命令，本质上是重命名pifont宏包中的\ding{51}命令
+\newcommand{\xmark}{\ding{55}}      % 定义错号命令，本质上是重命名pifont宏包中的\ding{55}命令
 
 \usepackage[square,super]{natbib}   % 调整参考文献样式：方括号、右上角
 
 \usepackage[landscape]{geometry}    % 设置页面为横向
 
-\usepackage{tikz}           % 绘制图形
-\usepackage{tikz-3dplot}    % 绘制三维坐标系，坐标变换
+\usepackage{tikz}                   % 绘制图形
+\usepackage{tikz-3dplot}            % 绘制三维坐标系，坐标变换
 
-\usepackage{courier}        % 使用打字机字体/等宽字体
+\usepackage{courier}                % 使用打字机字体/等宽字体
 
-\usepackage{placeins}       % 限制浮动体位置
+\usepackage{placeins}               % 限制浮动体位置
 
-\usepackage{siunitx}        % 使用国际单位制
+\usepackage{siunitx}                % 使用国际单位制
 ```
 
 ## 格式约定
@@ -81,8 +81,11 @@ pinned: true
 2. 数学符号参考[常用数学符号的LaTeX表示方法](https://mohu.org/info/symbols/symbols.htm)，但有以下几点注意事项：
 
     - 上下标使用`{}`括起来；
-    - 矩阵和向量使用`\mathbf{}`或`\boldsymbol{}`；
-    - 黑板粗体（表示数集）使用`\mathbb{}`，书法体使用`\mathcal{}`，正体使用`\mathrm{}`；
+    - 矩阵和向量使用粗体（boldface）：`\mathbf{}`或`\boldsymbol{}`；
+    - 常数使用正体，也被称为罗马体（roman）：`\mathrm{}`；
+    - 数集使用黑板粗体（blackboard bold）：`\mathbb{}`；
+    - 坐标系使用书法体（calligraphic）：`\mathcal{}`；
+    - 一些特殊符号使用哥特体，也被称为德文尖角体（fraktur）：`\mathfrak{}`；
     - 绝对值使用`|`或`\vert`，范数使用`\|`；
     - argmin使用`\mathop{\arg\min}\limits_{}`，argmax同理；
     - 小空格用`\quad`，大空格用`\qquad`；
@@ -126,8 +129,8 @@ pinned: true
 8. 插入对号、错号：
 
     ```latex
-    \ding{51}           % 对号
-    \ding{55}           % 错号
+    \cmark              % 对号
+    \xmark              % 错号
     ```
 
 9. 使用`\today`插入当天日期；
@@ -144,11 +147,53 @@ pinned: true
     \"{}                % 加双点
     ```
 
-12. 打字机字体/等宽字体（表示电子邮箱名）使用`\texttt{}`；
+12. 电子邮箱名使用等宽字体，也被称为打字机字体（teletype）：`\texttt{}`；
 
-## 字体大小
+## 自定义命令
 
-### 全局模式
+```latex
+\newcommand{命令名}[参数个数][默认参数]{命令定义}       % 定义新命令，要求新命令名不能与已有命令重名
+\renewcommand{命令名}[参数个数][默认参数]{命令定义}     % 重命名命令，要求被重命名的命令存在
+\providecommand{命令名}[参数个数][默认参数]{命令定义}   % 条件定义命令，如果命令不存在则定义新命令，此时效果与\newcommand相同，如果命令已存在则无操作
+
+% 要求参数不超过一段
+\newcommand*{命令名}[参数个数][默认参数]{命令定义}
+\renewcommand*{命令名}[参数个数][默认参数]{命令定义}
+\providecommand*{命令名}[参数个数][默认参数]{命令定义}
+```
+
+1. 命令名不能以`\end`开头；
+2. 参数个数不能超过9个，缺省值为0；
+3. 默认参数：
+
+    - 默认参数仅能指定第一个参数的默认值，此时其余参数从第二个参数开始输入；
+    - 可以使用新的默认参数覆盖定义时的默认参数；
+    - `[]`表示默认参数为空字符串，缺省表示无默认参数；
+
+4. 命令定义中使用`#n`表示第n个参数；
+
+示例：
+
+```latex
+\newcommand{\RS}{Robin Smith}
+\newcommand{\qedsymbol}{\small QED}
+\newcommand{\defref}[1]{Definition~\ref{#1}}
+\newcommand{\salutation}[1][Sir or Madam]{Dear #1:}
+```
+
+## 字体
+
+### 字体样式
+
+1. 粗体（boldface）：`\textbf{}`；
+2. 意大利斜体（italics）：`\textit{}`；
+3. 倾斜正体（slanted）：`\textsl{}`；
+4. 打字机字体（teletype）：`\texttt{}`；
+5. 下划线（underline）：`\underline{}`；
+
+### 字体大小
+
+#### 全局模式
 
 在文档开头定义默认字体大小：
 
@@ -156,7 +201,7 @@ pinned: true
 \documentclass[12pt]{article}
 ```
 
-### 局部模式
+#### 局部模式
 
 在全局模式的基础上修改字体大小：
 
@@ -830,25 +875,27 @@ int main()
 13. [音调1-CSDN博客](https://blog.csdn.net/xin_yu_xin/article/details/26467751)
 14. [音调2-知乎](https://zhuanlan.zhihu.com/p/75828544)
 15. [音调3-CSDN博客](https://blog.csdn.net/jianti9962/article/details/114481366)
-16. [字体大小-简书](https://www.jianshu.com/p/ad400d7fe885)
-17. [列表-CSDN博客](https://blog.csdn.net/HugoChen_cs/article/details/105189541)
-18. [公式1-简书](https://www.jianshu.com/p/97ec8a3739f6)
-19. [公式2-CSDN博客](https://blog.csdn.net/Strive_For_Future/article/details/118609968)
-20. [矩阵-知乎](https://zhuanlan.zhihu.com/p/266267223)
-21. [图片1-CSDN博客](https://blog.csdn.net/qq_38526623/article/details/103737589)
-22. [图片2-CSDN博客](https://blog.csdn.net/LeonSUST/article/details/89332744)
-23. [单元格换行-CSDN博客](https://blog.csdn.net/robertchenguangzhi/article/details/48916319)
-24. [\cline-CSDN博客](https://blog.csdn.net/huancaoo/article/details/113106636)
-25. [\rule-Stack Exchange](https://tex.stackexchange.com/questions/50352/inserting-a-small-vertical-space-in-a-table)
-26. [长度单位-CSDN博客](https://blog.csdn.net/robert_chen1988/article/details/52739825)
-27. [\multirow-CSDN博客](https://blog.csdn.net/robert_chen1988/article/details/80861246)
-28. [超链接-CSDN博客](https://blog.csdn.net/OOFFrankDura/article/details/90600855)
-29. [代码块1-Overleaf](https://www.overleaf.com/learn/latex/Code_listing)
-30. [代码块2-CSDN博客](https://blog.csdn.net/RobertChenGuangzhi/article/details/45126785)
-31. [脚注-LaTeX工作室](https://www.latexstudio.net/archives/51620.html)
-32. [参考文献1-知乎](https://zhuanlan.zhihu.com/p/265479955)
-33. [参考文献2-知乎](https://zhuanlan.zhihu.com/p/114733612)
-34. [参考文献3-Stack Exchange](https://tex.stackexchange.com/questions/99615/backref-package-for-page-reference)
-35. [参考文献4-CSDN博客](https://blog.csdn.net/xovee/article/details/109715706)
-36. [参考文献5-CSDN博客](https://blog.csdn.net/xovee/article/details/109896563)
-37. [LaTeX公式转Word公式-简书](https://www.jianshu.com/p/0947ebcfc42e)
+16. [自定义命令1-Stack Exchange](https://tex.stackexchange.com/questions/36175/what-do-newcommand-renewcommand-and-providecommand-do-and-how-do-they-differ)
+17. [自定义命令2-Stack Exchange](https://tex.stackexchange.com/questions/1050/whats-the-difference-between-newcommand-and-newcommand)
+18. [字体大小-简书](https://www.jianshu.com/p/ad400d7fe885)
+19. [列表-CSDN博客](https://blog.csdn.net/HugoChen_cs/article/details/105189541)
+20. [公式1-简书](https://www.jianshu.com/p/97ec8a3739f6)
+21. [公式2-CSDN博客](https://blog.csdn.net/Strive_For_Future/article/details/118609968)
+22. [矩阵-知乎](https://zhuanlan.zhihu.com/p/266267223)
+23. [图片1-CSDN博客](https://blog.csdn.net/qq_38526623/article/details/103737589)
+24. [图片2-CSDN博客](https://blog.csdn.net/LeonSUST/article/details/89332744)
+25. [单元格换行-CSDN博客](https://blog.csdn.net/robertchenguangzhi/article/details/48916319)
+26. [\cline-CSDN博客](https://blog.csdn.net/huancaoo/article/details/113106636)
+27. [\rule-Stack Exchange](https://tex.stackexchange.com/questions/50352/inserting-a-small-vertical-space-in-a-table)
+28. [长度单位-CSDN博客](https://blog.csdn.net/robert_chen1988/article/details/52739825)
+29. [\multirow-CSDN博客](https://blog.csdn.net/robert_chen1988/article/details/80861246)
+30. [超链接-CSDN博客](https://blog.csdn.net/OOFFrankDura/article/details/90600855)
+31. [代码块1-Overleaf](https://www.overleaf.com/learn/latex/Code_listing)
+32. [代码块2-CSDN博客](https://blog.csdn.net/RobertChenGuangzhi/article/details/45126785)
+33. [脚注-LaTeX工作室](https://www.latexstudio.net/archives/51620.html)
+34. [参考文献1-知乎](https://zhuanlan.zhihu.com/p/265479955)
+35. [参考文献2-知乎](https://zhuanlan.zhihu.com/p/114733612)
+36. [参考文献3-Stack Exchange](https://tex.stackexchange.com/questions/99615/backref-package-for-page-reference)
+37. [参考文献4-CSDN博客](https://blog.csdn.net/xovee/article/details/109715706)
+38. [参考文献5-CSDN博客](https://blog.csdn.net/xovee/article/details/109896563)
+39. [LaTeX公式转Word公式-简书](https://www.jianshu.com/p/0947ebcfc42e)
