@@ -25,16 +25,17 @@ pinned: false
 
 ### 选择开源协议
 
-在仓库中新建`LICENSE`文件，GitHub会自动提示可供选择的开源协议，并提供[说明](https://opensource.guide/legal/#which-open-source-license-is-appropriate-for-my-project)以供参考。本博客遵循MIT开源协议，MIT与BSD类似，但是比BSD协议更加宽松，是目前最少限制的协议，这个协议唯一的条件就是在修改后的代码或者发行包包含原作者的许可信息，适用于商业软件[^1]。
+在仓库中新建`LICENSE`文件，GitHub会自动提示可供选择的开源协议，并提供[说明](https://choosealicense.com)以供参考。本博客模板使用MIT开源协议，MIT与BSD类似，但是比BSD协议更加宽松，是目前最少限制的协议，这个协议唯一的条件就是在修改后的代码或者发行包包含原作者的许可信息，适用于商业软件。**2023年2月18日，本博客改为使用CC-BY-SA-4.0（知识共享-署名-相同方式共享-4.0版）开源协议，这是一种适用于非软件的开源协议。**
 
-1. [The Legal Side of Open Source](https://opensource.guide/legal/)
-2. [Choose an open source license](https://choosealicense.com)
-
-[^1]: 其实直接参考大神的仓库也是一个很好的方法。
+1. [Licensing a repository](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/licensing-a-repository)
+2. [The Legal Side of Open Source](https://opensource.guide/legal/)
+3. [Choose an open source license](https://choosealicense.com)
+4. [Creative Commons license-Wikipedia](https://en.wikipedia.org/wiki/Creative_Commons_license)
+5. [About The Licenses-Creative Commons](https://creativecommons.org/licenses/)
 
 ### 设置赞赏按钮
 
-在仓库的`Settings->Features->Sponsorships`中进行设置，会在`.github`文件夹中生成`FUNDING.yml`文件，按照文件内的提示进行设置即可。如果不想注册相关网站可以上传微信赞赏码[^2]，在文件中添加微信赞赏码的链接来代替。
+在仓库的`Settings->Features->Sponsorships`中进行设置，会在`.github`文件夹中生成`FUNDING.yml`文件，按照文件内的提示进行设置即可。如果不想注册相关网站可以上传微信赞赏码[^1]，在文件中添加微信赞赏码的链接来代替。
 
 <p align="center">
     <a href="https://zxl19.github.io">
@@ -42,7 +43,7 @@ pinned: false
     </a>
 </p>
 
-[^2]: 以我的赞赏码为例。
+[^1]: 以我的赞赏码为例。
 
 ### icon生成
 
