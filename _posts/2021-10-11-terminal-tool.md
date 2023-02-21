@@ -41,7 +41,8 @@ pinned: false
 1. man
 2. [tldr](https://github.com/tldr-pages/tldr)
 3. [cppman](https://github.com/aitjcize/cppman)
-4. [thefuck](https://github.com/nvbn/thefuck)
+4. [fccf](https://github.com/p-ranav/fccf)
+5. [thefuck](https://github.com/nvbn/thefuck)
 
 ## 文本编辑
 

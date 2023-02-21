@@ -29,12 +29,25 @@ pinned: false
 
 ## 命令行输出
 
+### 输出样式
+
 1. [fmtlib/fmt](https://github.com/fmtlib/fmt)
-2. [p-ranav/indicators](https://github.com/p-ranav/indicators)
-3. [p-ranav/tabulate](https://github.com/p-ranav/tabulate)
-4. [tqdm/tqdm.cpp](https://github.com/tqdm/tqdm.cpp)
-5. [JustWhit3/osmanip](https://github.com/JustWhit3/osmanip)
-6. [srilakshmikanthanp/libansi](https://github.com/srilakshmikanthanp/libansi)
+2. [JustWhit3/osmanip](https://github.com/JustWhit3/osmanip)
+3. [srilakshmikanthanp/libansi](https://github.com/srilakshmikanthanp/libansi)
+
+### 进度条
+
+1. [p-ranav/indicators](https://github.com/p-ranav/indicators)
+2. [doches/progressbar](https://github.com/doches/progressbar)
+3. [tqdm/tqdm.cpp](https://github.com/tqdm/tqdm.cpp)
+4. [aminnj/cpptqdm](https://github.com/aminnj/cpptqdm)
+5. [gipert/progressbar](https://github.com/gipert/progressbar)
+
+### 表格
+
+1. [p-ranav/tabulate](https://github.com/p-ranav/tabulate)
+2. [haarcuba/cpp-text-table](https://github.com/haarcuba/cpp-text-table)
+3. [DenisSamilton/CppConsoleTable](https://github.com/DenisSamilton/CppConsoleTable)
 
 ## 日期时间
 
@@ -46,39 +59,62 @@ pinned: false
 1. [facebook/folly](https://github.com/facebook/folly)
 2. [idealvin/coost](https://github.com/idealvin/coost)
 
-## 配置参数
+## 参数读取
+
+### 命令行参数
+
+1. [jarro2783/cxxopts](https://github.com/jarro2783/cxxopts)
+2. [gflags/gflags](https://github.com/gflags/gflags)
+3. [CLIUtils/CLI11](https://github.com/CLIUtils/CLI11)
+4. [p-ranav/argparse](https://github.com/p-ranav/argparse)
+5. [Taywee/args](https://github.com/Taywee/args)
+6. [p-ranav/structopt](https://github.com/p-ranav/structopt)
+7. [cparse/cparse](https://github.com/cparse/cparse)
+
+### 配置文件参数
+
+#### `.json`文件
 
 1. [nlohmann/json](https://github.com/nlohmann/json)
 2. [open-source-parsers/jsoncpp](https://github.com/open-source-parsers/jsoncpp)
-3. [jbeder/yaml-cpp](https://github.com/jbeder/yaml-cpp)
-4. [jarro2783/cxxopts](https://github.com/jarro2783/cxxopts)
-5. [CLIUtils/CLI11](https://github.com/CLIUtils/CLI11)
-6. [p-ranav/argparse](https://github.com/p-ranav/argparse)
-7. [Taywee/args](https://github.com/Taywee/args)
-8. [kazuho/picojson](https://github.com/kazuho/picojson)
-9. [yaml/libyaml](https://github.com/yaml/libyaml)
-10. [Nomango/configor](https://github.com/Nomango/configor)
-11. [p-ranav/structopt](https://github.com/p-ranav/structopt)
-12. [p-ranav/csv2](https://github.com/p-ranav/csv2)
-13. [cparse/cparse](https://github.com/cparse/cparse)
-14. [taocpp/config](https://github.com/taocpp/config)
-15. [Taywee/argsplus](https://github.com/Taywee/argsplus)
+3. [kazuho/picojson](https://github.com/kazuho/picojson)
+4. [Nomango/configor](https://github.com/Nomango/configor)
+5. [taocpp/config](https://github.com/taocpp/config)
+
+#### `.yaml`文件
+
+1. [jbeder/yaml-cpp](https://github.com/jbeder/yaml-cpp)
+2. [yaml/libyaml](https://github.com/yaml/libyaml)
+
+#### `.csv`文件
+
+1. [vincentlaucsb/csv-parser](https://github.com/vincentlaucsb/csv-parser)
+2. [d99kris/rapidcsv](https://github.com/d99kris/rapidcsv)
+3. [p-ranav/csv2](https://github.com/p-ranav/csv2)
 
 ## 调试分析
 
+### 单元测试
+
 1. [google/googletest](https://github.com/google/googletest)
-2. [gabime/spdlog](https://github.com/gabime/spdlog)
-3. [catchorg/Catch2](https://github.com/catchorg/Catch2)
-4. [google/benchmark](https://github.com/google/benchmark)
-5. [google/glog](https://github.com/google/glog)
-6. [onqtam/doctest](https://github.com/onqtam/doctest)
-7. [google/orbit](https://github.com/google/orbit)
-8. [bombela/backward-cpp](https://github.com/bombela/backward-cpp)
-9. [gflags/gflags](https://github.com/gflags/gflags)
-10. [PlatformLab/NanoLog](https://github.com/PlatformLab/NanoLog)
-11. [jonasmr/microprofile](https://github.com/jonasmr/microprofile)
-12. [mpusz/units](https://github.com/mpusz/units)
-13. [rollbear/trompeloeil](https://github.com/rollbear/trompeloeil)
+2. [catchorg/Catch2](https://github.com/catchorg/Catch2)
+3. [onqtam/doctest](https://github.com/onqtam/doctest)
+4. [mpusz/units](https://github.com/mpusz/units)
+5. [rollbear/trompeloeil](https://github.com/rollbear/trompeloeil)
+
+### 日志输出
+
+1. [gabime/spdlog](https://github.com/gabime/spdlog)
+2. [google/glog](https://github.com/google/glog)
+3. [PlatformLab/NanoLog](https://github.com/PlatformLab/NanoLog)
+
+### 性能分析
+
+1. [google/benchmark](https://github.com/google/benchmark)
+2. [google/orbit](https://github.com/google/orbit)
+3. [bombela/backward-cpp](https://github.com/bombela/backward-cpp)
+4. [jonasmr/microprofile](https://github.com/jonasmr/microprofile)
+5. [p-ranav/criterion](https://github.com/p-ranav/criterion)
 
 ## 数据可视化
 
