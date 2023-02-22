@@ -34,19 +34,23 @@ pinned: false
 12. [mikeizbicki/cmc-csci143](https://github.com/mikeizbicki/cmc-csci143)
 13. [mikeizbicki/cmc-csci145-math166](https://github.com/mikeizbicki/cmc-csci145-math166)
 
-## 速查表
+## 笔记
 
 1. [afshinea/stanford-cs-229-machine-learning](https://github.com/afshinea/stanford-cs-229-machine-learning)
 2. [afshinea/stanford-cs-230-deep-learning](https://github.com/afshinea/stanford-cs-230-deep-learning)
 3. [afshinea/stanford-cs-221-artificial-intelligence](https://github.com/afshinea/stanford-cs-221-artificial-intelligence)
 4. [shervinea/cheatsheet-translation](https://github.com/shervinea/cheatsheet-translation)
+5. [percyliang/cs229t](https://github.com/percyliang/cs229t)
+6. [dcetin/eth-cs-notes](https://github.com/dcetin/eth-cs-notes)
+7. [albertpumarola/deep-learning-notes](https://github.com/albertpumarola/deep-learning-notes)
 
 ## 神经网络可视化
 
-1. [ashishpatel26/Tools-to-Design-or-Visualize-Architecture-of-Neural-Network](https://github.com/ashishpatel26/Tools-to-Design-or-Visualize-Architecture-of-Neural-Network)
+1. [lutzroeder/netron](https://github.com/lutzroeder/netron)
 2. [HarisIqbal88/PlotNeuralNet](https://github.com/HarisIqbal88/PlotNeuralNet)
-3. [lutzroeder/netron](https://github.com/lutzroeder/netron)
-4. [dair-ai/ml-visuals](https://github.com/dair-ai/ml-visuals)
+3. [dair-ai/ml-visuals](https://github.com/dair-ai/ml-visuals)
+4. [ashishpatel26/Tools-to-Design-or-Visualize-Architecture-of-Neural-Network](https://github.com/ashishpatel26/Tools-to-Design-or-Visualize-Architecture-of-Neural-Network)
+5. [hackl/tikz-network](https://github.com/hackl/tikz-network)
 
 ## 模型部署
 
@@ -66,3 +70,4 @@ pinned: false
 9. [深度学习、机器学习模型可视化神器：netron-田海山的文章-知乎](https://zhuanlan.zhihu.com/p/71207696)
 10. [23款神经网络的设计和可视化工具（8.12 更新）-鑫鑫淼淼焱焱的文章-知乎](https://zhuanlan.zhihu.com/p/147462170)
 11. [科研作图的一些个人想法-高峰OUC的文章-知乎](https://zhuanlan.zhihu.com/p/603088040)
+12. [神经网络的宏包丝滑排版令人流连忘返-我是科研小秘书的文章-知乎](https://zhuanlan.zhihu.com/p/433142890)

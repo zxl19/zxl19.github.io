@@ -809,9 +809,12 @@ int main()
 
 1. [CTeX-org/lshort-zh-cn](https://github.com/CTeX-org/lshort-zh-cn)
 2. [MartinThoma/LaTeX-examples](https://github.com/MartinThoma/LaTeX-examples)
-3. [egeerardyn/awesome-LaTeX](https://github.com/egeerardyn/awesome-LaTeX)
-4. [xinychen/latex-cookbook](https://github.com/xinychen/latex-cookbook)
-5. [oetiker/lshort](https://github.com/oetiker/lshort)
+3. [wklchris/Note-by-LaTeX](https://github.com/wklchris/Note-by-LaTeX)
+4. [egeerardyn/awesome-LaTeX](https://github.com/egeerardyn/awesome-LaTeX)
+5. [xinychen/latex-cookbook](https://github.com/xinychen/latex-cookbook)
+6. [tuna/thulib-latex-talk](https://github.com/tuna/thulib-latex-talk)
+7. [oetiker/lshort](https://github.com/oetiker/lshort)
+8. [huangxg/lnotes](https://github.com/huangxg/lnotes)
 
 ##### 模板
 
@@ -899,3 +902,4 @@ int main()
 37. [参考文献4-CSDN博客](https://blog.csdn.net/xovee/article/details/109715706)
 38. [参考文献5-CSDN博客](https://blog.csdn.net/xovee/article/details/109896563)
 39. [LaTeX公式转Word公式-简书](https://www.jianshu.com/p/0947ebcfc42e)
+40. [截至目前LaTeX入门最好资料-我是科研小秘书的文章-知乎](https://zhuanlan.zhihu.com/p/585513318)
