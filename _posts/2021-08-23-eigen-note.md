@@ -129,7 +129,7 @@ pinned: true
         x.setLinSpaced(size, low, high);
         ```
 
-## Matrix类
+## `Matrix`类
 
 ### 矩阵初始化
 
@@ -154,7 +154,7 @@ x.setUnit(size, i);
 // 二维固定大小
 Matrix2d A;
 A << 1.0, 0.0,
-    0.0, 1.0;
+     0.0, 1.0;
 A(0, 0) = 1.0;
 A(0, 1) = 0.0;
 A(1, 0) = 0.0;
@@ -224,7 +224,7 @@ C.adjoint()
 C.adjointInPlace()      // in-place version
 ```
 
-在使用矩阵的转置给自身赋值时需要避免混淆问题（aliasing），混淆问题的产生原因和应对方法将在后文中详述：
+在使用矩阵的转置给自身赋值时需要避免混淆问题，混淆问题的产生原因和应对方法将在后文中详述：
 
 ```cpp
 // 错误，存在混淆问题
@@ -473,7 +473,7 @@ MatrixXf V = svd.matrixV();
 VectorXf sv = svd.singularValues();
 ```
 
-## Array类
+## `Array`类
 
 ### 逐元素运算
 
@@ -651,15 +651,107 @@ Quaterniond quat = quat1.slerp(ratio, quat2);
 Vector3d trans = trans1 + ratio * (trans2 - trans1);
 ```
 
-## Eigen中的内存对齐问题
+## 常见问题
 
-### 内存对齐与向量化运算
+### C++中的`template`和`typename`关键字
+
+1. 从C++的角度，`template`和`typename`关键字有两种用途：
+
+    - 定义模板：
+
+        ```cpp
+        template <typename T>   // 此处使用typename或class均可
+        bool isPositive(T x) {
+          return x > 0;
+        }
+        ```
+
+    - 显式指定表达式为模板名（`template`）或类型名（`typename`），否则编译器在进行语法检查时会将模板名当做成员变量，将模板参数分隔符`<`当做小于号处理，导致编译失败；
+
+2. `MatrixBase`类中的`block()`、`cast()`、`corner()`、`end()`、`lpNorm()`、`part()`、`segment()`、`start()`成员函数都是模板函数，在模板中使用这些成员函数时，需要使用`template`关键字显式指定：
+
+    ```cpp
+    template <typename T>
+    void transform(Matrix<T, 3, 4> & m, const Matrix<T, 3, 3> trans, const Quaternion<T> qrot) {
+      // 方法一
+      m.template block<3, 3>(0, 0) = qrot.toRotationMatrix().transpose();
+      m.template block<3, 1>(0, 3) = -m.template block<3, 3>(0, 0) * trans;
+      // 方法二
+      m.template corner<3, 3>(TopLeft) = qrot.toRotationMatrix().transpose();
+      m.col(3) = -m.template corner<3, 3>(TopLeft) * trans; // col()、row()不是成员函数模板
+    }
+    ```
+
+3. 使用时的注意事项如下：
+
+    - 从属名（dependent name）指的是直接或间接依赖模板参数的变量名；
+    - 当代码中存在`xxx.yyy`或`xxx->yyy`形式，且`xxx`为从属名，`yyy`为模板名时，应在模板名前使用`template`关键字显式指定：
+
+        ```cpp
+        // 错误
+        xxx.yyy;
+        xxx->yyy;
+        // 正确
+        xxx.template yyy;
+        xxx->template yyy;
+        ```
+
+    - 当代码中存在`xxx::yyy`形式，且`xxx`为从属名，`yyy`为类型名时，应在表达式整体前使用`typename`关键字显式指定：
+
+        ```cpp
+        // 错误
+        xxx::yyy;
+        // 正确
+        typename xxx::yyy;
+        ```
+
+### Eigen中的混淆问题
+
+1. 混淆问题（aliasing）指的是在赋值表达式中`Matrix`类或`Array`类的同一个对象同时出现在赋值运算符两侧的情况，部分情况下影响计算结果的正确性：
+
+    ```cpp
+    MatrixXi mat(3, 3);
+    mat << 1, 2, 3,
+           4, 5, 6,
+           7, 8, 9;
+    // 不影响计算结果的正确性
+    mat = 2 * mat;
+    // 影响计算结果的正确性
+    mat = mat.transpose();
+    mat.bottomRightCorner(2, 2) = mat.topLeftCorner(2, 2);
+    vec = vec.head(n);
+    ```
+
+2. Eigen默认使用运行时断言（run-time assertion）检测混淆问题，运行时断言可以通过在编译时定义`EIGEN_NO_DEBUG`宏进行关闭；
+3. 可以使用以下两种方法解决混淆问题：
+
+    - 使用`eval()`成员函数将等号右值保存为临时变量，在赋值时进行拷贝构造：
+
+        ```cpp
+        mat = mat.transpose().eval();
+        mat.bottomRightCorner(2, 2) = mat.topLeftCorner(2, 2).eval();
+        ```
+
+    - 使用为应对混淆问题特殊定义的成员函数：
+
+        ```cpp
+        // 相比于使用eval()成员函数速度更快
+        mat = mat.transposeInPlace();
+        mat = mat.adjointInPlace();
+        mat = mat.reverseInPlace();
+        // 对于缩小大小引起的混淆问题，使用conservativeResize()成员函数
+        vec.conservativeResize(n);
+        ```
+
+### Eigen中的内存对齐问题
+
+#### 内存对齐与向量化运算
 
 1. 内存对齐是向量化运算（vectorization）的前提；
 2. 向量化运算指的是使用单指令多数据流（Single Instruction Multiple Data，SIMD）指令集，实现一条指令对多个操作数的运算，进而实现运算加速；
 3. 常用的SIMD指令集包括SSE（Streaming SIMD Extensions）、AVX（ Advanced Vector Extensions）等，其中SSE的操作数要求16字节对齐，AVX的操作数要求32字节对齐；
 
-### 固定大小可向量化的Eigen对象
+#### 固定大小可向量化的Eigen对象
 
 1. Eigen将编译时大小固定，并且大小是16字节的整数倍的对象称为固定大小可向量化的（fixed-size vectorizable），主要包括：
 
@@ -679,7 +771,7 @@ Vector3d trans = trans1 + ratio * (trans2 - trans1);
 
 2. 目前向量化运算支持128位数据包（例如SSE、AltiVec）、256位数据包（例如AVX）、512位数据包（例如AVX512），分别对应16字节、32字节、64字节，对于这些大小的数据包读写效率最高，因此对于固定大小可向量化的Eigen对象进行内存对齐有利于提高运算效率；
 
-### 包含Eigen对象的类和结构体
+#### 包含Eigen对象的类和结构体
 
 1. 对于包含固定大小可向量化的Eigen对象的类和结构体，如果需要使用`new`关键字进行动态内存分配，则需要将宏`EIGEN_MAKE_ALIGNED_OPERATOR_NEW`声明为类和结构体的公有成员，这样在动态内存分配时会自动进行内存对齐：
 
@@ -750,7 +842,7 @@ Vector3d trans = trans1 + ratio * (trans2 - trans1);
         };
         ```
 
-### 包含Eigen对象的STL容器
+#### 包含Eigen对象的STL容器
 
 1. 对于包含固定大小可向量化的Eigen对象的STL容器，需要使用Eigen定义的超出默认对齐尺寸的堆内存管理器（over-aligned allocator）`aligned_allocator`进行内存对齐：
 
@@ -784,7 +876,7 @@ Vector3d trans = trans1 + ratio * (trans2 - trans1);
     - 如果使用C++11以后的标准进行编译则不需要上述操作，因为C++11标准修复了之前标准中`std::vector`存在的问题；
     - 优点是不需要在多处指定Eigen定义的堆内存管理器`aligned_allocator`，缺点是需要在每次声明`std::vector`前声明宏`EIGEN_DEFINE_STL_VECTOR_SPECIALIZATION`，否则会使用默认堆内存管理器`std::allocator`造成程序崩溃；
 
-### 将Eigen对象作为函数参数传递
+#### 将Eigen对象作为函数参数传递
 
 1. 从C++的角度，不建议使用值传递，因为会调用拷贝构造函数，对于大对象较为耗时，建议使用引用传递，如果不需要修改函数参数，建议使用常引用传递；
 2. 从Eigen的角度，在将固定大小可向量化的Eigen对象作为函数参数传递时，不能使用值传递，应当使用引用传递，如果不需要修改函数参数，建议使用常引用传递；
@@ -806,7 +898,7 @@ Vector3d trans = trans1 + ratio * (trans2 - trans1);
     - 原因是在值传递的过程中不考虑Eigen对象的内存对齐修饰符（alignment modifier）；
     - Eigen对象作为函数返回值不受影响；
 
-## Eigen中的C++11`auto`关键字问题
+### C++11中的`auto`关键字
 
 不建议在Eigen表达式中使用`auto`关键字，特别是不要使用`auto`关键字代替`Matrix`类，部分情况下存在未定义行为：
 
@@ -856,40 +948,100 @@ Vector3d trans = trans1 + ratio * (trans2 - trans1);
         // do something with C
         ```
 
-4. 解决方案是对于表达式整体调用`eval()`成员函数，返回确定类型的表达式的值，如果对于一个`Matrix`类的对象调用该函数则返回常引用以避免无用拷贝；
+4. 上述问题产生的根本原因是Eigen使用了惰性求值策略，将在后文中详述；
+5. 解决方案是对于表达式整体调用`eval()`成员函数，返回确定类型的表达式的值；
 
-## 参考
+### Eigen中的惰性求值问题
+
+1. 惰性求值（lazy evaluation）指的是在需要使用表达式的值的时候再计算表达式的值，是一种求值策略，与之相对的是及早求值（eager evaluation）；
+2. 基于表达式模板（expression-template-based）的库可以使用惰性求值策略，从而避免将子表达式求值为临时变量，在大多数情况下可以极大提高运行速度；
+3. Eigen中的所有表达式都是惰性求值的，对于表达式整体的求值仅发生在将表达式赋值给变量时，在此之前仅构建抽象表达式树（abstract expression tree），其目的是尽可能避免临时变量在计算和拷贝过程中重复遍历内存空间；
+4. Eigen具有智能编译时（compile-time）机制，会将部分子表达式提前求值为临时变量：
+
+    - 主要是考虑到以下两种原因：
+
+        - 纯惰性求值在部分情况下影响计算性能；
+        - 纯惰性求值在部分情况下影响计算结果的正确性；
+
+    - 具体包括以下三种情况：
+
+        - 具有赋值表达式`a = b`的形式，其中表达式`b`具有赋值前求值标志（evaluate-before-assigning flag），例如矩阵乘法：
+
+            ```cpp
+            // 此时惰性求值影响计算结果的正确性
+            mat = mat * mat;                    // (mat * mat)被求值为临时变量
+            // 此时惰性求值不影响计算结果的正确性
+            // noalias()成员函数可以屏蔽赋值前求值标志，强制惰性求值
+            mat1.noalias() = mat2 * mat2;
+            ```
+
+        - 具有嵌套表达式`a + b`的形式，其中表达式`b`具有嵌套前求值标志（evaluate-before-nesting flag），例如矩阵乘法：
+
+            ```cpp
+            mat1 = mat2 * mat3 + mat4 * mat5;   // (mat2 * mat3)、(mat4 * mat5)被求值为临时变量
+            ```
+
+        - 成本模型显示将子表达式求值为临时变量后操作的总成本降低，例如计算成本较高并且被多次重复使用的中间结果：
+
+            ```cpp
+            mat1 = mat2 * (mat3 + mat4);        // (mat3 + mat4)被求值为临时变量
+            ```
+
+5. Eigen提供了成员函数用于手动覆盖默认行为：
+
+    ```cpp
+    // 用于等号右值，立即计算表达式的值
+    // 对于非表达式的Matrix类对象返回常引用，避免无用拷贝
+    // 应慎重与C++11的auto关键字一起使用
+    eval()      // force immediate evaluation
+    // 用于等号左值，保持抽象表达式树，不计算表达式的值
+    // 屏蔽赋值前求值标志，目前仅有矩阵乘法具有该标志，因此仅对矩阵乘法有效
+    // 当Matrix类或Array类的同一个对象同时出现在赋值运算符两侧时不能使用，必须立即求值
+    noalias()   // force lazy evaluation
+    ```
+
+## 资料
+
+### 网站
 
 1. [Eigen: Main Page](https://eigen.tuxfamily.org/dox/)
 2. [[QuickRef] Dense matrix and array manipulations](https://eigen.tuxfamily.org/dox/group__QuickRefPage.html)
 3. [[QuickRef] Sparse linear algebra](https://eigen.tuxfamily.org/dox/group__SparseQuickRefPage.html)
 4. [Eigen short ASCII reference](https://eigen.tuxfamily.org/dox/AsciiQuickReference.txt)
-5. [zxl19/Eigen-Cheatsheet](https://github.com/zxl19/Eigen-Cheatsheet)
-6. [gaoxiang12/slambook](https://github.com/gaoxiang12/slambook)
-7. [gaoxiang12/slambook2](https://github.com/gaoxiang12/slambook2)
-8. [qixianyu-buaa/EigenChineseDocument](https://github.com/qixianyu-buaa/EigenChineseDocument)
-9. [Catalogue of dense decompositions](https://eigen.tuxfamily.org/dox/group__TopicLinearAlgebraDecompositions.html)
-10. [Linear algebra and decompositions](https://eigen.tuxfamily.org/dox/group__TutorialLinearAlgebra.html)
-11. [Benchmark of dense decompositions](https://eigen.tuxfamily.org/dox/group__DenseDecompositionBenchmark.html)
-12. [Solving linear least squares systems](http://www.eigen.tuxfamily.org/dox/group__LeastSquares.html)
-13. [LU分解、LDLT分解和Cholesky分解-CSDN博客](https://blog.csdn.net/zhouliyang1990/article/details/21952485)
-14. [奇异值分解（SVD）-漫漫成长的文章-知乎](https://zhuanlan.zhihu.com/p/29846048)
-15. [SVD-CSDN博客](https://blog.csdn.net/jiang_he_hu_hai/article/details/78363642)
-16. [四元数归一化1-Stack Overflow](https://stackoverflow.com/questions/48019329/difference-between-norm-normalize-and-normalized-in-eigen)
-17. [四元数归一化2-CSDN博客](https://blog.csdn.net/m0_56348460/article/details/117386857)
-18. [四元数的球面线性插值（slerp）-一条放浪不羁的爬虫的文章-知乎](https://zhuanlan.zhihu.com/p/538653027)
-19. [机械臂如何实现笛卡尔空间中姿态的插值？-fly qq的回答-知乎](https://www.zhihu.com/question/22910238/answer/1096183240)
-20. [机械臂如何实现笛卡尔空间中姿态的插值？-桂凯的回答-知乎](https://www.zhihu.com/question/22910238/answer/1098345012)
-21. [旋转矩阵归一化1-Stack Overflow](https://stackoverflow.com/questions/21761909/eigen-convert-matrix3d-rotation-to-quaternion)
-22. [旋转矩阵归一化2-Stack Overflow](https://stackoverflow.com/questions/43896041/eigen-matrix-to-quaternion-and-back-have-different-result)
-23. [Common pitfalls](https://eigen.tuxfamily.org/dox/TopicPitfalls.html)
-24. [Aliasing](http://www.eigen.tuxfamily.org/dox/group__TopicAliasing.html)
-25. [Alignement issues](https://eigen.tuxfamily.org/dox/group__DenseMatrixManipulation__Alignement.html)
-26. [向量化运算-CSDN博客](https://blog.csdn.net/weixin_38251332/article/details/120308863)
-27. [Eigen内存对齐1-CSDN博客](https://blog.csdn.net/shyjhyp11/article/details/123208279)
-28. [Eigen内存对齐2-CSDN博客](https://blog.csdn.net/shyjhyp11/article/details/123204444)
-29. [从Eigen向量化谈内存对齐-王金戈的文章-知乎](https://zhuanlan.zhihu.com/p/93824687)
-30. [Eigen内存对齐-卷儿的文章-知乎](https://zhuanlan.zhihu.com/p/349413376)
-31. [Lazy Evaluation and Aliasing](http://www.eigen.tuxfamily.org/dox/TopicLazyEvaluation.html)
-32. [eager evaluation (及早求值) & lazy evaluation (惰性求值)-CSDN博客](https://blog.csdn.net/JNingWei/article/details/80047122)
-33. [noalias()-CSDN博客](https://blog.csdn.net/weixin_30550081/article/details/95276173)
+5. [eigen/Cookbook-ROS Wiki](http://wiki.ros.org/eigen/Cookbook)
+
+### GitHub
+
+1. [gaoxiang12/slambook](https://github.com/gaoxiang12/slambook)
+2. [gaoxiang12/slambook2](https://github.com/gaoxiang12/slambook2)
+3. [qixianyu-buaa/EigenChineseDocument](https://github.com/qixianyu-buaa/EigenChineseDocument)
+4. [zxl19/Eigen-Cheatsheet](https://github.com/zxl19/Eigen-Cheatsheet)
+
+## 参考
+
+1. [Catalogue of dense decompositions](https://eigen.tuxfamily.org/dox/group__TopicLinearAlgebraDecompositions.html)
+2. [Linear algebra and decompositions](https://eigen.tuxfamily.org/dox/group__TutorialLinearAlgebra.html)
+3. [Benchmark of dense decompositions](https://eigen.tuxfamily.org/dox/group__DenseDecompositionBenchmark.html)
+4. [Solving linear least squares systems](http://www.eigen.tuxfamily.org/dox/group__LeastSquares.html)
+5. [LU分解、LDLT分解和Cholesky分解-CSDN博客](https://blog.csdn.net/zhouliyang1990/article/details/21952485)
+6. [奇异值分解（SVD）-漫漫成长的文章-知乎](https://zhuanlan.zhihu.com/p/29846048)
+7. [SVD-CSDN博客](https://blog.csdn.net/jiang_he_hu_hai/article/details/78363642)
+8. [四元数归一化1-Stack Overflow](https://stackoverflow.com/questions/48019329/difference-between-norm-normalize-and-normalized-in-eigen)
+9. [四元数归一化2-CSDN博客](https://blog.csdn.net/m0_56348460/article/details/117386857)
+10. [四元数的球面线性插值（slerp）-一条放浪不羁的爬虫的文章-知乎](https://zhuanlan.zhihu.com/p/538653027)
+11. [机械臂如何实现笛卡尔空间中姿态的插值？-fly qq的回答-知乎](https://www.zhihu.com/question/22910238/answer/1096183240)
+12. [机械臂如何实现笛卡尔空间中姿态的插值？-桂凯的回答-知乎](https://www.zhihu.com/question/22910238/answer/1098345012)
+13. [旋转矩阵归一化1-Stack Overflow](https://stackoverflow.com/questions/21761909/eigen-convert-matrix3d-rotation-to-quaternion)
+14. [旋转矩阵归一化2-Stack Overflow](https://stackoverflow.com/questions/43896041/eigen-matrix-to-quaternion-and-back-have-different-result)
+15. [Common pitfalls](https://eigen.tuxfamily.org/dox/TopicPitfalls.html)
+16. [The template and typename keywords in C++](https://eigen.tuxfamily.org/dox/TopicTemplateKeyword.html)
+17. [Aliasing](http://www.eigen.tuxfamily.org/dox/group__TopicAliasing.html)
+18. [Alignement issues](https://eigen.tuxfamily.org/dox/group__DenseMatrixManipulation__Alignement.html)
+19. [向量化运算-CSDN博客](https://blog.csdn.net/weixin_38251332/article/details/120308863)
+20. [Eigen内存对齐1-CSDN博客](https://blog.csdn.net/shyjhyp11/article/details/123208279)
+21. [Eigen内存对齐2-CSDN博客](https://blog.csdn.net/shyjhyp11/article/details/123204444)
+22. [从Eigen向量化谈内存对齐-王金戈的文章-知乎](https://zhuanlan.zhihu.com/p/93824687)
+23. [Eigen内存对齐-卷儿的文章-知乎](https://zhuanlan.zhihu.com/p/349413376)
+24. [Lazy Evaluation and Aliasing](http://www.eigen.tuxfamily.org/dox/TopicLazyEvaluation.html)
+25. [eager evaluation (及早求值) & lazy evaluation (惰性求值)-CSDN博客](https://blog.csdn.net/JNingWei/article/details/80047122)
+26. [noalias()-CSDN博客](https://blog.csdn.net/weixin_30550081/article/details/95276173)
