@@ -62,18 +62,34 @@ C++学习资料存档。
 5. [PickNikRobotics/roscpp_code_format](https://github.com/PickNikRobotics/roscpp_code_format)
 6. [XiaotaoGuo/Effective-Cpp-Reading-Note](https://github.com/XiaotaoGuo/Effective-Cpp-Reading-Note)
 
-## 其他网站
+## 网站
+
+### 教程
+
+1. [C++教程-菜鸟教程](https://www.runoob.com/cplusplus/cpp-tutorial.html)
+2. [C语言中文网](http://c.biancheng.net)
+3. [C++ Tutorial-W3Schools](https://www.w3schools.com/cpp/default.asp)
+
+### 语法查询
+
+1. [cplusplus](http://www.cplusplus.com)
+2. [cppreference](https://en.cppreference.com/w/)
+3. [C/C++ Cheat Sheet](https://www.cppcheatsheet.com)
+4. [comp.lang.c Frequently Asked Questions](https://c-faq.com)
+
+### 代码规范
 
 1. [Google C++ Style Guide](https://google.github.io/styleguide/cppguide.html)
 2. [Google开源项目风格指南-C++](https://zh-google-styleguide.readthedocs.io/en/latest/google-cpp-styleguide/contents/)
 3. [C++ Core Guidelines](https://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines.html)
 4. [ROS C++ Style Guide-ROS Wiki](http://wiki.ros.org/CppStyleGuide)
-5. [cplusplus](http://www.cplusplus.com)
-6. [cppreference](https://en.cppreference.com/w/)
-7. [C/C++ Cheat Sheet](https://www.cppcheatsheet.com)
-8. [comp.lang.c Frequently Asked Questions](https://c-faq.com)
-9. [C++教程-菜鸟教程](https://www.runoob.com/cplusplus/cpp-tutorial.html)
-10. [C语言中文网](http://c.biancheng.net)
+
+### 在线编辑器
+
+1. [C++ Insights](https://cppinsights.io)
+2. [Online C/C++ Compiler](https://www.online-cpp.com)
+3. [C++ Shell](https://cpp.sh)
+4. [GDB online Debugger](https://www.onlinegdb.com)
 
 ## 书籍
 
@@ -88,3 +104,5 @@ C++学习资料存档。
 2. [学习C++，应该循序渐进的看哪些书？-嘉炜的回答-知乎](https://www.zhihu.com/question/20410487/answer/15055637)
 3. [有什么高质量的现代C++风格的开源代码?-夏天的回答-知乎](https://www.zhihu.com/question/23153437/answer/1962068242)
 4. [ClangFormatStyleOptions](https://clang.llvm.org/docs/ClangFormatStyleOptions.html)
+5. [andreasfertig/cppinsights](https://github.com/andreasfertig/cppinsights)
+6. [推荐10款C++在线编译器-CSDN博客](https://blog.csdn.net/cool99781/article/details/104516581)

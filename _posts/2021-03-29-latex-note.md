@@ -754,13 +754,20 @@ int main()
 
 #### LaTeX数学公式
 
+##### 数学符号
+
 1. [常用数学符号的LaTeX表示方法](https://mohu.org/info/symbols/symbols.htm)
 2. [LaTeX Mathematical Symbols-Rice University](https://www.caam.rice.edu/~heinken/latex/symbols.pdf)
 3. [Detexify](http://detexify.kirelabs.org/classify.html)
-4. [公式王](https://gongshi.wang)
-5. [wch/latexsheet](https://github.com/wch/latexsheet)
-6. [LaTeX在线：吴文中数学公式编辑器](https://latex.91maths.com)
-7. [blaisewang/img2latex-mathpix](https://github.com/blaisewang/img2latex-mathpix)
+
+##### 公式编辑器
+
+1. [LaTeX公式编辑器](https://www.latexlive.com)
+2. [Equation Editor](https://editor.codecogs.com)
+3. [在线LaTeX公式编辑器](https://latex.codecogs.com/eqneditor/editor.php?lang=zh-cn)
+4. [LaTeX在线：吴文中数学公式编辑器](https://latex.91maths.com)
+5. [公式王](https://gongshi.wang)
+6. [blaisewang/img2latex-mathpix](https://github.com/blaisewang/img2latex-mathpix)
 
 #### Word数学公式
 
@@ -771,6 +778,7 @@ int main()
 #### 表格
 
 1. [Tables Generator](https://www.tablesgenerator.com)
+2. [excel2latex-CTAN](https://www.ctan.org/tex-archive/support/excel2latex)
 
 #### 字体
 
@@ -815,6 +823,7 @@ int main()
 6. [tuna/thulib-latex-talk](https://github.com/tuna/thulib-latex-talk)
 7. [oetiker/lshort](https://github.com/oetiker/lshort)
 8. [huangxg/lnotes](https://github.com/huangxg/lnotes)
+9. [wch/latexsheet](https://github.com/wch/latexsheet)
 
 ##### 模板
 
@@ -901,5 +910,6 @@ int main()
 36. [参考文献3-Stack Exchange](https://tex.stackexchange.com/questions/99615/backref-package-for-page-reference)
 37. [参考文献4-CSDN博客](https://blog.csdn.net/xovee/article/details/109715706)
 38. [参考文献5-CSDN博客](https://blog.csdn.net/xovee/article/details/109896563)
-39. [LaTeX公式转Word公式-简书](https://www.jianshu.com/p/0947ebcfc42e)
-40. [截至目前LaTeX入门最好资料-我是科研小秘书的文章-知乎](https://zhuanlan.zhihu.com/p/585513318)
+39. [LaTeX写作工具-平凡的文章-知乎](https://zhuanlan.zhihu.com/p/362505439)
+40. [LaTeX公式转Word公式-简书](https://www.jianshu.com/p/0947ebcfc42e)
+41. [截至目前LaTeX入门最好资料-我是科研小秘书的文章-知乎](https://zhuanlan.zhihu.com/p/585513318)

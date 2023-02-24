@@ -40,6 +40,14 @@ The main repository serves as a curated list of awesome lists.
 1. [vinta/awesome-python](https://github.com/vinta/awesome-python)
 2. [jobbole/awesome-python-cn](https://github.com/jobbole/awesome-python-cn)
 
+## 速查表
+
+1. [LeCoupa/awesome-cheatsheets](https://github.com/LeCoupa/awesome-cheatsheets)
+2. [skywind3000/awesome-cheatsheets](https://github.com/skywind3000/awesome-cheatsheets)
+3. [detailyang/awesome-cheatsheet](https://github.com/detailyang/awesome-cheatsheet)
+4. [wx-chevalier/Awesome-CheatSheets](https://github.com/wx-chevalier/Awesome-CheatSheets)
+5. [dennyzhang/cheatsheet.dennyzhang.com](https://github.com/dennyzhang/cheatsheet.dennyzhang.com)
+
 ## SLAM相关
 
 ### 机器人学
