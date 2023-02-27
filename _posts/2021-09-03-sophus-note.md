@@ -47,13 +47,17 @@ Sophus::SO3d SO3_inv = SO3.inverse();           // 取李群逆
 Eigen::Matrix3d R = SO3.matrix();               // 取旋转矩阵
 Eigen::Quaterniond q = SO3.unit_quaternion();   // 取单位四元数
 
-// 取欧拉角，单位为弧度
-double euler_x = SO3.angleX();                  // 围绕x轴旋转的欧拉角，即滚转角（roll）
-double euler_y = SO3.angleY();                  // 围绕y轴旋转的欧拉角，即俯仰角（pitch）
-double euler_z = SO3.angleZ();                  // 围绕z轴旋转的欧拉角，即偏航角（yaw）
+// 提取围绕固定坐标轴的旋转角，单位为弧度
+// 符合外旋欧拉角的定义，常用于组合导航设备
+double euler_x = SO3.angleX();                  // 围绕x轴的旋转角
+double euler_y = SO3.angleY();                  // 围绕y轴的旋转角
+double euler_z = SO3.angleZ();                  // 围绕z轴的旋转角
 
 // 通过欧拉角构造Sophus::SO3d，旋转顺序为ZYX，单位为弧度
-SO3 = SO3d::rotX(euler_x) * SO3d::rotY(euler_y) * SO3d::rotZ(euler_z);
+// 内旋欧拉角，右乘
+SO3 = SO3d::rotZ(yaw_rad) * SO3d::rotY(pitch_rad) * SO3d::rotX(roll_rad);
+// 外旋欧拉角，左乘
+SO3 = SO3d::rotX(roll_rad) * SO3d::rotY(pitch_rad) * SO3d::rotZ(yaw_rad);
 
 // 使用对数映射获得李代数
 Eigen::Vector3d so3 = SO3.log();

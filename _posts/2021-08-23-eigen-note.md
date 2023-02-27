@@ -545,16 +545,28 @@ Vector3d v_rotated = rotation_matrix * v;
 
 #### 欧拉角
 
+在使用欧拉角表示旋转时，存在内旋（intrinsic rotation）和外旋（extrinsic rotation）的区别：
+
+1. 内旋也被称为旋转轴（rotated axis），此时每个欧拉角表示相对于上一次旋转后的坐标轴的旋转，在按照旋转顺序相乘时需要右乘，Eigen中采用了这样的表示方式；
+2. 外旋也被称为固定轴（fixed axis），此时每个欧拉角表示相对于固定坐标轴的旋转，在按照旋转顺序相乘时需要左乘，组合导航领域中采用了这样的表示方式；
+3. 每种特定顺序的外旋等价于相反顺序的内旋；
+
 示例：
 
 ```cpp
-// 欧拉角转旋转矩阵，借助旋转向量
-AngleAxisd roll_vector(roll_rad, Vector3d::UnitX());
-AngleAxisd pitch_vector(pitch_rad, Vector3d::UnitY());
+// 旋转矩阵转欧拉角，单位为弧度
+// 旋转顺序为ZYX，即yaw-pitch-roll
+Vector3d euler_angles = rotation_matrix.eulerAngles(2, 1, 0);
+// 下标顺序对应指定旋转顺序中的欧拉角顺序
+double yaw_rad = euler_angle[0];
+double pitch_rad = euler_angle[1];
+double roll_rad = euler_angle[2];
+// 欧拉角转旋转矩阵，借助旋转向量，单位为弧度
 AngleAxisd yaw_vector(yaw_rad, Vector3d::UnitZ());
-Matrix3d rotation_matrix = (roll_vector * pitch_vector * yaw_vector).toRotationMatrix();
-// 旋转矩阵转欧拉角
-Vector3d euler_angles = rotation_matrix.eulerAngles(2, 1, 0);   // ZYX顺序，即yaw-pitch-roll顺序
+AngleAxisd pitch_vector(pitch_rad, Vector3d::UnitY());
+AngleAxisd roll_vector(roll_rad, Vector3d::UnitX());
+// 内旋在按照旋转顺序相乘时需要右乘
+Matrix3d rotation_matrix = (yaw_vector * pitch_vector * roll_vector).toRotationMatrix();
 ```
 
 #### 四元数
@@ -1026,22 +1038,26 @@ Vector3d trans = trans1 + ratio * (trans2 - trans1);
 5. [LU分解、LDLT分解和Cholesky分解-CSDN博客](https://blog.csdn.net/zhouliyang1990/article/details/21952485)
 6. [奇异值分解（SVD）-漫漫成长的文章-知乎](https://zhuanlan.zhihu.com/p/29846048)
 7. [SVD-CSDN博客](https://blog.csdn.net/jiang_he_hu_hai/article/details/78363642)
-8. [四元数归一化1-Stack Overflow](https://stackoverflow.com/questions/48019329/difference-between-norm-normalize-and-normalized-in-eigen)
-9. [四元数归一化2-CSDN博客](https://blog.csdn.net/m0_56348460/article/details/117386857)
-10. [四元数的球面线性插值（slerp）-一条放浪不羁的爬虫的文章-知乎](https://zhuanlan.zhihu.com/p/538653027)
-11. [机械臂如何实现笛卡尔空间中姿态的插值？-fly qq的回答-知乎](https://www.zhihu.com/question/22910238/answer/1096183240)
-12. [机械臂如何实现笛卡尔空间中姿态的插值？-桂凯的回答-知乎](https://www.zhihu.com/question/22910238/answer/1098345012)
-13. [旋转矩阵归一化1-Stack Overflow](https://stackoverflow.com/questions/21761909/eigen-convert-matrix3d-rotation-to-quaternion)
-14. [旋转矩阵归一化2-Stack Overflow](https://stackoverflow.com/questions/43896041/eigen-matrix-to-quaternion-and-back-have-different-result)
-15. [Common pitfalls](https://eigen.tuxfamily.org/dox/TopicPitfalls.html)
-16. [The template and typename keywords in C++](https://eigen.tuxfamily.org/dox/TopicTemplateKeyword.html)
-17. [Aliasing](http://www.eigen.tuxfamily.org/dox/group__TopicAliasing.html)
-18. [Alignement issues](https://eigen.tuxfamily.org/dox/group__DenseMatrixManipulation__Alignement.html)
-19. [向量化运算-CSDN博客](https://blog.csdn.net/weixin_38251332/article/details/120308863)
-20. [Eigen内存对齐1-CSDN博客](https://blog.csdn.net/shyjhyp11/article/details/123208279)
-21. [Eigen内存对齐2-CSDN博客](https://blog.csdn.net/shyjhyp11/article/details/123204444)
-22. [从Eigen向量化谈内存对齐-王金戈的文章-知乎](https://zhuanlan.zhihu.com/p/93824687)
-23. [Eigen内存对齐-卷儿的文章-知乎](https://zhuanlan.zhihu.com/p/349413376)
-24. [Lazy Evaluation and Aliasing](http://www.eigen.tuxfamily.org/dox/TopicLazyEvaluation.html)
-25. [eager evaluation (及早求值) & lazy evaluation (惰性求值)-CSDN博客](https://blog.csdn.net/JNingWei/article/details/80047122)
-26. [noalias()-CSDN博客](https://blog.csdn.net/weixin_30550081/article/details/95276173)
+8. [欧拉角细节/旋转顺序/内旋外旋-能儿的文章-知乎](https://zhuanlan.zhihu.com/p/85108850)
+9. [欧拉角和旋转矩阵之间的转换-江南古镇的文章-知乎](https://zhuanlan.zhihu.com/p/144032401)
+10. [内旋外旋证明-Stack Exchange](https://math.stackexchange.com/questions/1137745/proof-of-the-extrinsic-to-intrinsic-rotation-transform)
+11. [三维旋转：欧拉角、四元数、旋转矩阵、轴角之间的转换-鸡哥的文章-知乎](https://zhuanlan.zhihu.com/p/45404840)
+12. [四元数归一化1-Stack Overflow](https://stackoverflow.com/questions/48019329/difference-between-norm-normalize-and-normalized-in-eigen)
+13. [四元数归一化2-CSDN博客](https://blog.csdn.net/m0_56348460/article/details/117386857)
+14. [四元数的球面线性插值（slerp）-一条放浪不羁的爬虫的文章-知乎](https://zhuanlan.zhihu.com/p/538653027)
+15. [机械臂如何实现笛卡尔空间中姿态的插值？-fly qq的回答-知乎](https://www.zhihu.com/question/22910238/answer/1096183240)
+16. [机械臂如何实现笛卡尔空间中姿态的插值？-桂凯的回答-知乎](https://www.zhihu.com/question/22910238/answer/1098345012)
+17. [旋转矩阵归一化1-Stack Overflow](https://stackoverflow.com/questions/21761909/eigen-convert-matrix3d-rotation-to-quaternion)
+18. [旋转矩阵归一化2-Stack Overflow](https://stackoverflow.com/questions/43896041/eigen-matrix-to-quaternion-and-back-have-different-result)
+19. [Common pitfalls](https://eigen.tuxfamily.org/dox/TopicPitfalls.html)
+20. [The template and typename keywords in C++](https://eigen.tuxfamily.org/dox/TopicTemplateKeyword.html)
+21. [Aliasing](http://www.eigen.tuxfamily.org/dox/group__TopicAliasing.html)
+22. [Alignement issues](https://eigen.tuxfamily.org/dox/group__DenseMatrixManipulation__Alignement.html)
+23. [向量化运算-CSDN博客](https://blog.csdn.net/weixin_38251332/article/details/120308863)
+24. [Eigen内存对齐1-CSDN博客](https://blog.csdn.net/shyjhyp11/article/details/123208279)
+25. [Eigen内存对齐2-CSDN博客](https://blog.csdn.net/shyjhyp11/article/details/123204444)
+26. [从Eigen向量化谈内存对齐-王金戈的文章-知乎](https://zhuanlan.zhihu.com/p/93824687)
+27. [Eigen内存对齐-卷儿的文章-知乎](https://zhuanlan.zhihu.com/p/349413376)
+28. [Lazy Evaluation and Aliasing](http://www.eigen.tuxfamily.org/dox/TopicLazyEvaluation.html)
+29. [eager evaluation (及早求值) & lazy evaluation (惰性求值)-CSDN博客](https://blog.csdn.net/JNingWei/article/details/80047122)
+30. [noalias()-CSDN博客](https://blog.csdn.net/weixin_30550081/article/details/95276173)
