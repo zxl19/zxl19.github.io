@@ -79,6 +79,7 @@ pinned: false
 6. [【DPReview 4K】受损的镜头会如何影响画质（灰尘、液体、指印和划痕）](https://www.bilibili.com/video/BV1za4y1Y75V)
 7. [【DPReview 4K】如何清洁（毁灭）你的镜头](https://www.bilibili.com/video/BV1Bz4y1Q7PZ)
 8. [【DPReview】如何清洁（毁灭）你的相机传感器](https://www.bilibili.com/video/BV1MY4y1b7Uh)
+9. [CMOS能清洁吗？3分钟学会正确的传感器清洁方法！](https://www.bilibili.com/video/BV1g84y1J7Dt)
 
 ## 相机品牌选择
 
