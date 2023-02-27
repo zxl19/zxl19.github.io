@@ -6,7 +6,7 @@ author: zxl19
 tags: [LaTeX, Note]
 comments: true
 toc: true
-pinned: true
+pinned: false
 ---
 
 我的$\LaTeX$使用笔记及格式约定。

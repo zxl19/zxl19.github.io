@@ -6,7 +6,7 @@ author: zxl19
 tags: [C++, Eigen, Note]
 comments: true
 toc: true
-pinned: true
+pinned: false
 ---
 
 我的Eigen库使用笔记。
