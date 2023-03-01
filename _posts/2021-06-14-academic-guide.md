@@ -29,13 +29,14 @@ pinned: false
 ## GitHub
 
 1. [jbhuang0604/awesome-tips](https://github.com/jbhuang0604/awesome-tips)
-2. [shengyp/doing_the_PhD](https://github.com/shengyp/doing_the_PhD)
-3. [JunweiLiang/awesome_lists](https://github.com/JunweiLiang/awesome_lists)
-4. [macoj/phd](https://github.com/macoj/phd)
-5. [zheng95z/teach-yourself-research](https://github.com/zheng95z/teach-yourself-research)
+2. [bighuang624/AI-research-tools](https://github.com/bighuang624/AI-research-tools)
+3. [shengyp/doing_the_PhD](https://github.com/shengyp/doing_the_PhD)
+4. [JunweiLiang/awesome_lists](https://github.com/JunweiLiang/awesome_lists)
+5. [macoj/phd](https://github.com/macoj/phd)
 6. [alirezasamar/awesome-phd](https://github.com/alirezasamar/awesome-phd)
-7. [yufree/sciguide](https://github.com/yufree/sciguide)
-8. [weisongwen/researchTools](https://github.com/weisongwen/researchTools)
+7. [zheng95z/teach-yourself-research](https://github.com/zheng95z/teach-yourself-research)
+8. [yufree/sciguide](https://github.com/yufree/sciguide)
+9. [weisongwen/researchTools](https://github.com/weisongwen/researchTools)
 
 ## 参考
 

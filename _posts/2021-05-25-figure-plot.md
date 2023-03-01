@@ -43,7 +43,8 @@ pinned: false
 #### GitHub
 
 1. [Pjer-zhang/matlabPlotCheatsheet](https://github.com/Pjer-zhang/matlabPlotCheatsheet)
-2. [LimHyungTae/paper_quality_plot.matlab](https://github.com/LimHyungTae/paper_quality_plot.matlab)
+2. [xinychen/academic-drawing](https://github.com/xinychen/academic-drawing)
+3. [LimHyungTae/paper_quality_plot.matlab](https://github.com/LimHyungTae/paper_quality_plot.matlab)
 
 #### 图片示例
 

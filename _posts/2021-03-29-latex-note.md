@@ -757,8 +757,9 @@ int main()
 ##### 数学符号
 
 1. [常用数学符号的LaTeX表示方法](https://mohu.org/info/symbols/symbols.htm)
-2. [LaTeX Mathematical Symbols-Rice University](https://www.caam.rice.edu/~heinken/latex/symbols.pdf)
-3. [Detexify](http://detexify.kirelabs.org/classify.html)
+2. [List of LaTeX mathematical symbols-OeisWiki](https://oeis.org/wiki/List_of_LaTeX_mathematical_symbols)
+3. [LaTeX Mathematical Symbols-Rice University](https://www.caam.rice.edu/~heinken/latex/symbols.pdf)
+4. [Detexify](http://detexify.kirelabs.org/classify.html)
 
 ##### 公式编辑器
 
@@ -769,11 +770,13 @@ int main()
 5. [公式王](https://gongshi.wang)
 6. [blaisewang/img2latex-mathpix](https://github.com/blaisewang/img2latex-mathpix)
 
-#### Word数学公式
+#### Office数学公式
 
-1. [LatexToMathML](http://web.xiaoyv.top/web/LatexToMathML)
+1. [LatexToMathML](https://web.xiaoyv.com.cn/h5/LatexToMathML/index.html)
 2. [LaTeX to MathML](https://osanshouo.github.io/latex2mathml-web/index.html)
-3. [idf/LaTex2Word-Equation](https://github.com/idf/LaTex2Word-Equation)
+3. [IguanaTex](http://www.jonathanleroux.org/software/iguanatex/)
+4. [idf/LaTex2Word-Equation](https://github.com/idf/LaTex2Word-Equation)
+5. [xiaoyvyv/LatexToMathML](https://github.com/xiaoyvyv/LatexToMathML)
 
 #### 表格
 
