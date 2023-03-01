@@ -1,15 +1,15 @@
 ---
 layout: post
-title: 服务器使用笔记
+title: 在Ubuntu系统中使用服务器
 date: 2022-07-12
 author: zxl19
-tags: [Server, Note]
+tags: [Ubuntu, Note]
 comments: true
 toc: true
 pinned: false
 ---
 
-我的服务器使用笔记，服务器IP地址以`192.168.1.1`为例。
+记录一下如何在Ubuntu系统中使用服务器，服务器IP地址以`192.168.1.1`为例。
 
 <!-- more -->
 

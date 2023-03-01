@@ -555,8 +555,9 @@ Vector3d v_rotated = rotation_matrix * v;
 
 ```cpp
 // 旋转矩阵转欧拉角，单位为弧度
-// 旋转顺序为ZYX，即yaw-pitch-roll
-Vector3d euler_angles = rotation_matrix.eulerAngles(2, 1, 0);
+// 输入参数为指定的旋转顺序，0、1、2分别代表x轴、y轴、z轴
+// 输出参数为指定旋转顺序的欧拉角，范围分别为[0, pi]、[-pi, pi]、[-pi, pi]
+Vector3d euler_angles = rotation_matrix.eulerAngles(2, 1, 0);   // 旋转顺序为ZYX，即yaw-pitch-roll
 // 下标顺序对应指定旋转顺序中的欧拉角顺序
 double yaw_rad = euler_angle[0];
 double pitch_rad = euler_angle[1];
