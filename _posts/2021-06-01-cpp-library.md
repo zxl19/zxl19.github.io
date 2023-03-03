@@ -235,3 +235,4 @@ pinned: false
 10. [有哪些值得推荐的小型C语言开源项目？-fanfan的回答-知乎](https://www.zhihu.com/question/20792016/answer/1982761892)
 11. [有什么高质量的C++单头文件库?-liulun的回答-知乎](https://www.zhihu.com/question/496257115/answer/2842977837)
 12. [有什么高质量的C++单头文件库?-芒果浩明的回答-知乎](https://www.zhihu.com/question/496257115/answer/2255551935)
+13. [全网唯一值得推荐的C/C++框架和库-C语言编程指南的文章-知乎](https://zhuanlan.zhihu.com/p/492392194)
