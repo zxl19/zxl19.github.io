@@ -221,6 +221,16 @@ pinned: false
 2. [MarcDirven/cpp-lazy](https://github.com/MarcDirven/cpp-lazy)
 3. [SaadAttieh/lazyCode](https://github.com/SaadAttieh/lazyCode)
 
+## 有限元
+
+1. [mfem/mfem](https://github.com/mfem/mfem)
+2. [dealii/dealii](https://github.com/dealii/dealii)
+3. [NGSolve/ngsolve](https://github.com/NGSolve/ngsolve)
+4. [halbux/sparselizard](https://github.com/halbux/sparselizard)
+5. [feelpp/feelpp](https://github.com/feelpp/feelpp)
+6. [M3Group/AsFem](https://github.com/M3Group/AsFem)
+7. [open-beam/openbeam](https://github.com/open-beam/openbeam)
+
 ## 参考
 
 1. [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp)
