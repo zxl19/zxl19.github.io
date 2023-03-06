@@ -13,7 +13,7 @@ pinned: false
 
 <!-- more -->
 
-## rostpic Hello World
+## rostopic Hello World
 
 1. `rostopic`命令行工具可以显示关于ROS话题的信息，包括话题列表、发布订阅信息、频率、带宽、消息内容等；
 2. 语法说明：

@@ -51,6 +51,7 @@ pinned: false
 3. [dair-ai/ml-visuals](https://github.com/dair-ai/ml-visuals)
 4. [ashishpatel26/Tools-to-Design-or-Visualize-Architecture-of-Neural-Network](https://github.com/ashishpatel26/Tools-to-Design-or-Visualize-Architecture-of-Neural-Network)
 5. [hackl/tikz-network](https://github.com/hackl/tikz-network)
+6. [ThomasRobertFr/deep-learning-figures](https://github.com/ThomasRobertFr/deep-learning-figures)
 
 ## 模型部署
 
