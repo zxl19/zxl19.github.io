@@ -15,7 +15,7 @@ pinned: false
 
 ## rosnode Hello World
 
-1. `rosnode`命令行工具可以显示关于ROS节点的调试信息，包括发布、订阅、连接信息等；
+1. `rosnode`命令行工具可以显示关于ROS节点（node）的调试信息，包括发布、订阅、连接信息等；
 2. 语法说明：
 
     ```shell
@@ -62,8 +62,8 @@ rosnode info [options] node1 [node2 ...]
 rosnode kill [options] [node1 [node2 ...]]
 ```
 
-1. 如果节点挂起，则可能无法杀死节点；
-2. 如果在`.roslaunch`文件中将节点的`respawn`属性设置为`true`（默认为`false`），则在杀死节点后可能重新出现：
+1. 如果节点挂起，则可能无法被杀死；
+2. 如果在`.roslaunch`文件中将节点的`respawn`属性设置为`true`（默认为`false`），则节点在被杀死后可能重新出现：
 
     ```xml
     <node name="bar1" pkg="foo_pkg" type="bar" args="--test" respawn="true" />
@@ -85,7 +85,7 @@ rosnode kill [options] [node1 [node2 ...]]
 rosnode list [options] [namespace]
 ```
 
-1. `namespace`参数表示只显示指定命名空间`/namespace`下的节点名，例如`/namespace/***`；
+`namespace`参数表示只显示指定命名空间`/namespace`中的节点名，例如`/namespace/***`；
 
 #### 选项含义
 

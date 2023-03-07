@@ -53,10 +53,29 @@ pinned: false
 5. [hackl/tikz-network](https://github.com/hackl/tikz-network)
 6. [ThomasRobertFr/deep-learning-figures](https://github.com/ThomasRobertFr/deep-learning-figures)
 
+## 自动机器学习
+
+1. [ray-project/ray](https://github.com/ray-project/ray)
+2. [microsoft/nni](https://github.com/microsoft/nni)
+3. [keras-team/autokeras](https://github.com/keras-team/autokeras)
+4. [automl/auto-sklearn](https://github.com/automl/auto-sklearn)
+5. [autogluon/autogluon](https://github.com/autogluon/autogluon)
+6. [kubeflow/katib](https://github.com/kubeflow/katib)
+
 ## 模型部署
 
+### 框架
+
 1. [google/mediapipe](https://github.com/google/mediapipe)
-2. [open-mmlab/mmdeploy](https://github.com/open-mmlab/mmdeploy)
+2. [Tencent/ncnn](https://github.com/Tencent/ncnn)
+3. [Tencent/TNN](https://github.com/Tencent/TNN)
+4. [open-mmlab/mmdeploy](https://github.com/open-mmlab/mmdeploy)
+
+### 剪枝
+
+1. [Tencent/PocketFlow](https://github.com/Tencent/PocketFlow)
+2. [tensorflow/model-optimization](https://github.com/tensorflow/model-optimization)
+3. [open-mmlab/mmrazor](https://github.com/open-mmlab/mmrazor)
 
 ## 参考
 
@@ -72,3 +91,4 @@ pinned: false
 10. [23款神经网络的设计和可视化工具（8.12 更新）-鑫鑫淼淼焱焱的文章-知乎](https://zhuanlan.zhihu.com/p/147462170)
 11. [科研作图的一些个人想法-高峰OUC的文章-知乎](https://zhuanlan.zhihu.com/p/603088040)
 12. [神经网络的宏包丝滑排版令人流连忘返-我是科研小秘书的文章-知乎](https://zhuanlan.zhihu.com/p/433142890)
+13. [如何评价亚马逊AI新开源自动机器学习项目AutoGluon?-mileistone的回答-知乎](https://www.zhihu.com/question/360250836/answer/1039923243)

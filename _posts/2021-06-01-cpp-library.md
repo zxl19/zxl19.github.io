@@ -76,10 +76,11 @@ pinned: false
 #### `.json`文件
 
 1. [nlohmann/json](https://github.com/nlohmann/json)
-2. [open-source-parsers/jsoncpp](https://github.com/open-source-parsers/jsoncpp)
-3. [kazuho/picojson](https://github.com/kazuho/picojson)
-4. [Nomango/configor](https://github.com/Nomango/configor)
-5. [taocpp/config](https://github.com/taocpp/config)
+2. [Tencent/rapidjson](https://github.com/Tencent/rapidjson)
+3. [open-source-parsers/jsoncpp](https://github.com/open-source-parsers/jsoncpp)
+4. [kazuho/picojson](https://github.com/kazuho/picojson)
+5. [Nomango/configor](https://github.com/Nomango/configor)
+6. [taocpp/config](https://github.com/taocpp/config)
 
 #### `.yaml`文件
 
@@ -125,13 +126,17 @@ pinned: false
 ## 机器学习&深度学习
 
 1. [BVLC/caffe](https://github.com/BVLC/caffe)
-2. [tiny-dnn/tiny-dnn](https://github.com/tiny-dnn/tiny-dnn)
-3. [plaidml/plaidml](https://github.com/plaidml/plaidml)
-4. [cjlin1/libsvm](https://github.com/cjlin1/libsvm)
-5. [flashlight/flashlight](https://github.com/flashlight/flashlight)
-6. [mlpack/mlpack](https://github.com/mlpack/mlpack)
-7. [arrayfire/arrayfire-ml](https://github.com/arrayfire/arrayfire-ml)
-8. [rockcarry/ffcnn](https://github.com/rockcarry/ffcnn)
+2. [pjreddie/darknet](https://github.com/pjreddie/darknet)
+3. [AlexeyAB/darknet](https://github.com/AlexeyAB/darknet)
+4. [tiny-dnn/tiny-dnn](https://github.com/tiny-dnn/tiny-dnn)
+5. [plaidml/plaidml](https://github.com/plaidml/plaidml)
+6. [cjlin1/libsvm](https://github.com/cjlin1/libsvm)
+7. [flashlight/flashlight](https://github.com/flashlight/flashlight)
+8. [mlpack/mlpack](https://github.com/mlpack/mlpack)
+9. [NVlabs/tiny-cuda-nn](https://github.com/NVlabs/tiny-cuda-nn)
+10. [yixuan/MiniDNN](https://github.com/yixuan/MiniDNN)
+11. [arrayfire/arrayfire-ml](https://github.com/arrayfire/arrayfire-ml)
+12. [rockcarry/ffcnn](https://github.com/rockcarry/ffcnn)
 
 ## 数学计算
 
@@ -141,9 +146,13 @@ pinned: false
 4. [strasdat/Sophus](https://github.com/strasdat/Sophus)
 5. [autodiff/autodiff](https://github.com/autodiff/autodiff)
 6. [davideberly/GeometricTools](https://github.com/davideberly/GeometricTools)
-7. [johnmcfarlane/cnl](https://github.com/johnmcfarlane/cnl)
-8. [romeric/Fastor](https://github.com/romeric/Fastor)
-9. [sikang/DecompUtil](https://github.com/sikang/DecompUtil)
+7. [zdevito/ATen](https://github.com/zdevito/ATen)
+8. [yixuan/spectra](https://github.com/yixuan/spectra)
+9. [johnmcfarlane/cnl](https://github.com/johnmcfarlane/cnl)
+10. [romeric/Fastor](https://github.com/romeric/Fastor)
+11. [Tencent/deepx_core](https://github.com/Tencent/deepx_core)
+12. [blitzpp/blitz](https://github.com/blitzpp/blitz)
+13. [sikang/DecompUtil](https://github.com/sikang/DecompUtil)
 
 ## 加密
 

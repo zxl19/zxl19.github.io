@@ -15,7 +15,7 @@ pinned: false
 
 ## rostopic Hello World
 
-1. `rostopic`命令行工具可以显示关于ROS话题的信息，包括话题列表、发布订阅信息、频率、带宽、消息内容等；
+1. `rostopic`命令行工具可以显示关于ROS话题（topic）的信息，包括话题列表、发布者（publisher）、订阅者（subscriber）、频率、带宽、消息（message）内容等；
 2. 语法说明：
 
     ```shell
@@ -51,8 +51,8 @@ pinned: false
 rostopic bw [options] topic
 ```
 
-1. 显示的带宽是接收带宽，受到网络连接状况的影响，接收带宽可能低于实际带宽；
-2. `rostopic`命令行工具是基于Python实现的，无法达到与C++实现节点相似的吞吐量（throughput）；
+1. 显示的带宽是接收带宽，如果网络连接状况不佳，或者`rostopic`命令行工具无法跟上发布者，接收带宽可能低于真实带宽；
+2. `rostopic`命令行工具是基于Python实现的，无法像基于C++实现的ROS节点一样保持高吞吐量（throughput）；
 
 #### 选项含义
 
@@ -67,6 +67,8 @@ rostopic bw [options] topic
 ```shell
 rostopic delay [options] topic
 ```
+
+要求话题中的消息类型包含报头（header）；
 
 #### 选项含义
 
@@ -83,7 +85,7 @@ rostopic delay [options] topic
 rostopic echo [options] topic
 ```
 
-1. 可以使用`/topic/field`指定显示消息中的特定字段；
+可以使用`/topic/field`指定显示话题中的消息字段（field）；
 
 #### 选项含义
 
@@ -140,7 +142,7 @@ rostopic info topic
 rostopic list [options] [namespace]
 ```
 
-1. `namespace`参数表示只显示指定命名空间`/namespace`下的消息名，例如`/namespace/***`；
+`namespace`参数表示只显示指定命名空间`/namespace`中的话题名，例如`/namespace/***`；
 
 #### 选项含义
 
@@ -160,17 +162,19 @@ rostopic list [options] [namespace]
 rostopic pub topic type [data ...]
 ```
 
-1. 指定消息字段的三种方法：
+可以使用以下三种方法指定话题中发布的消息字段：
 
-    ```shell
-    # Command-line arguments. Defaults to latch mode.
-    rostopic pub my_topic std_msgs/String "hello there"
-    # Piped input. Defaults to rate mode (10hz). Example usage:
-    rostopic echo chatter | rostopic pub bar std_msgs/String
-    # YAML data file. Defaults to rate mode (10hz). Example usage:
-    rostopic echo chatter > chatter.bagy    # Collect messages, then Ctrl-C
-    rostopic pub -f chatter.bagy bar std_msgs/String
-    ```
+```shell
+# Command-line arguments. Defaults to latch mode.
+rostopic pub my_topic std_msgs/String "hello there"
+rostopic pub -r 10 /cmd_vel geometry_msgs/Twist \
+    '{linear: {x: 0.1, y: 0.0, z: 0.0}, angular: {x: 0.0, y: 0.0, z: 0.0}}'
+# Piped input. Defaults to rate mode (10hz). Example usage:
+rostopic echo chatter | rostopic pub bar std_msgs/String
+# YAML data file. Defaults to rate mode (10hz). Example usage:
+rostopic echo chatter > chatter.bagy    # Collect messages, then Ctrl-C
+rostopic pub -f chatter.bagy bar std_msgs/String
+```
 
 #### 选项含义
 
