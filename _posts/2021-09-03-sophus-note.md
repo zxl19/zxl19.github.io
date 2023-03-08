@@ -38,11 +38,23 @@ include_directories(${SOPHUS_INCLUDE_DIRS})
 
 ## SO(3)李群
 
+$\mathrm{SO}\left(3\right)$李群定义：
+
+$$\mathrm{SO}\left(3\right) = \left\{\left.\boldsymbol{R}\in\mathrm{GL}\left(3\right)\right|\boldsymbol{RR}^{\mathrm{T}}, \mathrm{det}\left(\boldsymbol{R}\right) = 1\right\}$$
+
+$\mathfrak{so}\left(3\right)$李代数定义：
+
+$$\mathfrak{so}\left(3\right) = \left\{\boldsymbol{\phi}\in\mathbb{R}^{3}, \boldsymbol{\Phi} = \boldsymbol{\phi}^{\wedge}\in\mathbb{R}^{3\times 3}\right\}$$
+
 ```cpp
-Eigen::Matrix3d R;
-Eigen::Quaterniond q(R);
-Sophus::SO3d SO3(R);                            // 通过旋转矩阵构造Sophus::SO3d
-Sophus::SO3d SO3(q);                            // 通过四元数构造Sophus::SO3d
+Eigen::Matrix3d R;                              // 要求旋转矩阵满足SO(3)李群的定义
+Eigen::Quaterniond q(R);                        // 要求四元数的模长不能接近0
+// 通过旋转矩阵构造Sophus::SO3d
+Sophus::SO3d SO3(R);
+// 通过四元数构造Sophus::SO3d
+Sophus::SO3d SO3(q);
+SO3.setQuaternion(q);                           // 会隐式将四元数归一化
+
 Sophus::SO3d SO3_inv = SO3.inverse();           // 取李群逆
 Eigen::Matrix3d R = SO3.matrix();               // 取旋转矩阵
 Eigen::Quaterniond q = SO3.unit_quaternion();   // 取单位四元数
@@ -73,12 +85,40 @@ Sophus::SO3d SO3_updated = Sophus::SO3d::exp(update_so3) * SO3;
 
 ## SE(3)李群
 
+$\mathrm{SE}\left(3\right)$李群定义：
+
+$$\mathrm{SE}\left(3\right) = \left\{\left.\boldsymbol{T} =
+\begin{bmatrix}
+    \boldsymbol{R} & \boldsymbol{t} \\
+    \boldsymbol{0}^{\mathrm{T}} & 1
+\end{bmatrix}
+\in\mathrm{GL}\left(4\right)\right|\boldsymbol{R}\in\mathrm{SO}\left(3\right), \boldsymbol{t}\in\mathbb{R}^{3}\right\}$$
+
+$\mathfrak{se}\left(3\right)$李代数定义：
+
+$$\mathfrak{se}\left(3\right) = \left\{\left.\boldsymbol{\xi} =
+\begin{bmatrix}
+    \boldsymbol{\rho} \\
+    \boldsymbol{\phi}
+\end{bmatrix}\in\mathbb{R}^{6}\right|\boldsymbol{\rho}\in\mathbb{R}^{3}, \boldsymbol{\phi}\in\mathfrak{so}\left(3\right), \boldsymbol{\xi}^{\wedge} =
+\begin{bmatrix}
+    \boldsymbol{\phi}^{\wedge} & \boldsymbol{\rho} \\
+    \boldsymbol{0}^{\mathrm{T}} & 0
+\end{bmatrix}\in\mathbb{R}^{4\times 4}\right\}$$
+
 ```cpp
-Eigen::Matrix3d R;
-Eigen::Quaterniond q(R);
+Eigen::Matrix3d R;                              // 要求旋转矩阵满足SO(3)李群的定义
+Eigen::Quaterniond q(R);                        // 要求四元数的模长不能接近0
 Eigen::Vector3d t(1, 0, 0);
-Sophus::SE3d SE3(R, t);                         // 通过R，t构造Sophus::SE3d
-Sophus::SE3d SE3(q, t);                         // 通过q，t构造Sophus::SE3d
+// 通过旋转矩阵和平移向量构造Sophus::SE3d
+Sophus::SE3d SE3(R, t);
+SE3.setRotationMatrix(R);                       // 先将旋转矩阵转为四元数，本质上是调用this->so3().setQuaternion()
+SE3.translation() = t;
+// 通过四元数和平移向量构造Sophus::SE3d
+Sophus::SE3d SE3(q, t);
+SE3.setQuaternion(q);                           // 本质上是调用this->so3().setQuaternion()
+SE3.translation() = t;
+
 Sophus::SE3d SE3_inv = SE3.inverse();           // 取李群逆
 Sophus::SO3d SO3 = SE3.so3();                   // 取SO(3)李群
 Eigen::Matrix4d T = SE3.matrix();               // 取变换矩阵
@@ -86,13 +126,30 @@ Eigen::Matrix3d R = SE3.so3().matrix();         // 取旋转矩阵
 Eigen::Quaterniond q = SE3.unit_quaternion();   // 取单位四元数，本质上是调用this->so3().unit_quaternion()
 Eigen::Vector3d t = SE3.translation();          // 取平移向量
 
-// 取欧拉角，单位为弧度
-double euler_x = SE3.angleX();                  // 围绕x轴旋转的欧拉角，即滚转角（roll），本质上是调用this->so3().angleX()
-double euler_y = SE3.angleY();                  // 围绕y轴旋转的欧拉角，即俯仰角（pitch），本质上是调用this->so3().angleY()
-double euler_z = SE3.angleZ();                  // 围绕z轴旋转的欧拉角，即偏航角（yaw），本质上是调用this->so3().angleZ()
+// 提取围绕固定坐标轴的旋转角，单位为弧度
+// 符合外旋欧拉角的定义，常用于组合导航设备
+double euler_x = SE3.angleX();                  // 围绕x轴的旋转角，本质上是调用this->so3().angleX()
+double euler_y = SE3.angleY();                  // 围绕y轴的旋转角，本质上是调用this->so3().angleY()
+double euler_z = SE3.angleZ();                  // 围绕z轴的旋转角，本质上是调用this->so3().angleZ()
 
 // 通过欧拉角构造Sophus::SE3d的旋转部分，旋转顺序为ZYX，单位为弧度
-SE3.so3() = SO3d::rotX(euler_x) * SO3d::rotY(euler_y) * SO3d::rotZ(euler_z);
+// so3()成员函数定义了返回引用和返回常引用两个版本，在调用时可以作为等号左值和等号右值使用
+// 内旋欧拉角，右乘
+SE3.so3() = SO3d::rotZ(yaw_rad) * SO3d::rotY(pitch_rad) * SO3d::rotX(roll_rad);
+// 外旋欧拉角，左乘
+SE3.so3() = SO3d::rotX(roll_rad) * SO3d::rotY(pitch_rad) * SO3d::rotZ(yaw_rad);
+
+// 通过欧拉角构造只包含旋转部分的Sophus::SE3d，旋转顺序为ZYX，单位为弧度
+// 内旋欧拉角，右乘
+SE3 = SE3d::rotZ(yaw_rad) * SE3d::rotY(pitch_rad) * SE3d::rotX(roll_rad);
+// 外旋欧拉角，左乘
+SE3 = SE3d::rotX(roll_rad) * SE3d::rotY(pitch_rad) * SE3d::rotZ(yaw_rad);
+
+// 通过平移向量构造只包含平移部分的Sophus::SE3d，平移顺序不限
+// translation()成员函数定义了返回引用和返回常引用两个版本，在调用时可以作为等号左值和等号右值使用
+SE3.translation() = t;
+SE3.trans(x, y, z);
+SE3 = SE3d::transX(x) * SE3d::transY(y) * SE3d::transZ(z);
 
 // 李代数se(3)是一个六维向量，方便起见先typedef一下
 typedef Eigen::Matrix<double, 6, 1> Vector6d;

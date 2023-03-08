@@ -59,8 +59,9 @@ pinned: false
 2. [microsoft/nni](https://github.com/microsoft/nni)
 3. [keras-team/autokeras](https://github.com/keras-team/autokeras)
 4. [automl/auto-sklearn](https://github.com/automl/auto-sklearn)
-5. [autogluon/autogluon](https://github.com/autogluon/autogluon)
-6. [kubeflow/katib](https://github.com/kubeflow/katib)
+5. [nebuly-ai/nebullvm](https://github.com/nebuly-ai/nebullvm)
+6. [autogluon/autogluon](https://github.com/autogluon/autogluon)
+7. [kubeflow/katib](https://github.com/kubeflow/katib)
 
 ## 模型部署
 
