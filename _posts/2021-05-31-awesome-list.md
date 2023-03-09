@@ -155,7 +155,8 @@ The main repository serves as a curated list of awesome lists.
 
 1. [heejkoo/Awesome-Diffusion-Models](https://github.com/heejkoo/Awesome-Diffusion-Models)
 2. [hua1995116/awesome-ai-painting](https://github.com/hua1995116/awesome-ai-painting)
-3. [awesome-stable-diffusion/awesome-stable-diffusion](https://github.com/awesome-stable-diffusion/awesome-stable-diffusion)
+3. [altryne/awesome-ai-art-image-synthesis](https://github.com/altryne/awesome-ai-art-image-synthesis)
+4. [awesome-stable-diffusion/awesome-stable-diffusion](https://github.com/awesome-stable-diffusion/awesome-stable-diffusion)
 
 ## AI对话
 
