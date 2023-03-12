@@ -48,16 +48,26 @@ GitHub Desktop是GitHub开发的客户端，使用图形化交互界面代替了
 
 #### 配置
 
-在VS Code中配置Git扩展的`Git: Path`选项，在`settings.json`文件中指定Git可执行文件的路径和文件名：
+1. 在VS Code中配置Git扩展的`Git: Path`选项，在`settings.json`文件中指定Git可执行文件的路径和文件名：
 
-```json
-"git.path": "D:\\Program Files\\Git\\bin\\git.exe"
-```
+    ```json
+    "git.path": "D:\\Program Files\\Git\\bin\\git.exe"
+    ```
+
+2. 在终端仿真器中配置字符编码为UTF-8，防止中文显示乱码：
+
+    ```shell
+    git config --global core.quotepath false            # 设置不转义特殊字符，文件路径不用编码模式显示
+    git config --global gui.encoding utf-8              # 图形界面编码
+    git config --global i18n.commit.encoding utf-8      # 提交信息编码
+    git config --global i18n.logoutputencoding utf-8    # 输出log编码
+    export LESSCHARSET=utf-8                            # less命令编码，输出log默认使用less命令分页
+    ```
 
 #### 使用
 
 1. 安装并配置Git后可以在VS Code中使用Git的全部功能；
-2. 可以在Git Bash终端模拟器中使用Git的命令行操作；
+2. 可以在Git Bash终端仿真器中使用Git的命令行操作；
 
 ## Ubuntu
 
@@ -130,9 +140,12 @@ GitHub Desktop是GitHub开发的客户端，使用图形化交互界面代替了
 4. [git/git](https://github.com/git/git)
 5. [Differences between Git-scm, msysGit & Git for Windows](https://cloudaffaire.com/faq/differences-between-git-scm-msysgit-git-for-windows/)
 6. [Windows系统Git安装教程（详解Git安装过程）-maanlong的文章-知乎](https://zhuanlan.zhihu.com/p/242540359)
-7. [在VScode上配置Git-浪晋的文章-知乎](https://zhuanlan.zhihu.com/p/31417255)
-8. [Missing contributions-GitHub Docs](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/managing-contribution-settings-on-your-profile/why-are-my-contributions-not-showing-up-on-my-profile)
-9. [Managing email preferences-GitHub Docs](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-personal-account-on-github/managing-email-preferences)
-10. [Token authentication requirements for Git operations-GitHub Blog](https://github.blog/2020-12-15-token-authentication-requirements-for-git-operations/)
-11. [Creating a personal access token-GitHub Docs](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token)
-12. [GitHub防黑客新措施：弃用账密验证Git操作，改用token或SSH密钥，今天0点已执行-量子位的文章-知乎](https://zhuanlan.zhihu.com/p/399759963)
+7. [git显示中文和解决中文乱码-YuSoLi的文章-知乎](https://zhuanlan.zhihu.com/p/133706032)
+8. [解决Git在windows下中文乱码的问题-小明同学的文章-知乎](https://zhuanlan.zhihu.com/p/357002483)
+9. [Git客户端设置Windows下的字符编码-华为云](https://support.huaweicloud.com/usermanual-codehub/devcloud_hlp_0954.html)
+10. [在VScode上配置Git-浪晋的文章-知乎](https://zhuanlan.zhihu.com/p/31417255)
+11. [Missing contributions-GitHub Docs](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/managing-contribution-settings-on-your-profile/why-are-my-contributions-not-showing-up-on-my-profile)
+12. [Managing email preferences-GitHub Docs](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-personal-account-on-github/managing-email-preferences)
+13. [Token authentication requirements for Git operations-GitHub Blog](https://github.blog/2020-12-15-token-authentication-requirements-for-git-operations/)
+14. [Creating a personal access token-GitHub Docs](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token)
+15. [GitHub防黑客新措施：弃用账密验证Git操作，改用token或SSH密钥，今天0点已执行-量子位的文章-知乎](https://zhuanlan.zhihu.com/p/399759963)
