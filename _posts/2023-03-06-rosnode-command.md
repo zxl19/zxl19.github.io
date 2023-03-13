@@ -45,7 +45,7 @@ pinned: false
 #### 语法说明
 
 ```shell
-rosnode info [options] node1 [node2 ...]
+rosnode info [options] node1 [node2...]
 ```
 
 #### 选项含义
@@ -59,7 +59,7 @@ rosnode info [options] node1 [node2 ...]
 #### 语法说明
 
 ```shell
-rosnode kill [options] [node1 [node2 ...]]
+rosnode kill [options] [node1 [node2...]]
 ```
 
 1. 如果节点挂起，则可能无法被杀死；

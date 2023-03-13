@@ -113,7 +113,7 @@ rostopic find msg-type
 #### 语法说明
 
 ```shell
-rostopic hz [options] topic1 [topic2 ...]
+rostopic hz [options] topic1 [topic2...]
 ```
 
 1. 显示的是消息的发布频率；
@@ -159,7 +159,7 @@ rostopic list [options] [namespace]
 #### 语法说明
 
 ```shell
-rostopic pub topic type [data ...]
+rostopic pub topic type [data...]
 ```
 
 可以使用以下三种方法指定话题中发布的消息字段：
