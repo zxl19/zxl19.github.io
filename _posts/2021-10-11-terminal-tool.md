@@ -57,6 +57,25 @@ pinned: false
 3. [tmux](https://github.com/tmux/tmux)
 4. [terminator](https://github.com/gnome-terminator/terminator)
 
+## 格式检查
+
+### Python
+
+1. [yapf](https://github.com/google/yapf)
+2. [pylint](https://github.com/PyCQA/pylint)
+3. [autopep8](https://github.com/hhatto/autopep8)
+
+### C++（CMake）
+
+1. [cpplint](https://github.com/cpplint/cpplint)
+2. [cmakelang](https://pypi.org/project/cmakelang/)
+
+## Python依赖包管理
+
+1. [pipdeptree](https://github.com/tox-dev/pipdeptree)
+2. [poetry](https://github.com/python-poetry/poetry)
+3. [pigar](https://github.com/damnever/pigar)
+
 ## 下载
 
 1. [you-get](https://github.com/soimort/you-get)
