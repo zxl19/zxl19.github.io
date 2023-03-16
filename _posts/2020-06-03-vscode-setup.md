@@ -15,18 +15,24 @@ pinned: false
 
 ## 编辑器配置
 
-1. `Editor:Font Family`：设置字体，使用等宽字体更加美观，特别是对于代码中空格的宽度和命令行中的命令显示，在Windows下使用默认设置即可，在Linux下可参考Windows使用`monospace`；
-2. `Editor:Word Wrap`：设置超过窗口宽度后自动换行；
-3. 双击侧边栏和编辑区边界可以自动调整宽度；
+1. `Editor: Font Family`：设置字体，默认使用等宽字体，对于代码中空格的宽度和命令行中的命令显示更加美观：
+
+    ```text
+    'Droid Sans Mono', 'monospace', monospace
+    ```
+
+2. `Editor: Word Wrap`：设置超过窗口宽度后是否自动换行，默认关闭，对于Markdown默认开启；
+3. `Explorer`->`右键`->勾选`Open Editors`；
+4. 双击侧边栏和编辑区边界可以自动调整宽度；
 
 ## 扩展配置
-
-扩展配置（按照字母顺序排序）。
 
 ```text
 Occam's razor: entities should not be multiplied beyond necessity.
 奥卡姆剃刀原理：如无必要，勿增实体。
 ```
+
+扩展配置（按照字母顺序排序），如果在VS Code中安装失败，可以在扩展商店中下载`.vsix`格式的安装包手动安装。
 
 ### :emojisense:
 
@@ -75,11 +81,7 @@ Occam's razor: entities should not be multiplied beyond necessity.
 
 C/C++语言扩展。
 
-1. 在Windows下会自动安装并配置clang-format；
-2. 在Linux下需手动安装并配置clang-format：
-
-   - 安装clang-format：`sudo apt install clang-format`；
-   - 配置clang-format：在扩展设置中将`可执行文件的完整路径`设置为`/usr/bin/clang-format`；
+可以在扩展中指定`clang-format`可执行文件的路径，如果未指定，则会优先使用环境变量中`clang-format`可执行文件的路径；如果未在环境变量中找到，则会使用扩展自带的`clang-format`可执行文件。
 
 ### Chinese (Simplified) Language Pack for Visual Studio Code
 
@@ -93,19 +95,19 @@ C/C++语言自动补全、跳转、函数提示等功能。
 2. 按照提示安装或更新clangd；
 3. 生成`compile_commands.json`文件，供扩展解析；
 
-   - 在`CMakeLists.txt`文件中指定：
+    - 在`CMakeLists.txt`文件中指定：
 
-      ```cmake
-      set(CMAKE_EXPORT_COMPILE_COMMANDS ON)
-      ```
+        ```cmake
+        set(CMAKE_EXPORT_COMPILE_COMMANDS ON)
+        ```
 
-   - 在编译时指定：
+    - 在编译时指定：
 
-      ```shell
-      cmake .. -DCMAKE_EXPORT_COMPILE_COMMANDS=1
-      ```
+        ```shell
+        cmake .. -DCMAKE_EXPORT_COMPILE_COMMANDS=1
+        ```
 
-   - 建议将生成的`compile_commands.json`文件放到工程顶层目录或者`build`文件夹中；
+    - 建议将生成的`compile_commands.json`文件放到工程顶层目录或者`build`文件夹中；
 
 ### CMake
 
@@ -119,11 +121,11 @@ CMake扩展。
 
 格式化`CMakeLists.txt`文件。
 
-1. 安装cmakelang：
+1. 安装`cmakelang`格式化工具：
 
-   ```shell
-   python3 -m pip install cmakelang
-   ```
+    ```shell
+    python3 -m pip install cmakelang
+    ```
 
 2. 在`CMakeLists.txt`文件中`右键`->`Format Document`；
 
@@ -182,45 +184,45 @@ CMake扩展。
 
 1. 文件头部注释：
 
-   - 配置`fileheader.customMade`指定文件头部注释格式，示例：
+    - 配置`fileheader.configObj`关闭自动添加文件头部注释，示例：
 
-      ```json
-      "fileheader.customMade": {
-         "Author": "git config user.name && git config user.email",
-         "Date": "Do not edit",
-         "Description": "",
-         "custom_string_obkoro1_copyright": "Copyright (c) ${now_year} by ${git_name_email}, All Rights Reserved. "
-      }
-      ```
+        ```json
+        "fileheader.customMade": {
+            "autoAdd": false
+        }
+        ```
 
-   - 配置`fileheader.configObj`关闭自动添加文件头部注释，示例：
+    - 配置`fileheader.customMade`指定文件头部注释格式，示例：
 
-      ```json
-      "fileheader.customMade": {
-         "autoAdd": false
-      }
-      ```
+        ```json
+        "fileheader.customMade": {
+            "Author": "git config user.name && git config user.email",
+            "Date": "Do not edit",
+            "Description": "",
+            "custom_string_obkoro1_copyright": "Copyright (c) ${now_year} by git config user.name && git config user.email, All Rights Reserved."
+        }
+        ```
 
-   - 快捷键：`Ctrl`+`Super`+`T`；
+    - 快捷键：`Ctrl`+`Super`+`T`；
 
 2. 函数注释：
 
-   - 配置`fileheader.cursorMode`指定函数注释格式，示例：
+    - 配置`fileheader.cursorMode`指定函数注释格式，示例：
 
-      ```json
-      "fileheader.cursorMode": {
-         "description": "",
-         "param": "",
-         "return": ""
-      }
-      ```
+        ```json
+        "fileheader.cursorMode": {
+            "description": "",
+            "param": "",
+            "return": ""
+        }
+        ```
 
-   - 快捷键：`Ctrl`+`Super`+`I`；
+    - 快捷键：`Ctrl`+`Super`+`I`；
 
 3. 注释图案：
 
-   - 选择注释图案：`Ctrl`+`Shift`+`P`，输入`codeDesign`选择；
-   - 快捷键：`Ctrl`+`Super`+`J`；
+    - 选择注释图案：`Ctrl`+`Shift`+`P`，输入`codeDesign`选择；
+    - 快捷键：`Ctrl`+`Super`+`J`；
 
 ### LaTeX Workshop
 
@@ -228,35 +230,35 @@ LaTeX语言扩展，配置`latex-workshop.latex.tools`、`latex-workshop.latex.r
 
 1. `latex-workshop.latex.tools`指定了单条编译命令的参数，示例：
 
-   ```json
-   {
-      "name": "xelatexmk",
-      "command": "latexmk",
-      "args": [
-         "-synctex=1",
-         "-interaction=nonstopmode",
-         "-file-line-error",
-         "-xelatex",
-         "-outdir=%OUTDIR%",
-         "%DOC%"
-      ],
-      "env": {}
-   }
-   ```
+    ```json
+    {
+        "name": "xelatexmk",
+        "command": "latexmk",
+        "args": [
+            "-synctex=1",
+            "-interaction=nonstopmode",
+            "-file-line-error",
+            "-xelatex",
+            "-outdir=%OUTDIR%",
+            "%DOC%"
+        ],
+        "env": {}
+    }
+    ```
 
 2. `latex-workshop.latex.recipes`指定了多条编译命令的执行顺序，示例：
 
-   ```json
-   {
-      "name": "xelatex ➞ biber ➞ xelatex × 2",
-      "tools": [
-         "xelatexmk",
-         "biber",
-         "xelatexmk",
-         "xelatexmk"
-      ]
-   }
-   ```
+    ```json
+    {
+        "name": "xelatex ➞ biber ➞ xelatex × 2",
+        "tools": [
+            "xelatexmk",
+            "biber",
+            "xelatexmk",
+            "xelatexmk"
+        ]
+    }
+    ```
 
 ### Luna Paint——Image Editor
 
@@ -268,22 +270,22 @@ Markdown语言扩展。
 
 1. 快捷键：
 
-   | 功能 | 快捷键 |
-   | :--- | :--- |
-   | 切换粗体 | `Ctrl`+`B` |
-   | 切换斜体 | `Ctrl`+`I` |
-   | 切换删除线 | `Alt`+`S` |
-   | 标题升级 | `Ctrl`+`Shift`+`]` |
-   | 标题降级 | `Ctrl`+`Shift`+`[` |
-   | 切换数学环境 | `Ctrl`+`M` |
-   | 切换勾选 | `Alt`+`C` |
-   | 预览 | `Ctrl`+`Shift`+`V` |
-   | 侧边预览 | `Ctrl`+`K`+`V` |
+    | 功能 | 快捷键 |
+    | :--- | :--- |
+    | 切换粗体 | `Ctrl`+`B` |
+    | 切换斜体 | `Ctrl`+`I` |
+    | 切换删除线 | `Alt`+`S` |
+    | 标题升级 | `Ctrl`+`Shift`+`]` |
+    | 标题降级 | `Ctrl`+`Shift`+`[` |
+    | 切换数学环境 | `Ctrl`+`M` |
+    | 切换勾选 | `Alt`+`C` |
+    | 预览 | `Ctrl`+`Shift`+`V` |
+    | 侧边预览 | `Ctrl`+`K`+`V` |
 
 2. 生成目录：
 
-   - `Ctrl`+`Shift`+`P`，选择`Markdown All in One: Create Table of Contents`；
-   - 目录在文件保存时自动更新；
+    - `Ctrl`+`Shift`+`P`，选择`Markdown All in One: Create Table of Contents`；
+    - 目录在文件保存时自动更新；
 
 ### Markdown PDF
 
@@ -341,27 +343,27 @@ Atom的深色主题，类似的主题还有City Lights theme、Material Theme（
 
 1. 打开需要管理的项目工程，并将其保存到收藏夹中：
 
-   - 方法一：`Ctrl`+`Shift`+`P`，输入`Project Manager: Save Project`；
-   - 方法二：在侧边栏中点击保存图标；
+    - 方法一：`Ctrl`+`Shift`+`P`，输入`Project Manager: Save Project`；
+    - 方法二：在侧边栏中点击保存图标；
 
 2. 修改`projects.json`文件，添加标签：
 
-   - 方法一：`Ctrl`+`Shift`+`P`，输入`Project Manager: Edit Projects`；
-   - 方法二：在侧边栏中点击编辑图标；
+    - 方法一：`Ctrl`+`Shift`+`P`，输入`Project Manager: Edit Projects`；
+    - 方法二：在侧边栏中点击编辑图标；
 
-   示例：
+    示例：
 
-   ```json
-   {
-      "name": "zxl19.github.io",
-      "rootPath": "/home/zxl19.github.io",
-      "paths": [],
-      "tags": [
-         "zxl19"
-      ],
-      "enabled": true
-   }
-   ```
+    ```json
+    {
+        "name": "zxl19.github.io",
+        "rootPath": "/home/zxl19.github.io",
+        "paths": [],
+        "tags": [
+            "zxl19"
+        ],
+        "enabled": true
+    }
+    ```
 
 ### Python
 
@@ -384,15 +386,15 @@ Python语言扩展，安装Pylance、Jupyter（包括Jupyter Cell Tags、Jupyter
 示例：
 
 ```text
-BUG a known bug that should be corrected.    存在的BUG（红色）
-HACK a workaround.                           应变方法、变通方法（橙色）
-FIXME should be corrected.                   待修复内容（黄色）
-TODO something to be done.                   待办内容（绿色）
-XXX warn other programmers of problematic    警告需要改进的代码（蓝色）
-    or misguiding code, "dirty code" that
-    needs improving.
-[ ] an uncompleted task                      未完成任务（紫色）
-[x] a completed task                         已完成任务（粉色）
+BUG     a known bug that should be corrected.   存在的BUG（红色）
+HACK    a workaround.                           应变方法、变通方法（橙色）
+FIXME   should be corrected.                    待修复内容（黄色）
+TODO    something to be done.                   待办内容（绿色）
+XXX     warn other programmers of problematic   警告需要改进的代码（蓝色）
+        or misguiding code, "dirty code" that
+        needs improving.
+[ ]     an uncompleted task                     未完成任务（紫色）
+[x]     a completed task                        已完成任务（粉色）
 ```
 
 ### Toggle Zen Mode
@@ -417,6 +419,12 @@ XXX warn other programmers of problematic    警告需要改进的代码（蓝�
 ### vscode-mindmap
 
 绘制思维导图。
+
+## 配置文件查看和修改
+
+1. 对于编辑器和插件的设置都会保存在`settings.json`配置文件中；
+2. `Ctrl`+`Shift`+`P`，输入`Preferences: Open User Settings (JSON)`进行查看和修改；
+3. 删除`settings.json`配置文件中大括号`{}`内部的内容可以将VS Code恢复默认设置；
 
 ## 快捷键速查表
 
@@ -447,9 +455,11 @@ XXX warn other programmers of problematic    警告需要改进的代码（蓝�
 19. [Visual Studio会被VS Code及各种插件取代吗？-知乎](https://www.zhihu.com/question/277139137/answer/1657100889)
 20. [使用clangd替代c/c++配置vscode c++项目-smallsunsun的文章-知乎](https://zhuanlan.zhihu.com/p/145430576)
 21. [最终，我看向了clangd-小钻风的文章-知乎](https://zhuanlan.zhihu.com/p/364518020)
-22. [OBKoro1/koro1FileHeader](https://github.com/OBKoro1/koro1FileHeader)
-23. [当你上班可以摸鱼的时候可以做些什么？-程序员阿德的回答-知乎](https://www.zhihu.com/question/365629693/answer/2127925726)
-24. [装上这几个VSCode插件后，上班划水摸鱼不是梦-GitHub Daily的文章-知乎](https://zhuanlan.zhihu.com/p/58302580)
-25. [炸裂！VSCode 摸鱼神器！！！-YYds的文章-知乎](https://zhuanlan.zhihu.com/p/408767088)
-26. [cxasm/cc-compare](https://github.com/cxasm/cc-compare)
-27. [YKB2333/Beyond-Compare](https://github.com/YKB2333/Beyond-Compare)
+22. [cxasm/cc-compare](https://github.com/cxasm/cc-compare)
+23. [YKB2333/Beyond-Compare](https://github.com/YKB2333/Beyond-Compare)
+24. [OBKoro1/koro1FileHeader](https://github.com/OBKoro1/koro1FileHeader)
+25. [Comment (computer programming)-Wikipedia](https://en.wikipedia.org/wiki/Comment_(computer_programming))
+26. [当你上班可以摸鱼的时候可以做些什么？-程序员阿德的回答-知乎](https://www.zhihu.com/question/365629693/answer/2127925726)
+27. [装上这几个VSCode插件后，上班划水摸鱼不是梦-GitHub Daily的文章-知乎](https://zhuanlan.zhihu.com/p/58302580)
+28. [炸裂！VSCode 摸鱼神器！！！-YYds的文章-知乎](https://zhuanlan.zhihu.com/p/408767088)
+29. [VS CODE恢复出厂设置-bilibili](https://www.bilibili.com/video/BV12B4y1479v)
