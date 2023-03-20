@@ -57,6 +57,8 @@ SLAM学习资料存档，包括SLAM基础理论、卡尔曼滤波、组合导航
 8. [简明ESKF推导-半闲居士的文章-知乎](https://zhuanlan.zhihu.com/p/441182819)
 9. [LIO中ESKF相关公式的详尽说明-xiaotaw的文章-知乎](https://zhuanlan.zhihu.com/p/538975422)
 10. [Computing Jacobian, why error state?——优化中为何对误差状态求导-邱笑晨的文章-知乎](https://zhuanlan.zhihu.com/p/75714471)
+11. [简单易懂(?)的误差状态卡尔曼滤波器(Error State Kalman Filter, ESKF)的原理与实现（一）原理简介-llo的文章-知乎](https://zhuanlan.zhihu.com/p/545370811)
+12. [简单易懂(?)的误差状态卡尔曼滤波器(Error State Kalman Filter, ESKF)的原理与实现（二）算法实现-llo的文章-知乎](https://zhuanlan.zhihu.com/p/545525697)
 
 ### GitHub
 
@@ -87,6 +89,7 @@ SLAM学习资料存档，包括SLAM基础理论、卡尔曼滤波、组合导航
 5. [hku-mars/IKFoM](https://github.com/hku-mars/IKFoM)
 6. [jeremyfix/easykf](https://github.com/jeremyfix/easykf)
 7. [OpenSLAM-org/openslam_MTK](https://github.com/OpenSLAM-org/openslam_MTK)
+8. [xinyang-go/eskf](https://github.com/xinyang-go/eskf)
 
 ## 组合导航
 

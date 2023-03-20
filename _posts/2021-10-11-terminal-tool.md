@@ -25,10 +25,19 @@ pinned: false
 
 ## 性能监控
 
+### CPU
+
 1. top
 2. [htop](https://github.com/htop-dev/htop)
 3. [nmon](http://nmon.sourceforge.net/pmwiki.php)
 4. [glances](https://github.com/nicolargo/glances)
+
+### GPU
+
+1. nvidia-smi
+2. [gpustat](https://github.com/wookayin/gpustat)
+3. [nvtop](https://github.com/Syllo/nvtop)
+4. [nvitop](https://github.com/XuehaiPan/nvitop)
 
 ## 文件操作
 
@@ -52,7 +61,7 @@ pinned: false
 
 ## 终端
 
-1. [Zsh](https://zsh.sourceforge.io/)
+1. [Zsh](https://zsh.sourceforge.io)
 2. [Oh My Zsh](https://github.com/ohmyzsh/ohmyzsh)
 3. [tmux](https://github.com/tmux/tmux)
 4. [terminator](https://github.com/gnome-terminator/terminator)
@@ -96,10 +105,12 @@ pinned: false
 3. [有哪些命令行的软件堪称神器？-int32bit的回答-知乎](https://www.zhihu.com/question/59227720/answer/163594782)
 4. [有哪些命令行的软件堪称神器？-韦易笑的回答-知乎](https://www.zhihu.com/question/59227720/answer/286665684)
 5. [C/C++编程有哪些值得推荐的工具？-程序喵大人的回答-知乎](https://www.zhihu.com/question/23357089/answer/1992218543)
-6. [Trash-Cli：Linux上的命令行回收站工具-Linux中国的文章-知乎](https://zhuanlan.zhihu.com/p/44948578)
-7. [一句f**k代码自动纠错，美女程序员教你建一个狂拽酷炫的终端-量子位的文章-知乎](https://zhuanlan.zhihu.com/p/87694586)
-8. [为什么说zsh是shell中的极品？-韦易笑的回答-知乎](https://www.zhihu.com/question/21418449/answer/300879747)
-9. [Oh My Zsh-简书](https://www.jianshu.com/p/b8a80dd59414)
-10. [Oh My Zsh-博客园](https://www.cnblogs.com/lcgbk/p/13255836.html)
-11. [Ubuntu下实现命令行走代理/终端走代理的方法-lyh458的文章-知乎](https://zhuanlan.zhihu.com/p/377550825)
-12. [40个超有趣的Linux命令行彩蛋和游戏-张子豪的文章-知乎](https://zhuanlan.zhihu.com/p/51904179)
+6. [【工具篇】如何优雅地监控显卡(GPU)使用情况？-聚丙烯酰胺的文章-知乎](https://zhuanlan.zhihu.com/p/577533593)
+7. [nvitop: 史上最强GPU性能实时监测工具-AGI之心的文章-知乎](https://zhuanlan.zhihu.com/p/614024375)
+8. [Trash-Cli：Linux上的命令行回收站工具-Linux中国的文章-知乎](https://zhuanlan.zhihu.com/p/44948578)
+9. [一句f**k代码自动纠错，美女程序员教你建一个狂拽酷炫的终端-量子位的文章-知乎](https://zhuanlan.zhihu.com/p/87694586)
+10. [为什么说zsh是shell中的极品？-韦易笑的回答-知乎](https://www.zhihu.com/question/21418449/answer/300879747)
+11. [Oh My Zsh-简书](https://www.jianshu.com/p/b8a80dd59414)
+12. [Oh My Zsh-博客园](https://www.cnblogs.com/lcgbk/p/13255836.html)
+13. [Ubuntu下实现命令行走代理/终端走代理的方法-lyh458的文章-知乎](https://zhuanlan.zhihu.com/p/377550825)
+14. [40个超有趣的Linux命令行彩蛋和游戏-张子豪的文章-知乎](https://zhuanlan.zhihu.com/p/51904179)
