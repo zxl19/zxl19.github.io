@@ -23,8 +23,11 @@ SLAM学习资料存档，包括SLAM基础理论、卡尔曼滤波、组合导航
 4. [A tutorial on SE(3) transformation parameterizations and on-manifold optimization](http://ingmec.ual.es/~jlblanco/papers/jlblanco2010geometry3D_techrep.pdf)
 5. [Quaternion kinematics for the error-state Kalman filter](https://www.iri.upc.edu/people/jsola/JoanSola/objectes/notes/kinematics.pdf)
 6. [Probabilistic Robotics](https://gaoyichao.com/Xiaotu//resource/refs/PR.MIT.en.pdf)
-7. [State estimation for robotics](http://asrl.utias.utoronto.ca/~tdb/bib/barfoot_ser17.pdf)
-8. [Multiple view geometry in computer vision](https://assets.cambridge.org/97805215/40513/frontmatter/9780521540513_frontmatter.pdf)
+7. [State Estimation for Robotics -- First Edition](http://asrl.utias.utoronto.ca/~tdb/bib/barfoot_ser17.pdf)
+8. [State Estimation for Robotics -- Draft Second Edition](http://asrl.utias.utoronto.ca/~tdb/bib/barfoot_ser23.pdf)
+9. [SO(3) and SE(3) Identities and Approximations](http://asrl.utias.utoronto.ca/~tdb/bib/barfoot_ser17_identities.pdf)
+10. [Lie theory cheatsheet](https://norlab.ulaval.ca/research/LieCheatsheet/)
+11. [Multiple view geometry in computer vision](https://assets.cambridge.org/97805215/40513/frontmatter/9780521540513_frontmatter.pdf)
 
 ### GitHub
 
@@ -35,8 +38,9 @@ SLAM学习资料存档，包括SLAM基础理论、卡尔曼滤波、组合导航
 5. [jlblancoc/tutorial-se3-manifold](https://github.com/jlblancoc/tutorial-se3-manifold)
 6. [PetWorm/IMU-Preintegration-Propogation-Doc](https://github.com/PetWorm/IMU-Preintegration-Propogation-Doc)
 7. [PetWorm/IMU_error_state_propagation_doc](https://github.com/PetWorm/IMU_error_state_propagation_doc)
-8. [Joanna-HE/Supplementary-file-for-IKFoM](https://github.com/Joanna-HE/Supplementary-file-for-IKFoM)
+8. [norlab-ulaval/cheatsheet_LieAlgebra](https://github.com/norlab-ulaval/cheatsheet_LieAlgebra)
 9. [gongbingg/slam](https://github.com/gongbingg/slam)
+10. [Joanna-HE/Supplementary-file-for-IKFoM](https://github.com/Joanna-HE/Supplementary-file-for-IKFoM)
 
 ### 公开课
 
@@ -114,5 +118,6 @@ SLAM学习资料存档，包括SLAM基础理论、卡尔曼滤波、组合导航
 3. [超全SLAM学习资源汇总-阿木实验室的文章-知乎](https://zhuanlan.zhihu.com/p/116769131)
 4. [SLAM相关学习资料：综述/激光/视觉/数据集/常用库-菠萝包包包的文章-知乎](https://zhuanlan.zhihu.com/p/434874344)
 5. [Probabilistic Robotics](http://robots.stanford.edu/probabilistic-robotics/)
-6. [无人驾驶领域，你推荐那些综述性文章？-王方浩的回答-知乎](https://www.zhihu.com/question/355954682/answer/897296676)
-7. [严恭敏的个人主页](https://teacher.nwpu.edu.cn/yangongmin.html)
+6. [Tim Barfoot](http://asrl.utias.utoronto.ca/~tdb/)
+7. [无人驾驶领域，你推荐那些综述性文章？-王方浩的回答-知乎](https://www.zhihu.com/question/355954682/answer/897296676)
+8. [严恭敏的个人主页](https://teacher.nwpu.edu.cn/yangongmin.html)
