@@ -19,11 +19,11 @@ pinned: false
 
 1. 长按`Shift`并拖动窗口将当前窗口平铺到指定区域；
 2. `Win`+方向键将当前窗口平铺到指定区域；
-3. 平铺区域样式可以自定义；
+3. `Win`+`Shift`+`~`自定义平铺区域样式；
 
 ## Ubuntu
 
-在Ubuntu中，实现窗口平铺的方案较多，但是大部分的配置过程较为复杂。其中x-tile可以作为软件包直接安装并配置，较为简便，但是仍无法达到类似Windows的使用体验。
+在Ubuntu中，实现窗口平铺的方案较多，但是大部分的配置过程较为复杂。x-tile可以作为软件包直接安装并配置，较为简便，但是仍无法达到类似Windows的使用体验。
 
 ### x-tile
 
@@ -49,9 +49,37 @@ sudo apt install x-tile
 
 #### 使用
 
-```shell
-x-tile [option]
-```
+1. 语法说明：
+
+    ```shell
+    x-tile [option]
+    ```
+
+2. 选项含义：
+
+    | option | 含义 |
+    | :--- | :--- |
+    | 缺省 | 打开主界面 |
+    | `w` | open the x-tile main window without using the panel |
+    | `z` | undo the latest tiling operation |
+    | `f` | tile all opened windows vertically |
+    | `h` | tile all opened windows horizontally |
+    | `u` | tile all opened windows triangle-up |
+    | `d` | tile all opened windows triangle-down |
+    | `l` | tile all opened windows triangle-left |
+    | `r` | tile all opened windows triangle-right |
+    | `q` | quad tile all opened windows |
+    | `g = g 0 = g 0 0` | tile all opened windows in a grid with automatic rows and columns |
+    | `g rows = g rows 0` | tile all opened windows in a grid with given rows and automatic columns |
+    | `g 0 cols` | tile all opened windows in a grid with automatic rows and given columns |
+    | `g rows cols` | tile all opened windows in a grid with given rows and columns |
+    | `1` | custom tile 1 all opened windows |
+    | `2` | custom tile 2 all opened windows |
+    | `i` | invert the order of the latest tiling operation |
+    | `y` | cycle the order of the latest tiling operation |
+    | `m` | maximize all opened windows |
+    | `M` | unmaximize all opened windows |
+    | `c` | close all opened windows |
 
 ## 参考
 
