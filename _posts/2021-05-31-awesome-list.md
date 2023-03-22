@@ -183,6 +183,15 @@ The main repository serves as a curated list of awesome lists.
 
 1. [veggiemonk/awesome-docker](https://github.com/veggiemonk/awesome-docker)
 
+## 大学课程
+
+1. [prakhar1989/awesome-courses](https://github.com/prakhar1989/awesome-courses)
+2. [xioacd99/study-is-wonderful](https://github.com/xioacd99/study-is-wonderful)
+3. [jackwener/CS-Awesome-Courses](https://github.com/jackwener/CS-Awesome-Courses)
+4. [learn-anything/courses](https://github.com/learn-anything/courses)
+5. [apachecn/awesome-cs-courses-zh](https://github.com/apachecn/awesome-cs-courses-zh)
+6. [fffaraz/awesome-courses](https://github.com/fffaraz/awesome-courses)
+
 ## 参考
 
 1. [Awesome Lists](https://github.com/topics/awesome)
