@@ -69,6 +69,7 @@ The main repository serves as a curated list of awesome lists.
 8. [zhuhu00/Awesome_Dynamic_SLAM](https://github.com/zhuhu00/Awesome_Dynamic_SLAM)
 9. [zhouyong1234/SLAM-All-In-One](https://github.com/zhouyong1234/SLAM-All-In-One)
 10. [520xyxyzq/awesome-object-SLAM](https://github.com/520xyxyzq/awesome-object-SLAM)
+11. [hassaanhashmi/awesome-deep-visual-odometry](https://github.com/hassaanhashmi/awesome-deep-visual-odometry)
 
 ### 自动驾驶
 
