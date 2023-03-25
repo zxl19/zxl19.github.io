@@ -140,19 +140,37 @@ pinned: false
 
 ## 数学计算
 
+### 线性代数
+
 1. [Eigen](http://eigen.tuxfamily.org)
 2. [Armadillo](http://arma.sourceforge.net)
-3. [Ceres Solver](http://ceres-solver.org)
-4. [strasdat/Sophus](https://github.com/strasdat/Sophus)
-5. [autodiff/autodiff](https://github.com/autodiff/autodiff)
-6. [davideberly/GeometricTools](https://github.com/davideberly/GeometricTools)
-7. [zdevito/ATen](https://github.com/zdevito/ATen)
-8. [yixuan/spectra](https://github.com/yixuan/spectra)
-9. [johnmcfarlane/cnl](https://github.com/johnmcfarlane/cnl)
-10. [romeric/Fastor](https://github.com/romeric/Fastor)
-11. [Tencent/deepx_core](https://github.com/Tencent/deepx_core)
-12. [blitzpp/blitz](https://github.com/blitzpp/blitz)
-13. [sikang/DecompUtil](https://github.com/sikang/DecompUtil)
+3. [yixuan/spectra](https://github.com/yixuan/spectra)
+
+### 李群和李代数
+
+1. [strasdat/Sophus](https://github.com/strasdat/Sophus)
+2. [artivis/manif](https://github.com/artivis/manif)
+
+### 数值运算
+
+1. [Ceres Solver](http://ceres-solver.org)
+2. [casadi/casadi](https://github.com/casadi/casadi)
+3. [autodiff/autodiff](https://github.com/autodiff/autodiff)
+4. [stan-dev/math](https://github.com/stan-dev/math)
+5. [johnmcfarlane/cnl](https://github.com/johnmcfarlane/cnl)
+
+### 几何学
+
+1. [davideberly/GeometricTools](https://github.com/davideberly/GeometricTools)
+2. [mlivesu/cinolib](https://github.com/mlivesu/cinolib)
+3. [sikang/DecompUtil](https://github.com/sikang/DecompUtil)
+
+### 张量运算
+
+1. [zdevito/ATen](https://github.com/zdevito/ATen)
+2. [romeric/Fastor](https://github.com/romeric/Fastor)
+3. [Tencent/deepx_core](https://github.com/Tencent/deepx_core)
+4. [blitzpp/blitz](https://github.com/blitzpp/blitz)
 
 ## 加密
 
