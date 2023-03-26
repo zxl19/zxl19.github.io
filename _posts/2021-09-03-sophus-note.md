@@ -15,7 +15,7 @@ pinned: false
 
 ## Sophus Hello World
 
-1. Sophus是基于Eigen实现的李群和李代数库；
+1. Sophus是基于Eigen实现的李群（Lie group）和李代数（Lie algebra）[^1]库；
 2. Sophus是纯头文件库，使用时需要包含头文件：
 
     ```cpp
@@ -24,6 +24,8 @@ pinned: false
     ```
 
 3. Sophus官方并没有提供安装和使用教程，以下内容主要整理自《视觉SLAM十四讲》；
+
+[^1]: 以这一概念的提出者，挪威数学家Sophus Lie的名字命名。
 
 ## CMakeLists
 
@@ -170,7 +172,9 @@ Sophus::SE3d SE3_updated = Sophus::SE3d::exp(update_se3) * SE3_Rt;
 ## 参考
 
 1. [strasdat/Sophus](https://github.com/strasdat/Sophus)
-2. [CMakeLists添加Sophus库-CSDN博客](https://blog.csdn.net/weixin_38213410/article/details/98114423)
-3. [Sophus库的安装和使用教程-CSDN博客](https://blog.csdn.net/u011092188/article/details/77833022)
-4. [gaoxiang12/slambook](https://github.com/gaoxiang12/slambook)
-5. [gaoxiang12/slambook2](https://github.com/gaoxiang12/slambook2)
+2. [Sophus Lie-Britannica](https://www.britannica.com/biography/Sophus-Lie)
+3. [Sophus Lie-MacTutor](https://mathshistory.st-andrews.ac.uk/Biographies/Lie/)
+4. [CMakeLists添加Sophus库-CSDN博客](https://blog.csdn.net/weixin_38213410/article/details/98114423)
+5. [Sophus库的安装和使用教程-CSDN博客](https://blog.csdn.net/u011092188/article/details/77833022)
+6. [gaoxiang12/slambook](https://github.com/gaoxiang12/slambook)
+7. [gaoxiang12/slambook2](https://github.com/gaoxiang12/slambook2)
