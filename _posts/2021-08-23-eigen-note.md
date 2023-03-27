@@ -1062,3 +1062,4 @@ Vector3d trans = trans1 + ratio * (trans2 - trans1);
 28. [Lazy Evaluation and Aliasing](http://www.eigen.tuxfamily.org/dox/TopicLazyEvaluation.html)
 29. [eager evaluation (及早求值) & lazy evaluation (惰性求值)-CSDN博客](https://blog.csdn.net/JNingWei/article/details/80047122)
 30. [noalias()-CSDN博客](https://blog.csdn.net/weixin_30550081/article/details/95276173)
+31. [Eigen常见的坑-管清文的文章-知乎](https://zhuanlan.zhihu.com/p/32226967)
