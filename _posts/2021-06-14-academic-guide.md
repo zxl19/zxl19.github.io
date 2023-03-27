@@ -38,6 +38,11 @@ pinned: false
 8. [yufree/sciguide](https://github.com/yufree/sciguide)
 9. [weisongwen/researchTools](https://github.com/weisongwen/researchTools)
 
+## ChatGPT
+
+1. [binary-husky/chatgpt_academic](https://github.com/binary-husky/chatgpt_academic)
+2. [talkingwallace/ChatGPT-Paper-Reader](https://github.com/talkingwallace/ChatGPT-Paper-Reader)
+
 ## 参考
 
 1. [现代科研指北-于淼的文章-知乎](https://zhuanlan.zhihu.com/p/305646861)

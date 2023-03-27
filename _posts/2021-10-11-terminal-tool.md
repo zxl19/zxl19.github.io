@@ -66,18 +66,36 @@ pinned: false
 3. [tmux](https://github.com/tmux/tmux)
 4. [terminator](https://github.com/gnome-terminator/terminator)
 
-## 格式检查
+## 代码质量
 
-### Python
+### 格式化工具
+
+#### C++（CMake）
+
+1. [clang-format](https://clang.llvm.org/docs/ClangFormat.html)
+2. [cmakelang](https://pypi.org/project/cmakelang/)
+
+#### Python
 
 1. [yapf](https://github.com/google/yapf)
-2. [pylint](https://github.com/PyCQA/pylint)
+2. [pycodestyle](https://github.com/PyCQA/pycodestyle)
 3. [autopep8](https://github.com/hhatto/autopep8)
+4. [flake8](https://github.com/PyCQA/flake8)
 
-### C++（CMake）
+### 静态分析工具
+
+#### C++（CMake）
 
 1. [cpplint](https://github.com/cpplint/cpplint)
-2. [cmakelang](https://pypi.org/project/cmakelang/)
+2. [CodeChecker](https://github.com/Ericsson/codechecker)
+3. [scan-build](https://clang-analyzer.llvm.org/scan-build.html)
+4. [clang-tidy](https://clang.llvm.org/extra/clang-tidy)
+5. [cppcheck](https://cppcheck.sourceforge.io/)
+
+#### Python
+
+1. [ruff](https://github.com/charliermarsh/ruff)
+2. [pylint](https://github.com/PyCQA/pylint)
 
 ## Python依赖包管理
 
@@ -112,5 +130,9 @@ pinned: false
 10. [为什么说zsh是shell中的极品？-韦易笑的回答-知乎](https://www.zhihu.com/question/21418449/answer/300879747)
 11. [Oh My Zsh-简书](https://www.jianshu.com/p/b8a80dd59414)
 12. [Oh My Zsh-博客园](https://www.cnblogs.com/lcgbk/p/13255836.html)
-13. [Ubuntu下实现命令行走代理/终端走代理的方法-lyh458的文章-知乎](https://zhuanlan.zhihu.com/p/377550825)
-14. [40个超有趣的Linux命令行彩蛋和游戏-张子豪的文章-知乎](https://zhuanlan.zhihu.com/p/51904179)
+13. [Static program analysis-Wikipedia](https://en.wikipedia.org/wiki/Static_program_analysis)
+14. [Lint (software)-Wikipedia](https://en.wikipedia.org/wiki/Lint_(software))
+15. [Clang Static Analyzer](https://clang-analyzer.llvm.org)
+16. [CodeChecker: running the analyzer from the command line](https://clang-analyzer.llvm.org/codechecker.html)
+17. [Ubuntu下实现命令行走代理/终端走代理的方法-lyh458的文章-知乎](https://zhuanlan.zhihu.com/p/377550825)
+18. [40个超有趣的Linux命令行彩蛋和游戏-张子豪的文章-知乎](https://zhuanlan.zhihu.com/p/51904179)
