@@ -45,6 +45,24 @@ pinned: false
 6. [dcetin/eth-cs-notes](https://github.com/dcetin/eth-cs-notes)
 7. [albertpumarola/deep-learning-notes](https://github.com/albertpumarola/deep-learning-notes)
 
+## 框架学习
+
+### PyTorch
+
+1. [yunjey/pytorch-tutorial](https://github.com/yunjey/pytorch-tutorial)
+2. [MorvanZhou/PyTorch-Tutorial](https://github.com/MorvanZhou/PyTorch-Tutorial)
+3. [pytorch/tutorials](https://github.com/pytorch/tutorials)
+4. [hunkim/PyTorchZeroToAll](https://github.com/hunkim/PyTorchZeroToAll)
+5. [L1aoXingyu/pytorch-beginner](https://github.com/L1aoXingyu/pytorch-beginner)
+6. [dragen1860/Deep-Learning-with-PyTorch-Tutorials](https://github.com/dragen1860/Deep-Learning-with-PyTorch-Tutorials)
+
+### Tensorflow
+
+1. [chiphuyen/stanford-tensorflow-tutorials](https://github.com/chiphuyen/stanford-tensorflow-tutorials)
+2. [MorvanZhou/Reinforcement-learning-with-tensorflow](https://github.com/MorvanZhou/Reinforcement-learning-with-tensorflow)
+3. [MorvanZhou/Tensorflow-Tutorial](https://github.com/MorvanZhou/Tensorflow-Tutorial)
+4. [easy-tensorflow/easy-tensorflow](https://github.com/easy-tensorflow/easy-tensorflow)
+
 ## 神经网络可视化
 
 1. [lutzroeder/netron](https://github.com/lutzroeder/netron)
