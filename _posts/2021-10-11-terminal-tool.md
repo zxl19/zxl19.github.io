@@ -97,6 +97,11 @@ pinned: false
 
 1. [ruff](https://github.com/charliermarsh/ruff)
 2. [pylint](https://github.com/PyCQA/pylint)
+3. [pylama](https://github.com/klen/pylama)
+
+#### shell
+
+1. [shellcheck](https://github.com/koalaman/shellcheck)
 
 ## Python依赖包管理
 

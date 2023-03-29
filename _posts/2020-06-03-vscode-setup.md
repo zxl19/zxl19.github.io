@@ -176,9 +176,13 @@ CMake扩展。
 
 用不同颜色标识缩进。
 
+### IntelliCode
+
+为Python、TypeScript/JavaScript、Java提供基于上下文和机器学习的自动补全，安装IntelliCode API Usage Examples扩展可以查看GitHub中的用法示例并提高使用体验，类似的扩展还有Tabnine AI Autocomplete、GitHub Copilot。
+
 ### koroFileHeader
 
-生成文件头部注释和函数注释，类似的扩展还有vscode-fileheader。
+生成文件头部注释和函数注释，类似的扩展还有vscode-fileheader、autoDocstring。
 
 详细配置选项说明参考[Wiki](https://github.com/OBKoro1/koro1FileHeader/wiki)。
 
@@ -315,7 +319,11 @@ Atom的深色主题，类似的主题还有City Lights theme、Material Theme（
 
 ### Path Intellisense
 
-文件路径自动补全。
+文件路径自动补全，类似的扩展还有Path Autocomplete。
+
+### Pip Manager
+
+管理Python包，提供安装、删除、搜索、升级、指定版本等功能。
 
 ### Polacode
 
@@ -367,7 +375,9 @@ Atom的深色主题，类似的主题还有City Lights theme、Material Theme（
 
 ### Python
 
-Python语言扩展，安装Pylance、Jupyter（包括Jupyter Cell Tags、Jupyter Keymap、Jupyter Notebook Renderers、Jupyter Slide Show）、isort等扩展可以使用增强功能并提高使用体验。
+Python语言扩展，安装Pylance、Pylint、isort、Jupyter（包括Jupyter Cell Tags、Jupyter Keymap、Jupyter Notebook Renderers、Jupyter Slide Show）等扩展可以使用增强功能并提高使用体验。
+
+在设置中开启使用Pylint可以使用指定的静态分析工具。
 
 ### Rainbow Fart
 
@@ -376,6 +386,18 @@ Python语言扩展，安装Pylance、Jupyter（包括Jupyter Cell Tags、Jupyter
 ### ROS
 
 机器人操作系统（Robot Operating System, ROS）扩展。
+
+### ShellCheck
+
+对于shell脚本进行静态语法分析。
+
+### shellman
+
+对于shell脚本进行自动补全。
+
+### Super ChatGPT
+
+免费使用ChatGPT，每天限制20次。
 
 ### Todo Tree
 
@@ -418,7 +440,7 @@ XXX     warn other programmers of problematic   警告需要改进的代码（�
 
 ### vscode-mindmap
 
-绘制思维导图。
+绘制思维导图，类似的扩展还有Markmap。
 
 ## 配置文件查看和修改
 
@@ -442,24 +464,26 @@ XXX     warn other programmers of problematic   警告需要改进的代码（�
 6. [vscode必备插件，美化、炫酷、实用-留着防丢-双木珑的文章-知乎](https://zhuanlan.zhihu.com/p/112016680)
 7. [一些非常有用的VSCode扩展-Helperhaps的文章-知乎](https://zhuanlan.zhihu.com/p/29553584)
 8. [工具篇-vscode效率提升插件-鲲China的文章-知乎](https://zhuanlan.zhihu.com/p/73452541)
-9. [那些你应该考虑卸载的VSCode扩展-余腾靖的文章-知乎](https://zhuanlan.zhihu.com/p/125773296)
-10. [VSCode插件大全｜VSCode高级玩家之第二篇-三钻的文章-知乎](https://zhuanlan.zhihu.com/p/136428397)
-11. [微软再出神器，这次终于对Python下手了！-Jackpop的文章-知乎](https://zhuanlan.zhihu.com/p/154108630)
-12. [vscode有哪些让人眼前一亮的插件?-韦易笑的回答-知乎](https://www.zhihu.com/question/311803609/answer/2387914071)
-13. [vscode有哪些让人眼前一亮的插件?-量子位的回答-知乎](https://www.zhihu.com/question/311803609/answer/1296896019)
-14. [超越鼓励师for VS Code，写代码不再孤单，有杨超越与你同在-韩骏的文章-知乎](https://zhuanlan.zhihu.com/p/61790645)
-15. [太赞了，VSCode上也能画流程图了！-GitHub Daily的文章-知乎](https://zhuanlan.zhihu.com/p/140895359)
-16. [实时可视化Debug：VS Code开源新工具，一键解析代码结构](https://zhuanlan.zhihu.com/p/109212146)
-17. [Visual Studio Code如何编写运行C、C++程序？-程序员柠檬的回答-知乎](https://www.zhihu.com/question/30315894/answer/1574277687)
-18. [Markdown完美转PDF-简书](https://www.jianshu.com/p/4856a78b96b6)
-19. [Visual Studio会被VS Code及各种插件取代吗？-知乎](https://www.zhihu.com/question/277139137/answer/1657100889)
-20. [使用clangd替代c/c++配置vscode c++项目-smallsunsun的文章-知乎](https://zhuanlan.zhihu.com/p/145430576)
-21. [最终，我看向了clangd-小钻风的文章-知乎](https://zhuanlan.zhihu.com/p/364518020)
-22. [cxasm/cc-compare](https://github.com/cxasm/cc-compare)
-23. [YKB2333/Beyond-Compare](https://github.com/YKB2333/Beyond-Compare)
-24. [OBKoro1/koro1FileHeader](https://github.com/OBKoro1/koro1FileHeader)
-25. [Comment (computer programming)-Wikipedia](https://en.wikipedia.org/wiki/Comment_(computer_programming))
-26. [当你上班可以摸鱼的时候可以做些什么？-程序员阿德的回答-知乎](https://www.zhihu.com/question/365629693/answer/2127925726)
-27. [装上这几个VSCode插件后，上班划水摸鱼不是梦-GitHub Daily的文章-知乎](https://zhuanlan.zhihu.com/p/58302580)
-28. [炸裂！VSCode 摸鱼神器！！！-YYds的文章-知乎](https://zhuanlan.zhihu.com/p/408767088)
-29. [VS CODE恢复出厂设置-bilibili](https://www.bilibili.com/video/BV12B4y1479v)
+9. [VSCode插件大全｜VSCode高级玩家之第二篇-三钻的文章-知乎](https://zhuanlan.zhihu.com/p/136428397)
+10. [vscode有哪些让人眼前一亮的插件?-韦易笑的回答-知乎](https://www.zhihu.com/question/311803609/answer/2387914071)
+11. [Visual Studio Code如何编写运行C、C++程序？-程序员柠檬的回答-知乎](https://www.zhihu.com/question/30315894/answer/1574277687)
+12. [vscode实用插件推荐-很酷的程序员的文章-知乎](https://zhuanlan.zhihu.com/p/441608260)
+13. [vscode有没有性能优化插件？-秃头披风侠cc的回答-知乎](https://www.zhihu.com/question/441992533/answer/2430995843)
+14. [那些你应该考虑卸载的VSCode扩展-余腾靖的文章-知乎](https://zhuanlan.zhihu.com/p/125773296)
+15. [微软再出神器，这次终于对Python下手了！-Jackpop的文章-知乎](https://zhuanlan.zhihu.com/p/154108630)
+16. [vscode有哪些让人眼前一亮的插件?-量子位的回答-知乎](https://www.zhihu.com/question/311803609/answer/1296896019)
+17. [超越鼓励师for VS Code，写代码不再孤单，有杨超越与你同在-韩骏的文章-知乎](https://zhuanlan.zhihu.com/p/61790645)
+18. [太赞了，VSCode上也能画流程图了！-GitHub Daily的文章-知乎](https://zhuanlan.zhihu.com/p/140895359)
+19. [实时可视化Debug：VS Code开源新工具，一键解析代码结构](https://zhuanlan.zhihu.com/p/109212146)
+20. [Markdown完美转PDF-简书](https://www.jianshu.com/p/4856a78b96b6)
+21. [Visual Studio会被VS Code及各种插件取代吗？-知乎](https://www.zhihu.com/question/277139137/answer/1657100889)
+22. [使用clangd替代c/c++配置vscode c++项目-smallsunsun的文章-知乎](https://zhuanlan.zhihu.com/p/145430576)
+23. [最终，我看向了clangd-小钻风的文章-知乎](https://zhuanlan.zhihu.com/p/364518020)
+24. [cxasm/cc-compare](https://github.com/cxasm/cc-compare)
+25. [YKB2333/Beyond-Compare](https://github.com/YKB2333/Beyond-Compare)
+26. [OBKoro1/koro1FileHeader](https://github.com/OBKoro1/koro1FileHeader)
+27. [Comment (computer programming)-Wikipedia](https://en.wikipedia.org/wiki/Comment_(computer_programming))
+28. [当你上班可以摸鱼的时候可以做些什么？-程序员阿德的回答-知乎](https://www.zhihu.com/question/365629693/answer/2127925726)
+29. [装上这几个VSCode插件后，上班划水摸鱼不是梦-GitHub Daily的文章-知乎](https://zhuanlan.zhihu.com/p/58302580)
+30. [炸裂！VSCode 摸鱼神器！！！-YYds的文章-知乎](https://zhuanlan.zhihu.com/p/408767088)
+31. [VS CODE恢复出厂设置-bilibili](https://www.bilibili.com/video/BV12B4y1479v)
