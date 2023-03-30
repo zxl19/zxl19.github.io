@@ -107,9 +107,21 @@ The main repository serves as a curated list of awesome lists.
 3. [elangosundar/awesome-README-templates](https://github.com/elangosundar/awesome-README-templates)
 4. [a-maliarov/awesome-shields](https://github.com/a-maliarov/awesome-shields)
 
-## 科学计算与数值分析
+## 数学
 
-1. [nschloe/awesome-scientific-computing](https://github.com/nschloe/awesome-scientific-computing)
+### 理论基础
+
+1. [rossant/awesome-math](https://github.com/rossant/awesome-math)
+2. [tensorush/Awesome-Maths-Learning](https://github.com/tensorush/Awesome-Maths-Learning)
+3. [nschloe/awesome-scientific-computing](https://github.com/nschloe/awesome-scientific-computing)
+
+### 机器学习和深度学习
+
+1. [academic/awesome-datascience](https://github.com/academic/awesome-datascience)
+2. [newTendermint/awesome-bigdata](https://github.com/newTendermint/awesome-bigdata)
+3. [tirthajyoti/Data-science-best-resources](https://github.com/tirthajyoti/Data-science-best-resources)
+4. [EderSantana/awesomeMLmath](https://github.com/EderSantana/awesomeMLmath)
+5. [krishnakumarsekar/awesome-machine-learning-deep-learning-mathematics](https://github.com/krishnakumarsekar/awesome-machine-learning-deep-learning-mathematics)
 
 ## 数据标注
 
@@ -168,11 +180,6 @@ The main repository serves as a curated list of awesome lists.
 5. [saharmor/awesome-chatgpt](https://github.com/saharmor/awesome-chatgpt)
 6. [eon01/awesome-chatgpt](https://github.com/eon01/awesome-chatgpt)
 7. [del-xiong/awesome-chatgpt](https://github.com/del-xiong/awesome-chatgpt)
-
-## 数据科学
-
-1. [academic/awesome-datascience](https://github.com/academic/awesome-datascience)
-2. [newTendermint/awesome-bigdata](https://github.com/newTendermint/awesome-bigdata)
 
 ## Git（包括GitHub）
 

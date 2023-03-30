@@ -19,10 +19,13 @@ pinned: false
 2. [Visualize-ML/Book4_Power-of-Matrix](https://github.com/Visualize-ML/Book4_Power-of-Matrix)
 3. [Visualize-ML/Book5_Essentials-of-Probability-and-Statistics](https://github.com/Visualize-ML/Book5_Essentials-of-Probability-and-Statistics)
 4. [Visualize-ML/Book6_First-Course-in-Data-Science](https://github.com/Visualize-ML/Book6_First-Course-in-Data-Science)
-5. [dalcde/cam-notes](https://github.com/dalcde/cam-notes)
-6. [Ewenwan/Mathematics](https://github.com/Ewenwan/Mathematics)
-7. [psibi/how-to-prove](https://github.com/psibi/how-to-prove)
-8. [JackyWang2001/JackyWang2001.github.io](https://github.com/JackyWang2001/JackyWang2001.github.io)
+5. [wzchen/probability_cheatsheet](https://github.com/wzchen/probability_cheatsheet)
+6. [mavam/stat-cookbook](https://github.com/mavam/stat-cookbook)
+7. [dalcde/cam-notes](https://github.com/dalcde/cam-notes)
+8. [Ewenwan/Mathematics](https://github.com/Ewenwan/Mathematics)
+9. [shervinea/stanford-cme-106-probability-and-statistics](https://github.com/shervinea/stanford-cme-106-probability-and-statistics)
+10. [psibi/how-to-prove](https://github.com/psibi/how-to-prove)
+11. [JackyWang2001/JackyWang2001.github.io](https://github.com/JackyWang2001/JackyWang2001.github.io)
 
 ## 线性代数
 

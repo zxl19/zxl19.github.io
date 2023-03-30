@@ -178,7 +178,9 @@ CMake扩展。
 
 ### IntelliCode
 
-为Python、TypeScript/JavaScript、Java提供基于上下文和机器学习的自动补全，安装IntelliCode API Usage Examples扩展可以查看GitHub中的用法示例并提高使用体验，类似的扩展还有Tabnine AI Autocomplete、GitHub Copilot。
+为Python、TypeScript/JavaScript、Java提供基于上下文和机器学习的自动补全，安装IntelliCode API Usage Examples扩展可以查看GitHub中的用法示例并提高使用体验，类似的扩展还有Tabnine AI Autocomplete、GitHub Copilot、Kite。
+
+**2022年11月：Kite已停止维护。**
 
 ### koroFileHeader
 
@@ -487,3 +489,4 @@ XXX     warn other programmers of problematic   警告需要改进的代码（�
 29. [装上这几个VSCode插件后，上班划水摸鱼不是梦-GitHub Daily的文章-知乎](https://zhuanlan.zhihu.com/p/58302580)
 30. [炸裂！VSCode 摸鱼神器！！！-YYds的文章-知乎](https://zhuanlan.zhihu.com/p/408767088)
 31. [VS CODE恢复出厂设置-bilibili](https://www.bilibili.com/video/BV12B4y1479v)
+32. [Kite is saying farewell](https://www.kite.com/blog/product/kite-is-saying-farewell/)
