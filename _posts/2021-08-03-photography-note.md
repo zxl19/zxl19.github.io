@@ -40,6 +40,7 @@ pinned: false
 11. [相机光圈、快门、焦距、感光度基本介绍-林青春的文章-知乎](https://zhuanlan.zhihu.com/p/152172663)
 12. [“毒德大学”，“刀锐奶化”这些梗最初起源于哪？-家政学叫兽的回答-知乎](https://www.zhihu.com/question/412237760/answer/1386682793)
 13. [【DPReview】富士 Fujifilm X100V 上手初评](https://www.bilibili.com/video/BV1p741137BZ)
+14. [【DPReview】这才是最好的焦段！](https://www.bilibili.com/video/BV1Gg4y1G7uV)
 
 ### 阳光十六法则
 
@@ -160,6 +161,8 @@ pinned: false
 4. [Fuji Rumors](https://www.fujirumors.com)
 5. [Nikon Rumors](https://nikonrumors.com)
 
+**2023年3月：亚马逊宣布将在2023年4月10日关闭DPReview。**
+
 ## 参考
 
 1. [7个免费在线PS网站（良心推荐，真正免费）-小盒的文章-知乎](https://zhuanlan.zhihu.com/p/93513748)
@@ -169,3 +172,4 @@ pinned: false
 5. [满足日常需求的应用（三）：图像编辑器丨Linux中国-Linux中国的文章-知乎](https://zhuanlan.zhihu.com/p/407938013)
 6. [Linux上有哪些好用的绘图工具？-亿图图示的回答-知乎](https://www.zhihu.com/question/445559611/answer/1759893444)
 7. [在Linux命令行上编辑照片的4种方法丨Linux中国-Linux中国的文章-知乎](https://zhuanlan.zhihu.com/p/430719348)
+8. [DPReview.com to close](https://www.dpreview.com/news/5901145460/dpreview-com-to-close)

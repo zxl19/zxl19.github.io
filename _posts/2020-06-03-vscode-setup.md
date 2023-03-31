@@ -147,6 +147,13 @@ CMake扩展。
 
 鼠标右键菜单内操作。
 
+### Doxygen Documentation Generator
+
+按照Doxygen格式生成C++文件注释和函数注释。
+
+1. 在设置中设置作者姓名和作者电子邮箱；
+2. 输入`/**`后回车自动生成注释；
+
 ### Draw.io Integration
 
 集成Draw.io功能，绘制流程图。
@@ -388,6 +395,10 @@ Python语言扩展，安装Pylance、Pylint、isort、Jupyter（包括Jupyter Ce
 ### ROS
 
 机器人操作系统（Robot Operating System, ROS）扩展。
+
+### shell-format
+
+格式化shell脚本、Dockerfile、`.gitignore`文件等，类似的扩展还有Bash Beautify。
 
 ### ShellCheck
 

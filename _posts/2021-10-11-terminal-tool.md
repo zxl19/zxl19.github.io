@@ -102,6 +102,7 @@ pinned: false
 #### shell
 
 1. [shellcheck](https://github.com/koalaman/shellcheck)
+2. [shfmt](https://github.com/mvdan/sh)
 
 ## Python依赖包管理
 
