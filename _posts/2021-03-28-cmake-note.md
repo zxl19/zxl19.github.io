@@ -212,7 +212,7 @@ endwhile()
 | `XXX_VERSION` | `XXX`库版本 |
 | `XXX_INCLUDE_DIRS` | `XXX`库的头文件路径 |
 | `XXX_LIBRARY_DIRS` | `XXX`库的链接路径 |
-| `XXX_LIBRARIES` | `XXX`库的库名 |
+| `XXX_LIBRARIES` | `XXX`库的库文件名 |
 
 ### 常用命令
 
@@ -304,6 +304,19 @@ endwhile()
     find_package(<package> [version] [QUIET] [REQUIRED]
                  [[COMPONENTS] [components...]])
     ```
+
+    - `find_package()`具有三种模式：
+        - Module模式：
+            - 搜索`Find<PackageName>.cmake`文件；
+            - 首先在`CMAKE_MODULE_PATH`中查找，其次在CMake安装的`Find Modules`中查找；
+            - 搜索的文件通常由操作系统或者CMake提供，启发式（heuristic）搜索，容易过时；
+        - Config模式：
+            - 搜索`<lowercasePackageName>-config.cmake`或`<PackageName>Config.cmake`文件；
+            - 如果指定了版本，则搜索`<lowercasePackageName>-config-version.cmake`或`<PackageName>ConfigVersion.cmake`文件；
+            - 搜索的文件通常由第三方依赖库提供，作为第三方依赖库的一部分安装，包含详细信息，不需要启发式搜索，相比于Module模式更加可靠，
+        - FetchContent重定向模式：
+            - 使用`FetchContent`模块；
+            - 3.24版本新增；
 
 2. `include_directories()`用于指定包含头文件目录，常用命令格式如下：
 
@@ -773,20 +786,24 @@ endif()
 14. [TixiaoShan/LIO-SAM](https://github.com/TixiaoShan/LIO-SAM)
 15. [TixiaoShan/LVI-SAM](https://github.com/TixiaoShan/LVI-SAM)
 16. [koide3/hdl_graph_slam](https://github.com/koide3/hdl_graph_slam)
-17. [变量1-博客园](https://www.cnblogs.com/narjaja/p/9533174.html)
-18. [变量2-掘金](https://juejin.cn/post/6998055558741753893)
-19. [变量3-CSDN博客](https://blog.csdn.net/juluwangriyue/article/details/123494008)
-20. [变量4-CSDN博客](https://blog.csdn.net/wzj_110/article/details/116674655)
-21. [变量5-简书](https://www.jianshu.com/p/1827cd86d576)
-22. [Cmake之深入理解find_package()的用法-希葛格的韩少君的文章-知乎](https://zhuanlan.zhihu.com/p/97369704)
-23. [静态库、动态库、共享库的区别-博客园](https://www.cnblogs.com/sunsky303/p/7731911.html)
-24. [add_dependencies()1-CSDN博客](https://blog.csdn.net/KingOfMyHeart/article/details/112983922)
-25. [add_dependencies()2-CSDN博客](https://blog.csdn.net/zhizhengguan/article/details/118381772)
-26. [add_dependencies()3-CSDN博客](https://blog.csdn.net/new9232/article/details/125831009)
-27. [cmake：target_**中的PUBLIC，PRIVATE，INTERFACE-大川搬砖的文章-知乎](https://zhuanlan.zhihu.com/p/82244559)
-28. [target_link_directories()1-CSDN博客](https://blog.csdn.net/qq_33726635/article/details/121896441)
-29. [target_link_directories()2-CSDN博客](https://blog.csdn.net/zhizhengguan/article/details/115331314)
-30. [add_definitions()-CSDN博客](https://blog.csdn.net/fb_941219/article/details/107376017)
-31. [编译选项设置区别-CSDN博客](https://blog.csdn.net/10km/article/details/51731959)
-32. [CMake如何入门？-0xCCCCCCCC的回答-知乎](https://www.zhihu.com/question/58949190/answer/999701073)
-33. [CMake和Modern CMake相关资料（不定期补充）-迦非喵的文章-知乎](https://zhuanlan.zhihu.com/p/205324774)
+17. [cmake-developer](https://cmake.org/cmake/help/latest/manual/cmake-developer.7.html)
+18. [变量1-博客园](https://www.cnblogs.com/narjaja/p/9533174.html)
+19. [变量2-掘金](https://juejin.cn/post/6998055558741753893)
+20. [变量3-CSDN博客](https://blog.csdn.net/juluwangriyue/article/details/123494008)
+21. [变量4-CSDN博客](https://blog.csdn.net/wzj_110/article/details/116674655)
+22. [变量5-简书](https://www.jianshu.com/p/1827cd86d576)
+23. [Cmake之深入理解find_package()的用法-希葛格的韩少君的文章-知乎](https://zhuanlan.zhihu.com/p/97369704)
+24. [cmake find_package路径详解-豌豆的文章-知乎](https://zhuanlan.zhihu.com/p/50829542)
+25. [find_package()1-CSDN博客](https://blog.csdn.net/zhanghm1995/article/details/105466372)
+26. [find_package()2-CSDN博客](https://blog.csdn.net/qq_41035283/article/details/122469466)
+27. [静态库、动态库、共享库的区别-博客园](https://www.cnblogs.com/sunsky303/p/7731911.html)
+28. [add_dependencies()1-CSDN博客](https://blog.csdn.net/KingOfMyHeart/article/details/112983922)
+29. [add_dependencies()2-CSDN博客](https://blog.csdn.net/zhizhengguan/article/details/118381772)
+30. [add_dependencies()3-CSDN博客](https://blog.csdn.net/new9232/article/details/125831009)
+31. [cmake：target_**中的PUBLIC，PRIVATE，INTERFACE-大川搬砖的文章-知乎](https://zhuanlan.zhihu.com/p/82244559)
+32. [target_link_directories()1-CSDN博客](https://blog.csdn.net/qq_33726635/article/details/121896441)
+33. [target_link_directories()2-CSDN博客](https://blog.csdn.net/zhizhengguan/article/details/115331314)
+34. [add_definitions()-CSDN博客](https://blog.csdn.net/fb_941219/article/details/107376017)
+35. [编译选项设置区别-CSDN博客](https://blog.csdn.net/10km/article/details/51731959)
+36. [CMake如何入门？-0xCCCCCCCC的回答-知乎](https://www.zhihu.com/question/58949190/answer/999701073)
+37. [CMake和Modern CMake相关资料（不定期补充）-迦非喵的文章-知乎](https://zhuanlan.zhihu.com/p/205324774)
