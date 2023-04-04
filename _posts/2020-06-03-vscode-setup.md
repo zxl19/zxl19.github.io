@@ -447,6 +447,10 @@ XXX     warn other programmers of problematic   警告需要改进的代码（�
 
 原名为vscode-office，支持预览PDF、Excel等格式的办公文档，并提供所见即所得（What You See Is What You Get，WYSIWYG）的Markdown编辑器功能。
 
+### Typst LSP
+
+Typst语言扩展。
+
 ### vscode-icons
 
 文件图标主题，类似的主题还有Material Icon Theme和Material Theme Icons。
@@ -496,8 +500,10 @@ XXX     warn other programmers of problematic   警告需要改进的代码（�
 25. [YKB2333/Beyond-Compare](https://github.com/YKB2333/Beyond-Compare)
 26. [OBKoro1/koro1FileHeader](https://github.com/OBKoro1/koro1FileHeader)
 27. [Comment (computer programming)-Wikipedia](https://en.wikipedia.org/wiki/Comment_(computer_programming))
-28. [当你上班可以摸鱼的时候可以做些什么？-程序员阿德的回答-知乎](https://www.zhihu.com/question/365629693/answer/2127925726)
-29. [装上这几个VSCode插件后，上班划水摸鱼不是梦-GitHub Daily的文章-知乎](https://zhuanlan.zhihu.com/p/58302580)
-30. [炸裂！VSCode 摸鱼神器！！！-YYds的文章-知乎](https://zhuanlan.zhihu.com/p/408767088)
-31. [VS CODE恢复出厂设置-bilibili](https://www.bilibili.com/video/BV12B4y1479v)
-32. [Kite is saying farewell](https://www.kite.com/blog/product/kite-is-saying-farewell/)
+28. [typst/typst](https://github.com/typst/typst)
+29. [nvarner/typst-lsp](https://github.com/nvarner/typst-lsp)
+30. [当你上班可以摸鱼的时候可以做些什么？-程序员阿德的回答-知乎](https://www.zhihu.com/question/365629693/answer/2127925726)
+31. [装上这几个VSCode插件后，上班划水摸鱼不是梦-GitHub Daily的文章-知乎](https://zhuanlan.zhihu.com/p/58302580)
+32. [炸裂！VSCode 摸鱼神器！！！-YYds的文章-知乎](https://zhuanlan.zhihu.com/p/408767088)
+33. [VS CODE恢复出厂设置-bilibili](https://www.bilibili.com/video/BV12B4y1479v)
+34. [Kite is saying farewell](https://www.kite.com/blog/product/kite-is-saying-farewell/)
