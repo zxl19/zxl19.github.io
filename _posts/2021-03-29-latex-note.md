@@ -90,7 +90,7 @@ pinned: false
     - argmin使用`\mathop{\arg\min}\limits_{}`，argmax同理；
     - 小空格用`\quad`，大空格用`\qquad`；
     - 分式尽量使用`\dfrac{}{}`，若显示有问题再使用`\frac{}{}`；
-    - 度数使用`^{\circ}`；
+    - 角度使用`\angle`，度数使用`^{\circ}`；
     - 点乘使用`\cdot`或`\bullet`，叉乘使用`\times`；
     - 导数使用`\mathrm{d}`，偏导数使用`\partial`；
     - 反对称矩阵使用`^{\wedge}`，其逆运算使用`^{\vee}`；

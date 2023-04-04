@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 在Windows和Linux系统中完全卸载VS Code
+title: 在Windows和Ubuntu系统中完全卸载VS Code
 date: 2023-04-03
 author: zxl19
 tags: [VS Code, Note]
@@ -9,13 +9,13 @@ toc: true
 pinned: false
 ---
 
-记录一下如何在Windows和Linux系统中完全卸载VS Code。
+记录一下如何在Windows和Ubuntu系统中完全卸载VS Code。
 
 <!-- more -->
 
 ## 背景
 
-近期发现VS Code无法进行全局搜索，只能搜索项目根目录下的文件以及在编辑器中打开的文件中的内容。经过排查发现加密软件禁止了`rg`搜索工具，而VS Code依赖`rg`搜索工具实现全局搜索。在定位问题的过程中对于VS Code进行了完全卸载和重装。
+近期发现VS Code无法进行全局搜索，只能搜索项目根目录下的文件以及在编辑器中打开的文件中的内容。经过排查发现加密软件禁止了`rg`搜索工具，而VS Code依赖自带的`rg`搜索工具实现全局搜索。在定位问题的过程中对于VS Code进行了完全卸载和重装。
 
 1. [Search Issues](https://github.com/microsoft/vscode/wiki/Search-Issues)
 2. [VS Code Find in Files not working (searching only in open files) #116637](https://github.com/microsoft/vscode/issues/116637)
