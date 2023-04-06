@@ -30,9 +30,9 @@ pinned: false
 ## CMakeLists
 
 ```cmake
-# 方法一：本地安装
+# 方法一：本地安装（待测试）
 find_package(Sophus REQUIRED QUIET)
-# 方法二：非本地安装
+# 方法二：非本地安装（推荐）
 set(SOPHUS_INCLUDE_DIRS "${PROJECT_SOURCE_DIR}/third_party/Sophus")
 
 include_directories(${SOPHUS_INCLUDE_DIRS})

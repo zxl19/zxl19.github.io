@@ -41,7 +41,9 @@ pinned: false
 ## ChatGPT
 
 1. [binary-husky/chatgpt_academic](https://github.com/binary-husky/chatgpt_academic)
-2. [talkingwallace/ChatGPT-Paper-Reader](https://github.com/talkingwallace/ChatGPT-Paper-Reader)
+2. [Bin-Huang/chatbox](https://github.com/Bin-Huang/chatbox)
+3. [TheR1D/shell_gpt](https://github.com/TheR1D/shell_gpt)
+4. [talkingwallace/ChatGPT-Paper-Reader](https://github.com/talkingwallace/ChatGPT-Paper-Reader)
 
 ## 参考
 

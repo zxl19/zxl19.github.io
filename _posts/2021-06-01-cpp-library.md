@@ -145,6 +145,7 @@ pinned: false
 1. [Eigen](http://eigen.tuxfamily.org)
 2. [Armadillo](http://arma.sourceforge.net)
 3. [yixuan/spectra](https://github.com/yixuan/spectra)
+4. [hosseinmoein/Matrix](https://github.com/hosseinmoein/Matrix)
 
 ### 李群和李代数
 
@@ -228,10 +229,22 @@ pinned: false
 1. [pybind/pybind11](https://github.com/pybind/pybind11)
 2. [wjakob/nanobind](https://github.com/wjakob/nanobind)
 
-## `nameof`宏
+## 反射
 
-1. [Neargye/nameof](https://github.com/Neargye/nameof)
-2. [bravikov/nameof](https://github.com/bravikov/nameof)
+1. [Neargye/magic_enum](https://github.com/Neargye/magic_enum)
+2. [rttrorg/rttr](https://github.com/rttrorg/rttr)
+3. [Neargye/nameof](https://github.com/Neargye/nameof)
+4. [veselink1/refl-cpp](https://github.com/veselink1/refl-cpp)
+5. [skypjack/meta](https://github.com/skypjack/meta)
+6. [cbeck88/visit_struct](https://github.com/cbeck88/visit_struct)
+7. [chakaz/reflang](https://github.com/chakaz/reflang)
+8. [bravikov/nameof](https://github.com/bravikov/nameof)
+
+## 模板元编程
+
+1. [brunocodutra/metal](https://github.com/brunocodutra/metal)
+2. [sabel83/mpllibs](https://github.com/sabel83/mpllibs)
+3. [ldionne/mpl11](https://github.com/ldionne/mpl11)
 
 ## 并发
 

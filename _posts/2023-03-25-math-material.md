@@ -46,8 +46,9 @@ pinned: false
 4. [michiganrobotics/rob101](https://github.com/michiganrobotics/rob101)
 5. [UMich-CURLY-teaching/UMich-ROB-530-public](https://github.com/UMich-CURLY-teaching/UMich-ROB-530-public)
 6. [thomasfermi/Algorithms-for-Automated-Driving](https://github.com/thomasfermi/Algorithms-for-Automated-Driving)
-7. [MobileRoboticsSkoltech/Perception-in-Robotics-course-T3-2021-Skoltech](https://github.com/MobileRoboticsSkoltech/Perception-in-Robotics-course-T3-2021-Skoltech)
-8. [kimsooyoung/robotics_python](https://github.com/kimsooyoung/robotics_python)
+7. [shuyong/study-notes-math](https://github.com/shuyong/study-notes-math)
+8. [MobileRoboticsSkoltech/Perception-in-Robotics-course-T3-2021-Skoltech](https://github.com/MobileRoboticsSkoltech/Perception-in-Robotics-course-T3-2021-Skoltech)
+9. [kimsooyoung/robotics_python](https://github.com/kimsooyoung/robotics_python)
 
 ## 参考
 
