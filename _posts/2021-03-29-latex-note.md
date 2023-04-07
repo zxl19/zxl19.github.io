@@ -783,9 +783,10 @@ int main()
 1. [Tables Generator](https://www.tablesgenerator.com)
 2. [excel2latex-CTAN](https://www.ctan.org/tex-archive/support/excel2latex)
 
-#### 字体
+#### 中文支持
 
-1. [Haixing-Hu/latex-chinese-fonts](https://github.com/Haixing-Hu/latex-chinese-fonts)
+1. [CTeX-org/ctex-kit](https://github.com/CTeX-org/ctex-kit)
+2. [Haixing-Hu/latex-chinese-fonts](https://github.com/Haixing-Hu/latex-chinese-fonts)
 
 #### 参考文献
 

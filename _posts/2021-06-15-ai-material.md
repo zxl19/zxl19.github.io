@@ -29,11 +29,12 @@ pinned: false
 7. [Foundations of Machine Learning](https://cs.nyu.edu/~mohri/mlbook/)
 8. [google-research/tuning_playbook](https://github.com/google-research/tuning_playbook)
 9. [openai/openai-cookbook](https://github.com/openai/openai-cookbook)
-10. [ahmedbahaaeldin/From-0-to-Research-Scientist-resources-guide](https://github.com/ahmedbahaaeldin/From-0-to-Research-Scientist-resources-guide)
-11. [Visualize-ML/Book7_Visualizations-for-Machine-Learning](https://github.com/Visualize-ML/Book7_Visualizations-for-Machine-Learning)
-12. [leerumor/ai-study](https://github.com/leerumor/ai-study)
-13. [mikeizbicki/cmc-csci143](https://github.com/mikeizbicki/cmc-csci143)
-14. [mikeizbicki/cmc-csci145-math166](https://github.com/mikeizbicki/cmc-csci145-math166)
+10. [andkret/Cookbook](https://github.com/andkret/Cookbook)
+11. [ahmedbahaaeldin/From-0-to-Research-Scientist-resources-guide](https://github.com/ahmedbahaaeldin/From-0-to-Research-Scientist-resources-guide)
+12. [Visualize-ML/Book7_Visualizations-for-Machine-Learning](https://github.com/Visualize-ML/Book7_Visualizations-for-Machine-Learning)
+13. [leerumor/ai-study](https://github.com/leerumor/ai-study)
+14. [mikeizbicki/cmc-csci143](https://github.com/mikeizbicki/cmc-csci143)
+15. [mikeizbicki/cmc-csci145-math166](https://github.com/mikeizbicki/cmc-csci145-math166)
 
 ## 笔记
 

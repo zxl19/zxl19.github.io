@@ -41,6 +41,8 @@ pinned: false
 
 1. [numpy/numpy](https://github.com/numpy/numpy)
 2. [pandas-dev/pandas](https://github.com/pandas-dev/pandas)
+3. [apache/superset](https://github.com/apache/superset)
+4. [great-expectations/great_expectations](https://github.com/great-expectations/great_expectations)
 
 ## 数据可视化
 
@@ -110,10 +112,13 @@ pinned: false
 
 1. [euske/pdfminer](https://github.com/euske/pdfminer)
 2. [pdfminer/pdfminer.six](https://github.com/pdfminer/pdfminer.six)
-3. [python-openxml/python-docx](https://github.com/python-openxml/python-docx)
-4. [pdfarranger/pdfarranger](https://github.com/pdfarranger/pdfarranger)
-5. [scanny/python-pptx](https://github.com/scanny/python-pptx)
-6. [dothinking/pdf2docx](https://github.com/dothinking/pdf2docx)
+3. [pdfarranger/pdfarranger](https://github.com/pdfarranger/pdfarranger)
+4. [dothinking/pdf2docx](https://github.com/dothinking/pdf2docx)
+
+### Office文档
+
+1. [python-openxml/python-docx](https://github.com/python-openxml/python-docx)
+2. [scanny/python-pptx](https://github.com/scanny/python-pptx)
 
 ## 参考
 
