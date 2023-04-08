@@ -33,8 +33,9 @@ pinned: false
 11. [ahmedbahaaeldin/From-0-to-Research-Scientist-resources-guide](https://github.com/ahmedbahaaeldin/From-0-to-Research-Scientist-resources-guide)
 12. [Visualize-ML/Book7_Visualizations-for-Machine-Learning](https://github.com/Visualize-ML/Book7_Visualizations-for-Machine-Learning)
 13. [leerumor/ai-study](https://github.com/leerumor/ai-study)
-14. [mikeizbicki/cmc-csci143](https://github.com/mikeizbicki/cmc-csci143)
-15. [mikeizbicki/cmc-csci145-math166](https://github.com/mikeizbicki/cmc-csci145-math166)
+14. [blueberrymusic/Deep-Learning-A-Visual-Approach](https://github.com/blueberrymusic/Deep-Learning-A-Visual-Approach)
+15. [mikeizbicki/cmc-csci143](https://github.com/mikeizbicki/cmc-csci143)
+16. [mikeizbicki/cmc-csci145-math166](https://github.com/mikeizbicki/cmc-csci145-math166)
 
 ## 笔记
 
