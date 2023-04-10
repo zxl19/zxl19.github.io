@@ -174,3 +174,4 @@ pinned: false
 6. [Linux上有哪些好用的绘图工具？-亿图图示的回答-知乎](https://www.zhihu.com/question/445559611/answer/1759893444)
 7. [在Linux命令行上编辑照片的4种方法丨Linux中国-Linux中国的文章-知乎](https://zhuanlan.zhihu.com/p/430719348)
 8. [DPReview.com to close](https://www.dpreview.com/news/5901145460/dpreview-com-to-close)
+9. [【DPReview】再见了，所有的DPReview-bilibili](https://www.bilibili.com/video/BV1ZM411N7EP)
