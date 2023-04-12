@@ -62,7 +62,6 @@ Eigen::Matrix3d R = SO3.matrix();               // 取旋转矩阵
 Eigen::Quaterniond q = SO3.unit_quaternion();   // 取单位四元数
 
 // 提取围绕固定坐标轴的旋转角，单位为弧度
-// 符合外旋欧拉角的定义，常用于组合导航设备
 double euler_x = SO3.angleX();                  // 围绕x轴的旋转角
 double euler_y = SO3.angleY();                  // 围绕y轴的旋转角
 double euler_z = SO3.angleZ();                  // 围绕z轴的旋转角

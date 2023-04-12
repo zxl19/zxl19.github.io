@@ -46,6 +46,10 @@ reboot
 
 ## 重装
 
+```text
+你将如闪电般归来。
+```
+
 1. 通过官网下载安装包，将下载链接中的`az764295.vo.msecnd.net`改为`vscode.cdn.azure.cn`可以提高下载速度；
 2. 通过`apt`安装：
 

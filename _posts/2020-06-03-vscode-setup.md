@@ -9,7 +9,7 @@ toc: true
 pinned: false
 ---
 
-简单记录一下目前我的VS Code配置，包括编辑器配置和扩展配置。
+简单记录一下目前我的VS Code配置，主要包括编辑器配置和扩展配置。
 
 <!-- more -->
 
@@ -330,6 +330,13 @@ Atom的深色主题，类似的主题还有City Lights theme、Material Theme（
 
 文件路径自动补全，类似的扩展还有Path Autocomplete。
 
+### Peacock
+
+修改左侧侧边栏以及底部状态栏颜色，类似的扩展还有Window Colors。
+
+1. `Ctrl`+`Shift`+`P`，输入`Peacock`进行设置；
+2. 颜色设置保存在`.vscode/settings.json`文件中；
+
 ### Pip Manager
 
 管理Python包，提供安装、删除、搜索、升级、指定版本等功能。
@@ -459,11 +466,42 @@ Typst语言扩展。
 
 绘制思维导图，类似的扩展还有Markmap。
 
-## 配置文件查看和修改
+## 常见问题及解决方法
+
+### 配置文件查看和修改
 
 1. 对于编辑器和插件的设置都会保存在`settings.json`配置文件中；
 2. `Ctrl`+`Shift`+`P`，输入`Preferences: Open User Settings (JSON)`进行查看和修改；
 3. 删除`settings.json`配置文件中大括号`{}`内部的内容可以将VS Code恢复默认设置；
+
+### 工作区中的最大文件数量
+
+1. 当工作区中的文件数量过多时会报错`Visual Studio Code is unable to watch for file changes in this large workspace`；
+2. 查看最大文件数量：
+
+    ```shell
+    cat /proc/sys/fs/inotify/max_user_watches
+    ```
+
+    默认为8192；
+
+3. 修改最大文件数量：
+
+    ```shell
+    sudo gedit /etc/sysctl.conf
+    ```
+
+    在最后一行添加：
+
+    ```text
+    fs.inotify.max_user_watches=524288
+    ```
+
+4. 应用最大文件数量设置：
+
+    ```shell
+    sudo sysctl -p
+    ```
 
 ## 快捷键速查表
 
