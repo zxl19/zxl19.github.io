@@ -33,10 +33,10 @@ struct pair {
     T1 first;                                               // 二元组的第一元
     T2 second;                                              // 二元组的第二元
     pair();                                                 // 默认构造函数
-    pair(const T1& x, const T2& y);                         // 构造first=x, second=y的二元组
-    template<class U, class V> pair(const pair<U, V>& p);   // 拷贝构造函数
-    template<class U, class V> pair(pair<U, V>&& p);        // 移动构造函数，&&表示右值引用，C++11引入
-    template<class U, class V> pair(U&& x, V&& y);          // 使用右值引用参数，创建pair对象，C++11引入
+    pair(const T1& x, const T2& y);                         // 构造first = x，second = y的二元组
+    template <class U, class V> pair(const pair<U, V>& p);  // 拷贝构造函数
+    template <class U, class V> pair(pair<U, V>&& p);       // 移动构造函数，&&表示右值引用，C++11引入
+    template <class U, class V> pair(U&& x, V&& y);         // 使用右值引用参数，创建pair对象，C++11引入
 }
 ```
 
@@ -74,4 +74,7 @@ pair<T1, T2> make_pair(T1 x, T2 y) {
 
 ## 参考
 
-1. [cplusplus](http://www.cplusplus.com)
+1. 《C++语言程序设计》
+2. [cplusplus](http://www.cplusplus.com)
+3. [cppreference](https://en.cppreference.com/w/)
+4. [C++ STL pair用法详解-C语言中文网](http://c.biancheng.net/view/7169.html)

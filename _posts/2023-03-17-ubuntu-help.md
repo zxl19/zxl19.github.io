@@ -82,9 +82,10 @@ python3 -m pip install tldr
 
 ### 网站
 
-1. [Devhints](https://devhints.io)
-2. [cheat.sh](https://cheat.sh)
-3. [bropages](http://bropages.org)
+1. [Cheat Sheet](https://cheat-sheets.org)
+2. [Devhints](https://devhints.io)
+3. [cheat.sh](https://cheat.sh)
+4. [bropages](http://bropages.org)
 
 ### GitHub
 
