@@ -21,7 +21,7 @@ pinned: false
     'Droid Sans Mono', 'monospace', monospace
     ```
 
-2. `Editor: Word Wrap`：设置超过窗口宽度后是否自动换行，默认关闭，对于Markdown默认开启；
+2. `Editor: Word Wrap`：设置超过窗口宽度后是否自动换行，默认关闭，对于Markdown默认开启，在设置中开启可以获得更好的显示效果；
 3. `Explorer`->`右键`->勾选`Open Editors`；
 4. 双击侧边栏和编辑区边界可以自动调整宽度；
 
@@ -544,4 +544,5 @@ Typst语言扩展。
 31. [装上这几个VSCode插件后，上班划水摸鱼不是梦-GitHub Daily的文章-知乎](https://zhuanlan.zhihu.com/p/58302580)
 32. [炸裂！VSCode 摸鱼神器！！！-YYds的文章-知乎](https://zhuanlan.zhihu.com/p/408767088)
 33. [VS CODE恢复出厂设置-bilibili](https://www.bilibili.com/video/BV12B4y1479v)
-34. [Kite is saying farewell](https://www.kite.com/blog/product/kite-is-saying-farewell/)
+34. [Visual Studio Code on Linux-Common questions](https://code.visualstudio.com/docs/setup/linux#_common-questions)
+35. [Kite is saying farewell](https://www.kite.com/blog/product/kite-is-saying-farewell/)
