@@ -34,14 +34,16 @@ Python学习资料存档，主要包括对于Python基础语法以及常用库�
 
 ## 书籍
 
-1. [Python Crash Course](http://ehmatthes.github.io/pcc/)
-2. [Automate the Boring Stuff with Python](https://automatetheboringstuff.com)
-3. [jakevdp/PythonDataScienceHandbook](https://github.com/jakevdp/PythonDataScienceHandbook)
-4. [ehmatthes/pcc](https://github.com/ehmatthes/pcc)
-5. [rougier/from-python-to-numpy](https://github.com/rougier/from-python-to-numpy)
-6. [rougier/scientific-visualization-book](https://github.com/rougier/scientific-visualization-book)
-7. [Visualize-ML/Book1_Python-For-Beginners](https://github.com/Visualize-ML/Book1_Python-For-Beginners)
-8. [Visualize-ML/Book2_Beauty-of-Data-Visualization](https://github.com/Visualize-ML/Book2_Beauty-of-Data-Visualization)
+1. [A Byte of Python](https://python.swaroopch.com)
+2. [Python Crash Course](http://ehmatthes.github.io/pcc/)
+3. [Automate the Boring Stuff with Python](https://automatetheboringstuff.com)
+4. [jakevdp/PythonDataScienceHandbook](https://github.com/jakevdp/PythonDataScienceHandbook)
+5. [ehmatthes/pcc](https://github.com/ehmatthes/pcc)
+6. [swaroopch/byte-of-python](https://github.com/swaroopch/byte-of-python)
+7. [rougier/from-python-to-numpy](https://github.com/rougier/from-python-to-numpy)
+8. [rougier/scientific-visualization-book](https://github.com/rougier/scientific-visualization-book)
+9. [Visualize-ML/Book1_Python-For-Beginners](https://github.com/Visualize-ML/Book1_Python-For-Beginners)
+10. [Visualize-ML/Book2_Beauty-of-Data-Visualization](https://github.com/Visualize-ML/Book2_Beauty-of-Data-Visualization)
 
 ## 代码规范
 

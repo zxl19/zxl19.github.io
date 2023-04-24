@@ -77,5 +77,5 @@ pinned: false
 ## 参考
 
 1. [同步Fork-CSDN博客](https://blog.csdn.net/qq1332479771/article/details/56087333)
-2. [Configuring a remote for a fork](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/configuring-a-remote-for-a-fork)
-3. [Syncing a fork](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/syncing-a-fork)
+2. [Configuring a remote for a fork-GitHub Docs](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/configuring-a-remote-for-a-fork)
+3. [Syncing a fork-GitHub Docs](https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/syncing-a-fork)
