@@ -116,6 +116,21 @@ SLAM学习资料存档，包括SLAM基础理论、卡尔曼滤波、组合导航
 3. [yuzhou42/GPS-INS-Integrated-Navigation](https://github.com/yuzhou42/GPS-INS-Integrated-Navigation)
 4. [jayoungo/SINS-GPS-Integrated-Navigation](https://github.com/jayoungo/SINS-GPS-Integrated-Navigation)
 
+## 自动驾驶
+
+### 网站
+
+1. [无人驾驶领域，你推荐那些综述性文章？-王方浩的回答-知乎](https://www.zhihu.com/question/355954682/answer/897296676)
+2. [Dig into Apollo](https://dig-into-apollo.readthedocs.io/en/latest/index.html)
+3. [Apollo 开放平台](https://daobook.github.io/apollo-book/docs/start/index.html)
+
+### GitHub
+
+1. [ApolloAuto/apollo](https://github.com/ApolloAuto/apollo)
+2. [daohu527/dig-into-apollo](https://github.com/daohu527/dig-into-apollo)
+3. [YannZyl/Apollo-Note](https://github.com/YannZyl/Apollo-Note)
+4. [autowarefoundation/autoware](https://github.com/autowarefoundation/autoware)
+
 ## 参考
 
 1. [《视觉SLAM学习过程所用资料总结》-行知SLAM的文章-知乎](https://zhuanlan.zhihu.com/p/259917664)
@@ -126,5 +141,4 @@ SLAM学习资料存档，包括SLAM基础理论、卡尔曼滤波、组合导航
 6. [Probabilistic Robotics](http://robots.stanford.edu/probabilistic-robotics/)
 7. [Tim Barfoot](http://asrl.utias.utoronto.ca/~tdb/)
 8. [Modern Robotics](http://hades.mech.northwestern.edu/index.php/Modern_Robotics)
-9. [无人驾驶领域，你推荐那些综述性文章？-王方浩的回答-知乎](https://www.zhihu.com/question/355954682/answer/897296676)
-10. [严恭敏的个人主页](https://teacher.nwpu.edu.cn/yangongmin.html)
+9. [严恭敏的个人主页](https://teacher.nwpu.edu.cn/yangongmin.html)

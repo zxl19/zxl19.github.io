@@ -24,6 +24,7 @@ Python学习资料存档，主要包括对于Python基础语法以及常用库�
 7. [wilfredinni/python-cheatsheet](https://github.com/wilfredinni/python-cheatsheet)
 8. [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python)
 9. [TommyZihao/zihaopython](https://github.com/TommyZihao/zihaopython)
+10. [AllAlgorithms/python](https://github.com/AllAlgorithms/python)
 
 ## 速查表
 

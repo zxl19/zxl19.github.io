@@ -35,7 +35,7 @@ pinned: false
 
 ### 设置赞赏按钮
 
-在仓库的`Settings->Features->Sponsorships`中进行设置，会在`.github`文件夹中生成`FUNDING.yml`文件，按照文件内的提示进行设置即可。如果不想注册相关网站可以上传微信赞赏码[^1]，在文件中添加微信赞赏码的链接来代替。
+在仓库中`Settings`->`General`->`Features`->`Sponsorships`，设置赞赏按钮，会在`.github`文件夹中生成`FUNDING.yml`文件，按照文件内的提示进行设置即可。如果不想注册相关网站可以上传微信赞赏码[^1]，在文件中添加微信赞赏码的链接来代替。
 
 <p align="center">
     <a href="https://zxl19.github.io">
@@ -45,13 +45,48 @@ pinned: false
 
 [^1]: 以我的赞赏码为例。
 
-### icon生成
+### 设置收藏夹图标
 
-使用[图标生成器](https://android-material-icon-generator.bitdroid.de)，自定义网页标签栏中显示的小图标。
+收藏夹图标（favicon）指的是在网页标签栏和书签中显示的小图标，使用[图标生成器](https://android-material-icon-generator.bitdroid.de)设置收藏夹图标[^2]。
+
+<p align="center">
+    <a href="https://zxl19.github.io">
+        <img src="https://raw.githubusercontent.com/zxl19/zxl19.github.io/master/images/icon.png" alt="my favicon" width="50">
+    </a>
+</p>
+
+[^2]: 以我的收藏夹图标为例。
 
 1. [Simple Icons](https://simpleicons.org)
 2. [Android Material Icon Generator](https://android-material-icon-generator.bitdroid.de)
 3. [Favicon Generator](https://redketchup.io/favicon-generator)
+4. [favicon.io](https://favicon.io)
+5. [免费Favicon.ico图标在线生成器](https://www.logosc.cn/logo/favicon)
+6. [图标制作大师](https://geticon.cn)
+7. [在线制作ico图标](https://www.bitbug.net)
+
+### 设置访问统计工具
+
+使用[RevolverMaps](https://www.revolvermaps.com)组件实时统计博客访问信息并进行可视化[^3]，在更新显示样式时提供原脚本可以保留之前的统计结果。
+
+```html
+<script type="text/javascript" src="//rf.revolvermaps.com/0/0/8.js?i=5qjglzc21e9&amp;m=0&amp;c=ff0000&amp;cr1=ffffff&amp;f=arial&amp;l=33" async="async"></script>
+```
+
+[^3]: 以我的脚本为例，其中包含随机生成的唯一ID。
+
+### 设置搜索引擎优化
+
+搜索引擎优化（Search Engine Optimization，SEO）的目的是为了提高博客在搜索结果中的排名，在搜索引擎中搜索博客地址：
+
+```text
+site:https://zxl19.github.io
+```
+
+如果搜索结果中包含博客内容，则说明博客已被搜索引擎收录。
+
+1. [Google Search Console](https://search.google.com/search-console/about)
+2. [XML-Sitemaps](https://www.xml-sitemaps.com)
 
 ## 常见问题及解决方法
 
@@ -81,9 +116,12 @@ pinned: false
 3. [各种开源协议介绍-菜鸟教程](https://www.runoob.com/w3cnote/open-source-license.html)
 4. [Open Source Guides](https://opensource.guide)
 5. [github/choosealicense.com](https://github.com/github/choosealicense.com)
-6. [【最新】解决Github网页上图片显示失败的问题-CSDN博客](https://blog.csdn.net/qq_38232598/article/details/91346392)
-7. [几条经验美化你的GitHub开源项目-简书](https://www.jianshu.com/p/d587b91bacb3)
+6. [几条经验美化你的GitHub开源项目-简书](https://www.jianshu.com/p/d587b91bacb3)
+7. [Favicon的使用方法与制作-UIhacker的文章-知乎](https://zhuanlan.zhihu.com/p/50613376)
 8. [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
 9. [Maddoc42/Android-Material-Icon-Generator](https://github.com/Maddoc42/Android-Material-Icon-Generator)
 10. [Online Tools-RedKetchup](https://redketchup.io)
-11. [如何制作个人学术主页？-知乎](https://www.zhihu.com/question/281476526)
+11. [RevolverMaps](https://www.revolvermaps.com)
+12. [谷歌搜索到自己在github的个人博客](https://fgc346.github.io/2023/04/13/OwnSiteByGoogleSearch/)
+13. [【最新】解决Github网页上图片显示失败的问题-CSDN博客](https://blog.csdn.net/qq_38232598/article/details/91346392)
+14. [如何制作个人学术主页？-知乎](https://www.zhihu.com/question/281476526)

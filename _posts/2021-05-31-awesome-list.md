@@ -32,8 +32,9 @@ The main repository serves as a curated list of awesome lists.
 
 1. [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp)
 2. [rigtorp/awesome-modern-cpp](https://github.com/rigtorp/awesome-modern-cpp)
-3. [onqtam/awesome-cmake](https://github.com/onqtam/awesome-cmake)
-4. [p-ranav/awesome-hpp](https://github.com/p-ranav/awesome-hpp)
+3. [jobbole/awesome-cpp-cn](https://github.com/jobbole/awesome-cpp-cn)
+4. [onqtam/awesome-cmake](https://github.com/onqtam/awesome-cmake)
+5. [p-ranav/awesome-hpp](https://github.com/p-ranav/awesome-hpp)
 
 ## Python
 
