@@ -17,7 +17,7 @@ pinned: false
 
 ### 选择博客模板
 
-选择合适的博客模板可以实现更加复杂的博客功能并提高博客的美观性，具体可以在[Jekyll Themes](http://jekyllthemes.org)网站上进行选择。本博客使用[FromEndWorld/LOFFER](https://github.com/FromEndWorld/LOFFER)模板进行搭建，具体使用方式按照补充说明后的模板教程，在此向原作者表示感谢。完成此步骤之后，可以实现基本的博客功能。
+选择合适的博客模板可以实现更加复杂的博客功能并提高博客的美观性，具体可以在[Jekyll Themes](http://jekyllthemes.org)网站上进行选择。本博客使用[FromEndWorld/LOFFER](https://github.com/FromEndWorld/LOFFER)模板进行搭建，具体使用方式参考模板教程，在此向原作者表示感谢。完成此步骤之后，可以实现基本的博客功能。
 
 1. [academicpages/academicpages.github.io](https://github.com/academicpages/academicpages.github.io)
 2. [FromEndWorld/LOFFER](https://github.com/FromEndWorld/LOFFER)
@@ -47,7 +47,7 @@ pinned: false
 
 ### 设置收藏夹图标
 
-收藏夹图标（favicon）指的是在网页标签栏和书签中显示的小图标，使用[图标生成器](https://android-material-icon-generator.bitdroid.de)设置收藏夹图标[^2]。
+收藏夹图标（favicon）指的是在网页标签栏和书签中显示的小图标，使用[图标生成器](https://android-material-icon-generator.bitdroid.de)制作收藏夹图标[^2]，在`_config.yml`文件中设置。
 
 <p align="center">
     <a href="https://zxl19.github.io">
@@ -64,6 +64,10 @@ pinned: false
 5. [免费Favicon.ico图标在线生成器](https://www.logosc.cn/logo/favicon)
 6. [图标制作大师](https://geticon.cn)
 7. [在线制作ico图标](https://www.bitbug.net)
+
+### 设置评论区组件
+
+LOFFER模板自V0.5.0开始支持[utterances](https://utteranc.es)评论区组件，安装这个GitHub App后可以将博客评论映射到仓库Issue，在`_config.yml`文件中设置。
 
 ### 设置访问统计工具
 

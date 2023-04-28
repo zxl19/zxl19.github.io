@@ -159,12 +159,13 @@ pinned: false
 
 ## 写作规范
 
-1. [MLNLP-World/Paper-Writing-Tips](https://github.com/MLNLP-World/Paper-Writing-Tips)
-2. [guanyingc/latex_paper_writing_tips](https://github.com/guanyingc/latex_paper_writing_tips)
-3. [Haixing-Hu/typesetting-standard](https://github.com/Haixing-Hu/typesetting-standard)
-4. [writing-resources/awesome-scientific-writing](https://github.com/writing-resources/awesome-scientific-writing)
-5. [wangdongdut/PaperWriting](https://github.com/wangdongdut/PaperWriting)
-6. [cooelf/PaperWritingTips](https://github.com/cooelf/PaperWritingTips)
+1. [sparanoid/chinese-copywriting-guidelines](https://github.com/sparanoid/chinese-copywriting-guidelines)
+2. [MLNLP-World/Paper-Writing-Tips](https://github.com/MLNLP-World/Paper-Writing-Tips)
+3. [guanyingc/latex_paper_writing_tips](https://github.com/guanyingc/latex_paper_writing_tips)
+4. [Haixing-Hu/typesetting-standard](https://github.com/Haixing-Hu/typesetting-standard)
+5. [writing-resources/awesome-scientific-writing](https://github.com/writing-resources/awesome-scientific-writing)
+6. [wangdongdut/PaperWriting](https://github.com/wangdongdut/PaperWriting)
+7. [cooelf/PaperWritingTips](https://github.com/cooelf/PaperWritingTips)
 
 ### 英文写作
 

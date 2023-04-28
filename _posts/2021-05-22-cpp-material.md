@@ -41,14 +41,15 @@ C++学习资料存档。
 
 ### C++新特性
 
-1. [changkun/modern-cpp-tutorial](https://github.com/changkun/modern-cpp-tutorial)
-2. [AnthonyCalandra/modern-cpp-features](https://github.com/AnthonyCalandra/modern-cpp-features)
-3. [rigtorp/awesome-modern-cpp](https://github.com/rigtorp/awesome-modern-cpp)
-4. [CnTransGroup/EffectiveModernCppChinese](https://github.com/CnTransGroup/EffectiveModernCppChinese)
-5. [0voice/cpp_new_features](https://github.com/0voice/cpp_new_features)
-6. [federico-busato/Modern-CPP-Programming](https://github.com/federico-busato/Modern-CPP-Programming)
-7. [muqsitnawaz/modern-cpp-cheatsheet](https://github.com/muqsitnawaz/modern-cpp-cheatsheet)
-8. [netcan/advanced-cpp20-programming](https://github.com/netcan/advanced-cpp20-programming)
+1. [Cpp-Club/Cxx_HOPL4_zh](https://github.com/Cpp-Club/Cxx_HOPL4_zh)
+2. [changkun/modern-cpp-tutorial](https://github.com/changkun/modern-cpp-tutorial)
+3. [AnthonyCalandra/modern-cpp-features](https://github.com/AnthonyCalandra/modern-cpp-features)
+4. [rigtorp/awesome-modern-cpp](https://github.com/rigtorp/awesome-modern-cpp)
+5. [CnTransGroup/EffectiveModernCppChinese](https://github.com/CnTransGroup/EffectiveModernCppChinese)
+6. [0voice/cpp_new_features](https://github.com/0voice/cpp_new_features)
+7. [federico-busato/Modern-CPP-Programming](https://github.com/federico-busato/Modern-CPP-Programming)
+8. [muqsitnawaz/modern-cpp-cheatsheet](https://github.com/muqsitnawaz/modern-cpp-cheatsheet)
+9. [netcan/advanced-cpp20-programming](https://github.com/netcan/advanced-cpp20-programming)
 
 ### C++并发
 

@@ -83,6 +83,10 @@ C/C++语言扩展。
 
 可以在扩展中指定`clang-format`可执行文件的路径，如果未指定，则会优先使用环境变量中`clang-format`可执行文件的路径；如果未在环境变量中找到，则会使用扩展自带的`clang-format`可执行文件。
 
+### ChatGPT-EasyCode
+
+使用ChatGPT，类似的扩展还有Super ChatGPT。
+
 ### Chinese (Simplified) Language Pack for Visual Studio Code
 
 VS Code中文汉化。
@@ -414,10 +418,6 @@ Python语言扩展，安装Pylance、Pylint、isort、Jupyter（包括Jupyter Ce
 ### shellman
 
 对于shell脚本进行自动补全。
-
-### Super ChatGPT
-
-免费使用ChatGPT，每天限制20次。
 
 ### Todo Tree
 
