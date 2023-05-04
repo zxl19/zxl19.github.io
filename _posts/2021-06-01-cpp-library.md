@@ -59,7 +59,9 @@ pinned: false
 ## 基础库
 
 1. [facebook/folly](https://github.com/facebook/folly)
-2. [idealvin/coost](https://github.com/idealvin/coost)
+2. [nothings/stb](https://github.com/nothings/stb)
+3. [nothings/single_file_libs](https://github.com/nothings/single_file_libs)
+4. [idealvin/coost](https://github.com/idealvin/coost)
 
 ## 参数读取
 
@@ -69,9 +71,10 @@ pinned: false
 2. [gflags/gflags](https://github.com/gflags/gflags)
 3. [CLIUtils/CLI11](https://github.com/CLIUtils/CLI11)
 4. [p-ranav/argparse](https://github.com/p-ranav/argparse)
-5. [Taywee/args](https://github.com/Taywee/args)
-6. [p-ranav/structopt](https://github.com/p-ranav/structopt)
-7. [cparse/cparse](https://github.com/cparse/cparse)
+5. [tanakh/cmdline](https://github.com/tanakh/cmdline)
+6. [Taywee/args](https://github.com/Taywee/args)
+7. [p-ranav/structopt](https://github.com/p-ranav/structopt)
+8. [cparse/cparse](https://github.com/cparse/cparse)
 
 ### 配置文件参数
 
