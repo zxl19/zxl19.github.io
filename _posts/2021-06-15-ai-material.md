@@ -84,7 +84,8 @@ pinned: false
 4. [automl/auto-sklearn](https://github.com/automl/auto-sklearn)
 5. [nebuly-ai/nebullvm](https://github.com/nebuly-ai/nebullvm)
 6. [autogluon/autogluon](https://github.com/autogluon/autogluon)
-7. [kubeflow/katib](https://github.com/kubeflow/katib)
+7. [allegroai/clearml](https://github.com/allegroai/clearml)
+8. [kubeflow/katib](https://github.com/kubeflow/katib)
 
 ## 模型部署
 
