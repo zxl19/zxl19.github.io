@@ -127,6 +127,9 @@ pinned: false
 1. [lava/matplotlib-cpp](https://github.com/lava/matplotlib-cpp)
 2. [sciplot/sciplot](https://github.com/sciplot/sciplot)
 3. [dstahlke/gnuplot-iostream](https://github.com/dstahlke/gnuplot-iostream)
+4. [Profactor/cv-plot](https://github.com/Profactor/cv-plot)
+5. [leovandriel/cvplot](https://github.com/leovandriel/cvplot)
+6. [fbbdev/plot](https://github.com/fbbdev/plot)
 
 ## 机器学习&深度学习
 
