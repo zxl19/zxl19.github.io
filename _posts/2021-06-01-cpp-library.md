@@ -217,6 +217,8 @@ pinned: false
 
 1. [zeromq/libzmq](https://github.com/zeromq/libzmq)
 2. [zeromq/cppzmq](https://github.com/zeromq/cppzmq)
+3. [nanomsg/nanomsg](https://github.com/nanomsg/nanomsg)
+4. [nanomsg/nng](https://github.com/nanomsg/nng)
 
 ### 网络库
 

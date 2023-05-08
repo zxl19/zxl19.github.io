@@ -51,11 +51,12 @@ pinned: false
 3. [pyecharts/pyecharts](https://github.com/pyecharts/pyecharts)
 4. [plotly/plotly.py](https://github.com/plotly/plotly.py)
 5. [altair-viz/altair](https://github.com/altair-viz/altair)
-6. [holoviz/geoviews](https://github.com/holoviz/geoviews)
-7. [tensorflow/tensorboard](https://github.com/tensorflow/tensorboard)
-8. [lanpa/tensorboardX](https://github.com/lanpa/tensorboardX)
-9. [fossasia/visdom](https://github.com/fossasia/visdom)
-10. [wordcloud](https://pypi.org/project/wordcloud)
+6. [SciTools/cartopy](https://github.com/SciTools/cartopy)
+7. [holoviz/geoviews](https://github.com/holoviz/geoviews)
+8. [tensorflow/tensorboard](https://github.com/tensorflow/tensorboard)
+9. [lanpa/tensorboardX](https://github.com/lanpa/tensorboardX)
+10. [fossasia/visdom](https://github.com/fossasia/visdom)
+11. [wordcloud](https://pypi.org/project/wordcloud)
 
 ## 命令行输出
 

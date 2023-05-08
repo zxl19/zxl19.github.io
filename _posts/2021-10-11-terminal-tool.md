@@ -123,6 +123,7 @@ pinned: false
 ## 彩蛋和游戏
 
 1. [40个超有趣的Linux命令行彩蛋和游戏.md](https://github.com/TommyZihao/Zihao-Blog)
+2. [hpjansson/chafa](https://github.com/hpjansson/chafa)
 
 ## 参考
 
