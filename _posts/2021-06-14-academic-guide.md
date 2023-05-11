@@ -31,12 +31,13 @@ pinned: false
 1. [jbhuang0604/awesome-tips](https://github.com/jbhuang0604/awesome-tips)
 2. [bighuang624/AI-research-tools](https://github.com/bighuang624/AI-research-tools)
 3. [shengyp/doing_the_PhD](https://github.com/shengyp/doing_the_PhD)
-4. [JunweiLiang/awesome_lists](https://github.com/JunweiLiang/awesome_lists)
-5. [macoj/phd](https://github.com/macoj/phd)
-6. [alirezasamar/awesome-phd](https://github.com/alirezasamar/awesome-phd)
-7. [zheng95z/teach-yourself-research](https://github.com/zheng95z/teach-yourself-research)
-8. [yufree/sciguide](https://github.com/yufree/sciguide)
-9. [weisongwen/researchTools](https://github.com/weisongwen/researchTools)
+4. [pengsida/learning_research](https://github.com/pengsida/learning_research)
+5. [JunweiLiang/awesome_lists](https://github.com/JunweiLiang/awesome_lists)
+6. [macoj/phd](https://github.com/macoj/phd)
+7. [alirezasamar/awesome-phd](https://github.com/alirezasamar/awesome-phd)
+8. [zheng95z/teach-yourself-research](https://github.com/zheng95z/teach-yourself-research)
+9. [yufree/sciguide](https://github.com/yufree/sciguide)
+10. [weisongwen/researchTools](https://github.com/weisongwen/researchTools)
 
 ## ChatGPT
 
@@ -44,7 +45,8 @@ pinned: false
 2. [kaixindelele/ChatPaper](https://github.com/kaixindelele/ChatPaper)
 3. [Bin-Huang/chatbox](https://github.com/Bin-Huang/chatbox)
 4. [TheR1D/shell_gpt](https://github.com/TheR1D/shell_gpt)
-5. [talkingwallace/ChatGPT-Paper-Reader](https://github.com/talkingwallace/ChatGPT-Paper-Reader)
+5. [imartinez/privateGPT](https://github.com/imartinez/privateGPT)
+6. [talkingwallace/ChatGPT-Paper-Reader](https://github.com/talkingwallace/ChatGPT-Paper-Reader)
 
 ## 参考
 
