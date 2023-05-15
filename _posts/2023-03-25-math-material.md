@@ -25,7 +25,8 @@ pinned: false
 8. [Ewenwan/Mathematics](https://github.com/Ewenwan/Mathematics)
 9. [shervinea/stanford-cme-106-probability-and-statistics](https://github.com/shervinea/stanford-cme-106-probability-and-statistics)
 10. [psibi/how-to-prove](https://github.com/psibi/how-to-prove)
-11. [JackyWang2001/JackyWang2001.github.io](https://github.com/JackyWang2001/JackyWang2001.github.io)
+11. [KafCoppelia/Free_Courses_Notes](https://github.com/KafCoppelia/Free_Courses_Notes)
+12. [JackyWang2001/JackyWang2001.github.io](https://github.com/JackyWang2001/JackyWang2001.github.io)
 
 ## 线性代数
 
