@@ -92,14 +92,15 @@ SLAM学习资料存档，包括SLAM基础理论、卡尔曼滤波、组合导航
 1. [mherb/kalman](https://github.com/mherb/kalman)
 2. [hmartiro/kalman-cpp](https://github.com/hmartiro/kalman-cpp)
 3. [sfwa/ukf](https://github.com/sfwa/ukf)
-4. [artivis/kalmanif](https://github.com/artivis/kalmanif)
-5. [hku-mars/IKFoM](https://github.com/hku-mars/IKFoM)
-6. [jeremyfix/easykf](https://github.com/jeremyfix/easykf)
-7. [je310/ESKF](https://github.com/je310/ESKF)
-8. [pronenewbits/Embedded_EKF_Library](https://github.com/pronenewbits/Embedded_EKF_Library)
-9. [pronenewbits/Embedded_UKF_Library](https://github.com/pronenewbits/Embedded_UKF_Library)
-10. [OpenSLAM-org/openslam_MTK](https://github.com/OpenSLAM-org/openslam_MTK)
-11. [xinyang-go/eskf](https://github.com/xinyang-go/eskf)
+4. [xiahouzuoxin/kalman_filter](https://github.com/xiahouzuoxin/kalman_filter)
+5. [artivis/kalmanif](https://github.com/artivis/kalmanif)
+6. [hku-mars/IKFoM](https://github.com/hku-mars/IKFoM)
+7. [jeremyfix/easykf](https://github.com/jeremyfix/easykf)
+8. [je310/ESKF](https://github.com/je310/ESKF)
+9. [pronenewbits/Embedded_EKF_Library](https://github.com/pronenewbits/Embedded_EKF_Library)
+10. [pronenewbits/Embedded_UKF_Library](https://github.com/pronenewbits/Embedded_UKF_Library)
+11. [OpenSLAM-org/openslam_MTK](https://github.com/OpenSLAM-org/openslam_MTK)
+12. [xinyang-go/eskf](https://github.com/xinyang-go/eskf)
 
 ## 组合导航
 
