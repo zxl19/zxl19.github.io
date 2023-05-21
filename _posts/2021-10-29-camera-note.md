@@ -68,6 +68,7 @@ pinned: false
 10. [【DPReview】为什么快门角度比快门速度更好（对于视频拍摄）](https://www.bilibili.com/video/BV1pt4y1H7sW)
 11. [【DPReview】片门全开是什么意思？丨以及你为什么要在乎这件事](https://www.bilibili.com/video/BV1FV4y1N7Vq)
 12. [【DPReview】一种改进视频自动对焦的简单办法](https://www.bilibili.com/video/BV1124y147ZR)
+13. [【摄影入门】P、A、S、M、B这些相机档位都是什么意思？该怎么用？](https://www.bilibili.com/video/BV1Ls4y1w7sg)
 
 ### 清洁保养
 

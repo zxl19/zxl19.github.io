@@ -142,9 +142,10 @@ pinned: false
 7. [flashlight/flashlight](https://github.com/flashlight/flashlight)
 8. [mlpack/mlpack](https://github.com/mlpack/mlpack)
 9. [NVlabs/tiny-cuda-nn](https://github.com/NVlabs/tiny-cuda-nn)
-10. [yixuan/MiniDNN](https://github.com/yixuan/MiniDNN)
-11. [arrayfire/arrayfire-ml](https://github.com/arrayfire/arrayfire-ml)
-12. [rockcarry/ffcnn](https://github.com/rockcarry/ffcnn)
+10. [ggerganov/ggml](https://github.com/ggerganov/ggml)
+11. [yixuan/MiniDNN](https://github.com/yixuan/MiniDNN)
+12. [arrayfire/arrayfire-ml](https://github.com/arrayfire/arrayfire-ml)
+13. [rockcarry/ffcnn](https://github.com/rockcarry/ffcnn)
 
 ## 数学计算
 
@@ -226,7 +227,8 @@ pinned: false
 2. [libevent/libevent](https://github.com/libevent/libevent)
 3. [yhirose/cpp-httplib](https://github.com/yhirose/cpp-httplib)
 4. [ithewei/libhv](https://github.com/ithewei/libhv)
-5. [skypjack/uvw](https://github.com/skypjack/uvw)
+5. [libcpr/cpr](https://github.com/libcpr/cpr)
+6. [skypjack/uvw](https://github.com/skypjack/uvw)
 
 ## 数据结构
 
