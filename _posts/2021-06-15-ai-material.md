@@ -88,6 +88,11 @@ pinned: false
 8. [determined-ai/determined](https://github.com/determined-ai/determined)
 9. [kubeflow/katib](https://github.com/kubeflow/katib)
 
+## 神经网络分析
+
+1. [amirgholami/PyHessian](https://github.com/amirgholami/PyHessian)
+2. [Verified-Intelligence/auto_LiRPA](https://github.com/Verified-Intelligence/auto_LiRPA)
+
 ## 模型部署
 
 ### 框架

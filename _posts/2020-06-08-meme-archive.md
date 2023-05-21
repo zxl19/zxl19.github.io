@@ -49,6 +49,7 @@ Meme这个词最初源自英国著名科学家理查德·道金斯所著的《�
 1. [wenyan-lang/wenyan](https://github.com/wenyan-lang/wenyan)
 2. [StepfenShawn/Cantonese](https://github.com/StepfenShawn/Cantonese)
 3. [Rick-Lang/rickroll-lang](https://github.com/Rick-Lang/rickroll-lang)
+4. [duo001/evil.js](https://github.com/duo001/evil.js)
 
 ## 游戏
 
@@ -59,10 +60,11 @@ Meme这个词最初源自英国著名科学家理查德·道金斯所著的《�
 5. [合成大西瓜](http://tool.liumingye.cn/watermelon/)
 6. [EVANGELION & 扫雷](https://v.magiconch.com/mine-sweeper)
 7. [Norman the Necromancer](https://js13kgames.com/entries/norman-the-necromancer)
-8. [electronicarts/CnC_Remastered_Collection](https://github.com/electronicarts/CnC_Remastered_Collection)
-9. [OpenRA/OpenRA](https://github.com/OpenRA/OpenRA)
-10. [CleverRaven/Cataclysm-DDA](https://github.com/CleverRaven/Cataclysm-DDA)
-11. [js13kGames/resources](https://github.com/js13kGames/resources)
+8. [yuzu-emu/yuzu](https://github.com/yuzu-emu/yuzu)
+9. [electronicarts/CnC_Remastered_Collection](https://github.com/electronicarts/CnC_Remastered_Collection)
+10. [OpenRA/OpenRA](https://github.com/OpenRA/OpenRA)
+11. [CleverRaven/Cataclysm-DDA](https://github.com/CleverRaven/Cataclysm-DDA)
+12. [js13kGames/resources](https://github.com/js13kGames/resources)
 
 ## 工具箱
 
@@ -97,9 +99,10 @@ Meme这个词最初源自英国著名科学家理查德·道金斯所著的《�
 
 ### 投资理财
 
-1. [slowmist/Blockchain-dark-forest-selfguard-handbook](https://github.com/slowmist/Blockchain-dark-forest-selfguard-handbook)
-2. [fairyly/you-need-know-house_knowledge](https://github.com/fairyly/you-need-know-house_knowledge)
-3. [apachecn/the-way-to-wealth-freedom-notes](https://github.com/apachecn/the-way-to-wealth-freedom-notes)
+1. [shengcaishizhan/kkndme_tianya](https://github.com/shengcaishizhan/kkndme_tianya)
+2. [slowmist/Blockchain-dark-forest-selfguard-handbook](https://github.com/slowmist/Blockchain-dark-forest-selfguard-handbook)
+3. [fairyly/you-need-know-house_knowledge](https://github.com/fairyly/you-need-know-house_knowledge)
+4. [apachecn/the-way-to-wealth-freedom-notes](https://github.com/apachecn/the-way-to-wealth-freedom-notes)
 
 ### 其他
 

@@ -33,11 +33,12 @@ pinned: false
 3. [shengyp/doing_the_PhD](https://github.com/shengyp/doing_the_PhD)
 4. [pengsida/learning_research](https://github.com/pengsida/learning_research)
 5. [JunweiLiang/awesome_lists](https://github.com/JunweiLiang/awesome_lists)
-6. [macoj/phd](https://github.com/macoj/phd)
-7. [alirezasamar/awesome-phd](https://github.com/alirezasamar/awesome-phd)
-8. [zheng95z/teach-yourself-research](https://github.com/zheng95z/teach-yourself-research)
-9. [yufree/sciguide](https://github.com/yufree/sciguide)
-10. [weisongwen/researchTools](https://github.com/weisongwen/researchTools)
+6. [greenbellpepper/GreenPepper](https://github.com/greenbellpepper/GreenPepper)
+7. [macoj/phd](https://github.com/macoj/phd)
+8. [alirezasamar/awesome-phd](https://github.com/alirezasamar/awesome-phd)
+9. [zheng95z/teach-yourself-research](https://github.com/zheng95z/teach-yourself-research)
+10. [yufree/sciguide](https://github.com/yufree/sciguide)
+11. [weisongwen/researchTools](https://github.com/weisongwen/researchTools)
 
 ## ChatGPT
 
