@@ -157,10 +157,12 @@ pinned: false
 ## 相关网站
 
 1. [Digital Photography Review](https://www.dpreview.com)
-2. [DXOMARK](https://www.dxomark.com)
-3. [Digital Camera World](https://www.digitalcameraworld.com)
-4. [Fuji Rumors](https://www.fujirumors.com)
-5. [Nikon Rumors](https://nikonrumors.com)
+2. [PetaPixel](https://petapixel.com)
+3. [DXOMARK](https://www.dxomark.com)
+4. [Digital Camera World](https://www.digitalcameraworld.com)
+5. [DOF simulator](https://dofsimulator.net/en/)
+6. [Fuji Rumors](https://www.fujirumors.com)
+7. [Nikon Rumors](https://nikonrumors.com)
 
 **2023年3月：亚马逊宣布将在2023年4月10日关闭DPReview。**
 
@@ -177,3 +179,4 @@ pinned: false
 9. [【DPReview】再见了，所有的DPReview-bilibili](https://www.bilibili.com/video/BV1ZM411N7EP)
 10. [【DPReview】我们最喜欢的DPReview TV时刻（用玩偶重现！）-bilibili](https://www.bilibili.com/video/BV1Ks4y1P7JA)
 11. [【DPReview】胡子哥和乔丹在DPReview的这几年测评过的最喜欢的5款摄影器材-bilibili](https://www.bilibili.com/video/BV1HT411p7uE)
+12. [各大相机公司推出恒定F4的小三元镜头的目的是什么？非大光圈的恒定光圈意义体现在哪里？-知乎用户的回答-知乎](https://www.zhihu.com/question/34306403/answer/2654034347)

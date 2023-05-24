@@ -52,6 +52,7 @@ pinned: false
 13. [zerosoul/github-star-stats](https://github.com/zerosoul/github-star-stats)
 14. [GitHub Star History](https://star-history.com)
 15. [RevolverMaps](https://www.revolvermaps.com)
+16. [Free website hit counter](https://www.free-website-hit-counter.com)
 
 ## 美化
 
