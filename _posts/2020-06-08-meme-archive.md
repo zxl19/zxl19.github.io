@@ -51,6 +51,11 @@ Meme这个词最初源自英国著名科学家理查德·道金斯所著的《�
 3. [Rick-Lang/rickroll-lang](https://github.com/Rick-Lang/rickroll-lang)
 4. [duo001/evil.js](https://github.com/duo001/evil.js)
 
+## CAX
+
+1. [FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD)
+2. [nasa/NASA-3D-Resources](https://github.com/nasa/NASA-3D-Resources)
+
 ## 游戏
 
 1. [Red Alert 2](https://game.chronodivide.com)

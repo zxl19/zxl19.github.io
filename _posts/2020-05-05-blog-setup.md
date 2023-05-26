@@ -79,6 +79,9 @@ LOFFER模板自V0.5.0开始支持[utterances](https://utteranc.es)评论区组�
 
 [^3]: 以我的脚本为例，其中包含随机生成的唯一ID。
 
+1. [RevolverMaps](https://www.revolvermaps.com)
+2. [Free website hit counter](https://www.free-website-hit-counter.com)
+
 ### 设置搜索引擎优化
 
 搜索引擎优化（Search Engine Optimization，SEO）的目的是为了提高博客在搜索结果中的排名，在搜索引擎中搜索博客地址：
@@ -92,7 +95,71 @@ site:https://zxl19.github.io
 1. [Google Search Console](https://search.google.com/search-console/about)
 2. [XML-Sitemaps](https://www.xml-sitemaps.com)
 
+## 博客模板使用说明及格式约定
+
+1. `_posts`文件夹中的每个`.md`文件对应一篇文章，文件名格式为`year-month-day-url.md`，以本文为例进行说明：
+
+    - `year-month-day`为文件创建日期，例如：`2020-05-05`；
+    - `url`为文章对应的二级域名，建议使用文章主题词，一般为两个单词，最多不超过三个单词，例如：`blog-setup`；
+    - 博客模板不会使用隐藏的`.md`文件生成网页，因此在文件名前加`.`可以将文件隐藏，进而将对应文章隐藏；
+
+2. 文章头部格式约定，以本文为例进行说明：
+
+    ```markdown
+    ---
+    layout: post
+    title: 如何利用GitHub搭建个人主页
+    date: 2020-05-05
+    author: zxl19
+    categories:
+    tags: [Blog, GitHub, Note]
+    comments: true
+    toc: true
+    pinned: false
+    ---
+    ```
+
+    - `layout`：排版样式，文章为`post`，对应`_layouts`文件夹中的`post.html`文件；
+    - `title`：博客中显示的标题；
+    - `date`：博客中显示的日期：
+
+        - 博客模板根据此处的日期对于文章进行排序；
+        - 建议此处使用最近一次修改日期，文件名中使用创建日期；
+        - 为了避免文章顺序频繁变化，约定此处使用文件创建日期；
+
+    - `author`：作者，多个作者使用英文逗号隔开，不需要使用中括号括起来；
+    - `categories`：含义尚不明；
+    - `tags`：标签；
+
+        - 按照字母顺序排列，数量上尽量精简；
+        - 多个标签使用英文逗号隔开，使用中括号括起来；
+        - 最后一个标签表示文章类型，目前分为以下三种：
+
+            | 标签 | 文章类型 |
+            | :------ | :------ |
+            | `Archive` | 资料存档，不定期更新 |
+            | `Blog` | 博客，与生活相关 |
+            | `Note` | 学习笔记，不定期更新 |
+
+    - `comments`：是否开放评论，默认开放；
+    - `toc`：是否生成目录，默认生成；
+    - `pinned`：是否置顶，默认不置顶；
+
+        - 置顶文章会在博客首页顶端显示，应尽量减少置顶文章数量，使博客显示美观；
+        - 约定将所有需要置顶的文章链接按照时间顺序添加到`2023-02-27-hall-of-fame.md`文件中，只将这篇文章置顶；
+
+3. 文章正文格式约定：
+
+    - 为了防止自动截取摘要失败，约定在文章第一段后添加手动截取摘要的标记`<!-- more -->`，将包含特殊符号、代码块、表格的部分放在标记之后；
+    - 为了文章显示美观，约定文章中不使用一级标题`#`，从二级标题`##`开始使用；
+    - 为了防止排版样式显示错误，在文章正文中避免使用`|`，约定使用汉字“|”（音：滚）代替；
+    - 为了防止有序列表序号显示不连续，约定将代码段和表格缩进到有序列表中；
+
 ## 常见问题及解决方法
+
+### 无法生成网站
+
+仓库属性必须为`Public`，否则无法生成网站。如果仓库属性设置错误，需要修改仓库属性后`git commit`+`git push`一次才能恢复正常。
 
 ### GitHub图片显示失败
 

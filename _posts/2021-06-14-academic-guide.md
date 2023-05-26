@@ -43,11 +43,12 @@ pinned: false
 ## ChatGPT
 
 1. [binary-husky/chatgpt_academic](https://github.com/binary-husky/chatgpt_academic)
-2. [kaixindelele/ChatPaper](https://github.com/kaixindelele/ChatPaper)
-3. [Bin-Huang/chatbox](https://github.com/Bin-Huang/chatbox)
-4. [TheR1D/shell_gpt](https://github.com/TheR1D/shell_gpt)
-5. [imartinez/privateGPT](https://github.com/imartinez/privateGPT)
-6. [talkingwallace/ChatGPT-Paper-Reader](https://github.com/talkingwallace/ChatGPT-Paper-Reader)
+2. [imartinez/privateGPT](https://github.com/imartinez/privateGPT)
+3. [kaixindelele/ChatPaper](https://github.com/kaixindelele/ChatPaper)
+4. [Bin-Huang/chatbox](https://github.com/Bin-Huang/chatbox)
+5. [TheR1D/shell_gpt](https://github.com/TheR1D/shell_gpt)
+6. [WangRongsheng/ChatGenTitle](https://github.com/WangRongsheng/ChatGenTitle)
+7. [talkingwallace/ChatGPT-Paper-Reader](https://github.com/talkingwallace/ChatGPT-Paper-Reader)
 
 ## 参考
 
