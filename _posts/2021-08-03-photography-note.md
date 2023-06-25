@@ -71,6 +71,17 @@ pinned: false
 1. [推荐一些摄影有关的书籍-平老虎的文章-知乎](https://zhuanlan.zhihu.com/p/44462745)
 2. [【干货】获奖摄影师的学习方法！从0到职业该如何有方法的学习？](https://www.bilibili.com/video/BV14K411K7df)
 
+## 前期准备
+
+### 工具
+
+#### 手机APP
+
+1. Snap Bridge
+2. 巧摄
+3. 莉景天气
+4. 日出日落月相
+
 ## 后期处理
 
 ### 工具
@@ -160,9 +171,10 @@ pinned: false
 2. [PetaPixel](https://petapixel.com)
 3. [DXOMARK](https://www.dxomark.com)
 4. [Digital Camera World](https://www.digitalcameraworld.com)
-5. [DOF simulator](https://dofsimulator.net/en/)
-6. [Fuji Rumors](https://www.fujirumors.com)
-7. [Nikon Rumors](https://nikonrumors.com)
+5. [Digicam Finder](https://digicamfinder.com)
+6. [DOF simulator](https://dofsimulator.net/en/)
+7. [Fuji Rumors](https://www.fujirumors.com)
+8. [Nikon Rumors](https://nikonrumors.com)
 
 **2023年3月：亚马逊宣布将在2023年4月10日关闭DPReview。**
 
@@ -172,11 +184,13 @@ pinned: false
 2. [哪些网站让你感觉发现了新大陆？-不做闲鱼的回答-知乎](https://www.zhihu.com/question/293309623/answer/1675816377)
 3. [b站上有什么好的摄影教学？-早见Hayami的回答-知乎](https://www.zhihu.com/question/312241261/answer/1066491001)
 4. [关注bilibili这17个UP主，你甚至可以在B站学摄影！-A妹的文章-知乎](https://zhuanlan.zhihu.com/p/112964588)
-5. [满足日常需求的应用（三）：图像编辑器丨Linux中国-Linux中国的文章-知乎](https://zhuanlan.zhihu.com/p/407938013)
-6. [Linux上有哪些好用的绘图工具？-亿图图示的回答-知乎](https://www.zhihu.com/question/445559611/answer/1759893444)
-7. [在Linux命令行上编辑照片的4种方法丨Linux中国-Linux中国的文章-知乎](https://zhuanlan.zhihu.com/p/430719348)
-8. [DPReview.com to close](https://www.dpreview.com/news/5901145460/dpreview-com-to-close)
-9. [【DPReview】再见了，所有的DPReview-bilibili](https://www.bilibili.com/video/BV1ZM411N7EP)
-10. [【DPReview】我们最喜欢的DPReview TV时刻（用玩偶重现！）-bilibili](https://www.bilibili.com/video/BV1Ks4y1P7JA)
-11. [【DPReview】胡子哥和乔丹在DPReview的这几年测评过的最喜欢的5款摄影器材-bilibili](https://www.bilibili.com/video/BV1HT411p7uE)
-12. [各大相机公司推出恒定F4的小三元镜头的目的是什么？非大光圈的恒定光圈意义体现在哪里？-知乎用户的回答-知乎](https://www.zhihu.com/question/34306403/answer/2654034347)
+5. [影视飓风都用什么APP？推荐9个小众APP，100%提升工作效率-bilibili](https://www.bilibili.com/video/BV1pS4y1V7wq)
+6. [满足日常需求的应用（三）：图像编辑器丨Linux中国-Linux中国的文章-知乎](https://zhuanlan.zhihu.com/p/407938013)
+7. [Linux上有哪些好用的绘图工具？-亿图图示的回答-知乎](https://www.zhihu.com/question/445559611/answer/1759893444)
+8. [在Linux命令行上编辑照片的4种方法丨Linux中国-Linux中国的文章-知乎](https://zhuanlan.zhihu.com/p/430719348)
+9. [DPReview.com to close-DPReview](https://www.dpreview.com/news/5901145460/dpreview-com-to-close)
+10. [Digicam Finder is a New Resource That Replaces DPReview’s Camera Library-PetaPixel](https://petapixel.com/2023/04/03/digicam-finder-is-a-new-resource-that-replaces-dpreviews-camera-library/)
+11. [【DPReview】再见了，所有的DPReview-bilibili](https://www.bilibili.com/video/BV1ZM411N7EP)
+12. [【DPReview】我们最喜欢的DPReview TV时刻（用玩偶重现！）-bilibili](https://www.bilibili.com/video/BV1Ks4y1P7JA)
+13. [【DPReview】胡子哥和乔丹在DPReview的这几年测评过的最喜欢的5款摄影器材-bilibili](https://www.bilibili.com/video/BV1HT411p7uE)
+14. [各大相机公司推出恒定F4的小三元镜头的目的是什么？非大光圈的恒定光圈意义体现在哪里？-知乎用户的回答-知乎](https://www.zhihu.com/question/34306403/answer/2654034347)

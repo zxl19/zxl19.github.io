@@ -32,16 +32,17 @@ pinned: false
 11. Mendeley Desktop
 12. NeatReader
 13. PowerToys
-14. RawTherapee
-15. Rufus
-16. SpaceSniffer
-17. TeXstudio
-18. VLC media player
-19. Visual Studio Code
-20. XMind
-21. 格式工厂
-22. 尼康工坊
-23. 万兴喵影
+14. qBittorrent
+15. RawTherapee
+16. Rufus
+17. SpaceSniffer
+18. TeXstudio
+19. VLC media player
+20. Visual Studio Code
+21. XMind
+22. 格式工厂
+23. 尼康工坊
+24. 万兴喵影
 
 ### 未安装
 
