@@ -43,8 +43,9 @@ SLAM学习资料存档，包括SLAM基础理论、卡尔曼滤波、组合导航
 8. [PetWorm/IMU-Preintegration-Propogation-Doc](https://github.com/PetWorm/IMU-Preintegration-Propogation-Doc)
 9. [PetWorm/IMU_error_state_propagation_doc](https://github.com/PetWorm/IMU_error_state_propagation_doc)
 10. [norlab-ulaval/cheatsheet_LieAlgebra](https://github.com/norlab-ulaval/cheatsheet_LieAlgebra)
-11. [gongbingg/slam](https://github.com/gongbingg/slam)
-12. [Joanna-HE/Supplementary-file-for-IKFoM](https://github.com/Joanna-HE/Supplementary-file-for-IKFoM)
+11. [jlblancoc/factor-graphs-course](https://github.com/jlblancoc/factor-graphs-course)
+12. [gongbingg/slam](https://github.com/gongbingg/slam)
+13. [Joanna-HE/Supplementary-file-for-IKFoM](https://github.com/Joanna-HE/Supplementary-file-for-IKFoM)
 
 ### 公开课
 

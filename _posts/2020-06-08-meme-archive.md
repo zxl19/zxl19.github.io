@@ -65,12 +65,13 @@ Meme这个词最初源自英国著名科学家理查德·道金斯所著的《�
 5. [合成大西瓜](http://tool.liumingye.cn/watermelon/)
 6. [EVANGELION & 扫雷](https://v.magiconch.com/mine-sweeper)
 7. [Norman the Necromancer](https://js13kgames.com/entries/norman-the-necromancer)
-8. [yuzu-emu/yuzu](https://github.com/yuzu-emu/yuzu)
-9. [Ryujinx/Ryujinx](https://github.com/Ryujinx/Ryujinx)
-10. [electronicarts/CnC_Remastered_Collection](https://github.com/electronicarts/CnC_Remastered_Collection)
-11. [OpenRA/OpenRA](https://github.com/OpenRA/OpenRA)
-12. [CleverRaven/Cataclysm-DDA](https://github.com/CleverRaven/Cataclysm-DDA)
-13. [js13kGames/resources](https://github.com/js13kGames/resources)
+8. [Sandtrix](https://mslivo.itch.io/sandtrix)
+9. [yuzu-emu/yuzu](https://github.com/yuzu-emu/yuzu)
+10. [Ryujinx/Ryujinx](https://github.com/Ryujinx/Ryujinx)
+11. [electronicarts/CnC_Remastered_Collection](https://github.com/electronicarts/CnC_Remastered_Collection)
+12. [OpenRA/OpenRA](https://github.com/OpenRA/OpenRA)
+13. [CleverRaven/Cataclysm-DDA](https://github.com/CleverRaven/Cataclysm-DDA)
+14. [js13kGames/resources](https://github.com/js13kGames/resources)
 
 ## 工具箱
 
