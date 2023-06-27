@@ -38,6 +38,7 @@ C++学习资料存档。
 12. [balloonwj/CppGuide](https://github.com/balloonwj/CppGuide)
 13. [AllAlgorithms/cpp](https://github.com/AllAlgorithms/cpp)
 14. [karansaxena/STL_Cheat_Sheets](https://github.com/karansaxena/STL_Cheat_Sheets)
+15. [dendisuhubdy/cpp_exercises](https://github.com/dendisuhubdy/cpp_exercises)
 
 ### C++新特性
 
@@ -65,15 +66,18 @@ C++学习资料存档。
 3. [JuanCrg90/Clean-Code-Notes](https://github.com/JuanCrg90/Clean-Code-Notes)
 4. [facontidavide/CPP_Optimizations_Diary](https://github.com/facontidavide/CPP_Optimizations_Diary)
 5. [PickNikRobotics/roscpp_code_format](https://github.com/PickNikRobotics/roscpp_code_format)
-6. [XiaotaoGuo/Effective-Cpp-Reading-Note](https://github.com/XiaotaoGuo/Effective-Cpp-Reading-Note)
+6. [igl42/cpp_software_design](https://github.com/igl42/cpp_software_design)
+7. [igl42/oreilly](https://github.com/igl42/oreilly)
+8. [XiaotaoGuo/Effective-Cpp-Reading-Note](https://github.com/XiaotaoGuo/Effective-Cpp-Reading-Note)
 
 ## 网站
 
 ### 教程
 
-1. [C++教程-菜鸟教程](https://www.runoob.com/cplusplus/cpp-tutorial.html)
-2. [C语言中文网](http://c.biancheng.net)
-3. [C++ Tutorial-W3Schools](https://www.w3schools.com/cpp/default.asp)
+1. [Stroustrup: C++](https://www.stroustrup.com/C++.html)
+2. [C++教程-菜鸟教程](https://www.runoob.com/cplusplus/cpp-tutorial.html)
+3. [C语言中文网](http://c.biancheng.net)
+4. [C++ Tutorial-W3Schools](https://www.w3schools.com/cpp/default.asp)
 
 ### 语法查询
 

@@ -15,7 +15,7 @@ pinned: false
 
 ## 连接方式
 
-### FTP
+### FTP协议
 
 在`文件`->`其他位置`中使用FTP（File Transfer Protocol）协议连接：
 
@@ -23,7 +23,7 @@ pinned: false
 ftp://192.168.1.1
 ```
 
-### SMB
+### SMB协议
 
 在`文件`->`其他位置`中使用SMB（Server Message Block）协议连接：
 
@@ -31,21 +31,27 @@ ftp://192.168.1.1
 smb://192.168.1.1
 ```
 
-### SSH
+### SSH协议
 
-在命令行中使用SSH连接：
+1. 在`文件`->`其他位置`中使用SSH（Secure Shell）协议连接：
 
-```shell
-ssh username@192.168.1.1
-```
+    ```shell
+    ssh://192.168.1.1
+    ```
 
-使用基于SSH的scp命令远程复制文件：
+2. 在命令行中使用SSH协议连接：
 
-```shell
-scp [-346BCpqrv] [-c cipher] [-F ssh_config] [-i identity_file]
-    [-l limit] [-o ssh_option] [-P port] [-S program]
-    [[user@]host1:]file1 ... [[user@]host2:]file2
-```
+    ```shell
+    ssh username@192.168.1.1
+    ```
+
+3. 使用基于SSH协议的scp命令远程复制文件：
+
+    ```shell
+    scp [-346BCpqrv] [-c cipher] [-F ssh_config] [-i identity_file]
+        [-l limit] [-o ssh_option] [-P port] [-S program]
+        [[user@]host1:]file1 ... [[user@]host2:]file2
+    ```
 
 ### Filezilla
 
@@ -55,6 +61,16 @@ scp [-346BCpqrv] [-c cipher] [-F ssh_config] [-i identity_file]
 2. `常规`->`协议`中选择传输协议，`FTP`或`SFTP`；
 3. `常规`->`登录类型`中选择`正常`；
 4. `字符集`中选择`强制UTF-8`保证中文目录名和文件名显示正确；
+
+### obsutil
+
+在命令行中使用obsutil命令访问管理华为云对象存储服务（Object Storage Service，OBS）：
+
+```shell
+./obsutil [command] [args...] [options...]
+```
+
+1. [obsutil简介](https://support.huaweicloud.com/utiltg-obs/obs_11_0001.html)
 
 ## 参考
 

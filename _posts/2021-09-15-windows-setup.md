@@ -31,13 +31,13 @@ pinned: false
 10. GitHub Desktop
 11. Mendeley Desktop
 12. NeatReader
-13. PowerToys
-14. qBittorrent
-15. RawTherapee
-16. Rufus
-17. SpaceSniffer
-18. TeXstudio
-19. VLC media player
+13. PotPlayer
+14. PowerToys
+15. qBittorrent
+16. RawTherapee
+17. Rufus
+18. SpaceSniffer
+19. TeXstudio
 20. Visual Studio Code
 21. XMind
 22. 格式工厂
@@ -65,11 +65,13 @@ pinned: false
 17. PlotJuggler
 18. Recuva
 19. ShareX
-20. TeamViewer
-21. Typora
-22. Understand
-23. winutil
-24. Zotero
+20. SumatraPDF
+21. TeamViewer
+22. Typora
+23. Understand
+24. VLC media player
+25. winutil
+26. Zotero
 
 ## 常见问题及解决方法
 

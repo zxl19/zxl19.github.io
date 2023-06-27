@@ -62,6 +62,7 @@ pinned: false
 2. [nothings/stb](https://github.com/nothings/stb)
 3. [nothings/single_file_libs](https://github.com/nothings/single_file_libs)
 4. [idealvin/coost](https://github.com/idealvin/coost)
+5. [adah1972/nvwa](https://github.com/adah1972/nvwa)
 
 ## 参数读取
 
@@ -153,8 +154,9 @@ pinned: false
 
 1. [Eigen](http://eigen.tuxfamily.org)
 2. [Armadillo](http://arma.sourceforge.net)
-3. [yixuan/spectra](https://github.com/yixuan/spectra)
-4. [hosseinmoein/Matrix](https://github.com/hosseinmoein/Matrix)
+3. [Blaze](https://bitbucket.org/blaze-lib/blaze/src/master/)
+4. [yixuan/spectra](https://github.com/yixuan/spectra)
+5. [hosseinmoein/Matrix](https://github.com/hosseinmoein/Matrix)
 
 ### 李群和李代数
 
@@ -181,6 +183,7 @@ pinned: false
 2. [romeric/Fastor](https://github.com/romeric/Fastor)
 3. [Tencent/deepx_core](https://github.com/Tencent/deepx_core)
 4. [blitzpp/blitz](https://github.com/blitzpp/blitz)
+5. [STEllAR-GROUP/blaze_tensor](https://github.com/STEllAR-GROUP/blaze_tensor)
 
 ## 加密
 

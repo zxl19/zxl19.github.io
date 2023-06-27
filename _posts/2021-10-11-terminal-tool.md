@@ -52,7 +52,11 @@ pinned: false
 2. [tldr](https://github.com/tldr-pages/tldr)
 3. [cppman](https://github.com/aitjcize/cppman)
 4. [fccf](https://github.com/p-ranav/fccf)
-5. [thefuck](https://github.com/nvbn/thefuck)
+
+## 命令试错
+
+1. [thefuck](https://github.com/nvbn/thefuck)
+2. [binpash/try](https://github.com/binpash/try)
 
 ## 文本编辑
 
@@ -103,6 +107,12 @@ pinned: false
 
 1. [shellcheck](https://github.com/koalaman/shellcheck)
 2. [shfmt](https://github.com/mvdan/sh)
+
+### 调试优化工具
+
+1. gdb
+2. valgrind
+3. [brendangregg/FlameGraph](https://github.com/brendangregg/FlameGraph)
 
 ## Python依赖包管理
 
