@@ -147,6 +147,7 @@ pinned: false
 11. [yixuan/MiniDNN](https://github.com/yixuan/MiniDNN)
 12. [arrayfire/arrayfire-ml](https://github.com/arrayfire/arrayfire-ml)
 13. [rockcarry/ffcnn](https://github.com/rockcarry/ffcnn)
+14. [10-zin/cpp-micrograd](https://github.com/10-zin/cpp-micrograd)
 
 ## 数学计算
 
@@ -170,6 +171,7 @@ pinned: false
 3. [autodiff/autodiff](https://github.com/autodiff/autodiff)
 4. [stan-dev/math](https://github.com/stan-dev/math)
 5. [johnmcfarlane/cnl](https://github.com/johnmcfarlane/cnl)
+6. [auto-differentiation/XAD](https://github.com/auto-differentiation/XAD)
 
 ### 几何学
 

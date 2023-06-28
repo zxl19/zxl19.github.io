@@ -97,6 +97,8 @@ pinned: false
 2. [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow)
 3. [keras-team/keras](https://github.com/keras-team/keras)
 4. [scikit-learn/scikit-learn](https://github.com/scikit-learn/scikit-learn)
+5. [geohot/tinygrad](https://github.com/geohot/tinygrad)
+6. [karpathy/micrograd](https://github.com/karpathy/micrograd)
 
 ## 代码加速
 

@@ -53,6 +53,7 @@ pinned: false
 14. [GitHub Star History](https://star-history.com)
 15. [RevolverMaps](https://www.revolvermaps.com)
 16. [Free website hit counter](https://www.free-website-hit-counter.com)
+17. [不蒜子-极简网页计数器](http://busuanzi.ibruce.info)
 
 ## 美化
 
