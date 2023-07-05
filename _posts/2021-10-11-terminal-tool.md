@@ -82,10 +82,11 @@ pinned: false
 
 #### Python
 
-1. [yapf](https://github.com/google/yapf)
-2. [pycodestyle](https://github.com/PyCQA/pycodestyle)
-3. [autopep8](https://github.com/hhatto/autopep8)
-4. [flake8](https://github.com/PyCQA/flake8)
+1. [black](https://github.com/psf/black)
+2. [yapf](https://github.com/google/yapf)
+3. [pycodestyle](https://github.com/PyCQA/pycodestyle)
+4. [autopep8](https://github.com/hhatto/autopep8)
+5. [flake8](https://github.com/PyCQA/flake8)
 
 ### 静态分析工具
 
@@ -149,9 +150,10 @@ pinned: false
 10. [为什么说zsh是shell中的极品？-韦易笑的回答-知乎](https://www.zhihu.com/question/21418449/answer/300879747)
 11. [Oh My Zsh-简书](https://www.jianshu.com/p/b8a80dd59414)
 12. [Oh My Zsh-博客园](https://www.cnblogs.com/lcgbk/p/13255836.html)
-13. [Static program analysis-Wikipedia](https://en.wikipedia.org/wiki/Static_program_analysis)
-14. [Lint (software)-Wikipedia](https://en.wikipedia.org/wiki/Lint_(software))
-15. [Clang Static Analyzer](https://clang-analyzer.llvm.org)
-16. [CodeChecker: running the analyzer from the command line](https://clang-analyzer.llvm.org/codechecker.html)
-17. [Ubuntu下实现命令行走代理/终端走代理的方法-lyh458的文章-知乎](https://zhuanlan.zhihu.com/p/377550825)
-18. [40个超有趣的Linux命令行彩蛋和游戏-张子豪的文章-知乎](https://zhuanlan.zhihu.com/p/51904179)
+13. [五彩斑斓的Black——Python代码格式化工具-muzing的文章-知乎](https://zhuanlan.zhihu.com/p/418458450)
+14. [Static program analysis-Wikipedia](https://en.wikipedia.org/wiki/Static_program_analysis)
+15. [Lint (software)-Wikipedia](https://en.wikipedia.org/wiki/Lint_(software))
+16. [Clang Static Analyzer](https://clang-analyzer.llvm.org)
+17. [CodeChecker: running the analyzer from the command line](https://clang-analyzer.llvm.org/codechecker.html)
+18. [Ubuntu下实现命令行走代理/终端走代理的方法-lyh458的文章-知乎](https://zhuanlan.zhihu.com/p/377550825)
+19. [40个超有趣的Linux命令行彩蛋和游戏-张子豪的文章-知乎](https://zhuanlan.zhihu.com/p/51904179)

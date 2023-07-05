@@ -395,7 +395,7 @@ Atom的深色主题，类似的主题还有City Lights theme、Material Theme（
 
 ### Python
 
-Python语言扩展，安装Pylance、Pylint、isort、Jupyter（包括Jupyter Cell Tags、Jupyter Keymap、Jupyter Notebook Renderers、Jupyter Slide Show）等扩展可以使用增强功能并提高使用体验。
+Python语言扩展，安装Pylance、Pylint、Black Formatter、isort、Jupyter（包括Jupyter Cell Tags、Jupyter Keymap、Jupyter Notebook Renderers、Jupyter Slide Show）等扩展可以使用增强功能并提高使用体验。
 
 在设置中开启使用Pylint可以使用指定的静态分析工具。
 

@@ -30,8 +30,9 @@ pinned: false
 
 ## 线性代数
 
-1. [kenjihiranabe/The-Art-of-Linear-Algebra](https://github.com/kenjihiranabe/The-Art-of-Linear-Algebra)
-2. [MLNLP-World/MIT-Linear-Algebra-Notes](https://github.com/MLNLP-World/MIT-Linear-Algebra-Notes)
+1. [Interactive Linear Algebra](https://textbooks.math.gatech.edu/ila/)
+2. [kenjihiranabe/The-Art-of-Linear-Algebra](https://github.com/kenjihiranabe/The-Art-of-Linear-Algebra)
+3. [MLNLP-World/MIT-Linear-Algebra-Notes](https://github.com/MLNLP-World/MIT-Linear-Algebra-Notes)
 
 ## 矩阵求导
 
