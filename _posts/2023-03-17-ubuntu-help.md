@@ -84,17 +84,23 @@ python3 -m pip install tldr
 
 1. [Cheat Sheet](https://cheat-sheets.org)
 2. [Devhints](https://devhints.io)
-3. [cheat.sh](https://cheat.sh)
-4. [bropages](http://bropages.org)
+3. [CheatSheets.zip](https://cheatsheets.zip)
+4. [Quick Reference](https://wangchujiang.com/reference/)
+5. [Linux命令搜索引擎](https://wangchujiang.com/linux-command/)
+6. [cheat.sh](https://cheat.sh)
+7. [bropages](http://bropages.org)
 
 ### GitHub
 
-1. [rstacruz/cheatsheets](https://github.com/rstacruz/cheatsheets)
-2. [denisidoro/navi](https://github.com/denisidoro/navi)
-3. [cheat/cheat](https://github.com/cheat/cheat)
-4. [gnebbia/kb](https://github.com/gnebbia/kb)
-5. [srsudar/eg](https://github.com/srsudar/eg)
-6. [Command Line Interface Pages](https://github.com/command-line-interface-pages)
+1. [jaywcjlove/linux-command](https://github.com/jaywcjlove/linux-command)
+2. [rstacruz/cheatsheets](https://github.com/rstacruz/cheatsheets)
+3. [denisidoro/navi](https://github.com/denisidoro/navi)
+4. [cheat/cheat](https://github.com/cheat/cheat)
+5. [jaywcjlove/reference](https://github.com/jaywcjlove/reference)
+6. [Fechin/reference](https://github.com/Fechin/reference)
+7. [gnebbia/kb](https://github.com/gnebbia/kb)
+8. [srsudar/eg](https://github.com/srsudar/eg)
+9. [Command Line Interface Pages](https://github.com/command-line-interface-pages)
 
 ## 参考
 

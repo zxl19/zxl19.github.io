@@ -30,12 +30,14 @@ pinned: false
 8. [google-research/tuning_playbook](https://github.com/google-research/tuning_playbook)
 9. [openai/openai-cookbook](https://github.com/openai/openai-cookbook)
 10. [andkret/Cookbook](https://github.com/andkret/Cookbook)
-11. [ahmedbahaaeldin/From-0-to-Research-Scientist-resources-guide](https://github.com/ahmedbahaaeldin/From-0-to-Research-Scientist-resources-guide)
-12. [Visualize-ML/Book7_Visualizations-for-Machine-Learning](https://github.com/Visualize-ML/Book7_Visualizations-for-Machine-Learning)
-13. [leerumor/ai-study](https://github.com/leerumor/ai-study)
-14. [blueberrymusic/Deep-Learning-A-Visual-Approach](https://github.com/blueberrymusic/Deep-Learning-A-Visual-Approach)
-15. [mikeizbicki/cmc-csci143](https://github.com/mikeizbicki/cmc-csci143)
-16. [mikeizbicki/cmc-csci145-math166](https://github.com/mikeizbicki/cmc-csci145-math166)
+11. [datawhalechina/leedl-tutorial](https://github.com/datawhalechina/leedl-tutorial)
+12. [ahmedbahaaeldin/From-0-to-Research-Scientist-resources-guide](https://github.com/ahmedbahaaeldin/From-0-to-Research-Scientist-resources-guide)
+13. [unclestrong/DeepLearning_LHY21_Notes](https://github.com/unclestrong/DeepLearning_LHY21_Notes)
+14. [Visualize-ML/Book7_Visualizations-for-Machine-Learning](https://github.com/Visualize-ML/Book7_Visualizations-for-Machine-Learning)
+15. [leerumor/ai-study](https://github.com/leerumor/ai-study)
+16. [blueberrymusic/Deep-Learning-A-Visual-Approach](https://github.com/blueberrymusic/Deep-Learning-A-Visual-Approach)
+17. [mikeizbicki/cmc-csci143](https://github.com/mikeizbicki/cmc-csci143)
+18. [mikeizbicki/cmc-csci145-math166](https://github.com/mikeizbicki/cmc-csci145-math166)
 
 ## 笔记
 

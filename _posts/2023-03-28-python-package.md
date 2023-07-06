@@ -56,7 +56,8 @@ pinned: false
 8. [tensorflow/tensorboard](https://github.com/tensorflow/tensorboard)
 9. [lanpa/tensorboardX](https://github.com/lanpa/tensorboardX)
 10. [fossasia/visdom](https://github.com/fossasia/visdom)
-11. [wordcloud](https://pypi.org/project/wordcloud)
+11. [lucasjinreal/alfred](https://github.com/lucasjinreal/alfred)
+12. [wordcloud](https://pypi.org/project/wordcloud)
 
 ## 命令行输出
 

@@ -16,13 +16,14 @@ pinned: false
 ## 命令行教程
 
 1. [jlevy/the-art-of-command-line](https://github.com/jlevy/the-art-of-command-line)
-2. [onceupon/Bash-Oneliner](https://github.com/onceupon/Bash-Oneliner)
-3. [wangdoc/bash-tutorial](https://github.com/wangdoc/bash-tutorial)
-4. [dunwu/linux-tutorial](https://github.com/dunwu/linux-tutorial)
-5. [techarkit/shell-scripting-tutorial](https://github.com/techarkit/shell-scripting-tutorial)
-6. [jaywcjlove/shell-tutorial](https://github.com/jaywcjlove/shell-tutorial)
-7. [spencertipping/shell-tutorial](https://github.com/spencertipping/shell-tutorial)
-8. [ArchLinuxStudio/ShellTutorial](https://github.com/ArchLinuxStudio/ShellTutorial)
+2. [jaywcjlove/linux-command](https://github.com/jaywcjlove/linux-command)
+3. [onceupon/Bash-Oneliner](https://github.com/onceupon/Bash-Oneliner)
+4. [wangdoc/bash-tutorial](https://github.com/wangdoc/bash-tutorial)
+5. [dunwu/linux-tutorial](https://github.com/dunwu/linux-tutorial)
+6. [techarkit/shell-scripting-tutorial](https://github.com/techarkit/shell-scripting-tutorial)
+7. [jaywcjlove/shell-tutorial](https://github.com/jaywcjlove/shell-tutorial)
+8. [spencertipping/shell-tutorial](https://github.com/spencertipping/shell-tutorial)
+9. [ArchLinuxStudio/ShellTutorial](https://github.com/ArchLinuxStudio/ShellTutorial)
 
 ## 性能监控
 
