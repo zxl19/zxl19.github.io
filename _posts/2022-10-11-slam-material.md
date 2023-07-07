@@ -46,11 +46,15 @@ SLAM学习资料存档，包括SLAM基础理论、卡尔曼滤波、组合导航
 11. [jlblancoc/factor-graphs-course](https://github.com/jlblancoc/factor-graphs-course)
 12. [gongbingg/slam](https://github.com/gongbingg/slam)
 13. [Joanna-HE/Supplementary-file-for-IKFoM](https://github.com/Joanna-HE/Supplementary-file-for-IKFoM)
+14. [brytsknguyen/slict](https://github.com/brytsknguyen/slict)
+15. [brytsknguyen/oblam_deskew](https://github.com/brytsknguyen/oblam_deskew)
 
 ### 公开课
 
 1. [泡泡机器人](https://space.bilibili.com/38737757)
 2. [深蓝学院](https://www.shenlanxueyuan.com)
+3. [RI Seminar: Michael Kaess: Robust and Efficient Real-time Mapping for Autonomous Robots](https://www.youtube.com/watch?v=_W3Ua1Yg2fk)
+4. [Optimization-based Localization And Mapping-KTH](https://canvas.kth.se/courses/40649)
 
 ## 卡尔曼滤波
 
@@ -145,4 +149,5 @@ SLAM学习资料存档，包括SLAM基础理论、卡尔曼滤波、组合导航
 6. [Probabilistic Robotics](http://robots.stanford.edu/probabilistic-robotics/)
 7. [Tim Barfoot](http://asrl.utias.utoronto.ca/~tdb/)
 8. [Modern Robotics](http://hades.mech.northwestern.edu/index.php/Modern_Robotics)
-9. [严恭敏的个人主页](https://teacher.nwpu.edu.cn/yangongmin.html)
+9. [硕士研究生阶段如何学习slam机器人？-Range的回答-知乎](https://www.zhihu.com/question/396119527/answer/1235876702)
+10. [严恭敏的个人主页](https://teacher.nwpu.edu.cn/yangongmin.html)

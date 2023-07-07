@@ -67,6 +67,7 @@ include_directories(${NANOFLANN_INCLUDE_DIRS})
             - 在对于最近邻搜索速度要求较高的应用场景中，例如点云匹配，叶节点的大小在10-50较为合适，默认值为10；
 
 3. nanoflann支持多种点云数据结构，在构建K-D树时需要使用对应的适配器（adaptor）；
+4. 当多个坐标完全相同的点都是最近邻点时，最近邻搜索返回的最近邻点顺序与其在点云中的保存顺序不具有对应关系；
 
 ## 示例
 
@@ -104,6 +105,18 @@ for (size_t i = 0; i < resultSet.size(); i++) {
   std::cout << "ret_index[" << i << "]=" << ret_indexes[i] << " out_dist_sqr=" << out_dists_sqr[i] << std::endl;
 }
 ```
+
+通过内部实现可以看出，`KDTreeVectorOfVectorsAdaptor`也可以支持自定义点云数据结构，需要满足以下要求：
+
+1. 点云：
+
+    - 具有`size()`成员函数，返回点云中点的总数；
+    - 支持通过下标运算符`[]`访问点云中的点；
+
+2. 点：
+
+    - 具有`size()`成员函数，返回点的维度；
+    - 支持通过下标运算符`[]`访问点的坐标；
 
 ## 参考
 
