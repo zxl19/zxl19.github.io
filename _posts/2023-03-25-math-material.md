@@ -15,18 +15,19 @@ pinned: false
 
 ## 数学知识
 
-1. [Visualize-ML/Book3_Elements-of-Mathematics](https://github.com/Visualize-ML/Book3_Elements-of-Mathematics)
-2. [Visualize-ML/Book4_Power-of-Matrix](https://github.com/Visualize-ML/Book4_Power-of-Matrix)
-3. [Visualize-ML/Book5_Essentials-of-Probability-and-Statistics](https://github.com/Visualize-ML/Book5_Essentials-of-Probability-and-Statistics)
-4. [Visualize-ML/Book6_First-Course-in-Data-Science](https://github.com/Visualize-ML/Book6_First-Course-in-Data-Science)
-5. [wzchen/probability_cheatsheet](https://github.com/wzchen/probability_cheatsheet)
-6. [mavam/stat-cookbook](https://github.com/mavam/stat-cookbook)
-7. [dalcde/cam-notes](https://github.com/dalcde/cam-notes)
-8. [Ewenwan/Mathematics](https://github.com/Ewenwan/Mathematics)
-9. [shervinea/stanford-cme-106-probability-and-statistics](https://github.com/shervinea/stanford-cme-106-probability-and-statistics)
-10. [psibi/how-to-prove](https://github.com/psibi/how-to-prove)
-11. [KafCoppelia/Free_Courses_Notes](https://github.com/KafCoppelia/Free_Courses_Notes)
-12. [JackyWang2001/JackyWang2001.github.io](https://github.com/JackyWang2001/JackyWang2001.github.io)
+1. [CRC Standard Mathematical Tables and Formulas](https://www.softouch.on.ca/kb/data/CRC%20Standard%20Mathematical%20Tables%20and%20Formulas%2033E%20(2018).pdf)
+2. [Visualize-ML/Book3_Elements-of-Mathematics](https://github.com/Visualize-ML/Book3_Elements-of-Mathematics)
+3. [Visualize-ML/Book4_Power-of-Matrix](https://github.com/Visualize-ML/Book4_Power-of-Matrix)
+4. [Visualize-ML/Book5_Essentials-of-Probability-and-Statistics](https://github.com/Visualize-ML/Book5_Essentials-of-Probability-and-Statistics)
+5. [Visualize-ML/Book6_First-Course-in-Data-Science](https://github.com/Visualize-ML/Book6_First-Course-in-Data-Science)
+6. [wzchen/probability_cheatsheet](https://github.com/wzchen/probability_cheatsheet)
+7. [mavam/stat-cookbook](https://github.com/mavam/stat-cookbook)
+8. [dalcde/cam-notes](https://github.com/dalcde/cam-notes)
+9. [Ewenwan/Mathematics](https://github.com/Ewenwan/Mathematics)
+10. [shervinea/stanford-cme-106-probability-and-statistics](https://github.com/shervinea/stanford-cme-106-probability-and-statistics)
+11. [psibi/how-to-prove](https://github.com/psibi/how-to-prove)
+12. [KafCoppelia/Free_Courses_Notes](https://github.com/KafCoppelia/Free_Courses_Notes)
+13. [JackyWang2001/JackyWang2001.github.io](https://github.com/JackyWang2001/JackyWang2001.github.io)
 
 ## 线性代数
 

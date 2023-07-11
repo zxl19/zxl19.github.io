@@ -27,13 +27,14 @@ pinned: false
 2. [huchunxu/ros_exploring](https://github.com/huchunxu/ros_exploring)
 3. [huchunxu/ros_21_tutorials](https://github.com/huchunxu/ros_21_tutorials)
 4. [guyuehome/guyueclass](https://github.com/guyuehome/guyueclass)
-5. [ros-industrial/industrial_training](https://github.com/ros-industrial/industrial_training)
-6. [HuangCongQing/ROS](https://github.com/HuangCongQing/ROS)
-7. [PickNikRobotics/roscpp_code_format](https://github.com/PickNikRobotics/roscpp_code_format)
-8. [ros-visualization/visualization_tutorials](https://github.com/ros-visualization/visualization_tutorials)
-9. [project-srs/ros_lecture](https://github.com/project-srs/ros_lecture)
+5. [qboticslabs/mastering_ros](https://github.com/qboticslabs/mastering_ros)
+6. [ros-industrial/industrial_training](https://github.com/ros-industrial/industrial_training)
+7. [HuangCongQing/ROS](https://github.com/HuangCongQing/ROS)
+8. [PickNikRobotics/roscpp_code_format](https://github.com/PickNikRobotics/roscpp_code_format)
+9. [ros-visualization/visualization_tutorials](https://github.com/ros-visualization/visualization_tutorials)
 10. [methylDragon/pcl-ros-tutorial](https://github.com/methylDragon/pcl-ros-tutorial)
-11. [kaixindelele/ros_demo_mooc](https://github.com/kaixindelele/ros_demo_mooc)
+11. [project-srs/ros_lecture](https://github.com/project-srs/ros_lecture)
+12. [kaixindelele/ros_demo_mooc](https://github.com/kaixindelele/ros_demo_mooc)
 
 ## 书籍
 
