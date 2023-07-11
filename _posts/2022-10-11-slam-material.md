@@ -107,6 +107,7 @@ SLAM学习资料存档，包括SLAM基础理论、卡尔曼滤波、组合导航
 10. [pronenewbits/Embedded_UKF_Library](https://github.com/pronenewbits/Embedded_UKF_Library)
 11. [OpenSLAM-org/openslam_MTK](https://github.com/OpenSLAM-org/openslam_MTK)
 12. [xinyang-go/eskf](https://github.com/xinyang-go/eskf)
+13. [zha0ming1e/InEKF](https://github.com/zha0ming1e/InEKF)
 
 ## 组合导航
 

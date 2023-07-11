@@ -156,8 +156,9 @@ pinned: false
 1. [Eigen](http://eigen.tuxfamily.org)
 2. [Armadillo](http://arma.sourceforge.net)
 3. [Blaze](https://bitbucket.org/blaze-lib/blaze/src/master/)
-4. [yixuan/spectra](https://github.com/yixuan/spectra)
-5. [hosseinmoein/Matrix](https://github.com/hosseinmoein/Matrix)
+4. [dpilger26/NumCpp](https://github.com/dpilger26/NumCpp)
+5. [yixuan/spectra](https://github.com/yixuan/spectra)
+6. [hosseinmoein/Matrix](https://github.com/hosseinmoein/Matrix)
 
 ### 李群和李代数
 
