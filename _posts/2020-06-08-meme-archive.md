@@ -52,6 +52,11 @@ Meme这个词最初源自英国著名科学家理查德·道金斯所著的《�
 3. [Rick-Lang/rickroll-lang](https://github.com/Rick-Lang/rickroll-lang)
 4. [duo001/evil.js](https://github.com/duo001/evil.js)
 
+## 盲水印
+
+1. [guofei9987/blind_watermark](https://github.com/guofei9987/blind_watermark)
+2. [guofei9987/text_blind_watermark](https://github.com/guofei9987/text_blind_watermark)
+
 ## 机械
 
 1. [FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD)

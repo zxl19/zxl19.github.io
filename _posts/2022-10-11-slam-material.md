@@ -40,14 +40,15 @@ SLAM学习资料存档，包括SLAM基础理论、卡尔曼滤波、组合导航
 5. [AlbertSlam/Lee-SLAM-source](https://github.com/AlbertSlam/Lee-SLAM-source)
 6. [jlblancoc/tutorial-se3-manifold](https://github.com/jlblancoc/tutorial-se3-manifold)
 7. [StevenCui/VIO-Doc](https://github.com/StevenCui/VIO-Doc)
-8. [PetWorm/IMU-Preintegration-Propogation-Doc](https://github.com/PetWorm/IMU-Preintegration-Propogation-Doc)
-9. [PetWorm/IMU_error_state_propagation_doc](https://github.com/PetWorm/IMU_error_state_propagation_doc)
-10. [norlab-ulaval/cheatsheet_LieAlgebra](https://github.com/norlab-ulaval/cheatsheet_LieAlgebra)
-11. [jlblancoc/factor-graphs-course](https://github.com/jlblancoc/factor-graphs-course)
-12. [gongbingg/slam](https://github.com/gongbingg/slam)
-13. [Joanna-HE/Supplementary-file-for-IKFoM](https://github.com/Joanna-HE/Supplementary-file-for-IKFoM)
-14. [brytsknguyen/slict](https://github.com/brytsknguyen/slict)
-15. [brytsknguyen/oblam_deskew](https://github.com/brytsknguyen/oblam_deskew)
+8. [TurtleZhong/Map-based-Visual-Localization](https://github.com/TurtleZhong/Map-based-Visual-Localization)
+9. [PetWorm/IMU-Preintegration-Propogation-Doc](https://github.com/PetWorm/IMU-Preintegration-Propogation-Doc)
+10. [PetWorm/IMU_error_state_propagation_doc](https://github.com/PetWorm/IMU_error_state_propagation_doc)
+11. [norlab-ulaval/cheatsheet_LieAlgebra](https://github.com/norlab-ulaval/cheatsheet_LieAlgebra)
+12. [jlblancoc/factor-graphs-course](https://github.com/jlblancoc/factor-graphs-course)
+13. [gongbingg/slam](https://github.com/gongbingg/slam)
+14. [Joanna-HE/Supplementary-file-for-IKFoM](https://github.com/Joanna-HE/Supplementary-file-for-IKFoM)
+15. [brytsknguyen/slict](https://github.com/brytsknguyen/slict)
+16. [brytsknguyen/oblam_deskew](https://github.com/brytsknguyen/oblam_deskew)
 
 ### 公开课
 

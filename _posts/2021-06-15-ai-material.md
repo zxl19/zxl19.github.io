@@ -80,15 +80,22 @@ pinned: false
 
 ## 自动机器学习
 
+### 框架
+
 1. [ray-project/ray](https://github.com/ray-project/ray)
 2. [microsoft/nni](https://github.com/microsoft/nni)
 3. [keras-team/autokeras](https://github.com/keras-team/autokeras)
-4. [automl/auto-sklearn](https://github.com/automl/auto-sklearn)
-5. [nebuly-ai/nebullvm](https://github.com/nebuly-ai/nebullvm)
+4. [nebuly-ai/nebuly](https://github.com/nebuly-ai/nebuly)
+5. [automl/auto-sklearn](https://github.com/automl/auto-sklearn)
 6. [autogluon/autogluon](https://github.com/autogluon/autogluon)
 7. [allegroai/clearml](https://github.com/allegroai/clearml)
 8. [determined-ai/determined](https://github.com/determined-ai/determined)
-9. [kubeflow/katib](https://github.com/kubeflow/katib)
+
+### 超参数优化
+
+1. [optuna/optuna](https://github.com/optuna/optuna)
+2. [hyperopt/hyperopt](https://github.com/hyperopt/hyperopt)
+3. [kubeflow/katib](https://github.com/kubeflow/katib)
 
 ## 神经网络分析
 

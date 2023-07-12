@@ -37,12 +37,19 @@ pinned: false
 3. [google/fiddle](https://github.com/google/fiddle)
 4. [pyscaffold/configupdater](https://github.com/pyscaffold/configupdater)
 
-## 数据处理
+## 数值运算
 
 1. [numpy/numpy](https://github.com/numpy/numpy)
-2. [pandas-dev/pandas](https://github.com/pandas-dev/pandas)
-3. [apache/superset](https://github.com/apache/superset)
-4. [great-expectations/great_expectations](https://github.com/great-expectations/great_expectations)
+2. [scipy/scipy](https://github.com/scipy/scipy)
+3. [cupy/cupy](https://github.com/cupy/cupy)
+4. [cvxpy/cvxpy](https://github.com/cvxpy/cvxpy)
+5. [cvxopt/cvxopt](https://github.com/cvxopt/cvxopt)
+
+## 数据处理
+
+1. [pandas-dev/pandas](https://github.com/pandas-dev/pandas)
+2. [apache/superset](https://github.com/apache/superset)
+3. [great-expectations/great_expectations](https://github.com/great-expectations/great_expectations)
 
 ## 数据可视化
 

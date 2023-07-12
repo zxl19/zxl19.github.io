@@ -86,6 +86,8 @@ void post_order(TreeNode* Node) {
 4. [jainaman224/Algo_Ds_Notes](https://github.com/jainaman224/Algo_Ds_Notes)
 5. [ShahjalalShohag/code-library](https://github.com/ShahjalalShohag/code-library)
 6. [sachuverma/DataStructures-Algorithms](https://github.com/sachuverma/DataStructures-Algorithms)
+7. [HuyuYasumi/DSA_CPP_Deng](https://github.com/HuyuYasumi/DSA_CPP_Deng)
+8. [br7roy/THU-DS](https://github.com/br7roy/THU-DS)
 
 ## 参考
 
