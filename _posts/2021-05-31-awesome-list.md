@@ -178,10 +178,11 @@ The main repository serves as a curated list of awesome lists.
 2. [PlexPt/awesome-chatgpt-prompts-zh](https://github.com/PlexPt/awesome-chatgpt-prompts-zh)
 3. [humanloop/awesome-chatgpt](https://github.com/humanloop/awesome-chatgpt)
 4. [yzfly/awesome-chatgpt-zh](https://github.com/yzfly/awesome-chatgpt-zh)
-5. [eon01/awesome-chatgpt](https://github.com/eon01/awesome-chatgpt)
-6. [Kamigami55/awesome-chatgpt](https://github.com/Kamigami55/awesome-chatgpt)
-7. [saharmor/awesome-chatgpt](https://github.com/saharmor/awesome-chatgpt)
-8. [del-xiong/awesome-chatgpt](https://github.com/del-xiong/awesome-chatgpt)
+5. [runningcheese/Awesome-ChatGPT](https://github.com/runningcheese/Awesome-ChatGPT)
+6. [eon01/awesome-chatgpt](https://github.com/eon01/awesome-chatgpt)
+7. [Kamigami55/awesome-chatgpt](https://github.com/Kamigami55/awesome-chatgpt)
+8. [saharmor/awesome-chatgpt](https://github.com/saharmor/awesome-chatgpt)
+9. [del-xiong/awesome-chatgpt](https://github.com/del-xiong/awesome-chatgpt)
 
 ## Git（包括GitHub）
 
