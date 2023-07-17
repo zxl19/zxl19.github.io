@@ -466,6 +466,14 @@ Typst语言扩展。
 
 绘制思维导图，类似的扩展还有Markmap。
 
+### vscode-proto3
+
+Protocol Buffers语法支持，仅支持3.x版本：
+
+```protobuf
+syntax = "proto3";
+```
+
 ## 常见问题及解决方法
 
 ### 配置文件查看和修改
