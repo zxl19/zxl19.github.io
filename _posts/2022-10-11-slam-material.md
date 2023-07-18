@@ -133,6 +133,7 @@ SLAM学习资料存档，包括SLAM基础理论、卡尔曼滤波、组合导航
 1. [无人驾驶领域，你推荐那些综述性文章？-王方浩的回答-知乎](https://www.zhihu.com/question/355954682/answer/897296676)
 2. [Dig into Apollo](https://dig-into-apollo.readthedocs.io/en/latest/index.html)
 3. [Apollo 开放平台](https://daobook.github.io/apollo-book/docs/start/index.html)
+4. [Algorithms for Automated Driving](https://thomasfermi.github.io/Algorithms-for-Automated-Driving/Introduction/intro.html)
 
 ### GitHub
 
@@ -140,6 +141,8 @@ SLAM学习资料存档，包括SLAM基础理论、卡尔曼滤波、组合导航
 2. [daohu527/dig-into-apollo](https://github.com/daohu527/dig-into-apollo)
 3. [YannZyl/Apollo-Note](https://github.com/YannZyl/Apollo-Note)
 4. [autowarefoundation/autoware](https://github.com/autowarefoundation/autoware)
+5. [nwaysir/Autopilot-Updating-Notes](https://github.com/nwaysir/Autopilot-Updating-Notes)
+6. [thomasfermi/Algorithms-for-Automated-Driving](https://github.com/thomasfermi/Algorithms-for-Automated-Driving)
 
 ## 参考
 
