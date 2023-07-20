@@ -691,7 +691,7 @@ Vector3d trans = trans1 + ratio * (trans2 - trans1);
       m.template block<3, 1>(0, 3) = -m.template block<3, 3>(0, 0) * trans;
       // 方法二
       m.template corner<3, 3>(TopLeft) = qrot.toRotationMatrix().transpose();
-      m.col(3) = -m.template corner<3, 3>(TopLeft) * trans; // col()、row()不是成员函数模板
+      m.col(3) = -m.template corner<3, 3>(TopLeft) * trans; // col()、row()成员函数不是模板函数
     }
     ```
 
