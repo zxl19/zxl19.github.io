@@ -132,8 +132,10 @@ target_link_libraries(${PROJECT_NAME}
 
 1. 使用`catkin_create_pkg`命令新建功能包，会自动生成`CMakeLists.txt`文件，其中包含格式说明；
 2. 参考[ROS官方文档](http://wiki.ros.org/catkin/CMakeLists.txt)；
-3. 参考[A-LOAM](https://github.com/HKUST-Aerial-Robotics/A-LOAM)、[LeGO-LOAM](https://github.com/RobustFieldAutonomyLab/LeGO-LOAM)、[LIO-SAM](https://github.com/TixiaoShan/LIO-SAM)、[LVI-SAM](https://github.com/TixiaoShan/LVI-SAM)等算法；
-4. 参考[hdl_graph_slam](https://github.com/koide3/hdl_graph_slam)使用Nodelet；
+3. 参考[HKUST-Aerial-Robotics/A-LOAM](https://github.com/HKUST-Aerial-Robotics/A-LOAM)、[RobustFieldAutonomyLab/LeGO-LOAM](https://github.com/RobustFieldAutonomyLab/LeGO-LOAM)、[TixiaoShan/LIO-SAM](https://github.com/TixiaoShan/LIO-SAM)、[TixiaoShan/LVI-SAM](https://github.com/TixiaoShan/LVI-SAM)等算法；
+4. 参考[koide3/hdl_graph_slam](https://github.com/koide3/hdl_graph_slam)使用Nodelet；
+5. 参考[facontidavide/LeGO-LOAM-BOR](https://github.com/facontidavide/LeGO-LOAM-BOR)、[koide3/LeGO-LOAM-BOR](https://github.com/koide3/LeGO-LOAM-BOR)实现离线和在线两种模式；
+6. 参考[知乎回答](https://www.zhihu.com/question/553199862/answer/2672914532)进行正向设计；
 
 ## CMakeLists结构说明
 
@@ -781,29 +783,25 @@ endif()
 9. [指定C++编译标准4-azmddy](https://azmddy.github.io/article/IT%E5%9F%BA%E7%A1%80/%E6%9E%84%E5%BB%BA/CMake/cmake-day-2.html)
 10. [Eigen内存对齐-卷儿的文章-知乎](https://zhuanlan.zhihu.com/p/349413376)
 11. [catkin/CMakeLists.txt-ROS Wiki](http://wiki.ros.org/catkin/CMakeLists.txt)
-12. [HKUST-Aerial-Robotics/A-LOAM](https://github.com/HKUST-Aerial-Robotics/A-LOAM)
-13. [RobustFieldAutonomyLab/LeGO-LOAM](https://github.com/RobustFieldAutonomyLab/LeGO-LOAM)
-14. [TixiaoShan/LIO-SAM](https://github.com/TixiaoShan/LIO-SAM)
-15. [TixiaoShan/LVI-SAM](https://github.com/TixiaoShan/LVI-SAM)
-16. [koide3/hdl_graph_slam](https://github.com/koide3/hdl_graph_slam)
-17. [cmake-developer](https://cmake.org/cmake/help/latest/manual/cmake-developer.7.html)
-18. [变量1-博客园](https://www.cnblogs.com/narjaja/p/9533174.html)
-19. [变量2-掘金](https://juejin.cn/post/6998055558741753893)
-20. [变量3-CSDN博客](https://blog.csdn.net/juluwangriyue/article/details/123494008)
-21. [变量4-CSDN博客](https://blog.csdn.net/wzj_110/article/details/116674655)
-22. [变量5-简书](https://www.jianshu.com/p/1827cd86d576)
-23. [Cmake之深入理解find_package()的用法-希葛格的韩少君的文章-知乎](https://zhuanlan.zhihu.com/p/97369704)
-24. [cmake find_package路径详解-豌豆的文章-知乎](https://zhuanlan.zhihu.com/p/50829542)
-25. [find_package()1-CSDN博客](https://blog.csdn.net/zhanghm1995/article/details/105466372)
-26. [find_package()2-CSDN博客](https://blog.csdn.net/qq_41035283/article/details/122469466)
-27. [静态库、动态库、共享库的区别-博客园](https://www.cnblogs.com/sunsky303/p/7731911.html)
-28. [add_dependencies()1-CSDN博客](https://blog.csdn.net/KingOfMyHeart/article/details/112983922)
-29. [add_dependencies()2-CSDN博客](https://blog.csdn.net/zhizhengguan/article/details/118381772)
-30. [add_dependencies()3-CSDN博客](https://blog.csdn.net/new9232/article/details/125831009)
-31. [cmake：target_**中的PUBLIC，PRIVATE，INTERFACE-大川搬砖的文章-知乎](https://zhuanlan.zhihu.com/p/82244559)
-32. [target_link_directories()1-CSDN博客](https://blog.csdn.net/qq_33726635/article/details/121896441)
-33. [target_link_directories()2-CSDN博客](https://blog.csdn.net/zhizhengguan/article/details/115331314)
-34. [add_definitions()-CSDN博客](https://blog.csdn.net/fb_941219/article/details/107376017)
-35. [编译选项设置区别-CSDN博客](https://blog.csdn.net/10km/article/details/51731959)
-36. [CMake如何入门？-0xCCCCCCCC的回答-知乎](https://www.zhihu.com/question/58949190/answer/999701073)
-37. [CMake和Modern CMake相关资料（不定期补充）-迦非喵的文章-知乎](https://zhuanlan.zhihu.com/p/205324774)
+12. [SLAＭ算法开发中，Ｃ++编程+多节点，如何调试和优化算法比较方便呢？正确的调试方法是什么？-半闲居士的回答-知乎](https://www.zhihu.com/question/553199862/answer/2672914532)
+13. [cmake-developer](https://cmake.org/cmake/help/latest/manual/cmake-developer.7.html)
+14. [变量1-博客园](https://www.cnblogs.com/narjaja/p/9533174.html)
+15. [变量2-掘金](https://juejin.cn/post/6998055558741753893)
+16. [变量3-CSDN博客](https://blog.csdn.net/juluwangriyue/article/details/123494008)
+17. [变量4-CSDN博客](https://blog.csdn.net/wzj_110/article/details/116674655)
+18. [变量5-简书](https://www.jianshu.com/p/1827cd86d576)
+19. [Cmake之深入理解find_package()的用法-希葛格的韩少君的文章-知乎](https://zhuanlan.zhihu.com/p/97369704)
+20. [cmake find_package路径详解-豌豆的文章-知乎](https://zhuanlan.zhihu.com/p/50829542)
+21. [find_package()1-CSDN博客](https://blog.csdn.net/zhanghm1995/article/details/105466372)
+22. [find_package()2-CSDN博客](https://blog.csdn.net/qq_41035283/article/details/122469466)
+23. [静态库、动态库、共享库的区别-博客园](https://www.cnblogs.com/sunsky303/p/7731911.html)
+24. [add_dependencies()1-CSDN博客](https://blog.csdn.net/KingOfMyHeart/article/details/112983922)
+25. [add_dependencies()2-CSDN博客](https://blog.csdn.net/zhizhengguan/article/details/118381772)
+26. [add_dependencies()3-CSDN博客](https://blog.csdn.net/new9232/article/details/125831009)
+27. [cmake：target_**中的PUBLIC，PRIVATE，INTERFACE-大川搬砖的文章-知乎](https://zhuanlan.zhihu.com/p/82244559)
+28. [target_link_directories()1-CSDN博客](https://blog.csdn.net/qq_33726635/article/details/121896441)
+29. [target_link_directories()2-CSDN博客](https://blog.csdn.net/zhizhengguan/article/details/115331314)
+30. [add_definitions()-CSDN博客](https://blog.csdn.net/fb_941219/article/details/107376017)
+31. [编译选项设置区别-CSDN博客](https://blog.csdn.net/10km/article/details/51731959)
+32. [CMake如何入门？-0xCCCCCCCC的回答-知乎](https://www.zhihu.com/question/58949190/answer/999701073)
+33. [CMake和Modern CMake相关资料（不定期补充）-迦非喵的文章-知乎](https://zhuanlan.zhihu.com/p/205324774)

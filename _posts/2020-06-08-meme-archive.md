@@ -78,7 +78,8 @@ Meme这个词最初源自英国著名科学家理查德·道金斯所著的《�
 11. [electronicarts/CnC_Remastered_Collection](https://github.com/electronicarts/CnC_Remastered_Collection)
 12. [OpenRA/OpenRA](https://github.com/OpenRA/OpenRA)
 13. [CleverRaven/Cataclysm-DDA](https://github.com/CleverRaven/Cataclysm-DDA)
-14. [js13kGames/resources](https://github.com/js13kGames/resources)
+14. [MorvanZhou/sudoku](https://github.com/MorvanZhou/sudoku)
+15. [js13kGames/resources](https://github.com/js13kGames/resources)
 
 ## 工具箱
 
