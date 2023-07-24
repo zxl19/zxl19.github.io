@@ -36,9 +36,10 @@ C++学习资料存档。
 10. [tangtangcoding/C-C-](https://github.com/tangtangcoding/C-C-)
 11. [AnkerLeng/Cpp-0-1-Resource](https://github.com/AnkerLeng/Cpp-0-1-Resource)
 12. [balloonwj/CppGuide](https://github.com/balloonwj/CppGuide)
-13. [AllAlgorithms/cpp](https://github.com/AllAlgorithms/cpp)
-14. [karansaxena/STL_Cheat_Sheets](https://github.com/karansaxena/STL_Cheat_Sheets)
-15. [dendisuhubdy/cpp_exercises](https://github.com/dendisuhubdy/cpp_exercises)
+13. [steveLauwh/SGI-STL](https://github.com/steveLauwh/SGI-STL)
+14. [AllAlgorithms/cpp](https://github.com/AllAlgorithms/cpp)
+15. [karansaxena/STL_Cheat_Sheets](https://github.com/karansaxena/STL_Cheat_Sheets)
+16. [dendisuhubdy/cpp_exercises](https://github.com/dendisuhubdy/cpp_exercises)
 
 ### C++新特性
 

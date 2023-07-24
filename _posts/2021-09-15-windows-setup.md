@@ -67,11 +67,12 @@ pinned: false
 19. ShareX
 20. SumatraPDF
 21. TeamViewer
-22. Typora
-23. Understand
-24. VLC media player
-25. winutil
-26. Zotero
+22. Transmission
+23. Typora
+24. Understand
+25. VLC media player
+26. winutil
+27. Zotero
 
 ## 常见问题及解决方法
 
