@@ -855,6 +855,30 @@ Vector3d trans = trans1 + ratio * (trans2 - trans1);
         };
         ```
 
+4. 如果需要声明指定数据结构内存对齐，则需要使用宏`EIGEN_ALIGN_TO_BOUNDARY`：
+
+    - Eigen对于常用的8字节、16字节、32字节、64字节内存对齐定义了别名：
+
+        ```cpp
+        // Shortcuts to EIGEN_ALIGN_TO_BOUNDARY
+        #define EIGEN_ALIGN8  EIGEN_ALIGN_TO_BOUNDARY(8)
+        #define EIGEN_ALIGN16 EIGEN_ALIGN_TO_BOUNDARY(16)
+        #define EIGEN_ALIGN32 EIGEN_ALIGN_TO_BOUNDARY(32)
+        #define EIGEN_ALIGN64 EIGEN_ALIGN_TO_BOUNDARY(64)
+        ```
+
+    - 宏`EIGEN_ALIGN_TO_BOUNDARY`仅用于声明需要内存对齐，无法保证在动态内存分配中内存对齐，需要结合宏`EIGEN_MAKE_ALIGNED_OPERATOR_NEW`使用：
+
+        ```cpp
+        struct EIGEN_ALIGN16 Point {
+          PCL_ADD_POINT4D;
+          float intensity;
+          float time;
+          std::uint16_t ring;
+          EIGEN_MAKE_ALIGNED_OPERATOR_NEW
+        } /*EIGEN_ALIGN16*/; // 放在这里也可
+        ```
+
 #### 包含Eigen对象的STL容器
 
 1. 对于包含固定大小可向量化的Eigen对象的STL容器，需要使用Eigen定义的超出默认对齐尺寸的堆内存管理器（over-aligned allocator）`aligned_allocator`进行内存对齐：

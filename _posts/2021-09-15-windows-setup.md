@@ -73,6 +73,7 @@ pinned: false
 25. VLC media player
 26. winutil
 27. Zotero
+28. 灵羽助手
 
 ## 常见问题及解决方法
 
