@@ -91,6 +91,10 @@ Replace new tab page with a personal dashboard featuring to-do, weather, and ins
 
 节省高达95％的内存，并减轻标签页混乱现象。
 
+## PT助手Plus
+
+提升PT站点使用效率。
+
 ## Search by Image(by Google)
 
 This extension allows you to initiate a Google search using any image on the web. By the Google Images team.
@@ -192,3 +196,4 @@ Sci-Hub extension for Chromium browsers
 5. [可能是史上最有逼格最实用的chrome扩展程序推荐-黄海的文章-知乎](https://zhuanlan.zhihu.com/p/22196508)
 6. [Chrome插件英雄榜](https://www.v2fy.com/p/readme-chromeappheroes/)
 7. [zhaoolee/ChromeAppHeroes](https://github.com/zhaoolee/ChromeAppHeroes)
+8. [pt-plugins/PT-Plugin-Plus](https://github.com/pt-plugins/PT-Plugin-Plus)

@@ -38,6 +38,13 @@ Meme这个词最初源自英国著名科学家理查德·道金斯所著的《�
 12. [AmruthPillai/Reactive-Resume](https://github.com/AmruthPillai/Reactive-Resume)
 13. [prompt-engineering/understand-prompt](https://github.com/prompt-engineering/understand-prompt)
 
+## 测试
+
+1. [16Personalities](https://www.16personalities.com)
+2. [Ideosorter](https://ideosorter.github.io)
+3. [LeftValues](https://leftvalues.github.io)
+4. [RightValues](https://rightvaluestest.github.io)
+
 ## 漫画
 
 1. [PHD Comics](https://phdcomics.com)
@@ -150,13 +157,16 @@ Meme这个词最初源自英国著名科学家理查德·道金斯所著的《�
 12. [lvwzhen/foodie-ex](https://github.com/lvwzhen/foodie-ex)
 13. [itorr/xzk](https://github.com/itorr/xzk)
 14. [zerosoul/chinese-colors](https://github.com/zerosoul/chinese-colors)
-15. [一个独特的简历生成器，在GitHub开源了！-GitHub Daily的文章-知乎](https://zhuanlan.zhihu.com/p/504859666)
-15. [噫吁嚱！文言文亦能编程！此诚年度最骚语言也-量子位的文章-知乎](https://zhuanlan.zhihu.com/p/97985273)
-16. [你以为文言编程只是闹着玩？三个月后，人家IDE、教程、包管理器都有了-机器之心的文章-知乎](https://zhuanlan.zhihu.com/p/112650761)
-17. [很适合上班时间打开的8个摸鱼必备网站，千万别让领导看到！-bilibili](https://www.bilibili.com/video/BV16u411d7N3)
-18. [红警代码竟然在GitHub上开源了！！！-GitHub Daily的文章-知乎](https://zhuanlan.zhihu.com/p/146383298)
-19. [js13kGames](https://js13kgames.com)
-20. [js13kGames 2022 winners](https://github.blog/2022-10-06-js13k-2022-winners/)
-21. [很赞的两个高清壁纸网站：wallroom和wallhaven-帅小科的文章-知乎](https://zhuanlan.zhihu.com/p/376579457)
-22. [Ubuntu设置双屏显示长壁纸-码农家园](https://www.codenong.com/cs109695249/)
-23. [要命！《程序员延寿指南》火爆GitHub，日涨1500+星，跟着码农干多活20年-量子位的文章-知乎](https://zhuanlan.zhihu.com/p/502393797)
+15. [Ideosorter/ideosorter.github.io](https://github.com/Ideosorter/ideosorter.github.io)
+16. [LeftValues/leftvalues.github.io](https://github.com/LeftValues/leftvalues.github.io)
+17. [rightvaluestest/rightvaluestest.github.io](https://github.com/rightvaluestest/rightvaluestest.github.io)
+18. [一个独特的简历生成器，在GitHub开源了！-GitHub Daily的文章-知乎](https://zhuanlan.zhihu.com/p/504859666)
+19. [噫吁嚱！文言文亦能编程！此诚年度最骚语言也-量子位的文章-知乎](https://zhuanlan.zhihu.com/p/97985273)
+20. [你以为文言编程只是闹着玩？三个月后，人家IDE、教程、包管理器都有了-机器之心的文章-知乎](https://zhuanlan.zhihu.com/p/112650761)
+21. [很适合上班时间打开的8个摸鱼必备网站，千万别让领导看到！-bilibili](https://www.bilibili.com/video/BV16u411d7N3)
+22. [红警代码竟然在GitHub上开源了！！！-GitHub Daily的文章-知乎](https://zhuanlan.zhihu.com/p/146383298)
+23. [js13kGames](https://js13kgames.com)
+24. [js13kGames 2022 winners](https://github.blog/2022-10-06-js13k-2022-winners/)
+25. [很赞的两个高清壁纸网站：wallroom和wallhaven-帅小科的文章-知乎](https://zhuanlan.zhihu.com/p/376579457)
+26. [Ubuntu设置双屏显示长壁纸-码农家园](https://www.codenong.com/cs109695249/)
+27. [要命！《程序员延寿指南》火爆GitHub，日涨1500+星，跟着码农干多活20年-量子位的文章-知乎](https://zhuanlan.zhihu.com/p/502393797)
