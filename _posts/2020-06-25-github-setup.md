@@ -126,7 +126,7 @@ GitHub Desktop是GitHub开发的客户端，使用图形化交互界面代替了
     git clone git@github.com:<username>/<repository>.git
     ```
 
-7. 使用HTTPS进行git clone和git push时仍需要使用用户名和密码，**自2021年8月14日起，GitHub取消了在命令行内使用用户名和密码的clone方式，改为使用personal access token（PAT），其作用和使用方式与密码相同：**
+7. 使用HTTPS进行git clone和git push时仍需要使用用户名和密码，**自2021年8月14日起，GitHub取消了在命令行内使用用户名和密码的clone方式，改为使用个人访问令牌（Personal Access Token，PAT），其作用和使用方式与密码相同：**
 
     ```shell
     git clone https://github.com/<username>/<repository>.git
@@ -140,9 +140,17 @@ GitHub Desktop是GitHub开发的客户端，使用图形化交互界面代替了
 2. `Settings`->`Emails`->勾选`Keep my email addresses private`；
 3. PAT的生成和使用：
 
-    - `Settings`->`Developer Settings`->`Personal access tokens`->`Generate new token`；
+    - `Settings`->`Developer settings`->`Personal access tokens`->`Generate new token`；
     - 设置token名称、有效期，有效范围（勾选`repo`）；
     - 点击`Generate token`，将生成的token保存；
+
+4. 双因素身份校验（Two-Factor Authentication，2FA）的设置和使用，**自2023年10月6日起，在登录GitHub时需要使用2FA**：
+
+    - `Settings`->`Password and authentication`->`Two-factor authentication`；
+    - 使用神锁离线版扫描二维码，保存秘钥，用于生成基于时间的一次性密码（Time-based One-Time Password，TOTP）；
+    - 在登录GitHub时除了需要使用账号密码，还需要使用根据秘钥和当前时间生成的一次性密码（One-Time Password，OTP），OTP每30秒动态更新一次；
+    - 保存恢复码（recovery codes），用于在丢失密码和秘钥时登录GitHub，否则会永远丢失账户；
+    - 也可以使用短信验证的方式进行2FA，但是目前暂时不支持中国大陆；
 
 ## 参考
 
@@ -163,3 +171,6 @@ GitHub Desktop是GitHub开发的客户端，使用图形化交互界面代替了
 15. [Token authentication requirements for Git operations-GitHub Blog](https://github.blog/2020-12-15-token-authentication-requirements-for-git-operations/)
 16. [Creating a personal access token-GitHub Docs](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token)
 17. [GitHub防黑客新措施：弃用账密验证Git操作，改用token或SSH密钥，今天0点已执行-量子位的文章-知乎](https://zhuanlan.zhihu.com/p/399759963)
+18. [GitHub强制要求开启两步验证了，但是1password要收费，怎么办？-游凯超的文章-知乎](https://zhuanlan.zhihu.com/p/615693483)
+19. [GitHub要求2FA？不慌，有它帮你-神锁离线版的文章-知乎](https://zhuanlan.zhihu.com/p/512717901)
+20. [开启GitHub的2FA-bilibili](https://www.bilibili.com/video/BV1sU4y1S7LA)
