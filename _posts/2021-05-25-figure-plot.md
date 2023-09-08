@@ -38,7 +38,9 @@ pinned: false
 1. [MATLAB技巧之绘图篇-戴正旭的文章-知乎](https://zhuanlan.zhihu.com/p/92283650)
 2. [你见过最美的MATLAB绘图是什么？-程序猿老王的回答-知乎](https://www.zhihu.com/question/43309577/answer/2311550516)
 3. [如何在论文中画出漂亮的插图？-slandarer的回答-知乎](https://www.zhihu.com/question/21664179/answer/2877054256)
-4. [【收藏】MATLAB数据可视化教程丨数据图 表达式 隐函数 动画 美化](https://www.bilibili.com/video/BV1Yd4y1M7BF)
+4. [有哪些让人相见恨晚的MATLAB命令？-冷哲的回答-知乎](https://www.zhihu.com/question/24499729/answer/28087804)
+5. [有哪些让人相见恨晚的MATLAB命令？-无忌不悔的回答-知乎](https://www.zhihu.com/question/24499729/answer/3161612886)
+6. [【收藏】MATLAB数据可视化教程丨数据图 表达式 隐函数 动画 美化](https://www.bilibili.com/video/BV1Yd4y1M7BF)
 
 #### GitHub
 

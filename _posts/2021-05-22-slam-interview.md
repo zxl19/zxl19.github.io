@@ -85,12 +85,14 @@ SLAM方向面试题存档。
 4. [USTC-Resource/USTC-Course](https://github.com/USTC-Resource/USTC-Course)
 5. [c-hj/SJTU-Courses](https://github.com/c-hj/SJTU-Courses)
 6. [missing-semester/missing-semester](https://github.com/missing-semester/missing-semester)
-7. [Salensoft/thu-cst-cracker](https://github.com/Salensoft/thu-cst-cracker)
-8. [HuangCongQing/UCAS_Course_2019](https://github.com/HuangCongQing/UCAS_Course_2019)
-9. [Trinkle23897/THU-CST-Cracker](https://github.com/Trinkle23897/THU-CST-Cracker)
-10. [Trinkle23897/Undergraduate](https://github.com/Trinkle23897/Undergraduate)
-11. [15172658790/Blog](https://github.com/15172658790/Blog)
+7. [missing-semester-cn/missing-semester-cn.github.io](https://github.com/missing-semester-cn/missing-semester-cn.github.io)
+8. [Salensoft/thu-cst-cracker](https://github.com/Salensoft/thu-cst-cracker)
+9. [HuangCongQing/UCAS_Course_2019](https://github.com/HuangCongQing/UCAS_Course_2019)
+10. [Trinkle23897/THU-CST-Cracker](https://github.com/Trinkle23897/THU-CST-Cracker)
+11. [Trinkle23897/Undergraduate](https://github.com/Trinkle23897/Undergraduate)
+12. [15172658790/Blog](https://github.com/15172658790/Blog)
 
 ## 参考
 
 1. [GitHub开源计算机课程攻略yyds-逛逛GitHub的文章-知乎](https://zhuanlan.zhihu.com/p/447898788)
+2. [有哪些你看了以后大呼过瘾的编程书？-奇异果的哥哥的回答-知乎](https://www.zhihu.com/question/50408698/answer/3192277351)
