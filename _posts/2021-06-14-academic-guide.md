@@ -46,11 +46,12 @@ pinned: false
 2. [imartinez/privateGPT](https://github.com/imartinez/privateGPT)
 3. [kaixindelele/ChatPaper](https://github.com/kaixindelele/ChatPaper)
 4. [Bin-Huang/chatbox](https://github.com/Bin-Huang/chatbox)
-5. [TheR1D/shell_gpt](https://github.com/TheR1D/shell_gpt)
-6. [paul-gauthier/aider](https://github.com/paul-gauthier/aider)
-7. [nishiwen1214/ChatReviewer](https://github.com/nishiwen1214/ChatReviewer)
-8. [WangRongsheng/ChatGenTitle](https://github.com/WangRongsheng/ChatGenTitle)
-9. [talkingwallace/ChatGPT-Paper-Reader](https://github.com/talkingwallace/ChatGPT-Paper-Reader)
+5. [KillianLucas/open-interpreter](https://github.com/KillianLucas/open-interpreter)
+6. [TheR1D/shell_gpt](https://github.com/TheR1D/shell_gpt)
+7. [paul-gauthier/aider](https://github.com/paul-gauthier/aider)
+8. [nishiwen1214/ChatReviewer](https://github.com/nishiwen1214/ChatReviewer)
+9. [WangRongsheng/ChatGenTitle](https://github.com/WangRongsheng/ChatGenTitle)
+10. [talkingwallace/ChatGPT-Paper-Reader](https://github.com/talkingwallace/ChatGPT-Paper-Reader)
 
 ## 参考
 
