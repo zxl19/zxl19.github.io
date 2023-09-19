@@ -23,8 +23,9 @@ pinned: false
 
 2. `Editor: Word Wrap`：设置超过窗口宽度后是否自动换行，默认关闭，对于Markdown默认开启，在设置中开启可以避免显示范围遮挡代码；
 3. `Diff Editor: Ignore Trim Whitespace`：设置在显示代码差异时是否忽略头部和尾部的空白字符，默认开启，在设置中关闭可以突出显示代码中的空白字符差异；
-4. `Explorer`->`右键`->勾选`Open Editors`；
-5. 双击侧边栏和编辑区边界可以自动调整宽度；
+4. `Window: Title Bar Style`，设置窗口标题栏的外观，选择`custom`可以避免顶部标题栏产生白边；
+5. `Explorer`->`右键`->勾选`Open Editors`；
+6. 双击侧边栏和编辑区边界可以自动调整宽度；
 
 ## 扩展配置
 
@@ -322,6 +323,10 @@ Markdown语法检查。
 ### Matlab
 
 MATLAB语言扩展。
+
+### Meld Diff
+
+在VS Code中使用Meld、WinMerge、Beyond Compare等软件比较文件差异。
 
 ### One Dark Pro
 

@@ -161,6 +161,7 @@ ___加粗斜体___
 | C/C++| c, cpp |
 | LaTeX | latex |
 | MATLAB | matlab |
+| Mermaid | mermaid |
 | Python | py, python |
 | Shell | bash, shell |
 | text | text, plain |
@@ -271,9 +272,13 @@ _   下划线
 1. **行内公式**：使用两个美元符号`$$`括起来；
 2. **行间公式**：使用一个美元符号`$`括起来；
 
-### 绘制流程图
+### 绘图
 
-TODO
+```text
+可以，但没必要。
+```
+
+Markdown支持使用Mermaid语法进行绘图，但是已有较多交互式绘图工具能够完成类似的绘图任务，本文不再赘述。
 
 ## 参考
 
@@ -289,3 +294,6 @@ TODO
 10. [Typst](https://typst.app)
 11. [代码块-简书](https://www.jianshu.com/p/c2b75ff24c33)
 12. [待办事项-简书](https://www.jianshu.com/p/0b257de21eb5)
+13. [Markdown进阶技能：用代码画流程图（编程零基础也适用）-黄浮云的文章-知乎](https://zhuanlan.zhihu.com/p/69495726)
+14. [Mermaid从入门到入土——Markdown进阶语法-陈修竹的文章-知乎](https://zhuanlan.zhihu.com/p/355997933)
+15. [程序员画图-mermaid(流程图)-leancode的文章-知乎](https://zhuanlan.zhihu.com/p/440934038)
