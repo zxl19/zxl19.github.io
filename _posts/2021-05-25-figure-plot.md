@@ -115,3 +115,4 @@ pinned: false
 3. [Matplotlib速查表——画图时候一定要放手边的表-Pjer的文章-知乎](https://zhuanlan.zhihu.com/p/77782561)
 4. [Python-Matplotlib用户必备的画图速查表-阿昆的科研日常的文章-知乎](https://zhuanlan.zhihu.com/p/197854613)
 5. [如何系统地学习Python中matplotlib, numpy, scipy, pandas？-景略集智的回答-知乎](https://www.zhihu.com/question/37180159/answer/501189831)
+6. [4个Python库来美化你的Matplotlib图表！-Fan的文章-知乎](https://zhuanlan.zhihu.com/p/624890496)

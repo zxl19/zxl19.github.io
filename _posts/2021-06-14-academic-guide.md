@@ -44,14 +44,17 @@ pinned: false
 
 1. [binary-husky/chatgpt_academic](https://github.com/binary-husky/chatgpt_academic)
 2. [imartinez/privateGPT](https://github.com/imartinez/privateGPT)
-3. [kaixindelele/ChatPaper](https://github.com/kaixindelele/ChatPaper)
-4. [Bin-Huang/chatbox](https://github.com/Bin-Huang/chatbox)
-5. [KillianLucas/open-interpreter](https://github.com/KillianLucas/open-interpreter)
-6. [TheR1D/shell_gpt](https://github.com/TheR1D/shell_gpt)
-7. [paul-gauthier/aider](https://github.com/paul-gauthier/aider)
-8. [nishiwen1214/ChatReviewer](https://github.com/nishiwen1214/ChatReviewer)
-9. [WangRongsheng/ChatGenTitle](https://github.com/WangRongsheng/ChatGenTitle)
-10. [talkingwallace/ChatGPT-Paper-Reader](https://github.com/talkingwallace/ChatGPT-Paper-Reader)
+3. [KillianLucas/open-interpreter](https://github.com/KillianLucas/open-interpreter)
+4. [kaixindelele/ChatPaper](https://github.com/kaixindelele/ChatPaper)
+5. [Bin-Huang/chatbox](https://github.com/Bin-Huang/chatbox)
+6. [lllyasviel/Fooocus](https://github.com/lllyasviel/Fooocus)
+7. [TheR1D/shell_gpt](https://github.com/TheR1D/shell_gpt)
+8. [rubickCenter/rubick](https://github.com/rubickCenter/rubick)
+9. [mylxsw/aidea](https://github.com/mylxsw/aidea)
+10. [paul-gauthier/aider](https://github.com/paul-gauthier/aider)
+11. [nishiwen1214/ChatReviewer](https://github.com/nishiwen1214/ChatReviewer)
+12. [WangRongsheng/ChatGenTitle](https://github.com/WangRongsheng/ChatGenTitle)
+13. [talkingwallace/ChatGPT-Paper-Reader](https://github.com/talkingwallace/ChatGPT-Paper-Reader)
 
 ## 参考
 
