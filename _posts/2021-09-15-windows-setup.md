@@ -29,20 +29,22 @@ pinned: false
 8. GeoGebra
 9. Git for Windows
 10. GitHub Desktop
-11. Mendeley Desktop
-12. NeatReader
-13. PotPlayer
-14. PowerToys
-15. qBittorrent
-16. RawTherapee
-17. Rufus
-18. SpaceSniffer
-19. TeXstudio
-20. Visual Studio Code
-21. XMind
-22. 格式工厂
-23. 尼康工坊
-24. 万兴喵影
+11. Luminar Neo
+12. Meld
+13. Mendeley Desktop
+14. NeatReader
+15. PotPlayer
+16. PowerToys
+17. qBittorrent
+18. RawTherapee
+19. Rufus
+20. SpaceSniffer
+21. TeXstudio
+22. Visual Studio Code
+23. XMind
+24. 格式工厂
+25. 尼康工坊
+26. 万兴喵影
 
 ### 未安装
 
@@ -59,22 +61,20 @@ pinned: false
 11. FileZilla Client
 12. Fliqlo
 13. Inkscape
-14. Luminar
-15. Meld
-16. Obsidian
-17. Photoflare
-18. PlotJuggler
-19. Recuva
-20. Rubick
-21. ShareX
-22. SumatraPDF
-23. TeamViewer
-24. Transmission
-25. Typora
-26. Understand
-27. VLC media player
-28. winutil
-29. Zotero
+14. Obsidian
+15. Photoflare
+16. PlotJuggler
+17. Recuva
+18. Rubick
+19. ShareX
+20. SumatraPDF
+21. TeamViewer
+22. Transmission
+23. Typora
+24. Understand
+25. VLC media player
+26. winutil
+27. Zotero
 
 ## 常见问题及解决方法
 
