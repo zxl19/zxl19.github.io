@@ -272,6 +272,38 @@ pinned: false
 
     常用于查看指定的符号是否被定义，未定义符号前缀为`U`。
 
+## 使用`chrpath`命令
+
+### 命令说明
+
+1. `chrpath`命令用于查看和修改二进制文件的运行时路径（runtime path，rpath）和运行时搜索路径（run-time search path，runpath）信息；
+2. 语法说明：
+
+    ```shell
+    chrpath [-v|-d|-c|-r <path>] <program> [<program> ...]
+    ```
+
+3. 可用于修改可执行文件的rpath信息，使其在依赖库发生变化的环境中运行，一般情况下不建议使用；
+
+## 使用`patchelf`命令
+
+### 命令说明
+
+1. `patchelf`命令用于修改ELF文件信息；
+2. 语法说明：
+
+    ```shell
+    patchelf [--set-interpreter FILENAME] [--page-size SIZE]
+             [--print-interpreter] [--print-soname]
+             [--set-soname SONAME] [--set-rpath RPATH] [--remove-rpath]
+             [--shrink-rpath] [--print-rpath] [--force-rpath]
+             [--add-needed LIBRARY] [--remove-needed LIBRARY] [--replace-needed LIBRARY NEW_LIBRARY]
+             [--print-needed] [--no-default-lib] [--debug] [--version]
+             FILENAME
+    ```
+
+3. 可用于修改可执行文件的rpath信息，使其在依赖库发生变化的环境中运行，一般情况下不建议使用；
+
 ## 参考
 
 1. [undefined symbol问题的查找、定位与解决方法-CSDN博客](https://blog.csdn.net/buknow/article/details/96130049)
@@ -283,3 +315,5 @@ pinned: false
 7. [linux下nm，objdump和ldd三大工具使用-CSDN博客](https://blog.csdn.net/hsy12342611/article/details/129322929)
 8. [C++的“坑”之一：undefined reference-CrackingOysters的文章-知乎](https://zhuanlan.zhihu.com/p/425155409)
 9. [mangle和demangle-博客园](https://www.cnblogs.com/robinex/p/7892795.html)
+10. [一文搞懂动态链接库的各种路径的意义与设置-卷儿的文章-知乎](https://zhuanlan.zhihu.com/p/450986377)
+11. [NixOS/patchelf](https://github.com/NixOS/patchelf)
