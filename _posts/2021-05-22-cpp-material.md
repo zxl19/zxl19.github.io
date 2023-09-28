@@ -109,6 +109,7 @@ C++学习资料存档。
 2. 《C++ Primer》
 3. 《Effective C++》
 4. 《Effective Modern C++》
+5. 《C++ Core Guidelines解析》
 
 ## 参考
 
@@ -118,3 +119,4 @@ C++学习资料存档。
 4. [ClangFormatStyleOptions](https://clang.llvm.org/docs/ClangFormatStyleOptions.html)
 5. [andreasfertig/cppinsights](https://github.com/andreasfertig/cppinsights)
 6. [推荐10款C++在线编译器-CSDN博客](https://blog.csdn.net/cool99781/article/details/104516581)
+7. [程序员，上班没事做该怎么办？-华为云开发者联盟的回答-知乎](https://www.zhihu.com/question/621194172/answer/3217337311)
