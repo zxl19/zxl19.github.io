@@ -138,6 +138,8 @@ pinned: false
 ## 参考
 
 1. [使用VS Code搭建轻量美观的C/C++开发环境-bilibili](https://www.bilibili.com/video/BV1sW411v7VZ)
-2. [MinGW-64](http://mingw-w64.org/doku.php)
-3. [MinGW-64安装-博客园](https://www.cnblogs.com/ggg-327931457/p/9694516.html)
-4. [Using C++ on Linux in VS Code](https://code.visualstudio.com/docs/cpp/config-linux)
+2. [Visual Studio Code如何编写运行C、C++程序？-谭九鼎的回答-知乎](https://www.zhihu.com/question/30315894/answer/154979413)
+3. [几乎无痛的VSCode+clangd+lldb+cmake配置C/C++开发环境指南-仿身泪滴的文章-知乎](https://zhuanlan.zhihu.com/p/566365173)
+4. [MinGW-64](http://mingw-w64.org/doku.php)
+5. [MinGW-64安装-博客园](https://www.cnblogs.com/ggg-327931457/p/9694516.html)
+6. [Using C++ on Linux in VS Code](https://code.visualstudio.com/docs/cpp/config-linux)
