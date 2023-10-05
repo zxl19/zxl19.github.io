@@ -16,8 +16,9 @@ pinned: false
 ## 库管理
 
 1. [microsoft/vcpkg](https://github.com/microsoft/vcpkg)
-2. [conda/conda](https://github.com/conda/conda)
-3. [mamba-org/mamba](https://github.com/mamba-org/mamba)
+2. [xmake-io/xmake](https://github.com/xmake-io/xmake)
+3. [conda/conda](https://github.com/conda/conda)
+4. [mamba-org/mamba](https://github.com/mamba-org/mamba)
 
 ## 开发框架
 
@@ -164,7 +165,9 @@ pinned: false
 3. [Blaze](https://bitbucket.org/blaze-lib/blaze/src/master/)
 4. [dpilger26/NumCpp](https://github.com/dpilger26/NumCpp)
 5. [yixuan/spectra](https://github.com/yixuan/spectra)
-6. [hosseinmoein/Matrix](https://github.com/hosseinmoein/Matrix)
+6. [tpoisonooo/how-to-optimize-gemm](https://github.com/tpoisonooo/how-to-optimize-gemm)
+7. [attractivechaos/matmul](https://github.com/attractivechaos/matmul)
+8. [hosseinmoein/Tiger](https://github.com/hosseinmoein/Tiger)
 
 ### 李群和李代数
 
@@ -301,15 +304,18 @@ pinned: false
 
 1. [fffaraz/awesome-cpp](https://github.com/fffaraz/awesome-cpp)
 2. [p-ranav/awesome-hpp](https://github.com/p-ranav/awesome-hpp)
-3. [使用conda作为C++包管理器-林大豆折腾记的文章-知乎](https://zhuanlan.zhihu.com/p/353121634)
-4. [你工作中最推荐的C/C++程序库有哪些，为什么？-Zhao Zhang的回答-知乎](https://www.zhihu.com/question/51134387/answer/386066052)
-5. [你工作中最推荐的C/C++程序库有哪些，为什么？-iiif的回答-知乎](https://www.zhihu.com/question/51134387/answer/571858930)
-6. [有什么高质量的现代C++风格的开源代码?-夏天的回答-知乎](https://www.zhihu.com/question/23153437/answer/1962068242)
-7. [你读过的最好的C++开源代码是什么？-编程指北的回答-知乎](https://www.zhihu.com/question/21376384/answer/1925233838)
-8. [有哪些优秀的C++代码库可以推荐学习？-idealvin的回答-知乎](https://www.zhihu.com/question/281276664/answer/907647528)
-9. [求问c++解析配置文件，解析命令输入的最佳实践，最好能给到相应的库？-邱昊宇的回答-知乎](https://www.zhihu.com/question/433864615/answer/1616753838)
-10. [Google对C++的影响有多大？-编程指北的回答-知乎](https://www.zhihu.com/question/40165082/answer/1925222483)
-11. [有哪些值得推荐的小型C语言开源项目？-fanfan的回答-知乎](https://www.zhihu.com/question/20792016/answer/1982761892)
-12. [有什么高质量的C++单头文件库?-liulun的回答-知乎](https://www.zhihu.com/question/496257115/answer/2842977837)
-13. [有什么高质量的C++单头文件库?-芒果浩明的回答-知乎](https://www.zhihu.com/question/496257115/answer/2255551935)
-14. [全网唯一值得推荐的C/C++框架和库-C语言编程指南的文章-知乎](https://zhuanlan.zhihu.com/p/492392194)
+3. [如何评价xmake？-Tsunaou的回答-知乎](https://www.zhihu.com/question/56634628/answer/2366534212)
+4. [XMake：现代化的C++构建工具-Hytracen的文章-知乎](https://zhuanlan.zhihu.com/p/655334316)
+5. [使用conda作为C++包管理器-林大豆折腾记的文章-知乎](https://zhuanlan.zhihu.com/p/353121634)
+6. [你工作中最推荐的C/C++程序库有哪些，为什么？-Zhao Zhang的回答-知乎](https://www.zhihu.com/question/51134387/answer/386066052)
+7. [你工作中最推荐的C/C++程序库有哪些，为什么？-iiif的回答-知乎](https://www.zhihu.com/question/51134387/answer/571858930)
+8. [有什么高质量的现代C++风格的开源代码?-夏天的回答-知乎](https://www.zhihu.com/question/23153437/answer/1962068242)
+9. [你读过的最好的C++开源代码是什么？-编程指北的回答-知乎](https://www.zhihu.com/question/21376384/answer/1925233838)
+10. [有哪些优秀的C++代码库可以推荐学习？-idealvin的回答-知乎](https://www.zhihu.com/question/281276664/answer/907647528)
+11. [求问c++解析配置文件，解析命令输入的最佳实践，最好能给到相应的库？-邱昊宇的回答-知乎](https://www.zhihu.com/question/433864615/answer/1616753838)
+12. [Google对C++的影响有多大？-编程指北的回答-知乎](https://www.zhihu.com/question/40165082/answer/1925222483)
+13. [有哪些值得推荐的小型C语言开源项目？-fanfan的回答-知乎](https://www.zhihu.com/question/20792016/answer/1982761892)
+14. [有什么高质量的C++单头文件库?-liulun的回答-知乎](https://www.zhihu.com/question/496257115/answer/2842977837)
+15. [有什么高质量的C++单头文件库?-芒果浩明的回答-知乎](https://www.zhihu.com/question/496257115/answer/2255551935)
+16. [全网唯一值得推荐的C/C++框架和库-C语言编程指南的文章-知乎](https://zhuanlan.zhihu.com/p/492392194)
+17. [OpenBLAS gemm从零入门-白牛的文章-知乎](https://zhuanlan.zhihu.com/p/65436463)

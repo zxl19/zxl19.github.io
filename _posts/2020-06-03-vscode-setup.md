@@ -179,7 +179,7 @@ CMake扩展。
 
 ### GitLens——Git supercharged
 
-增强VS Code内置Git的功能，例如对比修改、查看历史记录和显示代码作者。
+增强VS Code内置Git的功能，例如对比修改、查看历史记录和显示代码作者，类似的扩展还有Git History和Git Graph。
 
 ### Image Preview
 
