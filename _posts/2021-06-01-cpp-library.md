@@ -141,20 +141,21 @@ pinned: false
 
 ## 机器学习&深度学习
 
-1. [BVLC/caffe](https://github.com/BVLC/caffe)
-2. [pjreddie/darknet](https://github.com/pjreddie/darknet)
-3. [AlexeyAB/darknet](https://github.com/AlexeyAB/darknet)
-4. [tiny-dnn/tiny-dnn](https://github.com/tiny-dnn/tiny-dnn)
-5. [plaidml/plaidml](https://github.com/plaidml/plaidml)
-6. [cjlin1/libsvm](https://github.com/cjlin1/libsvm)
-7. [flashlight/flashlight](https://github.com/flashlight/flashlight)
-8. [mlpack/mlpack](https://github.com/mlpack/mlpack)
-9. [NVlabs/tiny-cuda-nn](https://github.com/NVlabs/tiny-cuda-nn)
-10. [ggerganov/ggml](https://github.com/ggerganov/ggml)
-11. [yixuan/MiniDNN](https://github.com/yixuan/MiniDNN)
-12. [arrayfire/arrayfire-ml](https://github.com/arrayfire/arrayfire-ml)
-13. [rockcarry/ffcnn](https://github.com/rockcarry/ffcnn)
-14. [10-zin/cpp-micrograd](https://github.com/10-zin/cpp-micrograd)
+1. [tesseract-ocr/tesseract](https://github.com/tesseract-ocr/tesseract)
+2. [BVLC/caffe](https://github.com/BVLC/caffe)
+3. [pjreddie/darknet](https://github.com/pjreddie/darknet)
+4. [AlexeyAB/darknet](https://github.com/AlexeyAB/darknet)
+5. [tiny-dnn/tiny-dnn](https://github.com/tiny-dnn/tiny-dnn)
+6. [plaidml/plaidml](https://github.com/plaidml/plaidml)
+7. [cjlin1/libsvm](https://github.com/cjlin1/libsvm)
+8. [flashlight/flashlight](https://github.com/flashlight/flashlight)
+9. [mlpack/mlpack](https://github.com/mlpack/mlpack)
+10. [NVlabs/tiny-cuda-nn](https://github.com/NVlabs/tiny-cuda-nn)
+11. [ggerganov/ggml](https://github.com/ggerganov/ggml)
+12. [yixuan/MiniDNN](https://github.com/yixuan/MiniDNN)
+13. [arrayfire/arrayfire-ml](https://github.com/arrayfire/arrayfire-ml)
+14. [rockcarry/ffcnn](https://github.com/rockcarry/ffcnn)
+15. [10-zin/cpp-micrograd](https://github.com/10-zin/cpp-micrograd)
 
 ## 数学计算
 
