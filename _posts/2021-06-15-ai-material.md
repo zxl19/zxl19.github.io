@@ -38,7 +38,7 @@ pinned: false
 16. [leerumor/ai-study](https://github.com/leerumor/ai-study)
 17. [blueberrymusic/Deep-Learning-A-Visual-Approach](https://github.com/blueberrymusic/Deep-Learning-A-Visual-Approach)
 18. [mikeizbicki/cmc-csci143](https://github.com/mikeizbicki/cmc-csci143)
-18. [mikeizbicki/cmc-csci145-math166](https://github.com/mikeizbicki/cmc-csci145-math166)
+19. [mikeizbicki/cmc-csci145-math166](https://github.com/mikeizbicki/cmc-csci145-math166)
 
 ## 笔记
 
@@ -90,13 +90,16 @@ pinned: false
 5. [automl/auto-sklearn](https://github.com/automl/auto-sklearn)
 6. [autogluon/autogluon](https://github.com/autogluon/autogluon)
 7. [allegroai/clearml](https://github.com/allegroai/clearml)
-8. [determined-ai/determined](https://github.com/determined-ai/determined)
+8. [mljar/mljar-supervised](https://github.com/mljar/mljar-supervised)
+9. [determined-ai/determined](https://github.com/determined-ai/determined)
+10. [shankarpandala/lazypredict](https://github.com/shankarpandala/lazypredict)
 
 ### 超参数优化
 
 1. [optuna/optuna](https://github.com/optuna/optuna)
 2. [hyperopt/hyperopt](https://github.com/hyperopt/hyperopt)
-3. [kubeflow/katib](https://github.com/kubeflow/katib)
+3. [keras-team/keras-tuner](https://github.com/keras-team/keras-tuner)
+4. [kubeflow/katib](https://github.com/kubeflow/katib)
 
 ## 神经网络分析
 

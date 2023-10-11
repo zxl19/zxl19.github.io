@@ -41,30 +41,44 @@ pinned: false
 
 1. [numpy/numpy](https://github.com/numpy/numpy)
 2. [scipy/scipy](https://github.com/scipy/scipy)
-3. [cupy/cupy](https://github.com/cupy/cupy)
-4. [cvxpy/cvxpy](https://github.com/cvxpy/cvxpy)
-5. [cvxopt/cvxopt](https://github.com/cvxopt/cvxopt)
+3. [sympy/sympy](https://github.com/sympy/sympy)
+4. [cupy/cupy](https://github.com/cupy/cupy)
+5. [cvxpy/cvxpy](https://github.com/cvxpy/cvxpy)
+6. [cvxopt/cvxopt](https://github.com/cvxopt/cvxopt)
 
-## 数据处理
+## 数据分析
 
 1. [pandas-dev/pandas](https://github.com/pandas-dev/pandas)
 2. [apache/superset](https://github.com/apache/superset)
 3. [great-expectations/great_expectations](https://github.com/great-expectations/great_expectations)
+4. [geopandas/geopandas](https://github.com/geopandas/geopandas)
 
-## 数据可视化
+## 可视化
+
+### 数据可视化
 
 1. [matplotlib/matplotlib](https://github.com/matplotlib/matplotlib)
 2. [mwaskom/seaborn](https://github.com/mwaskom/seaborn)
-3. [pyecharts/pyecharts](https://github.com/pyecharts/pyecharts)
+3. [bokeh/bokeh](https://github.com/bokeh/bokeh)
 4. [plotly/plotly.py](https://github.com/plotly/plotly.py)
-5. [altair-viz/altair](https://github.com/altair-viz/altair)
-6. [SciTools/cartopy](https://github.com/SciTools/cartopy)
-7. [holoviz/geoviews](https://github.com/holoviz/geoviews)
-8. [tensorflow/tensorboard](https://github.com/tensorflow/tensorboard)
-9. [lanpa/tensorboardX](https://github.com/lanpa/tensorboardX)
-10. [fossasia/visdom](https://github.com/fossasia/visdom)
-11. [lucasjinreal/alfred](https://github.com/lucasjinreal/alfred)
-12. [wordcloud](https://pypi.org/project/wordcloud)
+5. [pyecharts/pyecharts](https://github.com/pyecharts/pyecharts)
+6. [altair-viz/altair](https://github.com/altair-viz/altair)
+7. [d3blocks/d3blocks](https://github.com/d3blocks/d3blocks)
+8. [wordcloud](https://pypi.org/project/wordcloud)
+
+### 深度学习可视化
+
+1. [fossasia/visdom](https://github.com/fossasia/visdom)
+2. [lanpa/tensorboardX](https://github.com/lanpa/tensorboardX)
+3. [tensorflow/tensorboard](https://github.com/tensorflow/tensorboard)
+4. [lucasjinreal/alfred](https://github.com/lucasjinreal/alfred)
+5. [visualpython/visualpython](https://github.com/visualpython/visualpython)
+
+### 地理信息可视化
+
+1. [python-visualization/folium](https://github.com/python-visualization/folium)
+2. [SciTools/cartopy](https://github.com/SciTools/cartopy)
+3. [holoviz/geoviews](https://github.com/holoviz/geoviews)
 
 ## 命令行输出
 
@@ -92,12 +106,15 @@ pinned: false
 2. [PySimpleGUI/PySimpleGUI](https://github.com/PySimpleGUI/PySimpleGUI)
 3. [hoffstadt/DearPyGui](https://github.com/hoffstadt/DearPyGui)
 4. [PyQt5/PyQt](https://github.com/PyQt5/PyQt)
-5. [urwid/urwid](https://github.com/urwid/urwid)
-6. [nucleic/enaml](https://github.com/nucleic/enaml)
+5. [zauberzeug/nicegui](https://github.com/zauberzeug/nicegui)
+6. [urwid/urwid](https://github.com/urwid/urwid)
+7. [nucleic/enaml](https://github.com/nucleic/enaml)
 
 ## 调试工具
 
-1. [gaogaotiantian/viztracer](https://github.com/gaogaotiantian/viztracer)
+1. [Delgan/loguru](https://github.com/Delgan/loguru)
+2. [gruns/icecream](https://github.com/gruns/icecream)
+3. [gaogaotiantian/viztracer](https://github.com/gaogaotiantian/viztracer)
 
 ### 机器学习&深度学习
 
@@ -106,12 +123,14 @@ pinned: false
 3. [keras-team/keras](https://github.com/keras-team/keras)
 4. [scikit-learn/scikit-learn](https://github.com/scikit-learn/scikit-learn)
 5. [geohot/tinygrad](https://github.com/geohot/tinygrad)
-6. [karpathy/micrograd](https://github.com/karpathy/micrograd)
+6. [catboost/catboost](https://github.com/catboost/catboost)
+7. [karpathy/micrograd](https://github.com/karpathy/micrograd)
 
 ## 代码加速
 
 1. [numba/numba](https://github.com/numba/numba)
 2. [cython/cython](https://github.com/cython/cython)
+3. [xorbitsai/xorbits](https://github.com/xorbitsai/xorbits)
 
 ## 通信
 
@@ -130,6 +149,11 @@ pinned: false
 
 1. [python-openxml/python-docx](https://github.com/python-openxml/python-docx)
 2. [scanny/python-pptx](https://github.com/scanny/python-pptx)
+
+## 二维码
+
+1. [lincolnloop/python-qrcode](https://github.com/lincolnloop/python-qrcode)
+2. [heuer/segno](https://github.com/heuer/segno)
 
 ## 参考
 

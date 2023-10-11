@@ -62,7 +62,8 @@ pinned: false
 2. [rougier/matplotlib-cheatsheet](https://github.com/rougier/matplotlib-cheatsheet)
 3. [rougier/scientific-visualization-book](https://github.com/rougier/scientific-visualization-book)
 4. [garrettj403/SciencePlots](https://github.com/garrettj403/SciencePlots)
-5. [guanyingc/python_plot_utils](https://github.com/guanyingc/python_plot_utils)
+5. [BlakeRMills/MetBrewer](https://github.com/BlakeRMills/MetBrewer)
+6. [guanyingc/python_plot_utils](https://github.com/guanyingc/python_plot_utils)
 
 #### 图片示例
 
