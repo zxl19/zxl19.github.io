@@ -54,8 +54,9 @@ SLAM学习资料存档，包括SLAM基础理论、卡尔曼滤波、组合导航
 
 1. [泡泡机器人](https://space.bilibili.com/38737757)
 2. [深蓝学院](https://www.shenlanxueyuan.com)
-3. [RI Seminar: Michael Kaess: Robust and Efficient Real-time Mapping for Autonomous Robots](https://www.youtube.com/watch?v=_W3Ua1Yg2fk)
-4. [Optimization-based Localization And Mapping-KTH](https://canvas.kth.se/courses/40649)
+3. [自动驾驶之心](https://www.zdjszx.com)
+4. [RI Seminar: Michael Kaess: Robust and Efficient Real-time Mapping for Autonomous Robots](https://www.youtube.com/watch?v=_W3Ua1Yg2fk)
+5. [Optimization-based Localization And Mapping-KTH](https://canvas.kth.se/courses/40649)
 
 ## 卡尔曼滤波
 

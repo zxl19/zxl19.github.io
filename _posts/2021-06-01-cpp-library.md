@@ -198,6 +198,11 @@ pinned: false
 4. [blitzpp/blitz](https://github.com/blitzpp/blitz)
 5. [STEllAR-GROUP/blaze_tensor](https://github.com/STEllAR-GROUP/blaze_tensor)
 
+### 图论
+
+1. [igraph/igraph](https://github.com/igraph/igraph)
+2. [ZigRazor/CXXGraph](https://github.com/ZigRazor/CXXGraph)
+
 ## 加密
 
 1. [google/tink](https://github.com/google/tink)
@@ -251,7 +256,6 @@ pinned: false
 
 1. [skarupke/flat_hash_map](https://github.com/skarupke/flat_hash_map)
 2. [stotko/stdgpu](https://github.com/stotko/stdgpu)
-3. [ZigRazor/CXXGraph](https://github.com/ZigRazor/CXXGraph)
 
 ## Python绑定
 

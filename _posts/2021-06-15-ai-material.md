@@ -90,9 +90,10 @@ pinned: false
 5. [automl/auto-sklearn](https://github.com/automl/auto-sklearn)
 6. [autogluon/autogluon](https://github.com/autogluon/autogluon)
 7. [allegroai/clearml](https://github.com/allegroai/clearml)
-8. [mljar/mljar-supervised](https://github.com/mljar/mljar-supervised)
-9. [determined-ai/determined](https://github.com/determined-ai/determined)
-10. [shankarpandala/lazypredict](https://github.com/shankarpandala/lazypredict)
+8. [microsoft/FLAML](https://github.com/microsoft/FLAML)
+9. [mljar/mljar-supervised](https://github.com/mljar/mljar-supervised)
+10. [determined-ai/determined](https://github.com/determined-ai/determined)
+11. [shankarpandala/lazypredict](https://github.com/shankarpandala/lazypredict)
 
 ### 超参数优化
 

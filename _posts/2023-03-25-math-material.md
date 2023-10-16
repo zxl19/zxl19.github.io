@@ -15,19 +15,21 @@ pinned: false
 
 ## 数学知识
 
-1. [CRC Standard Mathematical Tables and Formulas](https://www.softouch.on.ca/kb/data/CRC%20Standard%20Mathematical%20Tables%20and%20Formulas%2033E%20(2018).pdf)
-2. [Visualize-ML/Book3_Elements-of-Mathematics](https://github.com/Visualize-ML/Book3_Elements-of-Mathematics)
-3. [Visualize-ML/Book4_Power-of-Matrix](https://github.com/Visualize-ML/Book4_Power-of-Matrix)
-4. [Visualize-ML/Book5_Essentials-of-Probability-and-Statistics](https://github.com/Visualize-ML/Book5_Essentials-of-Probability-and-Statistics)
-5. [Visualize-ML/Book6_First-Course-in-Data-Science](https://github.com/Visualize-ML/Book6_First-Course-in-Data-Science)
-6. [wzchen/probability_cheatsheet](https://github.com/wzchen/probability_cheatsheet)
-7. [mavam/stat-cookbook](https://github.com/mavam/stat-cookbook)
-8. [dalcde/cam-notes](https://github.com/dalcde/cam-notes)
-9. [Ewenwan/Mathematics](https://github.com/Ewenwan/Mathematics)
-10. [shervinea/stanford-cme-106-probability-and-statistics](https://github.com/shervinea/stanford-cme-106-probability-and-statistics)
-11. [psibi/how-to-prove](https://github.com/psibi/how-to-prove)
-12. [KafCoppelia/Free_Courses_Notes](https://github.com/KafCoppelia/Free_Courses_Notes)
-13. [JackyWang2001/JackyWang2001.github.io](https://github.com/JackyWang2001/JackyWang2001.github.io)
+1. [CRC Standard Mathematical Tables and Formulas](https://www.softouch.on.ca/kb/data/CRC%20Standard%20Mathematical%20Tables%20and%20Formulas%2033E.pdf)
+2. [Paul's Online Math Notes](https://tutorial.math.lamar.edu)
+3. [List of Formulae and Statistical Tables](https://www.cambridgeinternational.org/Images/344616-list-of-formulae-and-statistical-tables.pdf)
+4. [Visualize-ML/Book3_Elements-of-Mathematics](https://github.com/Visualize-ML/Book3_Elements-of-Mathematics)
+5. [Visualize-ML/Book4_Power-of-Matrix](https://github.com/Visualize-ML/Book4_Power-of-Matrix)
+6. [Visualize-ML/Book5_Essentials-of-Probability-and-Statistics](https://github.com/Visualize-ML/Book5_Essentials-of-Probability-and-Statistics)
+7. [Visualize-ML/Book6_First-Course-in-Data-Science](https://github.com/Visualize-ML/Book6_First-Course-in-Data-Science)
+8. [wzchen/probability_cheatsheet](https://github.com/wzchen/probability_cheatsheet)
+9. [mavam/stat-cookbook](https://github.com/mavam/stat-cookbook)
+10. [dalcde/cam-notes](https://github.com/dalcde/cam-notes)
+11. [Ewenwan/Mathematics](https://github.com/Ewenwan/Mathematics)
+12. [shervinea/stanford-cme-106-probability-and-statistics](https://github.com/shervinea/stanford-cme-106-probability-and-statistics)
+13. [psibi/how-to-prove](https://github.com/psibi/how-to-prove)
+14. [KafCoppelia/Free_Courses_Notes](https://github.com/KafCoppelia/Free_Courses_Notes)
+15. [JackyWang2001/JackyWang2001.github.io](https://github.com/JackyWang2001/JackyWang2001.github.io)
 
 ## 线性代数
 
@@ -53,8 +55,10 @@ pinned: false
 
 ## 参考
 
-1. [用LaTeX做笔记是怎样的体验？-Rabbittac的回答-知乎](https://www.zhihu.com/question/362654946/answer/1896187222)
-2. [国外教授的讲义都是自己用LaTeX打出来的吗？-徐航的回答-知乎](https://www.zhihu.com/question/29227449/answer/1895477272)
-3. [B样条曲线拟合与插值的详尽说明-xiaotaw的文章-知乎](https://zhuanlan.zhihu.com/p/576982365)
-4. [矩阵求导术（上）-长躯鬼侠的文章-知乎](https://zhuanlan.zhihu.com/p/24709748)
-5. [矩阵求导术（下）-长躯鬼侠的文章-知乎](https://zhuanlan.zhihu.com/p/24863977)
+1. [Standard Mathematical Tables and Formulae Home Page](https://www.mathtable.com/smtf/)
+2. [Web Mechanic](https://www.softouch.on.ca)
+3. [用LaTeX做笔记是怎样的体验？-Rabbittac的回答-知乎](https://www.zhihu.com/question/362654946/answer/1896187222)
+4. [国外教授的讲义都是自己用LaTeX打出来的吗？-徐航的回答-知乎](https://www.zhihu.com/question/29227449/answer/1895477272)
+5. [B样条曲线拟合与插值的详尽说明-xiaotaw的文章-知乎](https://zhuanlan.zhihu.com/p/576982365)
+6. [矩阵求导术（上）-长躯鬼侠的文章-知乎](https://zhuanlan.zhihu.com/p/24709748)
+7. [矩阵求导术（下）-长躯鬼侠的文章-知乎](https://zhuanlan.zhihu.com/p/24863977)

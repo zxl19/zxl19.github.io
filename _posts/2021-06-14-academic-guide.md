@@ -39,6 +39,7 @@ pinned: false
 9. [zheng95z/teach-yourself-research](https://github.com/zheng95z/teach-yourself-research)
 10. [yufree/sciguide](https://github.com/yufree/sciguide)
 11. [weisongwen/researchTools](https://github.com/weisongwen/researchTools)
+12. [MLNLP-World/MyArxiv](https://github.com/MLNLP-World/MyArxiv)
 
 ## ChatGPT
 
