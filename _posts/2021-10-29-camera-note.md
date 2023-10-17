@@ -42,6 +42,7 @@ pinned: false
 2. [【科普】新手小白应该怎么挑选相机，2020年相机选购指南](https://www.bilibili.com/video/BV1MK411W7mc)
 3. [相机丨新手小白应该买什么相机？2021相机选购指南](https://www.bilibili.com/video/BV1v44y1672N)
 4. [我找了11位知名UP主评价自己拍视频的设备丨器材终极选购指南](https://www.bilibili.com/video/BV1tJ41187w6)
+5. [「收藏向」相机入门第一步！认识相机、明确需求、打破幻想！](https://www.bilibili.com/video/BV19h4y1B71c)
 
 ### 重要参数
 
@@ -94,6 +95,7 @@ pinned: false
 4. [【DPReview】松下相机的好与坏](https://www.bilibili.com/video/BV1or4y157of)
 5. [【DPReview】徕卡的好与坏](https://www.bilibili.com/video/BV1Gd4y1R7aQ)
 6. [【DPReview】富士相机的好与坏](https://www.bilibili.com/video/BV1D14y1H7xH)
+7. [【PetaPixel】盘点厂家们的得与失](https://www.bilibili.com/video/BV1334y1N7nG)
 
 ### 横向测评
 
