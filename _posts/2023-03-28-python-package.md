@@ -13,15 +13,26 @@ pinned: false
 
 <!-- more -->
 
+## 包管理
+
+1. [pypa/pip](https://github.com/pypa/pip)
+2. [conda/conda](https://github.com/conda/conda)
+
+## 包模板
+
+1. [cookiecutter/cookiecutter](https://github.com/cookiecutter/cookiecutter)
+
 ## 交互式解释器
 
 1. [ipython/ipython](https://github.com/ipython/ipython)
 2. [prompt-toolkit/ptpython](https://github.com/prompt-toolkit/ptpython)
 3. [bpython/bpython](https://github.com/bpython/bpython)
 
-## 文件
+## 文件和系统
 
-1. [shutil](https://docs.python.org/3/library/shutil.html)
+1. [os](https://docs.python.org/3/library/os.html)
+2. [pathlib](https://docs.python.org/3/library/pathlib.html)
+3. [shutil](https://docs.python.org/3/library/shutil.html)
 
 ## 参数读取
 

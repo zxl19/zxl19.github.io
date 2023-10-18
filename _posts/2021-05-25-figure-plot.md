@@ -24,6 +24,8 @@ pinned: false
     - [seaborn](https://seaborn.pydata.org)
 
 3. [gnuplot](http://www.gnuplot.info)
+4. [LabPlot](https://labplot.kde.org)
+5. [SciDAVis](https://scidavis.sourceforge.net)
 
 ### 配色教程
 
