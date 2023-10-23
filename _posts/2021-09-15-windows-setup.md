@@ -23,28 +23,29 @@ pinned: false
 2. Adobe Acrobat XI Pro
 3. Adobe DNG Converter
 4. CloudCompare
-5. FiiO Control Panel
-6. foobar2000
-7. Geek Uninstaller
-8. GeoGebra
-9. Git for Windows
-10. GitHub Desktop
-11. Luminar Neo
-12. Meld
-13. Mendeley Desktop
-14. NeatReader
-15. PotPlayer
-16. PowerToys
-17. qBittorrent
-18. RawTherapee
-19. Rufus
-20. SpaceSniffer
-21. TeXstudio
-22. Visual Studio Code
-23. XMind
-24. 格式工厂
-25. 尼康工坊
-26. 万兴喵影
+5. CrystalDiskInfo
+6. FiiO Control Panel
+7. foobar2000
+8. Geek Uninstaller
+9. GeoGebra
+10. Git for Windows
+11. GitHub Desktop
+12. Luminar Neo
+13. Meld
+14. Mendeley Desktop
+15. NeatReader
+16. PotPlayer
+17. PowerToys
+18. qBittorrent
+19. RawTherapee
+20. Rufus
+21. SpaceSniffer
+22. TeXstudio
+23. Visual Studio Code
+24. XMind
+25. 格式工厂
+26. 尼康工坊
+27. 万兴喵影
 
 ### 未安装
 
@@ -119,7 +120,8 @@ pinned: false
 14. [不喜欢diff么？试试Meld吧丨Linux中国-Linux中国的文章-知乎](https://zhuanlan.zhihu.com/p/124017201)
 15. [使用Meld在Linux中以图形方式比较文件和文件夹丨Linux中国-Linux中国的文章-知乎](https://zhuanlan.zhihu.com/p/317628626)
 16. [适用于Linux系统的最佳白板应用丨Linux中国-Linux中国的文章-知乎](https://zhuanlan.zhihu.com/p/467327167)
-17. [Windows 10总是不打招呼就自动更新？教你如何关闭它-少数派的文章-知乎](https://zhuanlan.zhihu.com/p/35590496)
-18. [什么工具可以有效清理"C:\Users\用户名\AppData"目录下的文件？-高灵的回答-知乎](https://www.zhihu.com/question/38011537/answer/296426969)
-19. [Win 10 C盘突然爆满，怎么清理？-坚果云的回答-知乎](https://www.zhihu.com/question/53591010/answer/1115174873)
-20. [windows10系统内存占用莫名其妙非常高怎么解决怎么解决？-mhm的回答-知乎](https://www.zhihu.com/question/359072911/answer/924065793)
+17. [111-硬盘状态检测工具CrystalDiskInfo-bsworld的文章-知乎](https://zhuanlan.zhihu.com/p/621817951)
+18. [Windows 10总是不打招呼就自动更新？教你如何关闭它-少数派的文章-知乎](https://zhuanlan.zhihu.com/p/35590496)
+19. [什么工具可以有效清理"C:\Users\用户名\AppData"目录下的文件？-高灵的回答-知乎](https://www.zhihu.com/question/38011537/answer/296426969)
+20. [Win 10 C盘突然爆满，怎么清理？-坚果云的回答-知乎](https://www.zhihu.com/question/53591010/answer/1115174873)
+21. [windows10系统内存占用莫名其妙非常高怎么解决怎么解决？-mhm的回答-知乎](https://www.zhihu.com/question/359072911/answer/924065793)
