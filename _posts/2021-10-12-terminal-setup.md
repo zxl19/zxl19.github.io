@@ -157,11 +157,13 @@ plugins=(git themes zsh-autosuggestions zsh-syntax-highlighting)
 
 3. 注销或者重启以应用默认shell设置；
 
-## 终端仿真器Terminator
+## 终端仿真器
+
+### Terminator
 
 在同一窗口中打开多个终端。
 
-### 安装及配置
+#### 安装及配置
 
 1. 下载并安装Terminator：
 
@@ -178,9 +180,9 @@ plugins=(git themes zsh-autosuggestions zsh-syntax-highlighting)
 
     选择`/usr/bin/gnome-terminal.wrapper`；
 
-### 快捷键
+#### 快捷键
 
-#### Quick Start
+##### Quick Start
 
 | 功能 | 快捷键 |
 | :--- | :--- |
@@ -193,7 +195,7 @@ plugins=(git themes zsh-autosuggestions zsh-syntax-highlighting)
 | 关闭当前终端 | `Ctrl`+`Shift`+`W` |
 | 关闭当前窗口 | `Ctrl`+`Shift`+`Q` |
 
-#### 补充说明
+##### 补充说明
 
 | 功能 | 快捷键 |
 | :--- | :--- |
@@ -231,7 +233,7 @@ plugins=(git themes zsh-autosuggestions zsh-syntax-highlighting)
 
 全部快捷键参考[Terminator官方文档](https://terminator-gtk3.readthedocs.io/en/latest/)。
 
-### 设置布局
+#### 设置布局
 
 1. 双击终端边界可以均匀调整当前终端大小，`Shift`+双击终端边界可以均匀调整全部终端大小；
 2. 按住鼠标左键可以直接拖拽调整终端位置，按住`Ctrl`+鼠标右键拖拽调整终端位置需要先释放`Ctrl`才能完成调整；
@@ -250,14 +252,27 @@ plugins=(git themes zsh-autosuggestions zsh-syntax-highlighting)
 
     或者使用快捷键`Alt`+`L`；
 
-### 设置回滚行数
+#### 设置回滚行数
 
 1. 在`Preferences`->`Profiles`->`Scrolling`中设置回滚行数；
 2. 默认回滚行数为500，可以勾选`Infinite Scrollback`选择无限回滚；
 
-### 设置主题
+#### 设置主题
 
 1. [EliverLara/terminator-themes](https://github.com/EliverLara/terminator-themes)
+
+### edex-ui
+
+具有科技感的终端仿真器。
+
+1. [GitSquared/edex-ui](https://github.com/GitSquared/edex-ui)
+
+#### 设置主题
+
+1. [dylanaraps/neofetch](https://github.com/dylanaraps/neofetch)
+2. [ranger/ranger](https://github.com/ranger/ranger)
+3. [abishekvashok/cmatrix](https://github.com/abishekvashok/cmatrix)
+4. [GitSquared/horizon-edex-theme](https://github.com/GitSquared/horizon-edex-theme)
 
 ## 参考
 

@@ -50,10 +50,11 @@ pinned: false
 5. [Bin-Huang/chatbox](https://github.com/Bin-Huang/chatbox)
 6. [TheR1D/shell_gpt](https://github.com/TheR1D/shell_gpt)
 7. [rubickCenter/rubick](https://github.com/rubickCenter/rubick)
-8. [paul-gauthier/aider](https://github.com/paul-gauthier/aider)
-9. [nishiwen1214/ChatReviewer](https://github.com/nishiwen1214/ChatReviewer)
-10. [WangRongsheng/ChatGenTitle](https://github.com/WangRongsheng/ChatGenTitle)
-11. [talkingwallace/ChatGPT-Paper-Reader](https://github.com/talkingwallace/ChatGPT-Paper-Reader)
+8. [THUDM/CodeGeeX2](https://github.com/THUDM/CodeGeeX2)
+9. [paul-gauthier/aider](https://github.com/paul-gauthier/aider)
+10. [nishiwen1214/ChatReviewer](https://github.com/nishiwen1214/ChatReviewer)
+11. [WangRongsheng/ChatGenTitle](https://github.com/WangRongsheng/ChatGenTitle)
+12. [talkingwallace/ChatGPT-Paper-Reader](https://github.com/talkingwallace/ChatGPT-Paper-Reader)
 
 ## 参考
 
