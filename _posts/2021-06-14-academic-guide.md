@@ -26,6 +26,13 @@ pinned: false
 2. [How to Read a Paper Efficiently (By Prof. Pete Carr) 如何高效阅读论文](https://www.bilibili.com/video/BV14s411N76u)
 3. [【泡泡机器人公开课】第一百一十九课：如何发表一篇顶会论文——许凌云](https://www.bilibili.com/video/BV1Pi4y1F7VG)
 
+## 书籍
+
+1. 《离开学术界：实用指南》
+2. 《学术“咸鱼”自救指南》
+3. 《如何写好学术论文》
+4. 《带一本书去读研》
+
 ## GitHub
 
 1. [jbhuang0604/awesome-tips](https://github.com/jbhuang0604/awesome-tips)
