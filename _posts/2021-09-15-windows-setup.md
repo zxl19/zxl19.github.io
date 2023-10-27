@@ -56,28 +56,29 @@ pinned: false
 5. Cmder
 6. Cold Turkey
 7. DAEMON Tools
-8. Dism++
-9. drawio-desktop
-10. Everything
-11. FileZilla Client
-12. Fliqlo
-13. Inkscape
-14. Obsidian
-15. Photoflare
-16. PlotJuggler
-17. Recuva
-18. Rubick
-19. ShareX
-20. Snipaste
-21. SumatraPDF
-22. TeamViewer
-23. Transmission
-24. Typora
-25. Understand
-26. VLC media player
-27. winutil
-28. Xournal++
-29. Zotero
+8. DiskGenius
+9. Dism++
+10. drawio-desktop
+11. Everything
+12. FileZilla Client
+13. Fliqlo
+14. Inkscape
+15. Obsidian
+16. Photoflare
+17. PlotJuggler
+18. Recuva
+19. Rubick
+20. ShareX
+21. Snipaste
+22. SumatraPDF
+23. TeamViewer
+24. Transmission
+25. Typora
+26. Understand
+27. VLC media player
+28. winutil
+29. Xournal++
+30. Zotero
 
 ## 常见问题及解决方法
 
@@ -121,7 +122,8 @@ pinned: false
 15. [使用Meld在Linux中以图形方式比较文件和文件夹丨Linux中国-Linux中国的文章-知乎](https://zhuanlan.zhihu.com/p/317628626)
 16. [适用于Linux系统的最佳白板应用丨Linux中国-Linux中国的文章-知乎](https://zhuanlan.zhihu.com/p/467327167)
 17. [111-硬盘状态检测工具CrystalDiskInfo-bsworld的文章-知乎](https://zhuanlan.zhihu.com/p/621817951)
-18. [Windows 10总是不打招呼就自动更新？教你如何关闭它-少数派的文章-知乎](https://zhuanlan.zhihu.com/p/35590496)
-19. [什么工具可以有效清理"C:\Users\用户名\AppData"目录下的文件？-高灵的回答-知乎](https://www.zhihu.com/question/38011537/answer/296426969)
-20. [Win 10 C盘突然爆满，怎么清理？-坚果云的回答-知乎](https://www.zhihu.com/question/53591010/answer/1115174873)
-21. [windows10系统内存占用莫名其妙非常高怎么解决怎么解决？-mhm的回答-知乎](https://www.zhihu.com/question/359072911/answer/924065793)
+18. [硬盘坏道检测软件HDTune、DiskGenius、MHDD有什么区别？哪一个检测更准确？-雲在青天水在瓶的回答-知乎](https://www.zhihu.com/question/508943113/answer/2537752096)
+19. [Windows 10总是不打招呼就自动更新？教你如何关闭它-少数派的文章-知乎](https://zhuanlan.zhihu.com/p/35590496)
+20. [什么工具可以有效清理"C:\Users\用户名\AppData"目录下的文件？-高灵的回答-知乎](https://www.zhihu.com/question/38011537/answer/296426969)
+21. [Win 10 C盘突然爆满，怎么清理？-坚果云的回答-知乎](https://www.zhihu.com/question/53591010/answer/1115174873)
+22. [windows10系统内存占用莫名其妙非常高怎么解决怎么解决？-mhm的回答-知乎](https://www.zhihu.com/question/359072911/answer/924065793)
