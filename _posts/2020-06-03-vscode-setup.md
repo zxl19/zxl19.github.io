@@ -143,6 +143,12 @@ CMake扩展。
 
 拼写检查。
 
+### CodeGeeX: AI Code AutoComplete, Chat, Auto Comment
+
+基于大模型的智能编程助手，提供代码自动生成和补全、代码翻译、自动添加注释、智能问答等功能，类似的扩展还有GitHub Copilot、Tabnine AI Autocomplete、Cody AI、Kite。
+
+**2022年11月：Kite已停止维护。**
+
 ### Compare Folders
 
 按照内容比较文件夹，并排显示文件夹中的文件内容差异。可以用于代替Beyond Compare和CC Compare的功能。
@@ -191,9 +197,7 @@ CMake扩展。
 
 ### IntelliCode
 
-为Python、TypeScript/JavaScript、Java提供基于上下文和机器学习的自动补全，安装IntelliCode API Usage Examples扩展可以查看GitHub中的用法示例并提高使用体验，类似的扩展还有Tabnine AI Autocomplete、GitHub Copilot、Kite。
-
-**2022年11月：Kite已停止维护。**
+为Python、TypeScript/JavaScript、Java提供基于上下文和机器学习的自动补全，安装IntelliCode API Usage Examples扩展可以查看GitHub中的用法示例并提高使用体验。
 
 ### koroFileHeader
 
