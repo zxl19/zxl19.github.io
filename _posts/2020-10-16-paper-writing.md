@@ -166,6 +166,8 @@ pinned: false
 5. [writing-resources/awesome-scientific-writing](https://github.com/writing-resources/awesome-scientific-writing)
 6. [wangdongdut/PaperWriting](https://github.com/wangdongdut/PaperWriting)
 7. [cooelf/PaperWritingTips](https://github.com/cooelf/PaperWritingTips)
+8. 《如何写好学术论文》
+9. 《学术“咸鱼”自救指南》
 
 ### 英文写作
 
@@ -174,6 +176,7 @@ pinned: false
 3. [Academic Phrasebank](https://www.phrasebank.manchester.ac.uk/)
 4. [The Most Common Habits from more than 200 English Papers written by Graduate Chinese Engineering Students](https://www.chrisyttang.org/assets/misc/The%20Most%20Common%20Habits%20from%20more%20than%20200%20English%20Papers%20written.pdf)
 5. [Mathematical English (a brief summary)](https://webusers.imj-prg.fr/~jan.nekovar/co/en/en.pdf)
+6. Science Research Writing（中译名：英语科技写作）
 
 ### 海报模板
 
@@ -195,3 +198,4 @@ pinned: false
 10. [我来分享下自己总结的审稿意见回复的模板吧-方差的文章-知乎](https://zhuanlan.zhihu.com/p/346911007)
 11. [美国老姐看完200+中国学生SCI论文，怒写超详细“中国人英文论文写作指南”，还被推上了B站热门…-量子位的文章-知乎](https://zhuanlan.zhihu.com/p/512095069)
 12. [数学公式、符号怎么用英语念出来？-半个冯博士的回答-知乎](https://www.zhihu.com/question/52818597/answer/2053270796)
+13. [有哪本书，你恨不得把它全部内容都背诵下来？-罗西南多的回答-知乎](https://www.zhihu.com/question/485142113/answer/3248748340)
