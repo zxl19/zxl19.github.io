@@ -79,18 +79,19 @@ SLAM方向面试题存档。
 
 ## 计算机系课程
 
-1. [QSCTech/zju-icicles](https://github.com/QSCTech/zju-icicles)
-2. [PKUanonym/REKCARC-TSC-UHT](https://github.com/PKUanonym/REKCARC-TSC-UHT)
-3. [PKUFlyingPig/cs-self-learning](https://github.com/PKUFlyingPig/cs-self-learning)
-4. [USTC-Resource/USTC-Course](https://github.com/USTC-Resource/USTC-Course)
-5. [c-hj/SJTU-Courses](https://github.com/c-hj/SJTU-Courses)
-6. [missing-semester/missing-semester](https://github.com/missing-semester/missing-semester)
-7. [missing-semester-cn/missing-semester-cn.github.io](https://github.com/missing-semester-cn/missing-semester-cn.github.io)
-8. [Salensoft/thu-cst-cracker](https://github.com/Salensoft/thu-cst-cracker)
-9. [HuangCongQing/UCAS_Course_2019](https://github.com/HuangCongQing/UCAS_Course_2019)
-10. [Trinkle23897/THU-CST-Cracker](https://github.com/Trinkle23897/THU-CST-Cracker)
-11. [Trinkle23897/Undergraduate](https://github.com/Trinkle23897/Undergraduate)
-12. [15172658790/Blog](https://github.com/15172658790/Blog)
+1. [ByteByteGoHq/system-design-101](https://github.com/ByteByteGoHq/system-design-101)
+2. [QSCTech/zju-icicles](https://github.com/QSCTech/zju-icicles)
+3. [PKUanonym/REKCARC-TSC-UHT](https://github.com/PKUanonym/REKCARC-TSC-UHT)
+4. [PKUFlyingPig/cs-self-learning](https://github.com/PKUFlyingPig/cs-self-learning)
+5. [USTC-Resource/USTC-Course](https://github.com/USTC-Resource/USTC-Course)
+6. [c-hj/SJTU-Courses](https://github.com/c-hj/SJTU-Courses)
+7. [missing-semester/missing-semester](https://github.com/missing-semester/missing-semester)
+8. [missing-semester-cn/missing-semester-cn.github.io](https://github.com/missing-semester-cn/missing-semester-cn.github.io)
+9. [Salensoft/thu-cst-cracker](https://github.com/Salensoft/thu-cst-cracker)
+10. [HuangCongQing/UCAS_Course_2019](https://github.com/HuangCongQing/UCAS_Course_2019)
+11. [Trinkle23897/THU-CST-Cracker](https://github.com/Trinkle23897/THU-CST-Cracker)
+12. [Trinkle23897/Undergraduate](https://github.com/Trinkle23897/Undergraduate)
+13. [15172658790/Blog](https://github.com/15172658790/Blog)
 
 ## 参考
 

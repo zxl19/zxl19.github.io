@@ -55,7 +55,8 @@ pinned: false
 3. [sympy/sympy](https://github.com/sympy/sympy)
 4. [cupy/cupy](https://github.com/cupy/cupy)
 5. [cvxpy/cvxpy](https://github.com/cvxpy/cvxpy)
-6. [cvxopt/cvxopt](https://github.com/cvxopt/cvxopt)
+6. [pydata/numexpr](https://github.com/pydata/numexpr)
+7. [cvxopt/cvxopt](https://github.com/cvxopt/cvxopt)
 
 ## 数据分析
 
@@ -123,9 +124,15 @@ pinned: false
 
 ## 调试工具
 
+### 日志输出
+
 1. [Delgan/loguru](https://github.com/Delgan/loguru)
 2. [gruns/icecream](https://github.com/gruns/icecream)
-3. [gaogaotiantian/viztracer](https://github.com/gaogaotiantian/viztracer)
+
+### 性能分析
+
+1. [timeit](https://docs.python.org/3/library/timeit.html)
+2. [gaogaotiantian/viztracer](https://github.com/gaogaotiantian/viztracer)
 
 ### 机器学习&深度学习
 
