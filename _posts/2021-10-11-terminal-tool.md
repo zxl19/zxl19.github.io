@@ -57,7 +57,7 @@ pinned: false
 ## 命令试错
 
 1. [thefuck](https://github.com/nvbn/thefuck)
-2. [binpash/try](https://github.com/binpash/try)
+2. [try](https://github.com/binpash/try)
 
 ## 文本编辑
 

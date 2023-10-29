@@ -63,22 +63,24 @@ pinned: false
 12. FileZilla Client
 13. Fliqlo
 14. Inkscape
-15. Obsidian
-16. Photoflare
-17. PlotJuggler
-18. Recuva
-19. Rubick
-20. ShareX
-21. Snipaste
-22. SumatraPDF
-23. TeamViewer
-24. Transmission
-25. Typora
-26. Understand
-27. VLC media player
-28. winutil
-29. Xournal++
-30. Zotero
+15. Jellyfin
+16. Obsidian
+17. Photoflare
+18. PlotJuggler
+19. PowerDVD
+20. Recuva
+21. Rubick
+22. ShareX
+23. Snipaste
+24. SumatraPDF
+25. TeamViewer
+26. Transmission
+27. Typora
+28. Understand
+29. VLC media player
+30. winutil
+31. Xournal++
+32. Zotero
 
 ## 常见问题及解决方法
 
