@@ -43,10 +43,25 @@ pinned: false
 
 ### 配置文件参数
 
+#### `.ini`文件
+
 1. [configparser](https://docs.python.org/3/library/configparser.html)
-2. [yaml/pyyaml](https://github.com/yaml/pyyaml)
-3. [google/fiddle](https://github.com/google/fiddle)
-4. [pyscaffold/configupdater](https://github.com/pyscaffold/configupdater)
+2. [pyscaffold/configupdater](https://github.com/pyscaffold/configupdater)
+
+#### `.yaml`文件
+
+1. [yaml/pyyaml](https://github.com/yaml/pyyaml)
+
+#### `.toml`文件
+
+1. [uiri/toml](https://github.com/uiri/toml)
+2. [sdispater/tomlkit](https://github.com/sdispater/tomlkit)
+3. [hukkin/tomli](https://github.com/hukkin/tomli)
+4. [bobfang1992/pytomlpp](https://github.com/bobfang1992/pytomlpp)
+
+#### 其它
+
+1. [google/fiddle](https://github.com/google/fiddle)
 
 ## 数值运算
 

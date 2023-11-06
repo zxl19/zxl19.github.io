@@ -107,6 +107,13 @@ pinned: false
 2. [d99kris/rapidcsv](https://github.com/d99kris/rapidcsv)
 3. [p-ranav/csv2](https://github.com/p-ranav/csv2)
 
+#### `.toml`文件
+
+1. [marzer/tomlplusplus](https://github.com/marzer/tomlplusplus)
+2. [ToruNiina/toml11](https://github.com/ToruNiina/toml11)
+3. [cktan/tomlc99](https://github.com/cktan/tomlc99)
+4. [cktan/tomlcpp](https://github.com/cktan/tomlcpp)
+
 ## 调试分析
 
 ### 单元测试
