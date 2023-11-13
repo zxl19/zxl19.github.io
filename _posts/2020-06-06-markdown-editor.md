@@ -33,8 +33,9 @@ pinned: false
 **自2021年11月起，Typora开始收费。** 可以在VS Code中安装Typora扩展实现类似的功能。以下是一些免费的Markdown编辑器，可以作为Typora的替代方案：
 
 1. Mark Text[[链接]](https://github.com/marktext/marktext)
-2. Notable[[链接]](https://notable.app)
-3. Notes[[链接]](https://www.get-notes.com)
+2. Leanote[[链接]](https://github.com/leanote/leanote)
+3. Notable[[链接]](https://notable.app)
+4. Notes[[链接]](https://www.get-notes.com)
 
 ## Gridea
 

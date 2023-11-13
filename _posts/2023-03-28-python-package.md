@@ -163,7 +163,8 @@ pinned: false
 
 1. [numba/numba](https://github.com/numba/numba)
 2. [cython/cython](https://github.com/cython/cython)
-3. [xorbitsai/xorbits](https://github.com/xorbitsai/xorbits)
+3. [rapidsai/cudf](https://github.com/rapidsai/cudf)
+4. [xorbitsai/xorbits](https://github.com/xorbitsai/xorbits)
 
 ## 通信
 
