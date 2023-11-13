@@ -51,6 +51,10 @@ pinned: false
 3. [你是怎样使用obsidian做笔记的？-Wyatt的回答-知乎](https://www.zhihu.com/question/412868038/answer/2447812348)
 4. [没有花里胡哨，我最爱用的Obsidian实用插件推荐。-唐夕洲的文章-知乎](https://zhuanlan.zhihu.com/p/491766682)
 
+## Cherry Markdown Writer
+
+Javascript Markdown编辑器。[[链接]](https://github.com/Tencent/cherry-markdown)
+
 ## 参考
 
 1. [Typora收费，请别错过这几款高颜值Markdown编辑器！-GitHub Daily的文章-知乎](https://zhuanlan.zhihu.com/p/450104097)
@@ -60,3 +64,4 @@ pinned: false
 5. [nuttyartist/notes](https://github.com/nuttyartist/notes)
 6. [getgridea/gridea](https://github.com/getgridea/gridea)
 7. [obsidianmd/obsidian-releases](https://github.com/obsidianmd/obsidian-releases)
+8. [Tencent/cherry-markdown](https://github.com/Tencent/cherry-markdown)

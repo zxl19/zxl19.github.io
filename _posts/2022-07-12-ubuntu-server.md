@@ -21,6 +21,7 @@ pinned: false
 
 ```shell
 ftp://192.168.1.1
+ftps://192.168.1.1
 ```
 
 ### SMB协议
@@ -36,16 +37,18 @@ smb://192.168.1.1
 1. 在`文件`->`其他位置`中使用SSH（Secure Shell）协议连接：
 
     ```shell
+    sftp://192.168.1.1
     ssh://192.168.1.1
     ```
 
 2. 在命令行中使用SSH协议连接：
 
     ```shell
+    sftp username@192.168.1.1
     ssh username@192.168.1.1
     ```
 
-3. 使用基于SSH协议的scp命令远程复制文件：
+3. 使用基于SSH协议的`scp`命令远程复制文件：
 
     ```shell
     scp [-346BCpqrv] [-c cipher] [-F ssh_config] [-i identity_file]
@@ -64,14 +67,15 @@ smb://192.168.1.1
 
 ### obsutil
 
-在命令行中使用obsutil命令访问管理华为云对象存储服务（Object Storage Service，OBS）：
+在命令行中使用`obsutil`命令访问管理华为云对象存储服务（Object Storage Service，OBS）：
 
 ```shell
 ./obsutil [command] [args...] [options...]
 ```
 
-1. [obsutil简介](https://support.huaweicloud.com/utiltg-obs/obs_11_0001.html)
-
 ## 参考
 
-1. [Linux scp命令-菜鸟教程](https://www.runoob.com/linux/linux-comm-scp.html)
+1. [NFS、FTP、SMB、WebDav、DLNA协议，傻傻分不清？-大技术的文章-知乎](https://zhuanlan.zhihu.com/p/411161467)
+2. [浅谈FTP，SFTP，FTPS区别-依然范儿特西的文章-知乎](https://zhuanlan.zhihu.com/p/106980723)
+3. [Linux scp命令-菜鸟教程](https://www.runoob.com/linux/linux-comm-scp.html)
+4. [obsutil简介-华为云](https://support.huaweicloud.com/utiltg-obs/obs_11_0001.html)
