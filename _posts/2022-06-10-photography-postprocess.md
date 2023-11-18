@@ -65,3 +65,7 @@ Luminar是一款使用人工智能技术的图像处理软件，操作相对简�
 1. [Film Simulation-RawPedia](http://rawpedia.rawtherapee.com/Film_Simulation)
 2. [RawTherapee 免费胶片模拟软件上手指南 - HaldCLUT](https://www.bilibili.com/video/BV17p4y1s7o6)
 3. [cedeber/hald-clut](https://github.com/cedeber/hald-clut)
+
+### 添加水印
+
+1. [leslievan/semi-utils](https://github.com/leslievan/semi-utils)

@@ -49,16 +49,18 @@ pinned: false
 10. [elangosundar/awesome-README-templates](https://github.com/elangosundar/awesome-README-templates)
 11. [Ashutosh00710/github-readme-activity-graph](https://github.com/Ashutosh00710/github-readme-activity-graph)
 12. [yoshi389111/github-profile-3d-contrib](https://github.com/yoshi389111/github-profile-3d-contrib)
-13. [zerosoul/github-star-stats](https://github.com/zerosoul/github-star-stats)
-14. [GitHub Star History](https://star-history.com)
-15. [RevolverMaps](https://www.revolvermaps.com)
-16. [Free website hit counter](https://www.free-website-hit-counter.com)
-17. [不蒜子-极简网页计数器](http://busuanzi.ibruce.info)
+13. [songquanpeng/stats-cards](https://github.com/songquanpeng/stats-cards)
+14. [zerosoul/github-star-stats](https://github.com/zerosoul/github-star-stats)
+15. [GitHub Star History](https://star-history.com)
+16. [RevolverMaps](https://www.revolvermaps.com)
+17. [Free website hit counter](https://www.free-website-hit-counter.com)
+18. [不蒜子-极简网页计数器](http://busuanzi.ibruce.info)
 
 ## 美化
 
 1. [fangpenlin/avataaars-generator](https://github.com/fangpenlin/avataaars-generator)
-2. [github-contribution-grid-snake](https://github.com/marketplace/actions/generate-snake-game-from-github-contribution-grid)
+2. [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg)
+3. [github-contribution-grid-snake](https://github.com/marketplace/actions/generate-snake-game-from-github-contribution-grid)
 
 ## 参考
 

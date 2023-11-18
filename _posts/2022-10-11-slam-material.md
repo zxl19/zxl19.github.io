@@ -140,12 +140,13 @@ SLAM学习资料存档，包括SLAM基础理论、卡尔曼滤波、组合导航
 
 ### GitHub
 
-1. [ApolloAuto/apollo](https://github.com/ApolloAuto/apollo)
-2. [daohu527/dig-into-apollo](https://github.com/daohu527/dig-into-apollo)
-3. [YannZyl/Apollo-Note](https://github.com/YannZyl/Apollo-Note)
-4. [autowarefoundation/autoware](https://github.com/autowarefoundation/autoware)
-5. [nwaysir/Autopilot-Updating-Notes](https://github.com/nwaysir/Autopilot-Updating-Notes)
-6. [thomasfermi/Algorithms-for-Automated-Driving](https://github.com/thomasfermi/Algorithms-for-Automated-Driving)
+1. [commaai/openpilot](https://github.com/commaai/openpilot)
+2. [ApolloAuto/apollo](https://github.com/ApolloAuto/apollo)
+3. [autowarefoundation/autoware](https://github.com/autowarefoundation/autoware)
+4. [daohu527/dig-into-apollo](https://github.com/daohu527/dig-into-apollo)
+5. [YannZyl/Apollo-Note](https://github.com/YannZyl/Apollo-Note)
+6. [nwaysir/Autopilot-Updating-Notes](https://github.com/nwaysir/Autopilot-Updating-Notes)
+7. [thomasfermi/Algorithms-for-Automated-Driving](https://github.com/thomasfermi/Algorithms-for-Automated-Driving)
 
 ## 参考
 
