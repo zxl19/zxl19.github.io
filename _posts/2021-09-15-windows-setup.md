@@ -67,20 +67,21 @@ pinned: false
 16. Obsidian
 17. Photoflare
 18. PlotJuggler
-19. PowerDVD
-20. Recuva
-21. Rubick
-22. ShareX
-23. Snipaste
-24. SumatraPDF
-25. TeamViewer
-26. Transmission
-27. Typora
-28. Understand
-29. VLC media player
-30. winutil
-31. Xournal++
-32. Zotero
+19. Pomatez
+20. PowerDVD
+21. Recuva
+22. Rubick
+23. ShareX
+24. Snipaste
+25. SumatraPDF
+26. TeamViewer
+27. Transmission
+28. Typora
+29. Understand
+30. VLC media player
+31. winutil
+32. Xournal++
+33. Zotero
 
 ## 常见问题及解决方法
 
