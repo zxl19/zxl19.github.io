@@ -30,7 +30,7 @@ pinned: false
 
 专业的Markdown编辑器。[[链接]](https://typora.io)
 
-**自2021年11月起，Typora开始收费。** 可以在VS Code中安装Typora扩展实现类似的功能。以下是一些免费的Markdown编辑器，可以作为Typora的替代方案：
+**自2021年11月起，Typora开始收费。** 可以在VS Code中安装Typora扩展实现类似的功能。以下是一些开源的免费Markdown编辑器，可以作为Typora的替代方案：
 
 1. Mark Text[[链接]](https://github.com/marktext/marktext)
 2. Leanote[[链接]](https://github.com/leanote/leanote)
@@ -52,6 +52,14 @@ pinned: false
 3. [你是怎样使用obsidian做笔记的？-Wyatt的回答-知乎](https://www.zhihu.com/question/412868038/answer/2447812348)
 4. [没有花里胡哨，我最爱用的Obsidian实用插件推荐。-唐夕洲的文章-知乎](https://zhuanlan.zhihu.com/p/491766682)
 
+以下是一些开源的免费知识库管理软件，可以作为Obsidian的替代方案：
+
+1. Logseq[[链接]](https://logseq.com)
+2. SiYuan[[链接]](https://b3log.org/siyuan/en/)
+3. Archivy[[链接]](https://archivy.github.io)
+4. Zim[[链接]](https://zim-wiki.org)
+5. CubyText[[链接]](https://github.com/vincentdchan/CubyText)
+
 ## Cherry Markdown Writer
 
 Javascript Markdown编辑器。[[链接]](https://github.com/Tencent/cherry-markdown)
@@ -61,8 +69,14 @@ Javascript Markdown编辑器。[[链接]](https://github.com/Tencent/cherry-mark
 1. [Typora收费，请别错过这几款高颜值Markdown编辑器！-GitHub Daily的文章-知乎](https://zhuanlan.zhihu.com/p/450104097)
 2. [cweijan/vscode-office](https://github.com/cweijan/vscode-office)
 3. [marktext/marktext](https://github.com/marktext/marktext)
-4. [notable/notable](https://github.com/notable/notable)
-5. [nuttyartist/notes](https://github.com/nuttyartist/notes)
-6. [getgridea/gridea](https://github.com/getgridea/gridea)
-7. [obsidianmd/obsidian-releases](https://github.com/obsidianmd/obsidian-releases)
-8. [Tencent/cherry-markdown](https://github.com/Tencent/cherry-markdown)
+4. [leanote/leanote](https://github.com/leanote/leanote)
+5. [notable/notable](https://github.com/notable/notable)
+6. [nuttyartist/notes](https://github.com/nuttyartist/notes)
+7. [getgridea/gridea](https://github.com/getgridea/gridea)
+8. [obsidianmd/obsidian-releases](https://github.com/obsidianmd/obsidian-releases)
+9. [logseq/logseq](https://github.com/logseq/logseq)
+10. [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan)
+11. [archivy/archivy](https://github.com/archivy/archivy)
+12. [zim-desktop-wiki/zim-desktop-wiki](https://github.com/zim-desktop-wiki/zim-desktop-wiki)
+13. [vincentdchan/CubyText](https://github.com/vincentdchan/CubyText)
+14. [Tencent/cherry-markdown](https://github.com/Tencent/cherry-markdown)
