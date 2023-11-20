@@ -66,6 +66,7 @@ pinned: false
 4. [garrettj403/SciencePlots](https://github.com/garrettj403/SciencePlots)
 5. [BlakeRMills/MetBrewer](https://github.com/BlakeRMills/MetBrewer)
 6. [guanyingc/python_plot_utils](https://github.com/guanyingc/python_plot_utils)
+7. [BlakeRMills/MoMAColors](https://github.com/BlakeRMills/MoMAColors)
 
 #### 图片示例
 

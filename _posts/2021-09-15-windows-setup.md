@@ -64,24 +64,26 @@ pinned: false
 13. Fliqlo
 14. Inkscape
 15. Jellyfin
-16. Obsidian
-17. Photoflare
-18. PlotJuggler
-19. Pomatez
-20. PowerDVD
-21. Recuva
-22. Rubick
-23. ShareX
-24. Snipaste
-25. SumatraPDF
-26. TeamViewer
-27. Transmission
-28. Typora
-29. Understand
-30. VLC media player
-31. winutil
-32. Xournal++
-33. Zotero
+16. MeshLab
+17. Meshmixer
+18. Obsidian
+19. Photoflare
+20. PlotJuggler
+21. Pomatez
+22. PowerDVD
+23. Recuva
+24. Rubick
+25. ShareX
+26. Snipaste
+27. SumatraPDF
+28. TeamViewer
+29. Transmission
+30. Typora
+31. Understand
+32. VLC media player
+33. winutil
+34. Xournal++
+35. Zotero
 
 ## 常见问题及解决方法
 
