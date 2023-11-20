@@ -9,7 +9,7 @@ toc: true
 pinned: false
 ---
 
-在Ubuntu系统中截图、录屏的方法，包括使用系统快捷键和Kazam。
+记录一下如何在Ubuntu系统中截图和录屏，包括使用系统快捷键和第三方应用。
 
 <!-- more -->
 
