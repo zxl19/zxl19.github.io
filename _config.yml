@@ -87,6 +87,10 @@ google_analytics:
 
 utteranc:
   repo: zxl19/zxl19.github.io # Your github repo path, also see: https://utteranc.es
+  issue-term: title
+  label: comment
+  theme: github-light
+  crossorigin: anonymous
 
 #
 # !! 以下所有设置都不需要更改 !!
