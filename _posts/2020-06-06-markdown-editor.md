@@ -55,10 +55,14 @@ pinned: false
 以下是一些开源的免费知识库管理软件，可以作为Obsidian的替代方案：
 
 1. Logseq[[链接]](https://logseq.com)
-2. SiYuan[[链接]](https://b3log.org/siyuan/en/)
-3. Archivy[[链接]](https://archivy.github.io)
-4. Zim[[链接]](https://zim-wiki.org)
-5. CubyText[[链接]](https://github.com/vincentdchan/CubyText)
+2. AFFiNE[[链接]](https://affine.pro)
+3. SiYuan[[链接]](https://b3log.org/siyuan/en/)
+4. Notesnook[[链接]](https://notesnook.com)
+5. Archivy[[链接]](https://archivy.github.io)
+6. Omni-Notes[[链接]](https://omninotes.app)
+7. Zim[[链接]](https://zim-wiki.org)
+8. NixNote2[[链接]](https://github.com/baumgarr/nixnote2)
+9. CubyText[[链接]](https://github.com/vincentdchan/CubyText)
 
 ## Cherry Markdown Writer
 
@@ -75,8 +79,13 @@ Javascript Markdown编辑器。[[链接]](https://github.com/Tencent/cherry-mark
 7. [getgridea/gridea](https://github.com/getgridea/gridea)
 8. [obsidianmd/obsidian-releases](https://github.com/obsidianmd/obsidian-releases)
 9. [logseq/logseq](https://github.com/logseq/logseq)
-10. [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan)
-11. [archivy/archivy](https://github.com/archivy/archivy)
-12. [zim-desktop-wiki/zim-desktop-wiki](https://github.com/zim-desktop-wiki/zim-desktop-wiki)
-13. [vincentdchan/CubyText](https://github.com/vincentdchan/CubyText)
-14. [Tencent/cherry-markdown](https://github.com/Tencent/cherry-markdown)
+10. [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE)
+11. [siyuan-note/siyuan](https://github.com/siyuan-note/siyuan)
+12. [streetwriters/notesnook](https://github.com/streetwriters/notesnook)
+13. [archivy/archivy](https://github.com/archivy/archivy)
+14. [federicoiosue/Omni-Notes](https://github.com/federicoiosue/Omni-Notes)
+15. [federicoiosue/omni-notes-desktop](https://github.com/federicoiosue/omni-notes-desktop)
+16. [zim-desktop-wiki/zim-desktop-wiki](https://github.com/zim-desktop-wiki/zim-desktop-wiki)
+17. [baumgarr/nixnote2](https://github.com/baumgarr/nixnote2)
+18. [vincentdchan/CubyText](https://github.com/vincentdchan/CubyText)
+19. [Tencent/cherry-markdown](https://github.com/Tencent/cherry-markdown)
