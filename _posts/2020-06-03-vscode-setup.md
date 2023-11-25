@@ -180,7 +180,7 @@ CMake扩展。
 
 从[github/gitignore](https://github.com/github/gitignore)仓库中拉取`.gitignore`文件模板。
 
-1. `Ctrl`+`Shift`+`P`，选择`Add gitignore`；
+1. `Ctrl`+`Shift`+`P`，输入`Add gitignore`；
 2. 选择语言，在工程根目录下创建`.gitignore`文件；
 
 ### GitLens——Git supercharged
@@ -244,7 +244,7 @@ CMake扩展。
 
 3. 注释图案：
 
-    - 选择注释图案：`Ctrl`+`Shift`+`P`，输入`codeDesign`选择；
+    - 选择注释图案：`Ctrl`+`Shift`+`P`，输入`codeDesign`进行选择；
     - 快捷键：`Ctrl`+`Super`+`J`；
 
 ### LaTeX Workshop
@@ -307,8 +307,12 @@ Markdown语言扩展。
 
 2. 生成目录：
 
-    - `Ctrl`+`Shift`+`P`，选择`Markdown All in One: Create Table of Contents`；
+    - `Ctrl`+`Shift`+`P`，输入`Markdown All in One: Create Table of Contents`；
     - 目录在文件保存时自动更新；
+
+### Markdown Checkboxes
+
+在Markdown文档预览中直接调整任务列表中的复选框。
 
 ### Markdown PDF
 
@@ -351,15 +355,11 @@ Atom的深色主题，类似的主题还有City Lights theme、Material Theme（
 1. `Ctrl`+`Shift`+`P`，输入`Peacock`进行设置；
 2. 颜色设置保存在`.vscode/settings.json`文件中；
 
-### Pip Manager
-
-管理Python包，提供安装、删除、搜索、升级、指定版本等功能。
-
 ### Polacode
 
 代码截图。
 
-1. `Ctrl`+`Shift`+`P`，选择`Polacode`；
+1. `Ctrl`+`Shift`+`P`，输入`Polacode`；
 2. 选中要截图的代码；
 
 **目前Polacode使用存在一定问题，可以使用CodeSnap或者Polacode-2022作为代替，使用方法同上。**
@@ -406,6 +406,10 @@ Atom的深色主题，类似的主题还有City Lights theme、Material Theme（
 ### Python
 
 Python语言扩展，安装Pylance、Pylint、Black Formatter、isort、Jupyter（包括Jupyter Cell Tags、Jupyter Keymap、Jupyter Notebook Renderers、Jupyter Slide Show）等扩展可以使用增强功能并提高使用体验。
+
+### Python Environment Manager
+
+管理Python环境和包，类似的扩展还有Pip Manager。
 
 ### Rainbow Fart
 
@@ -486,7 +490,7 @@ syntax = "proto3";
 
 ### 配置文件查看和修改
 
-1. 对于编辑器和插件的设置都会保存在`settings.json`配置文件中；
+1. 对于编辑器和扩展的设置都会保存在`settings.json`配置文件中；
 2. `Ctrl`+`Shift`+`P`，输入`Preferences: Open User Settings (JSON)`进行查看和修改；
 3. 删除`settings.json`配置文件中大括号`{}`内部的内容可以将VS Code恢复默认设置；
 

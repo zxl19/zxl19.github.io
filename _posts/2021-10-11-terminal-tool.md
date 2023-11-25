@@ -135,7 +135,12 @@ pinned: false
 ## 彩蛋和游戏
 
 1. [40个超有趣的Linux命令行彩蛋和游戏.md](https://github.com/TommyZihao/Zihao-Blog)
-2. [hpjansson/chafa](https://github.com/hpjansson/chafa)
+2. [Swordfish90/cool-retro-term](https://github.com/Swordfish90/cool-retro-term)
+3. [svenstaro/genact](https://github.com/svenstaro/genact)
+4. [dustinkirkland/hollywood](https://github.com/dustinkirkland/hollywood)
+5. [hpjansson/chafa](https://github.com/hpjansson/chafa)
+6. [erkin/ponysay](https://github.com/erkin/ponysay)
+7. [piuccio/cowsay](https://github.com/piuccio/cowsay)
 
 ## 参考
 

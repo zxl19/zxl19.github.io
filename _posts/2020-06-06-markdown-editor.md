@@ -15,35 +15,36 @@ pinned: false
 
 ## VS Code
 
-轻量的代码编辑器。[[链接]](https://code.visualstudio.com)
+轻量的代码编辑器。[链接](https://code.visualstudio.com)
 
 安装扩展：
 
 1. Markdown All in One
-2. Markdown PDF
-3. Markdown Preview Enhanced
-4. markdownlint
+2. Markdown Checkboxes
+3. Markdown PDF
+4. Markdown Preview Enhanced
+5. markdownlint
 
 可以实现自动补全、导出PDF文档、预览、语法检查等功能。
 
 ## Typora
 
-专业的Markdown编辑器。[[链接]](https://typora.io)
+专业的Markdown编辑器。[链接](https://typora.io)
 
 **自2021年11月起，Typora开始收费。** 可以在VS Code中安装Typora扩展实现类似的功能。以下是一些开源的免费Markdown编辑器，可以作为Typora的替代方案：
 
-1. Mark Text[[链接]](https://github.com/marktext/marktext)
-2. Leanote[[链接]](https://github.com/leanote/leanote)
-3. Notable[[链接]](https://notable.app)
-4. Notes[[链接]](https://www.get-notes.com)
+1. Mark Text[链接](https://github.com/marktext/marktext)
+2. Leanote[链接](https://github.com/leanote/leanote)
+3. Notable[链接](https://notable.app)
+4. Notes[链接](https://www.get-notes.com)
 
 ## Gridea
 
-使用Markdown语法的静态博客写作客户端。[[链接]](https://gridea.dev)
+使用Markdown语法的静态博客写作客户端。[链接](https://gridea.dev)
 
 ## Obsidian
 
-使用Markdown语法的专业笔记软件。[[链接]](https://obsidian.md)
+使用Markdown语法的专业笔记软件。[链接](https://obsidian.md)
 
 使用教程：
 
@@ -54,19 +55,19 @@ pinned: false
 
 以下是一些开源的免费知识库管理软件，可以作为Obsidian的替代方案：
 
-1. Logseq[[链接]](https://logseq.com)
-2. AFFiNE[[链接]](https://affine.pro)
-3. SiYuan[[链接]](https://b3log.org/siyuan/en/)
-4. Notesnook[[链接]](https://notesnook.com)
-5. Archivy[[链接]](https://archivy.github.io)
-6. Omni-Notes[[链接]](https://omninotes.app)
-7. Zim[[链接]](https://zim-wiki.org)
-8. NixNote2[[链接]](https://github.com/baumgarr/nixnote2)
-9. CubyText[[链接]](https://github.com/vincentdchan/CubyText)
+1. Logseq[链接](https://logseq.com)
+2. AFFiNE[链接](https://affine.pro)
+3. SiYuan[链接](https://b3log.org/siyuan/en/)
+4. Notesnook[链接](https://notesnook.com)
+5. Archivy[链接](https://archivy.github.io)
+6. Omni-Notes[链接](https://omninotes.app)
+7. Zim[链接](https://zim-wiki.org)
+8. NixNote2[链接](https://github.com/baumgarr/nixnote2)
+9. CubyText[链接](https://github.com/vincentdchan/CubyText)
 
 ## Cherry Markdown Writer
 
-Javascript Markdown编辑器。[[链接]](https://github.com/Tencent/cherry-markdown)
+Javascript Markdown编辑器。[链接](https://github.com/Tencent/cherry-markdown)
 
 ## 参考
 

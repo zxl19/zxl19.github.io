@@ -70,20 +70,21 @@ pinned: false
 19. Photoflare
 20. PlotJuggler
 21. Pomatez
-22. PowerDVD
-23. Recuva
-24. Rubick
-25. ShareX
-26. Snipaste
-27. SumatraPDF
-28. TeamViewer
-29. Transmission
-30. Typora
-31. Understand
-32. VLC media player
-33. winutil
-34. Xournal++
-35. Zotero
+22. Pomotroid
+23. PowerDVD
+24. Recuva
+25. Rubick
+26. ShareX
+27. Snipaste
+28. SumatraPDF
+29. TeamViewer
+30. Transmission
+31. Typora
+32. Understand
+33. VLC media player
+34. winutil
+35. Xournal++
+36. Zotero
 
 ## 常见问题及解决方法
 
