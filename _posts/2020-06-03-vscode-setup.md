@@ -172,6 +172,18 @@ CMake扩展。
 
 在设置中将主题设置为`Kennedy`可以获得更好的显示效果。
 
+### Foam
+
+知识库管理扩展，提供基于Markdown语法的双向链接。可以用于代替Obsidian的功能。
+
+1. `Ctrl`+`Shift`+`P`，输入`Foam: Show Graph`显示知识图谱；
+2. 双向链接语法说明：
+
+    - 双向链接格式为`[[wikilink]]`，输入`[[`触发提示；
+    - 扩展自动生成的`wikilink`默认为文件名，可以在设置中更改；
+    - 使用`[[wikilink#section]]`链接到具体的章节；
+    - 使用`[[wikilink|alias]]`设置预览时显示的别名；
+
 ### GitHub Pull Requests and Issues
 
 为VS Code提供GitHub支持。

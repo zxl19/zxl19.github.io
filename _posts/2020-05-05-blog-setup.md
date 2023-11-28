@@ -47,7 +47,7 @@ pinned: false
 
 ### 设置收藏夹图标
 
-收藏夹图标（favicon）指的是在网页标签栏和书签中显示的小图标，使用[图标生成器](https://android-material-icon-generator.bitdroid.de)制作收藏夹图标[^2]，本博客模板在`_config.yml`文件中设置。
+收藏夹图标（favicon）指的是在网页标签栏和书签中显示的小图标，使用[图标生成器](https://android-material-icon-generator.bitdroid.de)制作收藏夹图标[^2]，在`_config.yml`文件中设置。
 
 <p align="center">
     <a href="https://zxl19.github.io">
@@ -82,7 +82,7 @@ LOFFER模板自V0.5.0开始支持[utterances](https://utteranc.es)评论区组�
     </script>
     ```
 
-2. 本博客模板在`_config.yml`文件中设置：
+2. 在`_config.yml`文件中设置：
 
     ```yaml
     utteranc:

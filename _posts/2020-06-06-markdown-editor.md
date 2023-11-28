@@ -33,10 +33,10 @@ pinned: false
 
 **自2021年11月起，Typora开始收费。** 可以在VS Code中安装Typora扩展实现类似的功能。以下是一些开源的免费Markdown编辑器，可以作为Typora的替代方案：
 
-1. Mark Text[链接](https://github.com/marktext/marktext)
-2. Leanote[链接](https://github.com/leanote/leanote)
-3. Notable[链接](https://notable.app)
-4. Notes[链接](https://www.get-notes.com)
+1. Mark Text [链接](https://github.com/marktext/marktext)
+2. Leanote [链接](https://github.com/leanote/leanote)
+3. Notable [链接](https://notable.app)
+4. Notes [链接](https://www.get-notes.com)
 
 ## Gridea
 
@@ -53,21 +53,26 @@ pinned: false
 3. [你是怎样使用obsidian做笔记的？-Wyatt的回答-知乎](https://www.zhihu.com/question/412868038/answer/2447812348)
 4. [没有花里胡哨，我最爱用的Obsidian实用插件推荐。-唐夕洲的文章-知乎](https://zhuanlan.zhihu.com/p/491766682)
 
-以下是一些开源的免费知识库管理软件，可以作为Obsidian的替代方案：
+可以在VS Code中安装Foam扩展实现类似的功能。以下是一些开源的免费知识库管理软件，可以作为Obsidian的替代方案：
 
-1. Logseq[链接](https://logseq.com)
-2. AFFiNE[链接](https://affine.pro)
-3. SiYuan[链接](https://b3log.org/siyuan/en/)
-4. Notesnook[链接](https://notesnook.com)
-5. Archivy[链接](https://archivy.github.io)
-6. Omni-Notes[链接](https://omninotes.app)
-7. Zim[链接](https://zim-wiki.org)
-8. NixNote2[链接](https://github.com/baumgarr/nixnote2)
-9. CubyText[链接](https://github.com/vincentdchan/CubyText)
+1. Logseq [链接](https://logseq.com)
+2. AFFiNE [链接](https://affine.pro)
+3. SiYuan [链接](https://b3log.org/siyuan/en/)
+4. Notesnook [链接](https://notesnook.com)
+5. Archivy [链接](https://archivy.github.io)
+6. Omni-Notes [链接](https://omninotes.app)
+7. Zim [链接](https://zim-wiki.org)
+8. NixNote2 [链接](https://github.com/baumgarr/nixnote2)
+9. CubyText [链接](https://github.com/vincentdchan/CubyText)
 
-## Cherry Markdown Writer
+## StackEdit
 
-Javascript Markdown编辑器。[链接](https://github.com/Tencent/cherry-markdown)
+基于浏览器的Markdown编辑器。[链接](https://stackedit.io)
+
+以下是一些开源的基于浏览器的Markdown编辑器，可以作为StackEdit的替代方案：
+
+1. Editor.md [链接](http://editor.md.ipandao.com)
+2. Cherry Markdown Writer [链接](https://github.com/Tencent/cherry-markdown)
 
 ## 参考
 
@@ -89,4 +94,6 @@ Javascript Markdown编辑器。[链接](https://github.com/Tencent/cherry-markdo
 16. [zim-desktop-wiki/zim-desktop-wiki](https://github.com/zim-desktop-wiki/zim-desktop-wiki)
 17. [baumgarr/nixnote2](https://github.com/baumgarr/nixnote2)
 18. [vincentdchan/CubyText](https://github.com/vincentdchan/CubyText)
-19. [Tencent/cherry-markdown](https://github.com/Tencent/cherry-markdown)
+19. [benweet/stackedit](https://github.com/benweet/stackedit)
+20. [pandao/editor.md](https://github.com/pandao/editor.md)
+21. [Tencent/cherry-markdown](https://github.com/Tencent/cherry-markdown)
