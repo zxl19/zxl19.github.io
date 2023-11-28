@@ -210,6 +210,7 @@ endwhile()
 | `CMAKE_CXX_FLAGS_RELEASE` | Release模式下的编译参数 |
 | `CMAKE_MODULE_PATH` | `include()`命令和`find_package()`命令查找CMake模块的路径 |
 | `CMAKE_INSTALL_PREFIX` | `install()`命令使用相对路径安装时的路径前缀 |
+| `XXX_DIR` | `XXX`库的查找路径 |
 | `XXX_FOUND` | `XXX`库是否找到 |
 | `XXX_VERSION` | `XXX`库版本 |
 | `XXX_INCLUDE_DIRS` | `XXX`库的头文件路径 |
@@ -319,6 +320,8 @@ endwhile()
         - FetchContent重定向模式：
             - 使用`FetchContent`模块；
             - 3.24版本新增；
+    - 在安装第三方依赖库时，相关`.cmake`文件的路径会写入`XXX_DIR`环境变量中，`find_package()`通过查找`XXX_DIR`环境变量的值来查找上述`.cmake`文件，进而查找库文件的位置；
+    - 如果第三方依赖库未安装到系统中，可以对于`XXX_DIR`变量手动赋值，再使用`find_package()`查找第三方依赖库，常用于查找`third_party`文件夹中非本地安装的第三方依赖库；
 
 2. `include_directories()`用于指定包含头文件目录，常用命令格式如下：
 
@@ -386,7 +389,7 @@ endwhile()
                      <dependency1> [dependency2 ...])
     ```
 
-    - 顶层编译目标是由`add_library()`、`add_executable()`、`add_custom_target()`功能函数创建的编译目标，不包括`install()`功能函数生成的编译目标；
+    - 顶层编译目标是由`add_library()`、`add_executable()`、`add_custom_target()`命令创建的编译目标，不包括`install()`命令生成的编译目标；
     - 当定义的顶层编译目标依赖其他顶层编译目标时，需要使用`add_dependencies()`指定依赖关系，保证在构建本目标之前，本目标依赖的其他目标已构建完成；
     - 常用于`target_link_libraries()`之前；
 
@@ -397,7 +400,9 @@ endwhile()
                           <item1> [item2 ...])
     ```
 
-    - 编译目标由`add_executable()`、`add_library()`功能函数创建；
+    - 编译目标由`add_executable()`、`add_library()`命令创建；
+    - 建议在使用`find_package()`找到依赖库后使用`${XXX_LIBRARIES}`的形式链接相关库文件；
+    - 可以使用`-lfoo`或`foo.lib`的形式指定库文件名，会搜索并链接库文件`libfoo.so`，常用于处理`libfoo.so`作为依赖库的依赖库时出现的未定义符号问题，一般情况下不建议使用；
 
 8. `target_include_directories()`用于指定编译目标需要包含的头文件目录，常用命令格式如下：
 
@@ -408,7 +413,7 @@ endwhile()
     )
     ```
 
-    - 编译目标由`add_executable()`、`add_library()`功能函数创建；
+    - 编译目标由`add_executable()`、`add_library()`命令创建；
     - 参数说明：
 
         | 参数 | 说明 |
@@ -547,7 +552,7 @@ endwhile()
         )
         ```
 
-        - 编译目标由`add_executable()`、`add_library()`功能函数创建；
+        - 编译目标由`add_executable()`、`add_library()`命令创建；
         - 参数说明：
 
             | 参数 | 说明 |
@@ -794,14 +799,17 @@ endif()
 20. [cmake find_package路径详解-豌豆的文章-知乎](https://zhuanlan.zhihu.com/p/50829542)
 21. [find_package()1-CSDN博客](https://blog.csdn.net/zhanghm1995/article/details/105466372)
 22. [find_package()2-CSDN博客](https://blog.csdn.net/qq_41035283/article/details/122469466)
-23. [静态库、动态库、共享库的区别-博客园](https://www.cnblogs.com/sunsky303/p/7731911.html)
-24. [add_dependencies()1-CSDN博客](https://blog.csdn.net/KingOfMyHeart/article/details/112983922)
-25. [add_dependencies()2-CSDN博客](https://blog.csdn.net/zhizhengguan/article/details/118381772)
-26. [add_dependencies()3-CSDN博客](https://blog.csdn.net/new9232/article/details/125831009)
-27. [cmake：target_**中的PUBLIC，PRIVATE，INTERFACE-大川搬砖的文章-知乎](https://zhuanlan.zhihu.com/p/82244559)
-28. [target_link_directories()1-CSDN博客](https://blog.csdn.net/qq_33726635/article/details/121896441)
-29. [target_link_directories()2-CSDN博客](https://blog.csdn.net/zhizhengguan/article/details/115331314)
-30. [add_definitions()-CSDN博客](https://blog.csdn.net/fb_941219/article/details/107376017)
-31. [编译选项设置区别-CSDN博客](https://blog.csdn.net/10km/article/details/51731959)
-32. [CMake如何入门？-0xCCCCCCCC的回答-知乎](https://www.zhihu.com/question/58949190/answer/999701073)
-33. [CMake和Modern CMake相关资料（不定期补充）-迦非喵的文章-知乎](https://zhuanlan.zhihu.com/p/205324774)
+23. [Ceres_DIR1-CSDN博客](https://blog.csdn.net/qq_15642411/article/details/83656855)
+24. [Ceres_DIR2-CSDN博客](https://blog.csdn.net/DumpDoctorWang/article/details/84587331)
+25. [OpenCV_DIR-CSDN博客](https://blog.csdn.net/zkp_987/article/details/119913049)
+26. [静态库、动态库、共享库的区别-博客园](https://www.cnblogs.com/sunsky303/p/7731911.html)
+27. [add_dependencies()1-CSDN博客](https://blog.csdn.net/KingOfMyHeart/article/details/112983922)
+28. [add_dependencies()2-CSDN博客](https://blog.csdn.net/zhizhengguan/article/details/118381772)
+29. [add_dependencies()3-CSDN博客](https://blog.csdn.net/new9232/article/details/125831009)
+30. [cmake：target_**中的PUBLIC，PRIVATE，INTERFACE-大川搬砖的文章-知乎](https://zhuanlan.zhihu.com/p/82244559)
+31. [target_link_directories()1-CSDN博客](https://blog.csdn.net/qq_33726635/article/details/121896441)
+32. [target_link_directories()2-CSDN博客](https://blog.csdn.net/zhizhengguan/article/details/115331314)
+33. [add_definitions()-CSDN博客](https://blog.csdn.net/fb_941219/article/details/107376017)
+34. [编译选项设置区别-CSDN博客](https://blog.csdn.net/10km/article/details/51731959)
+35. [CMake如何入门？-0xCCCCCCCC的回答-知乎](https://www.zhihu.com/question/58949190/answer/999701073)
+36. [CMake和Modern CMake相关资料（不定期补充）-迦非喵的文章-知乎](https://zhuanlan.zhihu.com/p/205324774)

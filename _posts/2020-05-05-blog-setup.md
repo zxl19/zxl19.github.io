@@ -133,6 +133,18 @@ site:https://zxl19.github.io
 1. [Google Search Console](https://search.google.com/search-console/about)
 2. [XML-Sitemaps](https://www.xml-sitemaps.com)
 
+### 设置自定义404页面
+
+在`404.md`文件头部添加：
+
+```markdown
+---
+permalink: /404.html
+---
+```
+
+1. [Creating a custom 404 page for your GitHub Pages site-GitHub Docs](https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-custom-404-page-for-your-github-pages-site)
+
 ## 博客模板使用说明及格式约定
 
 1. `_posts`文件夹中的每个`.md`文件对应一篇文章，文件名格式为`year-month-day-url.md`，以本文为例进行说明：
@@ -232,5 +244,6 @@ site:https://zxl19.github.io
 10. [Online Tools-RedKetchup](https://redketchup.io)
 11. [RevolverMaps](https://www.revolvermaps.com)
 12. [谷歌搜索到自己在github的个人博客](https://fgc346.github.io/2023/04/13/OwnSiteByGoogleSearch/)
-13. [【最新】解决Github网页上图片显示失败的问题-CSDN博客](https://blog.csdn.net/qq_38232598/article/details/91346392)
-14. [如何制作个人学术主页？-知乎](https://www.zhihu.com/question/281476526)
+13. [GitHub Pages documentation-GitHub Docs](https://docs.github.com/en/pages)
+14. [【最新】解决Github网页上图片显示失败的问题-CSDN博客](https://blog.csdn.net/qq_38232598/article/details/91346392)
+15. [如何制作个人学术主页？-知乎](https://www.zhihu.com/question/281476526)
