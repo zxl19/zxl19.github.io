@@ -160,14 +160,15 @@ pinned: false
 ## 写作规范
 
 1. [sparanoid/chinese-copywriting-guidelines](https://github.com/sparanoid/chinese-copywriting-guidelines)
-2. [MLNLP-World/Paper-Writing-Tips](https://github.com/MLNLP-World/Paper-Writing-Tips)
-3. [guanyingc/latex_paper_writing_tips](https://github.com/guanyingc/latex_paper_writing_tips)
-4. [Haixing-Hu/typesetting-standard](https://github.com/Haixing-Hu/typesetting-standard)
-5. [writing-resources/awesome-scientific-writing](https://github.com/writing-resources/awesome-scientific-writing)
-6. [wangdongdut/PaperWriting](https://github.com/wangdongdut/PaperWriting)
-7. [cooelf/PaperWritingTips](https://github.com/cooelf/PaperWritingTips)
-8. 《如何写好学术论文》
-9. 《学术“咸鱼”自救指南》
+2. [ruanyf/document-style-guide](https://github.com/ruanyf/document-style-guide)
+3. [MLNLP-World/Paper-Writing-Tips](https://github.com/MLNLP-World/Paper-Writing-Tips)
+4. [guanyingc/latex_paper_writing_tips](https://github.com/guanyingc/latex_paper_writing_tips)
+5. [Haixing-Hu/typesetting-standard](https://github.com/Haixing-Hu/typesetting-standard)
+6. [writing-resources/awesome-scientific-writing](https://github.com/writing-resources/awesome-scientific-writing)
+7. [wangdongdut/PaperWriting](https://github.com/wangdongdut/PaperWriting)
+8. [cooelf/PaperWritingTips](https://github.com/cooelf/PaperWritingTips)
+9. 《如何写好学术论文》
+10. 《学术“咸鱼”自救指南》
 
 ### 英文写作
 

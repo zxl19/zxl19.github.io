@@ -47,7 +47,7 @@ pinned: false
 
 ### 设置收藏夹图标
 
-收藏夹图标（favicon）指的是在网页标签栏和书签中显示的小图标，使用[图标生成器](https://android-material-icon-generator.bitdroid.de)制作收藏夹图标[^2]，在`_config.yml`文件中设置。
+收藏夹图标（favicon）指的是在网页标签栏和书签中显示的小图标，使用[图标生成器](https://android-material-icon-generator.bitdroid.de)制作收藏夹图标[^2]，本博客模板在`_config.yml`文件中设置。
 
 <p align="center">
     <a href="https://zxl19.github.io">
@@ -67,7 +67,45 @@ pinned: false
 
 ### 设置评论区组件
 
-LOFFER模板自V0.5.0开始支持[utterances](https://utteranc.es)评论区组件，安装这个GitHub App后可以将博客评论映射到仓库Issue，在`_config.yml`文件中设置。
+LOFFER模板自V0.5.0开始支持[utterances](https://utteranc.es)评论区组件，安装这个GitHub App后可以将博客评论映射到仓库Issue。
+
+1. 脚本和配置选项说明，可以直接添加到博客模板中：
+
+    ```javascript
+    <script src="https://utteranc.es/client.js"
+            repo="zxl19/zxl19.github.io"            // 仓库名称
+            issue-term="title"                      // Issue标题格式
+            label="comment"                         // Issue标签
+            theme="github-light"                    // 评论区主题
+            crossorigin="anonymous"                 // 跨域设置
+            async>
+    </script>
+    ```
+
+2. 本博客模板在`_config.yml`文件中设置：
+
+    ```yaml
+    utteranc:
+        repo: zxl19/zxl19.github.io
+        issue-term: title
+        label: comment
+        theme: github-light
+        crossorigin: anonymous
+    ```
+
+    `utterance.html`文件会读取`_config.yml`文件中的设置：
+
+    ```javascript
+    <script src="https://utteranc.es/client.js"
+            repo="{{ site.utteranc.repo }}"
+            // 博客模板在这里有笔误，应为site.utteranc.issue-term
+            issue-term="{{ site.utteranc.issue-term | default: 'issue-term' }}"
+            label="{{ site.utteranc.label | default: 'utteranc' }}"
+            theme="{{ site.utteranc.theme | default: 'github-light' }}"
+            crossorigin="{{ site.utteranc.crossorigin | default: 'anonymous' }}"
+            async>
+    </script>
+    ```
 
 ### 设置访问统计工具
 
