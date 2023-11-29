@@ -86,14 +86,12 @@ pinned: false
 1. [ray-project/ray](https://github.com/ray-project/ray)
 2. [microsoft/nni](https://github.com/microsoft/nni)
 3. [keras-team/autokeras](https://github.com/keras-team/autokeras)
-4. [nebuly-ai/nebuly](https://github.com/nebuly-ai/nebuly)
-5. [automl/auto-sklearn](https://github.com/automl/auto-sklearn)
-6. [autogluon/autogluon](https://github.com/autogluon/autogluon)
-7. [allegroai/clearml](https://github.com/allegroai/clearml)
-8. [microsoft/FLAML](https://github.com/microsoft/FLAML)
-9. [mljar/mljar-supervised](https://github.com/mljar/mljar-supervised)
-10. [determined-ai/determined](https://github.com/determined-ai/determined)
-11. [shankarpandala/lazypredict](https://github.com/shankarpandala/lazypredict)
+4. [automl/auto-sklearn](https://github.com/automl/auto-sklearn)
+5. [autogluon/autogluon](https://github.com/autogluon/autogluon)
+6. [allegroai/clearml](https://github.com/allegroai/clearml)
+7. [microsoft/FLAML](https://github.com/microsoft/FLAML)
+8. [mljar/mljar-supervised](https://github.com/mljar/mljar-supervised)
+9. [determined-ai/determined](https://github.com/determined-ai/determined)
 
 ### 超参数优化
 

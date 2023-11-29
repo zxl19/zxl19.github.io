@@ -56,6 +56,8 @@ smb://192.168.1.1
         [[user@]host1:]file1 ... [[user@]host2:]file2
     ```
 
+4. OpenSSH是基于SSH协议实现的连接工具，可以使用其提供的`scp`命令获得更快的传输速度；
+
 ### Filezilla
 
 在`站点管理器`->`新站点`中添加服务器IP地址：
@@ -78,4 +80,7 @@ smb://192.168.1.1
 1. [NFS、FTP、SMB、WebDav、DLNA协议，傻傻分不清？-大技术的文章-知乎](https://zhuanlan.zhihu.com/p/411161467)
 2. [浅谈FTP，SFTP，FTPS区别-依然范儿特西的文章-知乎](https://zhuanlan.zhihu.com/p/106980723)
 3. [Linux scp命令-菜鸟教程](https://www.runoob.com/linux/linux-comm-scp.html)
-4. [obsutil简介-华为云](https://support.huaweicloud.com/utiltg-obs/obs_11_0001.html)
+4. [Why is scp so slow and how to make it faster?-Stack Exchange](https://unix.stackexchange.com/questions/238152/why-is-scp-so-slow-and-how-to-make-it-faster)
+5. [OpenSSH](https://www.openssh.com)
+6. [openssh/openssh-portable](https://github.com/openssh/openssh-portable)
+7. [obsutil简介-华为云](https://support.huaweicloud.com/utiltg-obs/obs_11_0001.html)
