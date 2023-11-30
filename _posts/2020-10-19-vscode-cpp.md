@@ -30,7 +30,7 @@ pinned: false
         | :------ | :------ | :------ |
         | Version | gcc版本，无具体要求选最新版本 | 8.1.0 |
         | Architecture | 操作系统架构 | 32位：i686；64位：x86_64 |
-        | Threads | 接口协议 | Windows：win32；其它：posix |
+        | Threads | 接口协议 | Windows：win32；其他：posix |
         | Exception | 异常处理模型 | seh：新、性能好、不支持32位；sjlj：老、稳定性好，支持32位 |
         | Build revision | N/A | 默认 |
 

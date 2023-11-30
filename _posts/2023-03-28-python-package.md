@@ -59,7 +59,7 @@ pinned: false
 3. [hukkin/tomli](https://github.com/hukkin/tomli)
 4. [bobfang1992/pytomlpp](https://github.com/bobfang1992/pytomlpp)
 
-#### 其它
+#### 其他类型
 
 1. [google/fiddle](https://github.com/google/fiddle)
 
