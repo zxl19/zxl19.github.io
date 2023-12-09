@@ -57,6 +57,12 @@ pinned: false
     - `Info`->`Item Type`，选择文献类型，不同文献类型对应的图标样式不同；
     - `Info`->`Title`，填写文献标题；
 
+## 电子书管理软件
+
+1. Calibre [链接](https://calibre-ebook.com)
+2. NeatReader [链接](https://www.neat-reader.com)
+3. Omnivore [链接](https://omnivore.app)
+
 ## 参考
 
 1. [Mendeley](https://www.mendeley.com)
@@ -64,3 +70,5 @@ pinned: false
 3. [Zotero](https://www.zotero.org)
 4. [Adding Files to your Zotero Library-Zotero](https://www.zotero.org/support/attaching_files)
 5. [Preferences-Zotero](https://www.zotero.org/support/preferences/search)
+6. [zotero/zotero](https://github.com/zotero/zotero)
+7. [omnivore-app/omnivore](https://github.com/omnivore-app/omnivore)

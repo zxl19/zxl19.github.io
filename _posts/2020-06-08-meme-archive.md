@@ -71,8 +71,10 @@ Meme这个词最初源自英国著名科学家理查德·道金斯所著的《�
 ## 机械
 
 1. [FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD)
-2. [nasa/NASA-3D-Resources](https://github.com/nasa/NASA-3D-Resources)
-3. [muziing/domm](https://github.com/muziing/domm)
+2. [openscad/openscad](https://github.com/openscad/openscad)
+3. [LibreCAD/LibreCAD](https://github.com/LibreCAD/LibreCAD)
+4. [nasa/NASA-3D-Resources](https://github.com/nasa/NASA-3D-Resources)
+5. [muziing/domm](https://github.com/muziing/domm)
 
 ## 游戏
 
@@ -179,6 +181,7 @@ Meme这个词最初源自英国著名科学家理查德·道金斯所著的《�
 24. [js13kGames](https://js13kgames.com)
 25. [js13kGames 2022 winners](https://github.blog/2022-10-06-js13k-2022-winners/)
 26. [CorentinTh/it-tools](https://github.com/CorentinTh/it-tools)
-27. [很赞的两个高清壁纸网站：wallroom和wallhaven-帅小科的文章-知乎](https://zhuanlan.zhihu.com/p/376579457)
-28. [Ubuntu设置双屏显示长壁纸-码农家园](https://www.codenong.com/cs109695249/)
-29. [要命！《程序员延寿指南》火爆GitHub，日涨1500+星，跟着码农干多活20年-量子位的文章-知乎](https://zhuanlan.zhihu.com/p/502393797)
+27. [Linux上5个最好CAD软件-Linux中国的文章-知乎](https://zhuanlan.zhihu.com/p/81680138)
+28. [很赞的两个高清壁纸网站：wallroom和wallhaven-帅小科的文章-知乎](https://zhuanlan.zhihu.com/p/376579457)
+29. [Ubuntu设置双屏显示长壁纸-码农家园](https://www.codenong.com/cs109695249/)
+30. [要命！《程序员延寿指南》火爆GitHub，日涨1500+星，跟着码农干多活20年-量子位的文章-知乎](https://zhuanlan.zhihu.com/p/502393797)

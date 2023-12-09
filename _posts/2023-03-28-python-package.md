@@ -61,7 +61,8 @@ pinned: false
 
 #### 其他类型
 
-1. [google/fiddle](https://github.com/google/fiddle)
+1. [facebookresearch/hydra](https://github.com/facebookresearch/hydra)
+2. [google/fiddle](https://github.com/google/fiddle)
 
 ## 数值运算
 
@@ -98,14 +99,28 @@ pinned: false
 1. [fossasia/visdom](https://github.com/fossasia/visdom)
 2. [lanpa/tensorboardX](https://github.com/lanpa/tensorboardX)
 3. [tensorflow/tensorboard](https://github.com/tensorflow/tensorboard)
-4. [lucasjinreal/alfred](https://github.com/lucasjinreal/alfred)
-5. [visualpython/visualpython](https://github.com/visualpython/visualpython)
+4. [facebookresearch/hiplot](https://github.com/facebookresearch/hiplot)
+5. [lucasjinreal/alfred](https://github.com/lucasjinreal/alfred)
 
 ### 地理信息可视化
 
 1. [python-visualization/folium](https://github.com/python-visualization/folium)
 2. [SciTools/cartopy](https://github.com/SciTools/cartopy)
 3. [holoviz/geoviews](https://github.com/holoviz/geoviews)
+
+## 图论
+
+### 图分析
+
+1. [networkx/networkx](https://github.com/networkx/networkx)
+2. [igraph/python-igraph](https://github.com/igraph/python-igraph)
+
+### 图可视化
+
+1. [xflr6/graphviz](https://github.com/xflr6/graphviz)
+2. [WestHealth/pyvis](https://github.com/WestHealth/pyvis)
+3. [pydot/pydot](https://github.com/pydot/pydot)
+4. [pygraphviz/pygraphviz](https://github.com/pygraphviz/pygraphviz)
 
 ## 命令行输出
 

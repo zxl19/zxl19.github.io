@@ -24,8 +24,10 @@ pinned: false
     - [seaborn](https://seaborn.pydata.org)
 
 3. [gnuplot](http://www.gnuplot.info)
-4. [LabPlot](https://labplot.kde.org)
-5. [SciDAVis](https://scidavis.sourceforge.net)
+4. [AlphaPlot](https://alphaplot.sourceforge.io)
+5. [LabPlot](https://labplot.kde.org)
+6. [SciDAVis](https://scidavis.sourceforge.net)
+7. [HiPlot](https://hiplot.cn)
 
 ### 配色教程
 
@@ -106,7 +108,16 @@ pinned: false
 2. [Inkscape](https://inkscape.org)
 3. [TikZ+PGF](https://www.ctan.org/pkg/pgf)
 4. [Graphviz](https://graphviz.org)
-5. PowerPoint
+5. [Asymptote](https://asymptote.sourceforge.io)
+6. [AxGlyph](https://www.axsoft.co/axglyph)
+7. PowerPoint
+
+## 格式化数据
+
+1. [CloudCompare](https://www.cloudcompare.org)
+2. [Gephi](https://gephi.org)
+3. [MeshMixer](https://meshmixer.com)
+4. [ParaView](https://www.paraview.org)
 
 ## 白板
 
