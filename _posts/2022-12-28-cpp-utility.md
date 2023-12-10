@@ -9,7 +9,7 @@ toc: true
 pinned: false
 ---
 
-我的C++使用程序使用笔记。
+我的C++实用程序使用笔记。
 
 <!-- more -->
 
