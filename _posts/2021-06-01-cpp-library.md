@@ -263,7 +263,9 @@ pinned: false
 ## 数据结构
 
 1. [skarupke/flat_hash_map](https://github.com/skarupke/flat_hash_map)
-2. [stotko/stdgpu](https://github.com/stotko/stdgpu)
+2. [VcDevel/Vc](https://github.com/VcDevel/Vc)
+3. [stotko/stdgpu](https://github.com/stotko/stdgpu)
+4. [VcDevel/std-simd](https://github.com/VcDevel/std-simd)
 
 ## Python绑定
 
