@@ -136,16 +136,18 @@ pinned: false
 2. [google/orbit](https://github.com/google/orbit)
 3. [bombela/backward-cpp](https://github.com/bombela/backward-cpp)
 4. [jonasmr/microprofile](https://github.com/jonasmr/microprofile)
-5. [p-ranav/criterion](https://github.com/p-ranav/criterion)
+5. [chronoxor/CppBenchmark](https://github.com/chronoxor/CppBenchmark)
+6. [p-ranav/criterion](https://github.com/p-ranav/criterion)
 
 ## 数据可视化
 
 1. [lava/matplotlib-cpp](https://github.com/lava/matplotlib-cpp)
-2. [sciplot/sciplot](https://github.com/sciplot/sciplot)
-3. [dstahlke/gnuplot-iostream](https://github.com/dstahlke/gnuplot-iostream)
-4. [Profactor/cv-plot](https://github.com/Profactor/cv-plot)
-5. [leovandriel/cvplot](https://github.com/leovandriel/cvplot)
-6. [fbbdev/plot](https://github.com/fbbdev/plot)
+2. [alandefreitas/matplotplusplus](https://github.com/alandefreitas/matplotplusplus)
+3. [sciplot/sciplot](https://github.com/sciplot/sciplot)
+4. [dstahlke/gnuplot-iostream](https://github.com/dstahlke/gnuplot-iostream)
+5. [Profactor/cv-plot](https://github.com/Profactor/cv-plot)
+6. [leovandriel/cvplot](https://github.com/leovandriel/cvplot)
+7. [fbbdev/plot](https://github.com/fbbdev/plot)
 
 ## 机器学习&深度学习
 

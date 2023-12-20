@@ -163,8 +163,9 @@ pinned: false
 
 1. [timeit](https://docs.python.org/3/library/timeit.html)
 2. [gaogaotiantian/viztracer](https://github.com/gaogaotiantian/viztracer)
+3. [cpcloud/ipython-autotime](https://github.com/cpcloud/ipython-autotime)
 
-### 机器学习&深度学习
+## 机器学习&深度学习
 
 1. [pytorch/pytorch](https://github.com/pytorch/pytorch)
 2. [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow)
