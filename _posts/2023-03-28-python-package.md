@@ -165,15 +165,38 @@ pinned: false
 2. [gaogaotiantian/viztracer](https://github.com/gaogaotiantian/viztracer)
 3. [cpcloud/ipython-autotime](https://github.com/cpcloud/ipython-autotime)
 
+## 图像处理
+
+1. [python-pillow/Pillow](https://github.com/python-pillow/Pillow)
+2. [scikit-image/scikit-image](https://github.com/scikit-image/scikit-image)
+3. [opencv/opencv-python](https://github.com/opencv/opencv-python)
+4. [colour-science/colour](https://github.com/colour-science/colour)
+
 ## 机器学习&深度学习
 
 1. [pytorch/pytorch](https://github.com/pytorch/pytorch)
 2. [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow)
 3. [keras-team/keras](https://github.com/keras-team/keras)
 4. [scikit-learn/scikit-learn](https://github.com/scikit-learn/scikit-learn)
-5. [geohot/tinygrad](https://github.com/geohot/tinygrad)
-6. [catboost/catboost](https://github.com/catboost/catboost)
-7. [karpathy/micrograd](https://github.com/karpathy/micrograd)
+
+### 数据增强
+
+#### 多模态数据
+
+1. [facebookresearch/AugLy](https://github.com/facebookresearch/AugLy)
+2. [google-research/uda](https://github.com/google-research/uda)
+
+#### 图像数据
+
+1. [aleju/imgaug](https://github.com/aleju/imgaug)
+2. [albumentations-team/albumentations](https://github.com/albumentations-team/albumentations)
+3. [mdbloice/Augmentor](https://github.com/mdbloice/Augmentor)
+
+## 代码生成
+
+1. [microsoft/lida](https://github.com/microsoft/lida)
+2. [visualpython/visualpython](https://github.com/visualpython/visualpython)
+3. [chapyter/chapyter](https://github.com/chapyter/chapyter)
 
 ## 代码加速
 
@@ -190,10 +213,11 @@ pinned: false
 
 ### PDF
 
-1. [euske/pdfminer](https://github.com/euske/pdfminer)
-2. [pdfminer/pdfminer.six](https://github.com/pdfminer/pdfminer.six)
-3. [pdfarranger/pdfarranger](https://github.com/pdfarranger/pdfarranger)
-4. [dothinking/pdf2docx](https://github.com/dothinking/pdf2docx)
+1. [py-pdf/pypdf](https://github.com/py-pdf/pypdf)
+2. [euske/pdfminer](https://github.com/euske/pdfminer)
+3. [pdfminer/pdfminer.six](https://github.com/pdfminer/pdfminer.six)
+4. [pdfarranger/pdfarranger](https://github.com/pdfarranger/pdfarranger)
+5. [dothinking/pdf2docx](https://github.com/dothinking/pdf2docx)
 
 ### Office文档
 
