@@ -79,20 +79,21 @@ SLAM方向面试题存档。
 
 ## 计算机系课程
 
-1. [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning)
-2. [ByteByteGoHq/system-design-101](https://github.com/ByteByteGoHq/system-design-101)
-3. [QSCTech/zju-icicles](https://github.com/QSCTech/zju-icicles)
-4. [PKUanonym/REKCARC-TSC-UHT](https://github.com/PKUanonym/REKCARC-TSC-UHT)
-5. [PKUFlyingPig/cs-self-learning](https://github.com/PKUFlyingPig/cs-self-learning)
-6. [USTC-Resource/USTC-Course](https://github.com/USTC-Resource/USTC-Course)
-7. [c-hj/SJTU-Courses](https://github.com/c-hj/SJTU-Courses)
-8. [missing-semester/missing-semester](https://github.com/missing-semester/missing-semester)
-9. [missing-semester-cn/missing-semester-cn.github.io](https://github.com/missing-semester-cn/missing-semester-cn.github.io)
-10. [Salensoft/thu-cst-cracker](https://github.com/Salensoft/thu-cst-cracker)
-11. [HuangCongQing/UCAS_Course_2019](https://github.com/HuangCongQing/UCAS_Course_2019)
-12. [Trinkle23897/THU-CST-Cracker](https://github.com/Trinkle23897/THU-CST-Cracker)
-13. [Trinkle23897/Undergraduate](https://github.com/Trinkle23897/Undergraduate)
-14. [15172658790/Blog](https://github.com/15172658790/Blog)
+1. [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books)
+2. [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning)
+3. [ByteByteGoHq/system-design-101](https://github.com/ByteByteGoHq/system-design-101)
+4. [QSCTech/zju-icicles](https://github.com/QSCTech/zju-icicles)
+5. [PKUanonym/REKCARC-TSC-UHT](https://github.com/PKUanonym/REKCARC-TSC-UHT)
+6. [PKUFlyingPig/cs-self-learning](https://github.com/PKUFlyingPig/cs-self-learning)
+7. [USTC-Resource/USTC-Course](https://github.com/USTC-Resource/USTC-Course)
+8. [c-hj/SJTU-Courses](https://github.com/c-hj/SJTU-Courses)
+9. [missing-semester/missing-semester](https://github.com/missing-semester/missing-semester)
+10. [missing-semester-cn/missing-semester-cn.github.io](https://github.com/missing-semester-cn/missing-semester-cn.github.io)
+11. [Salensoft/thu-cst-cracker](https://github.com/Salensoft/thu-cst-cracker)
+12. [HuangCongQing/UCAS_Course_2019](https://github.com/HuangCongQing/UCAS_Course_2019)
+13. [Trinkle23897/THU-CST-Cracker](https://github.com/Trinkle23897/THU-CST-Cracker)
+14. [Trinkle23897/Undergraduate](https://github.com/Trinkle23897/Undergraduate)
+15. [15172658790/Blog](https://github.com/15172658790/Blog)
 
 ## 参考
 
