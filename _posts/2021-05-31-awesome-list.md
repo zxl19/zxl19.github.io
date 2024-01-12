@@ -100,6 +100,7 @@ The main repository serves as a curated list of awesome lists.
 1. [jbhuang0604/awesome-computer-vision](https://github.com/jbhuang0604/awesome-computer-vision)
 2. [yenchenlin/awesome-NeRF](https://github.com/yenchenlin/awesome-NeRF)
 3. [chrieke/awesome-satellite-imagery-datasets](https://github.com/chrieke/awesome-satellite-imagery-datasets)
+4. [MrNeRF/awesome-3D-gaussian-splatting](https://github.com/MrNeRF/awesome-3D-gaussian-splatting)
 
 ## GitHub项目美化
 

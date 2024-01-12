@@ -252,6 +252,7 @@ pinned: false
 3. [nanomsg/nanomsg](https://github.com/nanomsg/nanomsg)
 4. [nanomsg/nng](https://github.com/nanomsg/nng)
 5. [mutouyun/cpp-ipc](https://github.com/mutouyun/cpp-ipc)
+6. [eclipse-iceoryx/iceoryx](https://github.com/eclipse-iceoryx/iceoryx)
 
 ### 网络库
 

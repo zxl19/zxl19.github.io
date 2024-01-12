@@ -36,12 +36,13 @@ C++学习资料存档。
 10. [cpp-best-practices/cppbestpractices](https://github.com/cpp-best-practices/cppbestpractices)
 11. [applenob/Cpp_Primer_Practice](https://github.com/applenob/Cpp_Primer_Practice)
 12. [tangtangcoding/C-C-](https://github.com/tangtangcoding/C-C-)
-13. [AnkerLeng/Cpp-0-1-Resource](https://github.com/AnkerLeng/Cpp-0-1-Resource)
-14. [balloonwj/CppGuide](https://github.com/balloonwj/CppGuide)
-15. [steveLauwh/SGI-STL](https://github.com/steveLauwh/SGI-STL)
-16. [AllAlgorithms/cpp](https://github.com/AllAlgorithms/cpp)
-17. [karansaxena/STL_Cheat_Sheets](https://github.com/karansaxena/STL_Cheat_Sheets)
-18. [dendisuhubdy/cpp_exercises](https://github.com/dendisuhubdy/cpp_exercises)
+13. [ZachL1/Bilibili-plus](https://github.com/ZachL1/Bilibili-plus)
+14. [AnkerLeng/Cpp-0-1-Resource](https://github.com/AnkerLeng/Cpp-0-1-Resource)
+15. [balloonwj/CppGuide](https://github.com/balloonwj/CppGuide)
+16. [steveLauwh/SGI-STL](https://github.com/steveLauwh/SGI-STL)
+17. [AllAlgorithms/cpp](https://github.com/AllAlgorithms/cpp)
+18. [karansaxena/STL_Cheat_Sheets](https://github.com/karansaxena/STL_Cheat_Sheets)
+19. [dendisuhubdy/cpp_exercises](https://github.com/dendisuhubdy/cpp_exercises)
 
 ### C++新特性
 
@@ -49,11 +50,12 @@ C++学习资料存档。
 2. [changkun/modern-cpp-tutorial](https://github.com/changkun/modern-cpp-tutorial)
 3. [AnthonyCalandra/modern-cpp-features](https://github.com/AnthonyCalandra/modern-cpp-features)
 4. [rigtorp/awesome-modern-cpp](https://github.com/rigtorp/awesome-modern-cpp)
-5. [CnTransGroup/EffectiveModernCppChinese](https://github.com/CnTransGroup/EffectiveModernCppChinese)
-6. [0voice/cpp_new_features](https://github.com/0voice/cpp_new_features)
-7. [federico-busato/Modern-CPP-Programming](https://github.com/federico-busato/Modern-CPP-Programming)
-8. [muqsitnawaz/modern-cpp-cheatsheet](https://github.com/muqsitnawaz/modern-cpp-cheatsheet)
-9. [netcan/advanced-cpp20-programming](https://github.com/netcan/advanced-cpp20-programming)
+5. [federico-busato/Modern-CPP-Programming](https://github.com/federico-busato/Modern-CPP-Programming)
+6. [CnTransGroup/EffectiveModernCppChinese](https://github.com/CnTransGroup/EffectiveModernCppChinese)
+7. [0voice/cpp_new_features](https://github.com/0voice/cpp_new_features)
+8. [tip-of-the-week/cpp](https://github.com/tip-of-the-week/cpp)
+9. [muqsitnawaz/modern-cpp-cheatsheet](https://github.com/muqsitnawaz/modern-cpp-cheatsheet)
+10. [netcan/advanced-cpp20-programming](https://github.com/netcan/advanced-cpp20-programming)
 
 ### C++并发
 
