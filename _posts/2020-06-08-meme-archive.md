@@ -78,6 +78,18 @@ Meme这个词最初源自英国著名科学家理查德·道金斯所著的《�
 
 ## 游戏
 
+### 小游戏合集
+
+1. [Armor Games](https://armorgames.com)
+2. [Crazy Monkey Games](https://www.crazymonkeygames.com)
+3. [Nitrome](https://www.nitrome.com)
+4. [Miniclip](https://www.miniclip.com)
+5. [Play-Games](https://www.play-games.com)
+6. [Crazy Games](https://www.crazygames.com)
+7. [4399小游戏](https://www.4399.com)
+
+### 在线小游戏
+
 1. [Red Alert 2](https://game.chronodivide.com)
 2. [2048](https://luckyfuy.top/2048/)
 3. [PhD 2048](https://ymfa.github.io/phd-2048/)
@@ -91,13 +103,16 @@ Meme这个词最初源自英国著名科学家理查德·道金斯所著的《�
 11. [EVANGELION & 扫雷](https://v.magiconch.com/mine-sweeper)
 12. [Norman the Necromancer](https://js13kgames.com/entries/norman-the-necromancer)
 13. [Sandtrix](https://mslivo.itch.io/sandtrix)
-14. [yuzu-emu/yuzu](https://github.com/yuzu-emu/yuzu)
-15. [Ryujinx/Ryujinx](https://github.com/Ryujinx/Ryujinx)
-16. [electronicarts/CnC_Remastered_Collection](https://github.com/electronicarts/CnC_Remastered_Collection)
-17. [OpenRA/OpenRA](https://github.com/OpenRA/OpenRA)
-18. [CleverRaven/Cataclysm-DDA](https://github.com/CleverRaven/Cataclysm-DDA)
-19. [MorvanZhou/sudoku](https://github.com/MorvanZhou/sudoku)
-20. [js13kGames/resources](https://github.com/js13kGames/resources)
+
+### GitHub
+
+1. [yuzu-emu/yuzu](https://github.com/yuzu-emu/yuzu)
+2. [Ryujinx/Ryujinx](https://github.com/Ryujinx/Ryujinx)
+3. [electronicarts/CnC_Remastered_Collection](https://github.com/electronicarts/CnC_Remastered_Collection)
+4. [OpenRA/OpenRA](https://github.com/OpenRA/OpenRA)
+5. [CleverRaven/Cataclysm-DDA](https://github.com/CleverRaven/Cataclysm-DDA)
+6. [MorvanZhou/sudoku](https://github.com/MorvanZhou/sudoku)
+7. [js13kGames/resources](https://github.com/js13kGames/resources)
 
 ## 工具箱
 
@@ -176,13 +191,14 @@ Meme这个词最初源自英国著名科学家理查德·道金斯所著的《�
 18. [一个独特的简历生成器，在GitHub开源了！-GitHub Daily的文章-知乎](https://zhuanlan.zhihu.com/p/504859666)
 19. [噫吁嚱！文言文亦能编程！此诚年度最骚语言也-量子位的文章-知乎](https://zhuanlan.zhihu.com/p/97985273)
 20. [你以为文言编程只是闹着玩？三个月后，人家IDE、教程、包管理器都有了-机器之心的文章-知乎](https://zhuanlan.zhihu.com/p/112650761)
-21. [很适合上班时间打开的8个摸鱼必备网站，千万别让领导看到！-bilibili](https://www.bilibili.com/video/BV16u411d7N3)
-22. [为什么面对读博大家都那么悲观？-温酒煮咖啡的回答-知乎](https://www.zhihu.com/question/439204161/answer/3107116546)
-23. [红警代码竟然在GitHub上开源了！！！-GitHub Daily的文章-知乎](https://zhuanlan.zhihu.com/p/146383298)
-24. [js13kGames](https://js13kgames.com)
-25. [js13kGames 2022 winners](https://github.blog/2022-10-06-js13k-2022-winners/)
-26. [CorentinTh/it-tools](https://github.com/CorentinTh/it-tools)
-27. [Linux上5个最好CAD软件-Linux中国的文章-知乎](https://zhuanlan.zhihu.com/p/81680138)
-28. [很赞的两个高清壁纸网站：wallroom和wallhaven-帅小科的文章-知乎](https://zhuanlan.zhihu.com/p/376579457)
-29. [Ubuntu设置双屏显示长壁纸-码农家园](https://www.codenong.com/cs109695249/)
-30. [要命！《程序员延寿指南》火爆GitHub，日涨1500+星，跟着码农干多活20年-量子位的文章-知乎](https://zhuanlan.zhihu.com/p/502393797)
+21. [童年圆梦合集！100款经典游戏全通关解说！【B站独播】-bilibili](https://www.bilibili.com/video/BV15u4y1M78g)
+22. [很适合上班时间打开的8个摸鱼必备网站，千万别让领导看到！-bilibili](https://www.bilibili.com/video/BV16u411d7N3)
+23. [为什么面对读博大家都那么悲观？-温酒煮咖啡的回答-知乎](https://www.zhihu.com/question/439204161/answer/3107116546)
+24. [红警代码竟然在GitHub上开源了！！！-GitHub Daily的文章-知乎](https://zhuanlan.zhihu.com/p/146383298)
+25. [js13kGames](https://js13kgames.com)
+26. [js13kGames 2022 winners](https://github.blog/2022-10-06-js13k-2022-winners/)
+27. [CorentinTh/it-tools](https://github.com/CorentinTh/it-tools)
+28. [Linux上5个最好CAD软件-Linux中国的文章-知乎](https://zhuanlan.zhihu.com/p/81680138)
+29. [很赞的两个高清壁纸网站：wallroom和wallhaven-帅小科的文章-知乎](https://zhuanlan.zhihu.com/p/376579457)
+30. [Ubuntu设置双屏显示长壁纸-码农家园](https://www.codenong.com/cs109695249/)
+31. [要命！《程序员延寿指南》火爆GitHub，日涨1500+星，跟着码农干多活20年-量子位的文章-知乎](https://zhuanlan.zhihu.com/p/502393797)
