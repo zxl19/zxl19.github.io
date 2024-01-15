@@ -245,6 +245,17 @@ Markdown支持带有复选框（checkbox）的任务列表：
 - [x] 勾选，已完成的任务
 ```
 
+### 折叠内容
+
+Markdown支持通过点击交互的折叠内容：
+
+```html
+<details>
+    <summary> 标题 </summary>
+    被折叠的内容
+</details>
+```
+
 ### 支持HTML元素
 
 1. 不在Markdown涵盖范围之内的标签，都可以直接在文档里面用HTML撰写；
@@ -282,13 +293,23 @@ _   下划线
 
 Markdown支持使用Mermaid语法进行绘图，但是已有较多交互式绘图工具能够完成类似的绘图任务，本文不再赘述。
 
+## 教程
+
+1. [Markdown教程-菜鸟教程](https://www.runoob.com/markdown/md-tutorial.html)
+2. [Markdown官方教程](https://markdown.com.cn)
+3. [Markdown Guide](https://www.markdownguide.org)
+4. [一份Markdown学习笔记](https://keatonlao.gitee.io/a-study-note-for-markdown/)
+5. [Markdown基本语法](http://younghz.github.io/Markdown/)
+6. [Markdown Reference](https://support.typora.io/Markdown-Reference/)
+7. [CommonMark Spec](https://spec.commonmark.org)
+
 ## 参考
 
 1. [Markup language-Wikipedia](https://en.wikipedia.org/wiki/Markup_language)
 2. [Plain text documentation in version control-the 3 best markup languages](https://www.augmentedmind.de/2020/12/06/plain-text-documentation-in-vcs/)
 3. [如何看待typst?-HexUp的回答-知乎](https://www.zhihu.com/question/591143170/answer/2949290734)
-4. [Markdown教程-菜鸟教程](https://www.runoob.com/markdown/md-tutorial.html)
-5. [Markdown语法教程](https://markdown.com.cn)
+4. [younghz/Markdown](https://github.com/younghz/Markdown)
+5. [commonmark/commonmark-spec](https://github.com/commonmark/commonmark-spec)
 6. [AsciiDoc](https://asciidoc.org)
 7. [reStructuredText-SourceForge](https://docutils.sourceforge.io/rst.html)
 8. [Introduction to reStructuredText-Write the Docs](https://www.writethedocs.org/guide/writing/reStructuredText/)
