@@ -135,9 +135,23 @@ Meme这个词最初源自英国著名科学家理查德·道金斯所著的《�
 ### 投资理财
 
 1. [shengcaishizhan/kkndme_tianya](https://github.com/shengcaishizhan/kkndme_tianya)
-2. [slowmist/Blockchain-dark-forest-selfguard-handbook](https://github.com/slowmist/Blockchain-dark-forest-selfguard-handbook)
-3. [fairyly/you-need-know-house_knowledge](https://github.com/fairyly/you-need-know-house_knowledge)
-4. [apachecn/the-way-to-wealth-freedom-notes](https://github.com/apachecn/the-way-to-wealth-freedom-notes)
+2. [xiaolai/regular-investing-in-box](https://github.com/xiaolai/regular-investing-in-box)
+3. [slowmist/Blockchain-dark-forest-selfguard-handbook](https://github.com/slowmist/Blockchain-dark-forest-selfguard-handbook)
+4. [xiaolai/bitcoin-whitepaper-chinese-translation](https://github.com/xiaolai/bitcoin-whitepaper-chinese-translation)
+5. [xiaolai/the-self-cultivation-of-leeks](https://github.com/xiaolai/the-self-cultivation-of-leeks)
+6. [fairyly/you-need-know-house_knowledge](https://github.com/fairyly/you-need-know-house_knowledge)
+7. [apachecn/the-way-to-wealth-freedom-notes](https://github.com/apachecn/the-way-to-wealth-freedom-notes)
+
+### 个人成长
+
+1. [selfteaching/the-craft-of-selfteaching](https://github.com/selfteaching/the-craft-of-selfteaching)
+2. [xiaolai/time-as-a-friend](https://github.com/xiaolai/time-as-a-friend)
+3. [selfteaching/How-To-Ask-Questions-The-Smart-Way](https://github.com/selfteaching/How-To-Ask-Questions-The-Smart-Way)
+
+### 英语
+
+1. [xiaolai/everyone-can-use-english](https://github.com/xiaolai/everyone-can-use-english)
+2. [yurii-yu/chitchat-on-translation](https://github.com/yurii-yu/chitchat-on-translation)
 
 ### 其他
 

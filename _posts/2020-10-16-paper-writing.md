@@ -163,12 +163,15 @@ pinned: false
 2. [ruanyf/document-style-guide](https://github.com/ruanyf/document-style-guide)
 3. [MLNLP-World/Paper-Writing-Tips](https://github.com/MLNLP-World/Paper-Writing-Tips)
 4. [guanyingc/latex_paper_writing_tips](https://github.com/guanyingc/latex_paper_writing_tips)
-5. [Haixing-Hu/typesetting-standard](https://github.com/Haixing-Hu/typesetting-standard)
-6. [writing-resources/awesome-scientific-writing](https://github.com/writing-resources/awesome-scientific-writing)
-7. [wangdongdut/PaperWriting](https://github.com/wangdongdut/PaperWriting)
-8. [cooelf/PaperWritingTips](https://github.com/cooelf/PaperWritingTips)
-9. 《如何写好学术论文》
-10. 《学术“咸鱼”自救指南》
+5. [secdr/research-method](https://github.com/secdr/research-method)
+6. [Haixing-Hu/typesetting-standard](https://github.com/Haixing-Hu/typesetting-standard)
+7. [writing-resources/awesome-scientific-writing](https://github.com/writing-resources/awesome-scientific-writing)
+8. [wangdongdut/PaperWriting](https://github.com/wangdongdut/PaperWriting)
+9. [selfteaching/markdown-writing-with-mixed-cn-en](https://github.com/selfteaching/markdown-writing-with-mixed-cn-en)
+10. [cooelf/PaperWritingTips](https://github.com/cooelf/PaperWritingTips)
+11. [taopanpan/CasitLab](https://github.com/taopanpan/CasitLab)
+12. 《如何写好学术论文》
+13. 《学术“咸鱼”自救指南》
 
 ### 英文写作
 
