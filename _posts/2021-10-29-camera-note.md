@@ -70,6 +70,9 @@ pinned: false
 11. [【DPReview】片门全开是什么意思？丨以及你为什么要在乎这件事](https://www.bilibili.com/video/BV1FV4y1N7Vq)
 12. [【DPReview】一种改进视频自动对焦的简单办法](https://www.bilibili.com/video/BV1124y147ZR)
 13. [【摄影入门】P、A、S、M、B这些相机档位都是什么意思？该怎么用？](https://www.bilibili.com/video/BV1Ls4y1w7sg)
+14. [【摄影入门】什么是18度灰？测光模式与曝光补偿该怎么调？](https://www.bilibili.com/video/BV1ST411x7S3)
+15. [【摄影入门】不同对焦模式和对焦区域有何区别？新手一定要了解的对焦知识！](https://www.bilibili.com/video/BV15w411A7Mk)
+16. [【摄影入门】白平衡和色温是什么意思？如何调整白平衡让画面更好看？](https://www.bilibili.com/video/BV1ib4y1G7HJ)
 
 ### 清洁保养
 

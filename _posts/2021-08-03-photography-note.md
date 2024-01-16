@@ -17,9 +17,26 @@ pinned: false
 
 ### 重要概念
 
+#### 曝光三要素
+
 ```text
 刀锐奶化，毒德大学！
 ```
+
+1. [【DPReview】什么是向右曝光？该在什么时候使用它？](https://www.bilibili.com/video/BV1Gk4y1q7MF)
+2. [一学就会的曝光基础](https://www.bilibili.com/video/BV1oW411W7yr)
+3. [完美曝光的秘诀](https://www.bilibili.com/video/BV11x41157WX)
+4. [【科普】快门速度怎么调？这个视频带你彻底认识相机快门！](https://www.bilibili.com/video/BV13Y411f7Wv)
+5. [【科普】光圈究竟影响什么？一个视频解答你对光圈所有疑问！](https://www.bilibili.com/video/BV18v4y167Eb)
+6. [【科普】ISO到底是什么？这个视频重构你对ISO的认知！](https://www.bilibili.com/video/BV1n24y1s7wM)
+7. [旅行摄影101](https://space.bilibili.com/84480709/channel/collectiondetail?sid=1243116)
+8. [新手如何系统性地学习摄影？-爱摄影的郭同学的回答-知乎](https://www.zhihu.com/question/36095338/answer/968639013)
+9. [新手如何系统性地学习摄影？-500px摄影社区的回答-知乎](https://www.zhihu.com/question/36095338/answer/2051012517)
+10. [如何理解ISO、快门、光圈、曝光这几个概念？-王波的回答-知乎](https://www.zhihu.com/question/21427664/answer/40346193)
+11. [相机光圈、快门、焦距、感光度基本介绍-林青春的文章-知乎](https://zhuanlan.zhihu.com/p/152172663)
+12. [“毒德大学”，“刀锐奶化”这些梗最初起源于哪？-家政学叫兽的回答-知乎](https://www.zhihu.com/question/412237760/answer/1386682793)
+
+#### 焦距
 
 ```text
 35 equivalent lenses, they are just never wide enough or never tight enough, like story of my life.
@@ -27,21 +44,9 @@ pinned: false
 等效35啊，不够广阔也不够紧凑，就像我艰难的人生。
 ```
 
-1. [旅行摄影小百科](https://space.bilibili.com/84480709/channel/seriesdetail?sid=247659)
-2. [【硬核科普】焦段是什么？](https://www.bilibili.com/video/BV1nK41157no)
-3. [一学就会的曝光基础](https://www.bilibili.com/video/BV1oW411W7yr)
-4. [完美曝光的秘诀](https://www.bilibili.com/video/BV11x41157WX)
-5. [【科普】快门速度怎么调？这个视频带你彻底认识相机快门！](https://www.bilibili.com/video/BV13Y411f7Wv)
-6. [【科普】光圈究竟影响什么？一个视频解答你对光圈所有疑问！](https://www.bilibili.com/video/BV18v4y167Eb)
-7. [【科普】ISO到底是什么？这个视频重构你对ISO的认知！](https://www.bilibili.com/video/BV1n24y1s7wM)
-8. [【DPReview】这才是最好的焦段！](https://www.bilibili.com/video/BV1Gg4y1G7uV)
-9. [【DPReview】什么是向右曝光？该在什么时候使用它？](https://www.bilibili.com/video/BV1Gk4y1q7MF)
-10. [新手如何系统性地学习摄影？-爱摄影的郭同学的回答-知乎](https://www.zhihu.com/question/36095338/answer/968639013)
-11. [新手如何系统性地学习摄影？-500px摄影社区的回答-知乎](https://www.zhihu.com/question/36095338/answer/2051012517)
-12. [如何理解ISO、快门、光圈、曝光这几个概念？-王波的回答-知乎](https://www.zhihu.com/question/21427664/answer/40346193)
-13. [相机光圈、快门、焦距、感光度基本介绍-林青春的文章-知乎](https://zhuanlan.zhihu.com/p/152172663)
-14. [“毒德大学”，“刀锐奶化”这些梗最初起源于哪？-家政学叫兽的回答-知乎](https://www.zhihu.com/question/412237760/answer/1386682793)
-15. [【DPReview】富士 Fujifilm X100V 上手初评](https://www.bilibili.com/video/BV1p741137BZ)
+1. [【硬核科普】焦段是什么？](https://www.bilibili.com/video/BV1nK41157no)
+2. [【DPReview】这才是最好的焦段！](https://www.bilibili.com/video/BV1Gg4y1G7uV)
+3. [【DPReview】富士 Fujifilm X100V 上手初评](https://www.bilibili.com/video/BV1p741137BZ)
 
 ### 阳光十六法则
 
@@ -57,6 +62,13 @@ pinned: false
 4. [阳光16法则该如何去测光？-平老虎的回答-知乎](https://www.zhihu.com/question/38169738/answer/917901861)
 5. [阳光16法则该如何去测光？-Spinlips的回答-知乎](https://www.zhihu.com/question/38169738/answer/75286013)
 6. [【KingJvpes】玩胶片不可不学的阳光十六法则（中字）](https://www.bilibili.com/video/BV13j411f7gs)
+
+### 视频拍摄相关
+
+1. [【硬核科普】奇妙的帧率增加了！](https://www.bilibili.com/video/BV1kE411c7yZ)
+2. [【硬核科普】为什么你拍的视频颜色不好看？99%的人都会忽视这个原理！](https://www.bilibili.com/video/BV1Fv411H7P5)
+3. [灯光一直闪、屏幕有条纹？彻底搞懂“频闪”是什么！](https://www.bilibili.com/video/BV1ua4y127pk)
+4. [黑边=电影感？被观众们忽略的电影画幅，是如何讲故事的？](https://www.bilibili.com/video/BV1AM411K7r2)
 
 ## 书籍
 
