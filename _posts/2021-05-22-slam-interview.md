@@ -13,6 +13,10 @@ SLAM方向面试题存档。
 
 <!-- more -->
 
+```text
+富贵险中求，也在险中丢，求时十之一，丢时十之九。大丈夫行事，当摒弃侥幸之念，必取百炼成钢，厚积分秒之功，始得一鸣惊人。
+```
+
 ## 公众号
 
 1. [【泡泡机器人成员原创-SLAM求职宝典】SLAM求职经验帖-泡泡机器人的文章-知乎](https://zhuanlan.zhihu.com/p/28565563)
@@ -57,45 +61,19 @@ SLAM方向面试题存档。
 2. [十大经典排序算法-菜鸟教程](https://www.runoob.com/w3cnote/ten-sorting-algorithm.html)
 3. [排序算法总结-菜鸟教程](https://www.runoob.com/w3cnote/sort-algorithm-summary.html)
 
-## GitHub
+### GitHub
 
-1. [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university)
-2. [CyC2018/CS-Notes](https://github.com/CyC2018/CS-Notes)
-3. [labuladong/fucking-algorithm](https://github.com/labuladong/fucking-algorithm)
-4. [azl397985856/leetcode](https://github.com/azl397985856/leetcode)
+1. [CyC2018/CS-Notes](https://github.com/CyC2018/CS-Notes)
+2. [labuladong/fucking-algorithm](https://github.com/labuladong/fucking-algorithm)
+3. [azl397985856/leetcode](https://github.com/azl397985856/leetcode)
+4. [youngyangyang04/leetcode-master](https://github.com/youngyangyang04/leetcode-master)
 5. [geekxh/hello-algorithm](https://github.com/geekxh/hello-algorithm)
-6. [youngyangyang04/leetcode-master](https://github.com/youngyangyang04/leetcode-master)
-7. [huihut/interview](https://github.com/huihut/interview)
-8. [iamshuaidi/CS-Book](https://github.com/iamshuaidi/CS-Book)
-9. [amusi/Deep-Learning-Interview-Book](https://github.com/amusi/Deep-Learning-Interview-Book)
-10. [forthespada/InterviewGuide](https://github.com/forthespada/InterviewGuide)
-11. [amusi/AI-Job-Notes](https://github.com/amusi/AI-Job-Notes)
-12. [niudai/How-to-be-a-good-programmer](https://github.com/niudai/How-to-be-a-good-programmer)
-13. [0voice/campus_recruitmen_questions](https://github.com/0voice/campus_recruitmen_questions)
-14. [DarLiner/Algorithm_Interview_Notes-Chinese](https://github.com/DarLiner/Algorithm_Interview_Notes-Chinese)
-15. [Liber-coder/CV_Notes](https://github.com/Liber-coder/CV_Notes)
-16. [upupming/algorithm](https://github.com/upupming/algorithm)
-17. [vichitr/HacktoberfestForBeginners](https://github.com/vichitr/HacktoberfestForBeginners)
-
-## 计算机系课程
-
-1. [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books)
-2. [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning)
-3. [ByteByteGoHq/system-design-101](https://github.com/ByteByteGoHq/system-design-101)
-4. [QSCTech/zju-icicles](https://github.com/QSCTech/zju-icicles)
-5. [PKUanonym/REKCARC-TSC-UHT](https://github.com/PKUanonym/REKCARC-TSC-UHT)
-6. [PKUFlyingPig/cs-self-learning](https://github.com/PKUFlyingPig/cs-self-learning)
-7. [USTC-Resource/USTC-Course](https://github.com/USTC-Resource/USTC-Course)
-8. [c-hj/SJTU-Courses](https://github.com/c-hj/SJTU-Courses)
-9. [missing-semester/missing-semester](https://github.com/missing-semester/missing-semester)
-10. [missing-semester-cn/missing-semester-cn.github.io](https://github.com/missing-semester-cn/missing-semester-cn.github.io)
-11. [Salensoft/thu-cst-cracker](https://github.com/Salensoft/thu-cst-cracker)
-12. [HuangCongQing/UCAS_Course_2019](https://github.com/HuangCongQing/UCAS_Course_2019)
-13. [Trinkle23897/THU-CST-Cracker](https://github.com/Trinkle23897/THU-CST-Cracker)
-14. [Trinkle23897/Undergraduate](https://github.com/Trinkle23897/Undergraduate)
-15. [15172658790/Blog](https://github.com/15172658790/Blog)
-
-## 参考
-
-1. [GitHub开源计算机课程攻略yyds-逛逛GitHub的文章-知乎](https://zhuanlan.zhihu.com/p/447898788)
-2. [有哪些你看了以后大呼过瘾的编程书？-奇异果的哥哥的回答-知乎](https://www.zhihu.com/question/50408698/answer/3192277351)
+6. [huihut/interview](https://github.com/huihut/interview)
+7. [amusi/Deep-Learning-Interview-Book](https://github.com/amusi/Deep-Learning-Interview-Book)
+8. [forthespada/InterviewGuide](https://github.com/forthespada/InterviewGuide)
+9. [amusi/AI-Job-Notes](https://github.com/amusi/AI-Job-Notes)
+10. [0voice/campus_recruitmen_questions](https://github.com/0voice/campus_recruitmen_questions)
+11. [DarLiner/Algorithm_Interview_Notes-Chinese](https://github.com/DarLiner/Algorithm_Interview_Notes-Chinese)
+12. [Liber-coder/CV_Notes](https://github.com/Liber-coder/CV_Notes)
+13. [upupming/algorithm](https://github.com/upupming/algorithm)
+14. [vichitr/HacktoberfestForBeginners](https://github.com/vichitr/HacktoberfestForBeginners)
