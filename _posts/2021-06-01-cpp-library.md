@@ -194,11 +194,32 @@ pinned: false
 5. [johnmcfarlane/cnl](https://github.com/johnmcfarlane/cnl)
 6. [auto-differentiation/XAD](https://github.com/auto-differentiation/XAD)
 
-### 几何学
+### 随机采样一致
+
+1. [tsattler/RansacLib](https://github.com/tsattler/RansacLib)
+2. [drsrinathsridhar/GRANSAC](https://github.com/drsrinathsridhar/GRANSAC)
+3. [mint-lab/rtl](https://github.com/mint-lab/rtl)
+4. [TotoroJason/RANSAC](https://github.com/TotoroJason/RANSAC)
+5. [libing64/RansacLine](https://github.com/libing64/RansacLine)
+6. [ddorobot/ransac](https://github.com/ddorobot/ransac)
+
+### 几何
+
+#### 几何运算
 
 1. [davideberly/GeometricTools](https://github.com/davideberly/GeometricTools)
-2. [mlivesu/cinolib](https://github.com/mlivesu/cinolib)
-3. [sikang/DecompUtil](https://github.com/sikang/DecompUtil)
+2. [sikang/DecompUtil](https://github.com/sikang/DecompUtil)
+
+#### 三角剖分
+
+1. [artem-ogre/CDT](https://github.com/artem-ogre/CDT)
+2. [delfrrr/delaunator-cpp](https://github.com/delfrrr/delaunator-cpp)
+3. [bl4ckb0ne/delaunay-triangulation](https://github.com/bl4ckb0ne/delaunay-triangulation)
+4. [jhasse/poly2tri](https://github.com/jhasse/poly2tri)
+
+#### 网格处理
+
+1. [mlivesu/cinolib](https://github.com/mlivesu/cinolib)
 
 ### 张量运算
 

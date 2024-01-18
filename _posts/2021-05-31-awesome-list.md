@@ -131,10 +131,12 @@ The main repository serves as a curated list of awesome lists.
 
 ## 工作效率
 
-1. [kmaasrud/awesome-obsidian](https://github.com/kmaasrud/awesome-obsidian)
-2. [jyguyomarch/awesome-productivity](https://github.com/jyguyomarch/awesome-productivity)
-3. [eastlakeside/awesome-productivity-cn](https://github.com/eastlakeside/awesome-productivity-cn)
+1. [jyguyomarch/awesome-productivity](https://github.com/jyguyomarch/awesome-productivity)
+2. [eastlakeside/awesome-productivity-cn](https://github.com/eastlakeside/awesome-productivity-cn)
+3. [kmaasrud/awesome-obsidian](https://github.com/kmaasrud/awesome-obsidian)
 4. [noghartt/awesome-obsidian-plugins](https://github.com/noghartt/awesome-obsidian-plugins)
+5. [OpenMindClub/awesome-zotero](https://github.com/OpenMindClub/awesome-zotero)
+6. [zotero-chinese/zotero-plugins](https://github.com/zotero-chinese/zotero-plugins)
 
 ## 命令行相关
 
