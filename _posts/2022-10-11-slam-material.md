@@ -65,7 +65,7 @@ SLAM学习资料存档，包括SLAM基础理论、卡尔曼滤波、组合导航
 1. [Kalman Filter Tutorial](https://www.kalmanfilter.net/default.aspx)
 2. [The Kalman Filter](https://www.cs.unc.edu/~welch/kalman/)
 3. [An Introduction to the Kalman Filter](https://www.cs.unc.edu/~welch/media/pdf/kalman_intro.pdf)
-4. [An Introduction to the Kalman Filter-SIGGRAPH 2001](https://www.cs.unc.edu/~tracker/media/pdf/SIGGRAPH2001_CoursePack_08.pdf)
+4. [An Introduction to the Kalman Filter-SIGGRAPH 2001](https://www.cs.utexas.edu/~pingali/CS378/2008sp/papers/SIGGRAPH2001_CoursePack_08.pdf)
 5. [Tutorial: The Kalman Filter](https://web.mit.edu/kirtley/kirtley/binlustuff/literature/control/Kalman%20filter.pdf)
 6. [A Kalman Filtering Tutorial for Undergraduate Students](https://aircconline.com/ijcses/V8N1/8117ijcses01.pdf)
 7. [Extended Kalman Filter Tutorial](https://homes.cs.washington.edu/~todorov/courses/cseP590/readings/tutorialEKF.pdf)
@@ -144,9 +144,11 @@ SLAM学习资料存档，包括SLAM基础理论、卡尔曼滤波、组合导航
 2. [ApolloAuto/apollo](https://github.com/ApolloAuto/apollo)
 3. [autowarefoundation/autoware](https://github.com/autowarefoundation/autoware)
 4. [daohu527/dig-into-apollo](https://github.com/daohu527/dig-into-apollo)
-5. [YannZyl/Apollo-Note](https://github.com/YannZyl/Apollo-Note)
-6. [nwaysir/Autopilot-Updating-Notes](https://github.com/nwaysir/Autopilot-Updating-Notes)
-7. [thomasfermi/Algorithms-for-Automated-Driving](https://github.com/thomasfermi/Algorithms-for-Automated-Driving)
+5. [OpenDriveLab/End-to-end-Autonomous-Driving](https://github.com/OpenDriveLab/End-to-end-Autonomous-Driving)
+6. [OpenDriveLab/Birds-eye-view-Perception](https://github.com/OpenDriveLab/Birds-eye-view-Perception)
+7. [YannZyl/Apollo-Note](https://github.com/YannZyl/Apollo-Note)
+8. [nwaysir/Autopilot-Updating-Notes](https://github.com/nwaysir/Autopilot-Updating-Notes)
+9. [thomasfermi/Algorithms-for-Automated-Driving](https://github.com/thomasfermi/Algorithms-for-Automated-Driving)
 
 ## 参考
 
@@ -159,4 +161,5 @@ SLAM学习资料存档，包括SLAM基础理论、卡尔曼滤波、组合导航
 7. [Tim Barfoot](http://asrl.utias.utoronto.ca/~tdb/)
 8. [Modern Robotics](http://hades.mech.northwestern.edu/index.php/Modern_Robotics)
 9. [硕士研究生阶段如何学习slam机器人？-Range的回答-知乎](https://www.zhihu.com/question/396119527/answer/1235876702)
-10. [严恭敏的个人主页](https://teacher.nwpu.edu.cn/yangongmin.html)
+10. [卡尔曼滤波（Kalman Filter）原理与公式推导-涅索斯衬衫的文章-知乎](https://zhuanlan.zhihu.com/p/48876718)
+11. [严恭敏的个人主页](https://teacher.nwpu.edu.cn/yangongmin.html)

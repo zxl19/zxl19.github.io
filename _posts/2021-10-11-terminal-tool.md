@@ -43,9 +43,31 @@ pinned: false
 
 ## 文件操作
 
-1. tree
+### 文件查找
+
+1. find
+2. tree
+3. [fzf](https://github.com/junegunn/fzf)
+4. [sk](https://github.com/lotabout/skim)
+
+## 文件内容
+
+1. cat
+2. head
+3. tail
+4. [tailspin](https://github.com/bensadeh/tailspin)
+
+### 文件压缩
+
+1. tar
+2. zip
+3. unzip
+4. [7z](https://www.7-zip.org/links.html)
+
+### 文件删除
+
+1. rm
 2. [trash-cli](https://github.com/andreafrancia/trash-cli)
-3. [p7zip](https://www.7-zip.org/links.html)
 
 ## 命令查询
 
@@ -112,15 +134,16 @@ pinned: false
 
 ### 调试优化工具
 
-1. gdb
-2. valgrind
-3. [brendangregg/FlameGraph](https://github.com/brendangregg/FlameGraph)
+1. [gdb](https://sourceware.org/gdb/)
+2. [valgrind](https://valgrind.org)
+3. [flamegraph.pl](https://github.com/brendangregg/FlameGraph)
 
-## Python依赖包管理
+## Python环境管理
 
-1. [pipdeptree](https://github.com/tox-dev/pipdeptree)
+1. [pyenv](https://github.com/pyenv/pyenv)
 2. [poetry](https://github.com/python-poetry/poetry)
-3. [pigar](https://github.com/damnever/pigar)
+3. [pipdeptree](https://github.com/tox-dev/pipdeptree)
+4. [pigar](https://github.com/damnever/pigar)
 
 ## 下载
 
@@ -152,15 +175,16 @@ pinned: false
 6. [九张图一览Linux性能工具全景图-michaelli的文章-知乎](https://zhuanlan.zhihu.com/p/590821534)
 7. [【工具篇】如何优雅地监控显卡(GPU)使用情况？-聚丙烯酰胺的文章-知乎](https://zhuanlan.zhihu.com/p/577533593)
 8. [nvitop: 史上最强GPU性能实时监测工具-AGI之心的文章-知乎](https://zhuanlan.zhihu.com/p/614024375)
-9. [Trash-Cli：Linux上的命令行回收站工具-Linux中国的文章-知乎](https://zhuanlan.zhihu.com/p/44948578)
-10. [一句f**k代码自动纠错，美女程序员教你建一个狂拽酷炫的终端-量子位的文章-知乎](https://zhuanlan.zhihu.com/p/87694586)
-11. [为什么说zsh是shell中的极品？-韦易笑的回答-知乎](https://www.zhihu.com/question/21418449/answer/300879747)
-12. [Oh My Zsh-简书](https://www.jianshu.com/p/b8a80dd59414)
-13. [Oh My Zsh-博客园](https://www.cnblogs.com/lcgbk/p/13255836.html)
-14. [五彩斑斓的Black——Python代码格式化工具-muzing的文章-知乎](https://zhuanlan.zhihu.com/p/418458450)
-15. [Static program analysis-Wikipedia](https://en.wikipedia.org/wiki/Static_program_analysis)
-16. [Lint (software)-Wikipedia](https://en.wikipedia.org/wiki/Lint_(software))
-17. [Clang Static Analyzer](https://clang-analyzer.llvm.org)
-18. [CodeChecker: running the analyzer from the command line](https://clang-analyzer.llvm.org/codechecker.html)
-19. [Ubuntu下实现命令行走代理/终端走代理的方法-lyh458的文章-知乎](https://zhuanlan.zhihu.com/p/377550825)
-20. [40个超有趣的Linux命令行彩蛋和游戏-张子豪的文章-知乎](https://zhuanlan.zhihu.com/p/51904179)
+9. [如何在Ubuntu和其他Linux发行版上使用7Zip-Linux中国的文章-知乎](https://zhuanlan.zhihu.com/p/65791205)
+10. [Trash-Cli：Linux上的命令行回收站工具-Linux中国的文章-知乎](https://zhuanlan.zhihu.com/p/44948578)
+11. [一句f**k代码自动纠错，美女程序员教你建一个狂拽酷炫的终端-量子位的文章-知乎](https://zhuanlan.zhihu.com/p/87694586)
+12. [为什么说zsh是shell中的极品？-韦易笑的回答-知乎](https://www.zhihu.com/question/21418449/answer/300879747)
+13. [Oh My Zsh-简书](https://www.jianshu.com/p/b8a80dd59414)
+14. [Oh My Zsh-博客园](https://www.cnblogs.com/lcgbk/p/13255836.html)
+15. [五彩斑斓的Black——Python代码格式化工具-muzing的文章-知乎](https://zhuanlan.zhihu.com/p/418458450)
+16. [Static program analysis-Wikipedia](https://en.wikipedia.org/wiki/Static_program_analysis)
+17. [Lint (software)-Wikipedia](https://en.wikipedia.org/wiki/Lint_(software))
+18. [Clang Static Analyzer](https://clang-analyzer.llvm.org)
+19. [CodeChecker: running the analyzer from the command line](https://clang-analyzer.llvm.org/codechecker.html)
+20. [Ubuntu下实现命令行走代理/终端走代理的方法-lyh458的文章-知乎](https://zhuanlan.zhihu.com/p/377550825)
+21. [40个超有趣的Linux命令行彩蛋和游戏-张子豪的文章-知乎](https://zhuanlan.zhihu.com/p/51904179)
