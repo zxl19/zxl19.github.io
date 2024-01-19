@@ -67,7 +67,6 @@ include_directories(${NANOFLANN_INCLUDE_DIRS})
             - 在对于最近邻搜索速度要求较高的应用场景中，例如点云匹配，叶节点的大小在10-50较为合适，默认值为10；
 
 3. nanoflann支持多种点云数据结构，在构建K-D树时需要使用对应的适配器（adaptor）；
-4. 当多个坐标完全相同的点都是最近邻点时，最近邻搜索返回的最近邻点顺序与其在点云中的保存顺序不具有对应关系；
 
 ## 示例
 
@@ -86,19 +85,28 @@ using VVec = std::vector<Vec<N, T>, Eigen::aligned_allocator<Vec<N, T>>>;
 using VVec3d = VVec<3, double>;
 using KdtreeType = KDTreeVectorOfVectorsAdaptor<VVec3d, double>;
 
+// construct a kd-tree index:
+// Dimensionality set at run-time (default: L2)
 std::size_t dim;
 VVec3d samples;
 KdtreeType kdtree(dim /*dim*/, samples, 10 /* max leaf */);
 
 // do a knn search
-const size_t num_results = 3;
-std::vector<size_t> ret_indexes(num_results);
+const std::size_t num_results = 3;
+std::vector<std::size_t> ret_indexes(num_results);
 std::vector<double> out_dists_sqr(num_results);
 
 nanoflann::KNNResultSet<double> resultSet(num_results);
 
 resultSet.init(&ret_indexes[0], &out_dists_sqr[0]);
-kdtree.index->findNeighbors(resultSet, &query_pt[0], nanoflann::SearchParams());
+bool found = kdtree.index->findNeighbors(resultSet, &query_pt[0], nanoflann::SearchParams());
+
+// !在没有找到指定数量的最近邻点时会返回false
+if (found) {
+  std::cout << "resultSet.size() == num_results" << std::endl;
+} else {
+  std::cout << "resultSet.size() < num_results" << std::endl;
+}
 
 std::cout << "knnSearch(nn=" << num_results << "): \n";
 for (size_t i = 0; i < resultSet.size(); i++) {
@@ -106,17 +114,26 @@ for (size_t i = 0; i < resultSet.size(); i++) {
 }
 ```
 
-通过内部实现可以看出，`KDTreeVectorOfVectorsAdaptor`也可以支持自定义点云数据结构，需要满足以下要求：
+## 注意事项
 
-1. 点云：
+1. 通过内部实现可以看出，`KDTreeVectorOfVectorsAdaptor`也可以支持自定义点云数据结构，需要满足以下要求：
 
-    - 具有`size()`成员函数，返回点云中点的总数；
-    - 支持通过下标运算符`[]`访问点云中的点；
+    - 点云：
+        - 具有`size()`成员函数，返回点云中点的总数；
+        - 支持通过下标运算符`[]`访问点云中的点；
+    - 点：
+        - 具有`size()`成员函数，返回点的维度；
+        - 支持通过下标运算符`[]`访问点的坐标；
 
-2. 点：
+2. nanoflann封装了`findNeighbors()`函数，可以通过`knnSearch()`函数进行最近邻搜索并获得最近邻点数量，与FLANN库的接口一致：
 
-    - 具有`size()`成员函数，返回点的维度；
-    - 支持通过下标运算符`[]`访问点的坐标；
+    ```cpp
+    // 返回最近邻点数量
+    std::size_t knn_num = kdtree.index->knnSearch(&query_pt[0], num_results, &ret_index[0], &out_dist_sqr[0]);
+    ```
+
+3. 当多个坐标完全相同的点都是最近邻点时，最近邻搜索返回的最近邻点顺序与其在点云中的保存顺序不具有对应关系；
+4. 当点云发生变化时，需要重新构建K-D树，否则会索引到错误的最近邻点坐标；
 
 ## 参考
 
