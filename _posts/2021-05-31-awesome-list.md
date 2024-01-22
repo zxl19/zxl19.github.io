@@ -122,12 +122,16 @@ The main repository serves as a curated list of awesome lists.
 1. [academic/awesome-datascience](https://github.com/academic/awesome-datascience)
 2. [newTendermint/awesome-bigdata](https://github.com/newTendermint/awesome-bigdata)
 3. [tirthajyoti/Data-science-best-resources](https://github.com/tirthajyoti/Data-science-best-resources)
-4. [EderSantana/awesomeMLmath](https://github.com/EderSantana/awesomeMLmath)
-5. [krishnakumarsekar/awesome-machine-learning-deep-learning-mathematics](https://github.com/krishnakumarsekar/awesome-machine-learning-deep-learning-mathematics)
+4. [rguo12/awesome-causality-algorithms](https://github.com/rguo12/awesome-causality-algorithms)
+5. [rguo12/awesome-causality-data](https://github.com/rguo12/awesome-causality-data)
+6. [EderSantana/awesomeMLmath](https://github.com/EderSantana/awesomeMLmath)
+7. [krishnakumarsekar/awesome-machine-learning-deep-learning-mathematics](https://github.com/krishnakumarsekar/awesome-machine-learning-deep-learning-mathematics)
 
 ## 数据标注
 
 1. [heartexlabs/awesome-data-labeling](https://github.com/heartexlabs/awesome-data-labeling)
+2. [zenml-io/awesome-open-data-annotation](https://github.com/zenml-io/awesome-open-data-annotation)
+3. [HuangCongQing/awesome-data-labeling-tools](https://github.com/HuangCongQing/awesome-data-labeling-tools)
 
 ## 工作效率
 
