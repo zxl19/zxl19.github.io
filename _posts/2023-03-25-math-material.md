@@ -33,9 +33,12 @@ pinned: false
 
 ## 线性代数
 
-1. [Interactive Linear Algebra](https://textbooks.math.gatech.edu/ila/)
-2. [kenjihiranabe/The-Art-of-Linear-Algebra](https://github.com/kenjihiranabe/The-Art-of-Linear-Algebra)
-3. [MLNLP-World/MIT-Linear-Algebra-Notes](https://github.com/MLNLP-World/MIT-Linear-Algebra-Notes)
+1. [矩阵计算讲义-潘建瑜](https://math.ecnu.edu.cn/~jypan/Teaching/MatrixComp/mc.pdf)
+2. [Matrix Computations](https://math.ecnu.edu.cn/~jypan/Teaching/books/2013%20Matrix%20Computations%204th.pdf)
+3. [The Science of Programming Matrix Computations](https://www.cs.utexas.edu/users/rvdg/tmp/TSoPMC.pdf)
+4. [Interactive Linear Algebra](https://textbooks.math.gatech.edu/ila/)
+5. [kenjihiranabe/The-Art-of-Linear-Algebra](https://github.com/kenjihiranabe/The-Art-of-Linear-Algebra)
+6. [MLNLP-World/MIT-Linear-Algebra-Notes](https://github.com/MLNLP-World/MIT-Linear-Algebra-Notes)
 
 ## 矩阵求导
 
@@ -57,8 +60,12 @@ pinned: false
 
 1. [Standard Mathematical Tables and Formulae Home Page](https://www.mathtable.com/smtf/)
 2. [Web Mechanic](https://www.softouch.on.ca)
-3. [用LaTeX做笔记是怎样的体验？-Rabbittac的回答-知乎](https://www.zhihu.com/question/362654946/answer/1896187222)
-4. [国外教授的讲义都是自己用LaTeX打出来的吗？-徐航的回答-知乎](https://www.zhihu.com/question/29227449/answer/1895477272)
-5. [B样条曲线拟合与插值的详尽说明-xiaotaw的文章-知乎](https://zhuanlan.zhihu.com/p/576982365)
-6. [矩阵求导术（上）-长躯鬼侠的文章-知乎](https://zhuanlan.zhihu.com/p/24709748)
-7. [矩阵求导术（下）-长躯鬼侠的文章-知乎](https://zhuanlan.zhihu.com/p/24863977)
+3. [国外教授的讲义都是自己用LaTeX打出来的吗？-徐航的回答-知乎](https://www.zhihu.com/question/29227449/answer/1895477272)
+4. [用LaTeX做笔记是怎样的体验？-Rabbittac的回答-知乎](https://www.zhihu.com/question/362654946/answer/1896187222)
+5. [矩阵计算-华东师范大学数学科学学院](https://math.ecnu.edu.cn/~jypan/Teaching/MatrixComp/index.html)
+6. [有没有比较好的学习高等数学，线性代数，概率论数理统计的英文书籍推荐？-西湖边的卡夫卡的回答-知乎](https://www.zhihu.com/question/36512716/answer/69017140)
+7. [国外优秀教材系列——数学-Fate Hunter的文章-知乎](https://zhuanlan.zhihu.com/p/482491831)
+8. [一些教材的电子版收集整理-Terry的文章-知乎](https://zhuanlan.zhihu.com/p/348345664)
+9. [B样条曲线拟合与插值的详尽说明-xiaotaw的文章-知乎](https://zhuanlan.zhihu.com/p/576982365)
+10. [矩阵求导术（上）-长躯鬼侠的文章-知乎](https://zhuanlan.zhihu.com/p/24709748)
+11. [矩阵求导术（下）-长躯鬼侠的文章-知乎](https://zhuanlan.zhihu.com/p/24863977)

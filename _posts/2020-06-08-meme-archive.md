@@ -84,10 +84,11 @@ Meme这个词最初源自英国著名科学家理查德·道金斯所著的《�
 2. [Crazy Monkey Games](https://www.crazymonkeygames.com)
 3. [Nitrome](https://www.nitrome.com)
 4. [Miniclip](https://www.miniclip.com)
-5. [Poki](https://poki.com)
-6. [Play-Games](https://www.play-games.com)
-7. [Crazy Games](https://www.crazygames.com)
-8. [4399小游戏](https://www.4399.com)
+5. [LostVectors](https://www.lostvectors.com)
+6. [Poki](https://poki.com)
+7. [Play-Games](https://www.play-games.com)
+8. [Crazy Games](https://www.crazygames.com)
+9. [4399小游戏](https://www.4399.com)
 
 ### 在线小游戏
 
