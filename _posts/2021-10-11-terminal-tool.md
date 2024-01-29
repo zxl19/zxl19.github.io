@@ -142,13 +142,6 @@ pinned: false
 2. [valgrind](https://valgrind.org)
 3. [flamegraph.pl](https://github.com/brendangregg/FlameGraph)
 
-## Python环境管理
-
-1. [pyenv](https://github.com/pyenv/pyenv)
-2. [poetry](https://github.com/python-poetry/poetry)
-3. [pipdeptree](https://github.com/tox-dev/pipdeptree)
-4. [pigar](https://github.com/damnever/pigar)
-
 ## 下载
 
 1. [you-get](https://github.com/soimort/you-get)

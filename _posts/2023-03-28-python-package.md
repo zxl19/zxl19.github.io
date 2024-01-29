@@ -15,8 +15,33 @@ pinned: false
 
 ## 包管理
 
+### 基于pip
+
+```text
+不要给我讲什么docker容器、miniconda，老夫写python就是一把梭！
+pip install，pip uninstall，拿起pip就是干！
+赢了安装新库，输了系统重装！
+```
+
 1. [pypa/pip](https://github.com/pypa/pip)
+2. [tox-dev/pipdeptree](https://github.com/tox-dev/pipdeptree)
+3. [damnever/pigar](https://github.com/damnever/pigar)
+
+### 依赖项管理
+
+1. [python-poetry/poetry](https://github.com/python-poetry/poetry)
+2. [pypa/pipenv](https://github.com/pypa/pipenv)
+3. [pdm-project/pdm](https://github.com/pdm-project/pdm)
+4. [pypa/hatch](https://github.com/pypa/hatch)
+
+### 虚拟环境管理
+
+1. [venv](https://docs.python.org/3/library/venv.html)
 2. [conda/conda](https://github.com/conda/conda)
+3. [pyenv/pyenv](https://github.com/pyenv/pyenv)
+4. [pypa/pipx](https://github.com/pypa/pipx)
+5. [pyenv/pyenv-virtualenv](https://github.com/pyenv/pyenv-virtualenv)
+6. [pypa/virtualenv](https://github.com/pypa/virtualenv)
 
 ## 包模板
 
@@ -244,9 +269,10 @@ pinned: false
 
 ## 参考
 
-1. [哪些Python库让你相见恨晚？-Python小二的回答-知乎](https://www.zhihu.com/question/24590883/answer/1220720307)
-2. [哪些Python库让你相见恨晚？-Lingfeng Ai的回答-知乎](https://www.zhihu.com/question/24590883/answer/92420471)
-3. [哪些Python库让你相见恨晚？-易执的回答-知乎](https://www.zhihu.com/question/24590883/answer/969106343)
-4. [六种酷炫Python运行进度条-腾讯云](https://cloud.tencent.com/developer/article/1661478)
-5. [哪些命令行工具让你相见恨晚？-Python与数据挖掘的回答-知乎](https://www.zhihu.com/question/41115077/answer/2302415301)
-6. [哪些Python库让你相见恨晚？-高天的回答-知乎](https://www.zhihu.com/question/24590883/answer/1493635700)
+1. [为什么有些人宁愿花费很多时间去自己手工配置Python环境, 也不用Anaconda?-知乎](https://www.zhihu.com/question/404402864/answer/2954272601)
+2. [哪些Python库让你相见恨晚？-Python小二的回答-知乎](https://www.zhihu.com/question/24590883/answer/1220720307)
+3. [哪些Python库让你相见恨晚？-Lingfeng Ai的回答-知乎](https://www.zhihu.com/question/24590883/answer/92420471)
+4. [哪些Python库让你相见恨晚？-易执的回答-知乎](https://www.zhihu.com/question/24590883/answer/969106343)
+5. [六种酷炫Python运行进度条-腾讯云](https://cloud.tencent.com/developer/article/1661478)
+6. [哪些命令行工具让你相见恨晚？-Python与数据挖掘的回答-知乎](https://www.zhihu.com/question/41115077/answer/2302415301)
+7. [哪些Python库让你相见恨晚？-高天的回答-知乎](https://www.zhihu.com/question/24590883/answer/1493635700)
