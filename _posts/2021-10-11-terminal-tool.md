@@ -22,8 +22,12 @@ pinned: false
 5. [dunwu/linux-tutorial](https://github.com/dunwu/linux-tutorial)
 6. [techarkit/shell-scripting-tutorial](https://github.com/techarkit/shell-scripting-tutorial)
 7. [jaywcjlove/shell-tutorial](https://github.com/jaywcjlove/shell-tutorial)
-8. [spencertipping/shell-tutorial](https://github.com/spencertipping/shell-tutorial)
-9. [ArchLinuxStudio/ShellTutorial](https://github.com/ArchLinuxStudio/ShellTutorial)
+8. [ArchLinuxStudio/ShellTutorial](https://github.com/ArchLinuxStudio/ShellTutorial)
+9. [spencertipping/shell-tutorial](https://github.com/spencertipping/shell-tutorial)
+
+## 函数式编程
+
+1. [sharkdp/shell-functools](https://github.com/sharkdp/shell-functools)
 
 ## 性能监控
 
@@ -76,7 +80,7 @@ pinned: false
 3. [cppman](https://github.com/aitjcize/cppman)
 4. [fccf](https://github.com/p-ranav/fccf)
 
-## 命令试错
+## 命令纠错
 
 1. [thefuck](https://github.com/nvbn/thefuck)
 2. [try](https://github.com/binpash/try)

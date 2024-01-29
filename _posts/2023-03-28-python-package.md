@@ -34,12 +34,19 @@ pinned: false
 2. [pathlib](https://docs.python.org/3/library/pathlib.html)
 3. [shutil](https://docs.python.org/3/library/shutil.html)
 
+## 日期时间
+
+1. [time](https://docs.python.org/3/library/time.html)
+2. [datetime](https://docs.python.org/3/library/datetime.html)
+3. [arrow-py/arrow](https://github.com/arrow-py/arrow)
+
 ## 参数读取
 
 ### 命令行参数
 
-1. [abseil/abseil-py](https://github.com/abseil/abseil-py)
-2. [google/python-gflags](https://github.com/google/python-gflags)
+1. [google/python-fire](https://github.com/google/python-fire)
+2. [abseil/abseil-py](https://github.com/abseil/abseil-py)
+3. [google/python-gflags](https://github.com/google/python-gflags)
 
 ### 配置文件参数
 
@@ -228,6 +235,12 @@ pinned: false
 
 1. [lincolnloop/python-qrcode](https://github.com/lincolnloop/python-qrcode)
 2. [heuer/segno](https://github.com/heuer/segno)
+
+## 函数式编程
+
+1. [evhub/coconut](https://github.com/evhub/coconut)
+2. [kachayev/fn.py](https://github.com/kachayev/fn.py)
+3. [EntilZha/PyFunctional](https://github.com/EntilZha/PyFunctional)
 
 ## 参考
 
