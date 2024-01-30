@@ -113,7 +113,8 @@ pinned: false
 2. [yapf](https://github.com/google/yapf)
 3. [pycodestyle](https://github.com/PyCQA/pycodestyle)
 4. [autopep8](https://github.com/hhatto/autopep8)
-5. [flake8](https://github.com/PyCQA/flake8)
+5. [coala](https://github.com/coala/coala)
+6. [flake8](https://github.com/PyCQA/flake8)
 
 ### 静态分析工具
 
