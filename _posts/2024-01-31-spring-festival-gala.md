@@ -9,7 +9,7 @@ toc: true
 pinned: false
 ---
 
-受到B站视频启发，基于历届春晚的优秀节目自制了一个春节联欢晚会节目单，向过去的时光以及老艺术家们致敬。
+受到B站视频启发，基于历届春晚的优秀节目自制了一个节目单，怀念过去的时光，向老艺术家们致敬。
 
 <!-- more -->
 
@@ -97,7 +97,7 @@ pinned: false
 2. [【2013春晚】十年前的那个除夕之夜，满足了我对春晚全部的期待与想象-bilibili](https://www.bilibili.com/video/BV1y3411d7oG)
 3. [2024终极除夕夜晚会-bilibili](https://www.bilibili.com/video/BV1KK411v75s)
 4. [2024终极除夕夜晚会2.0-bilibili](https://www.bilibili.com/video/BV1sC4y1k7Qw)
-5. [《2024年自制春晚》| 我们值得更好的！春晚代餐，好吃管饱！-bilibili](https://www.bilibili.com/video/BV1SN4y1z7xq)
-6. [《2024年自制春晚》| 我们需要更好的！祝大家新春快乐，万事如意！-bilibili](https://www.bilibili.com/video/BV1mg4y1m7fL)
+5. [《2024年自制春晚》丨 我们值得更好的！春晚代餐，好吃管饱！-bilibili](https://www.bilibili.com/video/BV1SN4y1z7xq)
+6. [《2024年自制春晚》丨 我们需要更好的！祝大家新春快乐，万事如意！-bilibili](https://www.bilibili.com/video/BV1mg4y1m7fL)
 7. [2024年即将到来，给大家奉献春晚小品春晚小品，但是混剪，可留着三十晚上看，祝大家龙年大吉-bilibili](https://www.bilibili.com/video/BV1sw411J7Di)
 8. [《2024年春节联欢晚会》-bilibili](https://www.bilibili.com/video/BV16g4y1e73f)
