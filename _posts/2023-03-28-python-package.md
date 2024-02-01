@@ -237,6 +237,12 @@ pip install，pip uninstall，拿起pip就是干！
 3. [rapidsai/cudf](https://github.com/rapidsai/cudf)
 4. [xorbitsai/xorbits](https://github.com/xorbitsai/xorbits)
 
+## 加密
+
+1. [pyca/cryptography](https://github.com/pyca/cryptography)
+2. [Legrandin/pycryptodome](https://github.com/Legrandin/pycryptodome)
+3. [pycrypto/pycrypto](https://github.com/pycrypto/pycrypto)
+
 ## 通信
 
 1. [zeromq/pyzmq](https://github.com/zeromq/pyzmq)
