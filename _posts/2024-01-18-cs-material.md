@@ -54,9 +54,11 @@ pinned: false
 ## 网站
 
 1. [菜鸟教程](https://www.runoob.com)
-2. [Codecademy](https://www.codecademy.com)
-3. [GeeksforGeeks](https://www.geeksforgeeks.org)
-4. [W3Schools](https://www.w3schools.com)
+2. [极客教程](https://geek-docs.com)
+3. [Codecademy](https://www.codecademy.com)
+4. [GeeksforGeeks](https://www.geeksforgeeks.org)
+5. [W3Schools](https://www.w3schools.com)
+6. [W3Cschools](https://www.w3cschool.cn)
 
 ## 参考
 

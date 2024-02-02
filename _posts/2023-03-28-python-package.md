@@ -69,9 +69,11 @@ pip install，pip uninstall，拿起pip就是干！
 
 ### 命令行参数
 
-1. [google/python-fire](https://github.com/google/python-fire)
-2. [abseil/abseil-py](https://github.com/abseil/abseil-py)
-3. [google/python-gflags](https://github.com/google/python-gflags)
+1. [argparse](https://docs.python.org/3/library/argparse.html)
+2. [google/python-fire](https://github.com/google/python-fire)
+3. [abseil/abseil-py](https://github.com/abseil/abseil-py)
+4. [kislyuk/argcomplete](https://github.com/kislyuk/argcomplete)
+5. [google/python-gflags](https://github.com/google/python-gflags)
 
 ### 配置文件参数
 

@@ -739,7 +739,7 @@ Vector3d trans = trans1 + ratio * (trans2 - trans1);
     ```
 
 2. Eigen默认使用运行时断言（run-time assertion）检测混淆问题，运行时断言可以通过在编译时定义`EIGEN_NO_DEBUG`宏进行关闭；
-3. 可以使用以下两种方法解决混淆问题：
+3. 可以通过以下两种方法解决混淆问题：
 
     - 使用`eval()`成员函数将等号右值保存为临时变量，在赋值时进行拷贝构造：
 
@@ -789,7 +789,7 @@ Vector3d trans = trans1 + ratio * (trans2 - trans1);
 
 #### 包含Eigen对象的类和结构体
 
-1. 对于包含固定大小可向量化的Eigen对象的类和结构体，如果需要使用`new`关键字进行动态内存分配，则需要将宏`EIGEN_MAKE_ALIGNED_OPERATOR_NEW`声明为类和结构体的公有成员，这样在动态内存分配时会自动进行内存对齐：
+1. 对于包含固定大小可向量化的Eigen对象的类和结构体，如果需要使用`new`运算符进行动态内存分配，则需要将宏`EIGEN_MAKE_ALIGNED_OPERATOR_NEW`声明为类和结构体的公有成员，这样在动态内存分配时会自动进行内存对齐：
 
     ```cpp
     class Foo {
@@ -828,7 +828,7 @@ Vector3d trans = trans1 + ratio * (trans2 - trans1);
     - 如果使用C++17标准进行编译则不需要上述操作，因为C++17标准有对于超出默认对齐尺寸数据的动态内存分配机制；
     - 在C++17标准下，宏`EIGEN_MAKE_ALIGNED_OPERATOR_NEW_IF`定义为空；
 
-3. 如果不想在多处声明宏`EIGEN_MAKE_ALIGNED_OPERATOR_NEW`，可以通过以下两个方法：
+3. 如果不想在多处声明宏`EIGEN_MAKE_ALIGNED_OPERATOR_NEW`，可以通过以下两种方法：
 
     - 使用`DontAlign`关闭内存对齐，但是这会带来加载和存储上的额外耗时，具体影响程度主要取决于硬件：
 
@@ -937,6 +937,23 @@ Vector3d trans = trans1 + ratio * (trans2 - trans1);
 
     - 原因是在值传递的过程中不考虑Eigen对象的内存对齐修饰符（alignment modifier）；
     - Eigen对象作为函数返回值不受影响；
+
+#### 创建指向Eigen对象的智能指针
+
+1. 在创建指向Eigen对象的智能指针时不能使用`std::make_shared()`，因为其使用的是默认的`new`运算符，忽略了重载后的`new`运算符，存在内存对齐问题；
+2. 可以通过以下两种方法创建指向Eigen对象的智能指针：
+
+    - 使用重载后的`new`运算符，显式调用智能指针构造函数：
+
+        ```cpp
+        std::shared_ptr<A> spA = std::shared_ptr<A>(new A(args));
+        ```
+
+    - 使用Eigen定义的堆内存管理器`aligned_allocator`以及`std::allocate_shared()`：
+
+        ```cpp
+        std::shared_ptr<A> spA = std::allocate_shared<A>(aligned_allocator<A>(), args);
+        ```
 
 ### C++11中的`auto`关键字
 
@@ -1089,7 +1106,8 @@ Vector3d trans = trans1 + ratio * (trans2 - trans1);
 28. [Eigen内存对齐-卷儿的文章-知乎](https://zhuanlan.zhihu.com/p/349413376)
 29. [一文带你了解Eigen内存对齐-王方浩的文章-知乎](https://zhuanlan.zhihu.com/p/618716343)
 30. [Eigen库在使用的过程出现warning：在堆上分配的对象可能不是对齐16，什么原因呢？-王方浩的回答-知乎](https://www.zhihu.com/question/38315455/answer/2963625338)
-31. [Lazy Evaluation and Aliasing](http://www.eigen.tuxfamily.org/dox/TopicLazyEvaluation.html)
-32. [eager evaluation (及早求值) & lazy evaluation (惰性求值)-CSDN博客](https://blog.csdn.net/JNingWei/article/details/80047122)
-33. [noalias()-CSDN博客](https://blog.csdn.net/weixin_30550081/article/details/95276173)
-34. [Eigen常见的坑-管清文的文章-知乎](https://zhuanlan.zhihu.com/p/32226967)
+31. [Eigen与std::make_shared，std::unique_ptr搭配使用的采坑记录-minxuan的文章-知乎](https://zhuanlan.zhihu.com/p/297911301)
+32. [Lazy Evaluation and Aliasing](http://www.eigen.tuxfamily.org/dox/TopicLazyEvaluation.html)
+33. [eager evaluation (及早求值) & lazy evaluation (惰性求值)-CSDN博客](https://blog.csdn.net/JNingWei/article/details/80047122)
+34. [noalias()-CSDN博客](https://blog.csdn.net/weixin_30550081/article/details/95276173)
+35. [Eigen常见的坑-管清文的文章-知乎](https://zhuanlan.zhihu.com/p/32226967)
