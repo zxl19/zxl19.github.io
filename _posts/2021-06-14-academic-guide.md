@@ -59,9 +59,10 @@ pinned: false
 9. [rubickCenter/rubick](https://github.com/rubickCenter/rubick)
 10. [THUDM/CodeGeeX2](https://github.com/THUDM/CodeGeeX2)
 11. [paul-gauthier/aider](https://github.com/paul-gauthier/aider)
-12. [nishiwen1214/ChatReviewer](https://github.com/nishiwen1214/ChatReviewer)
-13. [WangRongsheng/ChatGenTitle](https://github.com/WangRongsheng/ChatGenTitle)
-14. [talkingwallace/ChatGPT-Paper-Reader](https://github.com/talkingwallace/ChatGPT-Paper-Reader)
+12. [danielmiessler/fabric](https://github.com/danielmiessler/fabric)
+13. [nishiwen1214/ChatReviewer](https://github.com/nishiwen1214/ChatReviewer)
+14. [WangRongsheng/ChatGenTitle](https://github.com/WangRongsheng/ChatGenTitle)
+15. [talkingwallace/ChatGPT-Paper-Reader](https://github.com/talkingwallace/ChatGPT-Paper-Reader)
 
 ## 参考
 
