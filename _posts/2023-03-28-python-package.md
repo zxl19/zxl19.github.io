@@ -71,9 +71,10 @@ pip install，pip uninstall，拿起pip就是干！
 
 1. [argparse](https://docs.python.org/3/library/argparse.html)
 2. [google/python-fire](https://github.com/google/python-fire)
-3. [abseil/abseil-py](https://github.com/abseil/abseil-py)
-4. [kislyuk/argcomplete](https://github.com/kislyuk/argcomplete)
-5. [google/python-gflags](https://github.com/google/python-gflags)
+3. [pallets/click](https://github.com/pallets/click)
+4. [abseil/abseil-py](https://github.com/abseil/abseil-py)
+5. [kislyuk/argcomplete](https://github.com/kislyuk/argcomplete)
+6. [google/python-gflags](https://github.com/google/python-gflags)
 
 ### 配置文件参数
 
@@ -162,6 +163,8 @@ pip install，pip uninstall，拿起pip就是干！
 
 1. [Textualize/rich](https://github.com/Textualize/rich)
 2. [tartley/colorama](https://github.com/tartley/colorama)
+3. [sepandhaghighi/art](https://github.com/sepandhaghighi/art)
+4. [chubin/pyphoon](https://github.com/chubin/pyphoon)
 
 ### 进度条
 
