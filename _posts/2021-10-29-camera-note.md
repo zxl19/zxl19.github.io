@@ -21,8 +21,9 @@ pinned: false
 
 1. 主要需求是拍照，基本没有拍摄视频需求；
 2. 成像质量高，能真实记录颜色和光影，后期空间大（美观交给后期）；
-3. 便携性好，有人体工程学设计，可长时间携带使用；
-4. 结实耐用，最好有三防机身；
+3. 对焦准确，能实现对于拍摄对象的识别和跟踪；
+4. 便携性好，有人体工程学设计，可长时间携带使用；
+5. 结实耐用，最好有三防机身；
 
 ## 相机构造与参数
 
@@ -36,22 +37,22 @@ pinned: false
 
 按照结构，相机可以分为单反（Digital Single Lens Reflex，DSLR）和微单（mirrorless）两类。
 
-相机的基本分类和区别，主要参考[Linksphotograph](https://space.bilibili.com/3816626)、[彭弘Red](https://space.bilibili.com/55801838)和[-LKs-](https://space.bilibili.com/125526)的视频。
+相机的基本分类和区别，主要参考[橙红Iris](https://space.bilibili.com/19226160)和[Linksphotograph](https://space.bilibili.com/3816626)的视频。
 
-1. [你到底该买哪台相机？从品牌参数到预算需求，一个视频讲清楚丨新手相机选购指南【links】](https://www.bilibili.com/video/BV1754y1D7eW)
-2. [【科普】新手小白应该怎么挑选相机，2020年相机选购指南](https://www.bilibili.com/video/BV1MK411W7mc)
-3. [相机丨新手小白应该买什么相机？2021相机选购指南](https://www.bilibili.com/video/BV1v44y1672N)
-4. [我找了11位知名UP主评价自己拍视频的设备丨器材终极选购指南](https://www.bilibili.com/video/BV1tJ41187w6)
-5. [「收藏向」相机入门第一步！认识相机、明确需求、打破幻想！](https://www.bilibili.com/video/BV19h4y1B71c)
+1. [「收藏向」相机入门第一步！认识相机、明确需求、打破幻想！](https://www.bilibili.com/video/BV19h4y1B71c)
+2. [你到底该买哪台相机？从品牌参数到预算需求，一个视频讲清楚丨新手相机选购指南【links】](https://www.bilibili.com/video/BV1754y1D7eW)
+3. [【2021年相机选购】新手小白应该买什么相机？](https://www.bilibili.com/video/BV1v44y1672N)
+4. [【2020年相机选购】新手小白应该怎么挑选相机](https://www.bilibili.com/video/BV1MK411W7mc)
+5. [我找了11位知名UP主评价自己拍视频的设备丨器材终极选购指南](https://www.bilibili.com/video/BV1tJ41187w6)
 
 ### 重要参数
 
 主要包括感光元件类型和大小、焦距、光圈大小、像素、连拍速度等。
 
-1. [【DPReview】中画幅的景深真有这么神奇吗？](https://www.bilibili.com/video/BV19S4y1k7m2)
-2. [【DPReview】低像素的高感画质真有这么神奇吗？](https://www.bilibili.com/video/BV1pi4y117rq)
-3. [【DPReview 4K】什么是镜头的呼吸效应？（以及你为什么要在乎这件事）](https://www.bilibili.com/video/BV1RX4y157kh)
-4. [【DPReview】传感器的尺寸根本不讲道理 但是我们把问题解决了](https://www.bilibili.com/video/BV1fB4y1x7M8)
+1. [【DPReview】传感器的尺寸根本不讲道理 但是我们把问题解决了](https://www.bilibili.com/video/BV1fB4y1x7M8)
+2. [【DPReview】中画幅的景深真有这么神奇吗？](https://www.bilibili.com/video/BV19S4y1k7m2)
+3. [【DPReview】低像素的高感画质真有这么神奇吗？](https://www.bilibili.com/video/BV1pi4y117rq)
+4. [【DPReview 4K】什么是镜头的呼吸效应？（以及你为什么要在乎这件事）](https://www.bilibili.com/video/BV1RX4y157kh)
 
 ## 相机使用与清洁保养
 
@@ -78,15 +79,14 @@ pinned: false
 
 清洁保养主要使用气吹（推荐单向带滤网或者NITECORE）、擦镜纸（推荐蔡司）、CMOS清洁棒（推荐VSGO）等。
 
-1. [【熊猫】为什么你的镜头越擦越脏 相机CMOS传感器和镜头如何清洁的正确示范【教程技巧】[启宁qinings.com]](https://www.bilibili.com/video/BV1it411b7gd)
-2. [【顾俊】如何清洁你的相机和镜头！](https://www.bilibili.com/video/BV18b411n7u7)
-3. [【顾俊】清洁相机传感器居然是如此的简单？！](https://www.bilibili.com/video/BV1iQ4y1M7wz)
-4. [相机镜头全面清洁指南：自己清理CMOS传感器其实比想象中简单多了，清洁用品买哪家，迷你版对比测试](https://www.bilibili.com/video/BV1vR4y147T7)
-5. [擦镜头是件陶冶情操的小事，如何自己安全清洁镜头和滤镜](https://www.bilibili.com/video/BV1DK411c7DB)
-6. [【DPReview 4K】受损的镜头会如何影响画质（灰尘、液体、指印和划痕）](https://www.bilibili.com/video/BV1za4y1Y75V)
-7. [【DPReview 4K】如何清洁（毁灭）你的镜头](https://www.bilibili.com/video/BV1Bz4y1Q7PZ)
-8. [【DPReview】如何清洁（毁灭）你的相机传感器](https://www.bilibili.com/video/BV1MY4y1b7Uh)
-9. [CMOS能清洁吗？3分钟学会正确的传感器清洁方法！](https://www.bilibili.com/video/BV1g84y1J7Dt)
+1. [【顾俊】如何清洁你的相机和镜头！](https://www.bilibili.com/video/BV18b411n7u7)
+2. [【顾俊】清洁相机传感器居然是如此的简单？！](https://www.bilibili.com/video/BV1iQ4y1M7wz)
+3. [相机镜头全面清洁指南：自己清理CMOS传感器其实比想象中简单多了，清洁用品买哪家，迷你版对比测试](https://www.bilibili.com/video/BV1vR4y147T7)
+4. [擦镜头是件陶冶情操的小事，如何自己安全清洁镜头和滤镜](https://www.bilibili.com/video/BV1DK411c7DB)
+5. [【DPReview 4K】受损的镜头会如何影响画质（灰尘、液体、指印和划痕）](https://www.bilibili.com/video/BV1za4y1Y75V)
+6. [【DPReview 4K】如何清洁（毁灭）你的镜头](https://www.bilibili.com/video/BV1Bz4y1Q7PZ)
+7. [【DPReview】如何清洁（毁灭）你的相机传感器](https://www.bilibili.com/video/BV1MY4y1b7Uh)
+8. [CMOS能清洁吗？3分钟学会正确的传感器清洁方法！](https://www.bilibili.com/video/BV1g84y1J7Dt)
 
 ## 相机品牌选择
 
@@ -95,9 +95,9 @@ pinned: false
 1. [【DPReview】尼康相机的好与坏](https://www.bilibili.com/video/BV1ht4y1H7fB)
 2. [【DPReview】索尼α相机的好与坏](https://www.bilibili.com/video/BV17S4y1m7d4)
 3. [【DPReview】佳能相机的好与坏](https://www.bilibili.com/video/BV1UY4y1z7Ee)
-4. [【DPReview】松下相机的好与坏](https://www.bilibili.com/video/BV1or4y157of)
-5. [【DPReview】徕卡的好与坏](https://www.bilibili.com/video/BV1Gd4y1R7aQ)
-6. [【DPReview】富士相机的好与坏](https://www.bilibili.com/video/BV1D14y1H7xH)
+4. [【DPReview】富士相机的好与坏](https://www.bilibili.com/video/BV1D14y1H7xH)
+5. [【DPReview】松下相机的好与坏](https://www.bilibili.com/video/BV1or4y157of)
+6. [【DPReview】徕卡的好与坏](https://www.bilibili.com/video/BV1Gd4y1R7aQ)
 7. [【PetaPixel】盘点厂家们的得与失](https://www.bilibili.com/video/BV1334y1N7nG)
 
 ### 横向测评
@@ -108,6 +108,8 @@ pinned: false
 2. [【毒德大学字幕组】DPReview中端APS-C画幅相机横评](https://www.bilibili.com/video/BV1JJ411Q7WA)
 3. [【DPReview】年轻人的第一台相机？入门级APS-C画幅无反横评](https://www.bilibili.com/video/BV1oE411T7vV)
 4. [【DPReview】拍立得相机横评](https://www.bilibili.com/video/BV1u44y1f7iy)
+5. [【DPReview】3种价位中 最适合街头摄影的相机（2022版）](https://www.bilibili.com/video/BV1F44y1d7hq)
+6. [干货丨如何选择街拍相机？停产的、常用的，一台一台讲给你听！](https://www.bilibili.com/video/BV11G411f7fK)
 
 ### 购买渠道
 

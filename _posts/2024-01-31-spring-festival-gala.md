@@ -32,7 +32,7 @@ pinned: false
 当时只道是寻常。
 ```
 
-| 序号 | 节目名 | 主要表演者 | 时间 | 链接 |
+| 序号 | 节目名 | 表演者 | 时间 | 链接 |
 | :--- | :--- | :--- | :--- | :--- |
 | 1 | 欢歌贺新春 | 群星 | 2013 | [BV1ng411H7ED](https://www.bilibili.com/video/BV1ng411H7ED) |
 | 2 | 旧曲新歌 | 冯巩、郭冬临 | 2000 | [BV1YZ4y1v7DV](https://www.bilibili.com/video/BV1YZ4y1v7DV) |
@@ -56,7 +56,7 @@ pinned: false
 | 20 | 忘情水 | 刘德华 | 1995 | [BV1Bd4y1g77Y](https://www.bilibili.com/video/BV1Bd4y1g77Y) |
 | 21 | 雾里看花 | 那英 | 1995 | [BV1as411G7FB](https://www.bilibili.com/video/BV1as411G7FB) |
 | 22 | 如此包装 | 赵丽蓉、巩汉林、孟薇等 | 1995 | [BV1qS4y1j7SX](https://www.bilibili.com/video/BV1qS4y1j7SX) |
-| 23 | 打工奇遇 | 赵丽蓉、巩汉林、金珠等 | 1996 | [BV1jx41187BY](https://www.bilibili.com/video/BV1jx41187BY) |
+| 23 | 打工奇遇 | 赵丽蓉、巩汉林、金珠 | 1996 | [BV1jx41187BY](https://www.bilibili.com/video/BV1jx41187BY) |
 | 24 | 过河 | 潘长江、闫淑 | 1996 | [BV1nx411g7q4](https://www.bilibili.com/video/BV1nx411g7q4) |
 | 25 | 常回家看看 | 陈红、蔡国庆、张迈、江涛 | 1998 | [BV1454y1Q7Gh](https://www.bilibili.com/video/BV1454y1Q7Gh) |
 | 26 | 健康歌 | 解晓东、范晓萱 | 1998 | [BV1Us411b7V1](https://www.bilibili.com/video/BV1Us411b7V1) |
@@ -64,18 +64,18 @@ pinned: false
 | 28 | 相约一九九八 | 那英、王菲 | 1998 | [BV14s411e7iV](https://www.bilibili.com/video/BV14s411e7iV) |
 | 29 | 走进新时代 | 李光曦、李谷一、张也 | 1998 | [BV1wB4y1b7HM](https://www.bilibili.com/video/BV1wB4y1b7HM) |
 | 30 | 好日子 | 宋祖英 | 1998 | [BV1vt41167HF](https://www.bilibili.com/video/BV1vt41167HF) |
-| 31 | 打气儿 | 黄宏、句号 | 1999 | [BV1tb411c7Qs](https://www.bilibili.com/video/BV1tb411c7Qs) |
-| 32 | 越来越好 | 宋祖英 | 2001 | [BV1PP411c74y](https://www.bilibili.com/video/BV1PP411c74y) |
-| 33 | 对面的女孩看过来 | 任贤齐 | 1999 | [BV13K411A7Y3](https://www.bilibili.com/video/BV13K411A7Y3) |
-| 34 | 好运来 | 祖海 | 2003 | [BV1oY4y1T7uq](https://www.bilibili.com/video/BV1oY4y1T7uq) |
-| 35 | 风雨彩虹 铿锵玫瑰 | 田震 | 2003 | [BV1VG411N7eC](https://www.bilibili.com/video/BV1VG411N7eC) |
-| 36 | 至少还有你 | 林忆莲 | 2003 | [BV1je411c73h](https://www.bilibili.com/video/BV1je411c73h) |
-| 37 | 如此指导 | 柏林、卓林 | 2004 | [BV1yp411f7Dc](https://www.bilibili.com/video/BV1yp411f7Dc) |
-| 38 | 千手观音 | 邰丽华等 | 2005 | [BV1QW411e7Ey](https://www.bilibili.com/video/BV1QW411e7Ey) |
-| 39 | 天路 | 韩红 | 2005 | [BV1z24y1P7fg](https://www.bilibili.com/video/BV1z24y1P7fg) |
-| 40 | 装修 | 黄宏、巩汉林、林永健 | 2005 | [BV1Xa41167yt](https://www.bilibili.com/video/BV1Xa41167yt) |
-| 41 | 挥着翅膀的女孩 | 容祖儿 | 2005 | [BV1Lv411k72z](https://www.bilibili.com/video/BV1Lv411k72z) |
-| 42 | 你是我的玫瑰花 | 庞龙 | 2005 | [BV1fu4y1f7A2](https://www.bilibili.com/video/BV1fu4y1f7A2) |
+| 31 | 对面的女孩看过来 | 任贤齐 | 1999 | [BV13K411A7Y3](https://www.bilibili.com/video/BV13K411A7Y3) |
+| 32 | 欢乐中国年 | 孙悦、解晓东 | 1999 | [BV12F411P7dQ](https://www.bilibili.com/video/BV12F411P7dQ) |
+| 33 | 打气儿 | 黄宏、句号 | 1999 | [BV1tb411c7Qs](https://www.bilibili.com/video/BV1tb411c7Qs) |
+| 34 | 越来越好 | 宋祖英 | 2001 | [BV1PP411c74y](https://www.bilibili.com/video/BV1PP411c74y) |
+| 35 | 好运来 | 祖海 | 2003 | [BV1oY4y1T7uq](https://www.bilibili.com/video/BV1oY4y1T7uq) |
+| 36 | 风雨彩虹 铿锵玫瑰 | 田震 | 2003 | [BV1VG411N7eC](https://www.bilibili.com/video/BV1VG411N7eC) |
+| 37 | 至少还有你 | 林忆莲 | 2003 | [BV1je411c73h](https://www.bilibili.com/video/BV1je411c73h) |
+| 38 | 如此指导 | 柏林、卓林 | 2004 | [BV1yp411f7Dc](https://www.bilibili.com/video/BV1yp411f7Dc) |
+| 39 | 千手观音 | 邰丽华等 | 2005 | [BV1QW411e7Ey](https://www.bilibili.com/video/BV1QW411e7Ey) |
+| 40 | 天路 | 韩红 | 2005 | [BV1z24y1P7fg](https://www.bilibili.com/video/BV1z24y1P7fg) |
+| 41 | 装修 | 黄宏、巩汉林、林永健 | 2005 | [BV1Xa41167yt](https://www.bilibili.com/video/BV1Xa41167yt) |
+| 42 | 挥着翅膀的女孩 | 容祖儿 | 2005 | [BV1Lv411k72z](https://www.bilibili.com/video/BV1Lv411k72z) |
 | 43 | 爱情36计 | 蔡依林 | 2005 | [BV1ex411u7q4](https://www.bilibili.com/video/BV1ex411u7q4) |
 | 44 | 浪漫的事 | 郭达、蔡明、韩影、于恒 | 2005 | [BV17W4y117EQ](https://www.bilibili.com/video/BV17W4y117EQ) |
 | 45 | 吉祥三宝 | 布仁巴雅尔、乌日娜、英格玛 | 2006 | [BV1aL411G7mH](https://www.bilibili.com/video/BV1aL411G7mH) |
@@ -101,7 +101,7 @@ pinned: false
 | 65 | 扶不扶 | 沈腾、马丽、杜晓宇 | 2014 | [BV1Js411p7e9](https://www.bilibili.com/video/BV1Js411p7e9) |
 | 66 | 茉莉花&我心永恒 | 宋祖英、席琳·迪翁 | 2013 | [BV1wx411a7Ty](https://www.bilibili.com/video/BV1wx411a7Ty) |
 | 67 | 大城小事 | 王宁、艾伦、常远 | 2013 | [BV1B5411y71B](https://www.bilibili.com/video/BV1B5411y71B) |
-| 68 | 你摊上事了 | 孙涛、秦海璐、方青平等 | 2013 | [BV1ix41147SR](https://www.bilibili.com/video/BV1ix41147SR) |
+| 68 | 你摊上事了 | 孙涛、秦海璐、方青平、王茜华 | 2013 | [BV1ix41147SR](https://www.bilibili.com/video/BV1ix41147SR) |
 | 69 | 风吹麦浪 | 李健、孙俪 | 2013 | [BV1ns411M7Fz](https://www.bilibili.com/video/BV1ns411M7Fz) |
 | 70 | 想你的365天 | 李玟、张靓颖、沙宝亮、林志炫 | 2014 | [BV1JW411M7Nf](https://www.bilibili.com/video/BV1JW411M7Nf) |
 | 71 | 情非得已 | 庾澄庆、李敏镐 | 2014 | [BV1rW411Y7Rj](https://www.bilibili.com/video/BV1rW411Y7Rj) |
@@ -123,7 +123,7 @@ pinned: false
 | 87 | 说事儿 | 赵本山、宋丹丹、崔永元 | 2006 | [BV1K94y1X7Ca](https://www.bilibili.com/video/BV1K94y1X7Ca) |
 | 88 | 卖拐 | 赵本山、范伟、高秀敏 | 2001 | [BV1Tf4y1w7Kd](https://www.bilibili.com/video/BV1Tf4y1w7Kd) |
 | 89 | 零点钟声 | 董卿、朱军、李咏、毕福剑、邓鸣贺 | 2012 | [BV1Sa4y1h7SY](https://www.bilibili.com/video/BV1Sa4y1h7SY) |
-| 90 | 难忘今宵 | 李谷一、刘雨欣等 | 2018 | [BV1eW411j7Qh](https://www.bilibili.com/video/BV1eW411j7Qh) |
+| 90 | 难忘今宵 | 李谷一 | 1984 | [BV1uF411p7aF](https://www.bilibili.com/video/BV1uF411p7aF) |
 
 ## UP主
 

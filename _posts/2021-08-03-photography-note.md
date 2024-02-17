@@ -76,12 +76,18 @@ pinned: false
 大家注意啊！现在啊，白平衡自动，ISO100，光圈11（吸气声），光圈优先，现在开始拍！
 ```
 
+```text
+苦学摄影多年，只为求得今日一鸣惊人，无数牛逼的构图在我脑海里疯狂浮现，诸位，献丑了！
+```
+
 - 《美国纽约摄影学院摄影教材》
 - 《一本摄影书》
 - 《旅行摄影圣经》
 
 1. [推荐一些摄影有关的书籍-平老虎的文章-知乎](https://zhuanlan.zhihu.com/p/44462745)
 2. [【干货】获奖摄影师的学习方法！从0到职业该如何有方法的学习？](https://www.bilibili.com/video/BV14K411K7df)
+3. [号称“摄影耶稣光、中华李万江”的李老师名场面合集！](https://www.bilibili.com/video/BV1yC4y1u7a5)
+4. [苦学摄影多年 只为求得今日一鸣惊人](https://www.bilibili.com/video/BV1Km4y1j7KQ)
 
 ## 前期准备
 
@@ -171,16 +177,17 @@ pinned: false
 28. [摄瘾研究所](https://space.bilibili.com/245627923)
 29. [摄影师姚佳俊](https://space.bilibili.com/386460499)
 30. [木易小月_](https://space.bilibili.com/333497492)
-31. [毒德大学字幕组](https://space.bilibili.com/8990248)
-32. [ThomasHeaton官方频道](https://space.bilibili.com/1006125507)
-33. [英国风光摄影师Nigel](https://space.bilibili.com/1549051576)
-34. [NOFACE不是大触](https://space.bilibili.com/4012943)
-35. [皇马卦HMAPHOTO](https://space.bilibili.com/16198806)
-36. [即影InstAmour](https://space.bilibili.com/14118905)
-37. [蜂鸟TalkShow](https://space.bilibili.com/1343434879)
-38. [HSINYALIN_林星亚](https://space.bilibili.com/7695611)
-39. [平老虎](https://space.bilibili.com/56744081)
-40. [Moden王先生](https://space.bilibili.com/700673344)
+31. [暂时没相机](https://space.bilibili.com/31858444)
+32. [毒德大学字幕组](https://space.bilibili.com/8990248)
+33. [ThomasHeaton官方频道](https://space.bilibili.com/1006125507)
+34. [英国风光摄影师Nigel](https://space.bilibili.com/1549051576)
+35. [NOFACE不是大触](https://space.bilibili.com/4012943)
+36. [皇马卦HMAPHOTO](https://space.bilibili.com/16198806)
+37. [即影InstAmour](https://space.bilibili.com/14118905)
+38. [蜂鸟TalkShow](https://space.bilibili.com/1343434879)
+39. [HSINYALIN_林星亚](https://space.bilibili.com/7695611)
+40. [平老虎](https://space.bilibili.com/56744081)
+41. [Moden王先生](https://space.bilibili.com/700673344)
 
 ## 相关网站
 

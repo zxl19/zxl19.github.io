@@ -32,6 +32,13 @@ pinned: false
     - 为了减小暗角并且在不同口径的镜头下使用同一套ND滤镜，建议使用偏大尺寸的ND滤镜，例如82mm，通过转接环转接使用；
 4. 长曝光对于照片画质有一定影响，曝光时间越长，产生的噪点越多，对于后期的要求越高；
 
+主要参考[旅行摄影师唐僧](https://space.bilibili.com/405561962)的视频。
+
+1. [哈苏官网样张的原图竟是这样的? 揭秘! 卖照片2天能赚多少钱?](https://www.bilibili.com/video/BV1kK42117GL)
+2. [我是怎么在白天拍一张341秒超长曝光照片的？我是怎么使用减光镜的？](https://www.bilibili.com/video/BV1Kh411f7v2)
+3. [20分钟长曝光能拍出这样的迷人效果？流言终结？](https://www.bilibili.com/video/BV18V411t7mw)
+4. [长曝、极简、我在西藏林芝的机位分享！](https://www.bilibili.com/video/BV14A411g77a)
+
 ## 延时摄影
 
 延时摄影指的是按照固定时间间隔拍摄多张照片，后期生成一段视频或者合成一张照片的拍摄方法，需要使用相机的间隔拍摄功能。由于单张照片的曝光时间远低于长曝光，后期可以剔除拍摄效果不好的照片，只保留拍摄效果好的照片进行合成，同时照片的后期空间比视频大，因此延时摄影的成功率相对较高。
@@ -45,10 +52,11 @@ pinned: false
 
 堆栈合成指的是在固定机位下拍摄多张照片，后期合成一张照片的拍摄方法，常用于代替风景类题材的长曝光或者生成天文类题材的序列照片。
 
-1. [拍摄车轨，不要在用减光镜长曝光了，今天教你多张拍摄，堆栈合成。](https://www.bilibili.com/video/BV1qa41147mn)
-2. [【教学】星轨怎么拍？三分钟学会星轨前期拍摄及后期处理！](https://www.bilibili.com/video/BV1oK411q7Mi)
-3. [【教程】超简单！花1分钟学会制作星轨拖尾延时！](https://www.bilibili.com/video/BV1i8411u7PL)
-4. [难得一遇的月全食马上就要来了，如何拍摄出好看的月全食照片？这个视频收藏起来](https://www.bilibili.com/video/BV1YD4y1t7YB)
+1. [“堆栈”突破画质极限](https://www.bilibili.com/video/BV19A411c7nj)
+2. [拍摄车轨，不要在用减光镜长曝光了，今天教你多张拍摄，堆栈合成。](https://www.bilibili.com/video/BV1qa41147mn)
+3. [【教学】星轨怎么拍？三分钟学会星轨前期拍摄及后期处理！](https://www.bilibili.com/video/BV1oK411q7Mi)
+4. [【教程】超简单！花1分钟学会制作星轨拖尾延时！](https://www.bilibili.com/video/BV1i8411u7PL)
+5. [难得一遇的月全食马上就要来了，如何拍摄出好看的月全食照片？这个视频收藏起来](https://www.bilibili.com/video/BV1YD4y1t7YB)
 
 ## 包围摄影
 
@@ -68,12 +76,30 @@ pinned: false
 1. [【LR+PS教程】景深合成的后期操作方法，将对焦包围拍摄的五张照片合成为一张](https://www.bilibili.com/video/BV1DL411K7bd)
 2. [冰河边的8分钟长曝光，利用对焦包围进行景深合成，富士GF 45-100mm的首次出镜](https://www.bilibili.com/video/BV1sm4y1d7xT)
 3. [摄影王炸组合技！景深合成+曝光合成](https://www.bilibili.com/video/BV1XD4y1m7E6)
+4. [全景深微距摄影你会吗?焦点堆栈拍摄手动自动方法分享!一只用了四年的老金贝HD400单灯拍摄](https://www.bilibili.com/video/BV1VY4y1e7jt)
+
+## 闪光灯
+
+常用于提高前景亮度，同时提高快门速度降低背景亮度，实现特殊的视觉效果。
+
+1. [从零学用光](https://space.bilibili.com/110683415/channel/collectiondetail?sid=262445)
+2. [新手使用机顶闪光灯常见问题答疑（一）丨建议收藏](https://www.bilibili.com/video/BV1VN4y1R77w)
+3. [新中式人像拍摄技巧丨闪光灯与自然光的巧妙结合](https://www.bilibili.com/video/BV1XA411U7mr)
+4. [划时代的速度相机：我用A9M3拍下了极致的中式浪漫](https://www.bilibili.com/video/BV1ZF4m1T7n9)
+5. [林海音丨如何用一盏小闪光灯拍出质感人像](https://www.bilibili.com/video/BV1Ki4y1F7Ud)
+6. [【阴天用闪光灯为什么会被喷】 如何应用闪光灯 阴天使用闪光灯 闪光灯拍人像](https://www.bilibili.com/video/BV1uL411P7zH)
+7. [【毒德大学字幕组】DPReview 佳能Canon Speedlite 470EX-AI闪光灯 人像摄影实战](https://www.bilibili.com/video/BV1Wb411p7Vi)
 
 ## 微距摄影
 
 1. [【DPReview】您就是列文虎克？ 胡子哥陪你学微距](https://www.bilibili.com/video/BV1TE411K7dQ)
 2. [【DPReview】微距教学 - 冰晶泡泡](https://www.bilibili.com/video/BV1y741127NY)
 3. [【DPReview】玩转虚化摄影](https://www.bilibili.com/video/BV1te411s7Ew)
+
+## 打印
+
+1. [把回忆打印成照片吧丨Links](https://www.bilibili.com/video/BV16R4y1p7Lc)
+2. [【硬核】怎样打印完美巨幅摄影作品？控色、装裱实战详解！丨VLOG-90](https://www.bilibili.com/video/BV1Ut4y1d77t)
 
 ## 参考
 
