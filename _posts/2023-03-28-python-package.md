@@ -58,6 +58,7 @@ pip install，pip uninstall，拿起pip就是干！
 1. [os](https://docs.python.org/3/library/os.html)
 2. [pathlib](https://docs.python.org/3/library/pathlib.html)
 3. [shutil](https://docs.python.org/3/library/shutil.html)
+4. [gorakhargosh/watchdog](https://github.com/gorakhargosh/watchdog)
 
 ## 日期时间
 
@@ -147,8 +148,9 @@ pip install，pip uninstall，拿起pip就是干！
 
 ### 图分析
 
-1. [networkx/networkx](https://github.com/networkx/networkx)
-2. [igraph/python-igraph](https://github.com/igraph/python-igraph)
+1. [graphlib](https://docs.python.org/3/library/graphlib.html)
+2. [networkx/networkx](https://github.com/networkx/networkx)
+3. [igraph/python-igraph](https://github.com/igraph/python-igraph)
 
 ### 图可视化
 
