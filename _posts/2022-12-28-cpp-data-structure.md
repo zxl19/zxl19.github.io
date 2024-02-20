@@ -21,9 +21,11 @@ pinned: false
 
 ```cpp
 struct ListNode {
-    int val;                                    // 当前节点的值
-    struct ListNode *next;                      // 指向下一个节点的指针
-    ListNode(int x) : val(x), next(nullptr) {}  // 初始化当前结点值为x，指针为空
+  int val;                                                 // 当前节点的值
+  ListNode* next;                                          // 指向下一个节点的指针
+  ListNode() : val(0), next(nullptr) {}                    // 构造函数，初始化当前结点值为0，指针为空
+  ListNode(int x) : val(x), next(nullptr) {}               // 构造函数，初始化当前结点值为x，指针为空
+  ListNode(int x, ListNode* next) : val(x), next(next) {}  // 构造函数，初始化当前结点值为x，指针非空
 };
 ```
 
@@ -33,10 +35,13 @@ struct ListNode {
 
 ```cpp
 struct TreeNode {
-    int val;                                                    // 当前节点的值
-    TreeNode *left;                                             // 左指针
-    TreeNode *right;                                            // 右指针
-    TreeNode(int x) : val(x), left(nullptr), right(nullptr) {}  // 初始化当前结点值为x，左右指针为空
+  int val;                                               // 当前节点的值
+  TreeNode* left;                                        // 左指针
+  TreeNode* right;                                       // 右指针
+  TreeNode() : val(0), left(nullptr), right(nullptr) {}  // 构造函数，初始化当前结点值为0，左右指针为空
+  TreeNode(int x) : val(x), left(nullptr), right(nullptr) {}  // 构造函数，初始化当前结点值为x，左右指针为空
+  TreeNode(int x, TreeNode* left, TreeNode* right)
+      : val(x), left(left), right(right) {}  // 构造函数，初始化当前结点值为x，左右指针非空
 };
 ```
 
@@ -49,24 +54,24 @@ struct TreeNode {
 ```cpp
 // 前序遍历
 void pre_order(TreeNode* Node) {
-    if (Node == nullptr) return;
-    std::cout << "Node Data: " << Node->data << std::endl;
-    pre_order(Node->left);
-    pre_order(Node->right);
+  if (Node == nullptr) return;
+  std::cout << "Node Data: " << Node->data << std::endl;
+  pre_order(Node->left);
+  pre_order(Node->right);
 }
 // 中序遍历
 void middle_order(TreeNode* Node) {
-    if (Node == nullptr) return;
-    middle_order(Node->left);
-    std::cout << "Node Data: " << Node->data << std::endl;
-    middle_order(Node->right);
+  if (Node == nullptr) return;
+  middle_order(Node->left);
+  std::cout << "Node Data: " << Node->data << std::endl;
+  middle_order(Node->right);
 }
 // 后序遍历
 void post_order(TreeNode* Node) {
-    if (Node == nullptr) return;
-    post_order(Node->left);
-    post_order(Node->right);
-    std::cout << "Node Data: " << Node->data << std::endl;
+  if (Node == nullptr) return;
+  post_order(Node->left);
+  post_order(Node->right);
+  std::cout << "Node Data: " << Node->data << std::endl;
 }
 ```
 
@@ -91,5 +96,6 @@ void post_order(TreeNode* Node) {
 
 ## 参考
 
-1. [链表-腾讯云](https://cloud.tencent.com/developer/article/1656468)
-2. [二叉树-CSDN博客](https://blog.csdn.net/u013834525/article/details/80421684)
+1. [力扣LeetCode](https://leetcode.cn)
+2. [链表-腾讯云](https://cloud.tencent.com/developer/article/1656468)
+3. [二叉树-CSDN博客](https://blog.csdn.net/u013834525/article/details/80421684)

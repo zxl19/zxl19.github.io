@@ -295,6 +295,21 @@ LaTeX语言扩展，配置`latex-workshop.latex.tools`、`latex-workshop.latex.r
     }
     ```
 
+### LeetCode
+
+算法刷题扩展，类似的扩展还有LeetCode with labuladong、牛客、Pintia。
+
+1. 安装Node.js，安装完成后需要重启VS Code：
+
+    ```shell
+    sudo apt install nodejs
+    ```
+
+2. 在设置中选择默认编程语言为`cpp`；
+3. 在设置中选择LeetCode站点为`leetcode-cn`；
+4. 使用用户名和密码登录LeetCode账号；
+5. 题目默认保存在`~/.leetcode`文件夹中；
+
 ### Luna Paint——Image Editor
 
 图片编辑扩展，支持多种图片格式。
@@ -559,25 +574,29 @@ syntax = "proto3";
 14. [vscode实用插件推荐-很酷的程序员的文章-知乎](https://zhuanlan.zhihu.com/p/441608260)
 15. [vscode有没有性能优化插件？-秃头披风侠cc的回答-知乎](https://www.zhihu.com/question/441992533/answer/2430995843)
 16. [那些你应该考虑卸载的VSCode扩展-余腾靖的文章-知乎](https://zhuanlan.zhihu.com/p/125773296)
-17. [微软再出神器，这次终于对Python下手了！-Jackpop的文章-知乎](https://zhuanlan.zhihu.com/p/154108630)
-18. [vscode有哪些让人眼前一亮的插件?-量子位的回答-知乎](https://www.zhihu.com/question/311803609/answer/1296896019)
-19. [超越鼓励师for VS Code，写代码不再孤单，有杨超越与你同在-韩骏的文章-知乎](https://zhuanlan.zhihu.com/p/61790645)
-20. [太赞了，VSCode上也能画流程图了！-GitHub Daily的文章-知乎](https://zhuanlan.zhihu.com/p/140895359)
-21. [实时可视化Debug：VS Code开源新工具，一键解析代码结构](https://zhuanlan.zhihu.com/p/109212146)
-22. [Markdown完美转PDF-简书](https://www.jianshu.com/p/4856a78b96b6)
-23. [Visual Studio会被VS Code及各种插件取代吗？-知乎](https://www.zhihu.com/question/277139137/answer/1657100889)
-24. [使用clangd替代c/c++配置vscode c++项目-smallsunsun的文章-知乎](https://zhuanlan.zhihu.com/p/145430576)
-25. [最终，我看向了clangd-小钻风的文章-知乎](https://zhuanlan.zhihu.com/p/364518020)
-26. [如何优雅的用VScode编写C++大型项目？-惘客的回答-知乎](https://www.zhihu.com/question/353722203/answer/2564104885)
-27. [cxasm/cc-compare](https://github.com/cxasm/cc-compare)
-28. [YKB2333/Beyond-Compare](https://github.com/YKB2333/Beyond-Compare)
-29. [OBKoro1/koro1FileHeader](https://github.com/OBKoro1/koro1FileHeader)
-30. [Comment (computer programming)-Wikipedia](https://en.wikipedia.org/wiki/Comment_(computer_programming))
-31. [typst/typst](https://github.com/typst/typst)
-32. [nvarner/typst-lsp](https://github.com/nvarner/typst-lsp)
-33. [当你上班可以摸鱼的时候可以做些什么？-程序员阿德的回答-知乎](https://www.zhihu.com/question/365629693/answer/2127925726)
-34. [装上这几个VSCode插件后，上班划水摸鱼不是梦-GitHub Daily的文章-知乎](https://zhuanlan.zhihu.com/p/58302580)
-35. [炸裂！VSCode 摸鱼神器！！！-YYds的文章-知乎](https://zhuanlan.zhihu.com/p/408767088)
-36. [VS CODE恢复出厂设置-bilibili](https://www.bilibili.com/video/BV12B4y1479v)
-37. [Visual Studio Code on Linux-Common questions](https://code.visualstudio.com/docs/setup/linux#_common-questions)
-38. [Kite is saying farewell](https://www.kite.com/blog/product/kite-is-saying-farewell/)
+17. [当你上班可以摸鱼的时候可以做些什么？-程序员阿德的回答-知乎](https://www.zhihu.com/question/365629693/answer/2127925726)
+18. [装上这几个VSCode插件后，上班划水摸鱼不是梦-GitHub Daily的文章-知乎](https://zhuanlan.zhihu.com/p/58302580)
+19. [炸裂！VSCode 摸鱼神器！！！-YYds的文章-知乎](https://zhuanlan.zhihu.com/p/408767088)
+20. [Visual Studio会被VS Code及各种插件取代吗？-知乎](https://www.zhihu.com/question/277139137/answer/1657100889)
+21. [使用clangd替代c/c++配置vscode c++项目-smallsunsun的文章-知乎](https://zhuanlan.zhihu.com/p/145430576)
+22. [最终，我看向了clangd-小钻风的文章-知乎](https://zhuanlan.zhihu.com/p/364518020)
+23. [如何优雅的用VScode编写C++大型项目？-惘客的回答-知乎](https://www.zhihu.com/question/353722203/answer/2564104885)
+24. [Kite is saying farewell](https://www.kite.com/blog/product/kite-is-saying-farewell/)
+25. [实时可视化Debug：VS Code开源新工具，一键解析代码结构](https://zhuanlan.zhihu.com/p/109212146)
+26. [太赞了，VSCode上也能画流程图了！-GitHub Daily的文章-知乎](https://zhuanlan.zhihu.com/p/140895359)
+27. [OBKoro1/koro1FileHeader](https://github.com/OBKoro1/koro1FileHeader)
+28. [LeetCode-OpenSource/vscode-leetcode](https://github.com/LeetCode-OpenSource/vscode-leetcode)
+29. [如何将宇宙最强vscode打造为刷题神器-ACM算法日常的文章-知乎](https://zhuanlan.zhihu.com/p/354386295)
+30. [Pintia(拼题A)刷题插件on VS Code-金志超的文章-知乎](https://zhuanlan.zhihu.com/p/548041527)
+31. [如何在Ubuntu 20.04上安装Node.js和npm](https://developer.aliyun.com/article/760687)
+32. [Markdown完美转PDF-简书](https://www.jianshu.com/p/4856a78b96b6)
+33. [cxasm/cc-compare](https://github.com/cxasm/cc-compare)
+34. [YKB2333/Beyond-Compare](https://github.com/YKB2333/Beyond-Compare)
+35. [微软再出神器，这次终于对Python下手了！-Jackpop的文章-知乎](https://zhuanlan.zhihu.com/p/154108630)
+36. [vscode有哪些让人眼前一亮的插件?-量子位的回答-知乎](https://www.zhihu.com/question/311803609/answer/1296896019)
+37. [超越鼓励师for VS Code，写代码不再孤单，有杨超越与你同在-韩骏的文章-知乎](https://zhuanlan.zhihu.com/p/61790645)
+38. [Comment (computer programming)-Wikipedia](https://en.wikipedia.org/wiki/Comment_(computer_programming))
+39. [typst/typst](https://github.com/typst/typst)
+40. [nvarner/typst-lsp](https://github.com/nvarner/typst-lsp)
+41. [VS CODE恢复出厂设置-bilibili](https://www.bilibili.com/video/BV12B4y1479v)
+42. [Visual Studio Code on Linux-Common questions](https://code.visualstudio.com/docs/setup/linux#_common-questions)

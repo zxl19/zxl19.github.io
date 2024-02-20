@@ -25,7 +25,7 @@ pinned: false
 
 ### 录屏
 
-使用`Ctrl`+`Alt`+`Shift`+`R`开始和结束录制，默认保存在`Videos`文件夹下。
+使用`Ctrl`+`Alt`+`Shift`+`R`开始和结束录制，默认保存在`Videos`文件夹中。
 
 ## 使用Flameshot
 
