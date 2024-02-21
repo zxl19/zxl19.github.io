@@ -30,4 +30,4 @@ sudo apt install syspeek
 
 ## 参考
 
-1. [How to install Syspeek in Ubuntu-System Monitor Tool](https://www.linuxhelp.com/how-to-install-syspeek-in-ubuntu-system-monitor-tool)
+1. [How to install Syspeek in Ubuntu-LinuxHelp](https://www.linuxhelp.com/how-to-install-syspeek-in-ubuntu-system-monitor-tool)

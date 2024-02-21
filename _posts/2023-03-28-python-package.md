@@ -31,8 +31,9 @@ pip install，pip uninstall，拿起pip就是干！
 
 1. [python-poetry/poetry](https://github.com/python-poetry/poetry)
 2. [pypa/pipenv](https://github.com/pypa/pipenv)
-3. [pdm-project/pdm](https://github.com/pdm-project/pdm)
-4. [pypa/hatch](https://github.com/pypa/hatch)
+3. [mitsuhiko/rye](https://github.com/mitsuhiko/rye)
+4. [pdm-project/pdm](https://github.com/pdm-project/pdm)
+5. [pypa/hatch](https://github.com/pypa/hatch)
 
 ### 虚拟环境管理
 
@@ -43,9 +44,12 @@ pip install，pip uninstall，拿起pip就是干！
 5. [pyenv/pyenv-virtualenv](https://github.com/pyenv/pyenv-virtualenv)
 6. [pypa/virtualenv](https://github.com/pypa/virtualenv)
 
-## 包模板
+## 项目模板
 
 1. [cookiecutter/cookiecutter](https://github.com/cookiecutter/cookiecutter)
+2. [python-attrs/attrs](https://github.com/python-attrs/attrs)
+3. [python-rope/rope](https://github.com/python-rope/rope)
+4. [mitmproxy/pdoc](https://github.com/mitmproxy/pdoc)
 
 ## 交互式解释器
 
@@ -231,6 +235,11 @@ pip install，pip uninstall，拿起pip就是干！
 2. [albumentations-team/albumentations](https://github.com/albumentations-team/albumentations)
 3. [mdbloice/Augmentor](https://github.com/mdbloice/Augmentor)
 
+## 数据生成
+
+1. [joke2k/faker](https://github.com/joke2k/faker)
+2. [lk-geimfari/mimesis](https://github.com/lk-geimfari/mimesis)
+
 ## 代码生成
 
 1. [microsoft/lida](https://github.com/microsoft/lida)
@@ -261,13 +270,19 @@ pip install，pip uninstall，拿起pip就是干！
 1. [py-pdf/pypdf](https://github.com/py-pdf/pypdf)
 2. [euske/pdfminer](https://github.com/euske/pdfminer)
 3. [pdfminer/pdfminer.six](https://github.com/pdfminer/pdfminer.six)
-4. [pdfarranger/pdfarranger](https://github.com/pdfarranger/pdfarranger)
-5. [dothinking/pdf2docx](https://github.com/dothinking/pdf2docx)
+4. [jorisschellekens/borb](https://github.com/jorisschellekens/borb)
+5. [pdfarranger/pdfarranger](https://github.com/pdfarranger/pdfarranger)
+6. [ArtifexSoftware/pdf2docx](https://github.com/ArtifexSoftware/pdf2docx)
 
 ### Office文档
 
 1. [python-openxml/python-docx](https://github.com/python-openxml/python-docx)
 2. [scanny/python-pptx](https://github.com/scanny/python-pptx)
+
+## 音视频编辑
+
+1. [Zulko/moviepy](https://github.com/Zulko/moviepy)
+2. [jiaaro/pydub](https://github.com/jiaaro/pydub)
 
 ## 二维码
 
