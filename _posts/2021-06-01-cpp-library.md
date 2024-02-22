@@ -123,6 +123,7 @@ pinned: false
 3. [onqtam/doctest](https://github.com/onqtam/doctest)
 4. [mpusz/units](https://github.com/mpusz/units)
 5. [rollbear/trompeloeil](https://github.com/rollbear/trompeloeil)
+6. [unittest-cpp/unittest-cpp](https://github.com/unittest-cpp/unittest-cpp)
 
 ### 日志输出
 

@@ -17,9 +17,10 @@ pinned: false
 
 1. [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university)
 2. [PKUFlyingPig/cs-self-learning](https://github.com/PKUFlyingPig/cs-self-learning)
-3. [missing-semester/missing-semester](https://github.com/missing-semester/missing-semester)
-4. [missing-semester-cn/missing-semester-cn.github.io](https://github.com/missing-semester-cn/missing-semester-cn.github.io)
-5. [niudai/How-to-be-a-good-programmer](https://github.com/niudai/How-to-be-a-good-programmer)
+3. [charlax/professional-programming](https://github.com/charlax/professional-programming)
+4. [missing-semester/missing-semester](https://github.com/missing-semester/missing-semester)
+5. [missing-semester-cn/missing-semester-cn.github.io](https://github.com/missing-semester-cn/missing-semester-cn.github.io)
+6. [niudai/How-to-be-a-good-programmer](https://github.com/niudai/How-to-be-a-good-programmer)
 
 ## 电子书
 

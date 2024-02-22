@@ -47,9 +47,24 @@ pip install，pip uninstall，拿起pip就是干！
 ## 项目模板
 
 1. [cookiecutter/cookiecutter](https://github.com/cookiecutter/cookiecutter)
-2. [python-attrs/attrs](https://github.com/python-attrs/attrs)
+2. [pyscaffold/pyscaffold](https://github.com/pyscaffold/pyscaffold)
+
+## 项目管理
+
+1. [python-attrs/attrs](https://github.com/python-attrs/attrs)
+2. [python-attrs/cattrs](https://github.com/python-attrs/cattrs)
 3. [python-rope/rope](https://github.com/python-rope/rope)
 4. [mitmproxy/pdoc](https://github.com/mitmproxy/pdoc)
+5. [pybuilder/pybuilder](https://github.com/pybuilder/pybuilder)
+
+## 打包
+
+1. [pyinstaller/pyinstaller](https://github.com/pyinstaller/pyinstaller)
+2. [Nuitka/Nuitka](https://github.com/Nuitka/Nuitka)
+3. [brentvollebregt/auto-py-to-exe](https://github.com/brentvollebregt/auto-py-to-exe)
+4. [marcelotduarte/cx_Freeze](https://github.com/marcelotduarte/cx_Freeze)
+5. [py2exe/py2exe](https://github.com/py2exe/py2exe)
+6. [ronaldoussoren/py2app](https://github.com/ronaldoussoren/py2app)
 
 ## 交互式解释器
 
