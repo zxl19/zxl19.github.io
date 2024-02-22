@@ -84,6 +84,7 @@ pip install，pip uninstall，拿起pip就是干！
 1. [time](https://docs.python.org/3/library/time.html)
 2. [datetime](https://docs.python.org/3/library/datetime.html)
 3. [arrow-py/arrow](https://github.com/arrow-py/arrow)
+4. [sdispater/pendulum](https://github.com/sdispater/pendulum)
 
 ## 参数读取
 
@@ -185,7 +186,8 @@ pip install，pip uninstall，拿起pip就是干！
 1. [Textualize/rich](https://github.com/Textualize/rich)
 2. [tartley/colorama](https://github.com/tartley/colorama)
 3. [sepandhaghighi/art](https://github.com/sepandhaghighi/art)
-4. [chubin/pyphoon](https://github.com/chubin/pyphoon)
+4. [r1chardj0n3s/parse](https://github.com/r1chardj0n3s/parse)
+5. [chubin/pyphoon](https://github.com/chubin/pyphoon)
 
 ### 进度条
 
@@ -216,6 +218,7 @@ pip install，pip uninstall，拿起pip就是干！
 
 1. [Delgan/loguru](https://github.com/Delgan/loguru)
 2. [gruns/icecream](https://github.com/gruns/icecream)
+3. [onelivesleft/PrettyErrors](https://github.com/onelivesleft/PrettyErrors)
 
 ### 性能分析
 

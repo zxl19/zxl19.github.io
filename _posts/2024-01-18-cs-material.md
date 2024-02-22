@@ -31,14 +31,15 @@ pinned: false
 
 ## 公开课
 
-1. [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning)
-2. [prakhar1989/awesome-courses](https://github.com/prakhar1989/awesome-courses)
-3. [ByteByteGoHq/system-design-101](https://github.com/ByteByteGoHq/system-design-101)
-4. [xioacd99/study-is-wonderful](https://github.com/xioacd99/study-is-wonderful)
-5. [jackwener/CS-Awesome-Courses](https://github.com/jackwener/CS-Awesome-Courses)
-6. [learn-anything/courses](https://github.com/learn-anything/courses)
-7. [apachecn/awesome-cs-courses-zh](https://github.com/apachecn/awesome-cs-courses-zh)
-8. [fffaraz/awesome-courses](https://github.com/fffaraz/awesome-courses)
+1. [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)
+2. [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning)
+3. [prakhar1989/awesome-courses](https://github.com/prakhar1989/awesome-courses)
+4. [ByteByteGoHq/system-design-101](https://github.com/ByteByteGoHq/system-design-101)
+5. [xioacd99/study-is-wonderful](https://github.com/xioacd99/study-is-wonderful)
+6. [jackwener/CS-Awesome-Courses](https://github.com/jackwener/CS-Awesome-Courses)
+7. [learn-anything/courses](https://github.com/learn-anything/courses)
+8. [apachecn/awesome-cs-courses-zh](https://github.com/apachecn/awesome-cs-courses-zh)
+9. [fffaraz/awesome-courses](https://github.com/fffaraz/awesome-courses)
 
 ## 专业课攻略
 
