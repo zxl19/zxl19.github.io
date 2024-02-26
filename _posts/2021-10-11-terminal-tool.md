@@ -146,12 +146,17 @@ pinned: false
 ## 下载
 
 1. [you-get](https://github.com/soimort/you-get)
-2. [axel](https://github.com/axel-download-accelerator/axel)
-3. [bauh](https://github.com/vinifmor/bauh)
+2. [pytube](https://github.com/pytube/pytube)
+3. [axel](https://github.com/axel-download-accelerator/axel)
+4. [bauh](https://github.com/vinifmor/bauh)
 
 ## 代理
 
 1. [proxychains4](https://github.com/rofl0r/proxychains-ng)
+
+## 信息收集
+
+1. [sherlock](https://github.com/sherlock-project/sherlock)
 
 ## 彩蛋和游戏
 

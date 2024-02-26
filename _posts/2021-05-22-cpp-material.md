@@ -40,7 +40,8 @@ C++学习资料存档。
 5. [balloonwj/CppGuide](https://github.com/balloonwj/CppGuide)
 6. [AnkerLeng/Cpp-0-1-Resource](https://github.com/AnkerLeng/Cpp-0-1-Resource)
 7. [steveLauwh/SGI-STL](https://github.com/steveLauwh/SGI-STL)
-8. [dendisuhubdy/cpp_exercises](https://github.com/dendisuhubdy/cpp_exercises)
+8. [youngyangyang04/TechCPP](https://github.com/youngyangyang04/TechCPP)
+9. [dendisuhubdy/cpp_exercises](https://github.com/dendisuhubdy/cpp_exercises)
 
 ### 常用算法实现
 

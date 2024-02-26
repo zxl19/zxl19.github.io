@@ -39,10 +39,11 @@ pip install，pip uninstall，拿起pip就是干！
 
 1. [venv](https://docs.python.org/3/library/venv.html)
 2. [conda/conda](https://github.com/conda/conda)
-3. [pyenv/pyenv](https://github.com/pyenv/pyenv)
-4. [pypa/pipx](https://github.com/pypa/pipx)
-5. [pyenv/pyenv-virtualenv](https://github.com/pyenv/pyenv-virtualenv)
-6. [pypa/virtualenv](https://github.com/pypa/virtualenv)
+3. [conda-forge/miniforge](https://github.com/conda-forge/miniforge)
+4. [pyenv/pyenv](https://github.com/pyenv/pyenv)
+5. [pypa/pipx](https://github.com/pypa/pipx)
+6. [pyenv/pyenv-virtualenv](https://github.com/pyenv/pyenv-virtualenv)
+7. [pypa/virtualenv](https://github.com/pypa/virtualenv)
 
 ## 项目模板
 
@@ -281,6 +282,13 @@ pip install，pip uninstall，拿起pip就是干！
 
 1. [zeromq/pyzmq](https://github.com/zeromq/pyzmq)
 
+## 中文文本处理
+
+1. [fxsjy/jieba](https://github.com/fxsjy/jieba)
+2. [isnowfy/snownlp](https://github.com/isnowfy/snownlp)
+3. [mozillazg/python-pinyin](https://github.com/mozillazg/python-pinyin)
+4. [vinta/pangu.py](https://github.com/vinta/pangu.py)
+
 ## 文档处理
 
 ### PDF
@@ -296,11 +304,19 @@ pip install，pip uninstall，拿起pip就是干！
 
 1. [python-openxml/python-docx](https://github.com/python-openxml/python-docx)
 2. [scanny/python-pptx](https://github.com/scanny/python-pptx)
+3. [openpyxl/openpyxl](https://foss.heptapod.net/openpyxl/openpyxl)
 
 ## 音视频编辑
 
+### 音频编辑
+
+1. [jiaaro/pydub](https://github.com/jiaaro/pydub)
+2. [librosa/librosa](https://github.com/librosa/librosa)
+
+### 视频编辑
+
 1. [Zulko/moviepy](https://github.com/Zulko/moviepy)
-2. [jiaaro/pydub](https://github.com/jiaaro/pydub)
+2. [kkroening/ffmpeg-python](https://github.com/kkroening/ffmpeg-python)
 
 ## 二维码
 
@@ -316,9 +332,11 @@ pip install，pip uninstall，拿起pip就是干！
 ## 参考
 
 1. [为什么有些人宁愿花费很多时间去自己手工配置Python环境, 也不用Anaconda?-知乎](https://www.zhihu.com/question/404402864/answer/2954272601)
-2. [哪些Python库让你相见恨晚？-Python小二的回答-知乎](https://www.zhihu.com/question/24590883/answer/1220720307)
-3. [哪些Python库让你相见恨晚？-Lingfeng Ai的回答-知乎](https://www.zhihu.com/question/24590883/answer/92420471)
-4. [哪些Python库让你相见恨晚？-易执的回答-知乎](https://www.zhihu.com/question/24590883/answer/969106343)
-5. [六种酷炫Python运行进度条-腾讯云](https://cloud.tencent.com/developer/article/1661478)
-6. [哪些命令行工具让你相见恨晚？-Python与数据挖掘的回答-知乎](https://www.zhihu.com/question/41115077/answer/2302415301)
-7. [哪些Python库让你相见恨晚？-高天的回答-知乎](https://www.zhihu.com/question/24590883/answer/1493635700)
+2. [一文解释conda,pip,anaconda,miniconda,miniforge-撒旦-cc的文章-知乎](https://zhuanlan.zhihu.com/p/518926990)
+3. [Anaconda商用要收费了怎么办？没关系，我们有miniforge-风影忍着的文章-知乎](https://zhuanlan.zhihu.com/p/379567315)
+4. [哪些Python库让你相见恨晚？-Python小二的回答-知乎](https://www.zhihu.com/question/24590883/answer/1220720307)
+5. [哪些Python库让你相见恨晚？-Lingfeng Ai的回答-知乎](https://www.zhihu.com/question/24590883/answer/92420471)
+6. [哪些Python库让你相见恨晚？-易执的回答-知乎](https://www.zhihu.com/question/24590883/answer/969106343)
+7. [六种酷炫Python运行进度条-腾讯云](https://cloud.tencent.com/developer/article/1661478)
+8. [哪些命令行工具让你相见恨晚？-Python与数据挖掘的回答-知乎](https://www.zhihu.com/question/41115077/answer/2302415301)
+9. [哪些Python库让你相见恨晚？-高天的回答-知乎](https://www.zhihu.com/question/24590883/answer/1493635700)
