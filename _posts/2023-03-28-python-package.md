@@ -86,6 +86,7 @@ pip install，pip uninstall，拿起pip就是干！
 2. [datetime](https://docs.python.org/3/library/datetime.html)
 3. [arrow-py/arrow](https://github.com/arrow-py/arrow)
 4. [sdispater/pendulum](https://github.com/sdispater/pendulum)
+5. [python-babel/babel](https://github.com/python-babel/babel)
 
 ## 参数读取
 
@@ -208,10 +209,12 @@ pip install，pip uninstall，拿起pip就是干！
 1. [Textualize/textual](https://github.com/Textualize/textual)
 2. [PySimpleGUI/PySimpleGUI](https://github.com/PySimpleGUI/PySimpleGUI)
 3. [hoffstadt/DearPyGui](https://github.com/hoffstadt/DearPyGui)
-4. [PyQt5/PyQt](https://github.com/PyQt5/PyQt)
-5. [zauberzeug/nicegui](https://github.com/zauberzeug/nicegui)
-6. [urwid/urwid](https://github.com/urwid/urwid)
-7. [nucleic/enaml](https://github.com/nucleic/enaml)
+4. [zauberzeug/nicegui](https://github.com/zauberzeug/nicegui)
+5. [PyQt5/PyQt](https://github.com/PyQt5/PyQt)
+6. [beeware/toga](https://github.com/beeware/toga)
+7. [urwid/urwid](https://github.com/urwid/urwid)
+8. [nucleic/enaml](https://github.com/nucleic/enaml)
+9. [fcollonval/matplotlib_qtquick_playground](https://github.com/fcollonval/matplotlib_qtquick_playground)
 
 ## 调试工具
 
