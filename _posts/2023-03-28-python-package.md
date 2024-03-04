@@ -87,6 +87,7 @@ pip install，pip uninstall，拿起pip就是干！
 3. [arrow-py/arrow](https://github.com/arrow-py/arrow)
 4. [sdispater/pendulum](https://github.com/sdispater/pendulum)
 5. [python-babel/babel](https://github.com/python-babel/babel)
+6. [LKI/chinese-calendar](https://github.com/LKI/chinese-calendar)
 
 ## 参数读取
 
@@ -273,7 +274,8 @@ pip install，pip uninstall，拿起pip就是干！
 1. [numba/numba](https://github.com/numba/numba)
 2. [cython/cython](https://github.com/cython/cython)
 3. [rapidsai/cudf](https://github.com/rapidsai/cudf)
-4. [xorbitsai/xorbits](https://github.com/xorbitsai/xorbits)
+4. [joblib/joblib](https://github.com/joblib/joblib)
+5. [xorbitsai/xorbits](https://github.com/xorbitsai/xorbits)
 
 ## 加密
 

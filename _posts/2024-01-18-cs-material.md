@@ -47,11 +47,12 @@ pinned: false
 2. [PKUanonym/REKCARC-TSC-UHT](https://github.com/PKUanonym/REKCARC-TSC-UHT)
 3. [USTC-Resource/USTC-Course](https://github.com/USTC-Resource/USTC-Course)
 4. [c-hj/SJTU-Courses](https://github.com/c-hj/SJTU-Courses)
-5. [Salensoft/thu-cst-cracker](https://github.com/Salensoft/thu-cst-cracker)
-6. [HuangCongQing/UCAS_Course_2019](https://github.com/HuangCongQing/UCAS_Course_2019)
-7. [Trinkle23897/THU-CST-Cracker](https://github.com/Trinkle23897/THU-CST-Cracker)
+5. [xiaolei565/aimto408](https://github.com/xiaolei565/aimto408)
+6. [Salensoft/thu-cst-cracker](https://github.com/Salensoft/thu-cst-cracker)
+7. [HuangCongQing/UCAS_Course_2019](https://github.com/HuangCongQing/UCAS_Course_2019)
 8. [Trinkle23897/Undergraduate](https://github.com/Trinkle23897/Undergraduate)
-9. [15172658790/Blog](https://github.com/15172658790/Blog)
+9. [Trinkle23897/THU-CST-Cracker](https://github.com/Trinkle23897/THU-CST-Cracker)
+10. [15172658790/Blog](https://github.com/15172658790/Blog)
 
 ## 网站
 
