@@ -78,10 +78,11 @@ C++学习资料存档。
 5. [JuanCrg90/Clean-Code-Notes](https://github.com/JuanCrg90/Clean-Code-Notes)
 6. [trekhleb/state-of-the-art-shitcode](https://github.com/trekhleb/state-of-the-art-shitcode)
 7. [facontidavide/CPP_Optimizations_Diary](https://github.com/facontidavide/CPP_Optimizations_Diary)
-8. [PickNikRobotics/roscpp_code_format](https://github.com/PickNikRobotics/roscpp_code_format)
+8. [FengJungle/DesignPattern](https://github.com/FengJungle/DesignPattern)
 9. [igl42/cpp_software_design](https://github.com/igl42/cpp_software_design)
-10. [igl42/oreilly](https://github.com/igl42/oreilly)
-11. [XiaotaoGuo/Effective-Cpp-Reading-Note](https://github.com/XiaotaoGuo/Effective-Cpp-Reading-Note)
+10. [PickNikRobotics/roscpp_code_format](https://github.com/PickNikRobotics/roscpp_code_format)
+11. [igl42/oreilly](https://github.com/igl42/oreilly)
+12. [XiaotaoGuo/Effective-Cpp-Reading-Note](https://github.com/XiaotaoGuo/Effective-Cpp-Reading-Note)
 
 ## 网站
 
