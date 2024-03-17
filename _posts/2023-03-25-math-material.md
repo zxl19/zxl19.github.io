@@ -69,3 +69,7 @@ pinned: false
 9. [B样条曲线拟合与插值的详尽说明-xiaotaw的文章-知乎](https://zhuanlan.zhihu.com/p/576982365)
 10. [矩阵求导术（上）-长躯鬼侠的文章-知乎](https://zhuanlan.zhihu.com/p/24709748)
 11. [矩阵求导术（下）-长躯鬼侠的文章-知乎](https://zhuanlan.zhihu.com/p/24863977)
+12. [矩阵求导的本质与分子布局、分母布局的本质（矩阵求导——本质篇）-Iterator的文章-知乎](https://zhuanlan.zhihu.com/p/263777564)
+13. [矩阵求导公式的数学推导（矩阵求导——基础篇）-Iterator的文章-知乎](https://zhuanlan.zhihu.com/p/273729929)
+14. [矩阵求导公式的数学推导（矩阵求导——进阶篇）-Iterator的文章-知乎](https://zhuanlan.zhihu.com/p/288541909)
+15. [对称矩阵的求导，以多元正态分布的极大似然估计为例（矩阵求导——补充篇）s-Iterator的文章-知乎](https://zhuanlan.zhihu.com/p/305171795)
