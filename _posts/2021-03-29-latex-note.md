@@ -768,7 +768,8 @@ int main()
 3. [在线LaTeX公式编辑器](https://latex.codecogs.com/eqneditor/editor.php?lang=zh-cn)
 4. [LaTeX在线：吴文中数学公式编辑器](https://latex.91maths.com)
 5. [公式王](https://gongshi.wang)
-6. [blaisewang/img2latex-mathpix](https://github.com/blaisewang/img2latex-mathpix)
+6. [google/latexify_py](https://github.com/google/latexify_py)
+7. [blaisewang/img2latex-mathpix](https://github.com/blaisewang/img2latex-mathpix)
 
 #### Office数学公式
 

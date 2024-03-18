@@ -79,6 +79,7 @@ pip install，pip uninstall，拿起pip就是干！
 2. [pathlib](https://docs.python.org/3/library/pathlib.html)
 3. [shutil](https://docs.python.org/3/library/shutil.html)
 4. [gorakhargosh/watchdog](https://github.com/gorakhargosh/watchdog)
+5. [tox-dev/filelock](https://github.com/tox-dev/filelock)
 
 ## 日期时间
 
@@ -222,8 +223,9 @@ pip install，pip uninstall，拿起pip就是干！
 ### 日志输出
 
 1. [Delgan/loguru](https://github.com/Delgan/loguru)
-2. [gruns/icecream](https://github.com/gruns/icecream)
-3. [onelivesleft/PrettyErrors](https://github.com/onelivesleft/PrettyErrors)
+2. [cool-RR/pysnooper](https://github.com/cool-RR/pysnooper)
+3. [gruns/icecream](https://github.com/gruns/icecream)
+4. [onelivesleft/PrettyErrors](https://github.com/onelivesleft/PrettyErrors)
 
 ### 性能分析
 
@@ -283,6 +285,12 @@ pip install，pip uninstall，拿起pip就是干！
 2. [Legrandin/pycryptodome](https://github.com/Legrandin/pycryptodome)
 3. [pycrypto/pycrypto](https://github.com/pycrypto/pycrypto)
 
+## 序列化
+
+1. [pickle](https://docs.python.org/3/library/pickle.html)
+2. [protocolbuffers/protobuf](https://github.com/protocolbuffers/protobuf)
+3. [marshmallow-code/marshmallow](https://github.com/marshmallow-code/marshmallow)
+
 ## 通信
 
 1. [zeromq/pyzmq](https://github.com/zeromq/pyzmq)
@@ -323,10 +331,16 @@ pip install，pip uninstall，拿起pip就是干！
 1. [Zulko/moviepy](https://github.com/Zulko/moviepy)
 2. [kkroening/ffmpeg-python](https://github.com/kkroening/ffmpeg-python)
 
+## 游戏开发
+
+1. [pygame/pygame](https://github.com/pygame/pygame)
+2. [pythonarcade/arcade](https://github.com/pythonarcade/arcade)
+
 ## 二维码
 
-1. [lincolnloop/python-qrcode](https://github.com/lincolnloop/python-qrcode)
-2. [heuer/segno](https://github.com/heuer/segno)
+1. [x-hw/amazing-qr](https://github.com/x-hw/amazing-qr)
+2. [lincolnloop/python-qrcode](https://github.com/lincolnloop/python-qrcode)
+3. [heuer/segno](https://github.com/heuer/segno)
 
 ## 函数式编程
 
