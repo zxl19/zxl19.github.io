@@ -208,7 +208,8 @@ The main repository serves as a curated list of awesome lists.
 3. [jackwener/CS-Awesome-Courses](https://github.com/jackwener/CS-Awesome-Courses)
 4. [learn-anything/courses](https://github.com/learn-anything/courses)
 5. [apachecn/awesome-cs-courses-zh](https://github.com/apachecn/awesome-cs-courses-zh)
-6. [fffaraz/awesome-courses](https://github.com/fffaraz/awesome-courses)
+6. [forthespada/Awsome-Courses](https://github.com/forthespada/Awsome-Courses)
+7. [fffaraz/awesome-courses](https://github.com/fffaraz/awesome-courses)
 
 ## 参考
 

@@ -26,20 +26,22 @@ pinned: false
 
 1. [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books)
 2. [justjavac/free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN)
-3. [iamshuaidi/CS-Book](https://github.com/iamshuaidi/CS-Book)
-4. [tangtangcoding/C-C-](https://github.com/tangtangcoding/C-C-)
+3. [forthespada/CS-Books](https://github.com/forthespada/CS-Books)
+4. [iamshuaidi/CS-Book](https://github.com/iamshuaidi/CS-Book)
+5. [tangtangcoding/C-C-](https://github.com/tangtangcoding/C-C-)
 
 ## 公开课
 
 1. [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)
 2. [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning)
-3. [prakhar1989/awesome-courses](https://github.com/prakhar1989/awesome-courses)
-4. [ByteByteGoHq/system-design-101](https://github.com/ByteByteGoHq/system-design-101)
+3. [ByteByteGoHq/system-design-101](https://github.com/ByteByteGoHq/system-design-101)
+4. [prakhar1989/awesome-courses](https://github.com/prakhar1989/awesome-courses)
 5. [xioacd99/study-is-wonderful](https://github.com/xioacd99/study-is-wonderful)
 6. [jackwener/CS-Awesome-Courses](https://github.com/jackwener/CS-Awesome-Courses)
 7. [learn-anything/courses](https://github.com/learn-anything/courses)
 8. [apachecn/awesome-cs-courses-zh](https://github.com/apachecn/awesome-cs-courses-zh)
-9. [fffaraz/awesome-courses](https://github.com/fffaraz/awesome-courses)
+9. [forthespada/Awsome-Courses](https://github.com/forthespada/Awsome-Courses)
+10. [fffaraz/awesome-courses](https://github.com/fffaraz/awesome-courses)
 
 ## 专业课攻略
 

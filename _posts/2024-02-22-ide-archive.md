@@ -33,7 +33,7 @@ pinned: false
 
 ## Python
 
-1. [Pycharm](https://www.jetbrains.com/pycharm/)
+1. [PyCharm](https://www.jetbrains.com/pycharm/)
 2. [Thonny](https://thonny.org)
 
 ## 在线
