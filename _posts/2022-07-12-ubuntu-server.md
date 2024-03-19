@@ -57,6 +57,11 @@ smb://192.168.1.1
     ```
 
 4. OpenSSH是基于SSH协议实现的连接工具，可以使用其提供的`scp`命令获得更快的传输速度；
+5. 使用`sshpass`命令非交互式地提供密码：
+
+    ```shell
+    sshpass [-f filename|-d num|-p password|-e] [-hV] command arguments
+    ```
 
 ### Filezilla
 
@@ -81,6 +86,8 @@ smb://192.168.1.1
 2. [浅谈FTP，SFTP，FTPS区别-依然范儿特西的文章-知乎](https://zhuanlan.zhihu.com/p/106980723)
 3. [Linux scp命令-菜鸟教程](https://www.runoob.com/linux/linux-comm-scp.html)
 4. [Why is scp so slow and how to make it faster?-Stack Exchange](https://unix.stackexchange.com/questions/238152/why-is-scp-so-slow-and-how-to-make-it-faster)
-5. [OpenSSH](https://www.openssh.com)
-6. [openssh/openssh-portable](https://github.com/openssh/openssh-portable)
-7. [obsutil简介-华为云](https://support.huaweicloud.com/utiltg-obs/obs_11_0001.html)
+5. [sshpass的使用方法-博客园](https://www.cnblogs.com/kaishirenshi/p/7921308.html)
+6. [linux之sshpass命令-入门小站的文章-知乎](https://zhuanlan.zhihu.com/p/502078612)
+7. [OpenSSH](https://www.openssh.com)
+8. [openssh/openssh-portable](https://github.com/openssh/openssh-portable)
+9. [obsutil简介-华为云](https://support.huaweicloud.com/utiltg-obs/obs_11_0001.html)
