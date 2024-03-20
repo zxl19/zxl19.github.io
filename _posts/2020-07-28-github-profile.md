@@ -54,8 +54,9 @@ pinned: false
 15. [zerosoul/github-star-stats](https://github.com/zerosoul/github-star-stats)
 16. [Star Charts](https://starchart.cc)
 17. [RevolverMaps](https://www.revolvermaps.com)
-18. [Free website hit counter](https://www.free-website-hit-counter.com)
-19. [不蒜子-极简网页计数器](http://busuanzi.ibruce.info)
+18. [ClustrMaps](https://clustrmaps.com)
+19. [Free website hit counter](https://www.free-website-hit-counter.com)
+20. [不蒜子-极简网页计数器](http://busuanzi.ibruce.info)
 
 ## 美化
 

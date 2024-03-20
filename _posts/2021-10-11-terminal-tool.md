@@ -165,8 +165,9 @@ pinned: false
 3. [svenstaro/genact](https://github.com/svenstaro/genact)
 4. [dustinkirkland/hollywood](https://github.com/dustinkirkland/hollywood)
 5. [hpjansson/chafa](https://github.com/hpjansson/chafa)
-6. [erkin/ponysay](https://github.com/erkin/ponysay)
-7. [piuccio/cowsay](https://github.com/piuccio/cowsay)
+6. [phyver/GameShell](https://github.com/phyver/GameShell)
+7. [erkin/ponysay](https://github.com/erkin/ponysay)
+8. [piuccio/cowsay](https://github.com/piuccio/cowsay)
 
 ## 参考
 
