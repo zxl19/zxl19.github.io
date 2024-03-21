@@ -226,6 +226,7 @@ pip install，pip uninstall，拿起pip就是干！
 2. [cool-RR/pysnooper](https://github.com/cool-RR/pysnooper)
 3. [gruns/icecream](https://github.com/gruns/icecream)
 4. [onelivesleft/PrettyErrors](https://github.com/onelivesleft/PrettyErrors)
+5. [laike9m/Cyberbrain](https://github.com/laike9m/Cyberbrain)
 
 ### 性能分析
 
@@ -277,7 +278,8 @@ pip install，pip uninstall，拿起pip就是干！
 2. [cython/cython](https://github.com/cython/cython)
 3. [rapidsai/cudf](https://github.com/rapidsai/cudf)
 4. [joblib/joblib](https://github.com/joblib/joblib)
-5. [xorbitsai/xorbits](https://github.com/xorbitsai/xorbits)
+5. [inducer/pycuda](https://github.com/inducer/pycuda)
+6. [xorbitsai/xorbits](https://github.com/xorbitsai/xorbits)
 
 ## 加密
 

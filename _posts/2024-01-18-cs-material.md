@@ -16,19 +16,22 @@ pinned: false
 ## 知识体系和学习路径
 
 1. [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university)
-2. [PKUFlyingPig/cs-self-learning](https://github.com/PKUFlyingPig/cs-self-learning)
-3. [charlax/professional-programming](https://github.com/charlax/professional-programming)
-4. [missing-semester/missing-semester](https://github.com/missing-semester/missing-semester)
-5. [missing-semester-cn/missing-semester-cn.github.io](https://github.com/missing-semester-cn/missing-semester-cn.github.io)
-6. [niudai/How-to-be-a-good-programmer](https://github.com/niudai/How-to-be-a-good-programmer)
+2. [kamranahmedse/developer-roadmap](https://github.com/kamranahmedse/developer-roadmap)
+3. [forthespada/developer-roadmap-zh-CN](https://github.com/forthespada/developer-roadmap-zh-CN)
+4. [PKUFlyingPig/cs-self-learning](https://github.com/PKUFlyingPig/cs-self-learning)
+5. [charlax/professional-programming](https://github.com/charlax/professional-programming)
+6. [missing-semester/missing-semester](https://github.com/missing-semester/missing-semester)
+7. [missing-semester-cn/missing-semester-cn.github.io](https://github.com/missing-semester-cn/missing-semester-cn.github.io)
+8. [niudai/How-to-be-a-good-programmer](https://github.com/niudai/How-to-be-a-good-programmer)
 
 ## 电子书
 
 1. [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books)
 2. [justjavac/free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN)
 3. [forthespada/CS-Books](https://github.com/forthespada/CS-Books)
-4. [iamshuaidi/CS-Book](https://github.com/iamshuaidi/CS-Book)
-5. [tangtangcoding/C-C-](https://github.com/tangtangcoding/C-C-)
+4. [ruanyf/free-books](https://github.com/ruanyf/free-books)
+5. [iamshuaidi/CS-Book](https://github.com/iamshuaidi/CS-Book)
+6. [tangtangcoding/C-C-](https://github.com/tangtangcoding/C-C-)
 
 ## 公开课
 
@@ -58,12 +61,16 @@ pinned: false
 
 ## 网站
 
-1. [菜鸟教程](https://www.runoob.com)
-2. [极客教程](https://geek-docs.com)
-3. [Codecademy](https://www.codecademy.com)
-4. [GeeksforGeeks](https://www.geeksforgeeks.org)
-5. [W3Schools](https://www.w3schools.com)
-6. [W3Cschools](https://www.w3cschool.cn)
+1. [Developer Roadmaps](https://roadmap.sh)
+2. [CS自学指南](https://csdiy.wiki)
+3. [The Missing Semester of Your CS Education](https://missing.csail.mit.edu)
+4. [计算机教育中缺失的一课](https://missing-semester-cn.github.io)
+5. [菜鸟教程](https://www.runoob.com)
+6. [极客教程](https://geek-docs.com)
+7. [Codecademy](https://www.codecademy.com)
+8. [GeeksforGeeks](https://www.geeksforgeeks.org)
+9. [W3Schools](https://www.w3schools.com)
+10. [W3Cschools](https://www.w3cschool.cn)
 
 ## 参考
 
