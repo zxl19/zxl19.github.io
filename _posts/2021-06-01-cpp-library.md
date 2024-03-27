@@ -66,10 +66,11 @@ pinned: false
 1. [facebook/folly](https://github.com/facebook/folly)
 2. [nothings/stb](https://github.com/nothings/stb)
 3. [nothings/single_file_libs](https://github.com/nothings/single_file_libs)
-4. [attractivechaos/klib](https://github.com/attractivechaos/klib)
-5. [idealvin/coost](https://github.com/idealvin/coost)
-6. [Water-Melon/Melon](https://github.com/Water-Melon/Melon)
-7. [adah1972/nvwa](https://github.com/adah1972/nvwa)
+4. [boostorg/boost](https://github.com/boostorg/boost)
+5. [attractivechaos/klib](https://github.com/attractivechaos/klib)
+6. [idealvin/coost](https://github.com/idealvin/coost)
+7. [Water-Melon/Melon](https://github.com/Water-Melon/Melon)
+8. [adah1972/nvwa](https://github.com/adah1972/nvwa)
 
 ## 参数读取
 
@@ -92,9 +93,10 @@ pinned: false
 1. [nlohmann/json](https://github.com/nlohmann/json)
 2. [Tencent/rapidjson](https://github.com/Tencent/rapidjson)
 3. [open-source-parsers/jsoncpp](https://github.com/open-source-parsers/jsoncpp)
-4. [kazuho/picojson](https://github.com/kazuho/picojson)
-5. [Nomango/configor](https://github.com/Nomango/configor)
-6. [taocpp/config](https://github.com/taocpp/config)
+4. [dropbox/json11](https://github.com/dropbox/json11)
+5. [kazuho/picojson](https://github.com/kazuho/picojson)
+6. [Nomango/configor](https://github.com/Nomango/configor)
+7. [taocpp/config](https://github.com/taocpp/config)
 
 #### `.yaml`文件
 
@@ -245,8 +247,9 @@ pinned: false
 ## 序列化
 
 1. [protocolbuffers/protobuf](https://github.com/protocolbuffers/protobuf)
-2. [qicosmos/iguana](https://github.com/qicosmos/iguana)
-3. [p-ranav/alpaca](https://github.com/p-ranav/alpaca)
+2. [google/flatbuffers](https://github.com/google/flatbuffers)
+3. [qicosmos/iguana](https://github.com/qicosmos/iguana)
+4. [p-ranav/alpaca](https://github.com/p-ranav/alpaca)
 
 ## 多态
 

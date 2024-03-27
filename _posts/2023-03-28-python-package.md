@@ -73,6 +73,24 @@ pip install，pip uninstall，拿起pip就是干！
 2. [prompt-toolkit/ptpython](https://github.com/prompt-toolkit/ptpython)
 3. [bpython/bpython](https://github.com/bpython/bpython)
 
+## 函数装饰器
+
+1. [litl/backoff](https://github.com/litl/backoff)
+2. [madisonmay/Tomorrow](https://github.com/madisonmay/Tomorrow)
+3. [snoack/python-goto](https://github.com/snoack/python-goto)
+4. [invl/retry](https://github.com/invl/retry)
+5. [life4/deal](https://github.com/life4/deal)
+6. [pnpnpn/timeout-decorator](https://github.com/pnpnpn/timeout-decorator)
+7. [python-cachier/cachier](https://github.com/python-cachier/cachier)
+8. [mgedmin/profilehooks](https://github.com/mgedmin/profilehooks)
+9. [kata198/func_timeout](https://github.com/kata198/func_timeout)
+10. [tantale/deprecated](https://github.com/tantale/deprecated)
+
+## 标准库扩展
+
+1. [mahmoud/boltons](https://github.com/mahmoud/boltons)
+2. [pytoolz/toolz](https://github.com/pytoolz/toolz)
+
 ## 文件和系统
 
 1. [os](https://docs.python.org/3/library/os.html)
@@ -188,10 +206,11 @@ pip install，pip uninstall，拿起pip就是干！
 ### 输出样式
 
 1. [Textualize/rich](https://github.com/Textualize/rich)
-2. [tartley/colorama](https://github.com/tartley/colorama)
-3. [sepandhaghighi/art](https://github.com/sepandhaghighi/art)
-4. [r1chardj0n3s/parse](https://github.com/r1chardj0n3s/parse)
-5. [chubin/pyphoon](https://github.com/chubin/pyphoon)
+2. [dylanaraps/pywal](https://github.com/dylanaraps/pywal)
+3. [tartley/colorama](https://github.com/tartley/colorama)
+4. [sepandhaghighi/art](https://github.com/sepandhaghighi/art)
+5. [r1chardj0n3s/parse](https://github.com/r1chardj0n3s/parse)
+6. [chubin/pyphoon](https://github.com/chubin/pyphoon)
 
 ### 进度条
 
@@ -204,19 +223,22 @@ pip install，pip uninstall，拿起pip就是干！
 
 ### 表格
 
-1. [jazzband/prettytable](https://github.com/jazzband/prettytable)
+1. [astanin/python-tabulate](https://github.com/astanin/python-tabulate)
+2. [jazzband/prettytable](https://github.com/jazzband/prettytable)
 
 ## 可视化界面
 
 1. [Textualize/textual](https://github.com/Textualize/textual)
-2. [PySimpleGUI/PySimpleGUI](https://github.com/PySimpleGUI/PySimpleGUI)
-3. [hoffstadt/DearPyGui](https://github.com/hoffstadt/DearPyGui)
-4. [zauberzeug/nicegui](https://github.com/zauberzeug/nicegui)
-5. [PyQt5/PyQt](https://github.com/PyQt5/PyQt)
-6. [beeware/toga](https://github.com/beeware/toga)
-7. [urwid/urwid](https://github.com/urwid/urwid)
-8. [nucleic/enaml](https://github.com/nucleic/enaml)
-9. [fcollonval/matplotlib_qtquick_playground](https://github.com/fcollonval/matplotlib_qtquick_playground)
+2. [chriskiehl/Gooey](https://github.com/chriskiehl/Gooey)
+3. [PySimpleGUI/PySimpleGUI](https://github.com/PySimpleGUI/PySimpleGUI)
+4. [hoffstadt/DearPyGui](https://github.com/hoffstadt/DearPyGui)
+5. [zauberzeug/nicegui](https://github.com/zauberzeug/nicegui)
+6. [PyQt5/PyQt](https://github.com/PyQt5/PyQt)
+7. [beeware/toga](https://github.com/beeware/toga)
+8. [urwid/urwid](https://github.com/urwid/urwid)
+9. [nucleic/enaml](https://github.com/nucleic/enaml)
+10. [UmSenhorQualquer/pyforms](https://github.com/UmSenhorQualquer/pyforms)
+11. [fcollonval/matplotlib_qtquick_playground](https://github.com/fcollonval/matplotlib_qtquick_playground)
 
 ## 调试工具
 
@@ -274,12 +296,19 @@ pip install，pip uninstall，拿起pip就是干！
 
 ## 代码加速
 
+### 语言性能
+
 1. [numba/numba](https://github.com/numba/numba)
 2. [cython/cython](https://github.com/cython/cython)
-3. [rapidsai/cudf](https://github.com/rapidsai/cudf)
-4. [joblib/joblib](https://github.com/joblib/joblib)
-5. [inducer/pycuda](https://github.com/inducer/pycuda)
-6. [xorbitsai/xorbits](https://github.com/xorbitsai/xorbits)
+3. [mozillazg/pypy](https://github.com/mozillazg/pypy)
+
+### 并行计算
+
+1. [dask/dask](https://github.com/dask/dask)
+2. [rapidsai/cudf](https://github.com/rapidsai/cudf)
+3. [joblib/joblib](https://github.com/joblib/joblib)
+4. [inducer/pycuda](https://github.com/inducer/pycuda)
+5. [xorbitsai/xorbits](https://github.com/xorbitsai/xorbits)
 
 ## 加密
 
@@ -291,18 +320,25 @@ pip install，pip uninstall，拿起pip就是干！
 
 1. [pickle](https://docs.python.org/3/library/pickle.html)
 2. [protocolbuffers/protobuf](https://github.com/protocolbuffers/protobuf)
-3. [marshmallow-code/marshmallow](https://github.com/marshmallow-code/marshmallow)
+3. [google/flatbuffers](https://github.com/google/flatbuffers)
+4. [marshmallow-code/marshmallow](https://github.com/marshmallow-code/marshmallow)
+5. [ijl/orjson](https://github.com/ijl/orjson)
 
 ## 通信
 
 1. [zeromq/pyzmq](https://github.com/zeromq/pyzmq)
+
+## 分布式任务
+
+1. [celery/celery](https://github.com/celery/celery)
 
 ## 中文文本处理
 
 1. [fxsjy/jieba](https://github.com/fxsjy/jieba)
 2. [isnowfy/snownlp](https://github.com/isnowfy/snownlp)
 3. [mozillazg/python-pinyin](https://github.com/mozillazg/python-pinyin)
-4. [vinta/pangu.py](https://github.com/vinta/pangu.py)
+4. [lxneng/xpinyin](https://github.com/lxneng/xpinyin)
+5. [vinta/pangu.py](https://github.com/vinta/pangu.py)
 
 ## 文档处理
 
@@ -318,8 +354,9 @@ pip install，pip uninstall，拿起pip就是干！
 ### Office文档
 
 1. [python-openxml/python-docx](https://github.com/python-openxml/python-docx)
-2. [scanny/python-pptx](https://github.com/scanny/python-pptx)
-3. [openpyxl/openpyxl](https://foss.heptapod.net/openpyxl/openpyxl)
+2. [unoconv/unoconv](https://github.com/unoconv/unoconv)
+3. [scanny/python-pptx](https://github.com/scanny/python-pptx)
+4. [openpyxl/openpyxl](https://foss.heptapod.net/openpyxl/openpyxl)
 
 ## 音视频编辑
 

@@ -40,6 +40,7 @@ The main repository serves as a curated list of awesome lists.
 
 1. [vinta/awesome-python](https://github.com/vinta/awesome-python)
 2. [jobbole/awesome-python-cn](https://github.com/jobbole/awesome-python-cn)
+3. [lord63/awesome-python-decorator](https://github.com/lord63/awesome-python-decorator)
 
 ## 速查表
 
