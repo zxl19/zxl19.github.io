@@ -849,6 +849,7 @@ int main()
 6. [hijiangtao/resume](https://github.com/hijiangtao/resume)
 7. [darwiin/yaac-another-awesome-cv](https://github.com/darwiin/yaac-another-awesome-cv)
 8. [huajh/awesome-latex-cv](https://github.com/huajh/awesome-latex-cv)
+9. [dyweb/Deedy-Resume-for-Chinese](https://github.com/dyweb/Deedy-Resume-for-Chinese)
 
 #### Beamer模板
 
