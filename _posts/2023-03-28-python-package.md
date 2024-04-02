@@ -49,6 +49,7 @@ pip install，pip uninstall，拿起pip就是干！
 
 1. [cookiecutter/cookiecutter](https://github.com/cookiecutter/cookiecutter)
 2. [pyscaffold/pyscaffold](https://github.com/pyscaffold/pyscaffold)
+3. [copier-org/copier](https://github.com/copier-org/copier)
 
 ## 项目管理
 
@@ -304,11 +305,13 @@ pip install，pip uninstall，拿起pip就是干！
 
 ### 并行计算
 
-1. [dask/dask](https://github.com/dask/dask)
-2. [rapidsai/cudf](https://github.com/rapidsai/cudf)
-3. [joblib/joblib](https://github.com/joblib/joblib)
-4. [inducer/pycuda](https://github.com/inducer/pycuda)
-5. [xorbitsai/xorbits](https://github.com/xorbitsai/xorbits)
+1. [taichi-dev/taichi](https://github.com/taichi-dev/taichi)
+2. [dask/dask](https://github.com/dask/dask)
+3. [modin-project/modin](https://github.com/modin-project/modin)
+4. [rapidsai/cudf](https://github.com/rapidsai/cudf)
+5. [joblib/joblib](https://github.com/joblib/joblib)
+6. [inducer/pycuda](https://github.com/inducer/pycuda)
+7. [xorbitsai/xorbits](https://github.com/xorbitsai/xorbits)
 
 ## 加密
 

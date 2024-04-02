@@ -35,6 +35,7 @@ pinned: false
 
 1. [PyCharm](https://www.jetbrains.com/pycharm/)
 2. [Thonny](https://thonny.org)
+3. [Mu](https://codewith.mu)
 
 ## 在线
 
@@ -57,3 +58,4 @@ pinned: false
 12. [codebrainz/geany-themes](https://github.com/codebrainz/geany-themes)
 13. [Embarcadero/Dev-Cpp](https://github.com/Embarcadero/Dev-Cpp)
 14. [thonny/thonny](https://github.com/thonny/thonny)
+15. [mu-editor/mu](https://github.com/mu-editor/mu)
