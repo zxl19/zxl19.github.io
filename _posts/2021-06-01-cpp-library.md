@@ -33,6 +33,7 @@ pinned: false
 ### 文件压缩
 
 1. [r-lyeh-archived/bundle](https://github.com/r-lyeh-archived/bundle)
+2. [ctabin/libzippp](https://github.com/ctabin/libzippp)
 
 ## 命令行输出
 
@@ -96,7 +97,8 @@ pinned: false
 4. [dropbox/json11](https://github.com/dropbox/json11)
 5. [kazuho/picojson](https://github.com/kazuho/picojson)
 6. [Nomango/configor](https://github.com/Nomango/configor)
-7. [taocpp/config](https://github.com/taocpp/config)
+7. [boostorg/json](https://github.com/boostorg/json)
+8. [taocpp/config](https://github.com/taocpp/config)
 
 #### `.yaml`文件
 

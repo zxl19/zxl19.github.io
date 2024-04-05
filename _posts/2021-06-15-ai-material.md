@@ -114,8 +114,9 @@ pinned: false
 
 1. [google/mediapipe](https://github.com/google/mediapipe)
 2. [Tencent/ncnn](https://github.com/Tencent/ncnn)
-3. [Tencent/TNN](https://github.com/Tencent/TNN)
-4. [open-mmlab/mmdeploy](https://github.com/open-mmlab/mmdeploy)
+3. [openvinotoolkit/openvino](https://github.com/openvinotoolkit/openvino)
+4. [Tencent/TNN](https://github.com/Tencent/TNN)
+5. [open-mmlab/mmdeploy](https://github.com/open-mmlab/mmdeploy)
 
 ### 剪枝
 

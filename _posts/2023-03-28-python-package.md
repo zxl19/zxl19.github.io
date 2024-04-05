@@ -226,6 +226,7 @@ pip install，pip uninstall，拿起pip就是干！
 
 1. [astanin/python-tabulate](https://github.com/astanin/python-tabulate)
 2. [jazzband/prettytable](https://github.com/jazzband/prettytable)
+3. [posit-dev/great-tables](https://github.com/posit-dev/great-tables)
 
 ## 可视化界面
 
@@ -248,8 +249,9 @@ pip install，pip uninstall，拿起pip就是干！
 1. [Delgan/loguru](https://github.com/Delgan/loguru)
 2. [cool-RR/pysnooper](https://github.com/cool-RR/pysnooper)
 3. [gruns/icecream](https://github.com/gruns/icecream)
-4. [onelivesleft/PrettyErrors](https://github.com/onelivesleft/PrettyErrors)
-5. [laike9m/Cyberbrain](https://github.com/laike9m/Cyberbrain)
+4. [hynek/structlog](https://github.com/hynek/structlog)
+5. [onelivesleft/PrettyErrors](https://github.com/onelivesleft/PrettyErrors)
+6. [laike9m/Cyberbrain](https://github.com/laike9m/Cyberbrain)
 
 ### 性能分析
 
@@ -359,7 +361,8 @@ pip install，pip uninstall，拿起pip就是干！
 1. [python-openxml/python-docx](https://github.com/python-openxml/python-docx)
 2. [unoconv/unoconv](https://github.com/unoconv/unoconv)
 3. [scanny/python-pptx](https://github.com/scanny/python-pptx)
-4. [openpyxl/openpyxl](https://foss.heptapod.net/openpyxl/openpyxl)
+4. [dimastbk/python-calamine](https://github.com/dimastbk/python-calamine)
+5. [openpyxl/openpyxl](https://foss.heptapod.net/openpyxl/openpyxl)
 
 ## 音视频编辑
 
