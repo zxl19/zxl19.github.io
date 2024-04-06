@@ -77,15 +77,16 @@ pip install，pip uninstall，拿起pip就是干！
 ## 函数装饰器
 
 1. [litl/backoff](https://github.com/litl/backoff)
-2. [madisonmay/Tomorrow](https://github.com/madisonmay/Tomorrow)
-3. [snoack/python-goto](https://github.com/snoack/python-goto)
-4. [invl/retry](https://github.com/invl/retry)
-5. [life4/deal](https://github.com/life4/deal)
-6. [pnpnpn/timeout-decorator](https://github.com/pnpnpn/timeout-decorator)
-7. [python-cachier/cachier](https://github.com/python-cachier/cachier)
-8. [mgedmin/profilehooks](https://github.com/mgedmin/profilehooks)
-9. [kata198/func_timeout](https://github.com/kata198/func_timeout)
-10. [tantale/deprecated](https://github.com/tantale/deprecated)
+2. [tkem/cachetools](https://github.com/tkem/cachetools)
+3. [madisonmay/Tomorrow](https://github.com/madisonmay/Tomorrow)
+4. [snoack/python-goto](https://github.com/snoack/python-goto)
+5. [invl/retry](https://github.com/invl/retry)
+6. [life4/deal](https://github.com/life4/deal)
+7. [pnpnpn/timeout-decorator](https://github.com/pnpnpn/timeout-decorator)
+8. [python-cachier/cachier](https://github.com/python-cachier/cachier)
+9. [mgedmin/profilehooks](https://github.com/mgedmin/profilehooks)
+10. [kata198/func_timeout](https://github.com/kata198/func_timeout)
+11. [tantale/deprecated](https://github.com/tantale/deprecated)
 
 ## 标准库扩展
 

@@ -17,8 +17,9 @@ pinned: false
 
 1. [microsoft/vcpkg](https://github.com/microsoft/vcpkg)
 2. [xmake-io/xmake](https://github.com/xmake-io/xmake)
-3. [conda/conda](https://github.com/conda/conda)
-4. [mamba-org/mamba](https://github.com/mamba-org/mamba)
+3. [conan-io/conan](https://github.com/conan-io/conan)
+4. [conda/conda](https://github.com/conda/conda)
+5. [mamba-org/mamba](https://github.com/mamba-org/mamba)
 
 ## 开发框架
 
