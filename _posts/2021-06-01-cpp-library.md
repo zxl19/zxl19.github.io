@@ -302,6 +302,7 @@ pinned: false
 5. [VcDevel/Vc](https://github.com/VcDevel/Vc)
 6. [stotko/stdgpu](https://github.com/stotko/stdgpu)
 7. [VcDevel/std-simd](https://github.com/VcDevel/std-simd)
+8. [frozenca/BTree](https://github.com/frozenca/BTree)
 
 ## Python绑定
 
