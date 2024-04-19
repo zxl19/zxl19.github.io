@@ -301,9 +301,10 @@ pinned: false
 3. [zouxiaohang/TinySTL](https://github.com/zouxiaohang/TinySTL)
 4. [skarupke/flat_hash_map](https://github.com/skarupke/flat_hash_map)
 5. [VcDevel/Vc](https://github.com/VcDevel/Vc)
-6. [stotko/stdgpu](https://github.com/stotko/stdgpu)
-7. [VcDevel/std-simd](https://github.com/VcDevel/std-simd)
-8. [frozenca/BTree](https://github.com/frozenca/BTree)
+6. [boostorg/pfr](https://github.com/boostorg/pfr)
+7. [stotko/stdgpu](https://github.com/stotko/stdgpu)
+8. [VcDevel/std-simd](https://github.com/VcDevel/std-simd)
+9. [frozenca/BTree](https://github.com/frozenca/BTree)
 
 ## Python绑定
 
