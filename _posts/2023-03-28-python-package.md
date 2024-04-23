@@ -313,8 +313,9 @@ pip install，pip uninstall，拿起pip就是干！
 3. [modin-project/modin](https://github.com/modin-project/modin)
 4. [rapidsai/cudf](https://github.com/rapidsai/cudf)
 5. [joblib/joblib](https://github.com/joblib/joblib)
-6. [inducer/pycuda](https://github.com/inducer/pycuda)
-7. [xorbitsai/xorbits](https://github.com/xorbitsai/xorbits)
+6. [mars-project/mars](https://github.com/mars-project/mars)
+7. [inducer/pycuda](https://github.com/inducer/pycuda)
+8. [xorbitsai/xorbits](https://github.com/xorbitsai/xorbits)
 
 ## 加密
 
