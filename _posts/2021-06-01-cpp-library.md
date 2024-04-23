@@ -201,7 +201,8 @@ pinned: false
 3. [autodiff/autodiff](https://github.com/autodiff/autodiff)
 4. [stan-dev/math](https://github.com/stan-dev/math)
 5. [johnmcfarlane/cnl](https://github.com/johnmcfarlane/cnl)
-6. [auto-differentiation/XAD](https://github.com/auto-differentiation/XAD)
+6. [boostorg/math](https://github.com/boostorg/math)
+7. [auto-differentiation/XAD](https://github.com/auto-differentiation/XAD)
 
 ### 随机采样一致
 
@@ -223,7 +224,8 @@ pinned: false
 #### 几何运算
 
 1. [davideberly/GeometricTools](https://github.com/davideberly/GeometricTools)
-2. [sikang/DecompUtil](https://github.com/sikang/DecompUtil)
+2. [boostorg/geometry](https://github.com/boostorg/geometry)
+3. [sikang/DecompUtil](https://github.com/sikang/DecompUtil)
 
 #### 三角剖分
 
@@ -248,6 +250,7 @@ pinned: false
 
 1. [igraph/igraph](https://github.com/igraph/igraph)
 2. [ZigRazor/CXXGraph](https://github.com/ZigRazor/CXXGraph)
+3. [boostorg/graph](https://github.com/boostorg/graph)
 
 ## 加密
 
@@ -330,9 +333,10 @@ pinned: false
 
 ## 模板元编程
 
-1. [brunocodutra/metal](https://github.com/brunocodutra/metal)
-2. [sabel83/mpllibs](https://github.com/sabel83/mpllibs)
-3. [ldionne/mpl11](https://github.com/ldionne/mpl11)
+1. [boostorg/hana](https://github.com/boostorg/hana)
+2. [brunocodutra/metal](https://github.com/brunocodutra/metal)
+3. [sabel83/mpllibs](https://github.com/sabel83/mpllibs)
+4. [ldionne/mpl11](https://github.com/ldionne/mpl11)
 
 ## 并发
 
