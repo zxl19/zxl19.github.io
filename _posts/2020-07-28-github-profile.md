@@ -31,9 +31,10 @@ pinned: false
 7. [alexandresanlim/Badges4-README.md-Profile](https://github.com/alexandresanlim/Badges4-README.md-Profile)
 8. [trekhleb/state-of-the-art-shitcode](https://github.com/trekhleb/state-of-the-art-shitcode)
 9. [antonkomarev/github-profile-views-counter](https://github.com/antonkomarev/github-profile-views-counter)
-10. [jwenjian/visitor-badge](https://github.com/jwenjian/visitor-badge)
+10. [Aikoyori/ProgrammingVTuberLogos](https://github.com/Aikoyori/ProgrammingVTuberLogos)
 11. [gjbae1212/hit-counter](https://github.com/gjbae1212/hit-counter)
-12. [a-maliarov/awesome-shields](https://github.com/a-maliarov/awesome-shields)
+12. [jwenjian/visitor-badge](https://github.com/jwenjian/visitor-badge)
+13. [a-maliarov/awesome-shields](https://github.com/a-maliarov/awesome-shields)
 
 ## 统计信息
 
