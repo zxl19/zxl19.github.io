@@ -261,8 +261,11 @@ pinned: false
 
 1. [protocolbuffers/protobuf](https://github.com/protocolbuffers/protobuf)
 2. [google/flatbuffers](https://github.com/google/flatbuffers)
-3. [qicosmos/iguana](https://github.com/qicosmos/iguana)
-4. [p-ranav/alpaca](https://github.com/p-ranav/alpaca)
+3. [capnproto/capnproto](https://github.com/capnproto/capnproto)
+4. [USCiLab/cereal](https://github.com/USCiLab/cereal)
+5. [felixguendling/cista](https://github.com/felixguendling/cista)
+6. [qicosmos/iguana](https://github.com/qicosmos/iguana)
+7. [p-ranav/alpaca](https://github.com/p-ranav/alpaca)
 
 ## 多态
 
