@@ -13,6 +13,16 @@ pinned: false
 
 <!-- more -->
 
+## 安装新版本C++编译器
+
+以`gcc-9`和`g++-9`为例：
+
+```shell
+sudo add-apt-repository ppa:ubuntu-toolchain-r/test
+sudo apt update
+sudo apt install gcc-9 g++-9
+```
+
 ## 删除版本列表
 
 ```shell
@@ -31,12 +41,6 @@ sudo update-alternatives --install /usr/bin/gcc gcc /usr/bin/gcc-11 11
 sudo update-alternatives --install /usr/bin/g++ g++ /usr/bin/g++-11 11
 ```
 
-格式说明：
-
-```shell
-sudo update-alternatives --install <link> <name> <path> <priority>
-```
-
 ## 选择版本
 
 ```shell
@@ -46,6 +50,6 @@ sudo update-alternatives --config g++
 
 ## 参考
 
-1. [Stack Exchange](https://askubuntu.com/questions/26498/how-to-choose-the-default-gcc-and-g-version)
-2. [腾讯云](https://cloud.tencent.com/developer/article/1532283)
-3. [Stack Exchange](https://askubuntu.com/questions/1140183/install-gcc-9-on-ubuntu-18-04)
+1. [install gcc-9 on Ubuntu 18.04?-Stack Exchange](https://askubuntu.com/questions/1140183/install-gcc-9-on-ubuntu-18-04)
+2. [How to choose the default gcc and g++ version?-Stack Exchange](https://askubuntu.com/questions/26498/how-to-choose-the-default-gcc-and-g-version)
+3. [update-alternatives——linux软件版本管理命令-腾讯云](https://cloud.tencent.com/developer/article/1532283)
