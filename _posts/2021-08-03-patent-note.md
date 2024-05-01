@@ -45,5 +45,7 @@ pinned: false
 
 1. [专利申请审批流程-国家知识产权局](https://www.cnipa.gov.cn/art/2020/6/5/art_1517_92471.html)
 2. [查询中国专利的所有方法有哪些？-克里斯托弗懒的回答-知乎](https://www.zhihu.com/question/59967051/answer/171040466)
-3. [请问专利号和专利申请号有什么区别？是不是一回事？-Litecarve专利的回答-知乎](https://www.zhihu.com/question/66035671/answer/362167295)
-4. [一张图能使你秒懂专利申请审批流程-中策的文章-知乎](https://zhuanlan.zhihu.com/p/34993167)
+3. [【干货】你知道专利申请号、专利号、公开号的区别吗？（附专利检索网站大全）-博普智库的文章-知乎](https://zhuanlan.zhihu.com/p/392177031)
+4. [请问专利号和专利申请号有什么区别？是不是一回事？-Litecarve专利的回答-知乎](https://www.zhihu.com/question/66035671/answer/362167295)
+5. [专利号是怎么构成的？看完你就懂了！-武汉新烽光电的文章-知乎](https://zhuanlan.zhihu.com/p/410179974)
+6. [一张图能使你秒懂专利申请审批流程-中策的文章-知乎](https://zhuanlan.zhihu.com/p/34993167)
