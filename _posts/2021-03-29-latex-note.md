@@ -789,6 +789,12 @@ int main()
 1. [CTeX-org/ctex-kit](https://github.com/CTeX-org/ctex-kit)
 2. [Haixing-Hu/latex-chinese-fonts](https://github.com/Haixing-Hu/latex-chinese-fonts)
 
+#### 代码格式化
+
+1. [LaTex Formatter](https://latex-editor.pages.dev/formatter/)
+2. [Latex formatter](https://latexformat.com)
+3. [cmhughes/latexindent.pl](https://github.com/cmhughes/latexindent.pl)
+
 #### 参考文献
 
 1. [Google Scholar](https://scholar.google.com)

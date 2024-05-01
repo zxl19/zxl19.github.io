@@ -295,6 +295,8 @@ LaTeX语言扩展，配置`latex-workshop.latex.tools`、`latex-workshop.latex.r
     }
     ```
 
+3. 提供了代码格式化功能，类似的扩展还有latex-formatter；
+
 ### LeetCode
 
 算法刷题扩展，类似的扩展还有LeetCode with labuladong、牛客、Pintia。
