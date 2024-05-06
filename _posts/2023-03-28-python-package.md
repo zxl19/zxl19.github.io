@@ -94,6 +94,7 @@ pip install，pip uninstall，拿起pip就是干！
 
 1. [mahmoud/boltons](https://github.com/mahmoud/boltons)
 2. [pytoolz/toolz](https://github.com/pytoolz/toolz)
+3. [grantjenks/python-sortedcontainers](https://github.com/grantjenks/python-sortedcontainers)
 
 ## 文件和系统
 
@@ -219,8 +220,9 @@ pip install，pip uninstall，拿起pip就是干！
 1. [fossasia/visdom](https://github.com/fossasia/visdom)
 2. [lanpa/tensorboardX](https://github.com/lanpa/tensorboardX)
 3. [tensorflow/tensorboard](https://github.com/tensorflow/tensorboard)
-4. [facebookresearch/hiplot](https://github.com/facebookresearch/hiplot)
-5. [lucasjinreal/alfred](https://github.com/lucasjinreal/alfred)
+4. [DistrictDataLabs/yellowbrick](https://github.com/DistrictDataLabs/yellowbrick)
+5. [facebookresearch/hiplot](https://github.com/facebookresearch/hiplot)
+6. [lucasjinreal/alfred](https://github.com/lucasjinreal/alfred)
 
 ### 地理信息可视化
 
@@ -373,11 +375,13 @@ pip install，pip uninstall，拿起pip就是干！
 
 ## 代码加速
 
-### 语言性能
+### 即时编译
 
-1. [numba/numba](https://github.com/numba/numba)
-2. [cython/cython](https://github.com/cython/cython)
-3. [mozillazg/pypy](https://github.com/mozillazg/pypy)
+1. [google/jax](https://github.com/google/jax)
+2. [numba/numba](https://github.com/numba/numba)
+3. [microsoft/Pyjion](https://github.com/microsoft/Pyjion)
+4. [tonybaloney/Pyjion](https://github.com/tonybaloney/Pyjion)
+5. [pytorch/torchdynamo](https://github.com/pytorch/torchdynamo)
 
 ### 并行计算
 
@@ -390,6 +394,12 @@ pip install，pip uninstall，拿起pip就是干！
 7. [fugue-project/fugue](https://github.com/fugue-project/fugue)
 8. [inducer/pycuda](https://github.com/inducer/pycuda)
 9. [xorbitsai/xorbits](https://github.com/xorbitsai/xorbits)
+
+### 语言性能
+
+1. [cython/cython](https://github.com/cython/cython)
+2. [facebookincubator/cinder](https://github.com/facebookincubator/cinder)
+3. [mozillazg/pypy](https://github.com/mozillazg/pypy)
 
 ## 加密
 
@@ -460,6 +470,7 @@ pip install，pip uninstall，拿起pip就是干！
 
 1. [Zulko/moviepy](https://github.com/Zulko/moviepy)
 2. [kkroening/ffmpeg-python](https://github.com/kkroening/ffmpeg-python)
+3. [abhiTronix/vidgear](https://github.com/abhiTronix/vidgear)
 
 ## 游戏开发
 
