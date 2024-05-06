@@ -67,24 +67,9 @@ Meme这个词最初源自英国著名科学家理查德·道金斯所著的《�
 7. [fabianishere/brainfuck](https://github.com/fabianishere/brainfuck)
 8. [pocmo/Python-Brainfuck](https://github.com/pocmo/Python-Brainfuck)
 9. [CarbonicX/HyperFuck](https://github.com/CarbonicX/HyperFuck)
-
-## 硬件模拟
-
-1. [mamedev/mame](https://github.com/mamedev/mame)
-2. [InkboxSoftware/excelCPU](https://github.com/InkboxSoftware/excelCPU)
-
-## 盲水印
-
-1. [guofei9987/blind_watermark](https://github.com/guofei9987/blind_watermark)
-2. [guofei9987/text_blind_watermark](https://github.com/guofei9987/text_blind_watermark)
-
-## 机械
-
-1. [FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD)
-2. [openscad/openscad](https://github.com/openscad/openscad)
-3. [LibreCAD/LibreCAD](https://github.com/LibreCAD/LibreCAD)
-4. [nasa/NASA-3D-Resources](https://github.com/nasa/NASA-3D-Resources)
-5. [muziing/domm](https://github.com/muziing/domm)
+10. [Timothy-Liuxf/HeLangCppMetaImpl](https://github.com/Timothy-Liuxf/HeLangCppMetaImpl)
+11. [SAOKnight/helang](https://github.com/SAOKnight/helang)
+12. [kifuan/helang](https://github.com/kifuan/helang)
 
 ## 游戏
 
@@ -228,7 +213,6 @@ Meme这个词最初源自英国著名科学家理查德·道金斯所著的《�
 26. [js13kGames](https://js13kgames.com)
 27. [js13kGames 2022 winners](https://github.blog/2022-10-06-js13k-2022-winners/)
 28. [CorentinTh/it-tools](https://github.com/CorentinTh/it-tools)
-29. [Linux上5个最好CAD软件-Linux中国的文章-知乎](https://zhuanlan.zhihu.com/p/81680138)
-30. [很赞的两个高清壁纸网站：wallroom和wallhaven-帅小科的文章-知乎](https://zhuanlan.zhihu.com/p/376579457)
-31. [Ubuntu设置双屏显示长壁纸-码农家园](https://www.codenong.com/cs109695249/)
-32. [要命！《程序员延寿指南》火爆GitHub，日涨1500+星，跟着码农干多活20年-量子位的文章-知乎](https://zhuanlan.zhihu.com/p/502393797)
+29. [很赞的两个高清壁纸网站：wallroom和wallhaven-帅小科的文章-知乎](https://zhuanlan.zhihu.com/p/376579457)
+30. [Ubuntu设置双屏显示长壁纸-码农家园](https://www.codenong.com/cs109695249/)
+31. [要命！《程序员延寿指南》火爆GitHub，日涨1500+星，跟着码农干多活20年-量子位的文章-知乎](https://zhuanlan.zhihu.com/p/502393797)

@@ -212,6 +212,10 @@ The main repository serves as a curated list of awesome lists.
 6. [forthespada/Awsome-Courses](https://github.com/forthespada/Awsome-Courses)
 7. [fffaraz/awesome-courses](https://github.com/fffaraz/awesome-courses)
 
+## 3D打印
+
+1. [ad-si/awesome-3d-printing](https://github.com/ad-si/awesome-3d-printing)
+
 ## 参考
 
 1. [Awesome Lists](https://github.com/topics/awesome)

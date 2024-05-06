@@ -129,8 +129,9 @@ pinned: false
 #### Python
 
 1. [ruff](https://github.com/charliermarsh/ruff)
-2. [pylint](https://github.com/PyCQA/pylint)
-3. [pylama](https://github.com/klen/pylama)
+2. [mypy](https://github.com/python/mypy)
+3. [pylint](https://github.com/PyCQA/pylint)
+4. [pylama](https://github.com/klen/pylama)
 
 #### shell
 

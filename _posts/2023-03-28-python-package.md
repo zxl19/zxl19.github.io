@@ -32,8 +32,9 @@ pip install，pip uninstall，拿起pip就是干！
 1. [python-poetry/poetry](https://github.com/python-poetry/poetry)
 2. [pypa/pipenv](https://github.com/pypa/pipenv)
 3. [mitsuhiko/rye](https://github.com/mitsuhiko/rye)
-4. [pdm-project/pdm](https://github.com/pdm-project/pdm)
-5. [pypa/hatch](https://github.com/pypa/hatch)
+4. [astral-sh/uv](https://github.com/astral-sh/uv)
+5. [pdm-project/pdm](https://github.com/pdm-project/pdm)
+6. [pypa/hatch](https://github.com/pypa/hatch)
 
 ### 虚拟环境管理
 
@@ -65,8 +66,9 @@ pip install，pip uninstall，拿起pip就是干！
 2. [Nuitka/Nuitka](https://github.com/Nuitka/Nuitka)
 3. [brentvollebregt/auto-py-to-exe](https://github.com/brentvollebregt/auto-py-to-exe)
 4. [marcelotduarte/cx_Freeze](https://github.com/marcelotduarte/cx_Freeze)
-5. [py2exe/py2exe](https://github.com/py2exe/py2exe)
-6. [ronaldoussoren/py2app](https://github.com/ronaldoussoren/py2app)
+5. [takluyver/pynsist](https://github.com/takluyver/pynsist)
+6. [py2exe/py2exe](https://github.com/py2exe/py2exe)
+7. [ronaldoussoren/py2app](https://github.com/ronaldoussoren/py2app)
 
 ## 交互式解释器
 
@@ -156,10 +158,37 @@ pip install，pip uninstall，拿起pip就是干！
 
 ## 数据分析
 
-1. [pandas-dev/pandas](https://github.com/pandas-dev/pandas)
-2. [apache/superset](https://github.com/apache/superset)
-3. [great-expectations/great_expectations](https://github.com/great-expectations/great_expectations)
-4. [geopandas/geopandas](https://github.com/geopandas/geopandas)
+### 表格数据分析
+
+1. [csv](https://docs.python.org/3/library/csv.html)
+2. [pandas-dev/pandas](https://github.com/pandas-dev/pandas)
+3. [h2oai/datatable](https://github.com/h2oai/datatable)
+4. [petl-developers/petl](https://github.com/petl-developers/petl)
+5. [tkrabel/bamboolib](https://github.com/tkrabel/bamboolib)
+
+### 数据清洗
+
+1. [pydantic/pydantic](https://github.com/pydantic/pydantic)
+2. [ResidentMario/missingno](https://github.com/ResidentMario/missingno)
+3. [akanz1/klib](https://github.com/akanz1/klib)
+
+### 数据集分析
+
+1. [apache/superset](https://github.com/apache/superset)
+2. [holoviz/panel](https://github.com/holoviz/panel)
+3. [mito-ds/mito](https://github.com/mito-ds/mito)
+4. [AutoViML/AutoViz](https://github.com/AutoViML/AutoViz)
+
+### 探索性数据分析
+
+1. [great-expectations/great_expectations](https://github.com/great-expectations/great_expectations)
+2. [fbdesignpro/sweetviz](https://github.com/fbdesignpro/sweetviz)
+3. [sfu-db/dataprep](https://github.com/sfu-db/dataprep)
+
+### 地理信息分析
+
+1. [geopy/geopy](https://github.com/geopy/geopy)
+2. [geopandas/geopandas](https://github.com/geopandas/geopandas)
 
 ## 可视化
 
@@ -167,12 +196,23 @@ pip install，pip uninstall，拿起pip就是干！
 
 1. [matplotlib/matplotlib](https://github.com/matplotlib/matplotlib)
 2. [mwaskom/seaborn](https://github.com/mwaskom/seaborn)
-3. [bokeh/bokeh](https://github.com/bokeh/bokeh)
-4. [plotly/plotly.py](https://github.com/plotly/plotly.py)
-5. [pyecharts/pyecharts](https://github.com/pyecharts/pyecharts)
-6. [altair-viz/altair](https://github.com/altair-viz/altair)
+3. [altair-viz/altair](https://github.com/altair-viz/altair)
+4. [has2k1/plotnine](https://github.com/has2k1/plotnine)
+5. [bqplot/bqplot](https://github.com/bqplot/bqplot)
+6. [proplot-dev/proplot](https://github.com/proplot-dev/proplot)
+7. [moshi4/pyCirclize](https://github.com/moshi4/pyCirclize)
+8. [ponnhide/patchworklib](https://github.com/ponnhide/patchworklib)
+9. [amueller/word_cloud](https://github.com/amueller/word_cloud)
+
+### 交互式可视化
+
+1. [plotly/dash](https://github.com/plotly/dash)
+2. [bokeh/bokeh](https://github.com/bokeh/bokeh)
+3. [plotly/plotly.py](https://github.com/plotly/plotly.py)
+4. [pyecharts/pyecharts](https://github.com/pyecharts/pyecharts)
+5. [vispy/vispy](https://github.com/vispy/vispy)
+6. [mckinsey/vizro](https://github.com/mckinsey/vizro)
 7. [d3blocks/d3blocks](https://github.com/d3blocks/d3blocks)
-8. [wordcloud](https://pypi.org/project/wordcloud)
 
 ### 深度学习可视化
 
@@ -269,10 +309,43 @@ pip install，pip uninstall，拿起pip就是干！
 
 ## 机器学习&深度学习
 
+### 框架
+
 1. [pytorch/pytorch](https://github.com/pytorch/pytorch)
 2. [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow)
 3. [keras-team/keras](https://github.com/keras-team/keras)
 4. [scikit-learn/scikit-learn](https://github.com/scikit-learn/scikit-learn)
+
+### 基础任务
+
+#### 聚类
+
+1. [EpistasisLab/tpot](https://github.com/EpistasisLab/tpot)
+2. [EpistasisLab/tpot2](https://github.com/EpistasisLab/tpot2)
+
+#### 回归
+
+1. [ourownstory/neural_prophet](https://github.com/ourownstory/neural_prophet)
+2. [shankarpandala/lazypredict](https://github.com/shankarpandala/lazypredict)
+
+### 梯度下降
+
+1. [dmlc/xgboost](https://github.com/dmlc/xgboost)
+2. [geohot/tinygrad](https://github.com/geohot/tinygrad)
+3. [pycaret/pycaret](https://github.com/pycaret/pycaret)
+4. [catboost/catboost](https://github.com/catboost/catboost)
+5. [karpathy/micrograd](https://github.com/karpathy/micrograd)
+
+### 自然语言处理
+
+1. [explosion/spaCy](https://github.com/explosion/spaCy)
+2. [sloria/TextBlob](https://github.com/sloria/TextBlob)
+3. [stanfordnlp/stanza](https://github.com/stanfordnlp/stanza)
+4. [life4/textdistance](https://github.com/life4/textdistance)
+
+### 大语言模型
+
+1. [nebuly-ai/nebuly](https://github.com/nebuly-ai/nebuly)
 
 ### 数据增强
 
@@ -314,8 +387,9 @@ pip install，pip uninstall，拿起pip就是干！
 4. [rapidsai/cudf](https://github.com/rapidsai/cudf)
 5. [joblib/joblib](https://github.com/joblib/joblib)
 6. [mars-project/mars](https://github.com/mars-project/mars)
-7. [inducer/pycuda](https://github.com/inducer/pycuda)
-8. [xorbitsai/xorbits](https://github.com/xorbitsai/xorbits)
+7. [fugue-project/fugue](https://github.com/fugue-project/fugue)
+8. [inducer/pycuda](https://github.com/inducer/pycuda)
+9. [xorbitsai/xorbits](https://github.com/xorbitsai/xorbits)
 
 ## 加密
 
@@ -330,10 +404,19 @@ pip install，pip uninstall，拿起pip就是干！
 3. [google/flatbuffers](https://github.com/google/flatbuffers)
 4. [marshmallow-code/marshmallow](https://github.com/marshmallow-code/marshmallow)
 5. [ijl/orjson](https://github.com/ijl/orjson)
+6. [uqfoundation/dill](https://github.com/uqfoundation/dill)
+
+## 有限状态机
+
+1. [pytransitions/transitions](https://github.com/pytransitions/transitions)
+2. [fgmacedo/python-statemachine](https://github.com/fgmacedo/python-statemachine)
+3. [glyph/automat](https://github.com/glyph/automat)
+4. [jtushman/state_machine](https://github.com/jtushman/state_machine)
 
 ## 通信
 
 1. [zeromq/pyzmq](https://github.com/zeromq/pyzmq)
+2. [codypiersall/pynng](https://github.com/codypiersall/pynng)
 
 ## 分布式任务
 
@@ -388,6 +471,11 @@ pip install，pip uninstall，拿起pip就是干！
 1. [x-hw/amazing-qr](https://github.com/x-hw/amazing-qr)
 2. [lincolnloop/python-qrcode](https://github.com/lincolnloop/python-qrcode)
 3. [heuer/segno](https://github.com/heuer/segno)
+
+## 盲水印
+
+1. [guofei9987/blind_watermark](https://github.com/guofei9987/blind_watermark)
+2. [guofei9987/text_blind_watermark](https://github.com/guofei9987/text_blind_watermark)
 
 ## 函数式编程
 

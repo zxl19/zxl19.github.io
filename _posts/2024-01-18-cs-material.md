@@ -59,6 +59,11 @@ pinned: false
 9. [Trinkle23897/THU-CST-Cracker](https://github.com/Trinkle23897/THU-CST-Cracker)
 10. [15172658790/Blog](https://github.com/15172658790/Blog)
 
+## 硬件模拟
+
+1. [mamedev/mame](https://github.com/mamedev/mame)
+2. [InkboxSoftware/excelCPU](https://github.com/InkboxSoftware/excelCPU)
+
 ## 网站
 
 1. [Developer Roadmaps](https://roadmap.sh)
