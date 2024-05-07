@@ -37,9 +37,8 @@ Meme这个词最初源自英国著名科学家理查德·道金斯所著的《�
 11. [斜着看生成器](https://lab.magiconch.com/xzk/)
 12. [绯红-中国传统颜色手册](https://colors.ichuantong.cn)
 13. [lllyasviel/Fooocus](https://github.com/lllyasviel/Fooocus)
-14. [AmruthPillai/Reactive-Resume](https://github.com/AmruthPillai/Reactive-Resume)
-15. [mylxsw/aidea](https://github.com/mylxsw/aidea)
-16. [prompt-engineering/understand-prompt](https://github.com/prompt-engineering/understand-prompt)
+14. [mylxsw/aidea](https://github.com/mylxsw/aidea)
+15. [prompt-engineering/understand-prompt](https://github.com/prompt-engineering/understand-prompt)
 
 ## 测试
 
