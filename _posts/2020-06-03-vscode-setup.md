@@ -261,41 +261,42 @@ CMake扩展。
 
 ### LaTeX Workshop
 
-LaTeX语言扩展，配置`latex-workshop.latex.tools`、`latex-workshop.latex.recipes`后可以编译文档并预览。
+LaTeX语言扩展，提供LaTeX排版所需的核心功能，安装LaTeX Utilities扩展可以提高使用体验。
 
-1. `latex-workshop.latex.tools`指定了单条编译命令的参数，示例：
+1. 提供代码格式化功能，类似的扩展还有LaTeX、latex-formatter；
+2. 配置`latex-workshop.latex.tools`、`latex-workshop.latex.recipes`后可以编译文档并预览：
 
-    ```json
-    {
-        "name": "xelatexmk",
-        "command": "latexmk",
-        "args": [
-            "-synctex=1",
-            "-interaction=nonstopmode",
-            "-file-line-error",
-            "-xelatex",
-            "-outdir=%OUTDIR%",
-            "%DOC%"
-        ],
-        "env": {}
-    }
-    ```
+    - `latex-workshop.latex.tools`指定了单条编译命令的参数，示例：
 
-2. `latex-workshop.latex.recipes`指定了多条编译命令的执行顺序，示例：
+        ```json
+        {
+            "name": "xelatexmk",
+            "command": "latexmk",
+            "args": [
+                "-synctex=1",
+                "-interaction=nonstopmode",
+                "-file-line-error",
+                "-xelatex",
+                "-outdir=%OUTDIR%",
+                "%DOC%"
+            ],
+            "env": {}
+        }
+        ```
 
-    ```json
-    {
-        "name": "xelatex ➞ biber ➞ xelatex × 2",
-        "tools": [
-            "xelatexmk",
-            "biber",
-            "xelatexmk",
-            "xelatexmk"
-        ]
-    }
-    ```
+    - `latex-workshop.latex.recipes`指定了多条编译命令的执行顺序，示例：
 
-3. 提供了代码格式化功能，类似的扩展还有latex-formatter；
+        ```json
+        {
+            "name": "xelatex ➞ biber ➞ xelatex × 2",
+            "tools": [
+                "xelatexmk",
+                "biber",
+                "xelatexmk",
+                "xelatexmk"
+            ]
+        }
+        ```
 
 ### LeetCode
 

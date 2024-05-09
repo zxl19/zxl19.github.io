@@ -465,6 +465,7 @@ pip install，pip uninstall，拿起pip就是干！
 
 1. [jiaaro/pydub](https://github.com/jiaaro/pydub)
 2. [librosa/librosa](https://github.com/librosa/librosa)
+3. [spatialaudio/python-sounddevice](https://github.com/spatialaudio/python-sounddevice)
 
 ### 视频编辑
 
