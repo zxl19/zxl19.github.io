@@ -232,9 +232,10 @@ pinned: false
 #### 三角剖分
 
 1. [artem-ogre/CDT](https://github.com/artem-ogre/CDT)
-2. [delfrrr/delaunator-cpp](https://github.com/delfrrr/delaunator-cpp)
-3. [bl4ckb0ne/delaunay-triangulation](https://github.com/bl4ckb0ne/delaunay-triangulation)
-4. [jhasse/poly2tri](https://github.com/jhasse/poly2tri)
+2. [ivanfratric/polypartition](https://github.com/ivanfratric/polypartition)
+3. [delfrrr/delaunator-cpp](https://github.com/delfrrr/delaunator-cpp)
+4. [bl4ckb0ne/delaunay-triangulation](https://github.com/bl4ckb0ne/delaunay-triangulation)
+5. [jhasse/poly2tri](https://github.com/jhasse/poly2tri)
 
 #### 网格处理
 

@@ -97,6 +97,7 @@ pip install，pip uninstall，拿起pip就是干！
 3. [grantjenks/python-sortedcontainers](https://github.com/grantjenks/python-sortedcontainers)
 4. [ilanschnell/bitarray](https://github.com/ilanschnell/bitarray)
 5. [WoLpH/numpy-stl](https://github.com/WoLpH/numpy-stl)
+6. [gvinciguerra/PyGM](https://github.com/gvinciguerra/PyGM)
 
 ## 文件和系统
 
@@ -105,6 +106,16 @@ pip install，pip uninstall，拿起pip就是干！
 3. [shutil](https://docs.python.org/3/library/shutil.html)
 4. [gorakhargosh/watchdog](https://github.com/gorakhargosh/watchdog)
 5. [tox-dev/filelock](https://github.com/tox-dev/filelock)
+
+## 文件压缩
+
+1. [Data Compression and Archiving](https://docs.python.org/3/library/archiving.html)
+2. [sandes/zipfly](https://github.com/sandes/zipfly)
+3. [indygreg/python-zstandard](https://github.com/indygreg/python-zstandard)
+4. [miurahr/py7zr](https://github.com/miurahr/py7zr)
+5. [Blosc/python-blosc](https://github.com/Blosc/python-blosc)
+6. [python-lz4/python-lz4](https://github.com/python-lz4/python-lz4)
+7. [sergey-dryabzhinsky/python-zstd](https://github.com/sergey-dryabzhinsky/python-zstd)
 
 ## 日期时间
 
@@ -192,6 +203,7 @@ pip install，pip uninstall，拿起pip就是干！
 
 1. [geopy/geopy](https://github.com/geopy/geopy)
 2. [geopandas/geopandas](https://github.com/geopandas/geopandas)
+3. [jazzband/geojson](https://github.com/jazzband/geojson)
 
 ## 可视化
 
@@ -231,7 +243,8 @@ pip install，pip uninstall，拿起pip就是干！
 
 1. [python-visualization/folium](https://github.com/python-visualization/folium)
 2. [SciTools/cartopy](https://github.com/SciTools/cartopy)
-3. [holoviz/geoviews](https://github.com/holoviz/geoviews)
+3. [matplotlib/basemap](https://github.com/matplotlib/basemap)
+4. [holoviz/geoviews](https://github.com/holoviz/geoviews)
 
 ## 图论
 
@@ -276,17 +289,18 @@ pip install，pip uninstall，拿起pip就是干！
 
 ## 可视化界面
 
-1. [Textualize/textual](https://github.com/Textualize/textual)
-2. [chriskiehl/Gooey](https://github.com/chriskiehl/Gooey)
-3. [PySimpleGUI/PySimpleGUI](https://github.com/PySimpleGUI/PySimpleGUI)
-4. [hoffstadt/DearPyGui](https://github.com/hoffstadt/DearPyGui)
-5. [zauberzeug/nicegui](https://github.com/zauberzeug/nicegui)
-6. [PyQt5/PyQt](https://github.com/PyQt5/PyQt)
-7. [beeware/toga](https://github.com/beeware/toga)
-8. [urwid/urwid](https://github.com/urwid/urwid)
-9. [nucleic/enaml](https://github.com/nucleic/enaml)
-10. [UmSenhorQualquer/pyforms](https://github.com/UmSenhorQualquer/pyforms)
-11. [fcollonval/matplotlib_qtquick_playground](https://github.com/fcollonval/matplotlib_qtquick_playground)
+1. [curses](https://docs.python.org/3/library/curses.html)
+2. [Textualize/textual](https://github.com/Textualize/textual)
+3. [chriskiehl/Gooey](https://github.com/chriskiehl/Gooey)
+4. [PySimpleGUI/PySimpleGUI](https://github.com/PySimpleGUI/PySimpleGUI)
+5. [hoffstadt/DearPyGui](https://github.com/hoffstadt/DearPyGui)
+6. [zauberzeug/nicegui](https://github.com/zauberzeug/nicegui)
+7. [PyQt5/PyQt](https://github.com/PyQt5/PyQt)
+8. [beeware/toga](https://github.com/beeware/toga)
+9. [urwid/urwid](https://github.com/urwid/urwid)
+10. [nucleic/enaml](https://github.com/nucleic/enaml)
+11. [UmSenhorQualquer/pyforms](https://github.com/UmSenhorQualquer/pyforms)
+12. [fcollonval/matplotlib_qtquick_playground](https://github.com/fcollonval/matplotlib_qtquick_playground)
 
 ## 调试工具
 
@@ -387,19 +401,23 @@ pip install，pip uninstall，拿起pip就是干！
 4. [tonybaloney/Pyjion](https://github.com/tonybaloney/Pyjion)
 5. [pytorch/torchdynamo](https://github.com/pytorch/torchdynamo)
 
-### 并行计算
+### 并行
 
 1. [taichi-dev/taichi](https://github.com/taichi-dev/taichi)
 2. [dask/dask](https://github.com/dask/dask)
 3. [modin-project/modin](https://github.com/modin-project/modin)
 4. [rapidsai/cudf](https://github.com/rapidsai/cudf)
-5. [python-trio/trio](https://github.com/python-trio/trio)
-6. [joblib/joblib](https://github.com/joblib/joblib)
-7. [mars-project/mars](https://github.com/mars-project/mars)
-8. [fugue-project/fugue](https://github.com/fugue-project/fugue)
-9. [inducer/pycuda](https://github.com/inducer/pycuda)
-10. [omnilib/aiomultiprocess](https://github.com/omnilib/aiomultiprocess)
-11. [xorbitsai/xorbits](https://github.com/xorbitsai/xorbits)
+5. [joblib/joblib](https://github.com/joblib/joblib)
+6. [mars-project/mars](https://github.com/mars-project/mars)
+7. [fugue-project/fugue](https://github.com/fugue-project/fugue)
+8. [inducer/pycuda](https://github.com/inducer/pycuda)
+9. [xorbitsai/xorbits](https://github.com/xorbitsai/xorbits)
+
+### 异步
+
+1. [asyncio](https://docs.python.org/3/library/asyncio.html)
+2. [python-trio/trio](https://github.com/python-trio/trio)
+3. [omnilib/aiomultiprocess](https://github.com/omnilib/aiomultiprocess)
 
 ### 语言性能
 
