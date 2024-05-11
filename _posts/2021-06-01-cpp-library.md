@@ -34,8 +34,10 @@ pinned: false
 
 ### 文件压缩
 
-1. [r-lyeh-archived/bundle](https://github.com/r-lyeh-archived/bundle)
-2. [ctabin/libzippp](https://github.com/ctabin/libzippp)
+1. [lz4/lz4](https://github.com/lz4/lz4)
+2. [google/snappy](https://github.com/google/snappy)
+3. [r-lyeh-archived/bundle](https://github.com/r-lyeh-archived/bundle)
+4. [ctabin/libzippp](https://github.com/ctabin/libzippp)
 
 ## 命令行输出
 

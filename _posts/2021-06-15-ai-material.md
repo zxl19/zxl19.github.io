@@ -101,8 +101,9 @@ pinned: false
 1. [optuna/optuna](https://github.com/optuna/optuna)
 2. [hyperopt/hyperopt](https://github.com/hyperopt/hyperopt)
 3. [keras-team/keras-tuner](https://github.com/keras-team/keras-tuner)
-4. [hyperopt/hyperopt-sklearn](https://github.com/hyperopt/hyperopt-sklearn)
-5. [kubeflow/katib](https://github.com/kubeflow/katib)
+4. [autonomio/talos](https://github.com/autonomio/talos)
+5. [hyperopt/hyperopt-sklearn](https://github.com/hyperopt/hyperopt-sklearn)
+6. [kubeflow/katib](https://github.com/kubeflow/katib)
 
 ## 神经网络分析
 

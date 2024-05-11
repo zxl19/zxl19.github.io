@@ -48,21 +48,22 @@ pinned: false
 
 ## ChatGPT
 
-1. [binary-husky/chatgpt_academic](https://github.com/binary-husky/chatgpt_academic)
+1. [binary-husky/gpt_academic](https://github.com/binary-husky/gpt_academic)
 2. [imartinez/privateGPT](https://github.com/imartinez/privateGPT)
 3. [KillianLucas/open-interpreter](https://github.com/KillianLucas/open-interpreter)
 4. [chatchat-space/Langchain-Chatchat](https://github.com/chatchat-space/Langchain-Chatchat)
-5. [kaixindelele/ChatPaper](https://github.com/kaixindelele/ChatPaper)
-6. [Bin-Huang/chatbox](https://github.com/Bin-Huang/chatbox)
-7. [THUDM/CodeGeeX](https://github.com/THUDM/CodeGeeX)
-8. [TheR1D/shell_gpt](https://github.com/TheR1D/shell_gpt)
-9. [rubickCenter/rubick](https://github.com/rubickCenter/rubick)
-10. [THUDM/CodeGeeX2](https://github.com/THUDM/CodeGeeX2)
-11. [paul-gauthier/aider](https://github.com/paul-gauthier/aider)
-12. [danielmiessler/fabric](https://github.com/danielmiessler/fabric)
-13. [nishiwen1214/ChatReviewer](https://github.com/nishiwen1214/ChatReviewer)
-14. [WangRongsheng/ChatGenTitle](https://github.com/WangRongsheng/ChatGenTitle)
-15. [talkingwallace/ChatGPT-Paper-Reader](https://github.com/talkingwallace/ChatGPT-Paper-Reader)
+5. [Bin-Huang/chatbox](https://github.com/Bin-Huang/chatbox)
+6. [kaixindelele/ChatPaper](https://github.com/kaixindelele/ChatPaper)
+7. [danielmiessler/fabric](https://github.com/danielmiessler/fabric)
+8. [paul-gauthier/aider](https://github.com/paul-gauthier/aider)
+9. [bentoml/OpenLLM](https://github.com/bentoml/OpenLLM)
+10. [TheR1D/shell_gpt](https://github.com/TheR1D/shell_gpt)
+11. [THUDM/CodeGeeX](https://github.com/THUDM/CodeGeeX)
+12. [rubickCenter/rubick](https://github.com/rubickCenter/rubick)
+13. [THUDM/CodeGeeX2](https://github.com/THUDM/CodeGeeX2)
+14. [nishiwen1214/ChatReviewer](https://github.com/nishiwen1214/ChatReviewer)
+15. [WangRongsheng/ChatGenTitle](https://github.com/WangRongsheng/ChatGenTitle)
+16. [talkingwallace/ChatGPT-Paper-Reader](https://github.com/talkingwallace/ChatGPT-Paper-Reader)
 
 ## 参考
 

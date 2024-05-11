@@ -95,6 +95,8 @@ pip install，pip uninstall，拿起pip就是干！
 1. [mahmoud/boltons](https://github.com/mahmoud/boltons)
 2. [pytoolz/toolz](https://github.com/pytoolz/toolz)
 3. [grantjenks/python-sortedcontainers](https://github.com/grantjenks/python-sortedcontainers)
+4. [ilanschnell/bitarray](https://github.com/ilanschnell/bitarray)
+5. [WoLpH/numpy-stl](https://github.com/WoLpH/numpy-stl)
 
 ## 文件和系统
 
@@ -203,7 +205,8 @@ pip install，pip uninstall，拿起pip就是干！
 6. [proplot-dev/proplot](https://github.com/proplot-dev/proplot)
 7. [moshi4/pyCirclize](https://github.com/moshi4/pyCirclize)
 8. [ponnhide/patchworklib](https://github.com/ponnhide/patchworklib)
-9. [amueller/word_cloud](https://github.com/amueller/word_cloud)
+9. [astrofrog/fast-histogram](https://github.com/astrofrog/fast-histogram)
+10. [amueller/word_cloud](https://github.com/amueller/word_cloud)
 
 ### 交互式可视化
 
@@ -300,7 +303,8 @@ pip install，pip uninstall，拿起pip就是干！
 
 1. [timeit](https://docs.python.org/3/library/timeit.html)
 2. [gaogaotiantian/viztracer](https://github.com/gaogaotiantian/viztracer)
-3. [cpcloud/ipython-autotime](https://github.com/cpcloud/ipython-autotime)
+3. [sumerc/yappi](https://github.com/sumerc/yappi)
+4. [cpcloud/ipython-autotime](https://github.com/cpcloud/ipython-autotime)
 
 ## 图像处理
 
@@ -389,11 +393,13 @@ pip install，pip uninstall，拿起pip就是干！
 2. [dask/dask](https://github.com/dask/dask)
 3. [modin-project/modin](https://github.com/modin-project/modin)
 4. [rapidsai/cudf](https://github.com/rapidsai/cudf)
-5. [joblib/joblib](https://github.com/joblib/joblib)
-6. [mars-project/mars](https://github.com/mars-project/mars)
-7. [fugue-project/fugue](https://github.com/fugue-project/fugue)
-8. [inducer/pycuda](https://github.com/inducer/pycuda)
-9. [xorbitsai/xorbits](https://github.com/xorbitsai/xorbits)
+5. [python-trio/trio](https://github.com/python-trio/trio)
+6. [joblib/joblib](https://github.com/joblib/joblib)
+7. [mars-project/mars](https://github.com/mars-project/mars)
+8. [fugue-project/fugue](https://github.com/fugue-project/fugue)
+9. [inducer/pycuda](https://github.com/inducer/pycuda)
+10. [omnilib/aiomultiprocess](https://github.com/omnilib/aiomultiprocess)
+11. [xorbitsai/xorbits](https://github.com/xorbitsai/xorbits)
 
 ### 语言性能
 
@@ -404,8 +410,9 @@ pip install，pip uninstall，拿起pip就是干！
 ## 加密
 
 1. [pyca/cryptography](https://github.com/pyca/cryptography)
-2. [Legrandin/pycryptodome](https://github.com/Legrandin/pycryptodome)
-3. [pycrypto/pycrypto](https://github.com/pycrypto/pycrypto)
+2. [dashingsoft/pyarmor](https://github.com/dashingsoft/pyarmor)
+3. [Legrandin/pycryptodome](https://github.com/Legrandin/pycryptodome)
+4. [pycrypto/pycrypto](https://github.com/pycrypto/pycrypto)
 
 ## 序列化
 
