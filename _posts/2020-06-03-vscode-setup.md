@@ -184,6 +184,13 @@ CMake扩展。
     - 使用`[[wikilink#section]]`链接到具体的章节；
     - 使用`[[wikilink|alias]]`设置预览时显示的别名；
 
+### gitattributes
+
+从[gitattributes/gitattributes](https://github.com/gitattributes/gitattributes)仓库中拉取`.gitattributes`文件模板。
+
+1. `Ctrl`+`Shift`+`P`，输入`Add gitattributes`；
+2. 选择语言，在工程根目录下创建`.gitattributes`文件；
+
 ### GitHub Pull Requests and Issues
 
 为VS Code提供GitHub支持。
