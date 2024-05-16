@@ -470,11 +470,12 @@ pip install，pip uninstall，拿起pip就是干！
 ### PDF
 
 1. [py-pdf/pypdf](https://github.com/py-pdf/pypdf)
-2. [euske/pdfminer](https://github.com/euske/pdfminer)
-3. [pdfminer/pdfminer.six](https://github.com/pdfminer/pdfminer.six)
-4. [jorisschellekens/borb](https://github.com/jorisschellekens/borb)
-5. [pdfarranger/pdfarranger](https://github.com/pdfarranger/pdfarranger)
-6. [ArtifexSoftware/pdf2docx](https://github.com/ArtifexSoftware/pdf2docx)
+2. [pdfminer/pdfminer.six](https://github.com/pdfminer/pdfminer.six)
+3. [euske/pdfminer](https://github.com/euske/pdfminer)
+4. [pymupdf/PyMuPDF](https://github.com/pymupdf/PyMuPDF)
+5. [jorisschellekens/borb](https://github.com/jorisschellekens/borb)
+6. [pdfarranger/pdfarranger](https://github.com/pdfarranger/pdfarranger)
+7. [ArtifexSoftware/pdf2docx](https://github.com/ArtifexSoftware/pdf2docx)
 
 ### Office文档
 

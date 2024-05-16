@@ -864,8 +864,9 @@ int main()
 3. [清华大学中文Beamer模板-Overleaf](https://www.overleaf.com/latex/templates/qing-hua-da-xue-zhong-wen-beamer-mo-ban/djcnhxpwhrks)
 4. [TsinghuaBeamer-Overleaf](https://www.overleaf.com/latex/templates/tsinghuabeamer/gwchbskgbvrm)
 5. [Trinkle23897/THU-Beamer-Theme](https://github.com/Trinkle23897/THU-Beamer-Theme)
-6. [fuujiro/DLUT-Beamer-Slide-V2](https://github.com/fuujiro/DLUT-Beamer-Slide-V2)
-7. [fuujiro/DLUT-Beamer-Slide-V1](https://github.com/fuujiro/DLUT-Beamer-Slide-V1)
+6. [YangLaTeX/thubeamer](https://github.com/YangLaTeX/thubeamer)
+7. [fuujiro/DLUT-Beamer-Slide-V2](https://github.com/fuujiro/DLUT-Beamer-Slide-V2)
+8. [fuujiro/DLUT-Beamer-Slide-V1](https://github.com/fuujiro/DLUT-Beamer-Slide-V1)
 
 #### 有趣模板
 
