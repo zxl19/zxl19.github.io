@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 机器学习、深度学习资料存档
+title: 人工智能学习资料存档
 date: 2021-06-15
 author: zxl19
 tags: [AI, Archive]
@@ -9,39 +9,56 @@ toc: true
 pinned: false
 ---
 
-机器学习、深度学习相关资料存档。
+人工智能学习资料存档，包括机器学习、深度学习、强化学习。
 
 <!-- more -->
 
-## 公开课
+## 教程
+
+### 机器学习
 
 1. [吴恩达机器学习](https://study.163.com/course/introduction/1210076550.htm)
-2. [Kaggle](https://www.kaggle.com)
+2. [Machine Learning Yearning](https://deeplearning-ai.github.io/machine-learning-yearning-cn/)
+3. [Kaggle](https://www.kaggle.com)
+4. [机器学习](https://cs.nju.edu.cn/zhouzh/zhouzh.files/publication/MLbook2016.htm)
+5. [Pattern Recognition and Machine Learning](http://users.isr.ist.utl.pt/~wurmd/Livros/school/Bishop%20-%20Pattern%20Recognition%20And%20Machine%20Learning%20-%20Springer%20%202006.pdf)
+6. [Foundations of Machine Learning](https://cs.nyu.edu/~mohri/mlbook/)
+7. [Avik-Jain/100-Days-Of-ML-Code](https://github.com/Avik-Jain/100-Days-Of-ML-Code)
+8. [andkret/Cookbook](https://github.com/andkret/Cookbook)
+9. [Visualize-ML/Book7_Visualizations-for-Machine-Learning](https://github.com/Visualize-ML/Book7_Visualizations-for-Machine-Learning)
+10. [mikeizbicki/cmc-csci143](https://github.com/mikeizbicki/cmc-csci143)
+11. [mikeizbicki/cmc-csci145-math166](https://github.com/mikeizbicki/cmc-csci145-math166)
 
-## 教程
+### 深度学习
 
 1. [动手学深度学习](http://zh.d2l.ai)
 2. [神经网络与深度学习](https://nndl.github.io)
-3. [机器学习](https://cs.nju.edu.cn/zhouzh/zhouzh.files/publication/MLbook2016.htm)
-4. [AI算法工程师手册](https://www.huaxiaozhuan.com)
-5. [Machine Learning Yearning](https://deeplearning-ai.github.io/machine-learning-yearning-cn/)
-6. [Practical Deep Learning for Coders](https://course.fast.ai)
-7. [Neural Network and Deep Learning](http://neuralnetworksanddeeplearning.com/index.html)
-8. [Pattern Recognition and Machine Learning](http://users.isr.ist.utl.pt/~wurmd/Livros/school/Bishop%20-%20Pattern%20Recognition%20And%20Machine%20Learning%20-%20Springer%20%202006.pdf)
-9. [Foundations of Machine Learning](https://cs.nyu.edu/~mohri/mlbook/)
-10. [Avik-Jain/100-Days-Of-ML-Code](https://github.com/Avik-Jain/100-Days-Of-ML-Code)
-11. [google-research/tuning_playbook](https://github.com/google-research/tuning_playbook)
-12. [openai/openai-cookbook](https://github.com/openai/openai-cookbook)
-13. [microsoft/ai-edu](https://github.com/microsoft/ai-edu)
-14. [andkret/Cookbook](https://github.com/andkret/Cookbook)
-15. [datawhalechina/leedl-tutorial](https://github.com/datawhalechina/leedl-tutorial)
-16. [ahmedbahaaeldin/From-0-to-Research-Scientist-resources-guide](https://github.com/ahmedbahaaeldin/From-0-to-Research-Scientist-resources-guide)
-17. [unclestrong/DeepLearning_LHY21_Notes](https://github.com/unclestrong/DeepLearning_LHY21_Notes)
-18. [Visualize-ML/Book7_Visualizations-for-Machine-Learning](https://github.com/Visualize-ML/Book7_Visualizations-for-Machine-Learning)
-19. [leerumor/ai-study](https://github.com/leerumor/ai-study)
-20. [blueberrymusic/Deep-Learning-A-Visual-Approach](https://github.com/blueberrymusic/Deep-Learning-A-Visual-Approach)
-21. [mikeizbicki/cmc-csci143](https://github.com/mikeizbicki/cmc-csci143)
-22. [mikeizbicki/cmc-csci145-math166](https://github.com/mikeizbicki/cmc-csci145-math166)
+3. [AI算法工程师手册](https://www.huaxiaozhuan.com)
+4. [Practical Deep Learning for Coders](https://course.fast.ai)
+5. [Neural Network and Deep Learning](http://neuralnetworksanddeeplearning.com/index.html)
+6. [google-research/tuning_playbook](https://github.com/google-research/tuning_playbook)
+7. [openai/openai-cookbook](https://github.com/openai/openai-cookbook)
+8. [microsoft/ai-edu](https://github.com/microsoft/ai-edu)
+9. [datawhalechina/leedl-tutorial](https://github.com/datawhalechina/leedl-tutorial)
+10. [ahmedbahaaeldin/From-0-to-Research-Scientist-resources-guide](https://github.com/ahmedbahaaeldin/From-0-to-Research-Scientist-resources-guide)
+11. [unclestrong/DeepLearning_LHY21_Notes](https://github.com/unclestrong/DeepLearning_LHY21_Notes)
+12. [leerumor/ai-study](https://github.com/leerumor/ai-study)
+13. [blueberrymusic/Deep-Learning-A-Visual-Approach](https://github.com/blueberrymusic/Deep-Learning-A-Visual-Approach)
+
+### 强化学习
+
+1. [openai/gym](https://github.com/openai/gym)
+2. [dennybritz/reinforcement-learning](https://github.com/dennybritz/reinforcement-learning)
+3. [openai/baselines](https://github.com/openai/baselines)
+4. [ShangtongZhang/reinforcement-learning-an-introduction](https://github.com/ShangtongZhang/reinforcement-learning-an-introduction)
+5. [MorvanZhou/Reinforcement-learning-with-tensorflow](https://github.com/MorvanZhou/Reinforcement-learning-with-tensorflow)
+6. [thu-ml/tianshou](https://github.com/thu-ml/tianshou)
+7. [zhoubolei/introRL](https://github.com/zhoubolei/introRL)
+8. [huggingface/lerobot](https://github.com/huggingface/lerobot)
+9. [NeuronDance/DeepRL](https://github.com/NeuronDance/DeepRL)
+10. [Khrylx/PyTorch-RL](https://github.com/Khrylx/PyTorch-RL)
+11. [kaixindelele/DRLib](https://github.com/kaixindelele/DRLib)
+12. [RobustFieldAutonomyLab/DRL_graph_exploration](https://github.com/RobustFieldAutonomyLab/DRL_graph_exploration)
 
 ## 笔记
 
@@ -70,9 +87,8 @@ pinned: false
 ### Tensorflow
 
 1. [chiphuyen/stanford-tensorflow-tutorials](https://github.com/chiphuyen/stanford-tensorflow-tutorials)
-2. [MorvanZhou/Reinforcement-learning-with-tensorflow](https://github.com/MorvanZhou/Reinforcement-learning-with-tensorflow)
-3. [MorvanZhou/Tensorflow-Tutorial](https://github.com/MorvanZhou/Tensorflow-Tutorial)
-4. [easy-tensorflow/easy-tensorflow](https://github.com/easy-tensorflow/easy-tensorflow)
+2. [MorvanZhou/Tensorflow-Tutorial](https://github.com/MorvanZhou/Tensorflow-Tutorial)
+3. [easy-tensorflow/easy-tensorflow](https://github.com/easy-tensorflow/easy-tensorflow)
 
 ## 神经网络可视化
 
