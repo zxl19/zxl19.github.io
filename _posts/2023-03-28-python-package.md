@@ -215,10 +215,11 @@ pip install，pip uninstall，拿起pip就是干！
 4. [has2k1/plotnine](https://github.com/has2k1/plotnine)
 5. [bqplot/bqplot](https://github.com/bqplot/bqplot)
 6. [proplot-dev/proplot](https://github.com/proplot-dev/proplot)
-7. [moshi4/pyCirclize](https://github.com/moshi4/pyCirclize)
-8. [ponnhide/patchworklib](https://github.com/ponnhide/patchworklib)
-9. [astrofrog/fast-histogram](https://github.com/astrofrog/fast-histogram)
-10. [amueller/word_cloud](https://github.com/amueller/word_cloud)
+7. [cutecharts/cutecharts.py](https://github.com/cutecharts/cutecharts.py)
+8. [moshi4/pyCirclize](https://github.com/moshi4/pyCirclize)
+9. [ponnhide/patchworklib](https://github.com/ponnhide/patchworklib)
+10. [astrofrog/fast-histogram](https://github.com/astrofrog/fast-histogram)
+11. [amueller/word_cloud](https://github.com/amueller/word_cloud)
 
 ### 交互式可视化
 
@@ -520,6 +521,12 @@ pip install，pip uninstall，拿起pip就是干！
 1. [evhub/coconut](https://github.com/evhub/coconut)
 2. [kachayev/fn.py](https://github.com/kachayev/fn.py)
 3. [EntilZha/PyFunctional](https://github.com/EntilZha/PyFunctional)
+
+## 动力学仿真
+
+1. [viblo/pymunk](https://github.com/viblo/pymunk)
+2. [pydy/pydy](https://github.com/pydy/pydy)
+3. [cdsousa/sympybotics](https://github.com/cdsousa/sympybotics)
 
 ## 有限元
 

@@ -96,8 +96,9 @@ pinned: false
 1. [Zsh](https://zsh.sourceforge.io)
 2. [Oh My Zsh](https://github.com/ohmyzsh/ohmyzsh)
 3. [tmux](https://github.com/tmux/tmux)
-4. [kitty](https://github.com/kovidgoyal/kitty)
-5. [terminator](https://github.com/gnome-terminator/terminator)
+4. [GitSquared/edex-ui](https://github.com/GitSquared/edex-ui)
+5. [kitty](https://github.com/kovidgoyal/kitty)
+6. [terminator](https://github.com/gnome-terminator/terminator)
 
 ## 代码质量
 

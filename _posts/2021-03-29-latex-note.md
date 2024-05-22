@@ -831,10 +831,11 @@ int main()
 3. [wklchris/Note-by-LaTeX](https://github.com/wklchris/Note-by-LaTeX)
 4. [egeerardyn/awesome-LaTeX](https://github.com/egeerardyn/awesome-LaTeX)
 5. [xinychen/latex-cookbook](https://github.com/xinychen/latex-cookbook)
-6. [tuna/thulib-latex-talk](https://github.com/tuna/thulib-latex-talk)
-7. [oetiker/lshort](https://github.com/oetiker/lshort)
-8. [huangxg/lnotes](https://github.com/huangxg/lnotes)
-9. [wch/latexsheet](https://github.com/wch/latexsheet)
+6. [huangxg/lnotes](https://github.com/huangxg/lnotes)
+7. [tuna/thulib-latex-talk](https://github.com/tuna/thulib-latex-talk)
+8. [oetiker/lshort](https://github.com/oetiker/lshort)
+9. [OsbertWang/install-latex-guide-zh-cn](https://github.com/OsbertWang/install-latex-guide-zh-cn)
+10. [wch/latexsheet](https://github.com/wch/latexsheet)
 
 ##### 模板
 
