@@ -521,6 +521,18 @@ pip install，pip uninstall，拿起pip就是干！
 2. [kachayev/fn.py](https://github.com/kachayev/fn.py)
 3. [EntilZha/PyFunctional](https://github.com/EntilZha/PyFunctional)
 
+## 有限元
+
+1. [firedrakeproject/firedrake](https://github.com/firedrakeproject/firedrake)
+2. [kinnala/scikit-fem](https://github.com/kinnala/scikit-fem)
+3. [JWock82/PyNite](https://github.com/JWock82/PyNite)
+4. [robbievanleeuwen/section-properties](https://github.com/robbievanleeuwen/section-properties)
+5. [weihuayi/fealpy](https://github.com/weihuayi/fealpy)
+6. [AppliedMechanics-EAFIT/SolidsPy](https://github.com/AppliedMechanics-EAFIT/SolidsPy)
+7. [YaoyaoBae/Feon](https://github.com/YaoyaoBae/Feon)
+8. [tjfulle/fem-with-python](https://github.com/tjfulle/fem-with-python)
+9. [deepmodeling/jax-fem](https://github.com/deepmodeling/jax-fem)
+
 ## 参考
 
 1. [为什么有些人宁愿花费很多时间去自己手工配置Python环境, 也不用Anaconda?-知乎](https://www.zhihu.com/question/404402864/answer/2954272601)
