@@ -16,10 +16,15 @@ pinned: false
 ## 库管理
 
 1. [microsoft/vcpkg](https://github.com/microsoft/vcpkg)
-2. [xmake-io/xmake](https://github.com/xmake-io/xmake)
-3. [conan-io/conan](https://github.com/conan-io/conan)
+2. [conan-io/conan](https://github.com/conan-io/conan)
+3. [mamba-org/mamba](https://github.com/mamba-org/mamba)
 4. [conda/conda](https://github.com/conda/conda)
-5. [mamba-org/mamba](https://github.com/mamba-org/mamba)
+
+## 构建工具
+
+1. [Kitware/CMake](https://github.com/Kitware/CMake)
+2. [xmake-io/xmake](https://github.com/xmake-io/xmake)
+3. [zdzhaoyong/PICMake](https://github.com/zdzhaoyong/PICMake)
 
 ## 开发框架
 
@@ -325,6 +330,7 @@ pinned: false
 
 1. [pybind/pybind11](https://github.com/pybind/pybind11)
 2. [wjakob/nanobind](https://github.com/wjakob/nanobind)
+3. [zdzhaoyong/Svar](https://github.com/zdzhaoyong/Svar)
 
 ## 反射
 

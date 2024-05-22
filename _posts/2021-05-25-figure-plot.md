@@ -105,12 +105,13 @@ pinned: false
     - [jgraph/drawio-desktop](https://github.com/jgraph/drawio-desktop)
     - [hediet/vscode-drawio](https://github.com/hediet/vscode-drawio)
 
-2. [Inkscape](https://inkscape.org)
-3. [TikZ+PGF](https://www.ctan.org/pkg/pgf)
-4. [Graphviz](https://graphviz.org)
-5. [Asymptote](https://asymptote.sourceforge.io)
-6. [AxGlyph](https://www.axsoft.co/axglyph)
-7. PowerPoint
+2. [yEd](https://www.yworks.com/products/yed)
+3. [Inkscape](https://inkscape.org)
+4. [TikZ+PGF](https://www.ctan.org/pkg/pgf)
+5. [Graphviz](https://graphviz.org)
+6. [Asymptote](https://asymptote.sourceforge.io)
+7. [AxGlyph](https://www.axsofts.com/product/axglyph/)
+8. PowerPoint
 
 ## 格式化数据
 

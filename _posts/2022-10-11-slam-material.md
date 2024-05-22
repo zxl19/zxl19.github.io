@@ -47,9 +47,10 @@ SLAM学习资料存档，包括SLAM基础理论、卡尔曼滤波、组合导航
 12. [jlblancoc/factor-graphs-course](https://github.com/jlblancoc/factor-graphs-course)
 13. [gongbingg/slam](https://github.com/gongbingg/slam)
 14. [Joanna-HE/Supplementary-file-for-IKFoM](https://github.com/Joanna-HE/Supplementary-file-for-IKFoM)
-15. [brytsknguyen/slict](https://github.com/brytsknguyen/slict)
-16. [ganlumomo/VisualInertialOdometry](https://github.com/ganlumomo/VisualInertialOdometry)
-17. [brytsknguyen/oblam_deskew](https://github.com/brytsknguyen/oblam_deskew)
+15. [slam-code/SLAM](https://github.com/slam-code/SLAM)
+16. [brytsknguyen/slict](https://github.com/brytsknguyen/slict)
+17. [ganlumomo/VisualInertialOdometry](https://github.com/ganlumomo/VisualInertialOdometry)
+18. [brytsknguyen/oblam_deskew](https://github.com/brytsknguyen/oblam_deskew)
 
 ### 公开课
 
@@ -151,8 +152,9 @@ SLAM学习资料存档，包括SLAM基础理论、卡尔曼滤波、组合导航
 5. [OpenDriveLab/End-to-end-Autonomous-Driving](https://github.com/OpenDriveLab/End-to-end-Autonomous-Driving)
 6. [OpenDriveLab/Birds-eye-view-Perception](https://github.com/OpenDriveLab/Birds-eye-view-Perception)
 7. [YannZyl/Apollo-Note](https://github.com/YannZyl/Apollo-Note)
-8. [nwaysir/Autopilot-Updating-Notes](https://github.com/nwaysir/Autopilot-Updating-Notes)
-9. [thomasfermi/Algorithms-for-Automated-Driving](https://github.com/thomasfermi/Algorithms-for-Automated-Driving)
+8. [thomasfermi/Algorithms-for-Automated-Driving](https://github.com/thomasfermi/Algorithms-for-Automated-Driving)
+9. [slam-code/apollo](https://github.com/slam-code/apollo)
+10. [nwaysir/Autopilot-Updating-Notes](https://github.com/nwaysir/Autopilot-Updating-Notes)
 
 ## 参考
 
