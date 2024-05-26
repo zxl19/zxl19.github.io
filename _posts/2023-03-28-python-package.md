@@ -104,8 +104,9 @@ pip install，pip uninstall，拿起pip就是干！
 1. [os](https://docs.python.org/3/library/os.html)
 2. [pathlib](https://docs.python.org/3/library/pathlib.html)
 3. [shutil](https://docs.python.org/3/library/shutil.html)
-4. [gorakhargosh/watchdog](https://github.com/gorakhargosh/watchdog)
-5. [tox-dev/filelock](https://github.com/tox-dev/filelock)
+4. [giampaolo/psutil](https://github.com/giampaolo/psutil)
+5. [gorakhargosh/watchdog](https://github.com/gorakhargosh/watchdog)
+6. [tox-dev/filelock](https://github.com/tox-dev/filelock)
 
 ## 文件压缩
 
@@ -242,10 +243,11 @@ pip install，pip uninstall，拿起pip就是干！
 
 ### 地理信息可视化
 
-1. [python-visualization/folium](https://github.com/python-visualization/folium)
-2. [SciTools/cartopy](https://github.com/SciTools/cartopy)
-3. [matplotlib/basemap](https://github.com/matplotlib/basemap)
-4. [holoviz/geoviews](https://github.com/holoviz/geoviews)
+1. [visgl/deck.gl](https://github.com/visgl/deck.gl)
+2. [python-visualization/folium](https://github.com/python-visualization/folium)
+3. [SciTools/cartopy](https://github.com/SciTools/cartopy)
+4. [matplotlib/basemap](https://github.com/matplotlib/basemap)
+5. [holoviz/geoviews](https://github.com/holoviz/geoviews)
 
 ## 图论
 
