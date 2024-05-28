@@ -107,6 +107,7 @@ pip install，pip uninstall，拿起pip就是干！
 4. [giampaolo/psutil](https://github.com/giampaolo/psutil)
 5. [gorakhargosh/watchdog](https://github.com/gorakhargosh/watchdog)
 6. [tox-dev/filelock](https://github.com/tox-dev/filelock)
+7. [mikeorr/unipath](https://github.com/mikeorr/unipath)
 
 ## 文件压缩
 

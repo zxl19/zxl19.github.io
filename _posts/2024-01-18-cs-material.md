@@ -21,9 +21,10 @@ pinned: false
 4. [PKUFlyingPig/cs-self-learning](https://github.com/PKUFlyingPig/cs-self-learning)
 5. [charlax/professional-programming](https://github.com/charlax/professional-programming)
 6. [OI-wiki/OI-wiki](https://github.com/OI-wiki/OI-wiki)
-7. [missing-semester/missing-semester](https://github.com/missing-semester/missing-semester)
-8. [missing-semester-cn/missing-semester-cn.github.io](https://github.com/missing-semester-cn/missing-semester-cn.github.io)
-9. [niudai/How-to-be-a-good-programmer](https://github.com/niudai/How-to-be-a-good-programmer)
+7. [ctf-wiki/ctf-wiki](https://github.com/ctf-wiki/ctf-wiki)
+8. [missing-semester/missing-semester](https://github.com/missing-semester/missing-semester)
+9. [missing-semester-cn/missing-semester-cn.github.io](https://github.com/missing-semester-cn/missing-semester-cn.github.io)
+10. [niudai/How-to-be-a-good-programmer](https://github.com/niudai/How-to-be-a-good-programmer)
 
 ## 电子书
 
