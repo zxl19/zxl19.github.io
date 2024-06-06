@@ -21,8 +21,9 @@ pinned: false
 
 1. [Visual Studio Code](https://code.visualstudio.com)
 2. [Sublime Text](https://www.sublimetext.com)
-3. [Vim](https://www.vim.org)
-4. [Geany](https://www.geany.org)
+3. [Zed](https://zed.dev)
+4. [Vim](https://www.vim.org)
+5. [Geany](https://www.geany.org)
 
 ## C/C++
 
@@ -51,11 +52,12 @@ pinned: false
 5. [microsoft/vscode](https://github.com/microsoft/vscode)
 6. [Sublime Text Packages](https://github.com/SublimeText)
 7. [SublimeCodeIntel/SublimeCodeIntel](https://github.com/SublimeCodeIntel/SublimeCodeIntel)
-8. [vim/vim](https://github.com/vim/vim)
-9. [geany/geany](https://github.com/geany/geany)
-10. [geany/geany-plugins](https://github.com/geany/geany-plugins)
-11. [geany/geany-themes](https://github.com/geany/geany-themes)
-12. [codebrainz/geany-themes](https://github.com/codebrainz/geany-themes)
-13. [Embarcadero/Dev-Cpp](https://github.com/Embarcadero/Dev-Cpp)
-14. [thonny/thonny](https://github.com/thonny/thonny)
-15. [mu-editor/mu](https://github.com/mu-editor/mu)
+8. [zed-industries/zed](https://github.com/zed-industries/zed)
+9. [vim/vim](https://github.com/vim/vim)
+10. [geany/geany](https://github.com/geany/geany)
+11. [geany/geany-plugins](https://github.com/geany/geany-plugins)
+12. [geany/geany-themes](https://github.com/geany/geany-themes)
+13. [codebrainz/geany-themes](https://github.com/codebrainz/geany-themes)
+14. [Embarcadero/Dev-Cpp](https://github.com/Embarcadero/Dev-Cpp)
+15. [thonny/thonny](https://github.com/thonny/thonny)
+16. [mu-editor/mu](https://github.com/mu-editor/mu)

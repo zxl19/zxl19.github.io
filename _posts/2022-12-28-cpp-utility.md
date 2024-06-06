@@ -68,9 +68,25 @@ pair<T1, T2> make_pair(T1 x, T2 y) {
 }
 ```
 
-### `forward()`
+### 完美转发函数`forward()`
 
-### `move()`
+原型声明：
+
+```cpp
+template <class T>
+T&& forward(typename remove_reference<T>::type& arg) noexcept;
+template <class T>
+T&& forward(typename remove_reference<T>::type&& arg) noexcept;
+```
+
+### 强制转换函数`move()`
+
+原型声明：
+
+```cpp
+template <class T>
+typename remove_reference<T>::type&& move(T&& arg) noexcept;
+```
 
 ## 参考
 
@@ -78,3 +94,5 @@ pair<T1, T2> make_pair(T1 x, T2 y) {
 2. [cplusplus](http://www.cplusplus.com)
 3. [cppreference](https://en.cppreference.com/w/)
 4. [C++ STL pair用法详解-C语言中文网](http://c.biancheng.net/view/7169.html)
+5. [C++11右值引用（一看即懂）-C语言中文网](http://c.biancheng.net/view/7829.html)
+6. [C++11完美转发及实现方法详解-C语言中文网](http://c.biancheng.net/view/7868.html)
