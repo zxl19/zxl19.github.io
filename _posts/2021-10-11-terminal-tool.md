@@ -145,6 +145,8 @@ pinned: false
 1. [gdb](https://sourceware.org/gdb/)
 2. [valgrind](https://valgrind.org)
 3. [flamegraph.pl](https://github.com/brendangregg/FlameGraph)
+4. [KDAB/hotspot](https://github.com/KDAB/hotspot)
+5. [KDE/heaptrack](https://github.com/KDE/heaptrack)
 
 ## 下载
 

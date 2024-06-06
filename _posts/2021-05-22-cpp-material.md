@@ -108,13 +108,22 @@ C++学习资料存档。
 3. [C++ Core Guidelines](https://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines.html)
 4. [ROS C++ Style Guide-ROS Wiki](http://wiki.ros.org/CppStyleGuide)
 
-### 在线编译器
+### 在线工具
+
+#### 编译运行
+
+1. [Online C/C++ Compiler](https://www.online-cpp.com)
+2. [C++ Shell](https://cpp.sh)
+3. [GDB online Debugger](https://www.onlinegdb.com)
+4. [GeeksforGeeks](https://ide.geeksforgeeks.org)
+5. [CodeChef](https://www.codechef.com/ide)
+6. [Wandbox](https://wandbox.org)
+
+#### 分析调试
 
 1. [C++ Insights](https://cppinsights.io)
-2. [Online C/C++ Compiler](https://www.online-cpp.com)
-3. [C++ Shell](https://cpp.sh)
-4. [GDB online Debugger](https://www.onlinegdb.com)
-5. [Wandbox](https://wandbox.org)
+2. [Compiler Explorer](https://compiler-explorer.com)
+3. [Quick C++ Benchmarks](https://quick-bench.com)
 
 ## 书籍
 
@@ -130,7 +139,6 @@ C++学习资料存档。
 2. [学习C++，应该循序渐进的看哪些书？-嘉炜的回答-知乎](https://www.zhihu.com/question/20410487/answer/15055637)
 3. [有什么高质量的现代C++风格的开源代码?-夏天的回答-知乎](https://www.zhihu.com/question/23153437/answer/1962068242)
 4. [ClangFormatStyleOptions](https://clang.llvm.org/docs/ClangFormatStyleOptions.html)
-5. [andreasfertig/cppinsights](https://github.com/andreasfertig/cppinsights)
+5. [推荐10款C++在线编译器-CSDN博客](https://blog.csdn.net/cool99781/article/details/104516581)
 6. [melpon/wandbox](https://github.com/melpon/wandbox)
-7. [推荐10款C++在线编译器-CSDN博客](https://blog.csdn.net/cool99781/article/details/104516581)
-8. [程序员，上班没事做该怎么办？-华为云开发者联盟的回答-知乎](https://www.zhihu.com/question/621194172/answer/3217337311)
+7. [andreasfertig/cppinsights](https://github.com/andreasfertig/cppinsights)

@@ -64,9 +64,10 @@ pinned: false
 14. [THUDM/CodeGeeX](https://github.com/THUDM/CodeGeeX)
 15. [rubickCenter/rubick](https://github.com/rubickCenter/rubick)
 16. [THUDM/CodeGeeX2](https://github.com/THUDM/CodeGeeX2)
-17. [nishiwen1214/ChatReviewer](https://github.com/nishiwen1214/ChatReviewer)
-18. [WangRongsheng/ChatGenTitle](https://github.com/WangRongsheng/ChatGenTitle)
-19. [talkingwallace/ChatGPT-Paper-Reader](https://github.com/talkingwallace/ChatGPT-Paper-Reader)
+17. [onuratakan/gpt-computer-assistant](https://github.com/onuratakan/gpt-computer-assistant)
+18. [nishiwen1214/ChatReviewer](https://github.com/nishiwen1214/ChatReviewer)
+19. [WangRongsheng/ChatGenTitle](https://github.com/WangRongsheng/ChatGenTitle)
+20. [talkingwallace/ChatGPT-Paper-Reader](https://github.com/talkingwallace/ChatGPT-Paper-Reader)
 
 ## 参考
 
