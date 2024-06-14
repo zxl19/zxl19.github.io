@@ -73,12 +73,13 @@ SLAM学习资料存档，包括SLAM基础理论、卡尔曼滤波、组合导航
 7. [Extended Kalman Filter Tutorial](https://homes.cs.washington.edu/~todorov/courses/cseP590/readings/tutorialEKF.pdf)
 8. [卡尔曼滤波（Kalman Filter）原理与公式推导-涅索斯衬衫的文章-知乎](https://zhuanlan.zhihu.com/p/48876718)
 9. [卡尔曼滤波器（观测器）原理极简介绍-Invictus的文章-知乎](https://zhuanlan.zhihu.com/p/42390886)
-10. [简明ESKF推导-半闲居士的文章-知乎](https://zhuanlan.zhihu.com/p/441182819)
-11. [slam中基于滤波的方法的问题及如何调参?-半闲居士的回答-知乎](https://www.zhihu.com/question/601596796/answer/3127818634)
-12. [LIO中ESKF相关公式的详尽说明-xiaotaw的文章-知乎](https://zhuanlan.zhihu.com/p/538975422)
-13. [Computing Jacobian, why error state?——优化中为何对误差状态求导-邱笑晨的文章-知乎](https://zhuanlan.zhihu.com/p/75714471)
-14. [简单易懂(?)的误差状态卡尔曼滤波器(Error State Kalman Filter, ESKF)的原理与实现（一）原理简介-llo的文章-知乎](https://zhuanlan.zhihu.com/p/545370811)
-15. [简单易懂(?)的误差状态卡尔曼滤波器(Error State Kalman Filter, ESKF)的原理与实现（二）算法实现-llo的文章-知乎](https://zhuanlan.zhihu.com/p/545525697)
+10. [卡尔曼滤波Kalman Filter之美在于什么？-自动驾驶之心的回答-知乎](https://www.zhihu.com/question/281995386/answer/3371567219)
+11. [简明ESKF推导-半闲居士的文章-知乎](https://zhuanlan.zhihu.com/p/441182819)
+12. [slam中基于滤波的方法的问题及如何调参?-半闲居士的回答-知乎](https://www.zhihu.com/question/601596796/answer/3127818634)
+13. [LIO中ESKF相关公式的详尽说明-xiaotaw的文章-知乎](https://zhuanlan.zhihu.com/p/538975422)
+14. [Computing Jacobian, why error state?——优化中为何对误差状态求导-邱笑晨的文章-知乎](https://zhuanlan.zhihu.com/p/75714471)
+15. [简单易懂(?)的误差状态卡尔曼滤波器(Error State Kalman Filter, ESKF)的原理与实现（一）原理简介-llo的文章-知乎](https://zhuanlan.zhihu.com/p/545370811)
+16. [简单易懂(?)的误差状态卡尔曼滤波器(Error State Kalman Filter, ESKF)的原理与实现（二）算法实现-llo的文章-知乎](https://zhuanlan.zhihu.com/p/545525697)
 
 ### GitHub
 

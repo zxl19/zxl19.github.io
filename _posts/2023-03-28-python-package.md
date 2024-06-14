@@ -203,9 +203,10 @@ pip install，pip uninstall，拿起pip就是干！
 
 ### 地理信息分析
 
-1. [geopy/geopy](https://github.com/geopy/geopy)
+1. [gboeing/osmnx](https://github.com/gboeing/osmnx)
 2. [geopandas/geopandas](https://github.com/geopandas/geopandas)
-3. [jazzband/geojson](https://github.com/jazzband/geojson)
+3. [geopy/geopy](https://github.com/geopy/geopy)
+4. [jazzband/geojson](https://github.com/jazzband/geojson)
 
 ## 可视化
 
@@ -542,6 +543,12 @@ pip install，pip uninstall，拿起pip就是干！
 7. [YaoyaoBae/Feon](https://github.com/YaoyaoBae/Feon)
 8. [tjfulle/fem-with-python](https://github.com/tjfulle/fem-with-python)
 9. [deepmodeling/jax-fem](https://github.com/deepmodeling/jax-fem)
+
+## Git（包括Github）
+
+1. [PyGithub/PyGithub](https://github.com/PyGithub/PyGithub)
+2. [gitpython-developers/GitPython](https://github.com/gitpython-developers/GitPython)
+3. [libgit2/pygit2](https://github.com/libgit2/pygit2)
 
 ## 参考
 

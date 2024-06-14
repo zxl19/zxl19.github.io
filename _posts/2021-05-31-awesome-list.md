@@ -78,7 +78,8 @@ The main repository serves as a curated list of awesome lists.
 1. [manfreddiaz/awesome-autonomous-vehicles](https://github.com/manfreddiaz/awesome-autonomous-vehicles)
 2. [DeepTecher/awesome-autonomous-vehicle](https://github.com/DeepTecher/awesome-autonomous-vehicle)
 3. [daohu527/awesome-self-driving-car](https://github.com/daohu527/awesome-self-driving-car)
-4. [kuzen/Awesome-Self-Driving](https://github.com/kuzen/Awesome-Self-Driving)
+4. [autodriving-heart/Awesome-Autonomous-Driving](https://github.com/autodriving-heart/Awesome-Autonomous-Driving)
+5. [kuzen/Awesome-Self-Driving](https://github.com/kuzen/Awesome-Self-Driving)
 
 ### 点云处理
 
