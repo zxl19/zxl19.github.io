@@ -184,13 +184,15 @@ pinned: false
 32. [毒德大学字幕组](https://space.bilibili.com/8990248)
 33. [ThomasHeaton官方频道](https://space.bilibili.com/1006125507)
 34. [英国风光摄影师Nigel](https://space.bilibili.com/1549051576)
-35. [NOFACE不是大触](https://space.bilibili.com/4012943)
-36. [皇马卦HMAPHOTO](https://space.bilibili.com/16198806)
-37. [即影InstAmour](https://space.bilibili.com/14118905)
-38. [蜂鸟TalkShow](https://space.bilibili.com/1343434879)
-39. [HSINYALIN_林星亚](https://space.bilibili.com/7695611)
-40. [平老虎](https://space.bilibili.com/56744081)
-41. [Moden王先生](https://space.bilibili.com/700673344)
+35. [EAPHOTOACADEMY](https://space.bilibili.com/32639842)
+36. [NOFACE不是大触](https://space.bilibili.com/4012943)
+37. [皇马卦HMAPHOTO](https://space.bilibili.com/16198806)
+38. [即影InstAmour](https://space.bilibili.com/14118905)
+39. [蜂鸟TalkShow](https://space.bilibili.com/1343434879)
+40. [HSINYALIN_林星亚](https://space.bilibili.com/7695611)
+41. [摸鱼摄影师](https://space.bilibili.com/108866409)
+42. [平老虎](https://space.bilibili.com/56744081)
+43. [Moden王先生](https://space.bilibili.com/700673344)
 
 ## 相关网站
 
@@ -200,8 +202,10 @@ pinned: false
 4. [Digital Camera World](https://www.digitalcameraworld.com)
 5. [Digicam Finder](https://digicamfinder.com)
 6. [DOF simulator](https://dofsimulator.net/en/)
-7. [Fuji Rumors](https://www.fujirumors.com)
-8. [Nikon Rumors](https://nikonrumors.com)
+7. [Depth Of Field Simulator](https://jherr.github.io/depth-of-field/)
+8. [景深模拟器](https://dofsim.net/)
+9. [Fuji Rumors](https://www.fujirumors.com)
+10. [Nikon Rumors](https://nikonrumors.com)
 
 **2023年3月：亚马逊宣布将在2023年4月10日关闭DPReview。**
 
@@ -221,3 +225,4 @@ pinned: false
 12. [【DPReview】我们最喜欢的DPReview TV时刻（用玩偶重现！）-bilibili](https://www.bilibili.com/video/BV1Ks4y1P7JA)
 13. [【DPReview】胡子哥和乔丹在DPReview的这几年测评过的最喜欢的5款摄影器材-bilibili](https://www.bilibili.com/video/BV1HT411p7uE)
 14. [各大相机公司推出恒定F4的小三元镜头的目的是什么？非大光圈的恒定光圈意义体现在哪里？-知乎用户的回答-知乎](https://www.zhihu.com/question/34306403/answer/2654034347)
+15. [jherr/depth-of-field](https://github.com/jherr/depth-of-field)

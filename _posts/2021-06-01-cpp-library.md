@@ -377,6 +377,12 @@ pinned: false
 6. [M3Group/AsFem](https://github.com/M3Group/AsFem)
 7. [open-beam/openbeam](https://github.com/open-beam/openbeam)
 
+## 物理场仿真
+
+1. [jrouwe/JoltPhysics](https://github.com/jrouwe/JoltPhysics)
+2. [simbody/simbody](https://github.com/simbody/simbody)
+3. [projectchrono/chrono](https://github.com/projectchrono/chrono)
+
 ## Git（包括GitHub）
 
 1. [libgit2/libgit2](https://github.com/libgit2/libgit2)

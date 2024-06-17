@@ -31,6 +31,12 @@ SLAM学习资料存档，包括SLAM基础理论、卡尔曼滤波、组合导航
 12. [Multiple view geometry in computer vision](https://assets.cambridge.org/97805215/40513/frontmatter/9780521540513_frontmatter.pdf)
 13. [Modern Robotics](http://hades.mech.northwestern.edu/images/7/7f/MR.pdf)
 
+### 位姿转换
+
+1. [Engineering Notes](https://danceswithcode.net/danceswithcode.net/engineeringnotes/index.html)
+2. [3D Rotation Converter](https://www.andre-gaschler.com/rotationconverter/)
+3. [Quaternions](https://quaternions.online)
+
 ### GitHub
 
 1. [gaoxiang12/slambook](https://github.com/gaoxiang12/slambook)
@@ -168,4 +174,5 @@ SLAM学习资料存档，包括SLAM基础理论、卡尔曼滤波、组合导航
 7. [Tim Barfoot](http://asrl.utias.utoronto.ca/~tdb/)
 8. [Modern Robotics](http://hades.mech.northwestern.edu/index.php/Modern_Robotics)
 9. [硕士研究生阶段如何学习slam机器人？-Range的回答-知乎](https://www.zhihu.com/question/396119527/answer/1235876702)
-10. [严恭敏的个人主页](https://teacher.nwpu.edu.cn/yangongmin.html)
+10. [工具网站推荐-欧拉角四元数在线可视化转化网站/三维在线旋转变换网站-CSDN博客](https://blog.csdn.net/hw140701/article/details/106255294)
+11. [严恭敏的个人主页](https://teacher.nwpu.edu.cn/yangongmin.html)
