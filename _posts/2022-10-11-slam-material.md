@@ -21,17 +21,18 @@ SLAM学习资料存档，包括SLAM基础理论、卡尔曼滤波、组合导航
 2. 《自动驾驶中的SLAM技术》
 3. [Factor graphs for robot perception](https://www.cs.cmu.edu/~kaess/pub/Dellaert17fnt.html)
 4. [A tutorial on SE(3) transformation parameterizations and on-manifold optimization](http://ingmec.ual.es/~jlblanco/papers/jlblanco2010geometry3D_techrep.pdf)
-5. [A micro Lie theory for state estimation in robotics](https://arxiv.org/pdf/1812.01537.pdf)
-6. [Quaternion kinematics for the error-state Kalman filter](https://www.iri.upc.edu/people/jsola/JoanSola/objectes/notes/kinematics.pdf)
-7. [Probabilistic Robotics](https://gaoyichao.com/Xiaotu//resource/refs/PR.MIT.en.pdf)
-8. [State Estimation for Robotics -- First Edition](http://asrl.utias.utoronto.ca/~tdb/bib/barfoot_ser17.pdf)
-9. [State Estimation for Robotics -- Draft Second Edition](http://asrl.utias.utoronto.ca/~tdb/bib/barfoot_ser23.pdf)
-10. [SO(3) and SE(3) Identities and Approximations](http://asrl.utias.utoronto.ca/~tdb/bib/barfoot_ser17_identities.pdf)
-11. [Lie theory cheatsheet](https://norlab.ulaval.ca/research/LieCheatsheet/)
-12. [Multiple view geometry in computer vision](https://assets.cambridge.org/97805215/40513/frontmatter/9780521540513_frontmatter.pdf)
-13. [Modern Robotics](http://hades.mech.northwestern.edu/images/7/7f/MR.pdf)
+5. [Quaternions and Rotations](https://graphics.stanford.edu/courses/cs348a-17-winter/Papers/quaternion.pdf)
+6. [A micro Lie theory for state estimation in robotics](https://arxiv.org/pdf/1812.01537.pdf)
+7. [Quaternion kinematics for the error-state Kalman filter](https://www.iri.upc.edu/people/jsola/JoanSola/objectes/notes/kinematics.pdf)
+8. [Probabilistic Robotics](https://gaoyichao.com/Xiaotu//resource/refs/PR.MIT.en.pdf)
+9. [State Estimation for Robotics -- First Edition](http://asrl.utias.utoronto.ca/~tdb/bib/barfoot_ser17.pdf)
+10. [State Estimation for Robotics -- Draft Second Edition](http://asrl.utias.utoronto.ca/~tdb/bib/barfoot_ser23.pdf)
+11. [SO(3) and SE(3) Identities and Approximations](http://asrl.utias.utoronto.ca/~tdb/bib/barfoot_ser17_identities.pdf)
+12. [Lie theory cheatsheet](https://norlab.ulaval.ca/research/LieCheatsheet/)
+13. [Multiple view geometry in computer vision](https://assets.cambridge.org/97805215/40513/frontmatter/9780521540513_frontmatter.pdf)
+14. [Modern Robotics](http://hades.mech.northwestern.edu/images/7/7f/MR.pdf)
 
-### 位姿转换
+### 在线位姿转换
 
 1. [Engineering Notes](https://danceswithcode.net/danceswithcode.net/engineeringnotes/index.html)
 2. [3D Rotation Converter](https://www.andre-gaschler.com/rotationconverter/)
@@ -130,7 +131,12 @@ SLAM学习资料存档，包括SLAM基础理论、卡尔曼滤波、组合导航
 1. [高精度捷联惯性导航算法](http://www.psins.org.cn)
 2. [卡尔曼滤波与组合导航原理【西北工业大学 严恭敏】](https://www.bilibili.com/video/BV11K411J7gp)
 3. [PSINS导航工具箱入门与详解【西北工业大学 严恭敏】](https://www.bilibili.com/video/BV1R54y1E7ut)
-4. [简明预积分推导-半闲居士的文章-知乎](https://zhuanlan.zhihu.com/p/388859808)
+4. [武汉大学多源智能导航实验室](http://i2nav.cn)
+5. [武汉大学惯性导航课程合集【2021年秋】](https://www.bilibili.com/video/BV1nR4y1E7Yj)
+6. [武汉大学研究生组合导航课程合集【2022年春】](https://www.bilibili.com/video/BV1na411Z7rQ)
+7. [A Guide To using IMU (Accelerometer and Gyroscope Devices) in Embedded Applications-Starlino Electronics](http://www.starlino.com/imu_guide.html)
+8. [An introduction to inertial navigation](https://www.cl.cam.ac.uk/techreports/UCAM-CL-TR-696.pdf)
+9. [简明预积分推导-半闲居士的文章-知乎](https://zhuanlan.zhihu.com/p/388859808)
 
 ### GitHub
 

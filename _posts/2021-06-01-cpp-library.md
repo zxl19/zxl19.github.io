@@ -157,13 +157,14 @@ pinned: false
 
 ## 数据可视化
 
-1. [lava/matplotlib-cpp](https://github.com/lava/matplotlib-cpp)
-2. [alandefreitas/matplotplusplus](https://github.com/alandefreitas/matplotplusplus)
-3. [sciplot/sciplot](https://github.com/sciplot/sciplot)
-4. [dstahlke/gnuplot-iostream](https://github.com/dstahlke/gnuplot-iostream)
-5. [Profactor/cv-plot](https://github.com/Profactor/cv-plot)
-6. [leovandriel/cvplot](https://github.com/leovandriel/cvplot)
-7. [fbbdev/plot](https://github.com/fbbdev/plot)
+1. [google/skia](https://github.com/google/skia)
+2. [lava/matplotlib-cpp](https://github.com/lava/matplotlib-cpp)
+3. [alandefreitas/matplotplusplus](https://github.com/alandefreitas/matplotplusplus)
+4. [sciplot/sciplot](https://github.com/sciplot/sciplot)
+5. [dstahlke/gnuplot-iostream](https://github.com/dstahlke/gnuplot-iostream)
+6. [Profactor/cv-plot](https://github.com/Profactor/cv-plot)
+7. [leovandriel/cvplot](https://github.com/leovandriel/cvplot)
+8. [fbbdev/plot](https://github.com/fbbdev/plot)
 
 ## 机器学习&深度学习
 
@@ -293,7 +294,8 @@ pinned: false
 1. [ocornut/imgui](https://github.com/ocornut/imgui)
 2. [idea4good/GuiLite](https://github.com/idea4good/GuiLite)
 3. [stevenlovegrove/Pangolin](https://github.com/stevenlovegrove/Pangolin)
-4. [koide3/iridescence](https://github.com/koide3/iridescence)
+4. [mitsuba-renderer/nanogui](https://github.com/mitsuba-renderer/nanogui)
+5. [koide3/iridescence](https://github.com/koide3/iridescence)
 
 ## 通信
 
