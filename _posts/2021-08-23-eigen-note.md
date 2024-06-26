@@ -837,6 +837,7 @@ Vector3d trans = trans1 + ratio * (trans2 - trans1);
          private:
           Matrix<double, 4, 1, DontAlign> v;
         }
+        ```
 
     - 将固定大小可向量化的Eigen对象指针声明为类和结构体的私有成员，在创建类和结构体的对象时动态分配内存，优点是类和结构体不受到内存对齐的影响，缺点是需要额外的堆（heap）分配：
 
@@ -916,6 +917,25 @@ Vector3d trans = trans1 + ratio * (trans2 - trans1);
     - 如果使用C++11以后的标准进行编译则不需要上述操作，因为C++11标准修复了之前标准中`std::vector`存在的问题；
     - 优点是不需要在多处指定Eigen定义的堆内存管理器`aligned_allocator`，缺点是需要在每次声明`std::vector`前声明宏`EIGEN_DEFINE_STL_VECTOR_SPECIALIZATION`，否则会使用默认堆内存管理器`std::allocator`造成程序崩溃；
 
+4. 如果需要使用`emplace()`或`emplace_back()`函数向STL容器中添加Eigen对象，不能传入初始化列表，存在内存对齐问题：
+
+    - 在构造时调用了`std::allocator_traits`的`construct()`成员函数，原型声明如下：
+
+        ```cpp
+        template <class T, class... Args>
+        static void construct(allocator_type alloc, T* p, Args&&... args);
+        ```
+
+    - 实现：
+
+        ```cpp
+        // 优先调用堆内存管理器的construct()成员函数
+        alloc.construct(p, forward<Args>(args)...);
+        // 如果堆内存管理器未定义construct()成员函数，则使用默认的new运算符
+        // Eigen定义的堆内存管理器就是这种情况
+        new(static_cast<void*>(p)) T(forward<Args>(args)...);
+        ```
+
 #### 将Eigen对象作为函数参数传递
 
 1. 从C++的角度，不建议使用值传递，因为会调用拷贝构造函数，对于大对象较为耗时，建议使用引用传递，如果不需要修改函数参数，建议使用常引用传递；
@@ -940,7 +960,7 @@ Vector3d trans = trans1 + ratio * (trans2 - trans1);
 
 #### 创建指向Eigen对象的智能指针
 
-1. 在创建指向Eigen对象的智能指针时不能使用`std::make_shared()`，因为其使用的是默认的`new`运算符，忽略了重载后的`new`运算符，存在内存对齐问题；
+1. 在创建指向Eigen对象的智能指针时，不能使用`std::make_shared()`，因为其使用的是默认的`new`运算符，忽略了重载后的`new`运算符，存在内存对齐问题；
 2. 可以通过以下两种方法创建指向Eigen对象的智能指针：
 
     - 使用重载后的`new`运算符，显式调用智能指针构造函数：
