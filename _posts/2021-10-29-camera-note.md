@@ -40,10 +40,11 @@ pinned: false
 相机的基本分类和区别，主要参考[橙红Iris](https://space.bilibili.com/19226160)和[Linksphotograph](https://space.bilibili.com/3816626)的视频。
 
 1. [「收藏向」相机入门第一步！认识相机、明确需求、打破幻想！](https://www.bilibili.com/video/BV19h4y1B71c)
-2. [你到底该买哪台相机？从品牌参数到预算需求，一个视频讲清楚丨新手相机选购指南【links】](https://www.bilibili.com/video/BV1754y1D7eW)
-3. [【2021年相机选购】新手小白应该买什么相机？](https://www.bilibili.com/video/BV1v44y1672N)
-4. [【2020年相机选购】新手小白应该怎么挑选相机](https://www.bilibili.com/video/BV1MK411W7mc)
-5. [我找了11位知名UP主评价自己拍视频的设备丨器材终极选购指南](https://www.bilibili.com/video/BV1tJ41187w6)
+2. [【买前必看】相机选购指南：4000-20000，从入门到专业，高性价比选购！](https://www.bilibili.com/video/BV1qE421N76h)
+3. [你到底该买哪台相机？从品牌参数到预算需求，一个视频讲清楚丨新手相机选购指南【links】](https://www.bilibili.com/video/BV1754y1D7eW)
+4. [【2021年相机选购】新手小白应该买什么相机？](https://www.bilibili.com/video/BV1v44y1672N)
+5. [【2020年相机选购】新手小白应该怎么挑选相机](https://www.bilibili.com/video/BV1MK411W7mc)
+6. [我找了11位知名UP主评价自己拍视频的设备丨器材终极选购指南](https://www.bilibili.com/video/BV1tJ41187w6)
 
 ### 重要参数
 
