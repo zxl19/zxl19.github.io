@@ -262,6 +262,24 @@ pinned: false
 2. [ZigRazor/CXXGraph](https://github.com/ZigRazor/CXXGraph)
 3. [boostorg/graph](https://github.com/boostorg/graph)
 
+## 信号处理
+
+### 数字信号
+
+1. [vinniefalco/DSPFilters](https://github.com/vinniefalco/DSPFilters)
+2. [kfrlib/kfr](https://github.com/kfrlib/kfr)
+3. [cycfi/q](https://github.com/cycfi/q)
+4. [electro-smith/DaisySP](https://github.com/electro-smith/DaisySP)
+5. [berndporr/iir1](https://github.com/berndporr/iir1)
+6. [ruohoruotsi/Butterworth-Filter-Design](https://github.com/ruohoruotsi/Butterworth-Filter-Design)
+7. [adis300/filter-c](https://github.com/adis300/filter-c)
+
+### 音频信号
+
+1. [MTG/essentia](https://github.com/MTG/essentia)
+2. [micknoise/Maximilian](https://github.com/micknoise/Maximilian)
+3. [ddiakopoulos/MoogLadders](https://github.com/ddiakopoulos/MoogLadders)
+
 ## 加密
 
 1. [google/tink](https://github.com/google/tink)
