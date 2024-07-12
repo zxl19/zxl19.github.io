@@ -17,12 +17,20 @@ pinned: false
 
 ### FTP协议
 
-在`文件`->`其他位置`中使用FTP（File Transfer Protocol）协议连接：
+1. 在`文件`->`其他位置`中使用FTP（File Transfer Protocol）协议连接：
 
-```shell
-ftp://192.168.1.1
-ftps://192.168.1.1
-```
+    ```shell
+    ftp://192.168.1.1
+    ftps://192.168.1.1
+    ```
+
+2. 使用`wget`命令远程下载文件：
+
+    ```shell
+    wget [OPTION]... [URL]...
+    ```
+
+    也支持HTTP和HTTPS协议。
 
 ### SMB协议
 

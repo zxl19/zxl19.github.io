@@ -45,7 +45,7 @@ struct pair {
 原型声明：
 
 ```cpp
-// C++98
+// C++98/03
 template <class T1, class T2>
 pair<T1, T2> make_pair(T1 x, T2 y);
 // C++11
@@ -56,7 +56,7 @@ pair<V1, V2> make_pair(T1&& x, T2&& y);
 实现：
 
 ```cpp
-// C++98
+// C++98/03
 template <class T1, class T2>
 pair<T1, T2> make_pair(T1 x, T2 y) {
     return (pair<T1, T2>(x, y));

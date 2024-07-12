@@ -49,7 +49,7 @@ Occam's razor: entities should not be multiplied beyond necessity.
 
 ### AsciiDoc
 
-为AsciiDoc格式文档提供语言支持。
+AsciiDoc语言扩展。
 
 ### Better Comments
 
@@ -216,7 +216,7 @@ CMake扩展。
 
 ### IntelliCode
 
-为Python、TypeScript/JavaScript、Java提供基于上下文和机器学习的自动补全，安装IntelliCode API Usage Examples扩展可以查看GitHub中的用法示例并提高使用体验。
+为Python、TypeScript/JavaScript、Java语言提供基于上下文和机器学习的自动补全，安装IntelliCode API Usage Examples扩展可以查看GitHub中的用法示例并提高使用体验。
 
 ### koroFileHeader
 
@@ -526,6 +526,10 @@ Protocol Buffers语法支持，仅支持3.x版本：
 ```protobuf
 syntax = "proto3";
 ```
+
+### YAML
+
+YAML语法支持。
 
 ## 常见问题及解决方法
 
