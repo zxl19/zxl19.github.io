@@ -39,10 +39,17 @@ pinned: false
 
 ### 文件压缩
 
-1. [lz4/lz4](https://github.com/lz4/lz4)
-2. [google/snappy](https://github.com/google/snappy)
-3. [r-lyeh-archived/bundle](https://github.com/r-lyeh-archived/bundle)
-4. [ctabin/libzippp](https://github.com/ctabin/libzippp)
+1. [facebook/zstd](https://github.com/facebook/zstd)
+2. [lz4/lz4](https://github.com/lz4/lz4)
+3. [google/draco](https://github.com/google/draco)
+4. [google/snappy](https://github.com/google/snappy)
+5. [madler/zlib](https://github.com/madler/zlib)
+6. [google/zopfli](https://github.com/google/zopfli)
+7. [nih-at/libzip](https://github.com/nih-at/libzip)
+8. [r-lyeh-archived/bundle](https://github.com/r-lyeh-archived/bundle)
+9. [rikyoz/bit7z](https://github.com/rikyoz/bit7z)
+10. [sebastiandev/zipper](https://github.com/sebastiandev/zipper)
+11. [ctabin/libzippp](https://github.com/ctabin/libzippp)
 
 ## 命令行输出
 

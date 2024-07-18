@@ -17,7 +17,7 @@ pinned: false
 
 1. [现代科研指北](https://yufree.github.io/sciguide/)
 2. [How to Be a Modern Scientist](https://users.metu.edu.tr/ccandan/other/modern_scientist_preview_first_15_pages_Jan_2018.pdf)
-3. [The Ph.D Grind](http://pgbovine.net/PhD-memoir/pguo-PhD-grind.pdf)
+3. [The Ph.D Grind](https://shuyuej.com/resources/The-PhD-Grind.pdf)
 4. [Some Modest Advice for Graduate Students](https://www.researchgate.net/publication/255653424_SOME_MODEST_ADVICE_FOR_GRADUATE_STUDENTS)
 
 ## 网站
@@ -33,18 +33,19 @@ pinned: false
 
 ## GitHub
 
-1. [jbhuang0604/awesome-tips](https://github.com/jbhuang0604/awesome-tips)
-2. [bighuang624/AI-research-tools](https://github.com/bighuang624/AI-research-tools)
-3. [shengyp/doing_the_PhD](https://github.com/shengyp/doing_the_PhD)
-4. [pengsida/learning_research](https://github.com/pengsida/learning_research)
+1. [pengsida/learning_research](https://github.com/pengsida/learning_research)
+2. [jbhuang0604/awesome-tips](https://github.com/jbhuang0604/awesome-tips)
+3. [bighuang624/AI-research-tools](https://github.com/bighuang624/AI-research-tools)
+4. [shengyp/doing_the_PhD](https://github.com/shengyp/doing_the_PhD)
 5. [JunweiLiang/awesome_lists](https://github.com/JunweiLiang/awesome_lists)
 6. [greenbellpepper/GreenPepper](https://github.com/greenbellpepper/GreenPepper)
 7. [macoj/phd](https://github.com/macoj/phd)
 8. [alirezasamar/awesome-phd](https://github.com/alirezasamar/awesome-phd)
 9. [zheng95z/teach-yourself-research](https://github.com/zheng95z/teach-yourself-research)
-10. [yufree/sciguide](https://github.com/yufree/sciguide)
+10. [MLNLP-World/MyArxiv](https://github.com/MLNLP-World/MyArxiv)
 11. [weisongwen/researchTools](https://github.com/weisongwen/researchTools)
-12. [MLNLP-World/MyArxiv](https://github.com/MLNLP-World/MyArxiv)
+12. [yufree/sciguide](https://github.com/yufree/sciguide)
+13. [tracholar/phd-grind-chn](https://github.com/tracholar/phd-grind-chn)
 
 ## ChatGPT
 
@@ -73,3 +74,4 @@ pinned: false
 
 1. [现代科研指北-于淼的文章-知乎](https://zhuanlan.zhihu.com/p/305646861)
 2. [给30岁要读博的人什么建议？-太白的回答-知乎](https://www.zhihu.com/question/321599275/answer/1728207632)
+3. [The Ph.D Grind](http://pgbovine.net/PhD-memoir/pguo-PhD-grind.pdf)
