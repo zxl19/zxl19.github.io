@@ -50,6 +50,10 @@ The main repository serves as a curated list of awesome lists.
 4. [wx-chevalier/Awesome-CheatSheets](https://github.com/wx-chevalier/Awesome-CheatSheets)
 5. [dennyzhang/cheatsheet.dennyzhang.com](https://github.com/dennyzhang/cheatsheet.dennyzhang.com)
 
+## 设计模式
+
+1. [DovAmir/awesome-design-patterns](https://github.com/DovAmir/awesome-design-patterns)
+
 ## SLAM相关
 
 ### 机器人学
@@ -72,6 +76,7 @@ The main repository serves as a curated list of awesome lists.
 9. [zhouyong1234/SLAM-All-In-One](https://github.com/zhouyong1234/SLAM-All-In-One)
 10. [520xyxyzq/awesome-object-SLAM](https://github.com/520xyxyzq/awesome-object-SLAM)
 11. [hassaanhashmi/awesome-deep-visual-odometry](https://github.com/hassaanhashmi/awesome-deep-visual-odometry)
+12. [hwan0806/Awesome-LiDAR-Mapping](https://github.com/hwan0806/Awesome-LiDAR-Mapping)
 
 ### 自动驾驶
 

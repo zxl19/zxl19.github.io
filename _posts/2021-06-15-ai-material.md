@@ -42,10 +42,11 @@ pinned: false
 9. [exacity/deeplearningbook-chinese](https://github.com/exacity/deeplearningbook-chinese)
 10. [microsoft/ai-edu](https://github.com/microsoft/ai-edu)
 11. [datawhalechina/leedl-tutorial](https://github.com/datawhalechina/leedl-tutorial)
-12. [ahmedbahaaeldin/From-0-to-Research-Scientist-resources-guide](https://github.com/ahmedbahaaeldin/From-0-to-Research-Scientist-resources-guide)
-13. [unclestrong/DeepLearning_LHY21_Notes](https://github.com/unclestrong/DeepLearning_LHY21_Notes)
-14. [leerumor/ai-study](https://github.com/leerumor/ai-study)
-15. [blueberrymusic/Deep-Learning-A-Visual-Approach](https://github.com/blueberrymusic/Deep-Learning-A-Visual-Approach)
+12. [Ewenwan/MVision](https://github.com/Ewenwan/MVision)
+13. [ahmedbahaaeldin/From-0-to-Research-Scientist-resources-guide](https://github.com/ahmedbahaaeldin/From-0-to-Research-Scientist-resources-guide)
+14. [unclestrong/DeepLearning_LHY21_Notes](https://github.com/unclestrong/DeepLearning_LHY21_Notes)
+15. [leerumor/ai-study](https://github.com/leerumor/ai-study)
+16. [blueberrymusic/Deep-Learning-A-Visual-Approach](https://github.com/blueberrymusic/Deep-Learning-A-Visual-Approach)
 
 ### 强化学习
 

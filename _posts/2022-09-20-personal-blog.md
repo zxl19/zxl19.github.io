@@ -43,14 +43,20 @@ pinned: false
 6. [ego's blog](https://fgc346.github.io)
 7. [ADAS之眼](https://jokereyeadas.github.io)
 8. [上善若水](https://xinetzone.github.io)
+9. [Ewenwan/living](https://github.com/Ewenwan/living)
 
-### 技术随笔
+### 随笔
+
+#### 技术随笔
 
 1. [一维度](https://www.fengerzh.com)
 2. [酷壳](https://coolshell.cn)
 3. [阮一峰的个人网站](https://www.ruanyifeng.com)
-4. [李笑来作品集](http://lixiaolai.com/#/)
-5. [AugmentedMind](https://www.augmentedmind.de)
+
+#### 生活随笔
+
+1. [槽边往事](https://www.hecaitou.com)
+2. [李笑来作品集](http://lixiaolai.com/#/)
 
 ### Linux相关
 
@@ -62,13 +68,14 @@ pinned: false
 ### C++相关
 
 1. [Bjarne Stroustrup's Homepage](https://www.stroustrup.com)
-2. [Brendan Gregg's Homepage](https://www.brendangregg.com/index.html)
-3. [Yongwei's Programming Page](http://wyw.dcweb.cn/index.htm)
-4. [the Nothing itself nothings](http://nothings.org)
-5. [This FTP site](https://okmij.org/ftp/)
-6. [Sterben_01](https://sterben-01.github.io)
-7. [ZhiBing's Blog](https://azmddy.github.io)
-8. [orzz.org()](http://orzz.org/)
+2. [Scott Meyers](http://scottmeyers.blogspot.com)
+3. [Brendan Gregg's Homepage](https://www.brendangregg.com/index.html)
+4. [Yongwei's Programming Page](http://wyw.dcweb.cn/index.htm)
+5. [the Nothing itself nothings](http://nothings.org)
+6. [This FTP site](https://okmij.org/ftp/)
+7. [Sterben_01](https://sterben-01.github.io)
+8. [ZhiBing's Blog](https://azmddy.github.io)
+9. [orzz.org()](http://orzz.org/)
 
 ### Python相关
 
@@ -108,12 +115,13 @@ pinned: false
 9. [音视跳动科技](http://avdancedu.com)
 10. [术之多](https://www.shuzhiduo.com)
 11. [Arking](https://arkingc.github.io)
-12. [fluldog-博客园](https://www.cnblogs.com/fluidog)
-13. [zh89233-博客园](https://www.cnblogs.com/love-zf)
-14. [librarookie-博客园](https://www.cnblogs.com/librarookie)
-15. [木偶Roy-博客园](https://www.cnblogs.com/jyroy)
-16. [李春港-博客园](https://www.cnblogs.com/lcgbk)
-17. [小丁的个人博客](https://tding.top)
+12. [AugmentedMind](https://www.augmentedmind.de)
+13. [fluldog-博客园](https://www.cnblogs.com/fluidog)
+14. [zh89233-博客园](https://www.cnblogs.com/love-zf)
+15. [librarookie-博客园](https://www.cnblogs.com/librarookie)
+16. [木偶Roy-博客园](https://www.cnblogs.com/jyroy)
+17. [李春港-博客园](https://www.cnblogs.com/lcgbk)
+18. [小丁的个人博客](https://tding.top)
 
 ### 数学相关
 
@@ -143,23 +151,24 @@ pinned: false
 
 ## 参考
 
-1. [目前国内比较优秀的博客作者有哪些？-VeryCB的回答-知乎](https://www.zhihu.com/question/19928148/answer/13378094)
-2. [我最爱的十大博客，你有看吗？-高级开发工程狮的文章-知乎](https://zhuanlan.zhihu.com/p/377302681)
-3. [有哪些你每天会阅读的编程（技术）博客？-成都大草莓的回答-知乎](https://www.zhihu.com/question/19882990/answer/2884438844)
-4. [有哪些你每天会阅读的编程（技术）博客？-码农出击的回答-知乎](https://www.zhihu.com/question/19882990/answer/2905343389)
-5. [izhengfan/izhengfan.github.io](https://github.com/izhengfan/izhengfan.github.io)
-6. [Robotislove/Robotislove.github.io](https://github.com/Robotislove/Robotislove.github.io)
-7. [DLonng/AI-Notes](https://github.com/DLonng/AI-Notes)
-8. [ruanyf/weekly](https://github.com/ruanyf/weekly)
-9. [ruanyf/articles](https://github.com/ruanyf/articles)
-10. [xiaolai/xiaolai.github.io](https://github.com/xiaolai/xiaolai.github.io)
-11. [C/C++编程有哪些值得推荐的工具？-程序喵大人的回答-知乎](https://www.zhihu.com/question/23357089/answer/1992218543)
-12. [你见过的最棒的个人博客界面是什么样的？-ulam的回答-知乎](https://www.zhihu.com/question/29755481/answer/3256693652)
-13. [MisterBooo/solo-blog](https://github.com/MisterBooo/solo-blog)
-14. [WGrape/Blog](https://github.com/WGrape/Blog)
-15. [laike9m/My_Blog](https://github.com/laike9m/My_Blog)
-16. [yihong0618/gitblog](https://github.com/yihong0618/gitblog)
-17. [dta0502/dta0502.github.io](https://github.com/dta0502/dta0502.github.io)
-18. [用LaTeX做笔记是怎样的体验？-Rabbittac的回答-知乎](https://www.zhihu.com/question/362654946/answer/1896187222)
-19. [国外教授的讲义都是自己用LaTeX打出来的吗？-徐航的回答-知乎](https://www.zhihu.com/question/29227449/answer/1895477272)
-20. [无人驾驶领域，你推荐那些综述性文章？-殷玮的回答-知乎](https://www.zhihu.com/question/355954682/answer/1513557367)
+1. [为什么程序员必须坚持写技术博客？-码农出击的回答-知乎](https://www.zhihu.com/question/624259381/answer/3239620705)
+2. [目前国内比较优秀的博客作者有哪些？-VeryCB的回答-知乎](https://www.zhihu.com/question/19928148/answer/13378094)
+3. [我最爱的十大博客，你有看吗？-高级开发工程狮的文章-知乎](https://zhuanlan.zhihu.com/p/377302681)
+4. [有哪些你每天会阅读的编程（技术）博客？-成都大草莓的回答-知乎](https://www.zhihu.com/question/19882990/answer/2884438844)
+5. [有哪些你每天会阅读的编程（技术）博客？-码农出击的回答-知乎](https://www.zhihu.com/question/19882990/answer/2905343389)
+6. [izhengfan/izhengfan.github.io](https://github.com/izhengfan/izhengfan.github.io)
+7. [Robotislove/Robotislove.github.io](https://github.com/Robotislove/Robotislove.github.io)
+8. [DLonng/AI-Notes](https://github.com/DLonng/AI-Notes)
+9. [ruanyf/weekly](https://github.com/ruanyf/weekly)
+10. [ruanyf/articles](https://github.com/ruanyf/articles)
+11. [xiaolai/xiaolai.github.io](https://github.com/xiaolai/xiaolai.github.io)
+12. [C/C++编程有哪些值得推荐的工具？-程序喵大人的回答-知乎](https://www.zhihu.com/question/23357089/answer/1992218543)
+13. [你见过的最棒的个人博客界面是什么样的？-ulam的回答-知乎](https://www.zhihu.com/question/29755481/answer/3256693652)
+14. [MisterBooo/solo-blog](https://github.com/MisterBooo/solo-blog)
+15. [WGrape/Blog](https://github.com/WGrape/Blog)
+16. [laike9m/My_Blog](https://github.com/laike9m/My_Blog)
+17. [yihong0618/gitblog](https://github.com/yihong0618/gitblog)
+18. [dta0502/dta0502.github.io](https://github.com/dta0502/dta0502.github.io)
+19. [用LaTeX做笔记是怎样的体验？-Rabbittac的回答-知乎](https://www.zhihu.com/question/362654946/answer/1896187222)
+20. [国外教授的讲义都是自己用LaTeX打出来的吗？-徐航的回答-知乎](https://www.zhihu.com/question/29227449/answer/1895477272)
+21. [无人驾驶领域，你推荐那些综述性文章？-殷玮的回答-知乎](https://www.zhihu.com/question/355954682/answer/1513557367)

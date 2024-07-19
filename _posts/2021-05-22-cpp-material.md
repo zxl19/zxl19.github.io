@@ -36,12 +36,13 @@ C++学习资料存档。
 1. [Light-City/CPlusPlusThings](https://github.com/Light-City/CPlusPlusThings)
 2. [wuye9036/CppTemplateTutorial](https://github.com/wuye9036/CppTemplateTutorial)
 3. [applenob/Cpp_Primer_Practice](https://github.com/applenob/Cpp_Primer_Practice)
-4. [ZachL1/Bilibili-plus](https://github.com/ZachL1/Bilibili-plus)
-5. [balloonwj/CppGuide](https://github.com/balloonwj/CppGuide)
+4. [balloonwj/CppGuide](https://github.com/balloonwj/CppGuide)
+5. [ZachL1/Bilibili-plus](https://github.com/ZachL1/Bilibili-plus)
 6. [AnkerLeng/Cpp-0-1-Resource](https://github.com/AnkerLeng/Cpp-0-1-Resource)
-7. [steveLauwh/SGI-STL](https://github.com/steveLauwh/SGI-STL)
-8. [youngyangyang04/TechCPP](https://github.com/youngyangyang04/TechCPP)
-9. [dendisuhubdy/cpp_exercises](https://github.com/dendisuhubdy/cpp_exercises)
+7. [Ewenwan/ShiYanLou](https://github.com/Ewenwan/ShiYanLou)
+8. [steveLauwh/SGI-STL](https://github.com/steveLauwh/SGI-STL)
+9. [youngyangyang04/TechCPP](https://github.com/youngyangyang04/TechCPP)
+10. [dendisuhubdy/cpp_exercises](https://github.com/dendisuhubdy/cpp_exercises)
 
 ### 常用算法实现
 
@@ -84,6 +85,15 @@ C++学习资料存档。
 10. [PickNikRobotics/roscpp_code_format](https://github.com/PickNikRobotics/roscpp_code_format)
 11. [igl42/oreilly](https://github.com/igl42/oreilly)
 12. [XiaotaoGuo/Effective-Cpp-Reading-Note](https://github.com/XiaotaoGuo/Effective-Cpp-Reading-Note)
+
+### 设计模式
+
+1. [kamranahmedse/design-patterns-for-humans](https://github.com/kamranahmedse/design-patterns-for-humans)
+2. [DovAmir/awesome-design-patterns](https://github.com/DovAmir/awesome-design-patterns)
+3. [clpsz/Book-HFDP-Code](https://github.com/clpsz/Book-HFDP-Code)
+4. [mrlegowatch/HeadFirstDesignPatternsCpp](https://github.com/mrlegowatch/HeadFirstDesignPatternsCpp)
+5. [yaocoder/DesignPattern](https://github.com/yaocoder/DesignPattern)
+6. [fsaadatmand/Head-First-Design-Pattern-CPP-Examples](https://github.com/fsaadatmand/Head-First-Design-Pattern-CPP-Examples)
 
 ## 网站
 
