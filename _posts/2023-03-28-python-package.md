@@ -526,13 +526,15 @@ pip install，pip uninstall，拿起pip就是干！
 2. [kachayev/fn.py](https://github.com/kachayev/fn.py)
 3. [EntilZha/PyFunctional](https://github.com/EntilZha/PyFunctional)
 
-## 动力学仿真
+## CAX
 
-1. [viblo/pymunk](https://github.com/viblo/pymunk)
-2. [pydy/pydy](https://github.com/pydy/pydy)
-3. [cdsousa/sympybotics](https://github.com/cdsousa/sympybotics)
+### CAD
 
-## 有限元
+1. [evereux/pycatia](https://github.com/evereux/pycatia)
+
+### CAE
+
+#### 有限元
 
 1. [firedrakeproject/firedrake](https://github.com/firedrakeproject/firedrake)
 2. [kinnala/scikit-fem](https://github.com/kinnala/scikit-fem)
@@ -543,6 +545,12 @@ pip install，pip uninstall，拿起pip就是干！
 7. [YaoyaoBae/Feon](https://github.com/YaoyaoBae/Feon)
 8. [tjfulle/fem-with-python](https://github.com/tjfulle/fem-with-python)
 9. [deepmodeling/jax-fem](https://github.com/deepmodeling/jax-fem)
+
+#### 动力学仿真
+
+1. [viblo/pymunk](https://github.com/viblo/pymunk)
+2. [pydy/pydy](https://github.com/pydy/pydy)
+3. [cdsousa/sympybotics](https://github.com/cdsousa/sympybotics)
 
 ## Git（包括Github）
 

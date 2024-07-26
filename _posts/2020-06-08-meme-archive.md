@@ -174,19 +174,20 @@ Meme这个词最初源自英国著名科学家理查德·道金斯所著的《�
 
 ### 其他
 
-1. [kska32/ebooks](https://github.com/kska32/ebooks)
-2. [ruanyf/reading-list](https://github.com/ruanyf/reading-list)
-3. [ixinzhi/wealth1](https://github.com/ixinzhi/wealth1)
-4. [ixinzhi/wealth2](https://github.com/ixinzhi/wealth2)
-5. [ixinzhi/wealth3](https://github.com/ixinzhi/wealth3)
-6. [ixinzhi/wealth4](https://github.com/ixinzhi/wealth4)
-7. [ixinzhi/wealth5](https://github.com/ixinzhi/wealth5)
-8. [ixinzhi/wealth6](https://github.com/ixinzhi/wealth6)
-9. [ixinzhi/wealth7](https://github.com/ixinzhi/wealth7)
-10. [ixinzhi/wealth8](https://github.com/ixinzhi/wealth8)
-11. [ixinzhi/wealth9](https://github.com/ixinzhi/wealth9)
-12. [ixinzhi/loving-books](https://github.com/ixinzhi/loving-books)
-13. [ixinzhi/loving-books-part2](https://github.com/ixinzhi/loving-books-part2)
+1. [0voice/expert_readed_books](https://github.com/0voice/expert_readed_books)
+2. [kska32/ebooks](https://github.com/kska32/ebooks)
+3. [ruanyf/reading-list](https://github.com/ruanyf/reading-list)
+4. [ixinzhi/wealth1](https://github.com/ixinzhi/wealth1)
+5. [ixinzhi/wealth2](https://github.com/ixinzhi/wealth2)
+6. [ixinzhi/wealth3](https://github.com/ixinzhi/wealth3)
+7. [ixinzhi/wealth4](https://github.com/ixinzhi/wealth4)
+8. [ixinzhi/wealth5](https://github.com/ixinzhi/wealth5)
+9. [ixinzhi/wealth6](https://github.com/ixinzhi/wealth6)
+10. [ixinzhi/wealth7](https://github.com/ixinzhi/wealth7)
+11. [ixinzhi/wealth8](https://github.com/ixinzhi/wealth8)
+12. [ixinzhi/wealth9](https://github.com/ixinzhi/wealth9)
+13. [ixinzhi/loving-books](https://github.com/ixinzhi/loving-books)
+14. [ixinzhi/loving-books-part2](https://github.com/ixinzhi/loving-books-part2)
 
 ## 参考
 
