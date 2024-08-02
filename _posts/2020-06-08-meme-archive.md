@@ -116,26 +116,41 @@ Meme这个词最初源自英国著名科学家理查德·道金斯所著的《�
 
 ## 工具箱
 
+### 合集
+
 1. [LKs Site](https://lkssite.vip)
 2. [神奇海螺试验场](https://lab.magiconch.com)
-3. [刘明野的工具箱](https://tool.liumingye.cn)
+3. [作品集-杨二](https://yangerxiao.com/works)
 4. [IT TOOLS](https://it-tools.tech)
 5. [Online Tools-RedKetchup](https://redketchup.io)
 6. [Online Tools-lddgo](https://www.lddgo.net/en/index)
 7. [一个工具箱](http://www.atoolbox.net)
-8. [Poe](https://poe.com)
-9. [Sider](https://sider.ai)
-10. [Internet Archive](https://archive.org)
-11. [Wayback Machine](http://web.archive.org)
-12. [作品集-杨二](https://yangerxiao.com/works)
-13. [在线汉字明文密文转换工具](https://www.chinese-encryption-online.love)
-14. [Awesome Wallpapers](https://wallhaven.cc)
-15. [Wallpaper Cave](https://wallpapercave.com)
-16. [Wallroom](https://wallroom.io)
-17. [Fan Wennan-ArtStation](https://www.artstation.com/nangesfg)
-18. [PICUI图床](https://picui.cn)
-19. [IMG Table](https://imgtbl.com)
-20. [图壳](https://imgkr.com)
+8. [刘明野的工具箱](https://tool.liumingye.cn)
+
+### 大模型
+
+1. [Poe](https://poe.com)
+2. [Sider](https://sider.ai)
+3. [Kimi.ai](https://kimi.moonshot.cn)
+4. [豆包](https://www.doubao.com/chat/)
+
+### 网站历史
+
+1. [Internet Archive](https://archive.org)
+2. [Wayback Machine](http://web.archive.org)
+
+### 壁纸
+
+1. [Awesome Wallpapers](https://wallhaven.cc)
+2. [Wallpaper Cave](https://wallpapercave.com)
+3. [Wallroom](https://wallroom.io)
+4. [Fan Wennan-ArtStation](https://www.artstation.com/nangesfg)
+
+### 图床
+
+1. [PICUI图床](https://picui.cn)
+2. [IMG Table](https://imgtbl.com)
+3. [图壳](https://imgkr.com)
 
 ## 生活
 
@@ -162,10 +177,11 @@ Meme这个词最初源自英国著名科学家理查德·道金斯所著的《�
 
 ### 个人成长
 
-1. [selfteaching/the-craft-of-selfteaching](https://github.com/selfteaching/the-craft-of-selfteaching)
-2. [xiaolai/time-as-a-friend](https://github.com/xiaolai/time-as-a-friend)
-3. [selfteaching/How-To-Ask-Questions-The-Smart-Way](https://github.com/selfteaching/How-To-Ask-Questions-The-Smart-Way)
-4. [wtsnwei/pdsp](https://github.com/wtsnwei/pdsp)
+1. [明日故乡](https://guxiang.app)
+2. [selfteaching/the-craft-of-selfteaching](https://github.com/selfteaching/the-craft-of-selfteaching)
+3. [xiaolai/time-as-a-friend](https://github.com/xiaolai/time-as-a-friend)
+4. [selfteaching/How-To-Ask-Questions-The-Smart-Way](https://github.com/selfteaching/How-To-Ask-Questions-The-Smart-Way)
+5. [wtsnwei/pdsp](https://github.com/wtsnwei/pdsp)
 
 ### 英语
 
@@ -219,6 +235,7 @@ Meme这个词最初源自英国著名科学家理查德·道金斯所著的《�
 26. [js13kGames](https://js13kgames.com)
 27. [js13kGames 2022 winners](https://github.blog/2022-10-06-js13k-2022-winners/)
 28. [CorentinTh/it-tools](https://github.com/CorentinTh/it-tools)
-29. [很赞的两个高清壁纸网站：wallroom和wallhaven-帅小科的文章-知乎](https://zhuanlan.zhihu.com/p/376579457)
-30. [Ubuntu设置双屏显示长壁纸-码农家园](https://www.codenong.com/cs109695249/)
-31. [要命！《程序员延寿指南》火爆GitHub，日涨1500+星，跟着码农干多活20年-量子位的文章-知乎](https://zhuanlan.zhihu.com/p/502393797)
+29. [未来已来？国内11家AI大模型盘点（附体验网址）-CSDN博客](https://blog.csdn.net/qq_51646682/article/details/136905451)
+30. [很赞的两个高清壁纸网站：wallroom和wallhaven-帅小科的文章-知乎](https://zhuanlan.zhihu.com/p/376579457)
+31. [Ubuntu设置双屏显示长壁纸-码农家园](https://www.codenong.com/cs109695249/)
+32. [要命！《程序员延寿指南》火爆GitHub，日涨1500+星，跟着码农干多活20年-量子位的文章-知乎](https://zhuanlan.zhihu.com/p/502393797)

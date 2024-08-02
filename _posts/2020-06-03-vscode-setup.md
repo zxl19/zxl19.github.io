@@ -519,6 +519,10 @@ Typst语言扩展。
 
 绘制思维导图，类似的扩展还有Markmap。
 
+### vscode-pets
+
+电子宠物扩展。
+
 ### vscode-proto3
 
 Protocol Buffers语法支持，仅支持3.x版本：
