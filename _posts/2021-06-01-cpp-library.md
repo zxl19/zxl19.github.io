@@ -87,8 +87,9 @@ pinned: false
 5. [attractivechaos/klib](https://github.com/attractivechaos/klib)
 6. [idealvin/coost](https://github.com/idealvin/coost)
 7. [Water-Melon/Melon](https://github.com/Water-Melon/Melon)
-8. [adah1972/nvwa](https://github.com/adah1972/nvwa)
-9. [MariadeAnton/MiLi](https://github.com/MariadeAnton/MiLi)
+8. [electronicarts/EAStdC](https://github.com/electronicarts/EAStdC)
+9. [adah1972/nvwa](https://github.com/adah1972/nvwa)
+10. [MariadeAnton/MiLi](https://github.com/MariadeAnton/MiLi)
 
 ## 参数读取
 
@@ -346,13 +347,14 @@ pinned: false
 
 1. [cameron314/concurrentqueue](https://github.com/cameron314/concurrentqueue)
 2. [cameron314/readerwriterqueue](https://github.com/cameron314/readerwriterqueue)
-3. [zouxiaohang/TinySTL](https://github.com/zouxiaohang/TinySTL)
-4. [skarupke/flat_hash_map](https://github.com/skarupke/flat_hash_map)
-5. [VcDevel/Vc](https://github.com/VcDevel/Vc)
-6. [boostorg/pfr](https://github.com/boostorg/pfr)
-7. [stotko/stdgpu](https://github.com/stotko/stdgpu)
-8. [VcDevel/std-simd](https://github.com/VcDevel/std-simd)
-9. [frozenca/BTree](https://github.com/frozenca/BTree)
+3. [electronicarts/EASTL](https://github.com/electronicarts/EASTL)
+4. [zouxiaohang/TinySTL](https://github.com/zouxiaohang/TinySTL)
+5. [skarupke/flat_hash_map](https://github.com/skarupke/flat_hash_map)
+6. [VcDevel/Vc](https://github.com/VcDevel/Vc)
+7. [boostorg/pfr](https://github.com/boostorg/pfr)
+8. [stotko/stdgpu](https://github.com/stotko/stdgpu)
+9. [VcDevel/std-simd](https://github.com/VcDevel/std-simd)
+10. [frozenca/BTree](https://github.com/frozenca/BTree)
 
 ## Python绑定
 
@@ -387,6 +389,7 @@ pinned: false
 5. [lzpong/threadpool](https://github.com/lzpong/threadpool)
 6. [lizhenghn123/zl_threadpool](https://github.com/lizhenghn123/zl_threadpool)
 7. [tghosgor/threadpool11](https://github.com/tghosgor/threadpool11)
+8. [electronicarts/EAThread](https://github.com/electronicarts/EAThread)
 
 ## 惰性求值
 
