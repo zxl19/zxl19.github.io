@@ -56,8 +56,10 @@ SLAM学习资料存档，包括SLAM基础理论、卡尔曼滤波、组合导航
 14. [Joanna-HE/Supplementary-file-for-IKFoM](https://github.com/Joanna-HE/Supplementary-file-for-IKFoM)
 15. [slam-code/SLAM](https://github.com/slam-code/SLAM)
 16. [brytsknguyen/slict](https://github.com/brytsknguyen/slict)
-17. [ganlumomo/VisualInertialOdometry](https://github.com/ganlumomo/VisualInertialOdometry)
-18. [brytsknguyen/oblam_deskew](https://github.com/brytsknguyen/oblam_deskew)
+17. [Tompson11/SLAM_comparison](https://github.com/Tompson11/SLAM_comparison)
+18. [ganlumomo/VisualInertialOdometry](https://github.com/ganlumomo/VisualInertialOdometry)
+19. [brytsknguyen/oblam_deskew](https://github.com/brytsknguyen/oblam_deskew)
+20. [YZH-bot/SLAM_Box](https://github.com/YZH-bot/SLAM_Box)
 
 ### 公开课
 

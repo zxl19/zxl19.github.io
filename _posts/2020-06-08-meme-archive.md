@@ -172,7 +172,8 @@ Meme这个词最初源自英国著名科学家理查德·道金斯所著的《�
 
 1. [geekan/HowToLiveLonger](https://github.com/geekan/HowToLiveLonger)
 2. [zijie0/HumanSystemOptimization](https://github.com/zijie0/HumanSystemOptimization)
-3. [gnoloehz/996.OD](https://github.com/gnoloehz/996.OD)
+3. [xiaolai/help-to-be-helped](https://github.com/xiaolai/help-to-be-helped)
+4. [gnoloehz/996.OD](https://github.com/gnoloehz/996.OD)
 
 ### 投资理财
 
