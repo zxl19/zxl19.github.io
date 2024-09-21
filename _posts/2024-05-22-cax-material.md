@@ -73,6 +73,7 @@ pinned: false
 1. Meshmixer [链接](https://meshmixer.com)
 2. MeshLab [链接](https://www.meshlab.net)
 3. Cura [链接](https://ultimaker.com/software/ultimaker-cura/)
+4. MeshInspector [链接](https://meshinspector.com)
 
 #### 模型
 
@@ -85,3 +86,4 @@ pinned: false
 1. [Linux上5个最好CAD软件-Linux中国的文章-知乎](https://zhuanlan.zhihu.com/p/81680138)
 2. [cnr-isti-vclab/meshlab](https://github.com/cnr-isti-vclab/meshlab)
 3. [Ultimaker/Cura](https://github.com/Ultimaker/Cura)
+4. [MeshInspector/MeshInspector](https://github.com/MeshInspector/MeshInspector)

@@ -933,7 +933,7 @@ Vector3d trans = trans1 + ratio * (trans2 - trans1);
         alloc.construct(p, forward<Args>(args)...);
         // 如果堆内存管理器未定义construct()成员函数，则使用默认的new运算符
         // Eigen定义的堆内存管理器就是这种情况
-        new(static_cast<void*>(p)) T(forward<Args>(args)...);
+        ::new(static_cast<void*>(p)) T(forward<Args>(args)...);
         ```
 
 #### 将Eigen对象作为函数参数传递
@@ -1102,7 +1102,7 @@ Vector3d trans = trans1 + ratio * (trans2 - trans1);
 4. [Solving linear least squares systems](http://www.eigen.tuxfamily.org/dox/group__LeastSquares.html)
 5. [LU分解、LDLT分解和Cholesky分解-CSDN博客](https://blog.csdn.net/zhouliyang1990/article/details/21952485)
 6. [奇异值分解（SVD）-漫漫成长的文章-知乎](https://zhuanlan.zhihu.com/p/29846048)
-7. [SVD-CSDN博客](https://blog.csdn.net/jiang_he_hu_hai/article/details/78363642)
+7. [SVD分解-CSDN博客](https://blog.csdn.net/jiang_he_hu_hai/article/details/78363642)
 8. [欧拉角细节/旋转顺序/内旋外旋-能儿的文章-知乎](https://zhuanlan.zhihu.com/p/85108850)
 9. [欧拉角和旋转矩阵之间的转换-江南古镇的文章-知乎](https://zhuanlan.zhihu.com/p/144032401)
 10. [内旋外旋证明-Stack Exchange](https://math.stackexchange.com/questions/1137745/proof-of-the-extrinsic-to-intrinsic-rotation-transform)
@@ -1126,8 +1126,9 @@ Vector3d trans = trans1 + ratio * (trans2 - trans1);
 28. [Eigen内存对齐-卷儿的文章-知乎](https://zhuanlan.zhihu.com/p/349413376)
 29. [一文带你了解Eigen内存对齐-王方浩的文章-知乎](https://zhuanlan.zhihu.com/p/618716343)
 30. [Eigen库在使用的过程出现warning：在堆上分配的对象可能不是对齐16，什么原因呢？-王方浩的回答-知乎](https://www.zhihu.com/question/38315455/answer/2963625338)
-31. [Eigen与std::make_shared，std::unique_ptr搭配使用的采坑记录-minxuan的文章-知乎](https://zhuanlan.zhihu.com/p/297911301)
-32. [Lazy Evaluation and Aliasing](http://www.eigen.tuxfamily.org/dox/TopicLazyEvaluation.html)
-33. [eager evaluation (及早求值) & lazy evaluation (惰性求值)-CSDN博客](https://blog.csdn.net/JNingWei/article/details/80047122)
-34. [noalias()-CSDN博客](https://blog.csdn.net/weixin_30550081/article/details/95276173)
-35. [Eigen常见的坑-管清文的文章-知乎](https://zhuanlan.zhihu.com/p/32226967)
+31. [C++深入解析new关键字，::new、operator new函数，placement new表达式-CSDN博客](https://blog.csdn.net/aishuirenjia/article/details/102979457)
+32. [Eigen与std::make_shared，std::unique_ptr搭配使用的采坑记录-minxuan的文章-知乎](https://zhuanlan.zhihu.com/p/297911301)
+33. [Lazy Evaluation and Aliasing](http://www.eigen.tuxfamily.org/dox/TopicLazyEvaluation.html)
+34. [eager evaluation (及早求值) & lazy evaluation (惰性求值)-CSDN博客](https://blog.csdn.net/JNingWei/article/details/80047122)
+35. [noalias()-CSDN博客](https://blog.csdn.net/weixin_30550081/article/details/95276173)
+36. [Eigen常见的坑-管清文的文章-知乎](https://zhuanlan.zhihu.com/p/32226967)

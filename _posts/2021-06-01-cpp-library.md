@@ -170,9 +170,10 @@ pinned: false
 3. [alandefreitas/matplotplusplus](https://github.com/alandefreitas/matplotplusplus)
 4. [sciplot/sciplot](https://github.com/sciplot/sciplot)
 5. [dstahlke/gnuplot-iostream](https://github.com/dstahlke/gnuplot-iostream)
-6. [Profactor/cv-plot](https://github.com/Profactor/cv-plot)
-7. [leovandriel/cvplot](https://github.com/leovandriel/cvplot)
-8. [fbbdev/plot](https://github.com/fbbdev/plot)
+6. [madplotlib/madplotlib](https://github.com/madplotlib/madplotlib)
+7. [Profactor/cv-plot](https://github.com/Profactor/cv-plot)
+8. [leovandriel/cvplot](https://github.com/leovandriel/cvplot)
+9. [fbbdev/plot](https://github.com/fbbdev/plot)
 
 ## 机器学习&深度学习
 
@@ -255,6 +256,7 @@ pinned: false
 #### 网格处理
 
 1. [mlivesu/cinolib](https://github.com/mlivesu/cinolib)
+2. [MeshInspector/MeshLib](https://github.com/MeshInspector/MeshLib)
 
 ### 张量运算
 
