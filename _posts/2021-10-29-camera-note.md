@@ -221,11 +221,12 @@ pinned: false
 
 ### 型号选择
 
-1. [尼康Z50和Z5怎么选。？-荐机大师的回答-知乎](https://www.zhihu.com/question/427894187/answer/2043697040)
+1. [【买齐所有】尼康相机怎么选？12台｜相机选购指南——尼康篇](https://www.bilibili.com/video/BV1An2SYiEQY)
 2. [年轻人的第一台全画幅相机？Nikon Z5深度使用体验丨Links 4K丨尼康Z5](https://www.bilibili.com/video/BV1aZ4y1K7aC)
 3. [登顶雪山的感动 我想分享给你丨带着尼康Z50去登山](https://www.bilibili.com/video/BV1VJ41117An)
 4. [【DPReview 4K】尼康 Nikon Z 5 测评（对比Z 6）](https://www.bilibili.com/video/BV1uv411k7Ns)
 5. [【DPReview 4K】入门级全幅无反哪家强？尼康Z 5 & 佳能EOS RP 对比测评](https://www.bilibili.com/video/BV1Cf4y167nr)
+6. [尼康Z50和Z5怎么选。？-荐机大师的回答-知乎](https://www.zhihu.com/question/427894187/answer/2043697040)
 
 ### 预设
 
