@@ -31,6 +31,12 @@ pinned: false
         curl --socks5 127.0.0.1:1080 cip.cc     # 显示IPv4和地址信息
         ```
 
+    - 查看路由表：
+
+        ```shell
+        route -n
+        ```
+
 ## 安装
 
 ```shell
