@@ -45,10 +45,11 @@ SLAM方向面试题存档。
 1. [interview-📚C/C++技术面试基础知识总结（一）-辉哈huihut的文章-知乎](https://zhuanlan.zhihu.com/p/114311142)
 2. [校招C++大概学习到什么程度？-程序员内功修炼的回答-知乎](https://www.zhihu.com/question/290102232/answer/2094675219)
 3. [C++常见面试题总结-Cpp小茶馆的文章-知乎](https://zhuanlan.zhihu.com/p/354382975)
-4. [你遇到过哪些高质量的C++面试？-张小方的回答-知乎](https://www.zhihu.com/question/60911582/answer/1783988850)
-5. [如果你是一个C++面试官，你会问哪些问题？-拓跋阿秀的回答-知乎](https://www.zhihu.com/question/451327108/answer/1868156551)
-6. [C++学到什么程度可以面试工作？-牛客网的回答-知乎](https://www.zhihu.com/question/400543720/answer/1845364139)
-7. [当面试官问我C++11新特性的时候，应该怎样回答？-程序喵大人的回答-知乎](https://www.zhihu.com/question/65209863/answer/1957019832)
+4. [你遇到过哪些高质量的C++面试？-码农出击的回答-知乎](https://www.zhihu.com/question/60911582/answer/2590210440)
+5. [你遇到过哪些高质量的C++面试？-张小方的回答-知乎](https://www.zhihu.com/question/60911582/answer/1783988850)
+6. [如果你是一个C++面试官，你会问哪些问题？-拓跋阿秀的回答-知乎](https://www.zhihu.com/question/451327108/answer/1868156551)
+7. [C++学到什么程度可以面试工作？-牛客网的回答-知乎](https://www.zhihu.com/question/400543720/answer/1845364139)
+8. [当面试官问我C++11新特性的时候，应该怎样回答？-程序喵大人的回答-知乎](https://www.zhihu.com/question/65209863/answer/1957019832)
 
 ### 算法总结
 

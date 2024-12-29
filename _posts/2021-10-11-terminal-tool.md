@@ -151,10 +151,12 @@ pinned: false
 
 ## 下载
 
-1. [you-get](https://github.com/soimort/you-get)
-2. [pytube](https://github.com/pytube/pytube)
-3. [axel](https://github.com/axel-download-accelerator/axel)
-4. [bauh](https://github.com/vinifmor/bauh)
+1. [youtube-dl](https://github.com/ytdl-org/youtube-dl)
+2. [you-get](https://github.com/soimort/you-get)
+3. [lux](https://github.com/iawia002/lux)
+4. [pytube](https://github.com/pytube/pytube)
+5. [axel](https://github.com/axel-download-accelerator/axel)
+6. [bauh](https://github.com/vinifmor/bauh)
 
 ## 代理
 

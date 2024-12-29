@@ -48,6 +48,7 @@ Meme这个词最初源自英国著名科学家理查德·道金斯所著的《�
 3. [Ideosorter](https://ideosorter.github.io)
 4. [LeftValues](https://leftvalues.github.io)
 5. [RightValues](https://rightvaluestest.github.io)
+6. [Harry Potter](https://www.harrypotter.com)
 
 ## 漫画
 
@@ -142,8 +143,9 @@ Meme这个词最初源自英国著名科学家理查德·道金斯所著的《�
 
 1. [Poe](https://poe.com)
 2. [Sider](https://sider.ai)
-3. [Kimi.ai](https://kimi.moonshot.cn)
-4. [豆包](https://www.doubao.com/chat/)
+3. [智谱清言](https://chatglm.cn)
+4. [Kimi.ai](https://kimi.moonshot.cn)
+5. [豆包](https://www.doubao.com/chat/)
 
 ### 网站历史
 

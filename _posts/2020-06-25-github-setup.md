@@ -98,10 +98,11 @@ GitHub Desktop是GitHub开发的客户端，使用图形化交互界面代替了
 2. 创建SSH key：
 
     ```shell
-    ssh-keygen -t rsa -C "your@email.com"
+    ssh-keygen -t rsa -b 2048 -C "your@email.com"
     ```
 
-    连续点三次回车确认。
+    - 连续点三次回车确认；
+    - 美国国家标准与技术研究院（National Institute of Standards and Technology，NIST）建议使用至少2048位的SSH key；
 
 3. 保存SSH key：
 
@@ -168,11 +169,12 @@ GitHub Desktop是GitHub开发的客户端，使用图形化交互界面代替了
 12. [在VScode上配置Git-浪晋的文章-知乎](https://zhuanlan.zhihu.com/p/31417255)
 13. [git config的全局和本地配置-chloneda的文章-知乎](https://zhuanlan.zhihu.com/p/121471974)
 14. [git config的配置（system、global、local）](https://www.panyanbin.com/article/ff4e1f85.html)
-15. [Missing contributions-GitHub Docs](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/managing-contribution-settings-on-your-profile/why-are-my-contributions-not-showing-up-on-my-profile)
-16. [Managing email preferences-GitHub Docs](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-personal-account-on-github/managing-email-preferences)
-17. [Token authentication requirements for Git operations-GitHub Blog](https://github.blog/2020-12-15-token-authentication-requirements-for-git-operations/)
-18. [Creating a personal access token-GitHub Docs](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token)
-19. [GitHub防黑客新措施：弃用账密验证Git操作，改用token或SSH密钥，今天0点已执行-量子位的文章-知乎](https://zhuanlan.zhihu.com/p/399759963)
-20. [GitHub强制要求开启两步验证了，但是1password要收费，怎么办？-游凯超的文章-知乎](https://zhuanlan.zhihu.com/p/615693483)
-21. [GitHub要求2FA？不慌，有它帮你-神锁离线版的文章-知乎](https://zhuanlan.zhihu.com/p/512717901)
-22. [开启GitHub的2FA-bilibili](https://www.bilibili.com/video/BV1sU4y1S7LA)
+15. [Recommendation for Key Management-NIST](https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-57Pt3r1.pdf)
+16. [Missing contributions-GitHub Docs](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/managing-contribution-settings-on-your-profile/why-are-my-contributions-not-showing-up-on-my-profile)
+17. [Managing email preferences-GitHub Docs](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-personal-account-on-github/managing-email-preferences)
+18. [Token authentication requirements for Git operations-GitHub Blog](https://github.blog/2020-12-15-token-authentication-requirements-for-git-operations/)
+19. [Creating a personal access token-GitHub Docs](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token)
+20. [GitHub防黑客新措施：弃用账密验证Git操作，改用token或SSH密钥，今天0点已执行-量子位的文章-知乎](https://zhuanlan.zhihu.com/p/399759963)
+21. [GitHub强制要求开启两步验证了，但是1password要收费，怎么办？-游凯超的文章-知乎](https://zhuanlan.zhihu.com/p/615693483)
+22. [GitHub要求2FA？不慌，有它帮你-神锁离线版的文章-知乎](https://zhuanlan.zhihu.com/p/512717901)
+23. [开启GitHub的2FA-bilibili](https://www.bilibili.com/video/BV1sU4y1S7LA)
