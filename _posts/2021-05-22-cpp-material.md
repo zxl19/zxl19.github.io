@@ -110,6 +110,8 @@ C++学习资料存档。
 2. [cppreference](https://en.cppreference.com/w/)
 3. [C/C++ Cheat Sheet](https://www.cppcheatsheet.com)
 4. [comp.lang.c Frequently Asked Questions](https://c-faq.com)
+5. [超好C++ cheatsheet-枕月的文章-知乎](https://zhuanlan.zhihu.com/p/336299759)
+6. [hacking C++](https://hackingcpp.com)
 
 ### 代码规范
 
@@ -148,7 +150,8 @@ C++学习资料存档。
 1. [如何塑造一个拿的出手的GitHub账号？-GitHubPorn的回答-知乎](https://www.zhihu.com/question/47567490/answer/1866897272)
 2. [学习C++，应该循序渐进的看哪些书？-嘉炜的回答-知乎](https://www.zhihu.com/question/20410487/answer/15055637)
 3. [有什么高质量的现代C++风格的开源代码?-夏天的回答-知乎](https://www.zhihu.com/question/23153437/answer/1962068242)
-4. [ClangFormatStyleOptions](https://clang.llvm.org/docs/ClangFormatStyleOptions.html)
-5. [推荐10款C++在线编译器-CSDN博客](https://blog.csdn.net/cool99781/article/details/104516581)
-6. [melpon/wandbox](https://github.com/melpon/wandbox)
-7. [andreasfertig/cppinsights](https://github.com/andreasfertig/cppinsights)
+4. [可以使用C++的哪些库或函数来简化任务？-南山烟雨珠江潮的回答-知乎](https://www.zhihu.com/question/639724149/answer/3374083013)
+5. [ClangFormatStyleOptions](https://clang.llvm.org/docs/ClangFormatStyleOptions.html)
+6. [推荐10款C++在线编译器-CSDN博客](https://blog.csdn.net/cool99781/article/details/104516581)
+7. [melpon/wandbox](https://github.com/melpon/wandbox)
+8. [andreasfertig/cppinsights](https://github.com/andreasfertig/cppinsights)
