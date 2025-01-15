@@ -99,7 +99,7 @@ std::vector<double> out_dists_sqr(num_results);
 nanoflann::KNNResultSet<double> resultSet(num_results);
 
 resultSet.init(&ret_indexes[0], &out_dists_sqr[0]);
-bool found = kdtree.index->findNeighbors(resultSet, &query_pt[0], nanoflann::SearchParams());
+bool found = kdtree.index->findNeighbors(resultSet, &query_pt[0], nanoflann::SearchParameters());
 
 // !在没有找到指定数量的最近邻点时会返回false
 if (found) {

@@ -50,16 +50,21 @@ pinned: false
 ### 文件查找
 
 1. find
-2. tree
-3. [fzf](https://github.com/junegunn/fzf)
-4. [sk](https://github.com/lotabout/skim)
+2. grep
+3. tree
+4. [fzf](https://github.com/junegunn/fzf)
+5. [sk](https://github.com/lotabout/skim)
+6. [ug](https://github.com/Genivia/ugrep)
 
-## 文件内容
+### 文件查看
 
 1. cat
 2. head
 3. tail
-4. [tailspin](https://github.com/bensadeh/tailspin)
+4. [lnav](https://github.com/tstack/lnav)
+5. [tailspin](https://github.com/bensadeh/tailspin)
+6. [fltrdr](https://github.com/octobanana/fltrdr)
+7. [json-tui](https://github.com/ArthurSonzogni/json-tui)
 
 ### 文件压缩
 

@@ -319,12 +319,22 @@ pinned: false
 
 ## 可视化界面
 
+### 图形化界面（GUI）
+
 1. [ocornut/imgui](https://github.com/ocornut/imgui)
 2. [idea4good/GuiLite](https://github.com/idea4good/GuiLite)
-3. [ArthurSonzogni/FTXUI](https://github.com/ArthurSonzogni/FTXUI)
-4. [stevenlovegrove/Pangolin](https://github.com/stevenlovegrove/Pangolin)
-5. [mitsuba-renderer/nanogui](https://github.com/mitsuba-renderer/nanogui)
-6. [koide3/iridescence](https://github.com/koide3/iridescence)
+3. [stevenlovegrove/Pangolin](https://github.com/stevenlovegrove/Pangolin)
+4. [mitsuba-renderer/nanogui](https://github.com/mitsuba-renderer/nanogui)
+5. [koide3/iridescence](https://github.com/koide3/iridescence)
+
+### 文本界面（TUI）
+
+1. [ArthurSonzogni/FTXUI](https://github.com/ArthurSonzogni/FTXUI)
+2. [ggerganov/imtui](https://github.com/ggerganov/imtui)
+3. [magiblot/tvision](https://github.com/magiblot/tvision)
+4. [gansm/finalcut](https://github.com/gansm/finalcut)
+5. [a-n-t-h-o-n-y/TermOx](https://github.com/a-n-t-h-o-n-y/TermOx)
+6. [magiblot/turbo](https://github.com/magiblot/turbo)
 
 ## 通信
 
