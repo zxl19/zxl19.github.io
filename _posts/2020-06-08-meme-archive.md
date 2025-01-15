@@ -143,9 +143,10 @@ Meme这个词最初源自英国著名科学家理查德·道金斯所著的《�
 
 1. [Poe](https://poe.com)
 2. [Sider](https://sider.ai)
-3. [智谱清言](https://chatglm.cn)
-4. [Kimi.ai](https://kimi.moonshot.cn)
-5. [豆包](https://www.doubao.com/chat/)
+3. [Cursor](https://www.cursor.com)
+4. [智谱清言](https://chatglm.cn)
+5. [Kimi.ai](https://kimi.moonshot.cn)
+6. [豆包](https://www.doubao.com/chat/)
 
 ### 网站历史
 
