@@ -24,6 +24,8 @@ Meme这个词最初源自英国著名科学家理查德·道金斯所著的《�
 
 ## 生成器
 
+### 图片
+
 1. [O'RLY封面工厂](https://orly.nanmu.me)
 2. [维基百科转参考文献](https://m-journal.org)
 3. [狗屁不通文章生成器](https://luckyfuy.top/generator/)
@@ -36,10 +38,17 @@ Meme这个词最初源自英国著名科学家理查德·道金斯所著的《�
 10. [吃货制霸生成器](https://food.lvwzhen.com/)
 11. [斜着看生成器](https://lab.magiconch.com/xzk/)
 12. [绯红-中国传统颜色手册](https://colors.ichuantong.cn)
-13. [lllyasviel/Fooocus](https://github.com/lllyasviel/Fooocus)
-14. [vietnh1009/ASCII-generator](https://github.com/vietnh1009/ASCII-generator)
-15. [mylxsw/aidea](https://github.com/mylxsw/aidea)
-16. [prompt-engineering/understand-prompt](https://github.com/prompt-engineering/understand-prompt)
+
+### 文本
+
+1. [vietnh1009/ASCII-generator](https://github.com/vietnh1009/ASCII-generator)
+2. [ArthurSonzogni/Diagon](https://github.com/ArthurSonzogni/Diagon)
+
+### 大模型
+
+1. [lllyasviel/Fooocus](https://github.com/lllyasviel/Fooocus)
+2. [mylxsw/aidea](https://github.com/mylxsw/aidea)
+3. [prompt-engineering/understand-prompt](https://github.com/prompt-engineering/understand-prompt)
 
 ## 测试
 

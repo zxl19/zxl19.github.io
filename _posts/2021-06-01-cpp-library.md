@@ -152,6 +152,7 @@ pinned: false
 1. [gabime/spdlog](https://github.com/gabime/spdlog)
 2. [google/glog](https://github.com/google/glog)
 3. [PlatformLab/NanoLog](https://github.com/PlatformLab/NanoLog)
+4. [odygrd/quill](https://github.com/odygrd/quill)
 
 ### 性能分析
 

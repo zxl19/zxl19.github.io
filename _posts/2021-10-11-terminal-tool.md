@@ -63,8 +63,9 @@ pinned: false
 3. tail
 4. [lnav](https://github.com/tstack/lnav)
 5. [tailspin](https://github.com/bensadeh/tailspin)
-6. [fltrdr](https://github.com/octobanana/fltrdr)
-7. [json-tui](https://github.com/ArthurSonzogni/json-tui)
+6. [timg](https://github.com/hzeller/timg)
+7. [fltrdr](https://github.com/octobanana/fltrdr)
+8. [json-tui](https://github.com/ArthurSonzogni/json-tui)
 
 ### 文件压缩
 

@@ -249,16 +249,25 @@ x.norm()            // 取模
 x.squaredNorm()     // 模的平方
 ```
 
+#### 范数
+
+```cpp
+// 以矩阵为例，向量同理
+C.lpNorm<1>()           // 1-范数
+C.lpNorm<2>()           // 2-范数
+C.lpNorm<Infinity>()    // 无穷范数
+```
+
 #### 类型转换
 
 ```cpp
 // 以矩阵为例，向量同理
-C.cast<double>()    // 转为double类型
-C.cast<float>()     // 转为float类型
-C.cast<int>()       // 转为int类型
-C.real()            // 逐元素取实部
-C.imag()            // 逐元素取虚部
-C.conjugate()       // 逐元素取共轭
+C.cast<double>()        // 转为double类型
+C.cast<float>()         // 转为float类型
+C.cast<int>()           // 转为int类型
+C.real()                // 逐元素取实部
+C.imag()                // 逐元素取虚部
+C.conjugate()           // 逐元素取共轭
 ```
 
 #### 改变大小
@@ -1096,39 +1105,48 @@ Vector3d trans = trans1 + ratio * (trans2 - trans1);
 
 ## 参考
 
-1. [Catalogue of dense decompositions](https://eigen.tuxfamily.org/dox/group__TopicLinearAlgebraDecompositions.html)
-2. [Linear algebra and decompositions](https://eigen.tuxfamily.org/dox/group__TutorialLinearAlgebra.html)
-3. [Benchmark of dense decompositions](https://eigen.tuxfamily.org/dox/group__DenseDecompositionBenchmark.html)
-4. [Solving linear least squares systems](http://www.eigen.tuxfamily.org/dox/group__LeastSquares.html)
-5. [LU分解、LDLT分解和Cholesky分解-CSDN博客](https://blog.csdn.net/zhouliyang1990/article/details/21952485)
-6. [奇异值分解（SVD）-漫漫成长的文章-知乎](https://zhuanlan.zhihu.com/p/29846048)
-7. [SVD分解-CSDN博客](https://blog.csdn.net/jiang_he_hu_hai/article/details/78363642)
-8. [欧拉角细节/旋转顺序/内旋外旋-能儿的文章-知乎](https://zhuanlan.zhihu.com/p/85108850)
-9. [欧拉角和旋转矩阵之间的转换-江南古镇的文章-知乎](https://zhuanlan.zhihu.com/p/144032401)
-10. [内旋外旋证明-Stack Exchange](https://math.stackexchange.com/questions/1137745/proof-of-the-extrinsic-to-intrinsic-rotation-transform)
-11. [三维旋转：欧拉角、四元数、旋转矩阵、轴角之间的转换-鸡哥的文章-知乎](https://zhuanlan.zhihu.com/p/45404840)
-12. [三维旋转的不同表示方式和相互转换-xiaotaw的文章-知乎](https://zhuanlan.zhihu.com/p/619182782)
-13. [四元数归一化1-Stack Overflow](https://stackoverflow.com/questions/48019329/difference-between-norm-normalize-and-normalized-in-eigen)
-14. [四元数归一化2-CSDN博客](https://blog.csdn.net/m0_56348460/article/details/117386857)
-15. [四元数的球面线性插值（slerp）-一条放浪不羁的爬虫的文章-知乎](https://zhuanlan.zhihu.com/p/538653027)
-16. [机械臂如何实现笛卡尔空间中姿态的插值？-fly qq的回答-知乎](https://www.zhihu.com/question/22910238/answer/1096183240)
-17. [机械臂如何实现笛卡尔空间中姿态的插值？-桂凯的回答-知乎](https://www.zhihu.com/question/22910238/answer/1098345012)
-18. [旋转矩阵归一化1-Stack Overflow](https://stackoverflow.com/questions/21761909/eigen-convert-matrix3d-rotation-to-quaternion)
-19. [旋转矩阵归一化2-Stack Overflow](https://stackoverflow.com/questions/43896041/eigen-matrix-to-quaternion-and-back-have-different-result)
-20. [Common pitfalls](https://eigen.tuxfamily.org/dox/TopicPitfalls.html)
-21. [The template and typename keywords in C++](https://eigen.tuxfamily.org/dox/TopicTemplateKeyword.html)
-22. [Aliasing](http://www.eigen.tuxfamily.org/dox/group__TopicAliasing.html)
-23. [Alignement issues](https://eigen.tuxfamily.org/dox/group__DenseMatrixManipulation__Alignement.html)
-24. [向量化运算-CSDN博客](https://blog.csdn.net/weixin_38251332/article/details/120308863)
-25. [Eigen内存对齐1-CSDN博客](https://blog.csdn.net/shyjhyp11/article/details/123208279)
-26. [Eigen内存对齐2-CSDN博客](https://blog.csdn.net/shyjhyp11/article/details/123204444)
-27. [从Eigen向量化谈内存对齐-王金戈的文章-知乎](https://zhuanlan.zhihu.com/p/93824687)
-28. [Eigen内存对齐-卷儿的文章-知乎](https://zhuanlan.zhihu.com/p/349413376)
-29. [一文带你了解Eigen内存对齐-王方浩的文章-知乎](https://zhuanlan.zhihu.com/p/618716343)
-30. [Eigen库在使用的过程出现warning：在堆上分配的对象可能不是对齐16，什么原因呢？-王方浩的回答-知乎](https://www.zhihu.com/question/38315455/answer/2963625338)
-31. [C++深入解析new关键字，::new、operator new函数，placement new表达式-CSDN博客](https://blog.csdn.net/aishuirenjia/article/details/102979457)
-32. [Eigen与std::make_shared，std::unique_ptr搭配使用的采坑记录-minxuan的文章-知乎](https://zhuanlan.zhihu.com/p/297911301)
-33. [Lazy Evaluation and Aliasing](http://www.eigen.tuxfamily.org/dox/TopicLazyEvaluation.html)
-34. [eager evaluation (及早求值) & lazy evaluation (惰性求值)-CSDN博客](https://blog.csdn.net/JNingWei/article/details/80047122)
-35. [noalias()-CSDN博客](https://blog.csdn.net/weixin_30550081/article/details/95276173)
-36. [Eigen常见的坑-管清文的文章-知乎](https://zhuanlan.zhihu.com/p/32226967)
+1. [Eigen官网教程(1) Matrix相关-CSDN博客](https://blog.csdn.net/SKANK911/article/details/89259272)
+2. [Eigen官网教程(2) Array类和元素级操作-CSDN博客](https://blog.csdn.net/SKANK911/article/details/89279521)
+3. [Eigen官网教程(3) 块操作-CSDN博客](https://blog.csdn.net/SKANK911/article/details/89279545)
+4. [Eigen官网教程(4) 高级初始化-CSDN博客](https://blog.csdn.net/SKANK911/article/details/89279656)
+5. [Eigen官网教程(5) 规约、范数等-CSDN博客](https://blog.csdn.net/SKANK911/article/details/89279675)
+6. [Eigen官网教程(6) Map类-CSDN博客](https://blog.csdn.net/SKANK911/article/details/89279693)
+7. [Eigen官网教程(7) Geometry几何模块的实践-CSDN博客](https://blog.csdn.net/SKANK911/article/details/89279754)
+8. [Eigen：基础入门到使用-CSDN博客](https://blog.csdn.net/QLeelq/article/details/111599195)
+9. [Eigen：进阶使用-CSDN博客](https://blog.csdn.net/QLeelq/article/details/111660907)
+10. [Catalogue of dense decompositions](https://eigen.tuxfamily.org/dox/group__TopicLinearAlgebraDecompositions.html)
+11. [Linear algebra and decompositions](https://eigen.tuxfamily.org/dox/group__TutorialLinearAlgebra.html)
+12. [Benchmark of dense decompositions](https://eigen.tuxfamily.org/dox/group__DenseDecompositionBenchmark.html)
+13. [Solving linear least squares systems](http://www.eigen.tuxfamily.org/dox/group__LeastSquares.html)
+14. [LU分解、LDLT分解和Cholesky分解-CSDN博客](https://blog.csdn.net/zhouliyang1990/article/details/21952485)
+15. [奇异值分解（SVD）-漫漫成长的文章-知乎](https://zhuanlan.zhihu.com/p/29846048)
+16. [SVD分解-CSDN博客](https://blog.csdn.net/jiang_he_hu_hai/article/details/78363642)
+17. [欧拉角细节/旋转顺序/内旋外旋-能儿的文章-知乎](https://zhuanlan.zhihu.com/p/85108850)
+18. [欧拉角和旋转矩阵之间的转换-江南古镇的文章-知乎](https://zhuanlan.zhihu.com/p/144032401)
+19. [内旋外旋证明-Stack Exchange](https://math.stackexchange.com/questions/1137745/proof-of-the-extrinsic-to-intrinsic-rotation-transform)
+20. [三维旋转：欧拉角、四元数、旋转矩阵、轴角之间的转换-鸡哥的文章-知乎](https://zhuanlan.zhihu.com/p/45404840)
+21. [三维旋转的不同表示方式和相互转换-xiaotaw的文章-知乎](https://zhuanlan.zhihu.com/p/619182782)
+22. [四元数归一化1-Stack Overflow](https://stackoverflow.com/questions/48019329/difference-between-norm-normalize-and-normalized-in-eigen)
+23. [四元数归一化2-CSDN博客](https://blog.csdn.net/m0_56348460/article/details/117386857)
+24. [四元数的球面线性插值（slerp）-一条放浪不羁的爬虫的文章-知乎](https://zhuanlan.zhihu.com/p/538653027)
+25. [机械臂如何实现笛卡尔空间中姿态的插值？-fly qq的回答-知乎](https://www.zhihu.com/question/22910238/answer/1096183240)
+26. [机械臂如何实现笛卡尔空间中姿态的插值？-桂凯的回答-知乎](https://www.zhihu.com/question/22910238/answer/1098345012)
+27. [旋转矩阵归一化1-Stack Overflow](https://stackoverflow.com/questions/21761909/eigen-convert-matrix3d-rotation-to-quaternion)
+28. [旋转矩阵归一化2-Stack Overflow](https://stackoverflow.com/questions/43896041/eigen-matrix-to-quaternion-and-back-have-different-result)
+29. [Common pitfalls](https://eigen.tuxfamily.org/dox/TopicPitfalls.html)
+30. [The template and typename keywords in C++](https://eigen.tuxfamily.org/dox/TopicTemplateKeyword.html)
+31. [Aliasing](http://www.eigen.tuxfamily.org/dox/group__TopicAliasing.html)
+32. [Alignement issues](https://eigen.tuxfamily.org/dox/group__DenseMatrixManipulation__Alignement.html)
+33. [向量化运算-CSDN博客](https://blog.csdn.net/weixin_38251332/article/details/120308863)
+34. [Eigen内存对齐1-CSDN博客](https://blog.csdn.net/shyjhyp11/article/details/123208279)
+35. [Eigen内存对齐2-CSDN博客](https://blog.csdn.net/shyjhyp11/article/details/123204444)
+36. [从Eigen向量化谈内存对齐-王金戈的文章-知乎](https://zhuanlan.zhihu.com/p/93824687)
+37. [Eigen内存对齐-卷儿的文章-知乎](https://zhuanlan.zhihu.com/p/349413376)
+38. [一文带你了解Eigen内存对齐-王方浩的文章-知乎](https://zhuanlan.zhihu.com/p/618716343)
+39. [Eigen库在使用的过程出现warning：在堆上分配的对象可能不是对齐16，什么原因呢？-王方浩的回答-知乎](https://www.zhihu.com/question/38315455/answer/2963625338)
+40. [C++深入解析new关键字，::new、operator new函数，placement new表达式-CSDN博客](https://blog.csdn.net/aishuirenjia/article/details/102979457)
+41. [Eigen与std::make_shared，std::unique_ptr搭配使用的采坑记录-minxuan的文章-知乎](https://zhuanlan.zhihu.com/p/297911301)
+42. [Lazy Evaluation and Aliasing](http://www.eigen.tuxfamily.org/dox/TopicLazyEvaluation.html)
+43. [eager evaluation (及早求值) & lazy evaluation (惰性求值)-CSDN博客](https://blog.csdn.net/JNingWei/article/details/80047122)
+44. [noalias()-CSDN博客](https://blog.csdn.net/weixin_30550081/article/details/95276173)
+45. [Eigen常见的坑-管清文的文章-知乎](https://zhuanlan.zhihu.com/p/32226967)

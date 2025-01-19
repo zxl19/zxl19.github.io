@@ -50,6 +50,14 @@ pinned: false
 
     常用于检查系统中是否安装指定的共享库。
 
+4. 设置`LD_LIBRARY_PATH`环境变量，指定程序运行时的共享库搜索路径：
+
+    ```shell
+    export LD_LIBRARY_PATH=${LD_LIBRARY_PATH}:path/to/library
+    ```
+
+    常用于编译环境和运行环境中共享库路径不一致的情况，一般情况下不建议使用。
+
 ## 使用`ldd`命令
 
 ### 命令说明
@@ -311,10 +319,12 @@ pinned: false
 3. [Linux动态库undefined symbol原因定位与解决方法-博客园](https://www.cnblogs.com/zoule/p/15002536.html)
 4. [未定义符号的链接问题通用解决方法-博客园](https://www.cnblogs.com/thammer/p/17187860.html)
 5. [c++符号表解析-CSDN博客](https://blog.csdn.net/wdjjwb/article/details/86233389)
-6. [ldconfig命令-五月的麦田](https://www.cnblogs.com/my-show-time/p/15250435.html)
+6. [ldconfig命令-博客园](https://www.cnblogs.com/xzongblogs/p/15250435.html)
 7. [C/C++开发技巧：ldconfig，ldd，objdump，readelf，lsof动态库命令行工具-CSDN博客](https://blog.csdn.net/yjkhtddx/article/details/109133890)
 8. [linux下nm，objdump和ldd三大工具使用-CSDN博客](https://blog.csdn.net/hsy12342611/article/details/129322929)
 9. [C++的“坑”之一：undefined reference-CrackingOysters的文章-知乎](https://zhuanlan.zhihu.com/p/425155409)
 10. [mangle和demangle-博客园](https://www.cnblogs.com/robinex/p/7892795.html)
 11. [一文搞懂动态链接库的各种路径的意义与设置-卷儿的文章-知乎](https://zhuanlan.zhihu.com/p/450986377)
-12. [NixOS/patchelf](https://github.com/NixOS/patchelf)
+12. [Linux环境变量设置（PATH/LIBRARY_PATH/LD_LIBRARY_PATH）-阿里云](https://developer.aliyun.com/article/1269445)
+13. [export LD_LIBRARY_PATH的使用-博客园](https://www.cnblogs.com/wainiwann/p/4210343.html)
+14. [NixOS/patchelf](https://github.com/NixOS/patchelf)
