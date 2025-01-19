@@ -34,12 +34,14 @@ pinned: false
 
 ## 线性代数
 
-1. [矩阵计算讲义-潘建瑜](https://math.ecnu.edu.cn/~jypan/Teaching/MatrixComp/mc.pdf)
+1. [矩阵计算讲义-潘建瑜](https://math.ecnu.edu.cn/~jypan/Teaching/MC/index.html)
 2. [Matrix Computations](https://math.ecnu.edu.cn/~jypan/Teaching/books/2013%20Matrix%20Computations%204th.pdf)
 3. [The Science of Programming Matrix Computations](https://www.cs.utexas.edu/users/rvdg/tmp/TSoPMC.pdf)
-4. [Interactive Linear Algebra](https://textbooks.math.gatech.edu/ila/)
-5. [kenjihiranabe/The-Art-of-Linear-Algebra](https://github.com/kenjihiranabe/The-Art-of-Linear-Algebra)
-6. [MLNLP-World/MIT-Linear-Algebra-Notes](https://github.com/MLNLP-World/MIT-Linear-Algebra-Notes)
+4. [Linear Algebra Done Right](https://linear.axler.net)
+5. [Interactive Linear Algebra](https://textbooks.math.gatech.edu/ila/)
+6. [kenjihiranabe/The-Art-of-Linear-Algebra](https://github.com/kenjihiranabe/The-Art-of-Linear-Algebra)
+7. [MLNLP-World/MIT-Linear-Algebra-Notes](https://github.com/MLNLP-World/MIT-Linear-Algebra-Notes)
+8. [jubnoske08/linear_algebra](https://github.com/jubnoske08/linear_algebra)
 
 ## 矩阵求导
 

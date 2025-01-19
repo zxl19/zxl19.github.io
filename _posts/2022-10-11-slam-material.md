@@ -94,9 +94,12 @@ SLAM学习资料存档，包括SLAM基础理论、卡尔曼滤波、组合导航
 
 #### MATLAB
 
-1. [yuzhou42/MSCKF](https://github.com/yuzhou42/MSCKF)
-2. [alirezaahmadi/KalmanFilter-Vehicle-GNSS-INS](https://github.com/alirezaahmadi/KalmanFilter-Vehicle-GNSS-INS)
-3. [yuzhou42/ESKF-Attitude-Estimation](https://github.com/yuzhou42/ESKF-Attitude-Estimation)
+1. [alirezaahmadi/KalmanFilter-Vehicle-GNSS-INS](https://github.com/alirezaahmadi/KalmanFilter-Vehicle-GNSS-INS)
+2. [yuzhou42/MSCKF](https://github.com/yuzhou42/MSCKF)
+3. [meyiao/LaserSLAM](https://github.com/meyiao/LaserSLAM)
+4. [RomaTeng/EKF-SLAM-on-Manifold](https://github.com/RomaTeng/EKF-SLAM-on-Manifold)
+5. [jaijuneja/ekf-slam-matlab](https://github.com/jaijuneja/ekf-slam-matlab)
+6. [yuzhou42/ESKF-Attitude-Estimation](https://github.com/yuzhou42/ESKF-Attitude-Estimation)
 
 #### Python
 
