@@ -134,6 +134,7 @@ pinned: false
 1. [Jieke Wang](https://jackywang2001.github.io)
 2. [Dexter Chua](https://dec41.user.srcf.net)
 3. [Long Luo's Life Notes](http://www.longluo.me)
+4. [Chengxin Gong](https://wqgcx.github.io)
 
 ### 科研相关
 

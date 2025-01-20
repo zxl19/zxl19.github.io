@@ -153,9 +153,10 @@ Meme这个词最初源自英国著名科学家理查德·道金斯所著的《�
 1. [Poe](https://poe.com)
 2. [Sider](https://sider.ai)
 3. [Cursor](https://www.cursor.com)
-4. [智谱清言](https://chatglm.cn)
-5. [Kimi.ai](https://kimi.moonshot.cn)
-6. [豆包](https://www.doubao.com/chat/)
+4. [Devv AI](https://devv.ai/zh)
+5. [智谱清言](https://chatglm.cn)
+6. [Kimi.ai](https://kimi.moonshot.cn)
+7. [豆包](https://www.doubao.com/chat/)
 
 ### 网站历史
 
@@ -260,6 +261,7 @@ Meme这个词最初源自英国著名科学家理查德·道金斯所著的《�
 27. [js13kGames 2022 winners](https://github.blog/2022-10-06-js13k-2022-winners/)
 28. [CorentinTh/it-tools](https://github.com/CorentinTh/it-tools)
 29. [未来已来？国内11家AI大模型盘点（附体验网址）-CSDN博客](https://blog.csdn.net/qq_51646682/article/details/136905451)
-30. [很赞的两个高清壁纸网站：wallroom和wallhaven-帅小科的文章-知乎](https://zhuanlan.zhihu.com/p/376579457)
-31. [Ubuntu设置双屏显示长壁纸-码农家园](https://www.codenong.com/cs109695249/)
-32. [要命！《程序员延寿指南》火爆GitHub，日涨1500+星，跟着码农干多活20年-量子位的文章-知乎](https://zhuanlan.zhihu.com/p/502393797)
+30. [如何分析大型C++项目？-迷宫守望者的回答-知乎](https://www.zhihu.com/question/531050207/answer/3356560375)
+31. [很赞的两个高清壁纸网站：wallroom和wallhaven-帅小科的文章-知乎](https://zhuanlan.zhihu.com/p/376579457)
+32. [Ubuntu设置双屏显示长壁纸-码农家园](https://www.codenong.com/cs109695249/)
+33. [要命！《程序员延寿指南》火爆GitHub，日涨1500+星，跟着码农干多活20年-量子位的文章-知乎](https://zhuanlan.zhihu.com/p/502393797)

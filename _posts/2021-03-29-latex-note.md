@@ -805,15 +805,16 @@ int main()
 
 #### 网站
 
-1. [LaTeX工作室](https://www.latexstudio.net)
-2. [Overleaf Documentation](https://www.overleaf.com/learn)
-3. [Overleaf Templates](https://www.overleaf.com/latex/templates)
-4. [LaTeX Templates](https://www.latextemplates.com)
-5. [MOON](https://www.moonpapers.com)
-6. [BibTeX](https://www.bibtex.com)
-7. [TikZ](https://tikz.net)
-8. [TeXample](https://texample.net)
-9. [LaTeX Beamer](https://latex-beamer.com)
+1. [LaTeX](https://www.latex-project.org)
+2. [LaTeX工作室](https://www.latexstudio.net)
+3. [Overleaf Documentation](https://www.overleaf.com/learn)
+4. [Overleaf Templates](https://www.overleaf.com/latex/templates)
+5. [LaTeX Templates](https://www.latextemplates.com)
+6. [MOON](https://www.moonpapers.com)
+7. [BibTeX](https://www.bibtex.com)
+8. [TikZ](https://tikz.net)
+9. [TeXample](https://texample.net)
+10. [LaTeX Beamer](https://latex-beamer.com)
 
 #### 教程
 
@@ -845,6 +846,7 @@ int main()
 2. [ElegantLaTeX/ElegantPaper](https://github.com/ElegantLaTeX/ElegantPaper)
 3. [ElegantLaTeX/ElegantNote](https://github.com/ElegantLaTeX/ElegantNote)
 4. [DeathKing/LaTeX-Template-Cn](https://github.com/DeathKing/LaTeX-Template-Cn)
+5. [kenfehling/latex-cheatsheet](https://github.com/kenfehling/latex-cheatsheet)
 
 ###### 简历模板
 

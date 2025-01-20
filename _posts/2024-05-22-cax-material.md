@@ -22,6 +22,7 @@ pinned: false
 ### 机械设计基础
 
 1. [muziing/domm](https://github.com/muziing/domm)
+2. [SeaniWu/CMCS](https://github.com/SeaniWu/CMCS)
 
 ### 软件
 
@@ -83,7 +84,8 @@ pinned: false
 
 ## 参考
 
-1. [Linux上5个最好CAD软件-Linux中国的文章-知乎](https://zhuanlan.zhihu.com/p/81680138)
-2. [cnr-isti-vclab/meshlab](https://github.com/cnr-isti-vclab/meshlab)
-3. [Ultimaker/Cura](https://github.com/Ultimaker/Cura)
-4. [MeshInspector/MeshInspector](https://github.com/MeshInspector/MeshInspector)
+1. [LaTeX中有哪些奇技淫巧？-SeaniWu的回答-知乎](https://www.zhihu.com/question/358903003/answer/46259999254)
+2. [Linux上5个最好CAD软件-Linux中国的文章-知乎](https://zhuanlan.zhihu.com/p/81680138)
+3. [cnr-isti-vclab/meshlab](https://github.com/cnr-isti-vclab/meshlab)
+4. [Ultimaker/Cura](https://github.com/Ultimaker/Cura)
+5. [MeshInspector/MeshInspector](https://github.com/MeshInspector/MeshInspector)

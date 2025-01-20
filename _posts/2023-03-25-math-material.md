@@ -38,16 +38,31 @@ pinned: false
 2. [Matrix Computations](https://math.ecnu.edu.cn/~jypan/Teaching/books/2013%20Matrix%20Computations%204th.pdf)
 3. [The Science of Programming Matrix Computations](https://www.cs.utexas.edu/users/rvdg/tmp/TSoPMC.pdf)
 4. [Linear Algebra Done Right](https://linear.axler.net)
-5. [Interactive Linear Algebra](https://textbooks.math.gatech.edu/ila/)
-6. [kenjihiranabe/The-Art-of-Linear-Algebra](https://github.com/kenjihiranabe/The-Art-of-Linear-Algebra)
-7. [MLNLP-World/MIT-Linear-Algebra-Notes](https://github.com/MLNLP-World/MIT-Linear-Algebra-Notes)
-8. [jubnoske08/linear_algebra](https://github.com/jubnoske08/linear_algebra)
+5. [Linear Algebra Done Wrong](https://www.math.brown.edu/streil/papers/LADW/LADW.html)
+6. [Interactive Linear Algebra](https://textbooks.math.gatech.edu/ila/)
+7. [kenjihiranabe/The-Art-of-Linear-Algebra](https://github.com/kenjihiranabe/The-Art-of-Linear-Algebra)
+8. [MLNLP-World/MIT-Linear-Algebra-Notes](https://github.com/MLNLP-World/MIT-Linear-Algebra-Notes)
+9. [jubnoske08/linear_algebra](https://github.com/jubnoske08/linear_algebra)
 
 ## 矩阵求导
 
 1. [The Matrix Cookbook](https://www.math.uwaterloo.ca/~hwolkowi/matrixcookbook.pdf)
 2. [Matrix Calculus: Derivation and Simple Application](https://project.hupili.net/tutorial/hu2012-matrix-calculus/hu2012matrix-calculus.pdf)
 3. [Matrix Calculus-Notes on the Derivative of a Trace](http://paulklein.ca/newsite/teaching/matrix%20calculus.pdf)
+
+## 数值优化
+
+1. [Numerical Optimization](https://www.math.uci.edu/~qnie/Publications/NumericalOptimization.pdf)
+2. [Numerical Optimization](https://www.math.kent.edu/~reichel/courses/optimization/Numerical_Optimization.pdf)
+3. [Lecture Notes on Numerical Optimization](https://faculty.ucmerced.edu/mcarreira-perpinan/teaching/EECS260/lecture-notes.pdf)
+4. [Numerical Optimization: Penn State Math555 Lecture Notes](https://roam.libraries.psu.edu/system/files/e-books/MATH555-Numerical_Optimization.pdf)
+5. [Convex Optimization](https://web.stanford.edu/~boyd/cvxbook/bv_cvxbook.pdf)
+6. [Convex Optimization Slides](https://www-leland.stanford.edu/~boyd/cvxbook/bv_cvxslides_original.pdf)
+7. [Convex Optimization Overview](https://cs229.stanford.edu/section/cs229-cvxopt.pdf)
+8. [Convex Optimization Overview (cnt'd)](https://cs229.stanford.edu/section/cs229-cvxopt2.pdf)
+9. [最优化：建模、算法与理论](http://faculty.bicmr.pku.edu.cn/~wenzw/optbook/opt1.pdf)
+10. [最优化：建模、算法与理论参考答案](http://faculty.bicmr.pku.edu.cn/~wenzw/optbook/Final-Solution-Two-Sided.pdf)
+11. [最优化: 建模、算法与理论笔记](https://wqgcx.github.io/courses/optimization.pdf)
 
 ## 机器人学
 
