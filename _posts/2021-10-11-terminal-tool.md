@@ -29,6 +29,13 @@ pinned: false
 
 1. [sharkdp/shell-functools](https://github.com/sharkdp/shell-functools)
 
+## 时钟
+
+1. [poetaman/arttime](https://github.com/poetaman/arttime)
+2. [octobanana/peaclock](https://github.com/octobanana/peaclock)
+3. [coolcode/tomato-clock](https://github.com/coolcode/tomato-clock)
+4. [lucassabreu/clockify-cli](https://github.com/lucassabreu/clockify-cli)
+
 ## 性能监控
 
 ### CPU

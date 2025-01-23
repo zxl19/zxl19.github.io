@@ -487,8 +487,9 @@ pip install，pip uninstall，拿起pip就是干！
 1. [python-openxml/python-docx](https://github.com/python-openxml/python-docx)
 2. [unoconv/unoconv](https://github.com/unoconv/unoconv)
 3. [scanny/python-pptx](https://github.com/scanny/python-pptx)
-4. [dimastbk/python-calamine](https://github.com/dimastbk/python-calamine)
-5. [openpyxl/openpyxl](https://foss.heptapod.net/openpyxl/openpyxl)
+4. [python-excel/xlwt](https://github.com/python-excel/xlwt)
+5. [dimastbk/python-calamine](https://github.com/dimastbk/python-calamine)
+6. [openpyxl/openpyxl](https://foss.heptapod.net/openpyxl/openpyxl)
 
 ## 音视频编辑
 
