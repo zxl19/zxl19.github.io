@@ -61,9 +61,11 @@ pinned: false
 7. [zhoubolei/introRL](https://github.com/zhoubolei/introRL)
 8. [huggingface/lerobot](https://github.com/huggingface/lerobot)
 9. [NeuronDance/DeepRL](https://github.com/NeuronDance/DeepRL)
-10. [Khrylx/PyTorch-RL](https://github.com/Khrylx/PyTorch-RL)
-11. [kaixindelele/DRLib](https://github.com/kaixindelele/DRLib)
-12. [RobustFieldAutonomyLab/DRL_graph_exploration](https://github.com/RobustFieldAutonomyLab/DRL_graph_exploration)
+10. [tonyzhaozh/aloha](https://github.com/tonyzhaozh/aloha)
+11. [Khrylx/PyTorch-RL](https://github.com/Khrylx/PyTorch-RL)
+12. [kaixindelele/DRLib](https://github.com/kaixindelele/DRLib)
+13. [RobustFieldAutonomyLab/DRL_graph_exploration](https://github.com/RobustFieldAutonomyLab/DRL_graph_exploration)
+14. [huggingface/gym-pusht](https://github.com/huggingface/gym-pusht)
 
 ## 笔记
 

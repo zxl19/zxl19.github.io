@@ -80,20 +80,26 @@ pinned: false
 29. Recuva
 30. Rubick
 31. ShareX
-32. Snipaste
-33. SumatraPDF
-34. TeamViewer
-35. Transmission
-36. Typora
-37. Understand
-38. VLC media player
-39. winutil
-40. Wox
-41. Xournal++
-42. ZoomIt
-43. Zotero
+32. Sider
+33. Snipaste
+34. SumatraPDF
+35. TeamViewer
+36. Transmission
+37. Typora
+38. Understand
+39. VLC media player
+40. winutil
+41. Wox
+42. Xournal++
+43. ZoomIt
+44. Zotero
 
 ## 常见问题及解决方法
+
+### 桌面图标缺失
+
+1. `右键`->`个性化`->`主题`->`桌面图标设置`；
+2. 勾选`我的电脑`和`控制面板`；
 
 ### 关闭Windows 10自动更新
 

@@ -43,6 +43,14 @@ pinned: false
 1. [Jupyter](https://jupyter.org)
 2. [CoCalc](https://cocalc.com)
 
+## 大模型
+
+1. [Cursor](https://www.cursor.com)
+2. [Windsurf](https://codeium.com/windsurf)
+3. [Trae](https://www.trae.ai)
+4. [Void](https://voideditor.com)
+5. [Melty](https://melty.sh)
+
 ## 参考
 
 1. [Integrated development environment-Wikipedia](https://en.wikipedia.org/wiki/Integrated_development_environment)
@@ -61,3 +69,6 @@ pinned: false
 14. [Embarcadero/Dev-Cpp](https://github.com/Embarcadero/Dev-Cpp)
 15. [thonny/thonny](https://github.com/thonny/thonny)
 16. [mu-editor/mu](https://github.com/mu-editor/mu)
+17. [Cursor：全面详解开箱即用的AI工具（附科学使用方式）-冷眸的文章-知乎](https://zhuanlan.zhihu.com/p/16071956055)
+18. [voideditor/void](https://github.com/voideditor/void)
+19. [meltylabs/melty](https://github.com/meltylabs/melty)

@@ -31,10 +31,12 @@ pinned: false
 
 ## 时钟
 
-1. [poetaman/arttime](https://github.com/poetaman/arttime)
-2. [octobanana/peaclock](https://github.com/octobanana/peaclock)
-3. [coolcode/tomato-clock](https://github.com/coolcode/tomato-clock)
-4. [lucassabreu/clockify-cli](https://github.com/lucassabreu/clockify-cli)
+1. date
+2. calendar
+3. [poetaman/arttime](https://github.com/poetaman/arttime)
+4. [octobanana/peaclock](https://github.com/octobanana/peaclock)
+5. [coolcode/tomato-clock](https://github.com/coolcode/tomato-clock)
+6. [lucassabreu/clockify-cli](https://github.com/lucassabreu/clockify-cli)
 
 ## 性能监控
 

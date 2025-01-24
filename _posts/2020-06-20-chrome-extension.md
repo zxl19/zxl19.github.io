@@ -91,10 +91,6 @@ Replace new tab page with a personal dashboard featuring to-do, weather, and ins
 
 节省高达95％的内存，并减轻标签页混乱现象。
 
-## PT助手Plus
-
-提升PT站点使用效率。
-
 ## Search by Image(by Google)
 
 This extension allows you to initiate a Google search using any image on the web. By the Google Images team.
@@ -183,9 +179,21 @@ Search and analyze your unlimited history. 提供高级搜索选项，可按照�
 
 This plugin displays your text in a textarea so you can use spellcheck plugins like Grammarly.
 
+## PT助手Plus
+
+提升PT站点使用效率。
+
 ## Sci-Hub
 
 Sci-Hub extension for Chromium browsers
+
+## Sider
+
+一站式AI助手。
+
+## SwitchyOmega
+
+代理设置工具，用于便捷地管理多个代理以及在代理之间切换，由于不支持Manifest V3已被Chrome禁用，可以使用ZeroOmega作为代替。
 
 ## 参考
 
@@ -197,3 +205,5 @@ Sci-Hub extension for Chromium browsers
 6. [Chrome插件英雄榜](https://www.v2fy.com/p/readme-chromeappheroes/)
 7. [zhaoolee/ChromeAppHeroes](https://github.com/zhaoolee/ChromeAppHeroes)
 8. [pt-plugins/PT-Plugin-Plus](https://github.com/pt-plugins/PT-Plugin-Plus)
+9. [FelisCatus/SwitchyOmega](https://github.com/FelisCatus/SwitchyOmega)
+10. [zero-peak/ZeroOmega](https://github.com/zero-peak/ZeroOmega)

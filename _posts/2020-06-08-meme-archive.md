@@ -151,12 +151,10 @@ Meme这个词最初源自英国著名科学家理查德·道金斯所著的《�
 ### 大模型
 
 1. [Poe](https://poe.com)
-2. [Sider](https://sider.ai)
-3. [Cursor](https://www.cursor.com)
-4. [Devv AI](https://devv.ai/zh)
-5. [智谱清言](https://chatglm.cn)
-6. [Kimi.ai](https://kimi.moonshot.cn)
-7. [豆包](https://www.doubao.com/chat/)
+2. [Devv AI](https://devv.ai/zh)
+3. [智谱清言](https://chatglm.cn)
+4. [Kimi.ai](https://kimi.moonshot.cn)
+5. [豆包](https://www.doubao.com/chat/)
 
 ### 网站历史
 
