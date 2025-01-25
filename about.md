@@ -25,4 +25,4 @@ permalink: /about/
     </a>
 </p>
 
-<script type="text/javascript" src="//rf.revolvermaps.com/0/0/8.js?i=5qjglzc21e9&amp;m=0&amp;c=ff0000&amp;cr1=ffffff&amp;f=arial&amp;l=33" async="async"></script>
+<div align='center'><a href='https://www.free-website-hit-counter.com'><img src='https://www.free-website-hit-counter.com/zc.php?d=9&id=4365&s=1' border='0' alt='Free Website Hit Counter'></a><br /><small><a href='https://www.free-website-hit-counter.com' title="Free Website Hit Counter">Free website hit counter</a></small></div>

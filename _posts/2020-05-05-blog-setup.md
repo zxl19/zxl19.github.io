@@ -110,11 +110,13 @@ LOFFER模板自V0.5.0开始支持[utterances](https://utteranc.es)评论区组�
 
 ### 设置访问统计工具
 
-使用[RevolverMaps](https://www.revolvermaps.com)组件实时统计博客访问信息并进行可视化[^3]，在更新显示样式时提供原脚本可以保留之前的统计结果。
+使用[Free website hit counter](https://www.free-website-hit-counter.com)组件统计博客访问信息[^3]，在更新显示样式时提供计数初值可以保留之前的统计结果。
 
 ```html
-<script type="text/javascript" src="//rf.revolvermaps.com/0/0/8.js?i=5qjglzc21e9&amp;m=0&amp;c=ff0000&amp;cr1=ffffff&amp;f=arial&amp;l=33" async="async"></script>
+<div align='center'><a href='https://www.free-website-hit-counter.com'><img src='https://www.free-website-hit-counter.com/zc.php?d=9&id=4365&s=1' border='0' alt='Free Website Hit Counter'></a><br /><small><a href='https://www.free-website-hit-counter.com' title="Free Website Hit Counter">Free website hit counter</a></small></div>
 ```
+
+**2024年11月：RevolverMaps停止提供服务。**
 
 [^3]: 以我的脚本为例，其中包含随机生成的唯一ID。
 
@@ -244,7 +246,8 @@ permalink: /404.html
 9. [Maddoc42/Android-Material-Icon-Generator](https://github.com/Maddoc42/Android-Material-Icon-Generator)
 10. [Online Tools-RedKetchup](https://redketchup.io)
 11. [RevolverMaps](https://www.revolvermaps.com)
-12. [谷歌搜索到自己在github的个人博客](https://fgc346.github.io/2023/04/13/OwnSiteByGoogleSearch/)
-13. [GitHub Pages documentation-GitHub Docs](https://docs.github.com/en/pages)
-14. [【最新】解决Github网页上图片显示失败的问题-CSDN博客](https://blog.csdn.net/qq_38232598/article/details/91346392)
-15. [如何制作个人学术主页？-知乎](https://www.zhihu.com/question/281476526)
+12. [Have you noticed a change to the website?-NoFakeNews](https://nofakenews.net/2024/11/15/have-you-noticed-a-change-to-the-website)
+13. [谷歌搜索到自己在github的个人博客](https://fgc346.github.io/2023/04/13/OwnSiteByGoogleSearch/)
+14. [GitHub Pages documentation-GitHub Docs](https://docs.github.com/en/pages)
+15. [【最新】解决Github网页上图片显示失败的问题-CSDN博客](https://blog.csdn.net/qq_38232598/article/details/91346392)
+16. [如何制作个人学术主页？-知乎](https://www.zhihu.com/question/281476526)

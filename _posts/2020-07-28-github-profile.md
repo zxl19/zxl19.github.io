@@ -56,8 +56,10 @@ pinned: false
 16. [Star Charts](https://starchart.cc)
 17. [RevolverMaps](https://www.revolvermaps.com)
 18. [ClustrMaps](https://clustrmaps.com)
-19. [Free website hit counter](https://www.free-website-hit-counter.com)
-20. [不蒜子-极简网页计数器](http://busuanzi.ibruce.info)
+19. [Map My Visitors](https://mapmyvisitors.com)
+20. [Free website hit counter](https://www.free-website-hit-counter.com)
+21. [SmallCounter](https://smallcounter.com)
+22. [不蒜子-极简网页计数器](http://busuanzi.ibruce.info)
 
 ## 美化
 
@@ -71,4 +73,6 @@ pinned: false
 2. [几条经验美化你的GitHub开源项目-简书](https://www.jianshu.com/p/d587b91bacb3)
 3. [使用Gist让你的GitHub个人主页变酷-z2z23n0的文章-知乎](https://zhuanlan.zhihu.com/p/146289644)
 4. [Github个人首页美化指北-AntzUhl的文章-知乎](https://zhuanlan.zhihu.com/p/265462490)
-5. [GitHub上这款Q版头像生成器，快被网友玩坏了...-GitHub Daily的文章-知乎](https://zhuanlan.zhihu.com/p/450978590)
+5. [网站访问统计小工具RevolverMaps无法用了——平替ClustrMaps-CSDN博客](https://blog.csdn.net/weixin_43835470/article/details/144537126)
+6. [RevolverMaps-Shutdown](https://www.wxforum.net/index.php?topic=47734.0)
+7. [GitHub上这款Q版头像生成器，快被网友玩坏了...-GitHub Daily的文章-知乎](https://zhuanlan.zhihu.com/p/450978590)
