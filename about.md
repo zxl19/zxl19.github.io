@@ -25,4 +25,4 @@ permalink: /about/
     </a>
 </p>
 
-<div align='center'><a href='https://www.free-website-hit-counter.com'><img src='https://www.free-website-hit-counter.com/zc.php?d=9&id=4365&s=1' border='0' alt='Free Website Hit Counter'></a><br /><small><a href='https://www.free-website-hit-counter.com' title="Free Website Hit Counter">Free website hit counter</a></small></div>
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=300&t=tt&d=hibP75SF_WZXl_4j4ksPzYOneT4Qb5-laVZ2YVjfDdA'></script>
