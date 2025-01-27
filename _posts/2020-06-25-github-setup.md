@@ -93,7 +93,7 @@ GitHub Desktop是GitHub开发的客户端，使用图形化交互界面代替了
         ```
 
     - 更改全局设置前需要删除`~/.ssh/id_rsa`以及`~/.ssh/id_rsa.pub`；
-    - 设置的邮箱需要添加到GitHub账户中才能计算贡献；
+    - 设置的邮箱需要添加到GitHub账号中才能计算贡献；
 
 2. 创建SSH key：
 
@@ -150,7 +150,7 @@ GitHub Desktop是GitHub开发的客户端，使用图形化交互界面代替了
     - `Settings`->`Password and authentication`->`Two-factor authentication`；
     - 使用神锁离线版扫描二维码，保存秘钥，用于生成基于时间的一次性密码（Time-based One-Time Password，TOTP）；
     - 在登录GitHub时除了需要使用账号密码，还需要使用根据秘钥和当前时间生成的一次性密码（One-Time Password，OTP），OTP每30秒动态更新一次；
-    - 保存恢复码（recovery codes），用于在丢失密码和秘钥时登录GitHub，否则会永远丢失账户；
+    - 保存恢复码（recovery codes），用于在丢失密码和秘钥时登录GitHub，否则会永远丢失账号；
     - 也可以使用短信验证的方式进行2FA，但是目前暂时不支持中国大陆；
 
 ## 参考
