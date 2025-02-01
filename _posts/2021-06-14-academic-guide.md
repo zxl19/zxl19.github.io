@@ -47,7 +47,7 @@ pinned: false
 12. [yufree/sciguide](https://github.com/yufree/sciguide)
 13. [tracholar/phd-grind-chn](https://github.com/tracholar/phd-grind-chn)
 
-## ChatGPT
+## 大模型
 
 1. [ollama/ollama](https://github.com/ollama/ollama)
 2. [binary-husky/gpt_academic](https://github.com/binary-husky/gpt_academic)

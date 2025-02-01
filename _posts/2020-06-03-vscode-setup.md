@@ -47,6 +47,10 @@ Occam's razor: entities should not be multiplied beyond necessity.
 :dog:
 ```
 
+### AI Toolkit for Visual Studio Code
+
+测试生成式AI模型。
+
 ### AsciiDoc
 
 AsciiDoc语言扩展。

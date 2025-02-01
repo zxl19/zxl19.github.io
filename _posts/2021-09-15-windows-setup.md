@@ -56,43 +56,44 @@ pinned: false
 5. Cmder
 6. Cold Turkey
 7. DAEMON Tools
-8. DevToys
-9. DiskGenius
-10. Dism++
-11. drawio-desktop
-12. Everything
-13. FileZilla Client
-14. Fliqlo
-15. Inkscape
-16. Jellyfin
-17. Listary
-18. Manuskript
-19. MayCad
-20. MayTube
-21. MeshLab
-22. Meshmixer
-23. Obsidian
-24. Photoflare
-25. PlotJuggler
-26. Pomatez
-27. Pomotroid
-28. PowerDVD
-29. Recuva
-30. Rubick
-31. ShareX
-32. Sider
-33. Snipaste
-34. SumatraPDF
-35. TeamViewer
-36. Transmission
-37. Typora
-38. Understand
-39. VLC media player
-40. winutil
-41. Wox
-42. Xournal++
-43. ZoomIt
-44. Zotero
+8. DeepSeek
+9. DevToys
+10. DiskGenius
+11. Dism++
+12. drawio-desktop
+13. Everything
+14. FileZilla Client
+15. Fliqlo
+16. Inkscape
+17. Jellyfin
+18. Listary
+19. Manuskript
+20. MayCad
+21. MayTube
+22. MeshLab
+23. Meshmixer
+24. Obsidian
+25. Photoflare
+26. PlotJuggler
+27. Pomatez
+28. Pomotroid
+29. PowerDVD
+30. Recuva
+31. Rubick
+32. ShareX
+33. Sider
+34. Snipaste
+35. SumatraPDF
+36. TeamViewer
+37. Transmission
+38. Typora
+39. Understand
+40. VLC media player
+41. winutil
+42. Wox
+43. Xournal++
+44. ZoomIt
+45. Zotero
 
 ## 常见问题及解决方法
 
