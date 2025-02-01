@@ -771,6 +771,11 @@ int main()
 6. [google/latexify_py](https://github.com/google/latexify_py)
 7. [blaisewang/img2latex-mathpix](https://github.com/blaisewang/img2latex-mathpix)
 
+##### 数学笔记
+
+1. [gillescastel/latex-snippets](https://github.com/gillescastel/latex-snippets)
+2. [gillescastel/university-setup](https://github.com/gillescastel/university-setup)
+
 #### Office数学公式
 
 1. [LatexToMathML](https://web.xiaoyv.com.cn/h5/LatexToMathML/index.html)
@@ -847,6 +852,7 @@ int main()
 3. [ElegantLaTeX/ElegantNote](https://github.com/ElegantLaTeX/ElegantNote)
 4. [DeathKing/LaTeX-Template-Cn](https://github.com/DeathKing/LaTeX-Template-Cn)
 5. [kenfehling/latex-cheatsheet](https://github.com/kenfehling/latex-cheatsheet)
+6. [sleepymalc/LaTeX-Template](https://github.com/sleepymalc/LaTeX-Template)
 
 ###### 简历模板
 
@@ -860,7 +866,7 @@ int main()
 8. [huajh/awesome-latex-cv](https://github.com/huajh/awesome-latex-cv)
 9. [dyweb/Deedy-Resume-for-Chinese](https://github.com/dyweb/Deedy-Resume-for-Chinese)
 
-#### Beamer模板
+###### Beamer模板
 
 1. [wzpan/BeamerStyleSlides](https://github.com/wzpan/BeamerStyleSlides)
 2. [XiangyunHuang/awesome-beamers](https://github.com/XiangyunHuang/awesome-beamers)
@@ -871,14 +877,14 @@ int main()
 7. [fuujiro/DLUT-Beamer-Slide-V2](https://github.com/fuujiro/DLUT-Beamer-Slide-V2)
 8. [fuujiro/DLUT-Beamer-Slide-V1](https://github.com/fuujiro/DLUT-Beamer-Slide-V1)
 
-#### 有趣模板
+###### 有趣模板
 
 1. [Wandmalfarbe/pandoc-latex-template](https://github.com/Wandmalfarbe/pandoc-latex-template)
 2. [Keldos-Li/typora-latex-theme](https://github.com/Keldos-Li/typora-latex-theme)
 3. [Ruzim/NSFC-application-template-latex](https://github.com/Ruzim/NSFC-application-template-latex)
 4. [MattX/texword](https://github.com/MattX/texword)
 
-### 高质量模板
+###### 高质量模板
 
 1. [CS310-Assignment Template](https://www.overleaf.com/latex/templates/cs310-assignment-template/qrqpndrxpcht)
 2. [Cheatsheet](https://www.latextemplates.com/template/cheatsheet)

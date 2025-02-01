@@ -107,7 +107,7 @@ pinned: false
 4. [阿秀的学习笔记](https://interviewguide.cn)
 5. [柳婼のblog](https://www.liuchuo.net)
 
-### 运维相关
+### 开发相关
 
 1. [杨二](https://yangerxiao.com)
 2. [刘明野](https://www.liumingye.cn)
@@ -131,18 +131,21 @@ pinned: false
 
 ### 数学相关
 
-1. [Jieke Wang](https://jackywang2001.github.io)
-2. [Dexter Chua](https://dec41.user.srcf.net)
-3. [Long Luo's Life Notes](http://www.longluo.me)
-4. [Chengxin Gong](https://wqgcx.github.io)
+1. [Gilles Castel](https://castel.dev)
+2. [Jieke Wang](https://jackywang2001.github.io)
+3. [Dexter Chua](https://dec41.user.srcf.net)
+4. [Long Luo's Life Notes](http://www.longluo.me)
+5. [Chengxin Gong](https://wqgcx.github.io)
+6. [Pingbang Hu](https://pbb.wtf)
 
 ### 科研相关
 
 1. [xiahouzuoxin/notes](https://github.com/xiahouzuoxin/notes)
 2. [TommyZihao/Zihao-Blog](https://github.com/TommyZihao/Zihao-Blog)
 3. [weisongwen/researchTools](https://github.com/weisongwen/researchTools)
-4. [xiaotaw/Notes](https://github.com/xiaotaw/Notes)
-5. [阿昆的科研日常-CSDN博客](https://blog.csdn.net/qq_26447137)
+4. [aagontuk/cheatsheets](https://github.com/aagontuk/cheatsheets)
+5. [xiaotaw/Notes](https://github.com/xiaotaw/Notes)
+6. [阿昆的科研日常-CSDN博客](https://blog.csdn.net/qq_26447137)
 
 ### Meme相关
 

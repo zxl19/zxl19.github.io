@@ -108,11 +108,20 @@ pinned: false
 2. [ProcessOn](https://www.processon.com)
 3. [yEd](https://www.yworks.com/products/yed)
 4. [Inkscape](https://inkscape.org)
+
+    - [gillescastel/inkscape-figures](https://github.com/gillescastel/inkscape-figures)
+    - [gillescastel/inkscape-shortcut-manager](https://github.com/gillescastel/inkscape-shortcut-manager)
+    - [sleepymalc/VSCode-LaTeX-Inkscape](https://github.com/sleepymalc/VSCode-LaTeX-Inkscape)
+
 5. [TikZ+PGF](https://www.ctan.org/pkg/pgf)
-6. [Graphviz](https://graphviz.org)
-7. [Asymptote](https://asymptote.sourceforge.io)
-8. [AxGlyph](https://www.axsofts.com/product/axglyph/)
-9. PowerPoint
+6. [Asymptote](https://asymptote.sourceforge.io)
+7. [Graphviz](https://graphviz.org)
+8. [quiver](https://q.uiver.app)
+
+    - [varkor/quiver](https://github.com/varkor/quiver)
+
+9. [AxGlyph](https://www.axsofts.com/product/axglyph/)
+10. PowerPoint
 
 ## 格式化数据
 
