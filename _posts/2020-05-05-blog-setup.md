@@ -66,6 +66,22 @@ pinned: false
 6. [图标制作大师](https://geticon.cn)
 7. [在线制作ico图标](https://www.bitbug.net)
 
+### 设置版权声明
+
+设置版权声明[^3]，最新使用年份需要手动更新，作为页脚文本显示，在`_config.yml`文件中设置：
+
+```yaml
+footer-text: Copyright © 2020-20xx zxl19. All Rights Reserved.
+```
+
+[^3]: 以我的版权声明为例。
+
+加入《伯尔尼公约》的国家具有版权自动保护原则，作品创作完成即享有版权，不强制使用版权声明，版权声明格式规范：
+
+```text
+[Copyright] © <start_year>[-current_year] <author>. [All Rights Reserved.]
+```
+
 ### 设置评论区组件
 
 LOFFER模板自V0.5.0开始支持[utterances](https://utteranc.es)评论区组件，安装这个GitHub App后可以将博客评论映射到仓库Issue。
@@ -110,15 +126,15 @@ LOFFER模板自V0.5.0开始支持[utterances](https://utteranc.es)评论区组�
 
 ### 设置访问统计工具
 
-使用[ClustrMaps](https://clustrmaps.com)组件实时统计博客访问信息并进行可视化[^3]，需要注册账号，同一个账号支持管理多个网址的访问信息并支持单独调整显示样式，如果需要重置某个网址的访问信息统计，需要删除其对应的项目。
+使用[ClustrMaps](https://clustrmaps.com)组件实时统计博客访问信息并进行可视化[^4]，需要注册账号，同一个账号支持管理多个网址的访问信息并支持单独调整显示样式，如果需要重置某个网址的访问信息统计，需要删除其对应的项目。
 
 ```html
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=300&t=tt&d=hibP75SF_WZXl_4j4ksPzYOneT4Qb5-laVZ2YVjfDdA'></script>
 ```
 
-**2024年11月：RevolverMaps停止提供服务。**
+[^4]: 以我的脚本为例。
 
-[^3]: 以我的脚本为例。
+**2024年11月：RevolverMaps停止提供服务。**
 
 1. [RevolverMaps](https://www.revolvermaps.com)
 2. [ClustrMaps](https://clustrmaps.com)
@@ -246,11 +262,15 @@ permalink: /404.html
 8. [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
 9. [Maddoc42/Android-Material-Icon-Generator](https://github.com/Maddoc42/Android-Material-Icon-Generator)
 10. [Online Tools-RedKetchup](https://redketchup.io)
-11. [RevolverMaps](https://www.revolvermaps.com)
-12. [ClustrMaps](https://clustrmaps.com)
-13. [Have you noticed a change to the website?-NoFakeNews](https://nofakenews.net/2024/11/15/have-you-noticed-a-change-to-the-website)
-14. [网站访问统计小工具RevolverMaps无法用了——平替ClustrMaps-CSDN博客](https://blog.csdn.net/weixin_43835470/article/details/144537126)
-15. [谷歌搜索到自己在github的个人博客](https://fgc346.github.io/2023/04/13/OwnSiteByGoogleSearch/)
-16. [GitHub Pages documentation-GitHub Docs](https://docs.github.com/en/pages)
-17. [【最新】解决Github网页上图片显示失败的问题-CSDN博客](https://blog.csdn.net/qq_38232598/article/details/91346392)
-18. [如何制作个人学术主页？-知乎](https://www.zhihu.com/question/281476526)
+11. [规范的版权Copyright说明怎么写？-赵智功的回答-知乎](https://www.zhihu.com/question/19916364/answer/950648013)
+12. [规范的版权Copyright说明怎么写？-谪人的回答-知乎](https://www.zhihu.com/question/19916364/answer/330516163)
+13. [网站页面底部的著作权（版权）声明应该怎么写？-零识的文章-知乎](https://zhuanlan.zhihu.com/p/23670911)
+14. [关于网站版权声明(Copyright)的格式和写法-CSDN博客](https://blog.csdn.net/masonman/article/details/39482605)
+15. [RevolverMaps](https://www.revolvermaps.com)
+16. [ClustrMaps](https://clustrmaps.com)
+17. [Have you noticed a change to the website?-NoFakeNews](https://nofakenews.net/2024/11/15/have-you-noticed-a-change-to-the-website)
+18. [网站访问统计小工具RevolverMaps无法用了——平替ClustrMaps-CSDN博客](https://blog.csdn.net/weixin_43835470/article/details/144537126)
+19. [谷歌搜索到自己在github的个人博客](https://fgc346.github.io/2023/04/13/OwnSiteByGoogleSearch/)
+20. [GitHub Pages documentation-GitHub Docs](https://docs.github.com/en/pages)
+21. [【最新】解决Github网页上图片显示失败的问题-CSDN博客](https://blog.csdn.net/qq_38232598/article/details/91346392)
+22. [如何制作个人学术主页？-知乎](https://www.zhihu.com/question/281476526)

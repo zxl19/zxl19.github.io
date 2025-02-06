@@ -28,10 +28,11 @@ pinned: false
 11. [dalcde/cam-notes](https://github.com/dalcde/cam-notes)
 12. [Ewenwan/Mathematics](https://github.com/Ewenwan/Mathematics)
 13. [shervinea/stanford-cme-106-probability-and-statistics](https://github.com/shervinea/stanford-cme-106-probability-and-statistics)
-14. [psibi/how-to-prove](https://github.com/psibi/how-to-prove)
-15. [sleepymalc/Notes](https://github.com/sleepymalc/Notes)
-16. [KafCoppelia/Free_Courses_Notes](https://github.com/KafCoppelia/Free_Courses_Notes)
-17. [JackyWang2001/JackyWang2001.github.io](https://github.com/JackyWang2001/JackyWang2001.github.io)
+14. [gillescastel/lecture-notes](https://github.com/gillescastel/lecture-notes)
+15. [psibi/how-to-prove](https://github.com/psibi/how-to-prove)
+16. [sleepymalc/Notes](https://github.com/sleepymalc/Notes)
+17. [KafCoppelia/Free_Courses_Notes](https://github.com/KafCoppelia/Free_Courses_Notes)
+18. [JackyWang2001/JackyWang2001.github.io](https://github.com/JackyWang2001/JackyWang2001.github.io)
 
 ## 线性代数
 
