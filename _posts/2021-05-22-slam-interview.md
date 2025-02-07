@@ -34,7 +34,7 @@ SLAM方向面试题存档。
 6. [SLAM常见面试题（二）-小马恺文的文章-知乎](https://zhuanlan.zhihu.com/p/46696986)
 7. [SLAM常见面试题（三）-小马恺文的文章-知乎](https://zhuanlan.zhihu.com/p/46697912)
 8. [面试SLAM算法实习生总结-无能狂怒SLAM崔的文章-知乎](https://zhuanlan.zhihu.com/p/76280626)
-9. [2024届SLAM算法岗校招硬货-独鹿的文章-知乎](https://zhuanlan.zhihu.com/p/706156673)
+9. [2024届SLAM算法岗校招硬货-求收敛的大锅的文章-知乎](https://zhuanlan.zhihu.com/p/706156673)
 10. [智驾领域SLAM面试部分-春山空的文章-知乎](https://zhuanlan.zhihu.com/p/705705882)
 11. [想问一下常见SLAM面试编程题？-半闲居士的回答-知乎](https://www.zhihu.com/question/532565032/answer/2483264411)
 

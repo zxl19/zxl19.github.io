@@ -274,6 +274,12 @@ plugins=(git themes zsh-autosuggestions zsh-syntax-highlighting)
 3. [abishekvashok/cmatrix](https://github.com/abishekvashok/cmatrix)
 4. [GitSquared/horizon-edex-theme](https://github.com/GitSquared/horizon-edex-theme)
 
+### cool-retro-term
+
+具有复古风格的终端仿真器。
+
+1. [Swordfish90/cool-retro-term](https://github.com/Swordfish90/cool-retro-term)
+
 ## 参考
 
 1. [相关概念区别1-Stack Exchange](https://askubuntu.com/questions/506510/what-is-the-difference-between-terminal-console-shell-and-command-line)

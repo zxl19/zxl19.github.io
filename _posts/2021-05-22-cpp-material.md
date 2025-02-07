@@ -144,10 +144,11 @@ C++学习资料存档。
 3. 《Effective C++》
 4. 《Effective Modern C++》
 5. 《C++ Core Guidelines解析》
+6. 《C++实战：核心技术与最佳实践》
 
 ## 参考
 
-1. [如何塑造一个拿的出手的GitHub账号？-GitHubPorn的回答-知乎](https://www.zhihu.com/question/47567490/answer/1866897272)
+1. [如何塑造一个拿的出手的GitHub账号？-吴师兄学算法的回答-知乎](https://www.zhihu.com/question/47567490/answer/1866897272)
 2. [学习C++，应该循序渐进的看哪些书？-嘉炜的回答-知乎](https://www.zhihu.com/question/20410487/answer/15055637)
 3. [有什么高质量的现代C++风格的开源代码?-夏天的回答-知乎](https://www.zhihu.com/question/23153437/answer/1962068242)
 4. [可以使用C++的哪些库或函数来简化任务？-南山烟雨珠江潮的回答-知乎](https://www.zhihu.com/question/639724149/answer/3374083013)
@@ -155,3 +156,4 @@ C++学习资料存档。
 6. [推荐10款C++在线编译器-CSDN博客](https://blog.csdn.net/cool99781/article/details/104516581)
 7. [melpon/wandbox](https://github.com/melpon/wandbox)
 8. [andreasfertig/cppinsights](https://github.com/andreasfertig/cppinsights)
+9. [《C++实战：核心技术与最佳实践》——与吴咏炜老师一起走进C++的实战世界-人民邮电出版社的文章-知乎](https://zhuanlan.zhihu.com/p/14044433366)
