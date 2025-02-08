@@ -148,8 +148,9 @@ pinned: false
 2. [TommyZihao/Zihao-Blog](https://github.com/TommyZihao/Zihao-Blog)
 3. [weisongwen/researchTools](https://github.com/weisongwen/researchTools)
 4. [aagontuk/cheatsheets](https://github.com/aagontuk/cheatsheets)
-5. [xiaotaw/Notes](https://github.com/xiaotaw/Notes)
-6. [阿昆的科研日常-CSDN博客](https://blog.csdn.net/qq_26447137)
+5. [yuezhezhang/Bug_list](https://github.com/yuezhezhang/Bug_list)
+6. [xiaotaw/Notes](https://github.com/xiaotaw/Notes)
+7. [阿昆的科研日常-CSDN博客](https://blog.csdn.net/qq_26447137)
 
 ### Meme相关
 

@@ -102,14 +102,18 @@ Meme这个词最初源自英国著名科学家理查德·道金斯所著的《�
 ### 在线小游戏
 
 1. [Red Alert 2](https://game.chronodivide.com)
-2. [PhD 2048](https://ymfa.github.io/phd-2048/)
-3. [PhD Simulator](https://research.wmz.ninja/projects/phd/index.html)
-4. [人生重开模拟器](http://liferestart.syaro.io/view/index.html)
-5. [合成GPA](https://gpa.ottor.cn)
-6. [合成大西瓜](http://tool.liumingye.cn/watermelon/)
-7. [EVANGELION & 扫雷](https://v.magiconch.com/mine-sweeper)
-8. [Norman the Necromancer](https://js13kgames.com/entries/norman-the-necromancer)
-9. [Sandtrix](https://mslivo.itch.io/sandtrix)
+2. [2048](https://www.2048.org)
+3. [PhD 2048](https://ymfa.github.io/phd-2048/)
+4. [PhD Simulator](https://research.wmz.ninja/projects/phd/index.html)
+5. [人生重开模拟器](http://liferestart.syaro.io/view/index.html)
+6. [Bad Time Simulator](https://gotoanddie.github.io/c2-sans-fight/)
+7. [Mikutap](https://aidn.jp/mikutap/)
+8. [Dinosaur Game](https://dinosaur.game/)
+9. [合成GPA](https://gpa.ottor.cn)
+10. [合成大西瓜](http://tool.liumingye.cn/watermelon/)
+11. [EVANGELION & 扫雷](https://v.magiconch.com/mine-sweeper)
+12. [Norman the Necromancer](https://js13kgames.com/entries/norman-the-necromancer)
+13. [Sandtrix](https://mslivo.itch.io/sandtrix)
 
 ### GitHub
 
@@ -152,11 +156,12 @@ Meme这个词最初源自英国著名科学家理查德·道金斯所著的《�
 
 1. [Poe](https://poe.com)
 2. [Devv AI](https://devv.ai/zh)
-3. [Moondream AI](https://moondream.ai)
-4. [DeepSeek](https://chat.deepseek.com)
-5. [智谱清言](https://chatglm.cn)
-6. [Kimi.ai](https://kimi.moonshot.cn)
-7. [豆包](https://www.doubao.com/chat/)
+3. [Hugging Face](https://huggingface.co)
+4. [Moondream AI](https://moondream.ai)
+5. [DeepSeek](https://chat.deepseek.com)
+6. [智谱清言](https://chatglm.cn)
+7. [Kimi.ai](https://kimi.moonshot.cn)
+8. [豆包](https://www.doubao.com/chat/)
 
 ### 网站历史
 
