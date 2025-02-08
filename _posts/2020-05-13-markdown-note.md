@@ -302,6 +302,7 @@ Markdown支持使用Mermaid语法进行绘图，但是已有较多交互式绘�
 5. [Markdown基本语法](http://younghz.github.io/Markdown/)
 6. [Markdown Reference](https://support.typora.io/Markdown-Reference/)
 7. [CommonMark Spec](https://spec.commonmark.org)
+8. [GitHub Flavored Markdown Spec](https://github.github.com/gfm/)
 
 ## 参考
 
@@ -315,11 +316,12 @@ Markdown支持使用Mermaid语法进行绘图，但是已有较多交互式绘�
 8. [Introduction to reStructuredText-Write the Docs](https://www.writethedocs.org/guide/writing/reStructuredText/)
 9. [reStructuredText-Sphinx documentation](https://www.sphinx-doc.org/en/master/usage/restructuredtext/index.html)
 10. [Typst](https://typst.app)
-11. [代码块-简书](https://www.jianshu.com/p/c2b75ff24c33)
-12. [待办事项-简书](https://www.jianshu.com/p/0b257de21eb5)
-13. [Mermaid](https://mermaid.js.org)
-14. [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid)
-15. [循序渐进-讲解Markdown进阶（Mermaid绘图）-附使用案例-CSDN博客](https://blog.csdn.net/qq_57508808/article/details/136110461)
-16. [程序员画图-mermaid(流程图)-leancode的文章-知乎](https://zhuanlan.zhihu.com/p/440934038)
-17. [Mermaid从入门到入土——Markdown进阶语法-陈修竹的文章-知乎](https://zhuanlan.zhihu.com/p/355997933)
-18. [Markdown进阶技能：用代码画流程图（编程零基础也适用）-黄浮云的文章-知乎](https://zhuanlan.zhihu.com/p/69495726)
+11. [typst/typst](https://github.com/typst/typst)
+12. [代码块-简书](https://www.jianshu.com/p/c2b75ff24c33)
+13. [待办事项-简书](https://www.jianshu.com/p/0b257de21eb5)
+14. [Mermaid](https://mermaid.js.org)
+15. [mermaid-js/mermaid](https://github.com/mermaid-js/mermaid)
+16. [循序渐进-讲解Markdown进阶（Mermaid绘图）-附使用案例-CSDN博客](https://blog.csdn.net/qq_57508808/article/details/136110461)
+17. [程序员画图-mermaid(流程图)-leancode的文章-知乎](https://zhuanlan.zhihu.com/p/440934038)
+18. [Mermaid从入门到入土——Markdown进阶语法-陈修竹的文章-知乎](https://zhuanlan.zhihu.com/p/355997933)
+19. [Markdown进阶技能：用代码画流程图（编程零基础也适用）-黄浮云的文章-知乎](https://zhuanlan.zhihu.com/p/69495726)

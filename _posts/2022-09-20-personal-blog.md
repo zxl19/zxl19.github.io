@@ -78,9 +78,10 @@ pinned: false
 7. [Yongwei's Programming Page](http://wyw.dcweb.cn/index.htm)
 8. [the Nothing itself nothings](http://nothings.org)
 9. [This FTP site](https://okmij.org/ftp/)
-10. [Sterben_01](https://sterben-01.github.io)
-11. [ZhiBing's Blog](https://azmddy.github.io)
-12. [orzz.org()](http://orzz.org/)
+10. [PVS-Studio](https://pvs-studio.com/en/blog/posts/)
+11. [Sterben_01](https://sterben-01.github.io)
+12. [ZhiBing's Blog](https://azmddy.github.io)
+13. [orzz.org()](http://orzz.org/)
 
 ### Python相关
 
@@ -110,7 +111,7 @@ pinned: false
 ### 开发相关
 
 1. [杨二](https://yangerxiao.com)
-2. [刘明野](https://www.liumingye.cn)
+2. [苏阳博客](https://soulteary.com)
 3. [山月行](https://shanyue.tech)
 4. [二丫讲梵](http://wiki.eryajf.net)
 5. [WGrape的博客](https://wgrape.github.io)
@@ -118,16 +119,19 @@ pinned: false
 7. [yihong0618](https://yihong0618.github.io/gitblog/)
 8. [吕毅](https://blog.walterlv.com)
 9. [openGPS.cn位置服务](https://www.opengps.cn/Default.aspx)
-10. [音视跳动科技](http://avdancedu.com)
-11. [术之多](https://www.shuzhiduo.com)
-12. [Arking](https://arkingc.github.io)
-13. [AugmentedMind](https://www.augmentedmind.de)
-14. [fluldog-博客园](https://www.cnblogs.com/fluidog)
-15. [zh89233-博客园](https://www.cnblogs.com/love-zf)
-16. [librarookie-博客园](https://www.cnblogs.com/librarookie)
-17. [木偶Roy-博客园](https://www.cnblogs.com/jyroy)
-18. [李春港-博客园](https://www.cnblogs.com/lcgbk)
-19. [小丁的个人博客](https://tding.top)
+10. [孟胜彬](https://www.shengbin.me)
+11. [胜彬的博客](https://blog.shengbin.me)
+12. [术之多](https://www.shuzhiduo.com)
+13. [Arking](https://arkingc.github.io)
+14. [AugmentedMind](https://www.augmentedmind.de)
+15. [Luckyfuy](https://luckyfuy.top)
+16. [fluldog-博客园](https://www.cnblogs.com/fluidog)
+17. [zh89233-博客园](https://www.cnblogs.com/love-zf)
+18. [librarookie-博客园](https://www.cnblogs.com/librarookie)
+19. [木偶Roy-博客园](https://www.cnblogs.com/jyroy)
+20. [李春港-博客园](https://www.cnblogs.com/lcgbk)
+21. [音视跳动科技](http://avdancedu.com)
+22. [小丁的个人博客](https://tding.top)
 
 ### 数学相关
 
@@ -150,8 +154,8 @@ pinned: false
 ### Meme相关
 
 1. [卜卜口](https://i.magiconch.com)
-2. [V2方圆](https://www.v2fy.com)
-3. [Luckyfuy](https://luckyfuy.top)
+2. [V2方圆](https://v2fy.com)
+3. [Cicada000](https://www.cicada000.work)
 
 ### 汇总
 
@@ -176,11 +180,12 @@ pinned: false
 13. [C++有哪些技术大佬的技术博客？-madcpp的回答-知乎](https://www.zhihu.com/question/457700447/answer/1867489810)
 14. [C/C++编程有哪些值得推荐的工具？-程序喵大人的回答-知乎](https://www.zhihu.com/question/23357089/answer/1992218543)
 15. [你见过的最棒的个人博客界面是什么样的？-ulam的回答-知乎](https://www.zhihu.com/question/29755481/answer/3256693652)
-16. [MisterBooo/solo-blog](https://github.com/MisterBooo/solo-blog)
-17. [WGrape/Blog](https://github.com/WGrape/Blog)
-18. [laike9m/My_Blog](https://github.com/laike9m/My_Blog)
-19. [yihong0618/gitblog](https://github.com/yihong0618/gitblog)
-20. [dta0502/dta0502.github.io](https://github.com/dta0502/dta0502.github.io)
-21. [用LaTeX做笔记是怎样的体验？-Rabbittac的回答-知乎](https://www.zhihu.com/question/362654946/answer/1896187222)
-22. [国外教授的讲义都是自己用LaTeX打出来的吗？-徐航的回答-知乎](https://www.zhihu.com/question/29227449/answer/1895477272)
-23. [无人驾驶领域，你推荐那些综述性文章？-殷玮的回答-知乎](https://www.zhihu.com/question/355954682/answer/1513557367)
+16. [C和C++中有哪些容易被坑的undefined behaviour？-南山烟雨珠江潮的回答-知乎](https://www.zhihu.com/question/43621151/answer/85045768298)
+17. [MisterBooo/solo-blog](https://github.com/MisterBooo/solo-blog)
+18. [WGrape/Blog](https://github.com/WGrape/Blog)
+19. [laike9m/My_Blog](https://github.com/laike9m/My_Blog)
+20. [yihong0618/gitblog](https://github.com/yihong0618/gitblog)
+21. [dta0502/dta0502.github.io](https://github.com/dta0502/dta0502.github.io)
+22. [用LaTeX做笔记是怎样的体验？-Rabbittac的回答-知乎](https://www.zhihu.com/question/362654946/answer/1896187222)
+23. [国外教授的讲义都是自己用LaTeX打出来的吗？-徐航的回答-知乎](https://www.zhihu.com/question/29227449/answer/1895477272)
+24. [无人驾驶领域，你推荐那些综述性文章？-殷玮的回答-知乎](https://www.zhihu.com/question/355954682/answer/1513557367)

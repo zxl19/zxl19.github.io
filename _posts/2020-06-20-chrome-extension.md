@@ -202,7 +202,7 @@ Sci-Hub extension for Chromium browsers
 3. [你极力推荐的Chrome扩展有哪些？-少数派的回答-知乎](https://www.zhihu.com/question/19594682/answer/218516641)
 4. [这40+款Chrome油猴扩展，让你的Chrome变成「真·神器」-少数派的文章-知乎](https://zhuanlan.zhihu.com/p/32155254)
 5. [可能是史上最有逼格最实用的chrome扩展程序推荐-黄海的文章-知乎](https://zhuanlan.zhihu.com/p/22196508)
-6. [Chrome插件英雄榜](https://www.v2fy.com/p/readme-chromeappheroes/)
+6. [Chrome插件英雄榜](https://v2fy.com/p/readme-chromeappheroes/)
 7. [zhaoolee/ChromeAppHeroes](https://github.com/zhaoolee/ChromeAppHeroes)
 8. [pt-plugins/PT-Plugin-Plus](https://github.com/pt-plugins/PT-Plugin-Plus)
 9. [FelisCatus/SwitchyOmega](https://github.com/FelisCatus/SwitchyOmega)
