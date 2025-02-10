@@ -75,10 +75,11 @@ pinned: false
 4. [计算机教育中缺失的一课](https://missing-semester-cn.github.io)
 5. [菜鸟教程](https://www.runoob.com)
 6. [极客教程](https://geek-docs.com)
-7. [Codecademy](https://www.codecademy.com)
-8. [GeeksforGeeks](https://www.geeksforgeeks.org)
-9. [W3Schools](https://www.w3schools.com)
-10. [W3Cschools](https://www.w3cschool.cn)
+7. [极客文档](https://geekdaxue.co)
+8. [Codecademy](https://www.codecademy.com)
+9. [GeeksforGeeks](https://www.geeksforgeeks.org)
+10. [W3Schools](https://www.w3schools.com)
+11. [W3Cschools](https://www.w3cschool.cn)
 
 ## 参考
 

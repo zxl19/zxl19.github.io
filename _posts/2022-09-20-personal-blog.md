@@ -25,15 +25,16 @@ pinned: false
 6. [Weisong Wen](https://weisongwen.github.io)
 7. [无求备斋笔记](https://fzheng.me/cn/)
 8. [lemaden's blog](http://lemaden.top)
-9. [XT的技术博客](https://xiaotaoguo.com)
-10. [CGABC](https://cgabc.xyz/)
-11. [无处不在的小土](https://gaoyichao.com/Xiaotu/)
-12. [KMnO4的行云小扎](https://wastoon.github.io)
-13. [Yilin's Blog](https://yilingui.xyz)
-14. [RealCat](https://vincentqin.tech)
-15. [Marquis](https://marquistj13.github.io/MyBlog/)
-16. [晨光ABC-CSDN博客](https://cgabc.blog.csdn.net)
-17. [家家的快乐空间-CSDN博客](https://blog.csdn.net/m0_38144614)
+9. [Secret Land](http://zhaoxuhui.top)
+10. [XT的技术博客](https://xiaotaoguo.com)
+11. [CGABC](https://cgabc.xyz/)
+12. [无处不在的小土](https://gaoyichao.com/Xiaotu/)
+13. [KMnO4的行云小扎](https://wastoon.github.io)
+14. [Yilin's Blog](https://yilingui.xyz)
+15. [RealCat](https://vincentqin.tech)
+16. [Marquis](https://marquistj13.github.io/MyBlog/)
+17. [晨光ABC-CSDN博客](https://cgabc.blog.csdn.net)
+18. [家家的快乐空间-CSDN博客](https://blog.csdn.net/m0_38144614)
 
 ### 自动驾驶相关
 
@@ -98,7 +99,8 @@ pinned: false
 1. [Code Yarns](https://codeyarns.com)
 2. [Lei Mao's Log Book](https://leimao.github.io)
 3. [Jeremy Feng](https://fengchao.pro)
-4. [Mostafa Samir](https://mostafa-samir.github.io)
+4. [MartinLwx](https://martinlwx.github.io)
+5. [Mostafa Samir](https://mostafa-samir.github.io)
 
 ### 算法相关
 
@@ -150,7 +152,8 @@ pinned: false
 4. [aagontuk/cheatsheets](https://github.com/aagontuk/cheatsheets)
 5. [yuezhezhang/Bug_list](https://github.com/yuezhezhang/Bug_list)
 6. [xiaotaw/Notes](https://github.com/xiaotaw/Notes)
-7. [阿昆的科研日常-CSDN博客](https://blog.csdn.net/qq_26447137)
+7. [Bensz](https://blognas.hwb0307.com)
+8. [阿昆的科研日常-CSDN博客](https://blog.csdn.net/qq_26447137)
 
 ### Meme相关
 

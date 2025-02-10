@@ -552,6 +552,7 @@ pip install，pip uninstall，拿起pip就是干！
 1. [viblo/pymunk](https://github.com/viblo/pymunk)
 2. [pydy/pydy](https://github.com/pydy/pydy)
 3. [cdsousa/sympybotics](https://github.com/cdsousa/sympybotics)
+4. [utiasSTARS/GraphIK](https://github.com/utiasSTARS/GraphIK)
 
 ## Git（包括Github）
 

@@ -881,8 +881,16 @@ int main()
 
 1. [Wandmalfarbe/pandoc-latex-template](https://github.com/Wandmalfarbe/pandoc-latex-template)
 2. [Keldos-Li/typora-latex-theme](https://github.com/Keldos-Li/typora-latex-theme)
-3. [Ruzim/NSFC-application-template-latex](https://github.com/Ruzim/NSFC-application-template-latex)
-4. [MattX/texword](https://github.com/MattX/texword)
+3. [MattX/texword](https://github.com/MattX/texword)
+
+###### 基金申请模板
+
+1. [Ruzim/NSFC-application-template-latex](https://github.com/Ruzim/NSFC-application-template-latex)
+2. [Ruzim/NSFDYS-application-template](https://github.com/Ruzim/NSFDYS-application-template)
+3. [MCG-NKU/NSFC-LaTex](https://github.com/MCG-NKU/NSFC-LaTex)
+4. [YimianDai/iNSFC](https://github.com/YimianDai/iNSFC)
+5. [huangwb8/ChineseResearchLaTeX](https://github.com/huangwb8/ChineseResearchLaTeX)
+6. [fylimas/nsfc](https://github.com/fylimas/nsfc)
 
 ###### 高质量模板
 
