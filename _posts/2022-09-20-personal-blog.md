@@ -100,7 +100,8 @@ pinned: false
 2. [Lei Mao's Log Book](https://leimao.github.io)
 3. [Jeremy Feng](https://fengchao.pro)
 4. [MartinLwx](https://martinlwx.github.io)
-5. [Mostafa Samir](https://mostafa-samir.github.io)
+5. [Joey's Blog](https://www.fangjin.site)
+6. [Mostafa Samir](https://mostafa-samir.github.io)
 
 ### 算法相关
 

@@ -60,6 +60,7 @@ pinned: false
 
     - [科研路上，我为什么离不开Joplin-少数派](https://sspai.com/post/77020)
     - [长期使用joplin笔记软件的人能不能谈谈使用感受？-画画的阿杜的回答-知乎](https://www.zhihu.com/question/436251626/answer/1960648271)
+    - [Joplin-个人笔记软件轻度试用感受（主要内容为插件推荐）-灰草草的文章-知乎](https://zhuanlan.zhihu.com/p/396613374)
 
 2. AFFiNE [链接](https://affine.pro)
 3. Logseq [链接](https://logseq.com)
