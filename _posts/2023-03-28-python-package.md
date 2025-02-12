@@ -547,12 +547,16 @@ pip install，pip uninstall，拿起pip就是干！
 8. [tjfulle/fem-with-python](https://github.com/tjfulle/fem-with-python)
 9. [deepmodeling/jax-fem](https://github.com/deepmodeling/jax-fem)
 
+#### 运动学仿真
+
+1. [utiasSTARS/GraphIK](https://github.com/utiasSTARS/GraphIK)
+2. [tud-amr/fabrics](https://github.com/tud-amr/fabrics)
+
 #### 动力学仿真
 
 1. [viblo/pymunk](https://github.com/viblo/pymunk)
 2. [pydy/pydy](https://github.com/pydy/pydy)
 3. [cdsousa/sympybotics](https://github.com/cdsousa/sympybotics)
-4. [utiasSTARS/GraphIK](https://github.com/utiasSTARS/GraphIK)
 
 ## Git（包括Github）
 

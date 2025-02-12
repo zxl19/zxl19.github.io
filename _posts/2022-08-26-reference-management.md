@@ -57,6 +57,12 @@ pinned: false
     - `Info`->`Item Type`，选择文献类型，不同文献类型对应的图标样式不同；
     - `Info`->`Title`，填写文献标题；
 
+4. 插件存档：
+
+    - [20个实用Zotero插件推荐！高效管理论文！-小新学姐的文章-知乎](https://zhuanlan.zhihu.com/p/689468632)
+    - [有哪些好用的zotero插件?-科研根号三的回答-知乎](https://www.zhihu.com/question/402589277/answer/3196530555)
+    - [适配Zotero 7，最新40个兼容插件合集（2024年7月8日更新）-赛尔普生物的文章-知乎](https://zhuanlan.zhihu.com/p/707668416)
+
 ## 电子书管理软件
 
 1. Calibre [链接](https://calibre-ebook.com)

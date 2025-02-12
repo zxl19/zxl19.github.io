@@ -142,8 +142,10 @@ pinned: false
 2. [Jieke Wang](https://jackywang2001.github.io)
 3. [Dexter Chua](https://dec41.user.srcf.net)
 4. [Long Luo's Life Notes](http://www.longluo.me)
-5. [Chengxin Gong](https://wqgcx.github.io)
-6. [Pingbang Hu](https://pbb.wtf)
+5. [wklchris' Website](https://wklchris.github.io)
+6. [wklchris的博客主页](https://wklchris.github.io/blog/)
+7. [Chengxin Gong](https://wqgcx.github.io)
+8. [Pingbang Hu](https://pbb.wtf)
 
 ### 科研相关
 
@@ -193,4 +195,6 @@ pinned: false
 21. [dta0502/dta0502.github.io](https://github.com/dta0502/dta0502.github.io)
 22. [用LaTeX做笔记是怎样的体验？-Rabbittac的回答-知乎](https://www.zhihu.com/question/362654946/answer/1896187222)
 23. [国外教授的讲义都是自己用LaTeX打出来的吗？-徐航的回答-知乎](https://www.zhihu.com/question/29227449/answer/1895477272)
-24. [无人驾驶领域，你推荐那些综述性文章？-殷玮的回答-知乎](https://www.zhihu.com/question/355954682/answer/1513557367)
+24. [wklchris/wklchris.github.io](https://github.com/wklchris/wklchris.github.io)
+25. [wklchris/blog](https://github.com/wklchris/blog)
+26. [无人驾驶领域，你推荐那些综述性文章？-殷玮的回答-知乎](https://www.zhihu.com/question/355954682/answer/1513557367)
