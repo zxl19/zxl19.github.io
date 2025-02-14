@@ -31,6 +31,9 @@ pinned: false
 3. [Alfred Eisenstaedt](https://www.life.com/photographer/alfred-eisenstaedt/)
 4. [Robert Capa](https://www.life.com/photographer/robert-capa/)
 5. [W. Eugene Smith](https://www.life.com/photographer/w-eugene-smith/)
+6. [Bruno Barbey](http://bruno-barbey.com)
+7. [Thomas Hoepker](https://www.magnumphotos.com/photographer/thomas-hoepker/)
+8. [久保田博二](https://www.magnumphotos.com/photographer/hiroji-kubota/)
 
 ## 杂志
 
@@ -48,3 +51,4 @@ pinned: false
 ## 参考
 
 1. [摄影的原点！Nikon Zf评测丨Links TV-bilibili](https://www.bilibili.com/video/BV1Rp4y1c79x)
+2. [【教员/嗵嗵】“来狂欢吧狂欢吧，永远不下坠”-bilibili](https://www.bilibili.com/video/BV1aDNveWE7L)
