@@ -59,7 +59,8 @@ pinned: false
 19. [Map My Visitors](https://mapmyvisitors.com)
 20. [Free website hit counter](https://www.free-website-hit-counter.com)
 21. [SmallCounter](https://smallcounter.com)
-22. [不蒜子-极简网页计数器](http://busuanzi.ibruce.info)
+22. [Flag Counter](https://s01.flagcounter.com)
+23. [不蒜子-极简网页计数器](http://busuanzi.ibruce.info)
 
 ## 美化
 
