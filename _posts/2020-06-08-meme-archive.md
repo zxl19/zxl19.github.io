@@ -168,6 +168,12 @@ Meme这个词最初源自英国著名科学家理查德·道金斯所著的《�
 7. [Kimi.ai](https://kimi.moonshot.cn)
 8. [豆包](https://www.doubao.com/chat/)
 
+### 词元统计
+
+1. [Token Counter](https://tokencounter.org)
+2. [Token Calculator](https://token-calculator.net)
+3. [LLM Token Counter](https://llmtokencounter.com)
+
 ### 网站历史
 
 1. [Internet Archive](https://archive.org)

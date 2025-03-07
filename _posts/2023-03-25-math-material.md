@@ -15,24 +15,30 @@ pinned: false
 
 ## 数学知识
 
+### 速查表
+
 1. [CRC Standard Mathematical Tables and Formulas](https://www.softouch.on.ca/kb/data/CRC%20Standard%20Mathematical%20Tables%20and%20Formulas%2033E.pdf)
-2. [Paul's Online Math Notes](https://tutorial.math.lamar.edu)
-3. [List of Formulae and Statistical Tables](https://www.cambridgeinternational.org/Images/344616-list-of-formulae-and-statistical-tables.pdf)
-4. [Handbook of Exact Solutions for Ordinary Differential Equations](https://wms.mat.agh.edu.pl/~lusapa/pl/Polyanin_Zaitsev_ODE.pdf)
-5. [Visualize-ML/Book3_Elements-of-Mathematics](https://github.com/Visualize-ML/Book3_Elements-of-Mathematics)
-6. [Visualize-ML/Book4_Power-of-Matrix](https://github.com/Visualize-ML/Book4_Power-of-Matrix)
-7. [Visualize-ML/Book5_Essentials-of-Probability-and-Statistics](https://github.com/Visualize-ML/Book5_Essentials-of-Probability-and-Statistics)
-8. [Visualize-ML/Book6_First-Course-in-Data-Science](https://github.com/Visualize-ML/Book6_First-Course-in-Data-Science)
-9. [wzchen/probability_cheatsheet](https://github.com/wzchen/probability_cheatsheet)
-10. [mavam/stat-cookbook](https://github.com/mavam/stat-cookbook)
-11. [dalcde/cam-notes](https://github.com/dalcde/cam-notes)
-12. [Ewenwan/Mathematics](https://github.com/Ewenwan/Mathematics)
-13. [shervinea/stanford-cme-106-probability-and-statistics](https://github.com/shervinea/stanford-cme-106-probability-and-statistics)
-14. [gillescastel/lecture-notes](https://github.com/gillescastel/lecture-notes)
-15. [psibi/how-to-prove](https://github.com/psibi/how-to-prove)
-16. [sleepymalc/Notes](https://github.com/sleepymalc/Notes)
-17. [KafCoppelia/Free_Courses_Notes](https://github.com/KafCoppelia/Free_Courses_Notes)
-18. [JackyWang2001/JackyWang2001.github.io](https://github.com/JackyWang2001/JackyWang2001.github.io)
+2. [List of Formulae and Statistical Tables](https://www.cambridgeinternational.org/Images/344616-list-of-formulae-and-statistical-tables.pdf)
+3. [Handbook of Exact Solutions for Ordinary Differential Equations](https://wms.mat.agh.edu.pl/~lusapa/pl/Polyanin_Zaitsev_ODE.pdf)
+
+### 笔记
+
+1. [Paul's Online Math Notes](https://tutorial.math.lamar.edu)
+2. [Numerical Tours of Data Sciences](https://www.numerical-tours.com)
+3. [Visualize-ML/Book3_Elements-of-Mathematics](https://github.com/Visualize-ML/Book3_Elements-of-Mathematics)
+4. [Visualize-ML/Book4_Power-of-Matrix](https://github.com/Visualize-ML/Book4_Power-of-Matrix)
+5. [Visualize-ML/Book5_Essentials-of-Probability-and-Statistics](https://github.com/Visualize-ML/Book5_Essentials-of-Probability-and-Statistics)
+6. [Visualize-ML/Book6_First-Course-in-Data-Science](https://github.com/Visualize-ML/Book6_First-Course-in-Data-Science)
+7. [wzchen/probability_cheatsheet](https://github.com/wzchen/probability_cheatsheet)
+8. [mavam/stat-cookbook](https://github.com/mavam/stat-cookbook)
+9. [dalcde/cam-notes](https://github.com/dalcde/cam-notes)
+10. [Ewenwan/Mathematics](https://github.com/Ewenwan/Mathematics)
+11. [shervinea/stanford-cme-106-probability-and-statistics](https://github.com/shervinea/stanford-cme-106-probability-and-statistics)
+12. [gillescastel/lecture-notes](https://github.com/gillescastel/lecture-notes)
+13. [psibi/how-to-prove](https://github.com/psibi/how-to-prove)
+14. [sleepymalc/Notes](https://github.com/sleepymalc/Notes)
+15. [KafCoppelia/Free_Courses_Notes](https://github.com/KafCoppelia/Free_Courses_Notes)
+16. [JackyWang2001/JackyWang2001.github.io](https://github.com/JackyWang2001/JackyWang2001.github.io)
 
 ## 线性代数
 

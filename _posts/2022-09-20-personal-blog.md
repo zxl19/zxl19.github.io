@@ -139,13 +139,14 @@ pinned: false
 ### 数学相关
 
 1. [Gilles Castel](https://castel.dev)
-2. [Jieke Wang](https://jackywang2001.github.io)
-3. [Dexter Chua](https://dec41.user.srcf.net)
-4. [Long Luo's Life Notes](http://www.longluo.me)
-5. [wklchris' Website](https://wklchris.github.io)
-6. [wklchris的博客主页](https://wklchris.github.io/blog/)
-7. [Chengxin Gong](https://wqgcx.github.io)
-8. [Pingbang Hu](https://pbb.wtf)
+2. [Gabriel Peyré](http://www.gpeyre.com)
+3. [Jieke Wang](https://jackywang2001.github.io)
+4. [Dexter Chua](https://dec41.user.srcf.net)
+5. [Long Luo's Life Notes](http://www.longluo.me)
+6. [wklchris' Website](https://wklchris.github.io)
+7. [wklchris的博客主页](https://wklchris.github.io/blog/)
+8. [Chengxin Gong](https://wqgcx.github.io)
+9. [Pingbang Hu](https://pbb.wtf)
 
 ### 科研相关
 
