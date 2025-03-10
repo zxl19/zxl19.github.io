@@ -55,6 +55,7 @@ pinned: false
 1. [一维度](https://www.fengerzh.com)
 2. [酷壳](https://coolshell.cn)
 3. [阮一峰的个人网站](https://www.ruanyifeng.com)
+4. [Web Mechanic](https://www.softouch.on.ca)
 
 #### 生活随笔
 
@@ -126,15 +127,16 @@ pinned: false
 11. [胜彬的博客](https://blog.shengbin.me)
 12. [术之多](https://www.shuzhiduo.com)
 13. [Arking](https://arkingc.github.io)
-14. [AugmentedMind](https://www.augmentedmind.de)
-15. [Luckyfuy](https://luckyfuy.top)
-16. [fluldog-博客园](https://www.cnblogs.com/fluidog)
-17. [zh89233-博客园](https://www.cnblogs.com/love-zf)
-18. [librarookie-博客园](https://www.cnblogs.com/librarookie)
-19. [木偶Roy-博客园](https://www.cnblogs.com/jyroy)
-20. [李春港-博客园](https://www.cnblogs.com/lcgbk)
-21. [音视跳动科技](http://avdancedu.com)
-22. [小丁的个人博客](https://tding.top)
+14. [陈斌彬的技术博客](https://cnbin.github.io)
+15. [AugmentedMind](https://www.augmentedmind.de)
+16. [Luckyfuy](https://luckyfuy.top)
+17. [fluldog-博客园](https://www.cnblogs.com/fluidog)
+18. [zh89233-博客园](https://www.cnblogs.com/love-zf)
+19. [librarookie-博客园](https://www.cnblogs.com/librarookie)
+20. [木偶Roy-博客园](https://www.cnblogs.com/jyroy)
+21. [李春港-博客园](https://www.cnblogs.com/lcgbk)
+22. [音视跳动科技](http://avdancedu.com)
+23. [小丁的个人博客](https://tding.top)
 
 ### 数学相关
 
