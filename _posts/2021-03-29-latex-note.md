@@ -842,6 +842,7 @@ int main()
 8. [oetiker/lshort](https://github.com/oetiker/lshort)
 9. [OsbertWang/install-latex-guide-zh-cn](https://github.com/OsbertWang/install-latex-guide-zh-cn)
 10. [wch/latexsheet](https://github.com/wch/latexsheet)
+11. [xd15zhn/latexcookbook](https://github.com/xd15zhn/latexcookbook)
 
 ##### 模板
 
@@ -943,6 +944,7 @@ int main()
 39. [LaTeX写作工具-平凡的文章-知乎](https://zhuanlan.zhihu.com/p/362505439)
 40. [LaTeX公式转Word公式-简书](https://www.jianshu.com/p/0947ebcfc42e)
 41. [截至目前LaTeX入门最好资料-我是科研小秘书的文章-知乎](https://zhuanlan.zhihu.com/p/585513318)
-42. [国家自然科学基金的LaTeX模板-bensz的文章-知乎](https://zhuanlan.zhihu.com/p/682230693)
-43. [为什么国家自然科学基金申请没有latex模板？-暗影猪的回答-知乎](https://www.zhihu.com/question/377854398/answer/2826599575)
-44. [为什么国家自然科学基金申请没有latex模板？-程明明的回答-知乎](https://www.zhihu.com/question/377854398/answer/96596638902)
+42. [Latex简明速查手册(8页)-磁悬浮青蛙呱呱呱的文章-知乎](https://zhuanlan.zhihu.com/p/508559139)
+43. [国家自然科学基金的LaTeX模板-bensz的文章-知乎](https://zhuanlan.zhihu.com/p/682230693)
+44. [为什么国家自然科学基金申请没有latex模板？-暗影猪的回答-知乎](https://www.zhihu.com/question/377854398/answer/2826599575)
+45. [为什么国家自然科学基金申请没有latex模板？-程明明的回答-知乎](https://www.zhihu.com/question/377854398/answer/96596638902)

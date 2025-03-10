@@ -316,7 +316,8 @@ pinned: false
 1. [BehaviorTree/BehaviorTree.CPP](https://github.com/BehaviorTree/BehaviorTree.CPP)
 2. [boost-ext/sml](https://github.com/boost-ext/sml)
 3. [digint/tinyfsm](https://github.com/digint/tinyfsm)
-4. [CodeSports/State-Machine-Using-Boost-Statechart](https://github.com/CodeSports/State-Machine-Using-Boost-Statechart)
+4. [qlibs/sml](https://github.com/qlibs/sml)
+5. [CodeSports/State-Machine-Using-Boost-Statechart](https://github.com/CodeSports/State-Machine-Using-Boost-Statechart)
 
 ## 可视化界面
 
@@ -351,11 +352,12 @@ pinned: false
 ### 网络库
 
 1. [libuv/libuv](https://github.com/libuv/libuv)
-2. [libevent/libevent](https://github.com/libevent/libevent)
-3. [yhirose/cpp-httplib](https://github.com/yhirose/cpp-httplib)
-4. [ithewei/libhv](https://github.com/ithewei/libhv)
-5. [libcpr/cpr](https://github.com/libcpr/cpr)
-6. [skypjack/uvw](https://github.com/skypjack/uvw)
+2. [sogou/workflow](https://github.com/sogou/workflow)
+3. [libevent/libevent](https://github.com/libevent/libevent)
+4. [yhirose/cpp-httplib](https://github.com/yhirose/cpp-httplib)
+5. [ithewei/libhv](https://github.com/ithewei/libhv)
+6. [libcpr/cpr](https://github.com/libcpr/cpr)
+7. [skypjack/uvw](https://github.com/skypjack/uvw)
 
 ## 数据结构
 
@@ -453,4 +455,5 @@ pinned: false
 16. [有什么高质量的C++单头文件库?-liulun的回答-知乎](https://www.zhihu.com/question/496257115/answer/2842977837)
 17. [有什么高质量的C++单头文件库?-芒果浩明的回答-知乎](https://www.zhihu.com/question/496257115/answer/2255551935)
 18. [全网唯一值得推荐的C/C++框架和库-C语言编程指南的文章-知乎](https://zhuanlan.zhihu.com/p/492392194)
-19. [OpenBLAS gemm从零入门-白牛的文章-知乎](https://zhuanlan.zhihu.com/p/65436463)
+19. [如何找合适的C++项目给自己的简历加分？-1412的回答-知乎](https://www.zhihu.com/question/280881677/answer/3151447745)
+20. [OpenBLAS gemm从零入门-白牛的文章-知乎](https://zhuanlan.zhihu.com/p/65436463)

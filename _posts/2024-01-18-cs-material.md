@@ -84,5 +84,6 @@ pinned: false
 ## 参考
 
 1. [有哪些你看了以后大呼过瘾的编程书？-奇异果的哥哥的回答-知乎](https://www.zhihu.com/question/50408698/answer/3192277351)
-2. [GitHub开源计算机课程攻略yyds-逛逛GitHub的文章-知乎](https://zhuanlan.zhihu.com/p/447898788)
-3. [程序员，上班没事做该怎么办？-华为云开发者联盟的回答-知乎](https://www.zhihu.com/question/621194172/answer/3217337311)
+2. [如何找合适的C++项目给自己的简历加分？-ThomasVortex的回答-知乎](https://www.zhihu.com/question/280881677/answer/3152587125)
+3. [GitHub开源计算机课程攻略yyds-逛逛GitHub的文章-知乎](https://zhuanlan.zhihu.com/p/447898788)
+4. [程序员，上班没事做该怎么办？-华为云开发者联盟的回答-知乎](https://www.zhihu.com/question/621194172/answer/3217337311)
