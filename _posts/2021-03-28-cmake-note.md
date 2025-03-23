@@ -26,6 +26,10 @@ pinned: false
     make -j     # 编译器根据Makefile文件完成编译过程
     ```
 
+    - `-j`选项用于指定并行任务数，一般设置为CPU物理核心数`$(nproc)`；
+    - 如果任务中存在大量I/O等待，可以设置为CPU物理核心数加一；
+    - 如果不指定并行任务数，表示不限制，可能导致内存占用过多，编译过程卡死，需要谨慎使用；
+
 4. CMake提供了图形化交互界面CMake GUI，使用以下命令安装并运行：
 
     ```shell
@@ -168,7 +172,7 @@ message()
 add_definitions()
 add_subdirectory()
 aux_source_directory()
-# add_compile_options()
+add_compile_options()
 install()
 enable_testing()
 add_test()
@@ -545,6 +549,17 @@ endwhile()
         add_compile_options(-std=c++11 -Wall -pthread -fexceptions)     # 不推荐
         ```
 
+    - 常用于屏蔽编译器警告，一般情况下只对于第三方依赖库使用，对于内部代码建议修复编译警告：
+
+        ```cmake
+        -w          # 屏蔽所有警告
+        -Wxxx       # 启用特定警告
+        -Wno-xxx    # 屏蔽特定警告
+        # 示例
+        -Wall       # 启用所有标准警告
+        -Wno-all    # 屏蔽所有标准警告
+        ```
+
 7. `install()`用于定义安装规则，包括编译目标、文件、目录等；
 
     - 安装编译目标的常用语法如下：
@@ -565,8 +580,10 @@ endwhile()
             | `RUNTIME` | 可执行文件 |
 
         - 如果使用相对路径，认为其相对于`CMAKE_INSTALL_PREFIX`：
+
             - 在Unix系统中，`CMAKE_INSTALL_PREFIX`默认值为`/usr/local`；
             - 在Windows系统中，`CMAKE_INSTALL_PREFIX`默认值为`C:/Program Files/${PROJECT_NAME}`；
+
         - 示例：
 
             ```cmake
@@ -747,11 +764,12 @@ endif()
 
 1. [CMake Reference Documentation](https://cmake.org/cmake/help/latest/index.html)
 2. [CMake Tutorial](https://cmake.org/cmake/help/latest/guide/tutorial/index.html)
-3. [CMake 3.25 中文-Runebooks.dev](https://runebook.dev/zh-CN/docs/cmake/-index-)
-4. [CMake菜谱（CMake Cookbook中文版）](https://www.bookstack.cn/books/CMake-Cookbook)
-5. [cmake使用教程](https://juejin.cn/post/6844903557183832078)
-6. [基于VSCode和CMake实现C/C++开发丨Linux篇](https://www.bilibili.com/video/BV1fy4y1b7TC)
-7. [Cmake的应用与实践](https://www.bilibili.com/video/BV17J411m7o1)
+3. [GCC online documentation](https://gcc.gnu.org/onlinedocs/)
+4. [CMake 3.25 中文-Runebooks.dev](https://runebook.dev/zh-CN/docs/cmake/-index-)
+5. [CMake菜谱（CMake Cookbook中文版）](https://www.bookstack.cn/books/CMake-Cookbook)
+6. [cmake使用教程](https://juejin.cn/post/6844903557183832078)
+7. [基于VSCode和CMake实现C/C++开发丨Linux篇](https://www.bilibili.com/video/BV1fy4y1b7TC)
+8. [Cmake的应用与实践](https://www.bilibili.com/video/BV17J411m7o1)
 
 ### GitHub
 
@@ -781,41 +799,45 @@ endif()
 ## 参考
 
 1. [CMake](https://cmake.org)
-2. [内部构建和外部构建-CSDN博客](https://blog.csdn.net/sandalphon4869/article/details/100589747)
-3. [gaoxiang12/faster-lio](https://github.com/gaoxiang12/faster-lio)
-4. [c++的.h和cpp，放在相同目录下好，还是顶层就用include,src分开好？-icon-meh的回答-知乎](https://www.zhihu.com/question/8622503673/answer/72070024144)
-5. [c++的.h和cpp，放在相同目录下好，还是顶层就用include,src分开好？-柳翔天的回答-知乎](https://www.zhihu.com/question/8622503673/answer/71362286271)
-6. [Ceres CMakeLists-CSDN博客](https://blog.csdn.net/sinat_28752257/article/details/82758546)
-7. [CMakeLists-简书](https://www.jianshu.com/p/95c744a5c6f1)
-8. [配置优化器：Debug与Release版本-FrankDellaert的文章-知乎](https://zhuanlan.zhihu.com/p/21403075327)
-9. [指定C++编译标准1-Stack Overflow](https://stackoverflow.com/questions/42834844/how-to-get-cmake-to-pass-either-std-c14-c1y-or-c17-c1z-based-on-gcc-vers)
-10. [指定C++编译标准2-Crascit](https://crascit.com/2015/03/28/enabling-cxx11-in-cmake/)
-11. [指定C++编译标准3-腾讯云](https://cloud.tencent.com/developer/article/1741243)
-12. [指定C++编译标准4-azmddy](https://azmddy.github.io/article/IT%E5%9F%BA%E7%A1%80/%E6%9E%84%E5%BB%BA/CMake/cmake-day-2.html)
-13. [Eigen内存对齐-卷儿的文章-知乎](https://zhuanlan.zhihu.com/p/349413376)
-14. [catkin/CMakeLists.txt-ROS Wiki](http://wiki.ros.org/catkin/CMakeLists.txt)
-15. [SLAＭ算法开发中，Ｃ++编程+多节点，如何调试和优化算法比较方便呢？正确的调试方法是什么？-半闲居士的回答-知乎](https://www.zhihu.com/question/553199862/answer/2672914532)
-16. [cmake-developer](https://cmake.org/cmake/help/latest/manual/cmake-developer.7.html)
-17. [变量1-博客园](https://www.cnblogs.com/narjaja/p/9533174.html)
-18. [变量2-掘金](https://juejin.cn/post/6998055558741753893)
-19. [变量3-CSDN博客](https://blog.csdn.net/juluwangriyue/article/details/123494008)
-20. [变量4-CSDN博客](https://blog.csdn.net/wzj_110/article/details/116674655)
-21. [变量5-简书](https://www.jianshu.com/p/1827cd86d576)
-22. [Cmake之深入理解find_package()的用法-希葛格的韩少君的文章-知乎](https://zhuanlan.zhihu.com/p/97369704)
-23. [cmake find_package路径详解-豌豆的文章-知乎](https://zhuanlan.zhihu.com/p/50829542)
-24. [find_package()1-CSDN博客](https://blog.csdn.net/zhanghm1995/article/details/105466372)
-25. [find_package()2-CSDN博客](https://blog.csdn.net/qq_41035283/article/details/122469466)
-26. [Ceres_DIR1-CSDN博客](https://blog.csdn.net/qq_15642411/article/details/83656855)
-27. [Ceres_DIR2-CSDN博客](https://blog.csdn.net/DumpDoctorWang/article/details/84587331)
-28. [OpenCV_DIR-CSDN博客](https://blog.csdn.net/zkp_987/article/details/119913049)
-29. [静态库、动态库、共享库的区别-博客园](https://www.cnblogs.com/sunsky303/p/7731911.html)
-30. [add_dependencies()1-CSDN博客](https://blog.csdn.net/KingOfMyHeart/article/details/112983922)
-31. [add_dependencies()2-CSDN博客](https://blog.csdn.net/zhizhengguan/article/details/118381772)
-32. [add_dependencies()3-CSDN博客](https://blog.csdn.net/new9232/article/details/125831009)
-33. [cmake：target_**中的PUBLIC，PRIVATE，INTERFACE-大川搬砖的文章-知乎](https://zhuanlan.zhihu.com/p/82244559)
-34. [target_link_directories()1-CSDN博客](https://blog.csdn.net/qq_33726635/article/details/121896441)
-35. [target_link_directories()2-CSDN博客](https://blog.csdn.net/zhizhengguan/article/details/115331314)
-36. [add_definitions()-CSDN博客](https://blog.csdn.net/fb_941219/article/details/107376017)
-37. [编译选项设置区别-CSDN博客](https://blog.csdn.net/10km/article/details/51731959)
-38. [CMake如何入门？-0xCCCCCCCC的回答-知乎](https://www.zhihu.com/question/58949190/answer/999701073)
-39. [CMake和Modern CMake相关资料（不定期补充）-迦非喵的文章-知乎](https://zhuanlan.zhihu.com/p/205324774)
+2. [GCC](https://gcc.gnu.org)
+3. [内部构建和外部构建-CSDN博客](https://blog.csdn.net/sandalphon4869/article/details/100589747)
+4. [简单理解：CPU物理数，核心数，线程数，进程，线程，协程，并发，并行的概念-不是罗罗的文章-知乎](https://zhuanlan.zhihu.com/p/490318618)
+5. [gaoxiang12/faster-lio](https://github.com/gaoxiang12/faster-lio)
+6. [c++的.h和cpp，放在相同目录下好，还是顶层就用include,src分开好？-icon-meh的回答-知乎](https://www.zhihu.com/question/8622503673/answer/72070024144)
+7. [c++的.h和cpp，放在相同目录下好，还是顶层就用include,src分开好？-柳翔天的回答-知乎](https://www.zhihu.com/question/8622503673/answer/71362286271)
+8. [Ceres CMakeLists-CSDN博客](https://blog.csdn.net/sinat_28752257/article/details/82758546)
+9. [CMakeLists-简书](https://www.jianshu.com/p/95c744a5c6f1)
+10. [配置优化器：Debug与Release版本-FrankDellaert的文章-知乎](https://zhuanlan.zhihu.com/p/21403075327)
+11. [指定C++编译标准1-Stack Overflow](https://stackoverflow.com/questions/42834844/how-to-get-cmake-to-pass-either-std-c14-c1y-or-c17-c1z-based-on-gcc-vers)
+12. [指定C++编译标准2-Crascit](https://crascit.com/2015/03/28/enabling-cxx11-in-cmake/)
+13. [指定C++编译标准3-腾讯云](https://cloud.tencent.com/developer/article/1741243)
+14. [指定C++编译标准4-azmddy](https://azmddy.github.io/article/IT%E5%9F%BA%E7%A1%80/%E6%9E%84%E5%BB%BA/CMake/cmake-day-2.html)
+15. [Eigen内存对齐-卷儿的文章-知乎](https://zhuanlan.zhihu.com/p/349413376)
+16. [catkin/CMakeLists.txt-ROS Wiki](http://wiki.ros.org/catkin/CMakeLists.txt)
+17. [SLAＭ算法开发中，Ｃ++编程+多节点，如何调试和优化算法比较方便呢？正确的调试方法是什么？-半闲居士的回答-知乎](https://www.zhihu.com/question/553199862/answer/2672914532)
+18. [cmake-developer](https://cmake.org/cmake/help/latest/manual/cmake-developer.7.html)
+19. [变量1-博客园](https://www.cnblogs.com/narjaja/p/9533174.html)
+20. [变量2-掘金](https://juejin.cn/post/6998055558741753893)
+21. [变量3-CSDN博客](https://blog.csdn.net/juluwangriyue/article/details/123494008)
+22. [变量4-CSDN博客](https://blog.csdn.net/wzj_110/article/details/116674655)
+23. [变量5-简书](https://www.jianshu.com/p/1827cd86d576)
+24. [Cmake之深入理解find_package()的用法-希葛格的韩少君的文章-知乎](https://zhuanlan.zhihu.com/p/97369704)
+25. [cmake find_package路径详解-豌豆的文章-知乎](https://zhuanlan.zhihu.com/p/50829542)
+26. [find_package()1-CSDN博客](https://blog.csdn.net/zhanghm1995/article/details/105466372)
+27. [find_package()2-CSDN博客](https://blog.csdn.net/qq_41035283/article/details/122469466)
+28. [Ceres_DIR1-CSDN博客](https://blog.csdn.net/qq_15642411/article/details/83656855)
+29. [Ceres_DIR2-CSDN博客](https://blog.csdn.net/DumpDoctorWang/article/details/84587331)
+30. [OpenCV_DIR-CSDN博客](https://blog.csdn.net/zkp_987/article/details/119913049)
+31. [静态库、动态库、共享库的区别-博客园](https://www.cnblogs.com/sunsky303/p/7731911.html)
+32. [add_dependencies()1-CSDN博客](https://blog.csdn.net/KingOfMyHeart/article/details/112983922)
+33. [add_dependencies()2-CSDN博客](https://blog.csdn.net/zhizhengguan/article/details/118381772)
+34. [add_dependencies()3-CSDN博客](https://blog.csdn.net/new9232/article/details/125831009)
+35. [cmake：target_**中的PUBLIC，PRIVATE，INTERFACE-大川搬砖的文章-知乎](https://zhuanlan.zhihu.com/p/82244559)
+36. [target_link_directories()1-CSDN博客](https://blog.csdn.net/qq_33726635/article/details/121896441)
+37. [target_link_directories()2-CSDN博客](https://blog.csdn.net/zhizhengguan/article/details/115331314)
+38. [add_definitions()-CSDN博客](https://blog.csdn.net/fb_941219/article/details/107376017)
+39. [编译选项设置区别-CSDN博客](https://blog.csdn.net/10km/article/details/51731959)
+40. [编译器警告-CSDN博客](https://blog.csdn.net/sexyluna/article/details/134770233)
+41. [Options to Request or Suppress Warnings-GCC](https://gcc.gnu.org/onlinedocs/gcc/Warning-Options.html)
+42. [CMake如何入门？-0xCCCCCCCC的回答-知乎](https://www.zhihu.com/question/58949190/answer/999701073)
+43. [CMake和Modern CMake相关资料（不定期补充）-迦非喵的文章-知乎](https://zhuanlan.zhihu.com/p/205324774)

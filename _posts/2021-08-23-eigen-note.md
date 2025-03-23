@@ -676,6 +676,21 @@ Quaterniond quat = quat1.slerp(ratio, quat2);
 Vector3d trans = trans1 + ratio * (trans2 - trans1);
 ```
 
+#### 位姿夹角
+
+```cpp
+Quaterniond quat1, quat2;
+// 单位为弧度，范围为[0, pi]
+double angle = quat1.angularDistance(quat2);
+Matrix3d R1, R2;
+double cos_val = ((R1 * R2.transpose()).trace() - 1) / 2;
+// 截断，防止数值误差导致范围溢出
+// cos_val = std::clamp(cos_val, -1.0, 1.0);    // C++17
+cos_val = std::max(-1.0, std::min(1.0, cos_val));
+// 单位为弧度，范围为[0, pi]
+double angle = std::acos(cos_val);
+```
+
 ## 常见问题
 
 ### C++中的`template`和`typename`关键字
