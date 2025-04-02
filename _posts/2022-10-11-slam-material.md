@@ -103,15 +103,16 @@ SLAM学习资料存档，包括SLAM基础理论、卡尔曼滤波、组合导航
 
 #### Python
 
-1. [rlabbe/filterpy](https://github.com/rlabbe/filterpy)
-2. [pykalman/pykalman](https://github.com/pykalman/pykalman)
-3. [commaai/rednose](https://github.com/commaai/rednose)
-4. [zziz/kalman-filter](https://github.com/zziz/kalman-filter)
-5. [enginBozkurt/Error-State-Extended-Kalman-Filter](https://github.com/enginBozkurt/Error-State-Extended-Kalman-Filter)
-6. [diegoavillegasg/IMU-GNSS-Lidar-sensor-fusion-using-Extended-Kalman-Filter-for-State-Estimation](https://github.com/diegoavillegasg/IMU-GNSS-Lidar-sensor-fusion-using-Extended-Kalman-Filter-for-State-Estimation)
-7. [aipiano/ESEKF_IMU](https://github.com/aipiano/ESEKF_IMU)
-8. [soarbear/imu_ekf](https://github.com/soarbear/imu_ekf)
-9. [jnez71/kalmaNN](https://github.com/jnez71/kalmaNN)
+1. [rlabbe/Kalman-and-Bayesian-Filters-in-Python](https://github.com/rlabbe/Kalman-and-Bayesian-Filters-in-Python)
+2. [rlabbe/filterpy](https://github.com/rlabbe/filterpy)
+3. [pykalman/pykalman](https://github.com/pykalman/pykalman)
+4. [commaai/rednose](https://github.com/commaai/rednose)
+5. [zziz/kalman-filter](https://github.com/zziz/kalman-filter)
+6. [enginBozkurt/Error-State-Extended-Kalman-Filter](https://github.com/enginBozkurt/Error-State-Extended-Kalman-Filter)
+7. [diegoavillegasg/IMU-GNSS-Lidar-sensor-fusion-using-Extended-Kalman-Filter-for-State-Estimation](https://github.com/diegoavillegasg/IMU-GNSS-Lidar-sensor-fusion-using-Extended-Kalman-Filter-for-State-Estimation)
+8. [aipiano/ESEKF_IMU](https://github.com/aipiano/ESEKF_IMU)
+9. [soarbear/imu_ekf](https://github.com/soarbear/imu_ekf)
+10. [jnez71/kalmaNN](https://github.com/jnez71/kalmaNN)
 
 #### C++
 
