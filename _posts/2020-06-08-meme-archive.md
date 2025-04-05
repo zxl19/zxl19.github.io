@@ -179,7 +179,8 @@ Meme这个词最初源自英国著名科学家理查德·道金斯所著的《�
 
 1. [Token Counter](https://tokencounter.org)
 2. [Token Calculator](https://token-calculator.net)
-3. [LLM Token Counter](https://llmtokencounter.com)
+3. [Prompt Token Counter for OpenAI Models](https://www.prompttokencounter.com)
+4. [LLM Token Counter](https://llmtokencounter.com)
 
 ### 网站历史
 

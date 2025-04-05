@@ -33,10 +33,12 @@ pinned: false
 
 1. date
 2. calendar
-3. [poetaman/arttime](https://github.com/poetaman/arttime)
-4. [octobanana/peaclock](https://github.com/octobanana/peaclock)
-5. [coolcode/tomato-clock](https://github.com/coolcode/tomato-clock)
-6. [lucassabreu/clockify-cli](https://github.com/lucassabreu/clockify-cli)
+3. sleep
+4. time
+5. [poetaman/arttime](https://github.com/poetaman/arttime)
+6. [octobanana/peaclock](https://github.com/octobanana/peaclock)
+7. [coolcode/tomato-clock](https://github.com/coolcode/tomato-clock)
+8. [lucassabreu/clockify-cli](https://github.com/lucassabreu/clockify-cli)
 
 ## 性能监控
 
@@ -175,6 +177,14 @@ pinned: false
 6. [KDE/heaptrack](https://github.com/KDE/heaptrack)
 7. [xiw/stack](https://github.com/xiw/stack)
 
+### 调试界面美化
+
+1. [cyrus-and/gdb-dashboard](https://github.com/cyrus-and/gdb-dashboard)
+2. [pwndbg/pwndbg](https://github.com/pwndbg/pwndbg)
+3. [snare/voltron](https://github.com/snare/voltron)
+4. [bombela/backward-cpp](https://github.com/bombela/backward-cpp)
+5. [cgdb/cgdb](https://github.com/cgdb/cgdb)
+
 ## 下载
 
 1. [youtube-dl](https://github.com/ytdl-org/youtube-dl)
@@ -226,5 +236,7 @@ pinned: false
 20. [Lint (software)-Wikipedia](https://en.wikipedia.org/wiki/Lint_(software))
 21. [Clang Static Analyzer](https://clang-analyzer.llvm.org)
 22. [CodeChecker: running the analyzer from the command line](https://clang-analyzer.llvm.org/codechecker.html)
-23. [Ubuntu下实现命令行走代理/终端走代理的方法-lyh458的文章-知乎](https://zhuanlan.zhihu.com/p/377550825)
-24. [40个超有趣的Linux命令行彩蛋和游戏-张子豪的文章-知乎](https://zhuanlan.zhihu.com/p/51904179)
+23. [神仙GDB调试工具gdb-dashboard-电子的文章-知乎](https://zhuanlan.zhihu.com/p/435918702)
+24. [大佬们都是怎么用gdb的？或者用吗？-yaoyaohu的回答-知乎](https://www.zhihu.com/question/65306462/answer/94492305604)
+25. [Ubuntu下实现命令行走代理/终端走代理的方法-lyh458的文章-知乎](https://zhuanlan.zhihu.com/p/377550825)
+26. [40个超有趣的Linux命令行彩蛋和游戏-张子豪的文章-知乎](https://zhuanlan.zhihu.com/p/51904179)
