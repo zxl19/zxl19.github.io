@@ -79,7 +79,8 @@ pinned: false
 以下是一些开源的基于浏览器的Markdown编辑器，可以作为StackEdit的替代方案：
 
 1. Editor.md [链接](http://editor.md.ipandao.com)
-2. Cherry Markdown Writer [链接](https://github.com/Tencent/cherry-markdown)
+2. 微信Markdown编辑器 [链接](https://md.doocs.org)
+3. Cherry Markdown Writer [链接](https://github.com/Tencent/cherry-markdown)
 
 ## 参考
 
@@ -104,4 +105,5 @@ pinned: false
 19. [vincentdchan/CubyText](https://github.com/vincentdchan/CubyText)
 20. [benweet/stackedit](https://github.com/benweet/stackedit)
 21. [pandao/editor.md](https://github.com/pandao/editor.md)
-22. [Tencent/cherry-markdown](https://github.com/Tencent/cherry-markdown)
+22. [doocs/md](https://github.com/doocs/md)
+23. [Tencent/cherry-markdown](https://github.com/Tencent/cherry-markdown)

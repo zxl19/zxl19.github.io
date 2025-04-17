@@ -95,4 +95,4 @@ pinned: false
 
 1. [Ubuntu18.04安装及卸载内核-CSDN博客](https://blog.csdn.net/weixin_48395629/article/details/116055423)
 2. [GRUB2配置文件详解-博客园](https://www.cnblogs.com/fluidog/p/15176726.html)
-3. [Linux GRUB2配置简介-Linux中国](https://linux.cn/article-8603-1.html)
+3. [Linux GRUB2配置简介-Linux中国](https://linux.net.cn/article-8603-1.html)

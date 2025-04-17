@@ -179,14 +179,18 @@ The main repository serves as a curated list of awesome lists.
 2. [markodenic/awesome-tech-blogs](https://github.com/markodenic/awesome-tech-blogs)
 3. [learn-anything/blogs](https://github.com/learn-anything/blogs)
 
-## AI绘画
+## 大模型
+
+### 视觉大模型
 
 1. [heejkoo/Awesome-Diffusion-Models](https://github.com/heejkoo/Awesome-Diffusion-Models)
 2. [hua1995116/awesome-ai-painting](https://github.com/hua1995116/awesome-ai-painting)
 3. [altryne/awesome-ai-art-image-synthesis](https://github.com/altryne/awesome-ai-art-image-synthesis)
 4. [awesome-stable-diffusion/awesome-stable-diffusion](https://github.com/awesome-stable-diffusion/awesome-stable-diffusion)
 
-## AI对话
+### 语言大模型
+
+#### ChatGPT
 
 1. [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts)
 2. [PlexPt/awesome-chatgpt-prompts-zh](https://github.com/PlexPt/awesome-chatgpt-prompts-zh)

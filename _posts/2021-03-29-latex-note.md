@@ -778,11 +778,16 @@ int main()
 
 #### Office数学公式
 
-1. [LatexToMathML](https://web.xiaoyv.com.cn/h5/LatexToMathML/index.html)
-2. [LaTeX to MathML](https://osanshouo.github.io/latex2mathml-web/index.html)
-3. [IguanaTex](http://www.jonathanleroux.org/software/iguanatex/)
-4. [idf/LaTex2Word-Equation](https://github.com/idf/LaTex2Word-Equation)
-5. [xiaoyvyv/LatexToMathML](https://github.com/xiaoyvyv/LatexToMathML)
+1. [LaTeX to MathML](https://osanshouo.github.io/latex2mathml-web/index.html)
+2. [LaTeX to MathML](https://tmke8.github.io/math-core/)
+3. [Temml](https://temml.org)
+4. [IguanaTex](http://www.jonathanleroux.org/software/iguanatex/)
+5. [Jonathan-LeRoux/IguanaTex](https://github.com/Jonathan-LeRoux/IguanaTex)
+6. [idf/LaTex2Word-Equation](https://github.com/idf/LaTex2Word-Equation)
+7. [ronkok/Temml](https://github.com/ronkok/Temml)
+8. [xiaoyvyv/LatexToMathML](https://github.com/xiaoyvyv/LatexToMathML)
+9. [osanshouo/latex2mathml](https://github.com/osanshouo/latex2mathml)
+10. [tmke8/math-core](https://github.com/tmke8/math-core)
 
 #### 表格
 
@@ -817,9 +822,10 @@ int main()
 5. [LaTeX Templates](https://www.latextemplates.com)
 6. [MOON](https://www.moonpapers.com)
 7. [BibTeX](https://www.bibtex.com)
-8. [TikZ](https://tikz.net)
-9. [TeXample](https://texample.net)
-10. [LaTeX Beamer](https://latex-beamer.com)
+8. [PGF/TikZ Manual](https://tikz.dev)
+9. [TikZ](https://tikz.net)
+10. [TeXample](https://texample.net)
+11. [LaTeX Beamer](https://latex-beamer.com)
 
 #### 教程
 
@@ -854,6 +860,7 @@ int main()
 4. [DeathKing/LaTeX-Template-Cn](https://github.com/DeathKing/LaTeX-Template-Cn)
 5. [kenfehling/latex-cheatsheet](https://github.com/kenfehling/latex-cheatsheet)
 6. [sleepymalc/LaTeX-Template](https://github.com/sleepymalc/LaTeX-Template)
+7. [LiuYongxue-code/Exam-USTC-demo](https://github.com/LiuYongxue-code/Exam-USTC-demo)
 
 ###### 简历模板
 
@@ -946,6 +953,7 @@ int main()
 41. [LaTeX公式转Word公式-简书](https://www.jianshu.com/p/0947ebcfc42e)
 42. [截至目前LaTeX入门最好资料-我是科研小秘书的文章-知乎](https://zhuanlan.zhihu.com/p/585513318)
 43. [Latex简明速查手册(8页)-磁悬浮青蛙呱呱呱的文章-知乎](https://zhuanlan.zhihu.com/p/508559139)
-44. [国家自然科学基金的LaTeX模板-bensz的文章-知乎](https://zhuanlan.zhihu.com/p/682230693)
-45. [为什么国家自然科学基金申请没有latex模板？-暗影猪的回答-知乎](https://www.zhihu.com/question/377854398/answer/2826599575)
-46. [为什么国家自然科学基金申请没有latex模板？-程明明的回答-知乎](https://www.zhihu.com/question/377854398/answer/96596638902)
+44. [如何用latex出数学卷子?-科研就会一点点的回答-知乎](https://www.zhihu.com/question/402111484/answer/3302539544)
+45. [国家自然科学基金的LaTeX模板-bensz的文章-知乎](https://zhuanlan.zhihu.com/p/682230693)
+46. [为什么国家自然科学基金申请没有latex模板？-暗影猪的回答-知乎](https://www.zhihu.com/question/377854398/answer/2826599575)
+47. [为什么国家自然科学基金申请没有latex模板？-程明明的回答-知乎](https://www.zhihu.com/question/377854398/answer/96596638902)

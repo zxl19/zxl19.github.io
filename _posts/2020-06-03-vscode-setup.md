@@ -208,7 +208,7 @@ CMake扩展。
 
 ### GitLens——Git supercharged
 
-增强VS Code内置Git的功能，例如对比修改、查看历史记录和显示代码作者，类似的扩展还有Git History和Git Graph。
+增强VS Code内置Git的功能，例如对比修改、查看历史记录和显示代码作者，类似的扩展还有Git History、Git Graph。
 
 ### Image Preview
 
@@ -448,9 +448,11 @@ Atom的深色主题，类似的主题还有City Lights theme、Material Theme（
 
 Python语言扩展，安装Pylance、Pylint、Black Formatter、isort、Jupyter（包括Jupyter Cell Tags、Jupyter Keymap、Jupyter Notebook Renderers、Jupyter Slide Show）等扩展可以使用增强功能并提高使用体验。
 
-### Python Environment Manager
+### Python Environments
 
-管理Python环境和包，类似的扩展还有Pip Manager。
+管理Python环境和包，类似的扩展还有Pip Manager、Python Environment Manager。
+
+**2025年1月：Python Environment Manager已停止维护。**
 
 ### Rainbow Fart
 
@@ -541,7 +543,7 @@ YAML语法支持。
 
 ### 小霸王
 
-游戏扩展，类似的扩展还有4399 on VSCode、红白机等。
+游戏扩展，类似的扩展还有4399 on VSCode、红白机。
 
 ## 常见问题及解决方法
 
