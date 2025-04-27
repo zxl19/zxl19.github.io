@@ -180,10 +180,11 @@ pinned: false
 ### 调试界面美化
 
 1. [cyrus-and/gdb-dashboard](https://github.com/cyrus-and/gdb-dashboard)
-2. [pwndbg/pwndbg](https://github.com/pwndbg/pwndbg)
-3. [snare/voltron](https://github.com/snare/voltron)
-4. [bombela/backward-cpp](https://github.com/bombela/backward-cpp)
-5. [cgdb/cgdb](https://github.com/cgdb/cgdb)
+2. [cs01/gdbgui](https://github.com/cs01/gdbgui)
+3. [pwndbg/pwndbg](https://github.com/pwndbg/pwndbg)
+4. [snare/voltron](https://github.com/snare/voltron)
+5. [bombela/backward-cpp](https://github.com/bombela/backward-cpp)
+6. [cgdb/cgdb](https://github.com/cgdb/cgdb)
 
 ## 下载
 
@@ -201,6 +202,7 @@ pinned: false
 ## 信息收集
 
 1. [sherlock](https://github.com/sherlock-project/sherlock)
+2. [iliane5/meridian](https://github.com/iliane5/meridian)
 
 ## 彩蛋和游戏
 

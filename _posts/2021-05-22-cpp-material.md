@@ -63,6 +63,11 @@ C++学习资料存档。
 8. [tip-of-the-week/cpp](https://github.com/tip-of-the-week/cpp)
 9. [netcan/advanced-cpp20-programming](https://github.com/netcan/advanced-cpp20-programming)
 
+### 高性能计算
+
+1. [parallel101/course](https://github.com/parallel101/course)
+2. [realYurkOfGitHub/translation-Introduction-to-HPC](https://github.com/realYurkOfGitHub/translation-Introduction-to-HPC)
+
 ### 并发
 
 1. [xiaoweiChen/Cpp_Concurrency_In_Action](https://github.com/xiaoweiChen/Cpp_Concurrency_In_Action)
@@ -85,7 +90,8 @@ C++学习资料存档。
 10. [igl42/cpp_software_design](https://github.com/igl42/cpp_software_design)
 11. [PickNikRobotics/roscpp_code_format](https://github.com/PickNikRobotics/roscpp_code_format)
 12. [igl42/oreilly](https://github.com/igl42/oreilly)
-13. [XiaotaoGuo/Effective-Cpp-Reading-Note](https://github.com/XiaotaoGuo/Effective-Cpp-Reading-Note)
+13. [adah1972/cpp_book1](https://github.com/adah1972/cpp_book1)
+14. [XiaotaoGuo/Effective-Cpp-Reading-Note](https://github.com/XiaotaoGuo/Effective-Cpp-Reading-Note)
 
 ### 设计模式
 
@@ -152,10 +158,12 @@ C++学习资料存档。
 1. [如何塑造一个拿的出手的GitHub账号？-吴师兄学算法的回答-知乎](https://www.zhihu.com/question/47567490/answer/1866897272)
 2. [学习C++，应该循序渐进的看哪些书？-嘉炜的回答-知乎](https://www.zhihu.com/question/20410487/answer/15055637)
 3. [有什么高质量的现代C++风格的开源代码?-夏天的回答-知乎](https://www.zhihu.com/question/23153437/answer/1962068242)
-4. [C和C++中有哪些容易被坑的undefined behaviour？-南山烟雨珠江潮的回答-知乎](https://www.zhihu.com/question/43621151/answer/85045768298)
-5. [可以使用C++的哪些库或函数来简化任务？-南山烟雨珠江潮的回答-知乎](https://www.zhihu.com/question/639724149/answer/3374083013)
-6. [ClangFormatStyleOptions](https://clang.llvm.org/docs/ClangFormatStyleOptions.html)
-7. [推荐10款C++在线编译器-CSDN博客](https://blog.csdn.net/cool99781/article/details/104516581)
-8. [melpon/wandbox](https://github.com/melpon/wandbox)
-9. [andreasfertig/cppinsights](https://github.com/andreasfertig/cppinsights)
-10. [《C++实战：核心技术与最佳实践》——与吴咏炜老师一起走进C++的实战世界-人民邮电出版社的文章-知乎](https://zhuanlan.zhihu.com/p/14044433366)
+4. [c++写高性能计算有什么心得体会?-南山烟雨珠江潮的回答-知乎](https://www.zhihu.com/question/662526033/answer/116645038898)
+5. [c++写高性能计算有什么心得体会?-Pandora Eartha的回答-知乎](https://www.zhihu.com/question/662526033/answer/1894737937473713792)
+6. [C和C++中有哪些容易被坑的undefined behaviour？-南山烟雨珠江潮的回答-知乎](https://www.zhihu.com/question/43621151/answer/85045768298)
+7. [可以使用C++的哪些库或函数来简化任务？-南山烟雨珠江潮的回答-知乎](https://www.zhihu.com/question/639724149/answer/3374083013)
+8. [ClangFormatStyleOptions](https://clang.llvm.org/docs/ClangFormatStyleOptions.html)
+9. [推荐10款C++在线编译器-CSDN博客](https://blog.csdn.net/cool99781/article/details/104516581)
+10. [melpon/wandbox](https://github.com/melpon/wandbox)
+11. [andreasfertig/cppinsights](https://github.com/andreasfertig/cppinsights)
+12. [《C++实战：核心技术与最佳实践》——与吴咏炜老师一起走进C++的实战世界-人民邮电出版社的文章-知乎](https://zhuanlan.zhihu.com/p/14044433366)

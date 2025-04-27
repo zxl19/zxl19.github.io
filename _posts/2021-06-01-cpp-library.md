@@ -90,7 +90,8 @@ pinned: false
 8. [Water-Melon/Melon](https://github.com/Water-Melon/Melon)
 9. [electronicarts/EAStdC](https://github.com/electronicarts/EAStdC)
 10. [adah1972/nvwa](https://github.com/adah1972/nvwa)
-11. [MariadeAnton/MiLi](https://github.com/MariadeAnton/MiLi)
+11. [adah1972/mozi](https://github.com/adah1972/mozi)
+12. [MariadeAnton/MiLi](https://github.com/MariadeAnton/MiLi)
 
 ## 参数读取
 
@@ -372,8 +373,9 @@ pinned: false
 7. [VcDevel/Vc](https://github.com/VcDevel/Vc)
 8. [boostorg/pfr](https://github.com/boostorg/pfr)
 9. [stotko/stdgpu](https://github.com/stotko/stdgpu)
-10. [VcDevel/std-simd](https://github.com/VcDevel/std-simd)
-11. [frozenca/BTree](https://github.com/frozenca/BTree)
+10. [imageworks/pystring](https://github.com/imageworks/pystring)
+11. [VcDevel/std-simd](https://github.com/VcDevel/std-simd)
+12. [frozenca/BTree](https://github.com/frozenca/BTree)
 
 ## Python绑定
 
@@ -401,14 +403,16 @@ pinned: false
 
 ## 并发
 
-1. [progschj/ThreadPool](https://github.com/progschj/ThreadPool)
-2. [oneapi-src/oneTBB](https://github.com/oneapi-src/oneTBB)
-3. [David-Haim/concurrencpp](https://github.com/David-Haim/concurrencpp)
-4. [mbrossard/threadpool](https://github.com/mbrossard/threadpool)
-5. [lzpong/threadpool](https://github.com/lzpong/threadpool)
-6. [lizhenghn123/zl_threadpool](https://github.com/lizhenghn123/zl_threadpool)
-7. [tghosgor/threadpool11](https://github.com/tghosgor/threadpool11)
-8. [electronicarts/EAThread](https://github.com/electronicarts/EAThread)
+1. [taskflow/taskflow](https://github.com/taskflow/taskflow)
+2. [progschj/ThreadPool](https://github.com/progschj/ThreadPool)
+3. [oneapi-src/oneTBB](https://github.com/oneapi-src/oneTBB)
+4. [bshoshany/thread-pool](https://github.com/bshoshany/thread-pool)
+5. [David-Haim/concurrencpp](https://github.com/David-Haim/concurrencpp)
+6. [lzpong/threadpool](https://github.com/lzpong/threadpool)
+7. [mbrossard/threadpool](https://github.com/mbrossard/threadpool)
+8. [lizhenghn123/zl_threadpool](https://github.com/lizhenghn123/zl_threadpool)
+9. [tghosgor/threadpool11](https://github.com/tghosgor/threadpool11)
+10. [electronicarts/EAThread](https://github.com/electronicarts/EAThread)
 
 ## 惰性求值
 
@@ -446,17 +450,19 @@ pinned: false
 5. [使用conda作为C++包管理器-林大豆折腾记的文章-知乎](https://zhuanlan.zhihu.com/p/353121634)
 6. [你工作中最推荐的C/C++程序库有哪些，为什么？-Zhao Zhang的回答-知乎](https://www.zhihu.com/question/51134387/answer/386066052)
 7. [你工作中最推荐的C/C++程序库有哪些，为什么？-iiif的回答-知乎](https://www.zhihu.com/question/51134387/answer/571858930)
-8. [有什么高质量的现代C++风格的开源代码?-夏天的回答-知乎](https://www.zhihu.com/question/23153437/answer/1962068242)
-9. [有什么高质量的现代C++风格的开源代码?-南山烟雨珠江潮的回答-知乎](https://www.zhihu.com/question/23153437/answer/56630876696)
-10. [如何塑造一个拿的出手的GitHub账号？-吴师兄学算法的回答-知乎](https://www.zhihu.com/question/47567490/answer/1866897272)
-11. [你读过的最好的C++开源代码是什么？-编程指北的回答-知乎](https://www.zhihu.com/question/21376384/answer/1925233838)
-12. [有哪些优秀的C++代码库可以推荐学习？-idealvin的回答-知乎](https://www.zhihu.com/question/281276664/answer/907647528)
-13. [求问c++解析配置文件，解析命令输入的最佳实践，最好能给到相应的库？-邱昊宇的回答-知乎](https://www.zhihu.com/question/433864615/answer/1616753838)
-14. [Google对C++的影响有多大？-编程指北的回答-知乎](https://www.zhihu.com/question/40165082/answer/1925222483)
-15. [有哪些值得推荐的小型C语言开源项目？-fanfan的回答-知乎](https://www.zhihu.com/question/20792016/answer/1982761892)
-16. [有什么高质量的C++单头文件库?-liulun的回答-知乎](https://www.zhihu.com/question/496257115/answer/2842977837)
-17. [有什么高质量的C++单头文件库?-芒果浩明的回答-知乎](https://www.zhihu.com/question/496257115/answer/2255551935)
-18. [全网唯一值得推荐的C/C++框架和库-C语言编程指南的文章-知乎](https://zhuanlan.zhihu.com/p/492392194)
-19. [如何评价Painter Engine？-DBinary的回答-知乎](https://www.zhihu.com/question/554686788/answer/3173063665)
-20. [如何找合适的C++项目给自己的简历加分？-1412的回答-知乎](https://www.zhihu.com/question/280881677/answer/3151447745)
-21. [OpenBLAS gemm从零入门-白牛的文章-知乎](https://zhuanlan.zhihu.com/p/65436463)
+8. [有哪些朴实无华的c++库？-程序喵大人的回答-知乎](https://www.zhihu.com/question/666819229/answer/13711170384)
+9. [有什么高质量的现代C++风格的开源代码?-夏天的回答-知乎](https://www.zhihu.com/question/23153437/answer/1962068242)
+10. [有什么高质量的现代C++风格的开源代码?-南山烟雨珠江潮的回答-知乎](https://www.zhihu.com/question/23153437/answer/56630876696)
+11. [如何塑造一个拿的出手的GitHub账号？-吴师兄学算法的回答-知乎](https://www.zhihu.com/question/47567490/answer/1866897272)
+12. [你读过的最好的C++开源代码是什么？-编程指北的回答-知乎](https://www.zhihu.com/question/21376384/answer/1925233838)
+13. [有哪些优秀的C++代码库可以推荐学习？-idealvin的回答-知乎](https://www.zhihu.com/question/281276664/answer/907647528)
+14. [求问c++解析配置文件，解析命令输入的最佳实践，最好能给到相应的库？-邱昊宇的回答-知乎](https://www.zhihu.com/question/433864615/answer/1616753838)
+15. [Google对C++的影响有多大？-编程指北的回答-知乎](https://www.zhihu.com/question/40165082/answer/1925222483)
+16. [有哪些值得推荐的小型C语言开源项目？-fanfan的回答-知乎](https://www.zhihu.com/question/20792016/answer/1982761892)
+17. [有什么高质量的C++单头文件库?-liulun的回答-知乎](https://www.zhihu.com/question/496257115/answer/2842977837)
+18. [有什么高质量的C++单头文件库?-芒果浩明的回答-知乎](https://www.zhihu.com/question/496257115/answer/2255551935)
+19. [全网唯一值得推荐的C/C++框架和库-C语言编程指南的文章-知乎](https://zhuanlan.zhihu.com/p/492392194)
+20. [如何评价Painter Engine？-DBinary的回答-知乎](https://www.zhihu.com/question/554686788/answer/3173063665)
+21. [如何找合适的C++项目给自己的简历加分？-1412的回答-知乎](https://www.zhihu.com/question/280881677/answer/3151447745)
+22. [有哪些朴实无华的c++库？-南山烟雨珠江潮的回答-知乎](https://www.zhihu.com/question/666819229/answer/4257047142)
+23. [OpenBLAS gemm从零入门-白牛的文章-知乎](https://zhuanlan.zhihu.com/p/65436463)
