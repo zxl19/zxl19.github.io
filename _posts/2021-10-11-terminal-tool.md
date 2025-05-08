@@ -72,12 +72,15 @@ pinned: false
 1. cat
 2. head
 3. tail
-4. [lnav](https://github.com/tstack/lnav)
-5. [tailspin](https://github.com/bensadeh/tailspin)
-6. [hpjansson/chafa](https://github.com/hpjansson/chafa)
-7. [timg](https://github.com/hzeller/timg)
-8. [fltrdr](https://github.com/octobanana/fltrdr)
-9. [json-tui](https://github.com/ArthurSonzogni/json-tui)
+4. less
+5. more
+6. strings
+7. [lnav](https://github.com/tstack/lnav)
+8. [tailspin](https://github.com/bensadeh/tailspin)
+9. [hpjansson/chafa](https://github.com/hpjansson/chafa)
+10. [timg](https://github.com/hzeller/timg)
+11. [fltrdr](https://github.com/octobanana/fltrdr)
+12. [json-tui](https://github.com/ArthurSonzogni/json-tui)
 
 ### 文件压缩
 

@@ -65,7 +65,7 @@ pinned: false
 
 ## 电子书管理软件
 
-1. Calibre [链接](https://calibre-ebook.com)
+1. calibre [链接](https://calibre-ebook.com)
 2. NeatReader [链接](https://www.neat-reader.com)
 3. Omnivore [链接](https://omnivore.app)
 

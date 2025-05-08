@@ -80,27 +80,30 @@ C++学习资料存档。
 
 1. [isocpp/CppCoreGuidelines](https://github.com/isocpp/CppCoreGuidelines)
 2. [lynnboy/CppCoreGuidelines-zh-CN](https://github.com/lynnboy/CppCoreGuidelines-zh-CN)
-3. [cpp-best-practices/cppbestpractices](https://github.com/cpp-best-practices/cppbestpractices)
-4. [Tencent/secguide](https://github.com/Tencent/secguide)
+3. [Tencent/secguide](https://github.com/Tencent/secguide)
+4. [cpp-best-practices/cppbestpractices](https://github.com/cpp-best-practices/cppbestpractices)
 5. [JuanCrg90/Clean-Code-Notes](https://github.com/JuanCrg90/Clean-Code-Notes)
 6. [trekhleb/state-of-the-art-shitcode](https://github.com/trekhleb/state-of-the-art-shitcode)
 7. [Qihoo360/safe-rules](https://github.com/Qihoo360/safe-rules)
-8. [facontidavide/CPP_Optimizations_Diary](https://github.com/facontidavide/CPP_Optimizations_Diary)
-9. [FengJungle/DesignPattern](https://github.com/FengJungle/DesignPattern)
-10. [igl42/cpp_software_design](https://github.com/igl42/cpp_software_design)
-11. [PickNikRobotics/roscpp_code_format](https://github.com/PickNikRobotics/roscpp_code_format)
-12. [igl42/oreilly](https://github.com/igl42/oreilly)
-13. [adah1972/cpp_book1](https://github.com/adah1972/cpp_book1)
-14. [XiaotaoGuo/Effective-Cpp-Reading-Note](https://github.com/XiaotaoGuo/Effective-Cpp-Reading-Note)
+8. [sdcuike/Clean-Code-Collection-Books](https://github.com/sdcuike/Clean-Code-Collection-Books)
+9. [facontidavide/CPP_Optimizations_Diary](https://github.com/facontidavide/CPP_Optimizations_Diary)
+10. [jnguyen095/clean-code](https://github.com/jnguyen095/clean-code)
+11. [jbarroso/clean-code](https://github.com/jbarroso/clean-code)
+12. [PickNikRobotics/roscpp_code_format](https://github.com/PickNikRobotics/roscpp_code_format)
+13. [igl42/oreilly](https://github.com/igl42/oreilly)
+14. [adah1972/cpp_book1](https://github.com/adah1972/cpp_book1)
+15. [XiaotaoGuo/Effective-Cpp-Reading-Note](https://github.com/XiaotaoGuo/Effective-Cpp-Reading-Note)
 
 ### 设计模式
 
 1. [kamranahmedse/design-patterns-for-humans](https://github.com/kamranahmedse/design-patterns-for-humans)
 2. [DovAmir/awesome-design-patterns](https://github.com/DovAmir/awesome-design-patterns)
-3. [clpsz/Book-HFDP-Code](https://github.com/clpsz/Book-HFDP-Code)
-4. [mrlegowatch/HeadFirstDesignPatternsCpp](https://github.com/mrlegowatch/HeadFirstDesignPatternsCpp)
-5. [yaocoder/DesignPattern](https://github.com/yaocoder/DesignPattern)
-6. [fsaadatmand/Head-First-Design-Pattern-CPP-Examples](https://github.com/fsaadatmand/Head-First-Design-Pattern-CPP-Examples)
+3. [FengJungle/DesignPattern](https://github.com/FengJungle/DesignPattern)
+4. [igl42/cpp_software_design](https://github.com/igl42/cpp_software_design)
+5. [clpsz/Book-HFDP-Code](https://github.com/clpsz/Book-HFDP-Code)
+6. [mrlegowatch/HeadFirstDesignPatternsCpp](https://github.com/mrlegowatch/HeadFirstDesignPatternsCpp)
+7. [yaocoder/DesignPattern](https://github.com/yaocoder/DesignPattern)
+8. [fsaadatmand/Head-First-Design-Pattern-CPP-Examples](https://github.com/fsaadatmand/Head-First-Design-Pattern-CPP-Examples)
 
 ## 网站
 

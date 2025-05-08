@@ -46,9 +46,10 @@ pinned: false
 
 1. [【硬核科普】焦段是什么？](https://www.bilibili.com/video/BV1nK41157no)
 2. [如何选择街头摄影的镜头焦段？丨35mm 50mm 85mm丨定焦vs变焦](https://www.bilibili.com/video/BV1Ki421R732)
-3. [【DPReview】这才是最好的焦段！](https://www.bilibili.com/video/BV1Gg4y1G7uV)
-4. [【DPReview】富士 Fujifilm X100V 上手初评](https://www.bilibili.com/video/BV1p741137BZ)
-5. [【毒德大学字幕组】DPReview 尼康Nikon Z 6 测评](https://www.bilibili.com/video/BV1mt411s7xX)
+3. [干货丨原来我对焦距和构图的理解是错的！2分半长曝观音阁！唐僧Vlog-103](https://www.bilibili.com/video/BV1HpGXzaExS)
+4. [【DPReview】这才是最好的焦段！](https://www.bilibili.com/video/BV1Gg4y1G7uV)
+5. [【DPReview】富士 Fujifilm X100V 上手初评](https://www.bilibili.com/video/BV1p741137BZ)
+6. [【毒德大学字幕组】DPReview 尼康Nikon Z 6 测评](https://www.bilibili.com/video/BV1mt411s7xX)
 
 ### 阳光十六法则
 
