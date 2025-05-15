@@ -190,6 +190,17 @@ The main repository serves as a curated list of awesome lists.
 
 ### 语言大模型
 
+#### LLM
+
+1. [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps)
+2. [Hannibal046/Awesome-LLM](https://github.com/Hannibal046/Awesome-LLM)
+3. [HqWu-HITCS/Awesome-Chinese-LLM](https://github.com/HqWu-HITCS/Awesome-Chinese-LLM)
+4. [WangRongsheng/awesome-LLM-resourses](https://github.com/WangRongsheng/awesome-LLM-resourses)
+5. [xlite-dev/Awesome-LLM-Inference](https://github.com/xlite-dev/Awesome-LLM-Inference)
+6. [GT-RIPL/Awesome-LLM-Robotics](https://github.com/GT-RIPL/Awesome-LLM-Robotics)
+7. [atfortes/Awesome-LLM-Reasoning](https://github.com/atfortes/Awesome-LLM-Reasoning)
+8. [Thinklab-SJTU/Awesome-LLM4AD](https://github.com/Thinklab-SJTU/Awesome-LLM4AD)
+
 #### ChatGPT
 
 1. [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts)
@@ -202,11 +213,23 @@ The main repository serves as a curated list of awesome lists.
 8. [saharmor/awesome-chatgpt](https://github.com/saharmor/awesome-chatgpt)
 9. [del-xiong/awesome-chatgpt](https://github.com/del-xiong/awesome-chatgpt)
 
+#### DeepSeek
+
+1. [deepseek-ai/awesome-deepseek-integration](https://github.com/deepseek-ai/awesome-deepseek-integration)
+2. [deepseek-ai/awesome-deepseek-coder](https://github.com/deepseek-ai/awesome-deepseek-coder)
+3. [deepseek-ai/FlashMLA](https://github.com/deepseek-ai/FlashMLA)
+
 ## Git（包括GitHub）
 
 1. [dictcp/awesome-git](https://github.com/dictcp/awesome-git)
 2. [AntBranch/awesome-github](https://github.com/AntBranch/awesome-github)
 3. [stefanbuck/awesome-browser-extensions-for-github](https://github.com/stefanbuck/awesome-browser-extensions-for-github)
+
+## 浏览器插件
+
+1. [zhaoolee/ChromeAppHeroes](https://github.com/zhaoolee/ChromeAppHeroes)
+2. [runningcheese/Awesome-Userscripts](https://github.com/runningcheese/Awesome-Userscripts)
+3. [runningcheese/Awesome-Extensions](https://github.com/runningcheese/Awesome-Extensions)
 
 ## Docker
 

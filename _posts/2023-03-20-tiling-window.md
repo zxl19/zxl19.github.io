@@ -129,3 +129,4 @@ sudo apt install x-tile
 8. [如何安装GNOME插件-techmoe的文章-知乎](https://zhuanlan.zhihu.com/p/36265103)
 9. [x tile-giuspen](https://www.giuspen.com/x-tile/)
 10. [giuspen/x-tile](https://github.com/giuspen/x-tile)
+11. [baskerville/bspwm](https://github.com/baskerville/bspwm)

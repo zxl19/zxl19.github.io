@@ -179,6 +179,7 @@ pinned: false
 5. [KDAB/hotspot](https://github.com/KDAB/hotspot)
 6. [KDE/heaptrack](https://github.com/KDE/heaptrack)
 7. [xiw/stack](https://github.com/xiw/stack)
+8. [intel/iaprof](https://github.com/intel/iaprof)
 
 ### 调试界面美化
 

@@ -149,7 +149,7 @@ CMake扩展。
 
 ### CodeGeeX: AI Code AutoComplete, Chat, Auto Comment
 
-基于大模型的智能编程助手，提供代码自动生成和补全、代码翻译、自动添加注释、智能问答等功能，类似的扩展还有GitHub Copilot、GitHub Copilot Chat、Cline、Tabnine AI Autocomplete、Cody AI、Kite。
+基于大模型的智能编程助手，提供代码自动生成和补全、代码翻译、自动添加注释、智能问答等功能，类似的扩展还有GitHub Copilot、GitHub Copilot Chat、Cline、Continue、Tabnine AI Autocomplete、Cody AI、Kite。
 
 **2022年11月：Kite已停止维护。**
 
@@ -615,22 +615,23 @@ YAML语法支持。
 23. [如何优雅的用VScode编写C++大型项目？-惘客的回答-知乎](https://www.zhihu.com/question/353722203/answer/2564104885)
 24. [免费使用最强编程插件Cline-雷哥AI工程化的文章-知乎](https://zhuanlan.zhihu.com/p/15806278946)
 25. [探索Cline：Cursor平替工具的功能与使用感受-大瑜聊AI的文章-知乎](https://zhuanlan.zhihu.com/p/18941487363)
-26. [Kite is saying farewell](https://www.kite.com/blog/product/kite-is-saying-farewell/)
-27. [实时可视化Debug：VS Code开源新工具，一键解析代码结构](https://zhuanlan.zhihu.com/p/109212146)
-28. [太赞了，VSCode上也能画流程图了！-GitHub Daily的文章-知乎](https://zhuanlan.zhihu.com/p/140895359)
-29. [OBKoro1/koro1FileHeader](https://github.com/OBKoro1/koro1FileHeader)
-30. [LeetCode-OpenSource/vscode-leetcode](https://github.com/LeetCode-OpenSource/vscode-leetcode)
-31. [如何将宇宙最强vscode打造为刷题神器-ACM算法日常的文章-知乎](https://zhuanlan.zhihu.com/p/354386295)
-32. [Pintia(拼题A)刷题插件on VS Code-金志超的文章-知乎](https://zhuanlan.zhihu.com/p/548041527)
-33. [如何在Ubuntu 20.04上安装Node.js和npm](https://developer.aliyun.com/article/760687)
-34. [Markdown完美转PDF-简书](https://www.jianshu.com/p/4856a78b96b6)
-35. [cxasm/cc-compare](https://github.com/cxasm/cc-compare)
-36. [YKB2333/Beyond-Compare](https://github.com/YKB2333/Beyond-Compare)
-37. [微软再出神器，这次终于对Python下手了！-Jackpop的文章-知乎](https://zhuanlan.zhihu.com/p/154108630)
-38. [vscode有哪些让人眼前一亮的插件?-量子位的回答-知乎](https://www.zhihu.com/question/311803609/answer/1296896019)
-39. [超越鼓励师for VS Code，写代码不再孤单，有杨超越与你同在-韩骏的文章-知乎](https://zhuanlan.zhihu.com/p/61790645)
-40. [Comment (computer programming)-Wikipedia](https://en.wikipedia.org/wiki/Comment_(computer_programming))
-41. [typst/typst](https://github.com/typst/typst)
-42. [nvarner/typst-lsp](https://github.com/nvarner/typst-lsp)
-43. [VS CODE恢复出厂设置-bilibili](https://www.bilibili.com/video/BV12B4y1479v)
-44. [Visual Studio Code on Linux-Common questions](https://code.visualstudio.com/docs/setup/linux#_common-questions)
+26. [开源！轻量！AI代码助手插件Continue使用体验如何？-Gitee的文章-知乎](https://zhuanlan.zhihu.com/p/13727673549)
+27. [Kite is saying farewell](https://www.kite.com/blog/product/kite-is-saying-farewell/)
+28. [实时可视化Debug：VS Code开源新工具，一键解析代码结构](https://zhuanlan.zhihu.com/p/109212146)
+29. [太赞了，VSCode上也能画流程图了！-GitHub Daily的文章-知乎](https://zhuanlan.zhihu.com/p/140895359)
+30. [OBKoro1/koro1FileHeader](https://github.com/OBKoro1/koro1FileHeader)
+31. [LeetCode-OpenSource/vscode-leetcode](https://github.com/LeetCode-OpenSource/vscode-leetcode)
+32. [如何将宇宙最强vscode打造为刷题神器-ACM算法日常的文章-知乎](https://zhuanlan.zhihu.com/p/354386295)
+33. [Pintia(拼题A)刷题插件on VS Code-金志超的文章-知乎](https://zhuanlan.zhihu.com/p/548041527)
+34. [如何在Ubuntu 20.04上安装Node.js和npm](https://developer.aliyun.com/article/760687)
+35. [Markdown完美转PDF-简书](https://www.jianshu.com/p/4856a78b96b6)
+36. [cxasm/cc-compare](https://github.com/cxasm/cc-compare)
+37. [YKB2333/Beyond-Compare](https://github.com/YKB2333/Beyond-Compare)
+38. [微软再出神器，这次终于对Python下手了！-Jackpop的文章-知乎](https://zhuanlan.zhihu.com/p/154108630)
+39. [vscode有哪些让人眼前一亮的插件?-量子位的回答-知乎](https://www.zhihu.com/question/311803609/answer/1296896019)
+40. [超越鼓励师for VS Code，写代码不再孤单，有杨超越与你同在-韩骏的文章-知乎](https://zhuanlan.zhihu.com/p/61790645)
+41. [Comment (computer programming)-Wikipedia](https://en.wikipedia.org/wiki/Comment_(computer_programming))
+42. [typst/typst](https://github.com/typst/typst)
+43. [nvarner/typst-lsp](https://github.com/nvarner/typst-lsp)
+44. [VS CODE恢复出厂设置-bilibili](https://www.bilibili.com/video/BV12B4y1479v)
+45. [Visual Studio Code on Linux-Common questions](https://code.visualstudio.com/docs/setup/linux#_common-questions)

@@ -15,28 +15,58 @@ SLAM学习资料存档，包括SLAM基础理论、卡尔曼滤波、组合导航
 
 ## SLAM基础理论
 
-### 书籍
+### 入门教材
+
+1. [Course on SLAM](https://www.iri.upc.edu/people/jsola/JoanSola/objectes/toolbox/courseSLAM.pdf)
+2. [SLAM for Dummies](https://dspace.mit.edu/bitstream/handle/1721.1/119149/16-412j-spring-2005/contents/projects/1aslam_blas_repo.pdf)
+
+### 综述教材
 
 1. 《视觉SLAM十四讲》
 2. 《自动驾驶中的SLAM技术》
 3. [Factor graphs for robot perception](https://www.cs.cmu.edu/~kaess/pub/Dellaert17fnt.html)
-4. [A tutorial on SE(3) transformation parameterizations and on-manifold optimization](http://ingmec.ual.es/~jlblanco/papers/jlblanco2010geometry3D_techrep.pdf)
-5. [Quaternions and Rotations](https://graphics.stanford.edu/courses/cs348a-17-winter/Papers/quaternion.pdf)
-6. [A micro Lie theory for state estimation in robotics](https://arxiv.org/pdf/1812.01537.pdf)
-7. [Quaternion kinematics for the error-state Kalman filter](https://www.iri.upc.edu/people/jsola/JoanSola/objectes/notes/kinematics.pdf)
-8. [Probabilistic Robotics](https://gaoyichao.com/Xiaotu//resource/refs/PR.MIT.en.pdf)
-9. [State Estimation for Robotics -- First Edition](http://asrl.utias.utoronto.ca/~tdb/bib/barfoot_ser17.pdf)
-10. [State Estimation for Robotics -- Draft Second Edition](http://asrl.utias.utoronto.ca/~tdb/bib/barfoot_ser23.pdf)
-11. [SO(3) and SE(3) Identities and Approximations](http://asrl.utias.utoronto.ca/~tdb/bib/barfoot_ser17_identities.pdf)
-12. [Lie theory cheatsheet](https://norlab.ulaval.ca/research/LieCheatsheet/)
-13. [Multiple view geometry in computer vision](https://assets.cambridge.org/97805215/40513/frontmatter/9780521540513_frontmatter.pdf)
-14. [Modern Robotics](http://hades.mech.northwestern.edu/images/7/7f/MR.pdf)
+4. [Probabilistic Robotics](https://gaoyichao.com/Xiaotu//resource/refs/PR.MIT.en.pdf)
+5. [State Estimation for Robotics -- First Edition](http://asrl.utias.utoronto.ca/~tdb/bib/barfoot_ser17.pdf)
+6. [State Estimation for Robotics -- Draft Second Edition](http://asrl.utias.utoronto.ca/~tdb/bib/barfoot_ser23.pdf)
+7. [Multiple view geometry in computer vision](https://assets.cambridge.org/97805215/40513/frontmatter/9780521540513_frontmatter.pdf)
+8. [Modern Robotics](http://hades.mech.northwestern.edu/images/7/7f/MR.pdf)
 
-### 在线位姿转换
+### 微分几何和李群
+
+#### 速查表
+
+1. [SO(3) and SE(3) Identities and Approximations](http://asrl.utias.utoronto.ca/~tdb/bib/barfoot_ser17_identities.pdf)
+2. [Lie theory cheatsheet](https://norlab.ulaval.ca/research/LieCheatsheet/)
+
+#### 位姿参数化
+
+1. [A tutorial on SE(3) transformation parameterizations and on-manifold optimization](http://ingmec.ual.es/~jlblanco/papers/jlblanco2010geometry3D_techrep.pdf)
+2. [Quaternions and Rotations](https://graphics.stanford.edu/courses/cs348a-17-winter/Papers/quaternion.pdf)
+3. [Lie Groups for 2D and 3D Transformations](https://ethaneade.com/lie.pdf)
+
+#### 在线位姿转换
 
 1. [Engineering Notes](https://danceswithcode.net/danceswithcode.net/engineeringnotes/index.html)
 2. [3D Rotation Converter](https://www.andre-gaschler.com/rotationconverter/)
 3. [Quaternions](https://quaternions.online)
+
+#### 李群和李代数
+
+1. [A micro Lie theory for state estimation in robotics](https://arxiv.org/pdf/1812.01537)
+2. [Kalman Filters on Differentiable Manifolds](https://arxiv.org/pdf/2102.03804)
+3. [Quaternion kinematics for the error-state Kalman filter](https://www.iri.upc.edu/people/jsola/JoanSola/objectes/notes/kinematics.pdf)
+4. [Differential Geometry and Lie Groups](https://www.cis.upenn.edu/~jean/gbooks/manif.html)
+5. [如何通俗地解释李群和李代数的关系？-李狗嗨的回答-知乎](https://www.zhihu.com/question/356466246/answer/931315125)
+6. [李群和李代数——名字听起来很猛其实也没那么复杂-菠萝包包包的文章-知乎](https://zhuanlan.zhihu.com/p/358455662)
+7. [老师，我太想写SLAM了-李群/李代数篇-吴小奇的文章-知乎](https://zhuanlan.zhihu.com/p/688748332)
+8. [工科生学习微分几何和李群学习的建议？-贺磊的回答-知乎](https://www.zhihu.com/question/29908951/answer/89652188)
+9. [工科生学习微分几何和李群学习的建议？-FrankDellaert的回答-知乎](https://www.zhihu.com/question/29908951/answer/3608055723)
+
+### 后端优化
+
+1. [SLAM中后端优化的技术细节-Wincent的文章-知乎](https://zhuanlan.zhihu.com/p/616060837)
+2. [如何理解SLAM中的First-Estimates Jacobian？-jing胖的回答-知乎](https://www.zhihu.com/question/52869487/answer/132517493)
+3. [如何理解SLAM中的First-Estimates Jacobian？-拿破轮的回答-知乎](https://www.zhihu.com/question/52869487/answer/2437797244)
 
 ### GitHub
 
@@ -60,6 +90,7 @@ SLAM学习资料存档，包括SLAM基础理论、卡尔曼滤波、组合导航
 18. [ganlumomo/VisualInertialOdometry](https://github.com/ganlumomo/VisualInertialOdometry)
 19. [brytsknguyen/oblam_deskew](https://github.com/brytsknguyen/oblam_deskew)
 20. [YZH-bot/SLAM_Box](https://github.com/YZH-bot/SLAM_Box)
+21. [TheSeanParker/SLAM_Materials](https://github.com/TheSeanParker/SLAM_Materials)
 
 ### 公开课
 
@@ -80,15 +111,27 @@ SLAM学习资料存档，包括SLAM基础理论、卡尔曼滤波、组合导航
 5. [Tutorial: The Kalman Filter](https://web.mit.edu/kirtley/kirtley/binlustuff/literature/control/Kalman%20filter.pdf)
 6. [A Kalman Filtering Tutorial for Undergraduate Students](https://aircconline.com/ijcses/V8N1/8117ijcses01.pdf)
 7. [Extended Kalman Filter Tutorial](https://homes.cs.washington.edu/~todorov/courses/cseP590/readings/tutorialEKF.pdf)
-8. [卡尔曼滤波（Kalman Filter）原理与公式推导-涅索斯衬衫的文章-知乎](https://zhuanlan.zhihu.com/p/48876718)
-9. [卡尔曼滤波器（观测器）原理极简介绍-Invictus的文章-知乎](https://zhuanlan.zhihu.com/p/42390886)
-10. [卡尔曼滤波Kalman Filter之美在于什么？-自动驾驶之心的回答-知乎](https://www.zhihu.com/question/281995386/answer/3371567219)
-11. [简明ESKF推导-半闲居士的文章-知乎](https://zhuanlan.zhihu.com/p/441182819)
-12. [slam中基于滤波的方法的问题及如何调参?-半闲居士的回答-知乎](https://www.zhihu.com/question/601596796/answer/3127818634)
-13. [LIO中ESKF相关公式的详尽说明-xiaotaw的文章-知乎](https://zhuanlan.zhihu.com/p/538975422)
-14. [Computing Jacobian, why error state?——优化中为何对误差状态求导-邱笑晨的文章-知乎](https://zhuanlan.zhihu.com/p/75714471)
-15. [简单易懂(?)的误差状态卡尔曼滤波器(Error State Kalman Filter, ESKF)的原理与实现（一）原理简介-llo的文章-知乎](https://zhuanlan.zhihu.com/p/545370811)
-16. [简单易懂(?)的误差状态卡尔曼滤波器(Error State Kalman Filter, ESKF)的原理与实现（二）算法实现-llo的文章-知乎](https://zhuanlan.zhihu.com/p/545525697)
+8. [Understanding the Basis of the Kalman Filter Via a Simple and Intuitive Derivation](https://courses.physics.illinois.edu/ece420/sp2019/7_UnderstandingKalmanFilter.pdf)
+9. [卡尔曼滤波（Kalman Filter）原理与公式推导-涅索斯衬衫的文章-知乎](https://zhuanlan.zhihu.com/p/48876718)
+10. [卡尔曼滤波器（观测器）原理极简介绍-Aurelian的文章-知乎](https://zhuanlan.zhihu.com/p/42390886)
+11. [卡尔曼滤波Kalman Filter之美在于什么？-自动驾驶之心的回答-知乎](https://www.zhihu.com/question/281995386/answer/3371567219)
+12. [不同视角下的卡尔曼滤波-袁良信的文章-知乎](https://zhuanlan.zhihu.com/p/6934889820)
+13. [怎样才叫真正理解卡尔曼滤波Kalman Filter？-荒唐病人的回答-知乎](https://www.zhihu.com/question/47559783/answer/2980976068)
+14. [怎样才叫真正理解卡尔曼滤波Kalman Filter？-刘厂长的回答-知乎](https://www.zhihu.com/question/47559783/answer/2988744371)
+15. [卡尔曼滤波(1)：单变量卡尔曼滤波-gezp的文章-知乎](https://zhuanlan.zhihu.com/p/669327717)
+16. [卡尔曼滤波(2)：线性卡尔曼滤波-gezp的文章-知乎](https://zhuanlan.zhihu.com/p/669330840)
+17. [卡尔曼滤波(3)：连续时间线性系统的离散化-gezp的文章-知乎](https://zhuanlan.zhihu.com/p/670192674)
+18. [卡尔曼滤波(4)：扩展卡尔曼滤波-gezp的文章-知乎](https://zhuanlan.zhihu.com/p/671410841)
+19. [卡尔曼滤波(5)：无迹卡尔曼滤波-gezp的文章-知乎](https://zhuanlan.zhihu.com/p/672668369)
+20. [简明ESKF推导-半闲居士的文章-知乎](https://zhuanlan.zhihu.com/p/441182819)
+21. [slam中基于滤波的方法的问题及如何调参?-半闲居士的回答-知乎](https://www.zhihu.com/question/601596796/answer/3127818634)
+22. [LIO中ESKF相关公式的详尽说明-xiaotaw的文章-知乎](https://zhuanlan.zhihu.com/p/538975422)
+23. [Computing Jacobian, why error state?——优化中为何对误差状态求导-邱笑晨的文章-知乎](https://zhuanlan.zhihu.com/p/75714471)
+24. [简单易懂(?)的误差状态卡尔曼滤波器(Error State Kalman Filter, ESKF)的原理与实现（一）原理简介-llo的文章-知乎](https://zhuanlan.zhihu.com/p/545370811)
+25. [简单易懂(?)的误差状态卡尔曼滤波器(Error State Kalman Filter, ESKF)的原理与实现（二）算法实现-llo的文章-知乎](https://zhuanlan.zhihu.com/p/545525697)
+26. [Error-State Kalman Filter理解与梗概推导-m米咔00的文章-知乎](https://zhuanlan.zhihu.com/p/359014822)
+27. [FAST-LIO论文解读与详细公式推导-铁马冰河入梦来的文章-知乎](https://zhuanlan.zhihu.com/p/587500859)
+28. [FAST-LIO公式推导-鬼木士的文章-知乎](https://zhuanlan.zhihu.com/p/561877392)
 
 ### GitHub
 
@@ -148,7 +191,10 @@ SLAM学习资料存档，包括SLAM基础理论、卡尔曼滤波、组合导航
 6. [武汉大学研究生组合导航课程合集【2022年春】](https://www.bilibili.com/video/BV1na411Z7rQ)
 7. [A Guide To using IMU (Accelerometer and Gyroscope Devices) in Embedded Applications-Starlino Electronics](http://www.starlino.com/imu_guide.html)
 8. [An introduction to inertial navigation](https://www.cl.cam.ac.uk/techreports/UCAM-CL-TR-696.pdf)
-9. [简明预积分推导-半闲居士的文章-知乎](https://zhuanlan.zhihu.com/p/388859808)
+9. [A Short Tutorial on Inertial Navigation System and Global Positioning System Integration](https://ntrs.nasa.gov/api/citations/20150018921/downloads/20150018921.pdf)
+10. [Introduction to Inertial Navigation](https://www.navlab.net/Publications/Introduction_to_Inertial_Navigation.pdf)
+11. [Introduction to Inertial Navigation and Kalman Filtering](https://www.navlab.net/Publications/Introduction_to_Inertial_Navigation_and_Kalman_Filtering.pdf)
+12. [简明预积分推导-半闲居士的文章-知乎](https://zhuanlan.zhihu.com/p/388859808)
 
 ### GitHub
 
@@ -183,14 +229,13 @@ SLAM学习资料存档，包括SLAM基础理论、卡尔曼滤波、组合导航
 
 ## 参考
 
-1. [《视觉SLAM学习过程所用资料总结》-行知SLAM的文章-知乎](https://zhuanlan.zhihu.com/p/259917664)
-2. [聊聊这两年学习slam啃过的书！-小凡的文章-知乎](https://zhuanlan.zhihu.com/p/293039582)
-3. [超全SLAM学习资源汇总-阿木实验室的文章-知乎](https://zhuanlan.zhihu.com/p/116769131)
-4. [SLAM相关学习资料：综述/激光/视觉/数据集/常用库-菠萝包包包的文章-知乎](https://zhuanlan.zhihu.com/p/434874344)
-5. [李群和李代数——名字听起来很猛其实也没那么复杂-菠萝包包包的文章-知乎](https://zhuanlan.zhihu.com/p/358455662)
-6. [Probabilistic Robotics](http://robots.stanford.edu/probabilistic-robotics/)
-7. [Tim Barfoot](http://asrl.utias.utoronto.ca/~tdb/)
-8. [Modern Robotics](http://hades.mech.northwestern.edu/index.php/Modern_Robotics)
-9. [硕士研究生阶段如何学习slam机器人？-Range的回答-知乎](https://www.zhihu.com/question/396119527/answer/1235876702)
-10. [工具网站推荐-欧拉角四元数在线可视化转化网站/三维在线旋转变换网站-CSDN博客](https://blog.csdn.net/hw140701/article/details/106255294)
-11. [严恭敏的个人主页](https://teacher.nwpu.edu.cn/yangongmin.html)
+1. [超全SLAM学习资源汇总-阿木实验室的文章-知乎](https://zhuanlan.zhihu.com/p/116769131)
+2. [SLAM相关学习资料：综述/激光/视觉/数据集/常用库-菠萝包包包的文章-知乎](https://zhuanlan.zhihu.com/p/434874344)
+3. [硕士研究生阶段如何学习slam机器人？-Range的回答-知乎](https://www.zhihu.com/question/396119527/answer/1235876702)
+4. [Probabilistic Robotics](http://robots.stanford.edu/probabilistic-robotics/)
+5. [Tim Barfoot](http://asrl.utias.utoronto.ca/~tdb/)
+6. [Modern Robotics](http://hades.mech.northwestern.edu/index.php/Modern_Robotics)
+7. [工科生学习微分几何和李群学习的建议？-Aurelian的回答-知乎](https://www.zhihu.com/question/29908951/answer/309969236)
+8. [Jean Gallier's Home Page for Books](https://www.cis.upenn.edu/~jean/gbooks/gbooks.html)
+9. [工具网站推荐-欧拉角四元数在线可视化转化网站/三维在线旋转变换网站-CSDN博客](https://blog.csdn.net/hw140701/article/details/106255294)
+10. [严恭敏的个人主页](https://teacher.nwpu.edu.cn/yangongmin.html)

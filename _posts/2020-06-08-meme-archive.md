@@ -147,6 +147,11 @@ Meme这个词最初源自英国著名科学家理查德·道金斯所著的《�
 2. [phoboslab/high_impact](https://github.com/phoboslab/high_impact)
 3. [js13kGames/resources](https://github.com/js13kGames/resources)
 
+#### 登月计划
+
+1. [chrislgarry/Apollo-11](https://github.com/chrislgarry/Apollo-11)
+2. [Virtual AGC Home Page](https://www.ibiblio.org/apollo/)
+
 ## 工具箱
 
 ### 合集
@@ -160,9 +165,10 @@ Meme这个词最初源自英国著名科学家理查德·道金斯所著的《�
 7. [Online Tools-RedKetchup](https://redketchup.io)
 8. [Online Tools-lddgo](https://www.lddgo.net/en/index)
 9. [在线工具](https://toolonline.net)
-10. [一个工具箱](http://www.atoolbox.net)
-11. [zhaoolee/ChromeAppHeroes](https://github.com/zhaoolee/ChromeAppHeroes)
-12. [zhaoolee/OnlineToolsBook](https://github.com/zhaoolee/OnlineToolsBook)
+10. [A.Tools](https://www.a.tools)
+11. [一个工具箱](http://www.atoolbox.net)
+12. [zhaoolee/ChromeAppHeroes](https://github.com/zhaoolee/ChromeAppHeroes)
+13. [zhaoolee/OnlineToolsBook](https://github.com/zhaoolee/OnlineToolsBook)
 
 ### 大模型
 
@@ -201,6 +207,13 @@ Meme这个词最初源自英国著名科学家理查德·道金斯所著的《�
 1. [PICUI图床](https://picui.cn)
 2. [IMG Table](https://imgtbl.com)
 3. [图壳](https://imgkr.com)
+
+### 数字图书馆
+
+1. [The Public's Library and Digital Archive](https://www.ibiblio.org)
+2. [Anna’s Archive](https://annas-archive.org)
+3. [Z-Library](https://z-library.sk)
+4. [Library Genesis](https://libgen.is)
 
 ## 生活
 
@@ -292,9 +305,11 @@ Meme这个词最初源自英国著名科学家理查德·道金斯所著的《�
 37. [红警代码竟然在GitHub上开源了！！！-GitHub Daily的文章-知乎](https://zhuanlan.zhihu.com/p/146383298)
 38. [js13kGames](https://js13kgames.com)
 39. [js13kGames 2022 winners](https://github.blog/2022-10-06-js13k-2022-winners/)
-40. [CorentinTh/it-tools](https://github.com/CorentinTh/it-tools)
-41. [未来已来？国内11家AI大模型盘点（附体验网址）-CSDN博客](https://blog.csdn.net/qq_51646682/article/details/136905451)
-42. [如何分析大型C++项目？-迷宫守望者的回答-知乎](https://www.zhihu.com/question/531050207/answer/3356560375)
-43. [很赞的两个高清壁纸网站：wallroom和wallhaven-帅小科的文章-知乎](https://zhuanlan.zhihu.com/p/376579457)
-44. [Ubuntu设置双屏显示长壁纸-码农家园](https://www.codenong.com/cs109695249/)
-45. [要命！《程序员延寿指南》火爆GitHub，日涨1500+星，跟着码农干多活20年-量子位的文章-知乎](https://zhuanlan.zhihu.com/p/502393797)
+40. [耗时三年，14万行，50年前阿波罗11号登月的全部代码都能在GitHub找到了！-数据汪的文章-知乎](https://zhuanlan.zhihu.com/p/74453787)
+41. [CorentinTh/it-tools](https://github.com/CorentinTh/it-tools)
+42. [runningcheese/Awesome-Zlibrary](https://github.com/runningcheese/Awesome-Zlibrary)
+43. [未来已来？国内11家AI大模型盘点（附体验网址）-CSDN博客](https://blog.csdn.net/qq_51646682/article/details/136905451)
+44. [如何分析大型C++项目？-迷宫守望者的回答-知乎](https://www.zhihu.com/question/531050207/answer/3356560375)
+45. [很赞的两个高清壁纸网站：wallroom和wallhaven-帅小科的文章-知乎](https://zhuanlan.zhihu.com/p/376579457)
+46. [Ubuntu设置双屏显示长壁纸-码农家园](https://www.codenong.com/cs109695249/)
+47. [要命！《程序员延寿指南》火爆GitHub，日涨1500+星，跟着码农干多活20年-量子位的文章-知乎](https://zhuanlan.zhihu.com/p/502393797)

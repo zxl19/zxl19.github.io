@@ -245,9 +245,10 @@ pinned: false
 
 #### 几何运算
 
-1. [davideberly/GeometricTools](https://github.com/davideberly/GeometricTools)
-2. [boostorg/geometry](https://github.com/boostorg/geometry)
-3. [sikang/DecompUtil](https://github.com/sikang/DecompUtil)
+1. [CGAL/cgal](https://github.com/CGAL/cgal)
+2. [davideberly/GeometricTools](https://github.com/davideberly/GeometricTools)
+3. [boostorg/geometry](https://github.com/boostorg/geometry)
+4. [sikang/DecompUtil](https://github.com/sikang/DecompUtil)
 
 #### 三角剖分
 

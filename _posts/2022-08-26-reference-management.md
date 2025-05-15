@@ -31,7 +31,8 @@ pinned: false
 8. [arXiv](https://arxiv.org)
 9. [Papers With Code](https://paperswithcode.com)
 10. [Sci-Hub](https://sci-hub.se)
-11. [Library Genesis](https://libgen.is)
+11. [Z-Library](https://z-library.sk)
+12. [Library Genesis](https://libgen.is)
 
 ## 文献管理软件
 
