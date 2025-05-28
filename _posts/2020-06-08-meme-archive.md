@@ -167,8 +167,10 @@ Meme这个词最初源自英国著名科学家理查德·道金斯所著的《�
 9. [在线工具](https://toolonline.net)
 10. [A.Tools](https://www.a.tools)
 11. [一个工具箱](http://www.atoolbox.net)
-12. [zhaoolee/ChromeAppHeroes](https://github.com/zhaoolee/ChromeAppHeroes)
-13. [zhaoolee/OnlineToolsBook](https://github.com/zhaoolee/OnlineToolsBook)
+12. [蛙蛙工具](https://www.iamwawa.cn)
+13. [GGO导航网](https://www.ggonav.com)
+14. [zhaoolee/ChromeAppHeroes](https://github.com/zhaoolee/ChromeAppHeroes)
+15. [zhaoolee/OnlineToolsBook](https://github.com/zhaoolee/OnlineToolsBook)
 
 ### 大模型
 
@@ -258,11 +260,12 @@ Meme这个词最初源自英国著名科学家理查德·道金斯所著的《�
 2. [kska32/ebooks](https://github.com/kska32/ebooks)
 3. [ruanyf/reading-list](https://github.com/ruanyf/reading-list)
 4. [jbiaojerry/ebook-treasure-chest](https://github.com/jbiaojerry/ebook-treasure-chest)
-5. [ixinzhi/wealth-books-2024](https://github.com/ixinzhi/wealth-books-2024)
-6. [ixinzhi/wealth-books-2023](https://github.com/ixinzhi/wealth-books-2023)
-7. [ixinzhi/wealth-books-2022](https://github.com/ixinzhi/wealth-books-2022)
-8. [ixinzhi/loving-books-2023](https://github.com/ixinzhi/loving-books-2023)
-9. [ixinzhi/loving-books-2022](https://github.com/ixinzhi/loving-books-2022)
+5. [yc-liu/readings](https://github.com/yc-liu/readings)
+6. [ixinzhi/wealth-books-2024](https://github.com/ixinzhi/wealth-books-2024)
+7. [ixinzhi/wealth-books-2023](https://github.com/ixinzhi/wealth-books-2023)
+8. [ixinzhi/wealth-books-2022](https://github.com/ixinzhi/wealth-books-2022)
+9. [ixinzhi/loving-books-2023](https://github.com/ixinzhi/loving-books-2023)
+10. [ixinzhi/loving-books-2022](https://github.com/ixinzhi/loving-books-2022)
 
 ## 参考
 

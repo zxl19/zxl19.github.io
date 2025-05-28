@@ -460,7 +460,8 @@ pip install，pip uninstall，拿起pip就是干！
 
 ## 分布式任务
 
-1. [celery/celery](https://github.com/celery/celery)
+1. [apache/airflow](https://github.com/apache/airflow)
+2. [celery/celery](https://github.com/celery/celery)
 
 ## 中文文本处理
 
