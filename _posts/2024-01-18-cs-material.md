@@ -79,10 +79,11 @@ pinned: false
 5. [菜鸟教程](https://www.runoob.com)
 6. [极客教程](https://geek-docs.com)
 7. [极客文档](https://geekdaxue.co)
-8. [Codecademy](https://www.codecademy.com)
-9. [GeeksforGeeks](https://www.geeksforgeeks.org)
-10. [W3Schools](https://www.w3schools.com)
-11. [W3Cschools](https://www.w3cschool.cn)
+8. [极客时间](https://time.geekbang.org)
+9. [Codecademy](https://www.codecademy.com)
+10. [GeeksforGeeks](https://www.geeksforgeeks.org)
+11. [W3Schools](https://www.w3schools.com)
+12. [W3Cschools](https://www.w3cschool.cn)
 
 ## 参考
 

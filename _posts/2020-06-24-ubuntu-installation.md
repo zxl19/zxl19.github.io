@@ -13,6 +13,11 @@ pinned: false
 
 <!-- more -->
 
+## Ubuntu Hello World
+
+1. Linux是Linus Torvalds开发的类Unix（Unix-like）系统，以Linux内核（kernel）为基础；
+2. Ubuntu是Linux发行版的一种；
+
 ## 下载Ubuntu系统镜像文件
 
 从[官网](https://ubuntu.com/download)下载Ubuntu系统镜像文件`ubuntu-16.04.6-desktop-amd64.iso`，更早版本可在[此处](https://ubuntu.com/download/alternative-downloads)找到。
@@ -138,12 +143,16 @@ sudo service network-manager restart
 
 ## 参考
 
-1. [Ubuntu downloads](https://ubuntu.com/download)
-2. [Alternative downloads](https://ubuntu.com/download/alternative-downloads)
-3. [Rufus](https://rufus.ie/zh/)
-4. [清华大学开源软件镜像站](https://mirrors.tuna.tsinghua.edu.cn)
-5. [如何解决U盘装系统后磁盘总容量变小？-百度经验](https://jingyan.baidu.com/article/59703552e754e48fc00740ed.html)
-6. [重装Ubuntu时如何保留/home分区中的数据-博客园](https://www.cnblogs.com/maowang1991/p/3270441.html)
-7. [Ubuntu下~/.bashrc文件的恢复方法-CSDN博客](https://blog.csdn.net/yucicheung/article/details/79334998)
-8. [无法联网-CSDN博客](https://blog.csdn.net/nickdada/article/details/118152182)
-9. [重启网络服务-Stack Exchange](https://askubuntu.com/questions/230698/how-to-restart-the-networking-service)
+1. [Difference between Unix and Linux-GeeksforGeeks](https://www.geeksforgeeks.org/linux-vs-unix/)
+2. [Linux下载-Linux中国](https://linux.net.cn/article-4130-1.html)
+3. [那张流行的关于Linux版本的图的出处-何其幸运的文章-知乎](https://zhuanlan.zhihu.com/p/1910763315426231504)
+4. [FabioLolix/LinuxTimeline](https://github.com/FabioLolix/LinuxTimeline)
+5. [Ubuntu downloads](https://ubuntu.com/download)
+6. [Alternative downloads](https://ubuntu.com/download/alternative-downloads)
+7. [Rufus](https://rufus.ie/zh/)
+8. [清华大学开源软件镜像站](https://mirrors.tuna.tsinghua.edu.cn)
+9. [如何解决U盘装系统后磁盘总容量变小？-百度经验](https://jingyan.baidu.com/article/59703552e754e48fc00740ed.html)
+10. [重装Ubuntu时如何保留/home分区中的数据-博客园](https://www.cnblogs.com/maowang1991/p/3270441.html)
+11. [Ubuntu下~/.bashrc文件的恢复方法-CSDN博客](https://blog.csdn.net/yucicheung/article/details/79334998)
+12. [无法联网-CSDN博客](https://blog.csdn.net/nickdada/article/details/118152182)
+13. [重启网络服务-Stack Exchange](https://askubuntu.com/questions/230698/how-to-restart-the-networking-service)

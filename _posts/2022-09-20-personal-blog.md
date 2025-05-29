@@ -55,8 +55,9 @@ pinned: false
 1. [一维度](https://www.fengerzh.com)
 2. [酷壳](https://coolshell.cn)
 3. [阮一峰的个人网站](https://www.ruanyifeng.com)
-4. [奔跑中的奶酪](https://www.runningcheese.com)
-5. [Web Mechanic](https://www.softouch.on.ca)
+4. [标点符](https://www.biaodianfu.com)
+5. [奔跑中的奶酪](https://www.runningcheese.com)
+6. [Web Mechanic](https://www.softouch.on.ca)
 
 #### 生活随笔
 

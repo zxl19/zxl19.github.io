@@ -249,6 +249,10 @@ The main repository serves as a curated list of awesome lists.
 
 1. [ad-si/awesome-3d-printing](https://github.com/ad-si/awesome-3d-printing)
 
+## 电子书
+
+1. [runningcheese/Awesome-Zlibrary](https://github.com/runningcheese/Awesome-Zlibrary)
+
 ## 参考
 
 1. [Awesome Lists](https://github.com/topics/awesome)

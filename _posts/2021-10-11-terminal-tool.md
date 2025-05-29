@@ -177,9 +177,10 @@ pinned: false
 3. [flamegraph.pl](https://github.com/brendangregg/FlameGraph)
 4. [google/sanitizers](https://github.com/google/sanitizers)
 5. [KDAB/hotspot](https://github.com/KDAB/hotspot)
-6. [KDE/heaptrack](https://github.com/KDE/heaptrack)
-7. [xiw/stack](https://github.com/xiw/stack)
-8. [intel/iaprof](https://github.com/intel/iaprof)
+6. [parca-dev/parca](https://github.com/parca-dev/parca)
+7. [KDE/heaptrack](https://github.com/KDE/heaptrack)
+8. [xiw/stack](https://github.com/xiw/stack)
+9. [intel/iaprof](https://github.com/intel/iaprof)
 
 ### 调试界面美化
 
@@ -206,7 +207,8 @@ pinned: false
 ## 信息收集
 
 1. [sherlock](https://github.com/sherlock-project/sherlock)
-2. [iliane5/meridian](https://github.com/iliane5/meridian)
+2. [searxng/searxng](https://github.com/searxng/searxng)
+3. [iliane5/meridian](https://github.com/iliane5/meridian)
 
 ## 彩蛋和游戏
 

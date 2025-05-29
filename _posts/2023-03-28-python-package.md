@@ -321,9 +321,17 @@ pip install，pip uninstall，拿起pip就是干！
 ### 性能分析
 
 1. [timeit](https://docs.python.org/3/library/timeit.html)
-2. [gaogaotiantian/viztracer](https://github.com/gaogaotiantian/viztracer)
-3. [sumerc/yappi](https://github.com/sumerc/yappi)
-4. [cpcloud/ipython-autotime](https://github.com/cpcloud/ipython-autotime)
+2. [bloomberg/memray](https://github.com/bloomberg/memray)
+3. [benfred/py-spy](https://github.com/benfred/py-spy)
+4. [ydataai/ydata-profiling](https://github.com/ydataai/ydata-profiling)
+5. [plasma-umass/scalene](https://github.com/plasma-umass/scalene)
+6. [grafana/pyroscope](https://github.com/grafana/pyroscope)
+7. [joerick/pyinstrument](https://github.com/joerick/pyinstrument)
+8. [gaogaotiantian/viztracer](https://github.com/gaogaotiantian/viztracer)
+9. [pythonprofilers/memory_profiler](https://github.com/pythonprofilers/memory_profiler)
+10. [pyutils/line_profiler](https://github.com/pyutils/line_profiler)
+11. [sumerc/yappi](https://github.com/sumerc/yappi)
+12. [cpcloud/ipython-autotime](https://github.com/cpcloud/ipython-autotime)
 
 ## 图像处理
 
