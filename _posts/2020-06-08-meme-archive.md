@@ -81,8 +81,8 @@ Meme这个词最初源自英国著名科学家理查德·道金斯所著的《�
 
 1. [kelseyhightower/nocode](https://github.com/kelseyhightower/nocode)
 2. [wenyan-lang/wenyan](https://github.com/wenyan-lang/wenyan)
-3. [zhanyong-wan/dongbei](https://github.com/zhanyong-wan/dongbei)
-4. [duo001/evil.js](https://github.com/duo001/evil.js)
+3. [duo001/evil.js](https://github.com/duo001/evil.js)
+4. [zhanyong-wan/dongbei](https://github.com/zhanyong-wan/dongbei)
 5. [StepfenShawn/Cantonese](https://github.com/StepfenShawn/Cantonese)
 6. [Rick-Lang/rickroll-lang](https://github.com/Rick-Lang/rickroll-lang)
 7. [HexHive/printbf](https://github.com/HexHive/printbf)
@@ -91,8 +91,8 @@ Meme这个词最初源自英国著名科学家理查德·道金斯所著的《�
 10. [pocmo/Python-Brainfuck](https://github.com/pocmo/Python-Brainfuck)
 11. [CarbonicX/HyperFuck](https://github.com/CarbonicX/HyperFuck)
 12. [SAOKnight/helang](https://github.com/SAOKnight/helang)
-13. [Timothy-Liuxf/HeLangCppMetaImpl](https://github.com/Timothy-Liuxf/HeLangCppMetaImpl)
-14. [kifuan/helang](https://github.com/kifuan/helang)
+13. [Romejanic/Whitespace](https://github.com/Romejanic/Whitespace)
+14. [Timothy-Liuxf/HeLangCppMetaImpl](https://github.com/Timothy-Liuxf/HeLangCppMetaImpl)
 
 ## 游戏
 

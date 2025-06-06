@@ -306,6 +306,7 @@ pip install，pip uninstall，拿起pip就是干！
 10. [nucleic/enaml](https://github.com/nucleic/enaml)
 11. [UmSenhorQualquer/pyforms](https://github.com/UmSenhorQualquer/pyforms)
 12. [fcollonval/matplotlib_qtquick_playground](https://github.com/fcollonval/matplotlib_qtquick_playground)
+13. [idevloping/PyQt5_Matplotlib](https://github.com/idevloping/PyQt5_Matplotlib)
 
 ## 调试工具
 
@@ -368,6 +369,14 @@ pip install，pip uninstall，拿起pip就是干！
 3. [pycaret/pycaret](https://github.com/pycaret/pycaret)
 4. [catboost/catboost](https://github.com/catboost/catboost)
 5. [karpathy/micrograd](https://github.com/karpathy/micrograd)
+
+### 贝叶斯网络
+
+1. [pymc-devs/pymc](https://github.com/pymc-devs/pymc)
+2. [jmschrei/pomegranate](https://github.com/jmschrei/pomegranate)
+3. [pgmpy/pgmpy](https://github.com/pgmpy/pgmpy)
+4. [erdogant/bnlearn](https://github.com/erdogant/bnlearn)
+5. [MaxHalford/sorobn](https://github.com/MaxHalford/sorobn)
 
 ### 自然语言处理
 
