@@ -199,11 +199,12 @@ SLAM学习资料存档，包括SLAM基础理论、卡尔曼滤波、组合导航
 ### GitHub
 
 1. [LiZhengXiao99/Navigation-Learning](https://github.com/LiZhengXiao99/Navigation-Learning)
-2. [benzenemo/TightlyCoupledINSGNSS](https://github.com/benzenemo/TightlyCoupledINSGNSS)
-3. [yandld/nav_matlab](https://github.com/yandld/nav_matlab)
-4. [i2Nav-WHU/Wheel-SLAM](https://github.com/i2Nav-WHU/Wheel-SLAM)
-5. [yuzhou42/GPS-INS-Integrated-Navigation](https://github.com/yuzhou42/GPS-INS-Integrated-Navigation)
-6. [jayoungo/SINS-GPS-Integrated-Navigation](https://github.com/jayoungo/SINS-GPS-Integrated-Navigation)
+2. [rodralez/NaveGo](https://github.com/rodralez/NaveGo)
+3. [benzenemo/TightlyCoupledINSGNSS](https://github.com/benzenemo/TightlyCoupledINSGNSS)
+4. [yandld/nav_matlab](https://github.com/yandld/nav_matlab)
+5. [i2Nav-WHU/Wheel-SLAM](https://github.com/i2Nav-WHU/Wheel-SLAM)
+6. [yuzhou42/GPS-INS-Integrated-Navigation](https://github.com/yuzhou42/GPS-INS-Integrated-Navigation)
+7. [jayoungo/SINS-GPS-Integrated-Navigation](https://github.com/jayoungo/SINS-GPS-Integrated-Navigation)
 
 ## 自动驾驶
 
@@ -239,3 +240,4 @@ SLAM学习资料存档，包括SLAM基础理论、卡尔曼滤波、组合导航
 8. [Jean Gallier's Home Page for Books](https://www.cis.upenn.edu/~jean/gbooks/gbooks.html)
 9. [工具网站推荐-欧拉角四元数在线可视化转化网站/三维在线旋转变换网站-CSDN博客](https://blog.csdn.net/hw140701/article/details/106255294)
 10. [严恭敏的个人主页](https://teacher.nwpu.edu.cn/yangongmin.html)
+11. [组合导航-开源工程推荐-郭洋的文章-知乎](https://zhuanlan.zhihu.com/p/640781392)

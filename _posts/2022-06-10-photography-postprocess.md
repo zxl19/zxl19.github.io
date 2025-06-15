@@ -31,9 +31,9 @@ RawTherapee是一款开源、跨平台的免费图像处理软件。
 4. [Rawtherapee中文教程1：认识界面与基本设置](https://www.bilibili.com/video/BV1QA411P7Uy)
 5. [RawTherapee中文教程2：解raw算法](https://www.bilibili.com/video/BV1g64y1e76a)
 
-### Luminar
+### Luminar Neo
 
-Luminar是一款使用人工智能技术的图像处理软件，操作相对简单，适合人像后期。
+Luminar Neo是一款使用人工智能技术的图像处理软件，操作相对简单，适合人像后期。
 
 #### 教程
 

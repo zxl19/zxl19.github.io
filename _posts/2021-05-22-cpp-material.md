@@ -129,6 +129,7 @@ C++学习资料存档。
 2. [Google开源项目风格指南-C++](https://zh-google-styleguide.readthedocs.io/en/latest/google-cpp-styleguide/contents/)
 3. [C++ Core Guidelines](https://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines.html)
 4. [ROS C++ Style Guide-ROS Wiki](http://wiki.ros.org/CppStyleGuide)
+5. [PCL C++ Programming Style Guide](https://pcl.readthedocs.io/en/latest/pcl_style_guide.html)
 
 ### 在线工具
 

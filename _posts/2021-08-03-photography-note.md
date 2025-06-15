@@ -113,18 +113,19 @@ pinned: false
 
 ##### 付费软件
 
-1. Capture One
-2. Lightroom
-3. Luminar
-4. Photoshop
-5. Affinity
+1. [Capture One](https://www.captureone.com)
+2. [Lightroom](https://lightroom.adobe.com)
+3. [Luminar Neo](https://skylum.com)
+4. [DXO](https://www.dxo.com)
+5. [Photoshop](https://www.adobe.com/products/photoshop.html)
+6. [Affinity](https://affinity.serif.com)
 
 ##### 开源软件
 
-1. GIMP
-2. Darktable
-3. RawTherapee
-4. Filmulator
+1. [GIMP](https://www.gimp.org)
+2. [Darktable](https://www.darktable.org)
+3. [RawTherapee](https://rawtherapee.com)
+4. [Filmulator](https://filmulator.org)
 
 ##### 在线处理
 
@@ -223,11 +224,12 @@ pinned: false
 6. [满足日常需求的应用（三）：图像编辑器丨Linux中国-Linux中国的文章-知乎](https://zhuanlan.zhihu.com/p/407938013)
 7. [Linux上有哪些好用的绘图工具？-亿图图示的回答-知乎](https://www.zhihu.com/question/445559611/answer/1759893444)
 8. [在Linux命令行上编辑照片的4种方法丨Linux中国-Linux中国的文章-知乎](https://zhuanlan.zhihu.com/p/430719348)
-9. [DPReview.com to close-DPReview](https://www.dpreview.com/news/5901145460/dpreview-com-to-close)
-10. [Digicam Finder is a New Resource That Replaces DPReview’s Camera Library-PetaPixel](https://petapixel.com/2023/04/03/digicam-finder-is-a-new-resource-that-replaces-dpreviews-camera-library/)
-11. [【DPReview】再见了，所有的DPReview-bilibili](https://www.bilibili.com/video/BV1ZM411N7EP)
-12. [【DPReview】我们最喜欢的DPReview TV时刻（用玩偶重现！）-bilibili](https://www.bilibili.com/video/BV1Ks4y1P7JA)
-13. [【DPReview】胡子哥和乔丹在DPReview的这几年测评过的最喜欢的5款摄影器材-bilibili](https://www.bilibili.com/video/BV1HT411p7uE)
-14. [20000元1张纸，这是什么？-bilibili](https://www.bilibili.com/video/BV1SVk4YTEva)
-15. [各大相机公司推出恒定F4的小三元镜头的目的是什么？非大光圈的恒定光圈意义体现在哪里？-知乎用户的回答-知乎](https://www.zhihu.com/question/34306403/answer/2654034347)
-16. [jherr/depth-of-field](https://github.com/jherr/depth-of-field)
+9. [Filmulator：一个简单的、开源的Raw图像编辑器丨Linux中国-Linux中国的文章-知乎](https://zhuanlan.zhihu.com/p/350803009)
+10. [DPReview.com to close-DPReview](https://www.dpreview.com/news/5901145460/dpreview-com-to-close)
+11. [Digicam Finder is a New Resource That Replaces DPReview’s Camera Library-PetaPixel](https://petapixel.com/2023/04/03/digicam-finder-is-a-new-resource-that-replaces-dpreviews-camera-library/)
+12. [【DPReview】再见了，所有的DPReview-bilibili](https://www.bilibili.com/video/BV1ZM411N7EP)
+13. [【DPReview】我们最喜欢的DPReview TV时刻（用玩偶重现！）-bilibili](https://www.bilibili.com/video/BV1Ks4y1P7JA)
+14. [【DPReview】胡子哥和乔丹在DPReview的这几年测评过的最喜欢的5款摄影器材-bilibili](https://www.bilibili.com/video/BV1HT411p7uE)
+15. [20000元1张纸，这是什么？-bilibili](https://www.bilibili.com/video/BV1SVk4YTEva)
+16. [各大相机公司推出恒定F4的小三元镜头的目的是什么？非大光圈的恒定光圈意义体现在哪里？-知乎用户的回答-知乎](https://www.zhihu.com/question/34306403/answer/2654034347)
+17. [jherr/depth-of-field](https://github.com/jherr/depth-of-field)
