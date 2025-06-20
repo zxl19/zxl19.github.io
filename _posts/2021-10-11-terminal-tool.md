@@ -175,12 +175,14 @@ pinned: false
 1. [gdb](https://sourceware.org/gdb/)
 2. [valgrind](https://valgrind.org)
 3. [flamegraph.pl](https://github.com/brendangregg/FlameGraph)
-4. [google/sanitizers](https://github.com/google/sanitizers)
-5. [KDAB/hotspot](https://github.com/KDAB/hotspot)
-6. [parca-dev/parca](https://github.com/parca-dev/parca)
-7. [KDE/heaptrack](https://github.com/KDE/heaptrack)
-8. [xiw/stack](https://github.com/xiw/stack)
-9. [intel/iaprof](https://github.com/intel/iaprof)
+4. [iovisor/bcc](https://github.com/iovisor/bcc)
+5. [google/sanitizers](https://github.com/google/sanitizers)
+6. [brendangregg/perf-tools](https://github.com/brendangregg/perf-tools)
+7. [KDAB/hotspot](https://github.com/KDAB/hotspot)
+8. [parca-dev/parca](https://github.com/parca-dev/parca)
+9. [KDE/heaptrack](https://github.com/KDE/heaptrack)
+10. [xiw/stack](https://github.com/xiw/stack)
+11. [intel/iaprof](https://github.com/intel/iaprof)
 
 ### 调试界面美化
 

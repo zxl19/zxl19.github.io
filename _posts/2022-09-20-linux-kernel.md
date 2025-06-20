@@ -41,7 +41,7 @@ pinned: false
 
 ## 卸载系统内核
 
-1. 查看与需要卸载版本的系统内核相关的安装包，以`5.4.0-64-generic`为例：
+1. 查看与需要卸载版本的系统内核相关的安装包，以`5.4.0-125-generic`为例：
 
     ```shell
     sudo dpkg --get-selections | grep 5.4.0-125
