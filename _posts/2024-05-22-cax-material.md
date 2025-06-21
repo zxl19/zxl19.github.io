@@ -78,6 +78,14 @@ pinned: false
 
 #### 模型
 
+##### 网站
+
+1. [MakerWorld](https://makerworld.com)
+2. [Thingiverse](https://www.thingiverse.com)
+3. [Printables](https://www.printables.com)
+
+##### GitHub
+
 1. [nasa/NASA-3D-Resources](https://github.com/nasa/NASA-3D-Resources)
 2. [gklyne/things](https://github.com/gklyne/things)
 3. [jasminemoreira/3D_printing](https://github.com/jasminemoreira/3D_printing)
@@ -89,3 +97,4 @@ pinned: false
 3. [cnr-isti-vclab/meshlab](https://github.com/cnr-isti-vclab/meshlab)
 4. [Ultimaker/Cura](https://github.com/Ultimaker/Cura)
 5. [MeshInspector/MeshInspector](https://github.com/MeshInspector/MeshInspector)
+6. [公司用上3D打印之后…-bilibili](https://www.bilibili.com/video/BV17DKAzqEWm)
