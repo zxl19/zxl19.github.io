@@ -379,6 +379,15 @@ pinned: false
 12. [VcDevel/std-simd](https://github.com/VcDevel/std-simd)
 13. [frozenca/BTree](https://github.com/frozenca/BTree)
 
+## 哈希函数
+
+1. [rurban/smhasher](https://github.com/rurban/smhasher)
+2. [google/highwayhash](https://github.com/google/highwayhash)
+3. [jandrewrogers/MetroHash](https://github.com/jandrewrogers/MetroHash)
+4. [rizkg/BBHash](https://github.com/rizkg/BBHash)
+5. [avaneev/komihash](https://github.com/avaneev/komihash)
+6. [jermp/pthash](https://github.com/jermp/pthash)
+
 ## Python绑定
 
 1. [pybind/pybind11](https://github.com/pybind/pybind11)

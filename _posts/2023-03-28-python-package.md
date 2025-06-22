@@ -549,7 +549,9 @@ pip install，pip uninstall，拿起pip就是干！
 
 ### CAD
 
-1. [evereux/pycatia](https://github.com/evereux/pycatia)
+1. [SolidCode/SolidPython](https://github.com/SolidCode/SolidPython)
+2. [jeff-dh/SolidPython](https://github.com/jeff-dh/SolidPython)
+3. [evereux/pycatia](https://github.com/evereux/pycatia)
 
 ### CAE
 
