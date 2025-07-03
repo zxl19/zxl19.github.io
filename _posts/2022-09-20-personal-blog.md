@@ -102,12 +102,13 @@ pinned: false
 
 ### 深度学习相关
 
-1. [Code Yarns](https://codeyarns.com)
-2. [Lei Mao's Log Book](https://leimao.github.io)
-3. [Jeremy Feng](https://fengchao.pro)
-4. [MartinLwx](https://martinlwx.github.io)
-5. [Joey's Blog](https://www.fangjin.site)
-6. [Mostafa Samir](https://mostafa-samir.github.io)
+1. [谭升的博客](https://face2ai.com)
+2. [Code Yarns](https://codeyarns.com)
+3. [Lei Mao's Log Book](https://leimao.github.io)
+4. [Jeremy Feng](https://fengchao.pro)
+5. [MartinLwx](https://martinlwx.github.io)
+6. [Joey's Blog](https://www.fangjin.site)
+7. [Mostafa Samir](https://mostafa-samir.github.io)
 
 ### 算法相关
 

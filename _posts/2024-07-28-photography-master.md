@@ -51,4 +51,4 @@ pinned: false
 ## 参考
 
 1. [摄影的原点！Nikon Zf评测丨Links TV-bilibili](https://www.bilibili.com/video/BV1Rp4y1c79x)
-2. [【教员/嗵嗵】“来狂欢吧狂欢吧，永远不下坠”-bilibili](https://www.bilibili.com/video/BV1aDNveWE7L)
+2. [【教员】“来狂欢吧狂欢吧，永远不下坠”-bilibili](https://www.bilibili.com/video/BV1aDNveWE7L)

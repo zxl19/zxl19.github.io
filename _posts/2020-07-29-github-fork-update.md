@@ -13,7 +13,7 @@ pinned: false
 
 <!-- more -->
 
-## 操作步骤
+## 网站操作
 
 ### 方法一
 
@@ -29,7 +29,7 @@ pinned: false
 1. 点击`Sync fork`，自动检查冲突项；
 2. 点击`Update branch`，完成合并；
 
-## 注意事项
+### 注意事项
 
 在发生冲突无法合并的时候，需要按照说明通过命令行进行手动合并。
 
@@ -73,6 +73,15 @@ pinned: false
     git merge --no-ff <new branch name>
     git push origin master
     ```
+
+## 命令行操作
+
+```shell
+git fetch upstream
+git checkout master
+git merge upstream/master
+git push origin master
+```
 
 ## 参考
 
