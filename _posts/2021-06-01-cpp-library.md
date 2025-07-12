@@ -26,6 +26,10 @@ pinned: false
 2. [xmake-io/xmake](https://github.com/xmake-io/xmake)
 3. [zdzhaoyong/PICMake](https://github.com/zdzhaoyong/PICMake)
 
+## 链接工具
+
+1. [rui314/mold](https://github.com/rui314/mold)
+
 ## 开发框架
 
 1. [cpp-main/cpp-tbox](https://github.com/cpp-main/cpp-tbox)

@@ -78,3 +78,4 @@ valgrind [valgrind-options] [your-program] [your-program-options]
 5. [Linux性能分析valgrind（二）之callgrind使用-Xin Lee的文章-知乎](https://zhuanlan.zhihu.com/p/92082070)
 6. [Linux性能分析valgrind（三）之DRD（死锁分析利器）-Xin Lee的文章-知乎](https://zhuanlan.zhihu.com/p/92098107)
 7. [大型C++项目如何检测内存泄漏？-玩转Linux内核的回答-知乎](https://www.zhihu.com/question/382668081/answer/3154728722)
+8. [Valgrind：Memcheck参数详解-CSDN博客](https://blog.csdn.net/weixin_45318758/article/details/96391449)

@@ -67,6 +67,7 @@ C++学习资料存档。
 
 1. [parallel101/course](https://github.com/parallel101/course)
 2. [realYurkOfGitHub/translation-Introduction-to-HPC](https://github.com/realYurkOfGitHub/translation-Introduction-to-HPC)
+3. [LLNL/HPC-Tutorials](https://github.com/LLNL/HPC-Tutorials)
 
 ### 并发
 

@@ -114,16 +114,29 @@ pinned: false
 
 1. vim
 2. [neovim](https://github.com/neovim/neovim)
-3. [SpaceVim](https://github.com/SpaceVim/SpaceVim)
+3. [SpaceVim](https://github.com/wsdjeg/SpaceVim)
 
 ## 终端
 
+### 命令行解释器
+
 1. [Zsh](https://zsh.sourceforge.io)
 2. [Oh My Zsh](https://github.com/ohmyzsh/ohmyzsh)
-3. [tmux](https://github.com/tmux/tmux)
-4. [GitSquared/edex-ui](https://github.com/GitSquared/edex-ui)
-5. [kitty](https://github.com/kovidgoyal/kitty)
-6. [terminator](https://github.com/gnome-terminator/terminator)
+
+### 终端模拟器
+
+1. [terminator](https://github.com/gnome-terminator/terminator)
+2. [alacritty/alacritty](https://github.com/alacritty/alacritty)
+3. [GitSquared/edex-ui](https://github.com/GitSquared/edex-ui)
+4. [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty)
+5. [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty)
+6. [Swordfish90/cool-retro-term](https://github.com/Swordfish90/cool-retro-term)
+
+### 终端复用器
+
+1. [tmux](https://github.com/tmux/tmux)
+2. [wezterm/wezterm](https://github.com/wezterm/wezterm)
+3. [dustinkirkland/byobu](https://github.com/dustinkirkland/byobu)
 
 ## 代码质量
 
