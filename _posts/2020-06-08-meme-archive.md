@@ -52,6 +52,7 @@ Meme这个词最初源自英国著名科学家理查德·道金斯所著的《�
 
 1. [vietnh1009/ASCII-generator](https://github.com/vietnh1009/ASCII-generator)
 2. [ArthurSonzogni/Diagon](https://github.com/ArthurSonzogni/Diagon)
+3. [BEPb/image_to_ascii](https://github.com/BEPb/image_to_ascii)
 
 ### 大模型
 

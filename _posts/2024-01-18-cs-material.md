@@ -66,6 +66,20 @@ pinned: false
 11. [Trinkle23897/THU-CST-Cracker](https://github.com/Trinkle23897/THU-CST-Cracker)
 12. [15172658790/Blog](https://github.com/15172658790/Blog)
 
+## 编译原理
+
+1. [DoctorWkt/acwj](https://github.com/DoctorWkt/acwj)
+2. [lotabout/write-a-C-interpreter](https://github.com/lotabout/write-a-C-interpreter)
+3. [手把手教你做一个C语言编译器](https://wizardforcel.gitbooks.io/diy-c-compiler/content/)
+4. [北大编译实践在线文档](https://pku-minic.github.io/online-doc/#/)
+
+## 编译器
+
+1. [jamiebuilds/the-super-tiny-compiler](https://github.com/jamiebuilds/the-super-tiny-compiler)
+2. [rui314/chibicc](https://github.com/rui314/chibicc)
+3. [rui314/8cc](https://github.com/rui314/8cc)
+4. [wgtdkp/wgtcc](https://github.com/wgtdkp/wgtcc)
+
 ## 硬件模拟
 
 1. [mamedev/mame](https://github.com/mamedev/mame)
@@ -94,4 +108,7 @@ pinned: false
 3. [如何找合适的C++项目给自己的简历加分？-ThomasVortex的回答-知乎](https://www.zhihu.com/question/280881677/answer/3152587125)
 4. [GitHub开源计算机课程攻略yyds-逛逛GitHub的文章-知乎](https://zhuanlan.zhihu.com/p/447898788)
 5. [如何看待《上海交通大学生存手册》这本小册子？-zweix的回答-知乎](https://www.zhihu.com/question/23633140/answer/2247825107)
-6. [程序员，上班没事做该怎么办？-华为云开发者联盟的回答-知乎](https://www.zhihu.com/question/621194172/answer/3217337311)
+6. [【教程】从零开始，写个编译器！-Max Xing的文章-知乎](https://zhuanlan.zhihu.com/p/471250907)
+7. [如何写一个简单的编译器？-HelloGitHub的回答-知乎](https://www.zhihu.com/question/36756224/answer/2504197722)
+8. [如何写一个简单的编译器？-wgtsam的回答-知乎](https://www.zhihu.com/question/36756224/answer/122676534)
+9. [程序员，上班没事做该怎么办？-华为云开发者联盟的回答-知乎](https://www.zhihu.com/question/621194172/answer/3217337311)
