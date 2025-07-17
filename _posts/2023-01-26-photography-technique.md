@@ -82,7 +82,7 @@ pinned: false
 
 常用于提高前景亮度，同时提高快门速度降低背景亮度，实现特殊的视觉效果。
 
-1. [从零学用光](https://space.bilibili.com/110683415/channel/collectiondetail?sid=262445)
+1. [从零学用光](https://space.bilibili.com/110683415/lists/262445)
 2. [新手使用机顶闪光灯常见问题答疑（一）丨建议收藏](https://www.bilibili.com/video/BV1VN4y1R77w)
 3. [干货收藏-新手使用机顶闪光灯常见问题答疑（二）](https://www.bilibili.com/video/BV1Gw4m1X7xA)
 4. [新中式人像拍摄技巧丨闪光灯与自然光的巧妙结合](https://www.bilibili.com/video/BV1XA411U7mr)

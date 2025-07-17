@@ -112,8 +112,9 @@ C++学习资料存档。
 
 1. [Stroustrup: C++](https://www.stroustrup.com/C++.html)
 2. [C++教程-菜鸟教程](https://www.runoob.com/cplusplus/cpp-tutorial.html)
-3. [C语言中文网](http://c.biancheng.net)
-4. [C++ Tutorial-W3Schools](https://www.w3schools.com/cpp/default.asp)
+3. [C语言中文网](https://c.biancheng.net)
+4. [C语言丨C++中文网](https://c-cpp.com)
+5. [C++ Tutorial-W3Schools](https://www.w3schools.com/cpp/default.asp)
 
 ### 语法查询
 

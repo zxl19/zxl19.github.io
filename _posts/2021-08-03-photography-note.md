@@ -29,7 +29,7 @@ pinned: false
 4. [【科普】快门速度怎么调？这个视频带你彻底认识相机快门！](https://www.bilibili.com/video/BV13Y411f7Wv)
 5. [【科普】光圈究竟影响什么？一个视频解答你对光圈所有疑问！](https://www.bilibili.com/video/BV18v4y167Eb)
 6. [【科普】ISO到底是什么？这个视频重构你对ISO的认知！](https://www.bilibili.com/video/BV1n24y1s7wM)
-7. [旅行摄影101](https://space.bilibili.com/84480709/channel/collectiondetail?sid=1243116)
+7. [旅行摄影101](https://space.bilibili.com/84480709/lists/1243116)
 8. [新手如何系统性地学习摄影？-爱摄影的郭同学的回答-知乎](https://www.zhihu.com/question/36095338/answer/968639013)
 9. [新手如何系统性地学习摄影？-500px摄影社区的回答-知乎](https://www.zhihu.com/question/36095338/answer/2051012517)
 10. [如何理解ISO、快门、光圈、曝光这几个概念？-王波的回答-知乎](https://www.zhihu.com/question/21427664/answer/40346193)
