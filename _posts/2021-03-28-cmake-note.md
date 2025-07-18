@@ -768,8 +768,8 @@ endif()
 4. [CMake 3.25 中文-Runebooks.dev](https://runebook.dev/zh-CN/docs/cmake/-index-)
 5. [CMake菜谱（CMake Cookbook中文版）](https://www.bookstack.cn/books/CMake-Cookbook)
 6. [cmake使用教程](https://juejin.cn/post/6844903557183832078)
-7. [基于VSCode和CMake实现C/C++开发丨Linux篇](https://www.bilibili.com/video/BV1fy4y1b7TC)
-8. [Cmake的应用与实践](https://www.bilibili.com/video/BV17J411m7o1)
+7. [基于VSCode和CMake实现C/C++开发丨Linux篇](https://www.bilibili.com/video/BV1fy4y1b7TC/)
+8. [Cmake的应用与实践](https://www.bilibili.com/video/BV17J411m7o1/)
 
 ### GitHub
 

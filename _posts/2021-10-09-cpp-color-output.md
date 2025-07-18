@@ -192,4 +192,3 @@ int main() {
 2. [文字和底纹颜色2-Stack Overflow](https://stackoverflow.com/questions/9158150/colored-output-in-c/9158263)
 3. [ANSI escape code-Wikipedia](https://en.wikipedia.org/wiki/ANSI_escape_code)
 4. [fmtlib/fmt](https://github.com/fmtlib/fmt)
-5. [wakanapo/TextColoring](https://github.com/wakanapo/TextColoring)

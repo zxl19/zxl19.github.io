@@ -17,8 +17,8 @@ pinned: false
 
 1. [Documentation-ROS Wiki](https://wiki.ros.org)
 2. [ROS C++ Style Guide-ROS Wiki](http://wiki.ros.org/CppStyleGuide)
-3. [【古月居】古月·ROS入门21讲丨一学就会的ROS机器人入门教程](https://www.bilibili.com/video/BV1zt411G7Vn)
-4. [中科院软件所-机器人操作系统入门（ROS入门教程）](https://www.bilibili.com/video/BV1mJ411R7Ni)
+3. [【古月居】古月·ROS入门21讲丨一学就会的ROS机器人入门教程](https://www.bilibili.com/video/BV1zt411G7Vn/)
+4. [中科院软件所-机器人操作系统入门（ROS入门教程）](https://www.bilibili.com/video/BV1mJ411R7Ni/)
 5. [机器人操作系统入门](https://www.icourse163.org/course/ISCAS-1002580008)
 
 ## GitHub

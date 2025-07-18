@@ -31,9 +31,9 @@ pinned: false
 
 ### 配色教程
 
-1. [【科研绘图】科研绘图配色的注意点（一）](https://www.bilibili.com/video/BV1J7411G7Uv)
-2. [【科研绘图】科研绘图配色的注意点（二）](https://www.bilibili.com/video/BV167411E7eo)
-3. [【科研绘图】科研绘图配色的注意点（三）](https://www.bilibili.com/video/BV1H7411o7pj)
+1. [【科研绘图】科研绘图配色的注意点（一）](https://www.bilibili.com/video/BV1J7411G7Uv/)
+2. [【科研绘图】科研绘图配色的注意点（二）](https://www.bilibili.com/video/BV167411E7eo/)
+3. [【科研绘图】科研绘图配色的注意点（三）](https://www.bilibili.com/video/BV1H7411o7pj/)
 
 ### MATLAB
 
@@ -44,7 +44,7 @@ pinned: false
 3. [如何在论文中画出漂亮的插图？-slandarer的回答-知乎](https://www.zhihu.com/question/21664179/answer/2877054256)
 4. [有哪些让人相见恨晚的MATLAB命令？-冷哲的回答-知乎](https://www.zhihu.com/question/24499729/answer/28087804)
 5. [有哪些让人相见恨晚的MATLAB命令？-无忌不悔的回答-知乎](https://www.zhihu.com/question/24499729/answer/3161612886)
-6. [【收藏】MATLAB数据可视化教程丨数据图 表达式 隐函数 动画 美化](https://www.bilibili.com/video/BV1Yd4y1M7BF)
+6. [【收藏】MATLAB数据可视化教程丨数据图 表达式 隐函数 动画 美化](https://www.bilibili.com/video/BV1Yd4y1M7BF/)
 
 #### GitHub
 

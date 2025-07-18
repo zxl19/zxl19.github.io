@@ -177,4 +177,4 @@ GitHub Desktop是GitHub开发的客户端，使用图形化交互界面代替了
 20. [GitHub防黑客新措施：弃用账密验证Git操作，改用token或SSH密钥，今天0点已执行-量子位的文章-知乎](https://zhuanlan.zhihu.com/p/399759963)
 21. [GitHub强制要求开启两步验证了，但是1password要收费，怎么办？-游凯超的文章-知乎](https://zhuanlan.zhihu.com/p/615693483)
 22. [GitHub要求2FA？不慌，有它帮你-神锁离线版的文章-知乎](https://zhuanlan.zhihu.com/p/512717901)
-23. [开启GitHub的2FA-bilibili](https://www.bilibili.com/video/BV1sU4y1S7LA)
+23. [开启GitHub的2FA-bilibili](https://www.bilibili.com/video/BV1sU4y1S7LA/)

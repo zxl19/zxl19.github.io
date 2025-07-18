@@ -635,5 +635,5 @@ YAML语法支持。
 43. [Comment (computer programming)-Wikipedia](https://en.wikipedia.org/wiki/Comment_(computer_programming))
 44. [typst/typst](https://github.com/typst/typst)
 45. [nvarner/typst-lsp](https://github.com/nvarner/typst-lsp)
-46. [VS CODE恢复出厂设置-bilibili](https://www.bilibili.com/video/BV12B4y1479v)
+46. [VS CODE恢复出厂设置-bilibili](https://www.bilibili.com/video/BV12B4y1479v/)
 47. [Visual Studio Code on Linux-Common questions](https://code.visualstudio.com/docs/setup/linux#_common-questions)

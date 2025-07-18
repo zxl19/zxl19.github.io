@@ -238,7 +238,7 @@ permalink: /404.html
 
 ### 在Gitee上同步博客
 
-在Gitee上也可以搭建个人主页，可以保证访问速度和稳定性，具体参考[B站视频](https://www.bilibili.com/video/BV1cJ411h7q3)。
+在Gitee上也可以搭建个人主页，可以保证访问速度和稳定性，具体参考[B站视频](https://www.bilibili.com/video/BV1cJ411h7q3/)。
 
 曾尝试将本博客仓库托管到Gitee后同步搭建Gitee Pages，未成功。
 
@@ -253,7 +253,7 @@ permalink: /404.html
 ## 参考
 
 1. [如何在GitHub上写博客？-少数派的回答-知乎](https://www.zhihu.com/question/20962496/answer/677815713)
-2. [Gitee码云pages+Jekyll主题搭建个人博客-bilibili](https://www.bilibili.com/video/BV1cJ411h7q3)
+2. [Gitee码云pages+Jekyll主题搭建个人博客-bilibili](https://www.bilibili.com/video/BV1cJ411h7q3/)
 3. [各种开源协议介绍-菜鸟教程](https://www.runoob.com/w3cnote/open-source-license.html)
 4. [Open Source Guides](https://opensource.guide)
 5. [github/choosealicense.com](https://github.com/github/choosealicense.com)

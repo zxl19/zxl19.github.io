@@ -23,12 +23,12 @@ pinned: false
 刀锐奶化，毒德大学！
 ```
 
-1. [【DPReview】什么是向右曝光？该在什么时候使用它？](https://www.bilibili.com/video/BV1Gk4y1q7MF)
-2. [一学就会的曝光基础](https://www.bilibili.com/video/BV1oW411W7yr)
-3. [完美曝光的秘诀](https://www.bilibili.com/video/BV11x41157WX)
-4. [【科普】快门速度怎么调？这个视频带你彻底认识相机快门！](https://www.bilibili.com/video/BV13Y411f7Wv)
-5. [【科普】光圈究竟影响什么？一个视频解答你对光圈所有疑问！](https://www.bilibili.com/video/BV18v4y167Eb)
-6. [【科普】ISO到底是什么？这个视频重构你对ISO的认知！](https://www.bilibili.com/video/BV1n24y1s7wM)
+1. [【DPReview】什么是向右曝光？该在什么时候使用它？](https://www.bilibili.com/video/BV1Gk4y1q7MF/)
+2. [一学就会的曝光基础](https://www.bilibili.com/video/BV1oW411W7yr/)
+3. [完美曝光的秘诀](https://www.bilibili.com/video/BV11x41157WX/)
+4. [【科普】快门速度怎么调？这个视频带你彻底认识相机快门！](https://www.bilibili.com/video/BV13Y411f7Wv/)
+5. [【科普】光圈究竟影响什么？一个视频解答你对光圈所有疑问！](https://www.bilibili.com/video/BV18v4y167Eb/)
+6. [【科普】ISO到底是什么？这个视频重构你对ISO的认知！](https://www.bilibili.com/video/BV1n24y1s7wM/)
 7. [旅行摄影101](https://space.bilibili.com/84480709/lists/1243116)
 8. [新手如何系统性地学习摄影？-爱摄影的郭同学的回答-知乎](https://www.zhihu.com/question/36095338/answer/968639013)
 9. [新手如何系统性地学习摄影？-500px摄影社区的回答-知乎](https://www.zhihu.com/question/36095338/answer/2051012517)
@@ -44,12 +44,12 @@ pinned: false
 等效35啊，不够广阔也不够紧凑，就像我艰难的人生。
 ```
 
-1. [【硬核科普】焦段是什么？](https://www.bilibili.com/video/BV1nK41157no)
-2. [如何选择街头摄影的镜头焦段？丨35mm 50mm 85mm丨定焦vs变焦](https://www.bilibili.com/video/BV1Ki421R732)
-3. [干货丨原来我对焦距和构图的理解是错的！2分半长曝观音阁！唐僧Vlog-103](https://www.bilibili.com/video/BV1HpGXzaExS)
-4. [【DPReview】这才是最好的焦段！](https://www.bilibili.com/video/BV1Gg4y1G7uV)
-5. [【DPReview】富士 Fujifilm X100V 上手初评](https://www.bilibili.com/video/BV1p741137BZ)
-6. [【毒德大学字幕组】DPReview 尼康Nikon Z 6 测评](https://www.bilibili.com/video/BV1mt411s7xX)
+1. [【硬核科普】焦段是什么？](https://www.bilibili.com/video/BV1nK41157no/)
+2. [如何选择街头摄影的镜头焦段？丨35mm 50mm 85mm丨定焦vs变焦](https://www.bilibili.com/video/BV1Ki421R732/)
+3. [干货丨原来我对焦距和构图的理解是错的！2分半长曝观音阁！唐僧Vlog-103](https://www.bilibili.com/video/BV1HpGXzaExS/)
+4. [【DPReview】这才是最好的焦段！](https://www.bilibili.com/video/BV1Gg4y1G7uV/)
+5. [【DPReview】富士 Fujifilm X100V 上手初评](https://www.bilibili.com/video/BV1p741137BZ/)
+6. [【毒德大学字幕组】DPReview 尼康Nikon Z 6 测评](https://www.bilibili.com/video/BV1mt411s7xX/)
 
 ### 阳光十六法则
 
@@ -64,14 +64,14 @@ pinned: false
 3. [学摄影需要死记硬背光圈快门数值吗？-平老虎的回答-知乎](https://www.zhihu.com/question/424109671/answer/1517337655)
 4. [阳光16法则该如何去测光？-平老虎的回答-知乎](https://www.zhihu.com/question/38169738/answer/917901861)
 5. [阳光16法则该如何去测光？-Spinlips的回答-知乎](https://www.zhihu.com/question/38169738/answer/75286013)
-6. [【KingJvpes】玩胶片不可不学的阳光十六法则（中字）](https://www.bilibili.com/video/BV13j411f7gs)
+6. [【KingJvpes】玩胶片不可不学的阳光十六法则（中字）](https://www.bilibili.com/video/BV13j411f7gs/)
 
 ### 视频拍摄相关
 
-1. [【硬核科普】奇妙的帧率增加了！](https://www.bilibili.com/video/BV1kE411c7yZ)
-2. [【硬核科普】为什么你拍的视频颜色不好看？99%的人都会忽视这个原理！](https://www.bilibili.com/video/BV1Fv411H7P5)
-3. [灯光一直闪、屏幕有条纹？彻底搞懂“频闪”是什么！](https://www.bilibili.com/video/BV1ua4y127pk)
-4. [黑边=电影感？被观众们忽略的电影画幅，是如何讲故事的？](https://www.bilibili.com/video/BV1AM411K7r2)
+1. [【硬核科普】奇妙的帧率增加了！](https://www.bilibili.com/video/BV1kE411c7yZ/)
+2. [【硬核科普】为什么你拍的视频颜色不好看？99%的人都会忽视这个原理！](https://www.bilibili.com/video/BV1Fv411H7P5/)
+3. [灯光一直闪、屏幕有条纹？彻底搞懂“频闪”是什么！](https://www.bilibili.com/video/BV1ua4y127pk/)
+4. [黑边=电影感？被观众们忽略的电影画幅，是如何讲故事的？](https://www.bilibili.com/video/BV1AM411K7r2/)
 
 ## 书籍
 
@@ -88,9 +88,9 @@ pinned: false
 - 《旅行摄影圣经》
 
 1. [推荐一些摄影有关的书籍-平老虎的文章-知乎](https://zhuanlan.zhihu.com/p/44462745)
-2. [【干货】获奖摄影师的学习方法！从0到职业该如何有方法的学习？](https://www.bilibili.com/video/BV14K411K7df)
-3. [号称“摄影耶稣光、中华李万江”的李老师名场面合集！](https://www.bilibili.com/video/BV1yC4y1u7a5)
-4. [苦学摄影多年 只为求得今日一鸣惊人](https://www.bilibili.com/video/BV1Km4y1j7KQ)
+2. [【干货】获奖摄影师的学习方法！从0到职业该如何有方法的学习？](https://www.bilibili.com/video/BV14K411K7df/)
+3. [号称“摄影耶稣光、中华李万江”的李老师名场面合集！](https://www.bilibili.com/video/BV1yC4y1u7a5/)
+4. [苦学摄影多年 只为求得今日一鸣惊人](https://www.bilibili.com/video/BV1Km4y1j7KQ/)
 
 ## 前期准备
 
@@ -140,15 +140,15 @@ pinned: false
 
 ### 教程
 
-1. [全20集【Adobe Lightroom Classic从思路到后期调色】各功能详解视频教程目录](https://www.bilibili.com/read/cv13519248)
-2. [全15集【Luminar 4后期教程】手把手教你软件操作 - 旅行摄影小课堂出品](https://www.bilibili.com/read/cv13519185)
-3. [B站视频制作教程推荐](https://www.bilibili.com/read/cv960192)
-4. [【何同学】如何在B站学习做视频？ (P2附Pr零基础剪辑教程）](https://www.bilibili.com/video/BV1EW411R77n)
-5. [【负片】获奖摄影师的Capture One胶片后期指南](https://www.bilibili.com/video/BV1e64y1X72U)
-6. [【Lightroom教程】6个新手也能入门摄影后期的操作小技巧](https://www.bilibili.com/video/BV1M64y147n3)
-7. [【干货】富士用户的Capture One后期指南【HSINYALIN】](https://www.bilibili.com/video/BV1b64y1i7sy)
-8. [RawTherapee：一个比付费后期软件（Lightroom等）更强大的免费软件](https://www.bilibili.com/video/BV1JK4y1v7CM)
-9. [RawTherapee免费胶片模拟软件上手指南-HaldCLUT](https://www.bilibili.com/video/BV17p4y1s7o6)
+1. [全20集【Adobe Lightroom Classic从思路到后期调色】各功能详解视频教程目录](https://www.bilibili.com/opus/579710526423917670)
+2. [全15集【Luminar 4后期教程】手把手教你软件操作 - 旅行摄影小课堂出品](https://www.bilibili.com/opus/579692216987754652)
+3. [B站视频制作教程推荐](https://www.bilibili.com/opus/152450787591125395)
+4. [【何同学】如何在B站学习做视频？ (P2附Pr零基础剪辑教程）](https://www.bilibili.com/video/BV1EW411R77n/)
+5. [【负片】获奖摄影师的Capture One胶片后期指南](https://www.bilibili.com/video/BV1e64y1X72U/)
+6. [【Lightroom教程】6个新手也能入门摄影后期的操作小技巧](https://www.bilibili.com/video/BV1M64y147n3/)
+7. [【干货】富士用户的Capture One后期指南【HSINYALIN】](https://www.bilibili.com/video/BV1b64y1i7sy/)
+8. [RawTherapee：一个比付费后期软件（Lightroom等）更强大的免费软件](https://www.bilibili.com/video/BV1JK4y1v7CM/)
+9. [RawTherapee免费胶片模拟软件上手指南-HaldCLUT](https://www.bilibili.com/video/BV17p4y1s7o6/)
 
 ## 摄影UP主
 
@@ -221,16 +221,16 @@ pinned: false
 2. [哪些网站让你感觉发现了新大陆？-不做闲鱼的回答-知乎](https://www.zhihu.com/question/293309623/answer/1675816377)
 3. [b站上有什么好的摄影教学？-早见Hayami的回答-知乎](https://www.zhihu.com/question/312241261/answer/1066491001)
 4. [关注bilibili这17个UP主，你甚至可以在B站学摄影！-A妹的文章-知乎](https://zhuanlan.zhihu.com/p/112964588)
-5. [影视飓风都用什么APP？推荐9个小众APP，100%提升工作效率-bilibili](https://www.bilibili.com/video/BV1pS4y1V7wq)
+5. [影视飓风都用什么APP？推荐9个小众APP，100%提升工作效率-bilibili](https://www.bilibili.com/video/BV1pS4y1V7wq/)
 6. [满足日常需求的应用（三）：图像编辑器丨Linux中国-Linux中国的文章-知乎](https://zhuanlan.zhihu.com/p/407938013)
 7. [Linux上有哪些好用的绘图工具？-亿图图示的回答-知乎](https://www.zhihu.com/question/445559611/answer/1759893444)
 8. [在Linux命令行上编辑照片的4种方法丨Linux中国-Linux中国的文章-知乎](https://zhuanlan.zhihu.com/p/430719348)
 9. [Filmulator：一个简单的、开源的Raw图像编辑器丨Linux中国-Linux中国的文章-知乎](https://zhuanlan.zhihu.com/p/350803009)
 10. [DPReview.com to close-DPReview](https://www.dpreview.com/news/5901145460/dpreview-com-to-close)
 11. [Digicam Finder is a New Resource That Replaces DPReview’s Camera Library-PetaPixel](https://petapixel.com/2023/04/03/digicam-finder-is-a-new-resource-that-replaces-dpreviews-camera-library/)
-12. [【DPReview】再见了，所有的DPReview-bilibili](https://www.bilibili.com/video/BV1ZM411N7EP)
-13. [【DPReview】我们最喜欢的DPReview TV时刻（用玩偶重现！）-bilibili](https://www.bilibili.com/video/BV1Ks4y1P7JA)
-14. [【DPReview】胡子哥和乔丹在DPReview的这几年测评过的最喜欢的5款摄影器材-bilibili](https://www.bilibili.com/video/BV1HT411p7uE)
-15. [20000元1张纸，这是什么？-bilibili](https://www.bilibili.com/video/BV1SVk4YTEva)
+12. [【DPReview】再见了，所有的DPReview-bilibili](https://www.bilibili.com/video/BV1ZM411N7EP/)
+13. [【DPReview】我们最喜欢的DPReview TV时刻（用玩偶重现！）-bilibili](https://www.bilibili.com/video/BV1Ks4y1P7JA/)
+14. [【DPReview】胡子哥和乔丹在DPReview的这几年测评过的最喜欢的5款摄影器材-bilibili](https://www.bilibili.com/video/BV1HT411p7uE/)
+15. [20000元1张纸，这是什么？-bilibili](https://www.bilibili.com/video/BV1SVk4YTEva/)
 16. [各大相机公司推出恒定F4的小三元镜头的目的是什么？非大光圈的恒定光圈意义体现在哪里？-知乎用户的回答-知乎](https://www.zhihu.com/question/34306403/answer/2654034347)
 17. [jherr/depth-of-field](https://github.com/jherr/depth-of-field)

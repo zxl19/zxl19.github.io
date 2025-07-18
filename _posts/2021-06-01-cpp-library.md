@@ -60,8 +60,11 @@ pinned: false
 ### 输出样式
 
 1. [fmtlib/fmt](https://github.com/fmtlib/fmt)
-2. [JustWhit3/osmanip](https://github.com/JustWhit3/osmanip)
-3. [srilakshmikanthanp/libansi](https://github.com/srilakshmikanthanp/libansi)
+2. [ikalnytskyi/termcolor](https://github.com/ikalnytskyi/termcolor)
+3. [JustWhit3/osmanip](https://github.com/JustWhit3/osmanip)
+4. [ararslan/termcolor-c](https://github.com/ararslan/termcolor-c)
+5. [srilakshmikanthanp/libansi](https://github.com/srilakshmikanthanp/libansi)
+6. [wakanapo/TextColoring](https://github.com/wakanapo/TextColoring)
 
 ### 进度条
 
@@ -382,6 +385,7 @@ pinned: false
 11. [imageworks/pystring](https://github.com/imageworks/pystring)
 12. [VcDevel/std-simd](https://github.com/VcDevel/std-simd)
 13. [frozenca/BTree](https://github.com/frozenca/BTree)
+14. [lsils/kitty](https://github.com/lsils/kitty)
 
 ## 哈希函数
 
