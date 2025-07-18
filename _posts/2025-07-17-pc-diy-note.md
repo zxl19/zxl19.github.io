@@ -84,6 +84,7 @@ pinned: false
 
 1. [硬件茶谈](https://space.bilibili.com/14871346)
 2. [远古时代装机猿](https://space.bilibili.com/35359510)
+3. [极客湾Geekerwan](https://space.bilibili.com/25876945)
 
 ## 原版系统镜像
 

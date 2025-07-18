@@ -23,8 +23,8 @@ pinned: false
 ## 网站
 
 1. [科学网——博客](http://blog.sciencenet.cn/blog.php)
-2. [How to Read a Paper Efficiently (By Prof. Pete Carr) 如何高效阅读论文](https://www.bilibili.com/video/BV14s411N76u)
-3. [【泡泡机器人公开课】第一百一十九课：如何发表一篇顶会论文——许凌云](https://www.bilibili.com/video/BV1Pi4y1F7VG)
+2. [How to Read a Paper Efficiently (By Prof. Pete Carr) 如何高效阅读论文](https://www.bilibili.com/video/BV14s411N76u/)
+3. [【泡泡机器人公开课】第一百一十九课：如何发表一篇顶会论文——许凌云](https://www.bilibili.com/video/BV1Pi4y1F7VG/)
 
 ## 书籍
 

@@ -135,7 +135,7 @@ pinned: false
 ## 审稿人意见回复
 
 1. 参考[这个知乎问题](https://www.zhihu.com/question/370758333)进行回复；
-2. 参考[这个B站视频](https://www.bilibili.com/video/BV1ix411o7qq/)进行对线:dog:；
+2. 参考[这个B站视频](https://www.bilibili.com/video/BV1GJ411P7vL/)进行对线:dog:；
 
 ## 作者信息
 

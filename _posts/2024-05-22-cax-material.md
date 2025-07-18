@@ -97,4 +97,4 @@ pinned: false
 3. [cnr-isti-vclab/meshlab](https://github.com/cnr-isti-vclab/meshlab)
 4. [Ultimaker/Cura](https://github.com/Ultimaker/Cura)
 5. [MeshInspector/MeshInspector](https://github.com/MeshInspector/MeshInspector)
-6. [公司用上3D打印之后…-bilibili](https://www.bilibili.com/video/BV17DKAzqEWm)
+6. [公司用上3D打印之后…-bilibili](https://www.bilibili.com/video/BV17DKAzqEWm/)

@@ -68,8 +68,8 @@ pinned: false
 
 ## 参考
 
-1. [【装机教程】超详细WIN10系统安装教程，官方ISO直装与PE两种方法教程-bilibili](https://www.bilibili.com/video/BV1DJ411D79y)
-2. [【装机教程】驱动程序是什么东西？为什么要安装驱动程序？-bilibili](https://www.bilibili.com/video/BV1v7411e7AE)
+1. [【装机教程】超详细WIN10系统安装教程，官方ISO直装与PE两种方法教程-bilibili](https://www.bilibili.com/video/BV1DJ411D79y/)
+2. [【装机教程】驱动程序是什么东西？为什么要安装驱动程序？-bilibili](https://www.bilibili.com/video/BV1v7411e7AE/)
 3. [U盘到底用什么格式好？FAT32、NTFS还是exFAT？-科技圈的文章-知乎](https://zhuanlan.zhihu.com/p/86116170)
 4. [NTFS, FAT32和exFAT文件系统有什么区别？-W-Pwn的文章-知乎](https://zhuanlan.zhihu.com/p/32364955)
 5. [MBR与GPT：你的新硬盘应该选择哪一个？-红头发蓝胖子的文章-知乎](https://zhuanlan.zhihu.com/p/559229466)

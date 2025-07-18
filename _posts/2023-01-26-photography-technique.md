@@ -34,10 +34,10 @@ pinned: false
 
 主要参考[旅行摄影师唐僧](https://space.bilibili.com/405561962)的视频。
 
-1. [哈苏官网样张的原图竟是这样的? 揭秘! 卖照片2天能赚多少钱?](https://www.bilibili.com/video/BV1kK42117GL)
-2. [我是怎么在白天拍一张341秒超长曝光照片的？我是怎么使用减光镜的？](https://www.bilibili.com/video/BV1Kh411f7v2)
-3. [20分钟长曝光能拍出这样的迷人效果？流言终结？](https://www.bilibili.com/video/BV18V411t7mw)
-4. [长曝、极简、我在西藏林芝的机位分享！](https://www.bilibili.com/video/BV14A411g77a)
+1. [哈苏官网样张的原图竟是这样的? 揭秘! 卖照片2天能赚多少钱?](https://www.bilibili.com/video/BV1kK42117GL/)
+2. [我是怎么在白天拍一张341秒超长曝光照片的？我是怎么使用减光镜的？](https://www.bilibili.com/video/BV1Kh411f7v2/)
+3. [20分钟长曝光能拍出这样的迷人效果？流言终结？](https://www.bilibili.com/video/BV18V411t7mw/)
+4. [长曝、极简、我在西藏林芝的机位分享！](https://www.bilibili.com/video/BV14A411g77a/)
 
 ## 延时摄影
 
@@ -45,18 +45,18 @@ pinned: false
 
 ### 延时视频
 
-1. [【DPReview】延时摄影入门教学](https://www.bilibili.com/video/BV1c5411t777)
-2. [延时摄影保姆级教程！一个视频学会各类延时拍摄及后期调色稳定！](https://www.bilibili.com/video/BV1pt4y177RG)
+1. [【DPReview】延时摄影入门教学](https://www.bilibili.com/video/BV1c5411t777/)
+2. [延时摄影保姆级教程！一个视频学会各类延时拍摄及后期调色稳定！](https://www.bilibili.com/video/BV1pt4y177RG/)
 
 ### 堆栈合成
 
 堆栈合成指的是在固定机位下拍摄多张照片，后期合成一张照片的拍摄方法，常用于代替风景类题材的长曝光或者生成天文类题材的序列照片。
 
-1. [“堆栈”突破画质极限](https://www.bilibili.com/video/BV19A411c7nj)
-2. [拍摄车轨，不要在用减光镜长曝光了，今天教你多张拍摄，堆栈合成。](https://www.bilibili.com/video/BV1qa41147mn)
-3. [【教学】星轨怎么拍？三分钟学会星轨前期拍摄及后期处理！](https://www.bilibili.com/video/BV1oK411q7Mi)
-4. [【教程】超简单！花1分钟学会制作星轨拖尾延时！](https://www.bilibili.com/video/BV1i8411u7PL)
-5. [难得一遇的月全食马上就要来了，如何拍摄出好看的月全食照片？这个视频收藏起来](https://www.bilibili.com/video/BV1YD4y1t7YB)
+1. [“堆栈”突破画质极限](https://www.bilibili.com/video/BV19A411c7nj/)
+2. [拍摄车轨，不要在用减光镜长曝光了，今天教你多张拍摄，堆栈合成。](https://www.bilibili.com/video/BV1qa41147mn/)
+3. [【教学】星轨怎么拍？三分钟学会星轨前期拍摄及后期处理！](https://www.bilibili.com/video/BV1oK411q7Mi/)
+4. [【教程】超简单！花1分钟学会制作星轨拖尾延时！](https://www.bilibili.com/video/BV1i8411u7PL/)
+5. [难得一遇的月全食马上就要来了，如何拍摄出好看的月全食照片？这个视频收藏起来](https://www.bilibili.com/video/BV1YD4y1t7YB/)
 
 ## 包围摄影
 
@@ -66,50 +66,50 @@ pinned: false
 
 常用于拍摄大光比环境，欠曝光保留亮部细节，过曝光保留暗部细节，后期合成高动态范围（High Dynamic Range，HDR）照片。自动包围曝光使用等间距变化的曝光补偿值，也可以手动包围曝光使用非等间距变化的曝光补偿值。
 
-1. [【Lightroom教程】超简单的包围曝光后期合成HDR的方法，从此轻松搞定大光比环境的曝光问题](https://www.bilibili.com/video/BV18g411o7B4)
-2. [摄影的浪漫，追逐日落时的那道光，意外收获绝美日落，顺便聊聊包围曝光的拍摄方法和思路](https://www.bilibili.com/video/BV1Z3411A76w)
+1. [【Lightroom教程】超简单的包围曝光后期合成HDR的方法，从此轻松搞定大光比环境的曝光问题](https://www.bilibili.com/video/BV18g411o7B4/)
+2. [摄影的浪漫，追逐日落时的那道光，意外收获绝美日落，顺便聊聊包围曝光的拍摄方法和思路](https://www.bilibili.com/video/BV1Z3411A76w/)
 
 ### 包围对焦
 
 常用于拍摄大景深环境，通过不同对焦位置保留不同景深下的细节，后期进行景深合成。自动包围对焦使用等间距变化的焦点位置，也可以手动包围对焦使用非等间距变化的焦点位置。
 
-1. [【LR+PS教程】景深合成的后期操作方法，将对焦包围拍摄的五张照片合成为一张](https://www.bilibili.com/video/BV1DL411K7bd)
-2. [冰河边的8分钟长曝光，利用对焦包围进行景深合成，富士GF 45-100mm的首次出镜](https://www.bilibili.com/video/BV1sm4y1d7xT)
-3. [摄影王炸组合技！景深合成+曝光合成](https://www.bilibili.com/video/BV1XD4y1m7E6)
-4. [全景深微距摄影你会吗?焦点堆栈拍摄手动自动方法分享!一只用了四年的老金贝HD400单灯拍摄](https://www.bilibili.com/video/BV1VY4y1e7jt)
+1. [【LR+PS教程】景深合成的后期操作方法，将对焦包围拍摄的五张照片合成为一张](https://www.bilibili.com/video/BV1DL411K7bd/)
+2. [冰河边的8分钟长曝光，利用对焦包围进行景深合成，富士GF 45-100mm的首次出镜](https://www.bilibili.com/video/BV1sm4y1d7xT/)
+3. [摄影王炸组合技！景深合成+曝光合成](https://www.bilibili.com/video/BV1XD4y1m7E6/)
+4. [全景深微距摄影你会吗?焦点堆栈拍摄手动自动方法分享!一只用了四年的老金贝HD400单灯拍摄](https://www.bilibili.com/video/BV1VY4y1e7jt/)
 
 ## 闪光灯
 
 常用于提高前景亮度，同时提高快门速度降低背景亮度，实现特殊的视觉效果。
 
 1. [从零学用光](https://space.bilibili.com/110683415/lists/262445)
-2. [新手使用机顶闪光灯常见问题答疑（一）丨建议收藏](https://www.bilibili.com/video/BV1VN4y1R77w)
-3. [干货收藏-新手使用机顶闪光灯常见问题答疑（二）](https://www.bilibili.com/video/BV1Gw4m1X7xA)
-4. [新中式人像拍摄技巧丨闪光灯与自然光的巧妙结合](https://www.bilibili.com/video/BV1XA411U7mr)
-5. [逆光拍照背景总是过曝？有手就会的闪光灯教程来了！](https://www.bilibili.com/video/BV1pPD3YqErf)
-6. [划时代的速度相机：我用A9M3拍下了极致的中式浪漫](https://www.bilibili.com/video/BV1ZF4m1T7n9)
-7. [林海音丨如何用一盏小闪光灯拍出质感人像](https://www.bilibili.com/video/BV1Ki4y1F7Ud)
-8. [【阴天用闪光灯为什么会被喷】 如何应用闪光灯 阴天使用闪光灯 闪光灯拍人像](https://www.bilibili.com/video/BV1uL411P7zH)
-9. [【毒德大学字幕组】DPReview 佳能Canon Speedlite 470EX-AI闪光灯 人像摄影实战](https://www.bilibili.com/video/BV1Wb411p7Vi)
+2. [新手使用机顶闪光灯常见问题答疑（一）丨建议收藏](https://www.bilibili.com/video/BV1VN4y1R77w/)
+3. [干货收藏-新手使用机顶闪光灯常见问题答疑（二）](https://www.bilibili.com/video/BV1Gw4m1X7xA/)
+4. [新中式人像拍摄技巧丨闪光灯与自然光的巧妙结合](https://www.bilibili.com/video/BV1XA411U7mr/)
+5. [逆光拍照背景总是过曝？有手就会的闪光灯教程来了！](https://www.bilibili.com/video/BV1pPD3YqErf/)
+6. [划时代的速度相机：我用A9M3拍下了极致的中式浪漫](https://www.bilibili.com/video/BV1ZF4m1T7n9/)
+7. [林海音丨如何用一盏小闪光灯拍出质感人像](https://www.bilibili.com/video/BV1Ki4y1F7Ud/)
+8. [【阴天用闪光灯为什么会被喷】 如何应用闪光灯 阴天使用闪光灯 闪光灯拍人像](https://www.bilibili.com/video/BV1uL411P7zH/)
+9. [【毒德大学字幕组】DPReview 佳能Canon Speedlite 470EX-AI闪光灯 人像摄影实战](https://www.bilibili.com/video/BV1Wb411p7Vi/)
 
 ## 微距摄影
 
-1. [【DPReview】您就是列文虎克？ 胡子哥陪你学微距](https://www.bilibili.com/video/BV1TE411K7dQ)
-2. [【DPReview】微距教学 - 冰晶泡泡](https://www.bilibili.com/video/BV1y741127NY)
-3. [【DPReview】玩转虚化摄影](https://www.bilibili.com/video/BV1te411s7Ew)
+1. [【DPReview】您就是列文虎克？ 胡子哥陪你学微距](https://www.bilibili.com/video/BV1TE411K7dQ/)
+2. [【DPReview】微距教学 - 冰晶泡泡](https://www.bilibili.com/video/BV1y741127NY/)
+3. [【DPReview】玩转虚化摄影](https://www.bilibili.com/video/BV1te411s7Ew/)
 
 ## 打印
 
-1. [把回忆打印成照片吧丨Links](https://www.bilibili.com/video/BV16R4y1p7Lc)
-2. [【硬核】怎样打印完美巨幅摄影作品？控色、装裱实战详解！丨VLOG-90](https://www.bilibili.com/video/BV1Ut4y1d77t)
+1. [把回忆打印成照片吧丨Links](https://www.bilibili.com/video/BV16R4y1p7Lc/)
+2. [【硬核】怎样打印完美巨幅摄影作品？控色、装裱实战详解！丨VLOG-90](https://www.bilibili.com/video/BV1Ut4y1d77t/)
 
 ## 参考
 
-1. [【摄影科普】捕捉时间丨什么是长曝光？-bilibili](https://www.bilibili.com/video/BV1Po4y1R77s)
+1. [【摄影科普】捕捉时间丨什么是长曝光？-bilibili](https://www.bilibili.com/video/BV1Po4y1R77s/)
 2. [所有镜头的最佳光圈都是F8吗?-王波的回答-知乎](https://www.zhihu.com/question/535354480/answer/2540363408)
-3. [ND减光滤镜实战应用，如何轻松拍摄出日光慢门长曝光效果-bilibili](https://www.bilibili.com/video/BV1Vo4y1y7Rj)
-4. [风光滤镜系统入坑指南：圆形和方片滤镜如何选择，购买时需要注意哪些关键点，各种滤镜的利与弊-bilibili](https://www.bilibili.com/video/BV1f5411Z7ow)
-5. [昼伏夜出15天，用光绘出4000㎡复杂图形！创意光绘怎么拍？-bilibili](https://www.bilibili.com/video/BV1xY4y1t7Gq)
+3. [ND减光滤镜实战应用，如何轻松拍摄出日光慢门长曝光效果-bilibili](https://www.bilibili.com/video/BV1Vo4y1y7Rj/)
+4. [风光滤镜系统入坑指南：圆形和方片滤镜如何选择，购买时需要注意哪些关键点，各种滤镜的利与弊-bilibili](https://www.bilibili.com/video/BV1f5411Z7ow/)
+5. [昼伏夜出15天，用光绘出4000㎡复杂图形！创意光绘怎么拍？-bilibili](https://www.bilibili.com/video/BV1xY4y1t7Gq/)
 6. [HDR与包围曝光-CSDN博客](https://blog.csdn.net/weixin_35884854/article/details/112677338)
 7. [什么是曝光补偿？-蜜茶手机技巧的文章-知乎](https://zhuanlan.zhihu.com/p/31511973)
 8. [问一个小白问题，一般拍摄的亮度是由光圈快门iso决定的，那曝光补偿又是什么时候用的?-白糖的回答- 知乎](https://www.zhihu.com/question/32308369/answer/55480674)
