@@ -87,10 +87,11 @@ python3 -m pip install tldr
 3. [CheatSheets.zip](https://cheatsheets.zip)
 4. [QuickRef.Me](https://quickref.me)
 5. [Quick Reference](https://wangchujiang.com/reference/)
-6. [Linux命令搜索引擎](https://wangchujiang.com/linux-command/)
-7. [鸟哥Linux命令大全](https://man.niaoge.com)
-8. [cheat.sh](https://cheat.sh)
-9. [bropages](http://bropages.org)
+6. [鸟哥Linux命令大全](https://man.niaoge.com)
+7. [Linux命令搜索引擎](https://wangchujiang.com/linux-command/)
+8. [Linux命令大全-菜鸟教程](https://www.runoob.com/linux/linux-command-manual.html)
+9. [cheat.sh](https://cheat.sh)
+10. [bropages](http://bropages.org)
 
 ### GitHub
 

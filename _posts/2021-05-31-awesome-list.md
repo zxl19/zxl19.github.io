@@ -154,6 +154,7 @@ The main repository serves as a curated list of awesome lists.
 1. [alebcay/awesome-shell](https://github.com/alebcay/awesome-shell)
 2. [unixorn/awesome-zsh-plugins](https://github.com/unixorn/awesome-zsh-plugins)
 3. [hmml/awesome-zsh](https://github.com/hmml/awesome-zsh)
+4. [rothgar/awesome-tmux](https://github.com/rothgar/awesome-tmux)
 
 ## 科研
 
