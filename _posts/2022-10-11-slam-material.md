@@ -184,11 +184,11 @@ SLAM学习资料存档，包括SLAM基础理论、卡尔曼滤波、组合导航
 ### 网站
 
 1. [高精度捷联惯性导航算法](http://www.psins.org.cn)
-2. [卡尔曼滤波与组合导航原理【西北工业大学 严恭敏】](https://www.bilibili.com/video/BV11K411J7gp)
-3. [PSINS导航工具箱入门与详解【西北工业大学 严恭敏】](https://www.bilibili.com/video/BV1R54y1E7ut)
+2. [卡尔曼滤波与组合导航原理【西北工业大学 严恭敏】](https://www.bilibili.com/video/BV11K411J7gp/)
+3. [PSINS导航工具箱入门与详解【西北工业大学 严恭敏】](https://www.bilibili.com/video/BV1R54y1E7ut/)
 4. [武汉大学多源智能导航实验室](http://i2nav.cn)
-5. [武汉大学惯性导航课程合集【2021年秋】](https://www.bilibili.com/video/BV1nR4y1E7Yj)
-6. [武汉大学研究生组合导航课程合集【2022年春】](https://www.bilibili.com/video/BV1na411Z7rQ)
+5. [武汉大学惯性导航课程合集【2021年秋】](https://www.bilibili.com/video/BV1nR4y1E7Yj/)
+6. [武汉大学研究生组合导航课程合集【2022年春】](https://www.bilibili.com/video/BV1na411Z7rQ/)
 7. [A Guide To using IMU (Accelerometer and Gyroscope Devices) in Embedded Applications-Starlino Electronics](http://www.starlino.com/imu_guide.html)
 8. [An introduction to inertial navigation](https://www.cl.cam.ac.uk/techreports/UCAM-CL-TR-696.pdf)
 9. [A Short Tutorial on Inertial Navigation System and Global Positioning System Integration](https://ntrs.nasa.gov/api/citations/20150018921/downloads/20150018921.pdf)
