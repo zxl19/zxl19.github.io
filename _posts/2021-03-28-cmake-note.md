@@ -86,7 +86,7 @@ set(CMAKE_BUILD_TYPE "Release")                                 # 编译模式�
 set(CMAKE_CXX_STANDARD 11)                                      # 指定C++标准：98、11、14、17、20
 set(CMAKE_CXX_STANDARD_REQUIRED ON)                             # 强制使用指定的C++标准（CMake 3.1以上支持）
 set(CMAKE_CXX_EXTENSIONS OFF)                                   # 禁用编译器扩展
-set(CMAKE_CXX_FLAGS "-std=c++11 -Wall -pthread -fexceptions")   # 针对C++的编译选项（经测试用此方式无法指定C++标准，可能是由于CMake版本较高）
+set(CMAKE_CXX_FLAGS "-std=c++11 -Wall")                         # 针对C++的编译选项（经测试用此方式无法指定C++标准，可能是由于CMake版本较高）
 set(CMAKE_CXX_FLAGS_DEBUG "${CMAKE_CXX_FLAGS} -O1 -g -ggdb")    # 针对C++在Debug模式下的编译选项
 set(CMAKE_CXX_FLAGS_RELEASE "${CMAKE_CXX_FLAGS} -O3")           # 针对C++在Release模式下的编译选项
 set(CMAKE_EXPORT_COMPILE_COMMANDS ON)                           # 生成compile_commands.json文件
@@ -776,19 +776,20 @@ endif()
 1. [ttroy50/cmake-examples](https://github.com/ttroy50/cmake-examples)
 2. [mbinna/effective_modern_cmake.md](https://gist.github.com/mbinna/c61dbb39bca0e4fb7d1f73b0d66a4fd1)
 3. [TheLartians/ModernCppStarter](https://github.com/TheLartians/ModernCppStarter)
-4. [cpp-best-practices/gui_starter_template](https://github.com/cpp-best-practices/gui_starter_template)
-5. [dev-cafe/cmake-cookbook](https://github.com/dev-cafe/cmake-cookbook)
-6. [filipdutescu/modern-cpp-template](https://github.com/filipdutescu/modern-cpp-template)
-7. [xiaoweiChen/CMake-Cookbook](https://github.com/xiaoweiChen/CMake-Cookbook)
-8. [pr0g/cmake-examples](https://github.com/pr0g/cmake-examples)
-9. [BrightXiaoHan/CMakeTutorial](https://github.com/BrightXiaoHan/CMakeTutorial)
-10. [pabloariasal/modern-cmake-sample](https://github.com/pabloariasal/modern-cmake-sample)
-11. [district10/cmake-templates](https://github.com/district10/cmake-templates)
-12. [Modern-CMake-CN/Modern-CMake-zh_CN](https://github.com/Modern-CMake-CN/Modern-CMake-zh_CN)
-13. [PacktPublishing/CMake-Cookbook](https://github.com/PacktPublishing/CMake-Cookbook)
-14. [mortennobel/CMake-Cheatsheet](https://github.com/mortennobel/CMake-Cheatsheet)
-15. [mariokonrad/cmake-cheatsheet](https://github.com/mariokonrad/cmake-cheatsheet)
-16. [nikolausmayer/cmake-templates](https://github.com/nikolausmayer/cmake-templates)
+4. [dev-cafe/cmake-cookbook](https://github.com/dev-cafe/cmake-cookbook)
+5. [cpp-best-practices/gui_starter_template](https://github.com/cpp-best-practices/gui_starter_template)
+6. [wzpan/cmake-demo](https://github.com/wzpan/cmake-demo)
+7. [filipdutescu/modern-cpp-template](https://github.com/filipdutescu/modern-cpp-template)
+8. [xiaoweiChen/CMake-Cookbook](https://github.com/xiaoweiChen/CMake-Cookbook)
+9. [pr0g/cmake-examples](https://github.com/pr0g/cmake-examples)
+10. [BrightXiaoHan/CMakeTutorial](https://github.com/BrightXiaoHan/CMakeTutorial)
+11. [pabloariasal/modern-cmake-sample](https://github.com/pabloariasal/modern-cmake-sample)
+12. [district10/cmake-templates](https://github.com/district10/cmake-templates)
+13. [Modern-CMake-CN/Modern-CMake-zh_CN](https://github.com/Modern-CMake-CN/Modern-CMake-zh_CN)
+14. [PacktPublishing/CMake-Cookbook](https://github.com/PacktPublishing/CMake-Cookbook)
+15. [mortennobel/CMake-Cheatsheet](https://github.com/mortennobel/CMake-Cheatsheet)
+16. [mariokonrad/cmake-cheatsheet](https://github.com/mariokonrad/cmake-cheatsheet)
+17. [nikolausmayer/cmake-templates](https://github.com/nikolausmayer/cmake-templates)
 
 ### 书籍
 
@@ -842,4 +843,7 @@ endif()
 42. [编译器警告-CSDN博客](https://blog.csdn.net/sexyluna/article/details/134770233)
 43. [Options to Request or Suppress Warnings-GCC](https://gcc.gnu.org/onlinedocs/gcc/Warning-Options.html)
 44. [CMake如何入门？-0xCCCCCCCC的回答-知乎](https://www.zhihu.com/question/58949190/answer/999701073)
-45. [CMake和Modern CMake相关资料（不定期补充）-迦非喵的文章-知乎](https://zhuanlan.zhihu.com/p/205324774)
+45. [CMake如何入门？-杨明的回答-知乎](https://www.zhihu.com/question/58949190/answer/61305970744)
+46. [全网最细的CMake教程！(强烈建议收藏)-Linux嵌入式的文章-知乎](https://zhuanlan.zhihu.com/p/534439206)
+47. [CMake中文教程，为什么国内没人写这样的教程来帮助初学者？-南山烟雨珠江潮的回答-知乎](https://www.zhihu.com/question/263740881/answer/1931000368025833904)
+48. [CMake和Modern CMake相关资料（不定期补充）-迦非喵的文章-知乎](https://zhuanlan.zhihu.com/p/205324774)

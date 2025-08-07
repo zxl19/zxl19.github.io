@@ -40,7 +40,7 @@ struct pair {
 }
 ```
 
-### 二元组辅助构造函数`make_pair()`
+#### 二元组辅助构造函数`make_pair()`
 
 原型声明：
 
@@ -93,6 +93,10 @@ typename remove_reference<T>::type&& move(T&& arg) noexcept;
 1. 《C++语言程序设计》
 2. [cplusplus](http://www.cplusplus.com)
 3. [cppreference](https://en.cppreference.com/w/)
-4. [C++ STL pair用法详解-C语言中文网](http://c.biancheng.net/view/7169.html)
-5. [C++11右值引用（一看即懂）-C语言中文网](http://c.biancheng.net/view/7829.html)
-6. [C++11完美转发及实现方法详解-C语言中文网](http://c.biancheng.net/view/7868.html)
+4. [C++ STL pair用法详解-C语言中文网](https://c.biancheng.net/view/7169.html)
+5. [请问auto&&中的两个&&啥意思?-rayhunter的回答-知乎](https://www.zhihu.com/question/325315863/answer/2685468097)
+6. [C++11右值引用-C语言中文网](https://c.biancheng.net/view/7829.html)
+7. [C++中的右值引用-C语言中文网](https://c.biancheng.net/view/cte7w1y.html)
+8. [C++11完美转发及实现方法详解-C语言中文网](https://c.biancheng.net/view/7868.html)
+9. [聊聊C++中的完美转发-李超的文章-知乎](https://zhuanlan.zhihu.com/p/161039484)
+10. [C++11 move()函数：将左值强制转换为右值-C语言中文网](https://c.biancheng.net/view/7863.html)

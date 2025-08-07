@@ -1,0 +1,65 @@
+---
+layout: post
+title: OpenMP库使用笔记
+date: TODO
+author: zxl19
+tags: [C++, OpenMP, Note]
+comments: true
+toc: true
+pinned: false
+---
+
+我的OpenMP库使用笔记。
+
+<!-- more -->
+
+## OpenMP Hello World
+
+```shell
+sudo apt install libomp-dev
+```
+
+## C++ API
+
+详见`omp.h`。
+
+## 示例
+
+### ndt_omp
+
+```cpp
+#pragma omp parallel for num_threads(num_threads_) schedule(guided, 8)
+```
+
+### fast_gicp
+
+```cpp
+#pragma omp parallel for num_threads(num_threads_) firstprivate(k_indices, k_sq_dists) schedule(guided, 8)
+#pragma omp parallel for num_threads(num_threads_) reduction(+ : sum_errors) schedule(guided, 8)
+```
+
+### small_gicp
+
+```cpp
+#pragma omp task
+#pragma omp task default(shared) if (N > 512)
+#pragma omp taskwait
+#pragma omp single nowait
+```
+
+## 参考
+
+1. [OpenMP](https://www.openmp.org)
+2. [Options Controlling OpenMP and OpenACC-GCC](https://gcc.gnu.org/onlinedocs/gcc/OpenMP-and-OpenACC-Options.html)
+3. [OpenMP-GCC](https://gcc.gnu.org/onlinedocs/gcc/OpenMP.html)
+4. [OpenMP/sources](https://github.com/OpenMP/sources)
+5. [koide3/ndt_omp](https://github.com/koide3/ndt_omp)
+6. [koide3/fast_gicp](https://github.com/koide3/fast_gicp)
+7. [koide3/small_gicp](https://github.com/koide3/small_gicp)
+8. [OpenMP教程——从0开始一小时写出并行程序！-费米子的文章-知乎](https://zhuanlan.zhihu.com/p/397670985)
+9. [OpenMP入门与实例分析-jdtang的文章-知乎](https://zhuanlan.zhihu.com/p/61857547)
+10. [OpenMP（使用C++多线程并行计算优化你的程序）入门篇-只是无暇顾及的文章-知乎](https://zhuanlan.zhihu.com/p/608946001)
+11. [OpenMP在实际开发中应用多吗？-笑到猝死的家伙的回答-知乎](https://www.zhihu.com/question/22347096/answer/1912952617950229190)
+12. [OpenMP在实际开发中应用多吗？-Justin的回答-知乎](https://www.zhihu.com/question/22347096/answer/110724861536)
+13. [openmp有必要存在吗,既然有了pthread?-昆冈玉的回答-知乎](https://www.zhihu.com/question/460601207/answer/2248436586)
+14. [多线程加速矩阵运算:OpenMP vs. pthread-1234554321的文章-知乎](https://zhuanlan.zhihu.com/p/642882774)

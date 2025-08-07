@@ -84,9 +84,12 @@ sudo update-alternatives --config g++
 sudo update-alternatives --config python3
 ```
 
+注意：切换Python解释器版本有可能导致之前版本安装的库无法启动。
+
 ## 参考
 
 1. [install gcc-9 on Ubuntu 18.04?-Stack Exchange](https://askubuntu.com/questions/1140183/install-gcc-9-on-ubuntu-18-04)
 2. [How to choose the default gcc and g++ version?-Stack Exchange](https://askubuntu.com/questions/26498/how-to-choose-the-default-gcc-and-g-version)
 3. [update-alternatives——linux软件版本管理命令-腾讯云](https://cloud.tencent.com/developer/article/1532283)
 4. [ubuntu18.04安装python3.7-CSDN博客](https://blog.csdn.net/JohnJim0/article/details/108226362)
+5. [Cannot import name '_gi'-Stack Overflow](https://stackoverflow.com/questions/59838238/importerror-cannot-import-name-gi-from-partially-initialized-module-gi-mo)

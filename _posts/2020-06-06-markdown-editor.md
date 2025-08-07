@@ -69,8 +69,9 @@ pinned: false
 6. Archivy [链接](https://archivy.github.io)
 7. Omni-Notes [链接](https://omninotes.app)
 8. Zim [链接](https://zim-wiki.org)
-9. NixNote2 [链接](https://github.com/baumgarr/nixnote2)
-10. CubyText [链接](https://github.com/vincentdchan/CubyText)
+9. P3X OneNote Linux [链接](https://www.corifeus.com/onenote)
+10. NixNote2 [链接](https://github.com/baumgarr/nixnote2)
+11. CubyText [链接](https://github.com/vincentdchan/CubyText)
 
 ## StackEdit
 
@@ -101,9 +102,10 @@ pinned: false
 15. [federicoiosue/Omni-Notes](https://github.com/federicoiosue/Omni-Notes)
 16. [federicoiosue/omni-notes-desktop](https://github.com/federicoiosue/omni-notes-desktop)
 17. [zim-desktop-wiki/zim-desktop-wiki](https://github.com/zim-desktop-wiki/zim-desktop-wiki)
-18. [baumgarr/nixnote2](https://github.com/baumgarr/nixnote2)
-19. [vincentdchan/CubyText](https://github.com/vincentdchan/CubyText)
-20. [benweet/stackedit](https://github.com/benweet/stackedit)
-21. [pandao/editor.md](https://github.com/pandao/editor.md)
-22. [doocs/md](https://github.com/doocs/md)
-23. [Tencent/cherry-markdown](https://github.com/Tencent/cherry-markdown)
+18. [patrikx3/onenote](https://github.com/patrikx3/onenote)
+19. [baumgarr/nixnote2](https://github.com/baumgarr/nixnote2)
+20. [vincentdchan/CubyText](https://github.com/vincentdchan/CubyText)
+21. [benweet/stackedit](https://github.com/benweet/stackedit)
+22. [pandao/editor.md](https://github.com/pandao/editor.md)
+23. [doocs/md](https://github.com/doocs/md)
+24. [Tencent/cherry-markdown](https://github.com/Tencent/cherry-markdown)

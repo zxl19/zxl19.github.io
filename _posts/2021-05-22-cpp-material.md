@@ -99,12 +99,22 @@ C++学习资料存档。
 
 1. [kamranahmedse/design-patterns-for-humans](https://github.com/kamranahmedse/design-patterns-for-humans)
 2. [DovAmir/awesome-design-patterns](https://github.com/DovAmir/awesome-design-patterns)
-3. [FengJungle/DesignPattern](https://github.com/FengJungle/DesignPattern)
-4. [igl42/cpp_software_design](https://github.com/igl42/cpp_software_design)
-5. [clpsz/Book-HFDP-Code](https://github.com/clpsz/Book-HFDP-Code)
-6. [mrlegowatch/HeadFirstDesignPatternsCpp](https://github.com/mrlegowatch/HeadFirstDesignPatternsCpp)
-7. [yaocoder/DesignPattern](https://github.com/yaocoder/DesignPattern)
-8. [fsaadatmand/Head-First-Design-Pattern-CPP-Examples](https://github.com/fsaadatmand/Head-First-Design-Pattern-CPP-Examples)
+3. [me115/design_patterns](https://github.com/me115/design_patterns)
+4. [JakubVojvoda/design-patterns-cpp](https://github.com/JakubVojvoda/design-patterns-cpp)
+5. [liu-jianhao/Cpp-Design-Patterns](https://github.com/liu-jianhao/Cpp-Design-Patterns)
+6. [FengJungle/DesignPattern](https://github.com/FengJungle/DesignPattern)
+7. [jaredtao/DesignPattern](https://github.com/jaredtao/DesignPattern)
+8. [Waleon/DesignPatterns](https://github.com/Waleon/DesignPatterns)
+9. [Apress/design-patterns-in-modern-cpp](https://github.com/Apress/design-patterns-in-modern-cpp)
+10. [liuzengh/design-pattern](https://github.com/liuzengh/design-pattern)
+11. [yogykwan/design-patterns-cpp](https://github.com/yogykwan/design-patterns-cpp)
+12. [igl42/cpp_software_design](https://github.com/igl42/cpp_software_design)
+13. [RefactoringGuru/design-patterns-cpp](https://github.com/RefactoringGuru/design-patterns-cpp)
+14. [downdemo/Design-Patterns-in-Cpp17](https://github.com/downdemo/Design-Patterns-in-Cpp17)
+15. [mrlegowatch/HeadFirstDesignPatternsCpp](https://github.com/mrlegowatch/HeadFirstDesignPatternsCpp)
+16. [clpsz/Book-HFDP-Code](https://github.com/clpsz/Book-HFDP-Code)
+17. [yaocoder/DesignPattern](https://github.com/yaocoder/DesignPattern)
+18. [fsaadatmand/Head-First-Design-Pattern-CPP-Examples](https://github.com/fsaadatmand/Head-First-Design-Pattern-CPP-Examples)
 
 ## 网站
 
