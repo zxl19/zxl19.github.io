@@ -75,9 +75,32 @@ pinned: false
 
 ### 教程
 
-1. [新学弓箭怎么才能不得“射病”？浅谈高颖“尺蠖”射法二三事-冷兵器研究所的文章-知乎](https://zhuanlan.zhihu.com/p/29953757)
-2. [明代《武经射学正宗》南京登龙馆版PDF-水替的文章-知乎](https://zhuanlan.zhihu.com/p/63717735)
-3. [求助传统弓大佬！！！？-大恶人的回答-知乎](https://www.zhihu.com/question/300801131/answer/541903005)
+1. 《射经》-〔唐〕王琚
+
+    - [射经-中华典藏](https://www.zhonghuadiancang.com/xueshuzaji/14055/)
+    - [教射经上篇-中华文库](https://www.zhonghuashu.com/wiki/%E6%95%99%E5%B0%84%E7%B6%93%E4%B8%8A%E7%AF%87)
+    - [教射经下篇-中华文库](https://www.zhonghuashu.com/wiki/%E6%95%99%E5%B0%84%E7%B6%93%E4%B8%8B%E7%AF%87)
+    - [射经-集海阁](https://jihaige.com/xueshuzaji-3qfmsghx-187467.html)
+
+2. 《武经射学正宗》-〔明〕高颖
+
+    - [武经射学正宗-书格](https://www.shuge.org/view/wu_jing_she_xue_zheng_zong/)
+    - [武经射学正宗-书道](https://shd.org.cn/book/show/63)
+    - [武经射学正宗-识典古籍](https://www.shidianguji.com/ens/book/SDZJ0319)
+    - [武经射学正宗-光明之门](http://www.gmzm.org/?gujitushu/wujingshexuezhengzong.html)
+    - [新学弓箭怎么才能不得“射病”？浅谈高颖“尺蠖”射法二三事-冷兵器研究所的文章-知乎](https://zhuanlan.zhihu.com/p/29953757)
+    - [明代最高弓箭典籍《武经射学正宗》竟只在日本流传？-冷兵器研究所的文章-知乎](https://zhuanlan.zhihu.com/p/28577564)
+    - [明朝高颖《武经射学正宗》下卷择物门总结：人、弓、射法的和谐-反求诸己的文章-知乎](https://zhuanlan.zhihu.com/p/16522223707)
+
+3. 《纪效新书·卷十三 射法篇》-〔明〕戚继光
+
+    - [卷十三 射法篇-中华典藏](https://www.diancang.xyz/xueshuzaji/jixiaoxinshu/8308.html)
+    - [卷十三 射法篇-中华文库](https://www.zhonghuashu.com/wiki/%E7%B4%80%E6%95%88%E6%96%B0%E6%9B%B8/%E5%8D%B7%E5%8D%81%E4%B8%89)
+
+4. 《科场射法指南车》-〔清〕刘奇
+
+    - [科场射法指南车-国学大师](https://www.guoxuedashi.net/shumu/1973341zm.html)
+    - [《科场射法指南车》简单笔记-zRoc的文章-知乎](https://zhuanlan.zhihu.com/p/307349881)
 
 ## UP主
 
@@ -108,3 +131,6 @@ pinned: false
 
 1. [六艺-百度百科](https://baike.baidu.com/item/%E5%85%AD%E8%89%BA/238715)
 2. [射义-百度百科](https://baike.baidu.com/item/%E5%B0%84%E4%B9%89/4308927)
+3. [弓箭类书籍单-书格](https://www.shuge.org/meet/topic/13537/)
+4. [射箭新手该如何入门？-油瓶射怪的回答-知乎](https://www.zhihu.com/question/39720596/answer/3566794145)
+5. [古代军队的弓箭手戴着头盔是否影响靠位？-江东的回答-知乎](https://www.zhihu.com/question/593074125/answer/2971291230)

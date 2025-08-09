@@ -172,6 +172,10 @@ pinned: false
 7. [Bensz](https://blognas.hwb0307.com)
 8. [阿昆的科研日常-CSDN博客](https://blog.csdn.net/qq_26447137)
 
+### 机械键盘
+
+1. [Thomas Baart](https://thomasbaart.nl)
+
 ### Meme相关
 
 1. [卜卜口](https://i.magiconch.com)
@@ -221,3 +225,4 @@ pinned: false
 33. [wklchris/wklchris.github.io](https://github.com/wklchris/wklchris.github.io)
 34. [wklchris/blog](https://github.com/wklchris/blog)
 35. [无人驾驶领域，你推荐那些综述性文章？-殷玮的回答-知乎](https://www.zhihu.com/question/355954682/answer/1513557367)
+36. [客制化键盘如何入坑？-SunshineSki的回答-知乎](https://www.zhihu.com/question/412146195/answer/1450865830)

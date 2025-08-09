@@ -63,3 +63,4 @@ sudo apt install libomp-dev
 12. [OpenMP在实际开发中应用多吗？-Justin的回答-知乎](https://www.zhihu.com/question/22347096/answer/110724861536)
 13. [openmp有必要存在吗,既然有了pthread?-昆冈玉的回答-知乎](https://www.zhihu.com/question/460601207/answer/2248436586)
 14. [多线程加速矩阵运算:OpenMP vs. pthread-1234554321的文章-知乎](https://zhuanlan.zhihu.com/p/642882774)
+15. [常用并行编程库都有哪些优缺点（threads.h，pthread，openmp等）？-bostonalen的回答-知乎](https://www.zhihu.com/question/642082042/answer/3413842844)
