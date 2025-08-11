@@ -28,7 +28,7 @@ find_package(Ceres REQUIRED QUIET)
 
 include_directories(
     include
-    # ${CERES_INCLUDE_DIRS}
+    # ${CERES_INCLUDE_DIRS} # 未设置该变量
 )
 
 add_executable(helloworld helloworld.cc)

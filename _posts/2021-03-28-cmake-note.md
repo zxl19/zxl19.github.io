@@ -86,11 +86,15 @@ set(CMAKE_BUILD_TYPE "Release")                                 # 编译模式�
 set(CMAKE_CXX_STANDARD 11)                                      # 指定C++标准：98、11、14、17、20
 set(CMAKE_CXX_STANDARD_REQUIRED ON)                             # 强制使用指定的C++标准（CMake 3.1以上支持）
 set(CMAKE_CXX_EXTENSIONS OFF)                                   # 禁用编译器扩展
-set(CMAKE_CXX_FLAGS "-std=c++11 -Wall")                         # 针对C++的编译选项（经测试用此方式无法指定C++标准，可能是由于CMake版本较高）
+set(CMAKE_CXX_FLAGS "-std=c++11 -Wall -pthread -fexceptions")   # 针对C++的编译选项（经测试用此方式无法指定C++标准，可能是由于CMake版本较高）
 set(CMAKE_CXX_FLAGS_DEBUG "${CMAKE_CXX_FLAGS} -O1 -g -ggdb")    # 针对C++在Debug模式下的编译选项
 set(CMAKE_CXX_FLAGS_RELEASE "${CMAKE_CXX_FLAGS} -O3")           # 针对C++在Release模式下的编译选项
 set(CMAKE_EXPORT_COMPILE_COMMANDS ON)                           # 生成compile_commands.json文件
 
+find_package(OpenMP REQUIRED QUIET)
+if(OpenMP_FOUND)
+    set(CMAKE_CXX_FLAGS "${CMAKE_CXX_FLAGS} ${OpenMP_CXX_FLAGS}")
+endif()
 find_package(Eigen3 REQUIRED QUIET)
 find_package(Ceres REQUIRED QUIET)
 find_package(PCL REQUIRED QUIET)
@@ -818,7 +822,7 @@ endif()
 17. [Eigen内存对齐-卷儿的文章-知乎](https://zhuanlan.zhihu.com/p/349413376)
 18. [catkin/CMakeLists.txt-ROS Wiki](http://wiki.ros.org/catkin/CMakeLists.txt)
 19. [SLAＭ算法开发中，Ｃ++编程+多节点，如何调试和优化算法比较方便呢？正确的调试方法是什么？-半闲居士的回答-知乎](https://www.zhihu.com/question/553199862/answer/2672914532)
-20. [cmake-developer](https://cmake.org/cmake/help/latest/manual/cmake-developer.7.html)
+20. [cmake-developer-CMake Documentation](https://cmake.org/cmake/help/latest/manual/cmake-developer.7.html)
 21. [变量1-博客园](https://www.cnblogs.com/narjaja/p/9533174.html)
 22. [变量2-掘金](https://juejin.cn/post/6998055558741753893)
 23. [变量3-CSDN博客](https://blog.csdn.net/juluwangriyue/article/details/123494008)

@@ -87,10 +87,12 @@ pinned: false
 3. [干货收藏-新手使用机顶闪光灯常见问题答疑（二）](https://www.bilibili.com/video/BV1Gw4m1X7xA/)
 4. [新中式人像拍摄技巧丨闪光灯与自然光的巧妙结合](https://www.bilibili.com/video/BV1XA411U7mr/)
 5. [逆光拍照背景总是过曝？有手就会的闪光灯教程来了！](https://www.bilibili.com/video/BV1pPD3YqErf/)
-6. [划时代的速度相机：我用A9M3拍下了极致的中式浪漫](https://www.bilibili.com/video/BV1ZF4m1T7n9/)
-7. [林海音丨如何用一盏小闪光灯拍出质感人像](https://www.bilibili.com/video/BV1Ki4y1F7Ud/)
-8. [【阴天用闪光灯为什么会被喷】 如何应用闪光灯 阴天使用闪光灯 闪光灯拍人像](https://www.bilibili.com/video/BV1uL411P7zH/)
-9. [【毒德大学字幕组】DPReview 佳能Canon Speedlite 470EX-AI闪光灯 人像摄影实战](https://www.bilibili.com/video/BV1Wb411p7Vi/)
+6. [TTL-闪光灯的“傻瓜”模式【新手闪光灯入门】](https://www.bilibili.com/video/BV1uUNEzcEP4/)
+7. [划时代的速度相机：我用A9M3拍下了极致的中式浪漫](https://www.bilibili.com/video/BV1ZF4m1T7n9/)
+8. [林海音丨如何用一盏小闪光灯拍出质感人像](https://www.bilibili.com/video/BV1Ki4y1F7Ud/)
+9. [摄影教程丨给我一盏闪光灯，教你在白天也能拍出蓝调时刻的海边梦核感](https://www.bilibili.com/video/BV1vH4y1w74g/)
+10. [【阴天用闪光灯为什么会被喷】 如何应用闪光灯 阴天使用闪光灯 闪光灯拍人像](https://www.bilibili.com/video/BV1uL411P7zH/)
+11. [【毒德大学字幕组】DPReview 佳能Canon Speedlite 470EX-AI闪光灯 人像摄影实战](https://www.bilibili.com/video/BV1Wb411p7Vi/)
 
 ## 微距摄影
 
