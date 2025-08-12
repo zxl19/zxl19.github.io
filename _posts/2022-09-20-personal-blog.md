@@ -74,6 +74,7 @@ pinned: false
 5. [Rob Landley](https://landley.net)
 6. [LinuxTOY](https://linuxtoy.org)
 7. [Linux Wiki](http://linux-wiki.cn/wiki/%E9%A6%96%E9%A1%B5)
+8. [Linux教程和文章](https://cn.linux-console.net)
 
 ### C++相关
 
