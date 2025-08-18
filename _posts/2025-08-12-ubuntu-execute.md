@@ -36,7 +36,7 @@ pinned: false
 
 ## 使用命令行解释器
 
-包括`sh`、`bash`、`zsh`等，启动一个新shell，在其中执行脚本。
+包括`sh`、`bash`、`zsh`等，启动一个子shell，在**子shell**中执行脚本中的命令，不会影响当前shell环境。
 
 ## 参考
 
