@@ -3,7 +3,7 @@ layout: post
 title: 应急资料存档
 date: 2025-08-20
 author: zxl19
-tags: [Survivor, Blog]
+tags: [Survivor, Archive]
 comments: true
 toc: true
 pinned: false
@@ -12,6 +12,10 @@ pinned: false
 我的应急资料存档。
 
 <!-- more -->
+
+```text
+故知胜有五：知可以战与不可以战者胜，识众寡之用者胜，上下同欲者胜，以虞待不虞者胜，将能而君不御者胜。此五者，知胜之道也。——《孙子兵法·谋攻篇》
+```
 
 ## 家庭应急物资储备建议清单
 
@@ -56,6 +60,10 @@ SHTF: Shit Hit The Fan
 4. [如果打仗，你会屯什么物资？-仁者见仁的回答-知乎](https://www.zhihu.com/question/587954871/answer/5863928621)
 
 ## 书籍
+
+```text
+深挖洞，广积粮，不称霸。
+```
 
 1. “三大神书”：
 
