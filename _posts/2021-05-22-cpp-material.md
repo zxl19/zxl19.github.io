@@ -158,7 +158,8 @@ C++学习资料存档。
 
 1. [C++ Insights](https://cppinsights.io)
 2. [Compiler Explorer](https://compiler-explorer.com)
-3. [Quick C++ Benchmarks](https://quick-bench.com)
+3. [Compiler Explorer](https://godbolt.org)
+4. [Quick C++ Benchmarks](https://quick-bench.com)
 
 ## 书籍
 
@@ -181,6 +182,7 @@ C++学习资料存档。
 8. [C++有哪些学习网站？-南山烟雨珠江潮的回答-知乎](https://www.zhihu.com/question/591342877/answer/1913679301863270127)
 9. [ClangFormatStyleOptions](https://clang.llvm.org/docs/ClangFormatStyleOptions.html)
 10. [推荐10款C++在线编译器-CSDN博客](https://blog.csdn.net/cool99781/article/details/104516581)
-11. [melpon/wandbox](https://github.com/melpon/wandbox)
-12. [andreasfertig/cppinsights](https://github.com/andreasfertig/cppinsights)
-13. [《C++实战：核心技术与最佳实践》——与吴咏炜老师一起走进C++的实战世界-人民邮电出版社的文章-知乎](https://zhuanlan.zhihu.com/p/14044433366)
+11. [C++ lambda表达式的[&]是怎么做到捕获当前作用域所有变量的？-南山烟雨珠江潮的回答-知乎](https://www.zhihu.com/question/616815005/answer/1938549921235050627)
+12. [melpon/wandbox](https://github.com/melpon/wandbox)
+13. [andreasfertig/cppinsights](https://github.com/andreasfertig/cppinsights)
+14. [《C++实战：核心技术与最佳实践》——与吴咏炜老师一起走进C++的实战世界-人民邮电出版社的文章-知乎](https://zhuanlan.zhihu.com/p/14044433366)

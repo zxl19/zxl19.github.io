@@ -164,15 +164,17 @@ Meme这个词最初源自英国著名科学家理查德·道金斯所著的《�
 4. [神奇海螺试验场](https://lab.magiconch.com)
 5. [作品集-杨二](https://yangerxiao.com/works)
 6. [IT TOOLS](https://it-tools.tech)
-7. [Online Tools-RedKetchup](https://redketchup.io)
-8. [Online Tools-lddgo](https://www.lddgo.net/en/index)
-9. [Online Calculators & Tools-RapidTables](https://www.rapidtables.com)
-10. [在线工具](https://toolonline.net)
-11. [A.Tools](https://www.a.tools)
-12. [蛙蛙工具](https://www.iamwawa.cn)
-13. [GGO导航网](https://www.ggonav.com)
-14. [zhaoolee/ChromeAppHeroes](https://github.com/zhaoolee/ChromeAppHeroes)
-15. [zhaoolee/OnlineToolsBook](https://github.com/zhaoolee/OnlineToolsBook)
+7. [UTILS](https://utils.com)
+8. [Online Tools-RedKetchup](https://redketchup.io)
+9. [Online Tools-lddgo](https://www.lddgo.net/en/index)
+10. [Online Tools-ToolsMini](https://toolsmini.com)
+11. [Online Calculators & Tools-RapidTables](https://www.rapidtables.com)
+12. [在线工具](https://toolonline.net)
+13. [A.Tools](https://www.a.tools)
+14. [蛙蛙工具](https://www.iamwawa.cn)
+15. [GGO导航网](https://www.ggonav.com)
+16. [zhaoolee/ChromeAppHeroes](https://github.com/zhaoolee/ChromeAppHeroes)
+17. [zhaoolee/OnlineToolsBook](https://github.com/zhaoolee/OnlineToolsBook)
 
 ### 大模型
 
@@ -211,6 +213,36 @@ Meme这个词最初源自英国著名科学家理查德·道金斯所著的《�
 1. [PICUI图床](https://picui.cn)
 2. [IMG Table](https://imgtbl.com)
 3. [图壳](https://imgkr.com)
+
+### 颜色
+
+#### Color Code
+
+1. [Colors Tutorial-W3Schools](https://www.w3schools.com/colors/)
+2. [Online Color Picker](https://colorpicker.me)
+3. [RGB Color Picker](https://rgbcolorpicker.com)
+4. [HTML Color Codes](https://htmlcolorcodes.com)
+5. [HTML Color Codes](https://html-color.codes)
+
+#### Color Palette
+
+1. [ColorHexa](https://www.colorhexa.com)
+2. [colorcodes.io](https://colorcodes.io)
+3. [Selecolor](https://www.selecolor.com/en/)
+4. [GetColor](https://get-color.com)
+5. [Hex Color Codes](https://color-hex.org)
+6. [RGB Color Code](https://rgbcolorcode.com)
+7. [HTML Color Codes Picker](https://html-color-codes.info)
+8. [Color Mixer & RGB Color Picker](https://whatcolormake.com)
+9. [The Simple Color Picker](https://thesimplecolorpicker.com)
+
+#### Color Eyedropper
+
+1. [Color Code Finder](https://colorcodefinder.com)
+2. [Color Picker & Eyedropper-CodeShack](https://codeshack.io/color-picker/)
+3. [Color Picker](https://photocolorpicker.com)
+4. [Pick color online](https://pickcolor.online)
+5. [SnappyColor](https://www.snappycolor.com)
 
 ### 数字图书馆
 

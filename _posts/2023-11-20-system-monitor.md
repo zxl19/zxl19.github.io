@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Ubuntu系统监控系统状态
+title: 在Ubuntu系统中监控系统状态
 date: 2023-11-20
 author: zxl19
 tags: [Ubuntu, Note]
@@ -12,6 +12,36 @@ pinned: false
 记录一下如何在Ubuntu系统中监控系统状态。
 
 <!-- more -->
+
+## 使用`top`命令
+
+## 使用`htop`命令
+
+### 安装
+
+```shell
+sudo apt install htop
+```
+
+## 使用`nmon`命令
+
+### 安装
+
+```shell
+sudo apt install nmon
+```
+
+## 使用`glances`命令
+
+### 安装
+
+```shell
+python3 -m pip install --user glances
+```
+
+## 使用polybar状态栏
+
+1. [polybar/polybar](https://github.com/polybar/polybar)
 
 ## 使用SysPeek
 

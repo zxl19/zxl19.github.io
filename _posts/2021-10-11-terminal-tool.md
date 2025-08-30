@@ -56,6 +56,7 @@ pinned: false
 2. [gpustat](https://github.com/wookayin/gpustat)
 3. [nvtop](https://github.com/Syllo/nvtop)
 4. [nvitop](https://github.com/XuehaiPan/nvitop)
+5. [nvidia-htop.py](https://github.com/peci1/nvidia-htop)
 
 ## 文件操作
 

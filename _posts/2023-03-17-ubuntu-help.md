@@ -91,9 +91,10 @@ python3 -m pip install tldr
 7. [Linux命令搜索引擎](https://wangchujiang.com/linux-command/)
 8. [Linux命令大全-菜鸟教程](https://www.runoob.com/linux/linux-command-manual.html)
 9. [Linux常用命令集合-菜鸟教程](https://www.runoob.com/w3cnote/linux-common-command.html)
-10. [Linux Command Library](https://linuxcommandlibrary.com)
-11. [cheat.sh](https://cheat.sh)
-12. [bropages](http://bropages.org)
+10. [Linux命令大全（手册）](https://www.linuxcool.com)
+11. [Linux Command Library](https://linuxcommandlibrary.com)
+12. [cheat.sh](https://cheat.sh)
+13. [bropages](http://bropages.org)
 
 ### GitHub
 
