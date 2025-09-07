@@ -77,7 +77,14 @@ SHTF: Shit Hit The Fan
     - 《美军生存手册》
     - [The Zombie Survival Guide](https://ia904503.us.archive.org/9/items/TheZombieSurvivalGuideByMaxBrooks/The%20Zombie%20Survival%20Guide%20by%20Max%20Brooks.pdf)
 
+3. 《在地下》
+
 ## 网站
+
+```text
+A human being should be able to change a diaper, plan an invasion, butcher a hog, conn a ship, design a building, write a sonnet, balance accounts, build a wall, set a bone, comfort the dying, take orders, give orders, cooperate, act alone, solve equations, analyze a new problem, pitch manure, program a computer, cook a tasty meal, fight efficiently, die gallantly. Specialization is for insects. —— Robert Heinlein, Time Enough for Love
+一个男人，应该能够换尿布，策划战争，杀猪，开船，设计房子，写十四行诗，结算账户，砌墙，接脱臼的骨头，安慰濒死的人，服从命令，发布命令，携手合作，独立行动，解数学方程，分析新问题，铲粪，电脑编程，做出可口的饭，善打架，勇敢地死去。只有昆虫才专业化。——罗伯特·海因莱因《时间足够你爱》
+```
 
 1. [The Art of Manliness](https://www.artofmanliness.com)
 
@@ -88,3 +95,6 @@ SHTF: Shit Hit The Fan
 3. [中国有末日准备者（Doomsday Prepper）吗？-金玉木火的回答-知乎](https://www.zhihu.com/question/37243703/answer/3491492946)
 4. [《怀斯曼生存手册》:如果没有水电，通讯和交通瘫痪，食物和水源告急，我们该怎么生存下去？-书单SHUDAN的文章-知乎](https://zhuanlan.zhihu.com/p/115816806)
 5. [三大神书：军地两用人才之友、赤脚医生手册、民兵军事训练手册（电子版）-天涯神贴的文章-知乎](https://zhuanlan.zhihu.com/p/651188400)
+6. [你看过最奇怪的书是什么？-人形自走吐槽炮的回答-知乎](https://www.zhihu.com/question/24921291/answer/106470566882)
+7. [Robert Anson Heinlein的一段话-简书](https://www.jianshu.com/p/1575e42ccf1c)
+8. [你读过的最有力量的一段文字是什么？-想赚钱去植发的回答-知乎](https://www.zhihu.com/question/47436256/answer/3297556703)

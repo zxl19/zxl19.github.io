@@ -30,19 +30,18 @@ Meme这个词最初源自英国著名科学家理查德·道金斯所著的《�
 ### 图片
 
 1. [O'RLY封面工厂](https://orly.nanmu.me)
-2. [维基百科转参考文献](https://m-journal.org)
-3. [狗屁不通文章生成器](https://suulnnka.github.io/BullshitGenerator/index.html)
-4. [Avataaars Generator](https://getavataaars.com)
-5. [Ugly Avatar](https://www.ugly-avatar.com)
-6. [Ugly Avatar](https://txstc55.github.io/ugly-avatar/)
-7. [福音战士标题生成器](https://lab.magiconch.com/eva-title/)
-8. [MAGI System](https://lab.magiconch.com/magi/)
-9. [中国制霸生成器](https://lab.magiconch.com/china-ex/)
-10. [全球制霸生成器](https://lab.magiconch.com/world-ex/)
-11. [吃货制霸生成器](https://food.lvwzhen.com/)
-12. [斜着看生成器](https://lab.magiconch.com/xzk/)
-13. [绯红-中国传统颜色手册](https://colors.ichuantong.cn)
-14. [Linify](http://linify.me)
+2. [Avataaars Generator](https://getavataaars.com)
+3. [Ugly Avatar](https://www.ugly-avatar.com)
+4. [Ugly Avatar](https://txstc55.github.io/ugly-avatar/)
+5. [福音战士标题生成器](https://lab.magiconch.com/eva-title/)
+6. [MAGI System](https://lab.magiconch.com/magi/)
+7. [中国制霸生成器](https://lab.magiconch.com/china-ex/)
+8. [全球制霸生成器](https://lab.magiconch.com/world-ex/)
+9. [吃货制霸生成器](https://food.lvwzhen.com/)
+10. [斜着看生成器](https://lab.magiconch.com/xzk/)
+11. [Nano Banana](https://nano-banana.io)
+12. [绯红-中国传统颜色手册](https://colors.ichuantong.cn)
+13. [Linify](http://linify.me)
 
 ### 数学
 
@@ -50,9 +49,11 @@ Meme这个词最初源自英国著名科学家理查德·道金斯所著的《�
 
 ### 文本
 
-1. [vietnh1009/ASCII-generator](https://github.com/vietnh1009/ASCII-generator)
-2. [ArthurSonzogni/Diagon](https://github.com/ArthurSonzogni/Diagon)
-3. [BEPb/image_to_ascii](https://github.com/BEPb/image_to_ascii)
+1. [维基百科转参考文献](https://m-journal.org)
+2. [狗屁不通文章生成器](https://suulnnka.github.io/BullshitGenerator/index.html)
+3. [vietnh1009/ASCII-generator](https://github.com/vietnh1009/ASCII-generator)
+4. [ArthurSonzogni/Diagon](https://github.com/ArthurSonzogni/Diagon)
+5. [BEPb/image_to_ascii](https://github.com/BEPb/image_to_ascii)
 
 ### 大模型
 
@@ -125,7 +126,12 @@ Meme这个词最初源自英国著名科学家理查德·道金斯所著的《�
 10. [合成大西瓜](http://tool.liumingye.cn/watermelon/)
 11. [EVANGELION & 扫雷](https://v.magiconch.com/mine-sweeper)
 12. [Norman the Necromancer](https://js13kgames.com/entries/norman-the-necromancer)
-13. [Sandtrix](https://mslivo.itch.io/sandtrix)
+13. [Sandtrix](https://www.sandtrix.net)
+14. [Sandtrix](https://mslivo.itch.io/sandtrix)
+15. [Wplace](https://wplace.live)
+16. [Wplace.live Guide](https://wplace.life)
+17. [Wplace Info](https://wplace.info)
+18. [Wigglypaint](https://www.wigglypaint.art)
 
 ### GitHub
 
