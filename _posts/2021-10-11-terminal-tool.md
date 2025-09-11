@@ -30,6 +30,10 @@ pinned: false
 
 1. [sharkdp/shell-functools](https://github.com/sharkdp/shell-functools)
 
+## 命令行工具箱
+
+1. [x-cmd](https://github.com/x-cmd/x-cmd)
+
 ## 时钟
 
 1. date
