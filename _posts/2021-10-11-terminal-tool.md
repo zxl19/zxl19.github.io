@@ -45,6 +45,13 @@ pinned: false
 7. [coolcode/tomato-clock](https://github.com/coolcode/tomato-clock)
 8. [lucassabreu/clockify-cli](https://github.com/lucassabreu/clockify-cli)
 
+## 计算器
+
+1. bc
+2. expr
+3. gnome-calculator
+4. factor
+
 ## 性能监控
 
 ### CPU
@@ -248,25 +255,27 @@ pinned: false
 3. [哪些命令行工具让你相见恨晚？-Jackpop的回答-知乎](https://www.zhihu.com/question/41115077/answer/624385012)
 4. [有哪些命令行的软件堪称神器？-int32bit的回答-知乎](https://www.zhihu.com/question/59227720/answer/163594782)
 5. [有哪些命令行的软件堪称神器？-韦易笑的回答-知乎](https://www.zhihu.com/question/59227720/answer/286665684)
-6. [C/C++编程有哪些值得推荐的工具？-程序喵大人的回答-知乎](https://www.zhihu.com/question/23357089/answer/1992218543)
-7. [九张图一览Linux性能工具全景图-michaelli的文章-知乎](https://zhuanlan.zhihu.com/p/590821534)
-8. [profiling与性能优化总结-MegEngine Bot的文章-知乎](https://zhuanlan.zhihu.com/p/362575905)
-9. [C和C++中有哪些容易被坑的undefined behaviour？-南山烟雨珠江潮的回答-知乎](https://www.zhihu.com/question/43621151/answer/85045768298)
-10. [C和C++中有哪些容易被坑的undefined behaviour？-MingX01的回答-知乎](https://www.zhihu.com/question/43621151/answer/96187093)
-11. [【工具篇】如何优雅地监控显卡(GPU)使用情况？-聚丙烯酰胺的文章-知乎](https://zhuanlan.zhihu.com/p/577533593)
-12. [nvitop: 史上最强GPU性能实时监测工具-AGI之心的文章-知乎](https://zhuanlan.zhihu.com/p/614024375)
-13. [如何在Ubuntu和其他Linux发行版上使用7Zip-Linux中国的文章-知乎](https://zhuanlan.zhihu.com/p/65791205)
-14. [Trash-Cli：Linux上的命令行回收站工具-Linux中国的文章-知乎](https://zhuanlan.zhihu.com/p/44948578)
-15. [一句f**k代码自动纠错，美女程序员教你建一个狂拽酷炫的终端-量子位的文章-知乎](https://zhuanlan.zhihu.com/p/87694586)
-16. [为什么说zsh是shell中的极品？-韦易笑的回答-知乎](https://www.zhihu.com/question/21418449/answer/300879747)
-17. [Oh My Zsh-简书](https://www.jianshu.com/p/b8a80dd59414)
-18. [Oh My Zsh-博客园](https://www.cnblogs.com/lcgbk/p/13255836.html)
-19. [五彩斑斓的Black——Python代码格式化工具-muzing的文章-知乎](https://zhuanlan.zhihu.com/p/418458450)
-20. [Static program analysis-Wikipedia](https://en.wikipedia.org/wiki/Static_program_analysis)
-21. [Lint (software)-Wikipedia](https://en.wikipedia.org/wiki/Lint_(software))
-22. [Clang Static Analyzer](https://clang-analyzer.llvm.org)
-23. [CodeChecker: running the analyzer from the command line](https://clang-analyzer.llvm.org/codechecker.html)
-24. [神仙GDB调试工具gdb-dashboard-电子的文章-知乎](https://zhuanlan.zhihu.com/p/435918702)
-25. [大佬们都是怎么用gdb的？或者用吗？-yaoyaohu的回答-知乎](https://www.zhihu.com/question/65306462/answer/94492305604)
-26. [Ubuntu下实现命令行走代理/终端走代理的方法-lyh458的文章-知乎](https://zhuanlan.zhihu.com/p/377550825)
-27. [40个超有趣的Linux命令行彩蛋和游戏-张子豪的文章-知乎](https://zhuanlan.zhihu.com/p/51904179)
+6. [在Linux命令行中使用计算器的5个命令-博客园](https://www.cnblogs.com/yychuyu/p/13543143.html)
+7. [作为程序员的你，常用的工具软件有哪些？-程序员良许的回答-知乎](https://www.zhihu.com/question/22867411/answer/645732497)
+8. [C/C++编程有哪些值得推荐的工具？-程序喵大人的回答-知乎](https://www.zhihu.com/question/23357089/answer/1992218543)
+9. [九张图一览Linux性能工具全景图-michaelli的文章-知乎](https://zhuanlan.zhihu.com/p/590821534)
+10. [profiling与性能优化总结-MegEngine Bot的文章-知乎](https://zhuanlan.zhihu.com/p/362575905)
+11. [C和C++中有哪些容易被坑的undefined behaviour？-南山烟雨珠江潮的回答-知乎](https://www.zhihu.com/question/43621151/answer/85045768298)
+12. [C和C++中有哪些容易被坑的undefined behaviour？-MingX01的回答-知乎](https://www.zhihu.com/question/43621151/answer/96187093)
+13. [【工具篇】如何优雅地监控显卡(GPU)使用情况？-聚丙烯酰胺的文章-知乎](https://zhuanlan.zhihu.com/p/577533593)
+14. [nvitop: 史上最强GPU性能实时监测工具-AGI之心的文章-知乎](https://zhuanlan.zhihu.com/p/614024375)
+15. [如何在Ubuntu和其他Linux发行版上使用7Zip-Linux中国的文章-知乎](https://zhuanlan.zhihu.com/p/65791205)
+16. [Trash-Cli：Linux上的命令行回收站工具-Linux中国的文章-知乎](https://zhuanlan.zhihu.com/p/44948578)
+17. [一句f**k代码自动纠错，美女程序员教你建一个狂拽酷炫的终端-量子位的文章-知乎](https://zhuanlan.zhihu.com/p/87694586)
+18. [为什么说zsh是shell中的极品？-韦易笑的回答-知乎](https://www.zhihu.com/question/21418449/answer/300879747)
+19. [Oh My Zsh-简书](https://www.jianshu.com/p/b8a80dd59414)
+20. [Oh My Zsh-博客园](https://www.cnblogs.com/lcgbk/p/13255836.html)
+21. [五彩斑斓的Black——Python代码格式化工具-muzing的文章-知乎](https://zhuanlan.zhihu.com/p/418458450)
+22. [Static program analysis-Wikipedia](https://en.wikipedia.org/wiki/Static_program_analysis)
+23. [Lint (software)-Wikipedia](https://en.wikipedia.org/wiki/Lint_(software))
+24. [Clang Static Analyzer](https://clang-analyzer.llvm.org)
+25. [CodeChecker: running the analyzer from the command line](https://clang-analyzer.llvm.org/codechecker.html)
+26. [神仙GDB调试工具gdb-dashboard-电子的文章-知乎](https://zhuanlan.zhihu.com/p/435918702)
+27. [大佬们都是怎么用gdb的？或者用吗？-yaoyaohu的回答-知乎](https://www.zhihu.com/question/65306462/answer/94492305604)
+28. [Ubuntu下实现命令行走代理/终端走代理的方法-lyh458的文章-知乎](https://zhuanlan.zhihu.com/p/377550825)
+29. [40个超有趣的Linux命令行彩蛋和游戏-张子豪的文章-知乎](https://zhuanlan.zhihu.com/p/51904179)

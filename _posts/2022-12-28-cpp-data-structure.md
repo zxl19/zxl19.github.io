@@ -81,7 +81,7 @@ void post_order(TreeNode* Node) {
 
 1. [数据结构（C++语言版）](https://dsa.cs.tsinghua.edu.cn/~deng/ds/dsacpp/index.htm)
 2. [数据结构-C语言中文网](https://c.biancheng.net/data_structure/)
-3. [Hello 算法](https://www.hello-algo.com)
+3. [Hello算法](https://www.hello-algo.com)
 4. [mikeizbicki/cmc-csci046](https://github.com/mikeizbicki/cmc-csci046)
 
 ### GitHub
