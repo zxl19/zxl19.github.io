@@ -15,85 +15,260 @@ pinned: false
 
 ## 软件存档
 
-按照字母顺序排序。
+### 系统相关
 
-### 已安装
+#### 系统管理
 
-1. 7-Zip
-2. Adobe Acrobat XI Pro
-3. Adobe DNG Converter
-4. CloudCompare
-5. CrystalDiskInfo
-6. FiiO Control Panel
-7. foobar2000
-8. Geek Uninstaller
-9. GeoGebra
-10. Git for Windows
-11. GitHub Desktop
-12. Luminar Neo
-13. Meld
-14. Mendeley Desktop
-15. NeatReader
-16. PotPlayer
-17. PowerToys
-18. qBittorrent
-19. RawTherapee
-20. Rufus
-21. SpaceSniffer
-22. TeXstudio
-23. Visual Studio Code
-24. XMind
-25. 格式工厂
-26. 尼康工坊
-27. 万兴喵影
+1. [Dism++](https://github.com/Chuyu-Team/Dism-Multi-language)
+2. [AIDA64](https://www.aida64.com)
+3. [winutil](https://github.com/ChrisTitusTech/winutil)
 
-### 未安装
+#### 硬盘管理
 
-1. Beyond Compare
-2. calibre
-3. CCleaner
+1. [CrystalDiskInfo](https://crystalmark.info/en/software/crystaldiskinfo/)
+2. [DiskGenius](https://www.diskgenius.com)
+
+#### 文件管理
+
+1. [Everything](https://www.voidtools.com)
+2. [srwi/EverythingToolbar](https://github.com/srwi/EverythingToolbar)
+3. [Listary](https://www.listary.com)
+4. [Total Commander](https://www.ghisler.com)
+5. [Q-Dir](https://q-dir.com)
+
+#### 空间管理
+
+1. [Spacesniffer](http://www.uderzo.it/main_products/space_sniffer/)
+2. [CCleaner](https://www.ccleaner.com)
+3. [Recuva](https://www.ccleaner.com/recuva)
+
+#### 软件卸载
+
+1. [Geek Uninstaller](https://geekuninstaller.com)
+
+#### 启动盘制作
+
+1. [Rufus](https://rufus.ie/en/)
+2. [微PE](https://www.wepe.com.cn)
+
+#### 光盘映像文件处理
+
+1. [PowerISO](https://www.poweriso.com)
+2. [UltraISO](https://www.ultraiso.com)
+3. [DAEMON Tools](https://www.daemon-tools.cc/home)
+
+#### 启动器
+
+1. [Wox](http://www.wox.one)
+2. [Launchy](https://launchy.net)
+
+#### 工具箱
+
+1. [PowerToys](https://learn.microsoft.com/en-us/windows/powertoys/install)
+2. [DevToys](https://devtoys.app)
+3. [Rubick](https://rubickcenter.github.io/docs/)
+4. [uTools](https://www.u-tools.cn)
+
+### 办公相关
+
+#### 浏览器
+
+1. [Chrome](https://www.google.com/chrome/)
+2. [Edge](https://www.microsoft.com/en-us/edge/)
+3. [Cold Turkey](https://getcoldturkey.com)
 4. Clash
-5. Cmder
-6. Cold Turkey
-7. DAEMON Tools
-8. DeepSeek
-9. DevToys
-10. DiskGenius
-11. Dism++
-12. drawio-desktop
-13. Everything
-14. FileZilla Client
-15. Fliqlo
-16. Inkscape
-17. Jellyfin
-18. Listary
-19. Manuskript
-20. MayCad
-21. MayTube
-22. MeshLab
-23. Meshmixer
-24. Obsidian
-25. Photoflare
-26. PlotJuggler
-27. Pomatez
-28. Pomotroid
-29. PowerDVD
-30. Recuva
-31. Rubick
-32. ShareX
-33. Sider
-34. Snipaste
-35. SumatraPDF
-36. TeamViewer
-37. Transmission
-38. Typora
-39. Understand
-40. VLC media player
-41. winutil
-42. Wox
-43. Xournal++
-44. ZoomIt
-45. Zotero
+
+#### 压缩工具
+
+1. [7-Zip](https://www.7-zip.org)
+2. [Bandizip](https://www.bandisoft.com/bandizip/)
+
+#### PDF
+
+1. [Adobe Acrobat Pro](https://www.adobe.com/acrobat/acrobat-pro.html)
+2. [SumatraPDF](https://www.sumatrapdfreader.org/free-pdf-reader)
+
+#### 截图录屏工具
+
+1. [ShareX](https://getsharex.com)
+2. [Snipaste](https://www.snipaste.com)
+3. [ZoomIt](https://learn.microsoft.com/en-us/sysinternals/downloads/zoomit)
+
+#### 番茄钟
+
+1. [Pomotroid](https://splode.github.io/pomotroid/)
+2. [Pomatez](https://zidoro.github.io/pomatez/)
+
+#### 思维导图
+
+1. [XMind](https://xmind.cn)
+2. [SimpleMindMap](https://wanglin2.github.io/mind-map-docs/)
+
+#### 远程桌面
+
+1. [TeamViewer](https://www.teamviewer.com)
+2. [ToDesk](https://www.todesk.com)
+3. [向日葵](https://sunlogin.oray.com)
+
+#### Microsoft Office
+
+1. [OdysseusYuan/LKY_OfficeTools](https://github.com/OdysseusYuan/LKY_OfficeTools)
+2. [OdysseusYuan/Mocreak](https://github.com/OdysseusYuan/Mocreak)
+
+#### 微信
+
+1. [LC044/WeChatMsg](https://github.com/LC044/WeChatMsg)
+2. [blackboxo/CleanMyWechat](https://github.com/blackboxo/CleanMyWechat)
+
+#### 系统美化
+
+1. [Fliqlo](https://fliqlo.com)
+2. [Tickeys](https://yingdev.com/projects/tickeys)
+
+### 科研相关
+
+#### 文本编辑器
+
+1. [Visual Studio Code](https://code.visualstudio.com)
+2. [NotePad--](https://github.com/cxasm/notepad--)
+
+#### Markdown编辑器
+
+1. [Typora](https://typora.io)
+2. [Obsidian](https://obsidian.md)
+3. [Xournal++](https://xournalpp.github.io)
+4. [Manuskript](https://www.theologeek.ch/manuskript/)
+
+#### 文件差异对比
+
+1. [Meld](https://meldmerge.org)
+2. [WinMerge](https://winmerge.org)
+3. [Beyond Compare](https://www.scootersoftware.com)
+4. [CCompare](https://github.com/cxasm/cc-compare)
+
+#### Git版本管理
+
+1. [Git for Windows](https://git-scm.com/downloads/win)
+2. [GitHub Desktop](https://github.com/apps/desktop)
+
+#### 文件版本管理
+
+1. [Vertree维树](https://w0fv1.github.io/vertree/)
+
+#### 点云可视化
+
+1. [CloudCompare](https://www.cloudcompare.org)
+
+#### 时序数据可视化
+
+1. [PlotJuggler](https://plotjuggler.io)
+
+#### LaTeX
+
+1. [TeX Live](https://tug.org/texlive/)
+2. [TeXstudio](https://texstudio.sourceforge.net)
+3. [TeXmacs](https://www.texmacs.org/tmweb/home/welcome.en.html)
+4. [LyX](https://www.lyx.org)
+
+#### CAD
+
+1. [MeshMixer](https://meshmixer.com)
+2. [MeshLab](https://www.meshlab.net)
+3. [MayCad](https://www.maytec.de/en/maycad/)
+4. [MayTube](https://may-tube.com)
+
+#### 绘图
+
+1. [drawio-desktop](https://www.drawio.com)
+2. [Inkscape](https://inkscape.org)
+
+#### 数学绘图
+
+1. [GeoGebra](https://www.geogebra.org)
+2. [KAlgebra](https://apps.kde.org/kalgebra/)
+
+#### 虚拟机
+
+1. [VirtualBox](https://www.virtualbox.org)
+2. [VMware](https://www.vmware.com)
+
+#### 文献管理
+
+1. [Mendeley Desktop](https://www.mendeley.com)
+2. [Zotero](https://www.zotero.org)
+
+### 开发相关
+
+#### 终端
+
+1. [Cmder](https://cmder.app)
+2. [X-CMD](https://www.x-cmd.com)
+
+#### 远程登录工具
+
+1. [FileZilla](https://filezilla-project.org)
+2. [MobaXterm](https://mobaxterm.mobatek.net)
+3. [PuTTY](https://www.chiark.greenend.org.uk/~sgtatham/putty/)
+
+#### 代码分析
+
+1. [Understand](https://scitools.com)
+
+#### 哈希计算
+
+1. [IgorWare Hasher](https://www.igorware.com/hasher)
+2. [iHasher](https://share.weiyun.com/m4VMLcNb)
+
+#### 数据库
+
+1. [DB Browser for SQLite](https://sqlitebrowser.org)
+
+### 娱乐相关
+
+#### 摄影后期
+
+1. [Adobe DNG Converter](https://helpx.adobe.com/camera-raw/using/adobe-dng-converter.html)
+2. [Luminar Neo](https://skylum.com)
+3. [RawTherapee](http://rawtherapee.com)
+4. [尼康工坊](https://www.nikon.com.cn/sc_CN/product/software/nx-studio)
+
+#### 视频剪辑
+
+1. [格式工厂](http://www.pcfreetime.com/formatfactory/CN/index.html)
+2. [万兴喵影](https://miao.wondershare.cn)
+
+#### 音频播放
+
+1. [foobar2000](https://www.foobar2000.org)
+2. [foobar2000汉化版](https://www.cnblogs.com/asionwu)
+3. [FiiO Control Panel](https://www.fiio.com)
+
+#### 视频播放
+
+1. [PotPlayer](https://potplayer.daum.net)
+2. [VLC media player](https://www.videolan.org/vlc/)
+3. [GridPlayer](https://github.com/vzhd1701/gridplayer)
+4. [PowerDVD](https://cn.cyberlink.com/downloads/trials/powerdvd-ultra/)
+
+#### 电子书管理
+
+1. [calibre](https://calibre-ebook.com)
+2. [NeatReader](https://www.neat-reader.com)
+
+#### PT客户端
+
+1. [qBittorrent](https://www.qbittorrent.org)
+2. [Transmission](https://transmissionbt.com)
+
+#### 影音库管理
+
+1. [Jellyfin](https://jellyfin.org)
+
+#### 下载
+
+1. [yt-dlp](https://github.com/yt-dlp/yt-dlp)
+2. [Hitomi-Downloader](https://github.com/KurtBestor/Hitomi-Downloader)
+3. [Gopeed](https://gopeed.com)
 
 ## 常见问题及解决方法
 
@@ -130,20 +305,22 @@ pinned: false
 3. [Windows系统中有哪些软件可以被你评为「必装」？-ag獭的回答-知乎](https://www.zhihu.com/question/21287237/answer/983612572)
 4. [有哪些软件堪称神器，却很少人知道？-坚果云的回答-知乎](https://www.zhihu.com/question/327826314/answer/1497578134)
 5. [你最满意的10款PC软件是什么？-zhuobie的回答-知乎](https://www.zhihu.com/question/469450888/answer/2029970155)
-6. [微软复活20年前生产力工具PowerToys，填补Win10缺失功能，开源且免费-量子位的文章-知乎](https://zhuanlan.zhihu.com/p/166292161)
+6. [你最满意的10款PC软件是什么？-IsNullOrEmpty的回答-知乎](https://www.zhihu.com/question/469450888/answer/1899028283573634437)
 7. [Windows有哪些强烈不建议装的软件？-一大大的回答-知乎](https://www.zhihu.com/question/392313958/answer/1199936945)
 8. [最良心的软件可以良心到什么程度？-玩家翁伟的回答-知乎](https://www.zhihu.com/question/52157612/answer/756777411)
-9. [代码对比工具，就用这7个！-李二狗的文章-知乎](https://zhuanlan.zhihu.com/p/375551784)
-10. [满足日常需求的应用（三）：图像编辑器丨Linux中国-Linux中国的文章-知乎](https://zhuanlan.zhihu.com/p/407938013)
-11. [Photoflare：满足简单编辑需求的开源图像编辑器丨Linux中国-Linux中国的文章-知乎](https://zhuanlan.zhihu.com/p/193158124)
-12. [你用过的最好的代码阅读或编辑工具是什么？-韦易笑的回答-知乎](https://www.zhihu.com/question/19570229/answer/1626066191)
-13. [程序员的Windows工具箱「GitHub 热点速览」-HelloGitHub的文章-知乎](https://zhuanlan.zhihu.com/p/631389850)
-14. [不喜欢diff么？试试Meld吧丨Linux中国-Linux中国的文章-知乎](https://zhuanlan.zhihu.com/p/124017201)
-15. [使用Meld在Linux中以图形方式比较文件和文件夹丨Linux中国-Linux中国的文章-知乎](https://zhuanlan.zhihu.com/p/317628626)
-16. [适用于Linux系统的最佳白板应用丨Linux中国-Linux中国的文章-知乎](https://zhuanlan.zhihu.com/p/467327167)
-17. [111-硬盘状态检测工具CrystalDiskInfo-bsworld的文章-知乎](https://zhuanlan.zhihu.com/p/621817951)
-18. [硬盘坏道检测软件HDTune、DiskGenius、MHDD有什么区别？哪一个检测更准确？-雲在青天水在瓶的回答-知乎](https://www.zhihu.com/question/508943113/answer/2537752096)
-19. [Windows 10总是不打招呼就自动更新？教你如何关闭它-少数派的文章-知乎](https://zhuanlan.zhihu.com/p/35590496)
-20. [什么工具可以有效清理"C:\Users\用户名\AppData"目录下的文件？-高灵的回答-知乎](https://www.zhihu.com/question/38011537/answer/296426969)
-21. [Win 10 C盘突然爆满，怎么清理？-坚果云的回答-知乎](https://www.zhihu.com/question/53591010/answer/1115174873)
-22. [windows10系统内存占用莫名其妙非常高怎么解决怎么解决？-mhm的回答-知乎](https://www.zhihu.com/question/359072911/answer/924065793)
+9. [程序员的Windows工具箱「GitHub 热点速览」-HelloGitHub的文章-知乎](https://zhuanlan.zhihu.com/p/631389850)
+10. [111-硬盘状态检测工具CrystalDiskInfo-bsworld的文章-知乎](https://zhuanlan.zhihu.com/p/621817951)
+11. [硬盘坏道检测软件HDTune、DiskGenius、MHDD有什么区别？哪一个检测更准确？-雲在青天水在瓶的回答-知乎](https://www.zhihu.com/question/508943113/answer/2537752096)
+12. [Total Commander这款软件使用体验如何，有哪些优点和不足？-韦易笑的回答-知乎](https://www.zhihu.com/question/21616258/answer/1545629286)
+13. [微软复活20年前生产力工具PowerToys，填补Win10缺失功能，开源且免费-量子位的文章-知乎](https://zhuanlan.zhihu.com/p/166292161)
+14. [适用于Linux系统的最佳白板应用丨Linux中国-Linux中国的文章-知乎](https://zhuanlan.zhihu.com/p/467327167)
+15. [代码对比工具，就用这7个！-李二狗的文章-知乎](https://zhuanlan.zhihu.com/p/375551784)
+16. [不喜欢diff么？试试Meld吧丨Linux中国-Linux中国的文章-知乎](https://zhuanlan.zhihu.com/p/124017201)
+17. [使用Meld在Linux中以图形方式比较文件和文件夹丨Linux中国-Linux中国的文章-知乎](https://zhuanlan.zhihu.com/p/317628626)
+18. [为什么其他办公领域不使用git?-w0fv1.dev的回答-知乎](https://www.zhihu.com/question/329750471/answer/120040678856)
+19. [你用过的最好的代码阅读或编辑工具是什么？-韦易笑的回答-知乎](https://www.zhihu.com/question/19570229/answer/1626066191)
+20. [满足日常需求的应用（三）：图像编辑器丨Linux中国-Linux中国的文章-知乎](https://zhuanlan.zhihu.com/p/407938013)
+21. [Windows 10总是不打招呼就自动更新？教你如何关闭它-少数派的文章-知乎](https://zhuanlan.zhihu.com/p/35590496)
+22. [什么工具可以有效清理"C:\Users\用户名\AppData"目录下的文件？-高灵的回答-知乎](https://www.zhihu.com/question/38011537/answer/296426969)
+23. [Win 10 C盘突然爆满，怎么清理？-坚果云的回答-知乎](https://www.zhihu.com/question/53591010/answer/1115174873)
+24. [windows10系统内存占用莫名其妙非常高怎么解决怎么解决？-mhm的回答-知乎](https://www.zhihu.com/question/359072911/answer/924065793)

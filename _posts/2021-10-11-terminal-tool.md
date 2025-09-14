@@ -222,11 +222,13 @@ pinned: false
 ## 下载
 
 1. [youtube-dl](https://github.com/ytdl-org/youtube-dl)
-2. [you-get](https://github.com/soimort/you-get)
-3. [lux](https://github.com/iawia002/lux)
-4. [pytube](https://github.com/pytube/pytube)
-5. [axel](https://github.com/axel-download-accelerator/axel)
-6. [bauh](https://github.com/vinifmor/bauh)
+2. [yt-dlp](https://github.com/yt-dlp/yt-dlp)
+3. [you-get](https://github.com/soimort/you-get)
+4. [lux](https://github.com/iawia002/lux)
+5. [pytube](https://github.com/pytube/pytube)
+6. [axel](https://github.com/axel-download-accelerator/axel)
+7. [youtube-dlc](https://github.com/blackjack4494/yt-dlc)
+8. [bauh](https://github.com/vinifmor/bauh)
 
 ## 代理
 

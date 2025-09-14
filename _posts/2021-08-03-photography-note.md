@@ -120,12 +120,14 @@ pinned: false
 5. [Photoshop](https://www.adobe.com/products/photoshop.html)
 6. [Affinity](https://affinity.serif.com)
 
-##### 开源软件
+##### 免费软件
 
 1. [GIMP](https://www.gimp.org)
 2. [Darktable](https://www.darktable.org)
 3. [RawTherapee](https://rawtherapee.com)
-4. [Filmulator](https://filmulator.org)
+4. [Photoflare](https://photoflare.io)
+5. [Filmulator](https://filmulator.org)
+6. [尼康工坊](https://www.nikon.com.cn/sc_CN/product/software/nx-studio)
 
 ##### 在线处理
 
@@ -138,6 +140,7 @@ pinned: false
 2. DaVinci Resolve
 3. [视频大拍档](https://spdpd.net/)
 4. [万兴喵影](https://www.wondershare.cn/products-solutions/video-creativity/video.html)
+5. [格式工厂](http://www.pcgeshi.com)
 
 ### 教程
 
@@ -227,12 +230,13 @@ pinned: false
 6. [满足日常需求的应用（三）：图像编辑器丨Linux中国-Linux中国的文章-知乎](https://zhuanlan.zhihu.com/p/407938013)
 7. [Linux上有哪些好用的绘图工具？-亿图图示的回答-知乎](https://www.zhihu.com/question/445559611/answer/1759893444)
 8. [在Linux命令行上编辑照片的4种方法丨Linux中国-Linux中国的文章-知乎](https://zhuanlan.zhihu.com/p/430719348)
-9. [Filmulator：一个简单的、开源的Raw图像编辑器丨Linux中国-Linux中国的文章-知乎](https://zhuanlan.zhihu.com/p/350803009)
-10. [DPReview.com to close-DPReview](https://www.dpreview.com/news/5901145460/dpreview-com-to-close)
-11. [Digicam Finder is a New Resource That Replaces DPReview’s Camera Library-PetaPixel](https://petapixel.com/2023/04/03/digicam-finder-is-a-new-resource-that-replaces-dpreviews-camera-library/)
-12. [【DPReview】再见了，所有的DPReview-bilibili](https://www.bilibili.com/video/BV1ZM411N7EP/)
-13. [【DPReview】我们最喜欢的DPReview TV时刻（用玩偶重现！）-bilibili](https://www.bilibili.com/video/BV1Ks4y1P7JA/)
-14. [【DPReview】胡子哥和乔丹在DPReview的这几年测评过的最喜欢的5款摄影器材-bilibili](https://www.bilibili.com/video/BV1HT411p7uE/)
-15. [20000元1张纸，这是什么？-bilibili](https://www.bilibili.com/video/BV1SVk4YTEva/)
-16. [各大相机公司推出恒定F4的小三元镜头的目的是什么？非大光圈的恒定光圈意义体现在哪里？-知乎用户的回答-知乎](https://www.zhihu.com/question/34306403/answer/2654034347)
-17. [jherr/depth-of-field](https://github.com/jherr/depth-of-field)
+9. [Photoflare：满足简单编辑需求的开源图像编辑器丨Linux中国-Linux中国的文章-知乎](https://zhuanlan.zhihu.com/p/193158124)
+10. [Filmulator：一个简单的、开源的Raw图像编辑器丨Linux中国-Linux中国的文章-知乎](https://zhuanlan.zhihu.com/p/350803009)
+11. [DPReview.com to close-DPReview](https://www.dpreview.com/news/5901145460/dpreview-com-to-close)
+12. [Digicam Finder is a New Resource That Replaces DPReview’s Camera Library-PetaPixel](https://petapixel.com/2023/04/03/digicam-finder-is-a-new-resource-that-replaces-dpreviews-camera-library/)
+13. [【DPReview】再见了，所有的DPReview-bilibili](https://www.bilibili.com/video/BV1ZM411N7EP/)
+14. [【DPReview】我们最喜欢的DPReview TV时刻（用玩偶重现！）-bilibili](https://www.bilibili.com/video/BV1Ks4y1P7JA/)
+15. [【DPReview】胡子哥和乔丹在DPReview的这几年测评过的最喜欢的5款摄影器材-bilibili](https://www.bilibili.com/video/BV1HT411p7uE/)
+16. [20000元1张纸，这是什么？-bilibili](https://www.bilibili.com/video/BV1SVk4YTEva/)
+17. [各大相机公司推出恒定F4的小三元镜头的目的是什么？非大光圈的恒定光圈意义体现在哪里？-知乎用户的回答-知乎](https://www.zhihu.com/question/34306403/answer/2654034347)
+18. [jherr/depth-of-field](https://github.com/jherr/depth-of-field)

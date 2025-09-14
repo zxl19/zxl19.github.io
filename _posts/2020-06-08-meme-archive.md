@@ -187,15 +187,16 @@ Meme这个词最初源自英国著名科学家理查德·道金斯所著的《�
 ### 大模型
 
 1. [Poe](https://poe.com)
-2. [Devv AI](https://devv.ai/zh)
-3. [Hugging Face](https://huggingface.co)
-4. [Ollama](https://ollama.com)
-5. [Moondream AI](https://moondream.ai)
-6. [DeepSeek](https://chat.deepseek.com)
-7. [智谱清言](https://chatglm.cn)
-8. [Kimi.ai](https://kimi.moonshot.cn)
-9. [豆包](https://www.doubao.com/chat/)
-10. [通义千问](https://tongyi.aliyun.com)
+2. [Sider](https://sider.ai)
+3. [Devv AI](https://devv.ai/zh)
+4. [Hugging Face](https://huggingface.co)
+5. [Ollama](https://ollama.com)
+6. [Moondream AI](https://moondream.ai)
+7. [DeepSeek](https://chat.deepseek.com)
+8. [智谱清言](https://chatglm.cn)
+9. [Kimi.ai](https://kimi.moonshot.cn)
+10. [豆包](https://www.doubao.com/chat/)
+11. [通义千问](https://tongyi.aliyun.com)
 
 ### 词元统计
 
@@ -269,6 +270,10 @@ Meme这个词最初源自英国著名科学家理查德·道金斯所著的《�
 6. [识典古籍](https://www.shidianguji.com)
 7. [光明之门](http://www.gmzm.org)
 8. [国学大师](https://www.guoxuedashi.net)
+
+### 下载
+
+1. [cobalt](https://cobalt.tools)
 
 ## 生活
 
