@@ -36,6 +36,7 @@ pinned: false
 3. [【科研绘图】科研绘图配色的注意点（三）](https://www.bilibili.com/video/BV1H7411o7pj/)
 4. [为什么不要用jet作为colormap-记得小蘋初见的文章-知乎](https://zhuanlan.zhihu.com/p/1954932088)
 5. [科研作图配色避雷指南-千张的文章-知乎](https://zhuanlan.zhihu.com/p/476180854)
+6. [一个三十五岁左右的硕士导师，审美却像个老头子，非逼着学生换那种蓝黑字+白底的ppt，很抵触，咋办？-杨溢的回答-知乎](https://www.zhihu.com/question/6408584014/answer/1949962190741283033)
 
 ### MATLAB
 

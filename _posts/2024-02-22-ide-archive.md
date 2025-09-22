@@ -45,10 +45,11 @@ pinned: false
 ### 大模型
 
 1. [Cursor](https://www.cursor.com)
-2. [Windsurf](https://codeium.com/windsurf)
-3. [Trae](https://www.trae.ai)
-4. [Void](https://voideditor.com)
-5. [Melty](https://melty.sh)
+2. [Augment Code](https://www.augmentcode.com)
+3. [Windsurf](https://codeium.com/windsurf)
+4. [Trae](https://www.trae.ai)
+5. [Void](https://voideditor.com)
+6. [Melty](https://melty.sh)
 
 ## C/C++
 

@@ -350,9 +350,10 @@ pinned: false
 
 1. [ocornut/imgui](https://github.com/ocornut/imgui)
 2. [idea4good/GuiLite](https://github.com/idea4good/GuiLite)
-3. [stevenlovegrove/Pangolin](https://github.com/stevenlovegrove/Pangolin)
-4. [mitsuba-renderer/nanogui](https://github.com/mitsuba-renderer/nanogui)
-5. [koide3/iridescence](https://github.com/koide3/iridescence)
+3. [cycfi/elements](https://github.com/cycfi/elements)
+4. [stevenlovegrove/Pangolin](https://github.com/stevenlovegrove/Pangolin)
+5. [mitsuba-renderer/nanogui](https://github.com/mitsuba-renderer/nanogui)
+6. [koide3/iridescence](https://github.com/koide3/iridescence)
 
 ### 文本界面（TUI）
 
@@ -499,8 +500,9 @@ pinned: false
 21. [有什么高质量的C++单头文件库?-liulun的回答-知乎](https://www.zhihu.com/question/496257115/answer/2842977837)
 22. [有什么高质量的C++单头文件库?-芒果浩明的回答-知乎](https://www.zhihu.com/question/496257115/answer/2255551935)
 23. [全网唯一值得推荐的C/C++框架和库-C语言编程指南的文章-知乎](https://zhuanlan.zhihu.com/p/492392194)
-24. [c++日志记录都有哪些好的开源项目？-程序喵大人的回答-知乎](https://www.zhihu.com/question/37640953/answer/1898412255231608627)
-25. [如何评价Painter Engine？-DBinary的回答-知乎](https://www.zhihu.com/question/554686788/answer/3173063665)
-26. [如何找合适的C++项目给自己的简历加分？-1412的回答-知乎](https://www.zhihu.com/question/280881677/answer/3151447745)
-27. [有哪些朴实无华的c++库？-南山烟雨珠江潮的回答-知乎](https://www.zhihu.com/question/666819229/answer/4257047142)
-28. [OpenBLAS gemm从零入门-白牛的文章-知乎](https://zhuanlan.zhihu.com/p/65436463)
+24. [如何评价Painter Engine？-DBinary的回答-知乎](https://www.zhihu.com/question/554686788/answer/3173063665)
+25. [c++日志记录都有哪些好的开源项目？-程序喵大人的回答-知乎](https://www.zhihu.com/question/37640953/answer/1898412255231608627)
+26. [C++除了Qt还有什么GUI库？-南山烟雨珠江潮的回答-知乎](https://www.zhihu.com/question/587721560/answer/54075782082)
+27. [如何找合适的C++项目给自己的简历加分？-1412的回答-知乎](https://www.zhihu.com/question/280881677/answer/3151447745)
+28. [有哪些朴实无华的c++库？-南山烟雨珠江潮的回答-知乎](https://www.zhihu.com/question/666819229/answer/4257047142)
+29. [OpenBLAS gemm从零入门-白牛的文章-知乎](https://zhuanlan.zhihu.com/p/65436463)
