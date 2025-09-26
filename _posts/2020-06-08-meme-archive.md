@@ -53,8 +53,9 @@ Meme这个词最初源自英国著名科学家理查德·道金斯所著的《�
 1. [维基百科转参考文献](https://m-journal.org)
 2. [狗屁不通文章生成器](https://suulnnka.github.io/BullshitGenerator/index.html)
 3. [vietnh1009/ASCII-generator](https://github.com/vietnh1009/ASCII-generator)
-4. [ArthurSonzogni/Diagon](https://github.com/ArthurSonzogni/Diagon)
-5. [BEPb/image_to_ascii](https://github.com/BEPb/image_to_ascii)
+4. [TheZoraiz/ascii-image-converter](https://github.com/TheZoraiz/ascii-image-converter)
+5. [ArthurSonzogni/Diagon](https://github.com/ArthurSonzogni/Diagon)
+6. [BEPb/image_to_ascii](https://github.com/BEPb/image_to_ascii)
 
 ### 大模型
 

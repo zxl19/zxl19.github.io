@@ -67,16 +67,18 @@ The main repository serves as a curated list of awesome lists.
 
 1. [openMVG/awesome_3DReconstruction_list](https://github.com/openMVG/awesome_3DReconstruction_list)
 2. [tzutalin/awesome-visual-slam](https://github.com/tzutalin/awesome-visual-slam)
-3. [kanster/awesome-slam](https://github.com/kanster/awesome-slam)
-4. [youngguncho/awesome-slam-datasets](https://github.com/youngguncho/awesome-slam-datasets)
-5. [OpenSLAM/awesome-SLAM-list](https://github.com/OpenSLAM/awesome-SLAM-list)
+3. [youngguncho/awesome-slam-datasets](https://github.com/youngguncho/awesome-slam-datasets)
+4. [kanster/awesome-slam](https://github.com/kanster/awesome-slam)
+5. [szenergy/awesome-lidar](https://github.com/szenergy/awesome-lidar)
 6. [SilenceOverflow/Awesome-SLAM](https://github.com/SilenceOverflow/Awesome-SLAM)
-7. [szenergy/awesome-lidar](https://github.com/szenergy/awesome-lidar)
-8. [zhuhu00/Awesome_Dynamic_SLAM](https://github.com/zhuhu00/Awesome_Dynamic_SLAM)
+7. [zhuhu00/Awesome_Dynamic_SLAM](https://github.com/zhuhu00/Awesome_Dynamic_SLAM)
+8. [OpenSLAM/awesome-SLAM-list](https://github.com/OpenSLAM/awesome-SLAM-list)
 9. [zhouyong1234/SLAM-All-In-One](https://github.com/zhouyong1234/SLAM-All-In-One)
-10. [520xyxyzq/awesome-object-SLAM](https://github.com/520xyxyzq/awesome-object-SLAM)
-11. [hassaanhashmi/awesome-deep-visual-odometry](https://github.com/hassaanhashmi/awesome-deep-visual-odometry)
-12. [hwan0806/Awesome-LiDAR-Mapping](https://github.com/hwan0806/Awesome-LiDAR-Mapping)
+10. [hwan0806/Awesome-LiDAR-Mapping](https://github.com/hwan0806/Awesome-LiDAR-Mapping)
+11. [520xyxyzq/awesome-object-SLAM](https://github.com/520xyxyzq/awesome-object-SLAM)
+12. [hassaanhashmi/awesome-deep-visual-odometry](https://github.com/hassaanhashmi/awesome-deep-visual-odometry)
+13. [thisparticle/Awesome-Algorithms-Against-Degeneracy](https://github.com/thisparticle/Awesome-Algorithms-Against-Degeneracy)
+14. [KwanWaiPang/Awesome-Legged-Robot-Localization-and-Mapping](https://github.com/KwanWaiPang/Awesome-Legged-Robot-Localization-and-Mapping)
 
 ### 自动驾驶
 
