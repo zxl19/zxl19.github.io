@@ -39,7 +39,8 @@ pinned: false
 1. [FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD)
 2. [openscad/openscad](https://github.com/openscad/openscad)
 3. [LibreCAD/LibreCAD](https://github.com/LibreCAD/LibreCAD)
-4. [BRL-CAD/brlcad](https://github.com/BRL-CAD/brlcad)
+4. [Open-Cascade-SAS/OCCT](https://github.com/Open-Cascade-SAS/OCCT)
+5. [BRL-CAD/brlcad](https://github.com/BRL-CAD/brlcad)
 
 ## CAE
 
@@ -74,7 +75,8 @@ pinned: false
 1. Meshmixer [链接](https://meshmixer.com)
 2. MeshLab [链接](https://www.meshlab.net)
 3. Cura [链接](https://ultimaker.com/software/ultimaker-cura/)
-4. MeshInspector [链接](https://meshinspector.com)
+4. PrusaSlicer [链接](https://www.prusa3d.com/page/prusaslicer_424/)
+5. MeshInspector [链接](https://meshinspector.com)
 
 #### 模型
 
@@ -94,7 +96,10 @@ pinned: false
 
 1. [LaTeX中有哪些奇技淫巧？-SeaniWu的回答-知乎](https://www.zhihu.com/question/358903003/answer/46259999254)
 2. [Linux上5个最好CAD软件-Linux中国的文章-知乎](https://zhuanlan.zhihu.com/p/81680138)
-3. [cnr-isti-vclab/meshlab](https://github.com/cnr-isti-vclab/meshlab)
-4. [Ultimaker/Cura](https://github.com/Ultimaker/Cura)
-5. [MeshInspector/MeshInspector](https://github.com/MeshInspector/MeshInspector)
-6. [公司用上3D打印之后…-bilibili](https://www.bilibili.com/video/BV17DKAzqEWm/)
+3. [有哪些小众的开源项目养活了一大批人?-晨风的回答-知乎](https://www.zhihu.com/question/489866711/answer/1960737698206692209)
+4. [有哪些小众的开源项目养活了一大批人?-三无用户的回答-知乎](https://www.zhihu.com/question/489866711/answer/1963166317977797333)
+5. [cnr-isti-vclab/meshlab](https://github.com/cnr-isti-vclab/meshlab)
+6. [Ultimaker/Cura](https://github.com/Ultimaker/Cura)
+7. [prusa3d/PrusaSlicer](https://github.com/prusa3d/PrusaSlicer)
+8. [MeshInspector/MeshInspector](https://github.com/MeshInspector/MeshInspector)
+9. [公司用上3D打印之后…-bilibili](https://www.bilibili.com/video/BV17DKAzqEWm/)

@@ -599,3 +599,4 @@ pip install，pip uninstall，拿起pip就是干！
 8. [哪些命令行工具让你相见恨晚？-大模型爱好者社区的回答-知乎](https://www.zhihu.com/question/41115077/answer/2302415301)
 9. [profiling与性能优化总结-MegEngine Bot的文章-知乎](https://zhuanlan.zhihu.com/p/362575905)
 10. [哪些Python库让你相见恨晚？-高天的回答-知乎](https://www.zhihu.com/question/24590883/answer/1493635700)
+11. [有哪些小众的开源项目养活了一大批人?-幼鹰me的回答-知乎](https://www.zhihu.com/question/489866711/answer/1963648000673948880)

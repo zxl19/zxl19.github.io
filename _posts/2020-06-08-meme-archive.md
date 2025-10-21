@@ -157,6 +157,10 @@ Meme这个词最初源自英国著名科学家理查德·道金斯所著的《�
 2. [phoboslab/high_impact](https://github.com/phoboslab/high_impact)
 3. [js13kGames/resources](https://github.com/js13kGames/resources)
 
+#### 游戏外挂
+
+1. [ufrisk/pcileech](https://github.com/ufrisk/pcileech)
+
 #### 登月计划
 
 1. [chrislgarry/Apollo-11](https://github.com/chrislgarry/Apollo-11)
@@ -370,12 +374,13 @@ Meme这个词最初源自英国著名科学家理查德·道金斯所著的《�
 40. [红警代码竟然在GitHub上开源了！！！-GitHub Daily的文章-知乎](https://zhuanlan.zhihu.com/p/146383298)
 41. [js13kGames](https://js13kgames.com)
 42. [js13kGames 2022 winners](https://github.blog/2022-10-06-js13k-2022-winners/)
-43. [耗时三年，14万行，50年前阿波罗11号登月的全部代码都能在GitHub找到了！-数据汪的文章-知乎](https://zhuanlan.zhihu.com/p/74453787)
-44. [CorentinTh/it-tools](https://github.com/CorentinTh/it-tools)
-45. [runningcheese/Awesome-Zlibrary](https://github.com/runningcheese/Awesome-Zlibrary)
-46. [未来已来？国内11家AI大模型盘点（附体验网址）-CSDN博客](https://blog.csdn.net/qq_51646682/article/details/136905451)
-47. [如何分析大型C++项目？-迷宫守望者的回答-知乎](https://www.zhihu.com/question/531050207/answer/3356560375)
-48. [很赞的两个高清壁纸网站：wallroom和wallhaven-帅小科的文章-知乎](https://zhuanlan.zhihu.com/p/376579457)
-49. [Ubuntu设置双屏显示长壁纸-码农家园](https://www.codenong.com/cs109695249/)
-50. [古籍整理常用工具网站合集-屠龙少年周旭的文章-知乎](https://zhuanlan.zhihu.com/p/609976456)
-51. [要命！《程序员延寿指南》火爆GitHub，日涨1500+星，跟着码农干多活20年-量子位的文章-知乎](https://zhuanlan.zhihu.com/p/502393797)
+43. [有哪些小众的开源项目养活了一大批人?-精神康复科李主任的回答-知乎](https://www.zhihu.com/question/489866711/answer/1960027826704065437)
+44. [耗时三年，14万行，50年前阿波罗11号登月的全部代码都能在GitHub找到了！-数据汪的文章-知乎](https://zhuanlan.zhihu.com/p/74453787)
+45. [CorentinTh/it-tools](https://github.com/CorentinTh/it-tools)
+46. [runningcheese/Awesome-Zlibrary](https://github.com/runningcheese/Awesome-Zlibrary)
+47. [未来已来？国内11家AI大模型盘点（附体验网址）-CSDN博客](https://blog.csdn.net/qq_51646682/article/details/136905451)
+48. [如何分析大型C++项目？-迷宫守望者的回答-知乎](https://www.zhihu.com/question/531050207/answer/3356560375)
+49. [很赞的两个高清壁纸网站：wallroom和wallhaven-帅小科的文章-知乎](https://zhuanlan.zhihu.com/p/376579457)
+50. [Ubuntu设置双屏显示长壁纸-码农家园](https://www.codenong.com/cs109695249/)
+51. [古籍整理常用工具网站合集-屠龙少年周旭的文章-知乎](https://zhuanlan.zhihu.com/p/609976456)
+52. [要命！《程序员延寿指南》火爆GitHub，日涨1500+星，跟着码农干多活20年-量子位的文章-知乎](https://zhuanlan.zhihu.com/p/502393797)
