@@ -102,7 +102,8 @@ pinned: false
 1. [硬件茶谈](https://space.bilibili.com/14871346)
 2. [远古时代装机猿](https://space.bilibili.com/35359510)
 3. [极客湾Geekerwan](https://space.bilibili.com/25876945)
-4. [ITXLAB](https://space.bilibili.com/3678731)
+4. [笔吧评测室](https://space.bilibili.com/367877)
+5. [ITXLAB](https://space.bilibili.com/3678731)
 
 ## 原版系统镜像
 

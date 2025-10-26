@@ -188,6 +188,11 @@ pinned: false
 
 1. [Thomas Baart](https://thomasbaart.nl)
 
+### 字体&图标设计
+
+1. [LXGW](https://lxgw.github.io)
+2. [Ryan L McIntyre](https://ryanlmcintyre.com)
+
 ### Meme相关
 
 1. [卜卜口](https://i.magiconch.com)
@@ -246,3 +251,5 @@ pinned: false
 42. [你见过的最棒的个人博客界面是什么样的？-柳上川的回答-知乎](https://www.zhihu.com/question/29755481/answer/1923525439059650075)
 43. [无人驾驶领域，你推荐那些综述性文章？-殷玮的回答-知乎](https://www.zhihu.com/question/355954682/answer/1513557367)
 44. [客制化键盘如何入坑？-SunshineSki的回答-知乎](https://www.zhihu.com/question/412146195/answer/1450865830)
+45. [GitHub上这款中文开源字体，太惊艳了！-GitHub Daily的文章-知乎](https://zhuanlan.zhihu.com/p/460369849)
+46. [写代码用哪种字体看起来最舒适？-Snowflyt的回答-知乎](https://www.zhihu.com/question/32058777/answer/3561707776)
