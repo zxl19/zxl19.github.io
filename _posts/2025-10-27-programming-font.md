@@ -60,12 +60,16 @@ pinned: false
 
 1. [乔布斯在斯坦福大学毕业典礼上的演讲（中英字幕）-bilibili](https://www.bilibili.com/video/BV1oW411h7Ea/)
 2. [计算器上用的是什么字体？-oooooohmygosh的回答-知乎](https://www.zhihu.com/question/547937874/answer/2628079858)
-3. [《新世纪福音战士》中频繁使用的那款字体叫什么？-黑潮制作所的回答-知乎](https://www.zhihu.com/question/20542842/answer/18958870)
-4. [《新世纪福音战士》中频繁使用的那款字体叫什么？-金釗立的回答-知乎](https://www.zhihu.com/question/20542842/answer/15586327)
-5. [设计丨新世纪福音战士的文字与字体世界(上)-ZOGEI-造艺塾的文章-知乎](https://zhuanlan.zhihu.com/p/400306262)
-6. [设计丨新世纪福音战士的文字与字体世界(中)-ZOGEI-造艺塾的文章-知乎](https://zhuanlan.zhihu.com/p/400604079)
-7. [设计丨新世纪福音战士的文字与字体世界(下)-ZOGEI-造艺塾的文章-知乎](https://zhuanlan.zhihu.com/p/401000277)
-8. [日本漫画的标题字体都是谁设计的？-谔神降临之路的回答-知乎](https://www.zhihu.com/question/26120895/answer/3377597744)
+3. [引：关于字体和排版-Childhood Chen的文章-知乎](https://zhuanlan.zhihu.com/p/23672912)
+4. [一：「衬线」-Childhood Chen的文章-知乎](https://zhuanlan.zhihu.com/p/24434632)
+5. [二：真假「斜体」-Childhood Chen的文章-知乎](https://zhuanlan.zhihu.com/p/25022761)
+6. [三：「连接」· 词-Childhood Chen的文章-知乎](https://zhuanlan.zhihu.com/p/25345597)
+7. [《新世纪福音战士》中频繁使用的那款字体叫什么？-黑潮制作所的回答-知乎](https://www.zhihu.com/question/20542842/answer/18958870)
+8. [《新世纪福音战士》中频繁使用的那款字体叫什么？-金釗立的回答-知乎](https://www.zhihu.com/question/20542842/answer/15586327)
+9. [设计丨新世纪福音战士的文字与字体世界(上)-ZOGEI-造艺塾的文章-知乎](https://zhuanlan.zhihu.com/p/400306262)
+10. [设计丨新世纪福音战士的文字与字体世界(中)-ZOGEI-造艺塾的文章-知乎](https://zhuanlan.zhihu.com/p/400604079)
+11. [设计丨新世纪福音战士的文字与字体世界(下)-ZOGEI-造艺塾的文章-知乎](https://zhuanlan.zhihu.com/p/401000277)
+12. [日本漫画的标题字体都是谁设计的？-谔神降临之路的回答-知乎](https://www.zhihu.com/question/26120895/answer/3377597744)
 
 ## 参考
 

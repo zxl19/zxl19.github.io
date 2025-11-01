@@ -28,10 +28,11 @@ Python学习资料存档，主要包括对于Python基础语法以及常用库�
 
 ## 速查表
 
-1. [kailashahirwar/cheatsheets-ai](https://github.com/kailashahirwar/cheatsheets-ai)
-2. [FavioVazquez/ds-cheatsheets](https://github.com/FavioVazquez/ds-cheatsheets)
+1. [FavioVazquez/ds-cheatsheets](https://github.com/FavioVazquez/ds-cheatsheets)
+2. [kailashahirwar/cheatsheets-ai](https://github.com/kailashahirwar/cheatsheets-ai)
 3. [jaystone776/python-data-science-cheatsheet](https://github.com/jaystone776/python-data-science-cheatsheet)
 4. [georgearun/Data-Science--Cheat-Sheet](https://github.com/georgearun/Data-Science--Cheat-Sheet)
+5. [IPGP/scientific_python_cheat_sheet](https://github.com/IPGP/scientific_python_cheat_sheet)
 
 ## 书籍
 

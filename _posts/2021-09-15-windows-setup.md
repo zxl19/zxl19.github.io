@@ -75,8 +75,9 @@ pinned: false
 
 1. [Chrome](https://www.google.com/chrome/)
 2. [Edge](https://www.microsoft.com/en-us/edge/)
-3. [Cold Turkey](https://getcoldturkey.com)
-4. Clash
+3. [Firefox](https://www.firefox.com)
+4. [Cold Turkey](https://getcoldturkey.com)
+5. Clash
 
 #### 压缩工具
 

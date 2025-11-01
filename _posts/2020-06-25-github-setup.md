@@ -148,7 +148,7 @@ GitHub Desktop是GitHub开发的客户端，使用图形化交互界面代替了
 4. 双因素身份校验（Two-Factor Authentication，2FA）的设置和使用，**自2023年10月6日起，在登录GitHub时需要使用2FA**：
 
     - `Settings`->`Password and authentication`->`Two-factor authentication`；
-    - 使用神锁离线版扫描二维码，保存秘钥，用于生成基于时间的一次性密码（Time-based One-Time Password，TOTP）；
+    - 使用神锁离线版扫描二维码，保存秘钥，用于生成基于时间的一次性密码（Time-based One-Time Password，TOTP），类似的应用还有Authenticator；
     - 在登录GitHub时除了需要使用账号密码，还需要使用根据秘钥和当前时间生成的一次性密码（One-Time Password，OTP），OTP每30秒动态更新一次；
     - 保存恢复码（recovery codes），用于在丢失密码和秘钥时登录GitHub，否则会永远丢失账号；
     - 也可以使用短信验证的方式进行2FA，但是目前暂时不支持中国大陆；

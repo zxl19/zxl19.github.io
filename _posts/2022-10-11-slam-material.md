@@ -67,6 +67,9 @@ SLAM学习资料存档，包括SLAM基础理论、卡尔曼滤波、组合导航
 1. [SLAM中后端优化的技术细节-Wincent的文章-知乎](https://zhuanlan.zhihu.com/p/616060837)
 2. [如何理解SLAM中的First-Estimates Jacobian？-jing胖的回答-知乎](https://www.zhihu.com/question/52869487/answer/132517493)
 3. [如何理解SLAM中的First-Estimates Jacobian？-拿破轮的回答-知乎](https://www.zhihu.com/question/52869487/answer/2437797244)
+4. [如何理解SLAM中的First-Estimates Jacobian？-庞富民的回答-知乎](https://www.zhihu.com/question/52869487/answer/258663651)
+5. [First Estimate Jacobian与非线性优化迭代求解Jacobian相互矛盾吗？-快使用双截棍巴拉的回答-知乎](https://www.zhihu.com/question/291360996/answer/478536964)
+6. [一文看尽4种SLAM中零空间的维护方法-wuRDmemory的文章-知乎](https://zhuanlan.zhihu.com/p/341322063)
 
 ### GitHub
 
@@ -239,6 +242,11 @@ SLAM学习资料存档，包括SLAM基础理论、卡尔曼滤波、组合导航
 8. [thomasfermi/Algorithms-for-Automated-Driving](https://github.com/thomasfermi/Algorithms-for-Automated-Driving)
 9. [slam-code/apollo](https://github.com/slam-code/apollo)
 10. [nwaysir/Autopilot-Updating-Notes](https://github.com/nwaysir/Autopilot-Updating-Notes)
+
+## VR&AR
+
+1. [GeekLiB/AR-Source](https://github.com/GeekLiB/AR-Source)
+2. [GeekLiB/Lee-VR-Source](https://github.com/GeekLiB/Lee-VR-Source)
 
 ## 参考
 

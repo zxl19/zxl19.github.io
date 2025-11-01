@@ -57,9 +57,9 @@ pinned: false
 
 #### 图片示例
 
-1. [MATLAB绘图类型](https://ww2.mathworks.cn/help/matlab/creating_plots/types-of-matlab-plots.html)
+1. [Types of MATLAB Plots](https://www.mathworks.com/help/matlab/creating_plots/types-of-matlab-plots.html)
 2. [MATLAB Plot Gallery](https://www.mathworks.com/products/matlab/plot-gallery.html)
-3. [Publication Quality Graphics](https://ww2.mathworks.cn/matlabcentral/fileexchange/35246-matlab-plot-gallery-publication-quality-graphics?focused=6792997&tab=example%EF%BC%89)
+3. [Publication Quality Graphics](https://www.mathworks.com/matlabcentral/fileexchange/35246-matlab-plot-gallery-publication-quality-graphics)
 
 ### Python
 

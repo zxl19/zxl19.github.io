@@ -90,8 +90,9 @@ ZEH_THEME=""                # 不使用主题
 在[External themes-Wiki](https://github.com/ohmyzsh/ohmyzsh/wiki/External-themes)中查看可供选择的第三方主题以及第三方主题的安装方法。
 
 1. [romkatv/powerlevel10k](https://github.com/romkatv/powerlevel10k)
-2. [agnoster/agnoster-zsh-theme](https://github.com/agnoster/agnoster-zsh-theme)
-3. [caiogondim/bullet-train.zsh](https://github.com/caiogondim/bullet-train.zsh)
+2. [Powerlevel9k/powerlevel9k](https://github.com/Powerlevel9k/powerlevel9k)
+3. [agnoster/agnoster-zsh-theme](https://github.com/agnoster/agnoster-zsh-theme)
+4. [caiogondim/bullet-train.zsh](https://github.com/caiogondim/bullet-train.zsh)
 
 ##### 插件
 
