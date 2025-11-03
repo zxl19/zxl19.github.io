@@ -55,3 +55,4 @@ pinned: false
 8. [两万字纯干货！DIY自制68键机械键盘-听雨僧庐下的文章-知乎](https://zhuanlan.zhihu.com/p/605723171)
 9. [听说人人都可以有一把专属自己的机械键盘：手搓键盘指南-什么值得买](https://post.smzdm.com/p/a7pwwx75/)
 10. [DIY机械键盘轴体及成品键盘推荐-什么值得买](https://post.smzdm.com/p/ao9pnddr/)
+11. [ILOVBEE B98中英说明书](https://m.media-amazon.com/images/I/C1o2pBNYl+L.pdf)

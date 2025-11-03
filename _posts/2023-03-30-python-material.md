@@ -28,11 +28,39 @@ Python学习资料存档，主要包括对于Python基础语法以及常用库�
 
 ## 速查表
 
+### 合集
+
 1. [FavioVazquez/ds-cheatsheets](https://github.com/FavioVazquez/ds-cheatsheets)
 2. [kailashahirwar/cheatsheets-ai](https://github.com/kailashahirwar/cheatsheets-ai)
 3. [jaystone776/python-data-science-cheatsheet](https://github.com/jaystone776/python-data-science-cheatsheet)
 4. [georgearun/Data-Science--Cheat-Sheet](https://github.com/georgearun/Data-Science--Cheat-Sheet)
 5. [IPGP/scientific_python_cheat_sheet](https://github.com/IPGP/scientific_python_cheat_sheet)
+6. [Data Science Cheat Sheets](https://www.datacamp.com/cheat-sheet)
+
+### DataCamp
+
+#### Python For Data Science Cheat Sheet
+
+1. [Python Basics](https://s3.amazonaws.com/assets.datacamp.com/blog_assets/PythonForDataScience.pdf)
+2. [NumPy Basics](https://s3.amazonaws.com/assets.datacamp.com/blog_assets/Numpy_Python_Cheat_Sheet.pdf)
+3. [SciPy-Linear Algebra](https://s3.amazonaws.com/assets.datacamp.com/blog_assets/Python_SciPy_Cheat_Sheet_Linear_Algebra.pdf)
+4. [Scikit-Learn](https://s3.amazonaws.com/assets.datacamp.com/blog_assets/Scikit_Learn_Cheat_Sheet_Python.pdf)
+5. [Keras](https://s3.amazonaws.com/assets.datacamp.com/blog_assets/Keras_Cheat_Sheet_Python.pdf)
+6. [Pandas Basics](https://s3.amazonaws.com/assets.datacamp.com/blog_assets/PandasPythonForDataScience.pdf)
+7. [Pandas](https://s3.amazonaws.com/assets.datacamp.com/blog_assets/Python_Pandas_Cheat_Sheet_2.pdf)
+8. [Importing Data](https://s3.amazonaws.com/assets.datacamp.com/blog_assets/Cheat+Sheets/Importing_Data_Python_Cheat_Sheet.pdf)
+9. [Matplotlib](https://s3.amazonaws.com/assets.datacamp.com/blog_assets/Python_Matplotlib_Cheat_Sheet.pdf)
+10. [Seaborn](https://s3.amazonaws.com/assets.datacamp.com/blog_assets/Python_Seaborn_Cheat_Sheet.pdf)
+11. [Bokeh](https://s3.amazonaws.com/assets.datacamp.com/blog_assets/Python_Bokeh_Cheat_Sheet.pdf)
+12. [PySpark-RDD Basics](https://s3.amazonaws.com/assets.datacamp.com/blog_assets/PySpark_Cheat_Sheet_Python.pdf)
+13. [PySpark-SQL Basics](https://s3.amazonaws.com/assets.datacamp.com/blog_assets/PySpark_SQL_Cheat_Sheet_Python.pdf)
+14. [Jupyter Notebook](https://s3.amazonaws.com/assets.datacamp.com/blog_assets/Jupyter_Notebook_Cheat_Sheet.pdf)
+
+#### R For Data Science Cheat Sheet
+
+1. [Tidyverse for Beginners](https://s3.amazonaws.com/assets.datacamp.com/blog_assets/Tidyverse+Cheat+Sheet.pdf)
+2. [data.table](https://s3.amazonaws.com/assets.datacamp.com/blog_assets/datatable_Cheat_Sheet_R.pdf)
+3. [xts](https://s3.amazonaws.com/assets.datacamp.com/blog_assets/xts_Cheat_Sheet_R.pdf)
 
 ## 书籍
 
@@ -53,3 +81,8 @@ Python学习资料存档，主要包括对于Python基础语法以及常用库�
 2. [Google开源项目风格指南-Python](https://zh-google-styleguide.readthedocs.io/en/latest/google-python-styleguide/contents/)
 3. [IgorSusmelj/pytorch-styleguide](https://github.com/IgorSusmelj/pytorch-styleguide)
 4. [shendeguize/GooglePythonStyleGuideCN](https://github.com/shendeguize/GooglePythonStyleGuideCN)
+
+## 参考
+
+1. [List of data science cheat sheet with Python [Updated 3]-Kaggle](https://www.kaggle.com/discussions/getting-started/78118)
+2. [Data Science Cheat Sheets Free Download-Kaggle](https://www.kaggle.com/discussions/getting-started/342673)

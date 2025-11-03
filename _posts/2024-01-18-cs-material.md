@@ -98,9 +98,10 @@ pinned: false
 9. [极客教程](https://geek-docs.com)
 10. [极客文档](https://geekdaxue.co)
 11. [极客时间](https://time.geekbang.org)
-12. [Codecademy](https://www.codecademy.com)
-13. [CodeCrafters](https://codecrafters.io)
-14. [W3Cschool](https://www.w3cschool.cn)
+12. [DataCamp](https://www.datacamp.com)
+13. [Codecademy](https://www.codecademy.com)
+14. [CodeCrafters](https://codecrafters.io)
+15. [W3Cschool](https://www.w3cschool.cn)
 
 ## 参考
 
