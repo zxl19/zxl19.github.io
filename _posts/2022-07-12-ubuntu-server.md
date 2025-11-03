@@ -32,6 +32,14 @@ pinned: false
 
     也支持HTTP和HTTPS协议。
 
+3. 使用`curl`命令远程下载文件：
+
+    ```shell
+    curl [options] [URL...]
+    ```
+
+    也支持HTTP和HTTPS协议。
+
 ### SMB协议
 
 在`文件`->`其他位置`中使用SMB（Server Message Block）协议连接：
@@ -92,10 +100,12 @@ smb://192.168.1.1
 
 1. [NFS、FTP、SMB、WebDav、DLNA协议，傻傻分不清？-大技术的文章-知乎](https://zhuanlan.zhihu.com/p/411161467)
 2. [浅谈FTP，SFTP，FTPS区别-依然范儿特西的文章-知乎](https://zhuanlan.zhihu.com/p/106980723)
-3. [Linux scp命令-菜鸟教程](https://www.runoob.com/linux/linux-comm-scp.html)
-4. [Why is scp so slow and how to make it faster?-Stack Exchange](https://unix.stackexchange.com/questions/238152/why-is-scp-so-slow-and-how-to-make-it-faster)
-5. [sshpass的使用方法-博客园](https://www.cnblogs.com/kaishirenshi/p/7921308.html)
-6. [linux之sshpass命令-入门小站的文章-知乎](https://zhuanlan.zhihu.com/p/502078612)
-7. [OpenSSH](https://www.openssh.com)
-8. [openssh/openssh-portable](https://github.com/openssh/openssh-portable)
-9. [obsutil简介-华为云](https://support.huaweicloud.com/utiltg-obs/obs_11_0001.html)
+3. [Linux wget命令-菜鸟教程](https://www.runoob.com/linux/linux-comm-wget.html)
+4. [Linux curl命令-菜鸟教程](https://www.runoob.com/linux/linux-comm-curl.html)
+5. [Linux scp命令-菜鸟教程](https://www.runoob.com/linux/linux-comm-scp.html)
+6. [Why is scp so slow and how to make it faster?-Stack Exchange](https://unix.stackexchange.com/questions/238152/why-is-scp-so-slow-and-how-to-make-it-faster)
+7. [sshpass的使用方法-博客园](https://www.cnblogs.com/kaishirenshi/p/7921308.html)
+8. [linux之sshpass命令-入门小站的文章-知乎](https://zhuanlan.zhihu.com/p/502078612)
+9. [OpenSSH](https://www.openssh.com)
+10. [openssh/openssh-portable](https://github.com/openssh/openssh-portable)
+11. [obsutil简介-华为云](https://support.huaweicloud.com/utiltg-obs/obs_11_0001.html)

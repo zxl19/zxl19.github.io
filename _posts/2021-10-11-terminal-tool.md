@@ -152,6 +152,11 @@ pinned: false
 2. [wezterm/wezterm](https://github.com/wezterm/wezterm)
 3. [dustinkirkland/byobu](https://github.com/dustinkirkland/byobu)
 
+## 状态行
+
+1. [powerline/powerline](https://github.com/powerline/powerline)
+2. [b-ryan/powerline-shell](https://github.com/b-ryan/powerline-shell)
+
 ## 代码质量
 
 ### 行数统计
@@ -273,12 +278,13 @@ pinned: false
 18. [为什么说zsh是shell中的极品？-韦易笑的回答-知乎](https://www.zhihu.com/question/21418449/answer/300879747)
 19. [Oh My Zsh-简书](https://www.jianshu.com/p/b8a80dd59414)
 20. [Oh My Zsh-博客园](https://www.cnblogs.com/lcgbk/p/13255836.html)
-21. [五彩斑斓的Black——Python代码格式化工具-muzing的文章-知乎](https://zhuanlan.zhihu.com/p/418458450)
-22. [Static program analysis-Wikipedia](https://en.wikipedia.org/wiki/Static_program_analysis)
-23. [Lint (software)-Wikipedia](https://en.wikipedia.org/wiki/Lint_(software))
-24. [Clang Static Analyzer](https://clang-analyzer.llvm.org)
-25. [CodeChecker: running the analyzer from the command line](https://clang-analyzer.llvm.org/codechecker.html)
-26. [神仙GDB调试工具gdb-dashboard-电子的文章-知乎](https://zhuanlan.zhihu.com/p/435918702)
-27. [大佬们都是怎么用gdb的？或者用吗？-yaoyaohu的回答-知乎](https://www.zhihu.com/question/65306462/answer/94492305604)
-28. [Ubuntu下实现命令行走代理/终端走代理的方法-lyh458的文章-知乎](https://zhuanlan.zhihu.com/p/377550825)
-29. [40个超有趣的Linux命令行彩蛋和游戏-张子豪的文章-知乎](https://zhuanlan.zhihu.com/p/51904179)
+21. [Powerline——向Vim和Bash Shell添加状态行和提示-惠主机的文章-知乎](https://zhuanlan.zhihu.com/p/640811147)
+22. [五彩斑斓的Black——Python代码格式化工具-muzing的文章-知乎](https://zhuanlan.zhihu.com/p/418458450)
+23. [Static program analysis-Wikipedia](https://en.wikipedia.org/wiki/Static_program_analysis)
+24. [Lint (software)-Wikipedia](https://en.wikipedia.org/wiki/Lint_(software))
+25. [Clang Static Analyzer](https://clang-analyzer.llvm.org)
+26. [CodeChecker: running the analyzer from the command line](https://clang-analyzer.llvm.org/codechecker.html)
+27. [神仙GDB调试工具gdb-dashboard-电子的文章-知乎](https://zhuanlan.zhihu.com/p/435918702)
+28. [大佬们都是怎么用gdb的？或者用吗？-yaoyaohu的回答-知乎](https://www.zhihu.com/question/65306462/answer/94492305604)
+29. [Ubuntu下实现命令行走代理/终端走代理的方法-lyh458的文章-知乎](https://zhuanlan.zhihu.com/p/377550825)
+30. [40个超有趣的Linux命令行彩蛋和游戏-张子豪的文章-知乎](https://zhuanlan.zhihu.com/p/51904179)
