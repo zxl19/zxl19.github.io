@@ -64,6 +64,10 @@ pinned: false
 2. [Thonny](https://thonny.org)
 3. [Mu](https://codewith.mu)
 
+## R
+
+1. [RStudio](https://posit.co/products/open-source/rstudio/?sid=1)
+
 ## 在线
 
 1. [Jupyter](https://jupyter.org)
@@ -99,3 +103,4 @@ pinned: false
 26. [Embarcadero/Dev-Cpp](https://github.com/Embarcadero/Dev-Cpp)
 27. [thonny/thonny](https://github.com/thonny/thonny)
 28. [mu-editor/mu](https://github.com/mu-editor/mu)
+29. [rstudio/rstudio](https://github.com/rstudio/rstudio)

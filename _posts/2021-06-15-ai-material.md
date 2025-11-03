@@ -9,7 +9,7 @@ toc: true
 pinned: false
 ---
 
-人工智能学习资料存档，包括机器学习、深度学习、强化学习。
+我的人工智能学习资料存档，包括机器学习、深度学习、强化学习。
 
 <!-- more -->
 
@@ -69,15 +69,16 @@ pinned: false
 
 ## 笔记
 
-1. [afshinea/stanford-cs-229-machine-learning](https://github.com/afshinea/stanford-cs-229-machine-learning)
-2. [afshinea/stanford-cs-230-deep-learning](https://github.com/afshinea/stanford-cs-230-deep-learning)
-3. [afshinea/stanford-cs-221-artificial-intelligence](https://github.com/afshinea/stanford-cs-221-artificial-intelligence)
-4. [shervinea/cheatsheet-translation](https://github.com/shervinea/cheatsheet-translation)
-5. [aaronwangy/Data-Science-Cheatsheet](https://github.com/aaronwangy/Data-Science-Cheatsheet)
-6. [ml874/Data-Science-Cheatsheet](https://github.com/ml874/Data-Science-Cheatsheet)
-7. [percyliang/cs229t](https://github.com/percyliang/cs229t)
-8. [dcetin/eth-cs-notes](https://github.com/dcetin/eth-cs-notes)
-9. [albertpumarola/deep-learning-notes](https://github.com/albertpumarola/deep-learning-notes)
+1. [Data Science Cheat Sheets](https://www.datacamp.com/cheat-sheet)
+2. [afshinea/stanford-cs-229-machine-learning](https://github.com/afshinea/stanford-cs-229-machine-learning)
+3. [afshinea/stanford-cs-230-deep-learning](https://github.com/afshinea/stanford-cs-230-deep-learning)
+4. [afshinea/stanford-cs-221-artificial-intelligence](https://github.com/afshinea/stanford-cs-221-artificial-intelligence)
+5. [shervinea/cheatsheet-translation](https://github.com/shervinea/cheatsheet-translation)
+6. [aaronwangy/Data-Science-Cheatsheet](https://github.com/aaronwangy/Data-Science-Cheatsheet)
+7. [ml874/Data-Science-Cheatsheet](https://github.com/ml874/Data-Science-Cheatsheet)
+8. [percyliang/cs229t](https://github.com/percyliang/cs229t)
+9. [dcetin/eth-cs-notes](https://github.com/dcetin/eth-cs-notes)
+10. [albertpumarola/deep-learning-notes](https://github.com/albertpumarola/deep-learning-notes)
 
 ## 框架学习
 

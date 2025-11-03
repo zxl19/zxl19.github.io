@@ -9,7 +9,7 @@ toc: true
 pinned: false
 ---
 
-SLAM学习资料存档，包括SLAM基础理论、卡尔曼滤波、组合导航等。
+我的SLAM学习资料存档，包括SLAM基础理论、卡尔曼滤波、组合导航等。
 
 <!-- more -->
 
