@@ -298,16 +298,17 @@ pip install，pip uninstall，拿起pip就是干！
 1. [curses](https://docs.python.org/3/library/curses.html)
 2. [Textualize/textual](https://github.com/Textualize/textual)
 3. [chriskiehl/Gooey](https://github.com/chriskiehl/Gooey)
-4. [PySimpleGUI/PySimpleGUI](https://github.com/PySimpleGUI/PySimpleGUI)
-5. [hoffstadt/DearPyGui](https://github.com/hoffstadt/DearPyGui)
+4. [hoffstadt/DearPyGui](https://github.com/hoffstadt/DearPyGui)
+5. [PySimpleGUI/PySimpleGUI](https://github.com/PySimpleGUI/PySimpleGUI)
 6. [zauberzeug/nicegui](https://github.com/zauberzeug/nicegui)
 7. [PyQt5/PyQt](https://github.com/PyQt5/PyQt)
 8. [beeware/toga](https://github.com/beeware/toga)
 9. [urwid/urwid](https://github.com/urwid/urwid)
 10. [nucleic/enaml](https://github.com/nucleic/enaml)
 11. [UmSenhorQualquer/pyforms](https://github.com/UmSenhorQualquer/pyforms)
-12. [fcollonval/matplotlib_qtquick_playground](https://github.com/fcollonval/matplotlib_qtquick_playground)
-13. [idevloping/PyQt5_Matplotlib](https://github.com/idevloping/PyQt5_Matplotlib)
+12. [uoip/pangolin](https://github.com/uoip/pangolin)
+13. [fcollonval/matplotlib_qtquick_playground](https://github.com/fcollonval/matplotlib_qtquick_playground)
+14. [idevloping/PyQt5_Matplotlib](https://github.com/idevloping/PyQt5_Matplotlib)
 
 ## 调试工具
 

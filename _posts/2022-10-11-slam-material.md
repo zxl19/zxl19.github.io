@@ -218,8 +218,9 @@ pinned: false
 3. [benzenemo/TightlyCoupledINSGNSS](https://github.com/benzenemo/TightlyCoupledINSGNSS)
 4. [yandld/nav_matlab](https://github.com/yandld/nav_matlab)
 5. [i2Nav-WHU/Wheel-SLAM](https://github.com/i2Nav-WHU/Wheel-SLAM)
-6. [yuzhou42/GPS-INS-Integrated-Navigation](https://github.com/yuzhou42/GPS-INS-Integrated-Navigation)
-7. [jayoungo/SINS-GPS-Integrated-Navigation](https://github.com/jayoungo/SINS-GPS-Integrated-Navigation)
+6. [jayoungo/SINS-GPS-Integrated-Navigation](https://github.com/jayoungo/SINS-GPS-Integrated-Navigation)
+7. [yuzhou42/GPS-INS-Integrated-Navigation](https://github.com/yuzhou42/GPS-INS-Integrated-Navigation)
+8. [zelanzou/NaveCodePro](https://github.com/zelanzou/NaveCodePro)
 
 ## 自动驾驶
 

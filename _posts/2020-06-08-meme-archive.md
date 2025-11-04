@@ -276,6 +276,11 @@ Meme这个词最初源自英国著名科学家理查德·道金斯所著的《�
 7. [光明之门](http://www.gmzm.org)
 8. [国学大师](https://www.guoxuedashi.net)
 
+### 古诗词
+
+1. [古诗文网](https://www.gushiwen.cn)
+2. [中文诗歌](https://awesome-poetry.top/huajianji)
+
 ### 下载
 
 1. [cobalt](https://cobalt.tools)
@@ -383,4 +388,7 @@ Meme这个词最初源自英国著名科学家理查德·道金斯所著的《�
 49. [很赞的两个高清壁纸网站：wallroom和wallhaven-帅小科的文章-知乎](https://zhuanlan.zhihu.com/p/376579457)
 50. [Ubuntu设置双屏显示长壁纸-码农家园](https://www.codenong.com/cs109695249/)
 51. [古籍整理常用工具网站合集-屠龙少年周旭的文章-知乎](https://zhuanlan.zhihu.com/p/609976456)
-52. [要命！《程序员延寿指南》火爆GitHub，日涨1500+星，跟着码农干多活20年-量子位的文章-知乎](https://zhuanlan.zhihu.com/p/502393797)
+52. [imputnet/cobalt](https://github.com/imputnet/cobalt)
+53. [要命！《程序员延寿指南》火爆GitHub，日涨1500+星，跟着码农干多活20年-量子位的文章-知乎](https://zhuanlan.zhihu.com/p/502393797)
+54. [chinese-poetry/chinese-poetry](https://github.com/chinese-poetry/chinese-poetry)
+55. [chinese-poetry/huajianji](https://github.com/chinese-poetry/huajianji)
