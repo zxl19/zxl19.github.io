@@ -75,12 +75,14 @@ void post_order(TreeNode* Node) {
 
 ## 资料
 
-### 教程
+### 网站
 
 1. [数据结构（C++语言版）](https://dsa.cs.tsinghua.edu.cn/~deng/ds/dsacpp/index.htm)
 2. [数据结构-C语言中文网](https://c.biancheng.net/data_structure/)
 3. [Hello算法](https://www.hello-algo.com)
-4. [mikeizbicki/cmc-csci046](https://github.com/mikeizbicki/cmc-csci046)
+4. [Algorithms for Competitive Programming](https://cp-algorithms.com)
+5. [Complete A2Z Reference for DSA Concepts](https://www.geeksforgeeks.org/dsa/dsa/)
+6. [Programming Algorithms](https://www.programmingalgorithms.com)
 
 ### GitHub
 
@@ -94,7 +96,8 @@ void post_order(TreeNode* Node) {
 8. [0voice/algorithm-structure](https://github.com/0voice/algorithm-structure)
 9. [sachuverma/DataStructures-Algorithms](https://github.com/sachuverma/DataStructures-Algorithms)
 10. [br7roy/THU-DS](https://github.com/br7roy/THU-DS)
-11. [HuyuYasumi/DSA_CPP_Deng](https://github.com/HuyuYasumi/DSA_CPP_Deng)
+11. [mikeizbicki/cmc-csci046](https://github.com/mikeizbicki/cmc-csci046)
+12. [HuyuYasumi/DSA_CPP_Deng](https://github.com/HuyuYasumi/DSA_CPP_Deng)
 
 ## 参考
 

@@ -15,15 +15,19 @@ Meme这个词最初源自英国著名科学家理查德·道金斯所著的《�
 
 ## 表情包
 
-1. [在线制作MEME梗图生成器](https://www.zuomeme.com)
-2. [「神奇海螺」梗图生成器](https://x.magiconch.com)
-3. [电子包浆 图片赛博做旧](https://magiconch.com/patina/)
-4. [中国人的表情包-PP制造计划-ChineseBQB](https://v2fy.com/p/000readme-chinesebqb/)
-5. [开源表情包](https://v2fy.com/asset/0i/ChineseBQB/)
-6. [Meme Generator](https://imgflip.com/memegenerator)
-7. [VVQuest](https://zvv.quest)
-8. [这就是VV](https://vv.cicada000.work)
-9. [caiyongji/emoji-list](https://github.com/caiyongji/emoji-list)
+1. [Imgflip](https://imgflip.com)
+2. [GIPHY](https://giphy.com)
+3. [Memedroid](https://www.memedroid.com)
+4. [quickmeme](http://www.quickmeme.com)
+5. [在线制作MEME梗图生成器](https://www.zuomeme.com)
+6. [「神奇海螺」梗图生成器](https://x.magiconch.com)
+7. [电子包浆 图片赛博做旧](https://magiconch.com/patina/)
+8. [中国人的表情包-PP制造计划-ChineseBQB](https://v2fy.com/p/000readme-chinesebqb/)
+9. [开源表情包](https://v2fy.com/asset/0i/ChineseBQB/)
+10. [Meme Generator](https://imgflip.com/memegenerator)
+11. [VVQuest](https://zvv.quest)
+12. [这就是VV](https://vv.cicada000.work)
+13. [caiyongji/emoji-list](https://github.com/caiyongji/emoji-list)
 
 ## 生成器
 
