@@ -33,6 +33,7 @@ pinned: false
 | Inventor | 机械 | Autodesk |
 | SolidWorks | 机械 | Dassault Systèmes |
 | Rhino | 工业设计、建筑 | Robert McNeel |
+| Fusion | 工业设计、3D打印 | Autodesk |
 
 ### 开源
 

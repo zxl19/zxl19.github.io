@@ -27,6 +27,7 @@ pinned: false
 10. [missing-semester/missing-semester](https://github.com/missing-semester/missing-semester)
 11. [missing-semester-cn/missing-semester-cn.github.io](https://github.com/missing-semester-cn/missing-semester-cn.github.io)
 12. [niudai/How-to-be-a-good-programmer](https://github.com/niudai/How-to-be-a-good-programmer)
+13. [getiot/getiot-kb](https://github.com/getiot/getiot-kb)
 
 ## 电子书
 
@@ -94,17 +95,18 @@ pinned: false
 4. [计算机教育中缺失的一课](https://missing-semester-cn.github.io)
 5. [OI Wiki](https://oi-wiki.org)
 6. [CTF Wiki](https://ctf-wiki.org)
-7. [GeeksforGeeks](https://www.geeksforgeeks.org)
-8. [W3Schools](https://www.w3schools.com)
-9. [Runebook.dev](https://runebook.dev)
-10. [菜鸟教程](https://www.runoob.com)
-11. [极客教程](https://geek-docs.com)
-12. [极客文档](https://geekdaxue.co)
-13. [极客时间](https://time.geekbang.org)
-14. [DataCamp](https://www.datacamp.com)
-15. [Codecademy](https://www.codecademy.com)
-16. [CodeCrafters](https://codecrafters.io)
-17. [W3Cschool](https://www.w3cschool.cn)
+7. [人人都懂物联网](https://getiot.tech)
+8. [GeeksforGeeks](https://www.geeksforgeeks.org)
+9. [W3Schools](https://www.w3schools.com)
+10. [Runebook.dev](https://runebook.dev)
+11. [菜鸟教程](https://www.runoob.com)
+12. [极客教程](https://geek-docs.com)
+13. [极客文档](https://geekdaxue.co)
+14. [极客时间](https://time.geekbang.org)
+15. [DataCamp](https://www.datacamp.com)
+16. [Codecademy](https://www.codecademy.com)
+17. [CodeCrafters](https://codecrafters.io)
+18. [W3Cschool](https://www.w3cschool.cn)
 
 ## 参考
 
