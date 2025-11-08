@@ -84,6 +84,8 @@ pinned: false
 
 ### 文件查看
 
+#### 文本
+
 1. cat
 2. head
 3. tail
@@ -92,10 +94,21 @@ pinned: false
 6. strings
 7. [lnav](https://github.com/tstack/lnav)
 8. [tailspin](https://github.com/bensadeh/tailspin)
-9. [hpjansson/chafa](https://github.com/hpjansson/chafa)
-10. [timg](https://github.com/hzeller/timg)
-11. [fltrdr](https://github.com/octobanana/fltrdr)
-12. [json-tui](https://github.com/ArthurSonzogni/json-tui)
+9. [fltrdr](https://github.com/octobanana/fltrdr)
+10. [json-tui](https://github.com/ArthurSonzogni/json-tui)
+
+#### 十六进制
+
+1. hexdump
+2. od
+3. xxd
+4. [hexyl](https://github.com/sharkdp/hexyl)
+5. [hevi](https://github.com/Arnau478/hevi)
+
+#### 图片
+
+1. [chafa](https://github.com/hpjansson/chafa)
+2. [timg](https://github.com/hzeller/timg)
 
 ### 文件压缩
 
@@ -237,9 +250,22 @@ pinned: false
 7. [youtube-dlc](https://github.com/blackjack4494/yt-dlc)
 8. [bauh](https://github.com/vinifmor/bauh)
 
-## 代理
+## 网络
+
+### 代理
 
 1. [proxychains4](https://github.com/rofl0r/proxychains-ng)
+
+### 负载测试
+
+1. ab
+2. [vegeta](https://github.com/tsenart/vegeta)
+3. [oha](https://github.com/hatoo/oha)
+4. [bombardier](https://github.com/codesenberg/bombardier)
+5. [dperf](https://github.com/baidu/dperf)
+6. [plow](https://github.com/six-ddc/plow)
+7. [ali](https://github.com/nakabonne/ali)
+8. [jplot](https://github.com/rs/jplot)
 
 ## 信息收集
 

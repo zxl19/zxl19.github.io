@@ -62,7 +62,8 @@ pinned: false
 6. [CnTransGroup/EffectiveModernCppChinese](https://github.com/CnTransGroup/EffectiveModernCppChinese)
 7. [0voice/cpp_new_features](https://github.com/0voice/cpp_new_features)
 8. [tip-of-the-week/cpp](https://github.com/tip-of-the-week/cpp)
-9. [netcan/advanced-cpp20-programming](https://github.com/netcan/advanced-cpp20-programming)
+9. [windsting/a-tour-of-cpp-2nd-cn](https://github.com/windsting/a-tour-of-cpp-2nd-cn)
+10. [netcan/advanced-cpp20-programming](https://github.com/netcan/advanced-cpp20-programming)
 
 ### 高性能计算
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: C++字符串使用笔记
+title: C++字符串类使用笔记
 date: 2022-12-28
 author: zxl19
 tags: [C++, Note]
@@ -9,17 +9,34 @@ toc: true
 pinned: false
 ---
 
-我的C++字符串使用笔记。
+我的C++字符串类使用笔记。
 
 <!-- more -->
 
-## 字符串`string`
+## 字符串类
 
-使用时需要包含头文件：
+1. C++可以使用字符数组表示字符串，存在诸多不便：
 
-```cpp
-#include <string>
-```
+    ```cpp
+    // 将字符串常量赋值给指向常量的指针
+    const char* str = "program";
+    // 将字符串变量赋值给字符数组
+    char str1[8] = {'p', 'r', 'o', 'g', 'r', 'a', 'm', '\0'};
+    char str2[8] = "program";
+    char str3[] = "program";
+    ```
+
+    - 字符串操作需要使用`<cstring>`头文件中定义的字符串处理函数；
+    - 当字符串长度不确定时，需要手动进行动态内存分配；
+
+2. C++将字符串相关操作进行了封装，形成了字符串类`string`；
+3. 严格来说，`string`是类模板`basic_string`的一个特化实例，但是其使用时的特点与类相同，可以当做一个类来使用；
+4. 字符串类不是标准模板类（Standard Template Library，STL）的一部分；
+5. 使用时需要包含头文件：
+
+    ```cpp
+    #include <string>
+    ```
 
 ### 操作符
 
