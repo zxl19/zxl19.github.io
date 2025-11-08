@@ -37,13 +37,14 @@ pinned: false
 ## 时钟
 
 1. date
-2. calendar
-3. sleep
-4. time
-5. [poetaman/arttime](https://github.com/poetaman/arttime)
-6. [octobanana/peaclock](https://github.com/octobanana/peaclock)
-7. [coolcode/tomato-clock](https://github.com/coolcode/tomato-clock)
-8. [lucassabreu/clockify-cli](https://github.com/lucassabreu/clockify-cli)
+2. cal
+3. calendar
+4. sleep
+5. time
+6. [poetaman/arttime](https://github.com/poetaman/arttime)
+7. [octobanana/peaclock](https://github.com/octobanana/peaclock)
+8. [coolcode/tomato-clock](https://github.com/coolcode/tomato-clock)
+9. [lucassabreu/clockify-cli](https://github.com/lucassabreu/clockify-cli)
 
 ## 计算器
 
@@ -248,13 +249,34 @@ pinned: false
 
 ## 彩蛋和游戏
 
+### 合集
+
 1. [40个超有趣的Linux命令行彩蛋和游戏.md](https://github.com/TommyZihao/Zihao-Blog)
-2. [svenstaro/genact](https://github.com/svenstaro/genact)
-3. [dustinkirkland/hollywood](https://github.com/dustinkirkland/hollywood)
-4. [phyver/GameShell](https://github.com/phyver/GameShell)
-5. [piuccio/cowsay](https://github.com/piuccio/cowsay)
-6. [erkin/ponysay](https://github.com/erkin/ponysay)
-7. [st3w/neo](https://github.com/st3w/neo)
+
+### 彩蛋
+
+#### 格言
+
+1. [ruanyf/fortunes](https://github.com/ruanyf/fortunes)
+2. [JKirchartz/fortunes](https://github.com/JKirchartz/fortunes)
+3. [shenyunhang/fortune-zh](https://github.com/shenyunhang/fortune-zh)
+
+#### 动画效果
+
+1. [svenstaro/genact](https://github.com/svenstaro/genact)
+2. [dustinkirkland/hollywood](https://github.com/dustinkirkland/hollywood)
+3. [piuccio/cowsay](https://github.com/piuccio/cowsay)
+4. [erkin/ponysay](https://github.com/erkin/ponysay)
+5. [st3w/neo](https://github.com/st3w/neo)
+6. [nickg/xcowsay](https://github.com/nickg/xcowsay)
+
+### 游戏
+
+1. [taylorconor/tinytetris](https://github.com/taylorconor/tinytetris)
+2. [phyver/GameShell](https://github.com/phyver/GameShell)
+3. [plibither8/2048.cpp](https://github.com/plibither8/2048.cpp)
+4. [samtay/tetris](https://github.com/samtay/tetris)
+5. [bfontaine/term2048](https://github.com/bfontaine/term2048)
 
 ## 参考
 
@@ -288,3 +310,4 @@ pinned: false
 28. [大佬们都是怎么用gdb的？或者用吗？-yaoyaohu的回答-知乎](https://www.zhihu.com/question/65306462/answer/94492305604)
 29. [Ubuntu下实现命令行走代理/终端走代理的方法-lyh458的文章-知乎](https://zhuanlan.zhihu.com/p/377550825)
 30. [40个超有趣的Linux命令行彩蛋和游戏-张子豪的文章-知乎](https://zhuanlan.zhihu.com/p/51904179)
+31. [有什么高质量的现代C++风格的开源代码?-夏天的回答-知乎](https://www.zhihu.com/question/23153437/answer/1962068242)

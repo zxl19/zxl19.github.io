@@ -196,19 +196,21 @@ pinned: false
 4. 《Effective Modern C++》
 5. 《C++ Core Guidelines解析》
 6. 《C++实战：核心技术与最佳实践》
+7. 《C++之旅》
 
 ## 参考
 
 1. [如何塑造一个拿的出手的GitHub账号？-吴师兄学算法的回答-知乎](https://www.zhihu.com/question/47567490/answer/1866897272)
 2. [学习C++，应该循序渐进的看哪些书？-嘉炜的回答-知乎](https://www.zhihu.com/question/20410487/answer/15055637)
 3. [有什么高质量的现代C++风格的开源代码?-夏天的回答-知乎](https://www.zhihu.com/question/23153437/answer/1962068242)
-4. [从零开始的C/C++高性能编程指南-持墨的文章-知乎](https://zhuanlan.zhihu.com/p/503037055)
-5. [C和C++中有哪些容易被坑的undefined behaviour？-南山烟雨珠江潮的回答-知乎](https://www.zhihu.com/question/43621151/answer/85045768298)
-6. [可以使用C++的哪些库或函数来简化任务？-南山烟雨珠江潮的回答-知乎](https://www.zhihu.com/question/639724149/answer/3374083013)
-7. [C++有哪些学习网站？-南山烟雨珠江潮的回答-知乎](https://www.zhihu.com/question/591342877/answer/1913679301863270127)
-8. [ClangFormatStyleOptions](https://clang.llvm.org/docs/ClangFormatStyleOptions.html)
-9. [推荐10款C++在线编译器-CSDN博客](https://blog.csdn.net/cool99781/article/details/104516581)
-10. [C++ lambda表达式的[&]是怎么做到捕获当前作用域所有变量的？-南山烟雨珠江潮的回答-知乎](https://www.zhihu.com/question/616815005/answer/1938549921235050627)
-11. [melpon/wandbox](https://github.com/melpon/wandbox)
-12. [andreasfertig/cppinsights](https://github.com/andreasfertig/cppinsights)
-13. [《C++实战：核心技术与最佳实践》——与吴咏炜老师一起走进C++的实战世界-人民邮电出版社的文章-知乎](https://zhuanlan.zhihu.com/p/14044433366)
+4. [C++新手如何高效入门现代 C++，避免走弯路？-南山烟雨珠江潮的回答-知乎](https://www.zhihu.com/question/1958124561188001122/answer/1959186674169939653)
+5. [从零开始的C/C++高性能编程指南-持墨的文章-知乎](https://zhuanlan.zhihu.com/p/503037055)
+6. [C和C++中有哪些容易被坑的undefined behaviour？-南山烟雨珠江潮的回答-知乎](https://www.zhihu.com/question/43621151/answer/85045768298)
+7. [可以使用C++的哪些库或函数来简化任务？-南山烟雨珠江潮的回答-知乎](https://www.zhihu.com/question/639724149/answer/3374083013)
+8. [C++有哪些学习网站？-南山烟雨珠江潮的回答-知乎](https://www.zhihu.com/question/591342877/answer/1913679301863270127)
+9. [ClangFormatStyleOptions](https://clang.llvm.org/docs/ClangFormatStyleOptions.html)
+10. [推荐10款C++在线编译器-CSDN博客](https://blog.csdn.net/cool99781/article/details/104516581)
+11. [C++ lambda表达式的[&]是怎么做到捕获当前作用域所有变量的？-南山烟雨珠江潮的回答-知乎](https://www.zhihu.com/question/616815005/answer/1938549921235050627)
+12. [melpon/wandbox](https://github.com/melpon/wandbox)
+13. [andreasfertig/cppinsights](https://github.com/andreasfertig/cppinsights)
+14. [《C++实战：核心技术与最佳实践》——与吴咏炜老师一起走进C++的实战世界-人民邮电出版社的文章-知乎](https://zhuanlan.zhihu.com/p/14044433366)

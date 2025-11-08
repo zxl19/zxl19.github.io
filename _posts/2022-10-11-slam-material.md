@@ -140,6 +140,8 @@ pinned: false
 31. [Error-State Kalman Filter理解与梗概推导-m米咔00的文章-知乎](https://zhuanlan.zhihu.com/p/359014822)
 32. [FAST-LIO论文解读与详细公式推导-铁马冰河入梦来的文章-知乎](https://zhuanlan.zhihu.com/p/587500859)
 33. [FAST-LIO公式推导-鬼木士的文章-知乎](https://zhuanlan.zhihu.com/p/561877392)
+34. [Faster-LIO：快速激光IMU里程计-半闲居士的文章-知乎](https://zhuanlan.zhihu.com/p/468628910)
+35. [lightning-lm-半闲居士的文章-知乎](https://zhuanlan.zhihu.com/p/1969360325880030621)
 
 ### 交互式仿真
 
@@ -230,6 +232,12 @@ pinned: false
 2. [Dig into Apollo](https://dig-into-apollo.readthedocs.io/en/latest/index.html)
 3. [Apollo 开放平台](https://daobook.github.io/apollo-book/docs/start/index.html)
 4. [Algorithms for Automated Driving](https://thomasfermi.github.io/Algorithms-for-Automated-Driving/Introduction/intro.html)
+
+### 专栏汇总
+
+1. [SLAM与多传感器融合定位（专栏文章汇总）-任乾的文章-知乎](https://zhuanlan.zhihu.com/p/83775731)
+2. [从零开始做自动驾驶定位（文章汇总）-任乾的文章-知乎](https://zhuanlan.zhihu.com/p/113616755)
+3. [自动驾驶和机器人学习和总结专栏汇总-goldqiu的文章-知乎](https://zhuanlan.zhihu.com/p/645737781)
 
 ### GitHub
 

@@ -75,8 +75,9 @@ pinned: false
 
 #### 图片示例
 
-1. [Matplotlib Gallery](https://matplotlib.org/stable/gallery/index.html)
-2. [Seaborn Example Gallery](https://seaborn.pydata.org/examples/index.html)
+1. [Matplotlib cheatsheets and handouts](https://matplotlib.org/cheatsheets/)
+2. [Matplotlib Gallery](https://matplotlib.org/stable/gallery/index.html)
+3. [Seaborn Example Gallery](https://seaborn.pydata.org/examples/index.html)
 
 ### gnuplot
 
