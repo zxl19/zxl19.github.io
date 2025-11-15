@@ -102,14 +102,15 @@ python3 -m pip install tldr
 2. [tldr-pages/tldr-python-client](https://github.com/tldr-pages/tldr-python-client)
 3. [jaywcjlove/linux-command](https://github.com/jaywcjlove/linux-command)
 4. [denisidoro/navi](https://github.com/denisidoro/navi)
-5. [rstacruz/cheatsheets](https://github.com/rstacruz/cheatsheets)
-6. [cheat/cheat](https://github.com/cheat/cheat)
-7. [jaywcjlove/reference](https://github.com/jaywcjlove/reference)
+5. [jaywcjlove/reference](https://github.com/jaywcjlove/reference)
+6. [rstacruz/cheatsheets](https://github.com/rstacruz/cheatsheets)
+7. [cheat/cheat](https://github.com/cheat/cheat)
 8. [Fechin/reference](https://github.com/Fechin/reference)
 9. [gnebbia/kb](https://github.com/gnebbia/kb)
 10. [srsudar/eg](https://github.com/srsudar/eg)
-11. [darkmatter18/cheatsheet](https://github.com/darkmatter18/cheatsheet)
-12. [Command Line Interface Pages](https://github.com/command-line-interface-pages)
+11. [wizardforcel/llthw-zh](https://github.com/wizardforcel/llthw-zh)
+12. [darkmatter18/cheatsheet](https://github.com/darkmatter18/cheatsheet)
+13. [Command Line Interface Pages](https://github.com/command-line-interface-pages)
 
 ## 参考
 

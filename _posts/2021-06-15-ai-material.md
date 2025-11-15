@@ -68,6 +68,13 @@ pinned: false
 13. [RobustFieldAutonomyLab/DRL_graph_exploration](https://github.com/RobustFieldAutonomyLab/DRL_graph_exploration)
 14. [huggingface/gym-pusht](https://github.com/huggingface/gym-pusht)
 
+### 大模型
+
+1. [datawhalechina/self-llm](https://github.com/datawhalechina/self-llm)
+2. [datawhalechina/llm-cookbook](https://github.com/datawhalechina/llm-cookbook)
+3. [datawhalechina/llm-universe](https://github.com/datawhalechina/llm-universe)
+4. [Lordog/dive-into-llms](https://github.com/Lordog/dive-into-llms)
+
 ## 笔记
 
 1. [Data Science Cheat Sheets](https://www.datacamp.com/cheat-sheet)

@@ -43,7 +43,8 @@ pinned: false
 8. [youngyangyang04/TechCPP](https://github.com/youngyangyang04/TechCPP)
 9. [ShiqiYu/CPP](https://github.com/ShiqiYu/CPP)
 10. [steveLauwh/SGI-STL](https://github.com/steveLauwh/SGI-STL)
-11. [dendisuhubdy/cpp_exercises](https://github.com/dendisuhubdy/cpp_exercises)
+11. [wizardforcel/lcthw-zh](https://github.com/wizardforcel/lcthw-zh)
+12. [dendisuhubdy/cpp_exercises](https://github.com/dendisuhubdy/cpp_exercises)
 
 ### 常用算法实现
 

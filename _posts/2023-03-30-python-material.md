@@ -22,9 +22,13 @@ pinned: false
 5. [trekhleb/learn-python](https://github.com/trekhleb/learn-python)
 6. [crazyguitar/pysheeet](https://github.com/crazyguitar/pysheeet)
 7. [wilfredinni/python-cheatsheet](https://github.com/wilfredinni/python-cheatsheet)
-8. [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python)
+8. [wizardforcel/sicp-py-zh](https://github.com/wizardforcel/sicp-py-zh)
 9. [TommyZihao/zihaopython](https://github.com/TommyZihao/zihaopython)
-10. [AllAlgorithms/python](https://github.com/AllAlgorithms/python)
+
+## 常用算法实现
+
+1. [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python)
+2. [AllAlgorithms/python](https://github.com/AllAlgorithms/python)
 
 ## 速查表
 
@@ -60,12 +64,13 @@ pinned: false
 2. [Python Crash Course](http://ehmatthes.github.io/pcc/)
 3. [Automate the Boring Stuff with Python](https://automatetheboringstuff.com)
 4. [jakevdp/PythonDataScienceHandbook](https://github.com/jakevdp/PythonDataScienceHandbook)
-5. [ehmatthes/pcc](https://github.com/ehmatthes/pcc)
-6. [swaroopch/byte-of-python](https://github.com/swaroopch/byte-of-python)
-7. [rougier/from-python-to-numpy](https://github.com/rougier/from-python-to-numpy)
-8. [rougier/scientific-visualization-book](https://github.com/rougier/scientific-visualization-book)
-9. [Visualize-ML/Book1_Python-For-Beginners](https://github.com/Visualize-ML/Book1_Python-For-Beginners)
-10. [Visualize-ML/Book2_Beauty-of-Data-Visualization](https://github.com/Visualize-ML/Book2_Beauty-of-Data-Visualization)
+5. [wesm/pydata-book](https://github.com/wesm/pydata-book)
+6. [rougier/scientific-visualization-book](https://github.com/rougier/scientific-visualization-book)
+7. [Visualize-ML/Book1_Python-For-Beginners](https://github.com/Visualize-ML/Book1_Python-For-Beginners)
+8. [Visualize-ML/Book2_Beauty-of-Data-Visualization](https://github.com/Visualize-ML/Book2_Beauty-of-Data-Visualization)
+9. [ehmatthes/pcc](https://github.com/ehmatthes/pcc)
+10. [swaroopch/byte-of-python](https://github.com/swaroopch/byte-of-python)
+11. [rougier/from-python-to-numpy](https://github.com/rougier/from-python-to-numpy)
 
 ## 代码规范
 
