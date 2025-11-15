@@ -110,8 +110,9 @@ pinned: false
 2. [HarisIqbal88/PlotNeuralNet](https://github.com/HarisIqbal88/PlotNeuralNet)
 3. [dair-ai/ml-visuals](https://github.com/dair-ai/ml-visuals)
 4. [ashishpatel26/Tools-to-Design-or-Visualize-Architecture-of-Neural-Network](https://github.com/ashishpatel26/Tools-to-Design-or-Visualize-Architecture-of-Neural-Network)
-5. [hackl/tikz-network](https://github.com/hackl/tikz-network)
-6. [ThomasRobertFr/deep-learning-figures](https://github.com/ThomasRobertFr/deep-learning-figures)
+5. [kennethleungty/Neural-Network-Architecture-Diagrams](https://github.com/kennethleungty/Neural-Network-Architecture-Diagrams)
+6. [hackl/tikz-network](https://github.com/hackl/tikz-network)
+7. [ThomasRobertFr/deep-learning-figures](https://github.com/ThomasRobertFr/deep-learning-figures)
 
 ## 自动机器学习
 

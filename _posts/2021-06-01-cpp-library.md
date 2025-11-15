@@ -53,15 +53,14 @@ pinned: false
 
 1. [facebook/zstd](https://github.com/facebook/zstd)
 2. [lz4/lz4](https://github.com/lz4/lz4)
-3. [google/draco](https://github.com/google/draco)
-4. [google/snappy](https://github.com/google/snappy)
-5. [madler/zlib](https://github.com/madler/zlib)
-6. [google/zopfli](https://github.com/google/zopfli)
-7. [nih-at/libzip](https://github.com/nih-at/libzip)
-8. [rikyoz/bit7z](https://github.com/rikyoz/bit7z)
-9. [r-lyeh-archived/bundle](https://github.com/r-lyeh-archived/bundle)
-10. [sebastiandev/zipper](https://github.com/sebastiandev/zipper)
-11. [ctabin/libzippp](https://github.com/ctabin/libzippp)
+3. [google/snappy](https://github.com/google/snappy)
+4. [madler/zlib](https://github.com/madler/zlib)
+5. [google/zopfli](https://github.com/google/zopfli)
+6. [nih-at/libzip](https://github.com/nih-at/libzip)
+7. [rikyoz/bit7z](https://github.com/rikyoz/bit7z)
+8. [r-lyeh-archived/bundle](https://github.com/r-lyeh-archived/bundle)
+9. [sebastiandev/zipper](https://github.com/sebastiandev/zipper)
+10. [ctabin/libzippp](https://github.com/ctabin/libzippp)
 
 ### RLE压缩
 

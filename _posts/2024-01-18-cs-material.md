@@ -71,9 +71,11 @@ pinned: false
 ## 编译原理
 
 1. [DoctorWkt/acwj](https://github.com/DoctorWkt/acwj)
-2. [lotabout/write-a-C-interpreter](https://github.com/lotabout/write-a-C-interpreter)
-3. [手把手教你做一个C语言编译器](https://wizardforcel.gitbooks.io/diy-c-compiler/content/)
-4. [北大编译实践在线文档](https://pku-minic.github.io/online-doc/#/)
+2. [munificent/craftinginterpreters](https://github.com/munificent/craftinginterpreters)
+3. [lotabout/write-a-C-interpreter](https://github.com/lotabout/write-a-C-interpreter)
+4. [手把手教你做一个C语言编译器](https://wizardforcel.gitbooks.io/diy-c-compiler/content/)
+5. [北大编译实践在线文档](https://pku-minic.github.io/online-doc/#/)
+6. [Crafting Interpreters](https://www.craftinginterpreters.com)
 
 ## 编译器
 

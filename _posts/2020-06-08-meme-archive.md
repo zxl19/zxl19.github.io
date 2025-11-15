@@ -330,14 +330,15 @@ Meme这个词最初源自英国著名科学家理查德·道金斯所著的《�
 
 1. [0voice/expert_readed_books](https://github.com/0voice/expert_readed_books)
 2. [kska32/ebooks](https://github.com/kska32/ebooks)
-3. [ruanyf/reading-list](https://github.com/ruanyf/reading-list)
-4. [jbiaojerry/ebook-treasure-chest](https://github.com/jbiaojerry/ebook-treasure-chest)
-5. [yc-liu/readings](https://github.com/yc-liu/readings)
-6. [ixinzhi/wealth-books-2024](https://github.com/ixinzhi/wealth-books-2024)
-7. [ixinzhi/wealth-books-2023](https://github.com/ixinzhi/wealth-books-2023)
-8. [ixinzhi/wealth-books-2022](https://github.com/ixinzhi/wealth-books-2022)
-9. [ixinzhi/loving-books-2023](https://github.com/ixinzhi/loving-books-2023)
-10. [ixinzhi/loving-books-2022](https://github.com/ixinzhi/loving-books-2022)
+3. [jbiaojerry/ebook-treasure-chest](https://github.com/jbiaojerry/ebook-treasure-chest)
+4. [ruanyf/reading-list](https://github.com/ruanyf/reading-list)
+5. [holyshell/Books](https://github.com/holyshell/Books)
+6. [yc-liu/readings](https://github.com/yc-liu/readings)
+7. [ixinzhi/wealth-books-2024](https://github.com/ixinzhi/wealth-books-2024)
+8. [ixinzhi/wealth-books-2023](https://github.com/ixinzhi/wealth-books-2023)
+9. [ixinzhi/wealth-books-2022](https://github.com/ixinzhi/wealth-books-2022)
+10. [ixinzhi/loving-books-2023](https://github.com/ixinzhi/loving-books-2023)
+11. [ixinzhi/loving-books-2022](https://github.com/ixinzhi/loving-books-2022)
 
 ## 参考
 
