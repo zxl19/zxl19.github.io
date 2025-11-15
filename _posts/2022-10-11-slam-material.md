@@ -73,27 +73,33 @@ pinned: false
 
 ### GitHub
 
+#### 理论知识
+
 1. [gaoxiang12/slambook](https://github.com/gaoxiang12/slambook)
 2. [gaoxiang12/slambook2](https://github.com/gaoxiang12/slambook2)
 3. [gaoxiang12/slambook-en](https://github.com/gaoxiang12/slambook-en)
 4. [gaoxiang12/slam_in_autonomous_driving](https://github.com/gaoxiang12/slam_in_autonomous_driving)
 5. [AlbertSlam/Lee-SLAM-source](https://github.com/AlbertSlam/Lee-SLAM-source)
-6. [jlblancoc/tutorial-se3-manifold](https://github.com/jlblancoc/tutorial-se3-manifold)
-7. [StevenCui/VIO-Doc](https://github.com/StevenCui/VIO-Doc)
-8. [TurtleZhong/Map-based-Visual-Localization](https://github.com/TurtleZhong/Map-based-Visual-Localization)
+6. [StevenCui/VIO-Doc](https://github.com/StevenCui/VIO-Doc)
+7. [Taeyoung96/SLAM-Resources-for-Beginner](https://github.com/Taeyoung96/SLAM-Resources-for-Beginner)
+8. [jlblancoc/tutorial-se3-manifold](https://github.com/jlblancoc/tutorial-se3-manifold)
 9. [PetWorm/IMU-Preintegration-Propogation-Doc](https://github.com/PetWorm/IMU-Preintegration-Propogation-Doc)
 10. [PetWorm/IMU_error_state_propagation_doc](https://github.com/PetWorm/IMU_error_state_propagation_doc)
-11. [norlab-ulaval/cheatsheet_LieAlgebra](https://github.com/norlab-ulaval/cheatsheet_LieAlgebra)
+11. [gongbingg/slam](https://github.com/gongbingg/slam)
 12. [jlblancoc/factor-graphs-course](https://github.com/jlblancoc/factor-graphs-course)
-13. [gongbingg/slam](https://github.com/gongbingg/slam)
-14. [Joanna-HE/Supplementary-file-for-IKFoM](https://github.com/Joanna-HE/Supplementary-file-for-IKFoM)
-15. [slam-code/SLAM](https://github.com/slam-code/SLAM)
-16. [brytsknguyen/slict](https://github.com/brytsknguyen/slict)
-17. [Tompson11/SLAM_comparison](https://github.com/Tompson11/SLAM_comparison)
-18. [ganlumomo/VisualInertialOdometry](https://github.com/ganlumomo/VisualInertialOdometry)
-19. [brytsknguyen/oblam_deskew](https://github.com/brytsknguyen/oblam_deskew)
-20. [YZH-bot/SLAM_Box](https://github.com/YZH-bot/SLAM_Box)
-21. [TheSeanParker/SLAM_Materials](https://github.com/TheSeanParker/SLAM_Materials)
+13. [norlab-ulaval/cheatsheet_LieAlgebra](https://github.com/norlab-ulaval/cheatsheet_LieAlgebra)
+14. [TheSeanParker/SLAM_Materials](https://github.com/TheSeanParker/SLAM_Materials)
+15. [Joanna-HE/Supplementary-file-for-IKFoM](https://github.com/Joanna-HE/Supplementary-file-for-IKFoM)
+
+#### 源码分析
+
+1. [TurtleZhong/Map-based-Visual-Localization](https://github.com/TurtleZhong/Map-based-Visual-Localization)
+2. [slam-code/SLAM](https://github.com/slam-code/SLAM)
+3. [brytsknguyen/slict](https://github.com/brytsknguyen/slict)
+4. [Tompson11/SLAM_comparison](https://github.com/Tompson11/SLAM_comparison)
+5. [ganlumomo/VisualInertialOdometry](https://github.com/ganlumomo/VisualInertialOdometry)
+6. [brytsknguyen/oblam_deskew](https://github.com/brytsknguyen/oblam_deskew)
+7. [YZH-bot/SLAM_Box](https://github.com/YZH-bot/SLAM_Box)
 
 ### 公开课
 
