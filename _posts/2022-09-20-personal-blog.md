@@ -62,10 +62,9 @@ pinned: false
 4. [科学空间](https://spaces.ac.cn)
 5. [标点符](https://www.biaodianfu.com)
 6. [奔跑中的奶酪](https://www.runningcheese.com)
-7. [Folklore.org: The Original Macintosh](https://www.folklore.org/0-index.html)
-8. [EE Archeology](http://7400.me)
-9. [Web Mechanic](https://www.softouch.on.ca)
-10. [月石MoonStone](https://www.moonstone.fun)
+7. [EE Archeology](http://7400.me)
+8. [Web Mechanic](https://www.softouch.on.ca)
+9. [月石MoonStone](https://www.moonstone.fun)
 
 #### 生活随笔
 

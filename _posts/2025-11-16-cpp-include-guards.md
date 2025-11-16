@@ -38,7 +38,7 @@ pinned: false
 /**
  * @file baz.h
  * @author zxl19 (https://github.com/zxl19)
- * @brief
+ * @brief 防卫式声明示例
  * @version 0.1
  * @date 2025-11-16
  *
