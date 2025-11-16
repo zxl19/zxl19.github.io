@@ -40,11 +40,12 @@ pinned: false
 5. [ZachL1/Bilibili-plus](https://github.com/ZachL1/Bilibili-plus)
 6. [AnkerLeng/Cpp-0-1-Resource](https://github.com/AnkerLeng/Cpp-0-1-Resource)
 7. [Ewenwan/ShiYanLou](https://github.com/Ewenwan/ShiYanLou)
-8. [youngyangyang04/TechCPP](https://github.com/youngyangyang04/TechCPP)
-9. [ShiqiYu/CPP](https://github.com/ShiqiYu/CPP)
-10. [steveLauwh/SGI-STL](https://github.com/steveLauwh/SGI-STL)
-11. [wizardforcel/lcthw-zh](https://github.com/wizardforcel/lcthw-zh)
-12. [dendisuhubdy/cpp_exercises](https://github.com/dendisuhubdy/cpp_exercises)
+8. [chengxumiaodaren/cpp-learning](https://github.com/chengxumiaodaren/cpp-learning)
+9. [youngyangyang04/TechCPP](https://github.com/youngyangyang04/TechCPP)
+10. [ShiqiYu/CPP](https://github.com/ShiqiYu/CPP)
+11. [steveLauwh/SGI-STL](https://github.com/steveLauwh/SGI-STL)
+12. [wizardforcel/lcthw-zh](https://github.com/wizardforcel/lcthw-zh)
+13. [dendisuhubdy/cpp_exercises](https://github.com/dendisuhubdy/cpp_exercises)
 
 ### 常用算法实现
 
@@ -177,6 +178,9 @@ pinned: false
 ### 设计模式
 
 1. [游戏编程模式](https://gpp.tkchu.me)
+2. [C++有哪些经常用到的设计模式？-程序喵大人的回答-知乎](https://www.zhihu.com/question/37391884/answer/3520221395)
+3. [C++有哪些经常用到的设计模式？-xiaokang的回答-知乎](https://www.zhihu.com/question/37391884/answer/16991041977)
+4. [C++有哪些经常用到的设计模式？-fr1vol的回答-知乎](https://www.zhihu.com/question/37391884/answer/2369923648)
 
 ### 在线工具
 
@@ -214,11 +218,13 @@ pinned: false
 4. [C++新手如何高效入门现代 C++，避免走弯路？-南山烟雨珠江潮的回答-知乎](https://www.zhihu.com/question/1958124561188001122/answer/1959186674169939653)
 5. [从零开始的C/C++高性能编程指南-持墨的文章-知乎](https://zhuanlan.zhihu.com/p/503037055)
 6. [C和C++中有哪些容易被坑的undefined behaviour？-南山烟雨珠江潮的回答-知乎](https://www.zhihu.com/question/43621151/answer/85045768298)
-7. [可以使用C++的哪些库或函数来简化任务？-南山烟雨珠江潮的回答-知乎](https://www.zhihu.com/question/639724149/answer/3374083013)
-8. [C++有哪些学习网站？-南山烟雨珠江潮的回答-知乎](https://www.zhihu.com/question/591342877/answer/1913679301863270127)
-9. [ClangFormatStyleOptions](https://clang.llvm.org/docs/ClangFormatStyleOptions.html)
-10. [推荐10款C++在线编译器-CSDN博客](https://blog.csdn.net/cool99781/article/details/104516581)
-11. [C++ lambda表达式的[&]是怎么做到捕获当前作用域所有变量的？-南山烟雨珠江潮的回答-知乎](https://www.zhihu.com/question/616815005/answer/1938549921235050627)
-12. [melpon/wandbox](https://github.com/melpon/wandbox)
-13. [andreasfertig/cppinsights](https://github.com/andreasfertig/cppinsights)
-14. [《C++实战：核心技术与最佳实践》——与吴咏炜老师一起走进C++的实战世界-人民邮电出版社的文章-知乎](https://zhuanlan.zhihu.com/p/14044433366)
+7. [C++设计模式有无好的书籍推荐？-南山烟雨珠江潮的回答-知乎](https://www.zhihu.com/question/1972030720189895524/answer/1972581772358316070)
+8. [有哪些专门介绍现代C++设计模式的书籍、博客网站或者开源项目？-南山烟雨珠江潮的回答-知乎](https://www.zhihu.com/question/1961233675917198002/answer/1962951710478689789)
+9. [可以使用C++的哪些库或函数来简化任务？-南山烟雨珠江潮的回答-知乎](https://www.zhihu.com/question/639724149/answer/3374083013)
+10. [C++有哪些学习网站？-南山烟雨珠江潮的回答-知乎](https://www.zhihu.com/question/591342877/answer/1913679301863270127)
+11. [ClangFormatStyleOptions](https://clang.llvm.org/docs/ClangFormatStyleOptions.html)
+12. [推荐10款C++在线编译器-CSDN博客](https://blog.csdn.net/cool99781/article/details/104516581)
+13. [C++ lambda表达式的[&]是怎么做到捕获当前作用域所有变量的？-南山烟雨珠江潮的回答-知乎](https://www.zhihu.com/question/616815005/answer/1938549921235050627)
+14. [melpon/wandbox](https://github.com/melpon/wandbox)
+15. [andreasfertig/cppinsights](https://github.com/andreasfertig/cppinsights)
+16. [《C++实战：核心技术与最佳实践》——与吴咏炜老师一起走进C++的实战世界-人民邮电出版社的文章-知乎](https://zhuanlan.zhihu.com/p/14044433366)

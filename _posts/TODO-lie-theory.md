@@ -32,6 +32,10 @@ pinned: false
 
 1. [Rotation matrix-Wikipedia](https://en.wikipedia.org/wiki/Rotation_matrix)
 
+## 旋转向量
+
+1. [Axis–angle representation-Wikipedia](https://en.wikipedia.org/wiki/Axis%E2%80%93angle_representation)
+
 ## 李群
 
 1. [3D rotation group-Wikipedia](https://en.wikipedia.org/wiki/3D_rotation_group)
