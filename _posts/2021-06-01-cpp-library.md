@@ -333,11 +333,12 @@ pinned: false
 
 1. [protocolbuffers/protobuf](https://github.com/protocolbuffers/protobuf)
 2. [google/flatbuffers](https://github.com/google/flatbuffers)
-3. [capnproto/capnproto](https://github.com/capnproto/capnproto)
-4. [USCiLab/cereal](https://github.com/USCiLab/cereal)
-5. [felixguendling/cista](https://github.com/felixguendling/cista)
-6. [qicosmos/iguana](https://github.com/qicosmos/iguana)
-7. [p-ranav/alpaca](https://github.com/p-ranav/alpaca)
+3. [apache/arrow](https://github.com/apache/arrow)
+4. [capnproto/capnproto](https://github.com/capnproto/capnproto)
+5. [USCiLab/cereal](https://github.com/USCiLab/cereal)
+6. [felixguendling/cista](https://github.com/felixguendling/cista)
+7. [qicosmos/iguana](https://github.com/qicosmos/iguana)
+8. [p-ranav/alpaca](https://github.com/p-ranav/alpaca)
 
 ## 多态
 
@@ -395,20 +396,26 @@ pinned: false
 
 ## 数据结构
 
-1. [apache/arrow](https://github.com/apache/arrow)
-2. [cameron314/concurrentqueue](https://github.com/cameron314/concurrentqueue)
-3. [cameron314/readerwriterqueue](https://github.com/cameron314/readerwriterqueue)
-4. [Alinshans/MyTinySTL](https://github.com/Alinshans/MyTinySTL)
-5. [electronicarts/EASTL](https://github.com/electronicarts/EASTL)
-6. [zouxiaohang/TinySTL](https://github.com/zouxiaohang/TinySTL)
-7. [skarupke/flat_hash_map](https://github.com/skarupke/flat_hash_map)
-8. [VcDevel/Vc](https://github.com/VcDevel/Vc)
-9. [boostorg/pfr](https://github.com/boostorg/pfr)
-10. [stotko/stdgpu](https://github.com/stotko/stdgpu)
-11. [imageworks/pystring](https://github.com/imageworks/pystring)
-12. [VcDevel/std-simd](https://github.com/VcDevel/std-simd)
-13. [frozenca/BTree](https://github.com/frozenca/BTree)
-14. [lsils/kitty](https://github.com/lsils/kitty)
+### 无锁队列
+
+1. [cameron314/concurrentqueue](https://github.com/cameron314/concurrentqueue)
+2. [cameron314/readerwriterqueue](https://github.com/cameron314/readerwriterqueue)
+3. [max0x7ba/atomic_queue](https://github.com/max0x7ba/atomic_queue)
+
+### 标准模板库
+
+1. [Alinshans/MyTinySTL](https://github.com/Alinshans/MyTinySTL)
+2. [electronicarts/EASTL](https://github.com/electronicarts/EASTL)
+3. [zouxiaohang/TinySTL](https://github.com/zouxiaohang/TinySTL)
+4. [skarupke/flat_hash_map](https://github.com/skarupke/flat_hash_map)
+5. [VcDevel/Vc](https://github.com/VcDevel/Vc)
+6. [boostorg/pfr](https://github.com/boostorg/pfr)
+7. [stotko/stdgpu](https://github.com/stotko/stdgpu)
+8. [imageworks/pystring](https://github.com/imageworks/pystring)
+9. [VcDevel/std-simd](https://github.com/VcDevel/std-simd)
+10. [preshing/cpp11-on-multicore](https://github.com/preshing/cpp11-on-multicore)
+11. [frozenca/BTree](https://github.com/frozenca/BTree)
+12. [lsils/kitty](https://github.com/lsils/kitty)
 
 ## 哈希函数
 

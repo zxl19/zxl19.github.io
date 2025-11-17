@@ -96,11 +96,12 @@ pinned: false
 8. [Bob Nystrom](https://journal.stuffwithstuff.com)
 9. [the Nothing itself nothings](http://nothings.org)
 10. [This FTP site](https://okmij.org/ftp/)
-11. [PVS-Studio](https://pvs-studio.com/en/blog/posts/)
-12. [施斌斌的知识库](https://wshibin.github.io)
-13. [Sterben_01](https://sterben-01.github.io)
-14. [ZhiBing's blog](https://azmddy.github.io)
-15. [orzz.org()](http://orzz.org)
+11. [Preshing on Programming](https://preshing.com)
+12. [PVS-Studio](https://pvs-studio.com/en/blog/posts/)
+13. [施斌斌的知识库](https://wshibin.github.io)
+14. [Sterben_01](https://sterben-01.github.io)
+15. [ZhiBing's blog](https://azmddy.github.io)
+16. [orzz.org()](http://orzz.org)
 
 ### Python相关
 
