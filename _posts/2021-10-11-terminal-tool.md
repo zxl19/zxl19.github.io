@@ -171,6 +171,10 @@ pinned: false
 1. [powerline/powerline](https://github.com/powerline/powerline)
 2. [b-ryan/powerline-shell](https://github.com/b-ryan/powerline-shell)
 
+## 护眼工具
+
+1. [safeeyes](https://github.com/slgobinath/SafeEyes)
+
 ## 代码质量
 
 ### 行数统计

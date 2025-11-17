@@ -36,9 +36,10 @@ pinned: false
 17. [KMnO4的行云小扎](https://wastoon.github.io)
 18. [Yilin's Blog](https://yilingui.xyz)
 19. [RealCat](https://vincentqin.tech)
-20. [Marquis](https://marquistj13.github.io/MyBlog/)
-21. [晨光ABC-CSDN博客](https://cgabc.blog.csdn.net)
-22. [家家的快乐空间-CSDN博客](https://blog.csdn.net/m0_38144614)
+20. [Oleg Kalachev](https://chev.me)
+21. [Marquis](https://marquistj13.github.io/MyBlog/)
+22. [晨光ABC-CSDN博客](https://cgabc.blog.csdn.net)
+23. [家家的快乐空间-CSDN博客](https://blog.csdn.net/m0_38144614)
 
 ### 自动驾驶相关
 

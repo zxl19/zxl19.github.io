@@ -97,10 +97,11 @@ pinned: false
 2. [slam-code/SLAM](https://github.com/slam-code/SLAM)
 3. [brytsknguyen/slict](https://github.com/brytsknguyen/slict)
 4. [Tompson11/SLAM_comparison](https://github.com/Tompson11/SLAM_comparison)
-5. [ganlumomo/VisualInertialOdometry](https://github.com/ganlumomo/VisualInertialOdometry)
-6. [YZH-bot/SLAM_NOTED](https://github.com/YZH-bot/SLAM_NOTED)
-7. [brytsknguyen/oblam_deskew](https://github.com/brytsknguyen/oblam_deskew)
-8. [YZH-bot/SLAM_Box](https://github.com/YZH-bot/SLAM_Box)
+5. [ckddls1321/SLAM_Resources](https://github.com/ckddls1321/SLAM_Resources)
+6. [ganlumomo/VisualInertialOdometry](https://github.com/ganlumomo/VisualInertialOdometry)
+7. [YZH-bot/SLAM_NOTED](https://github.com/YZH-bot/SLAM_NOTED)
+8. [brytsknguyen/oblam_deskew](https://github.com/brytsknguyen/oblam_deskew)
+9. [YZH-bot/SLAM_Box](https://github.com/YZH-bot/SLAM_Box)
 
 ### 公开课
 
