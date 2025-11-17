@@ -45,7 +45,8 @@ pinned: false
 10. [ShiqiYu/CPP](https://github.com/ShiqiYu/CPP)
 11. [steveLauwh/SGI-STL](https://github.com/steveLauwh/SGI-STL)
 12. [wizardforcel/lcthw-zh](https://github.com/wizardforcel/lcthw-zh)
-13. [dendisuhubdy/cpp_exercises](https://github.com/dendisuhubdy/cpp_exercises)
+13. [franktea/learn_cxx_by_projects](https://github.com/franktea/learn_cxx_by_projects)
+14. [dendisuhubdy/cpp_exercises](https://github.com/dendisuhubdy/cpp_exercises)
 
 ### 常用算法实现
 
@@ -205,26 +206,29 @@ pinned: false
 1. 《C++语言程序设计》
 2. 《C++ Primer》
 3. 《Effective C++》
-4. 《Effective Modern C++》
-5. 《C++ Core Guidelines解析》
-6. 《C++实战：核心技术与最佳实践》
-7. 《C++之旅》
+4. 《Effective STL》
+5. 《Effective Modern C++》
+6. 《C++ Core Guidelines解析》
+7. 《C++实战：核心技术与最佳实践》
+8. 《C++之旅》
 
 ## 参考
 
 1. [如何塑造一个拿的出手的GitHub账号？-吴师兄学算法的回答-知乎](https://www.zhihu.com/question/47567490/answer/1866897272)
 2. [学习C++，应该循序渐进的看哪些书？-嘉炜的回答-知乎](https://www.zhihu.com/question/20410487/answer/15055637)
-3. [有什么高质量的现代C++风格的开源代码?-夏天的回答-知乎](https://www.zhihu.com/question/23153437/answer/1962068242)
-4. [C++新手如何高效入门现代 C++，避免走弯路？-南山烟雨珠江潮的回答-知乎](https://www.zhihu.com/question/1958124561188001122/answer/1959186674169939653)
-5. [从零开始的C/C++高性能编程指南-持墨的文章-知乎](https://zhuanlan.zhihu.com/p/503037055)
-6. [C和C++中有哪些容易被坑的undefined behaviour？-南山烟雨珠江潮的回答-知乎](https://www.zhihu.com/question/43621151/answer/85045768298)
-7. [C++设计模式有无好的书籍推荐？-南山烟雨珠江潮的回答-知乎](https://www.zhihu.com/question/1972030720189895524/answer/1972581772358316070)
-8. [有哪些专门介绍现代C++设计模式的书籍、博客网站或者开源项目？-南山烟雨珠江潮的回答-知乎](https://www.zhihu.com/question/1961233675917198002/answer/1962951710478689789)
-9. [可以使用C++的哪些库或函数来简化任务？-南山烟雨珠江潮的回答-知乎](https://www.zhihu.com/question/639724149/answer/3374083013)
-10. [C++有哪些学习网站？-南山烟雨珠江潮的回答-知乎](https://www.zhihu.com/question/591342877/answer/1913679301863270127)
-11. [ClangFormatStyleOptions](https://clang.llvm.org/docs/ClangFormatStyleOptions.html)
-12. [推荐10款C++在线编译器-CSDN博客](https://blog.csdn.net/cool99781/article/details/104516581)
-13. [C++ lambda表达式的[&]是怎么做到捕获当前作用域所有变量的？-南山烟雨珠江潮的回答-知乎](https://www.zhihu.com/question/616815005/answer/1938549921235050627)
-14. [melpon/wandbox](https://github.com/melpon/wandbox)
-15. [andreasfertig/cppinsights](https://github.com/andreasfertig/cppinsights)
-16. [《C++实战：核心技术与最佳实践》——与吴咏炜老师一起走进C++的实战世界-人民邮电出版社的文章-知乎](https://zhuanlan.zhihu.com/p/14044433366)
+3. [有哪些适合我的水平的C++项目？-南山烟雨珠江潮的回答-知乎](https://www.zhihu.com/question/26922511/answer/1949046266479765228)
+4. [有什么高质量的现代C++风格的开源代码?-夏天的回答-知乎](https://www.zhihu.com/question/23153437/answer/1962068242)
+5. [C++新手如何高效入门现代C++，避免走弯路？-南山烟雨珠江潮的回答-知乎](https://www.zhihu.com/question/1958124561188001122/answer/1959186674169939653)
+6. [从零开始的C/C++高性能编程指南-持墨的文章-知乎](https://zhuanlan.zhihu.com/p/503037055)
+7. [想学习高性能计算的知识，如何快速入门。?-南山烟雨珠江潮的回答-知乎](https://www.zhihu.com/question/1940151157805789711/answer/1972945411875558338)
+8. [C和C++中有哪些容易被坑的undefined behaviour？-南山烟雨珠江潮的回答-知乎](https://www.zhihu.com/question/43621151/answer/85045768298)
+9. [C++设计模式有无好的书籍推荐？-南山烟雨珠江潮的回答-知乎](https://www.zhihu.com/question/1972030720189895524/answer/1972581772358316070)
+10. [有哪些专门介绍现代C++设计模式的书籍、博客网站或者开源项目？-南山烟雨珠江潮的回答-知乎](https://www.zhihu.com/question/1961233675917198002/answer/1962951710478689789)
+11. [可以使用C++的哪些库或函数来简化任务？-南山烟雨珠江潮的回答-知乎](https://www.zhihu.com/question/639724149/answer/3374083013)
+12. [C++有哪些学习网站？-南山烟雨珠江潮的回答-知乎](https://www.zhihu.com/question/591342877/answer/1913679301863270127)
+13. [ClangFormatStyleOptions](https://clang.llvm.org/docs/ClangFormatStyleOptions.html)
+14. [推荐10款C++在线编译器-CSDN博客](https://blog.csdn.net/cool99781/article/details/104516581)
+15. [C++ lambda表达式的[&]是怎么做到捕获当前作用域所有变量的？-南山烟雨珠江潮的回答-知乎](https://www.zhihu.com/question/616815005/answer/1938549921235050627)
+16. [melpon/wandbox](https://github.com/melpon/wandbox)
+17. [andreasfertig/cppinsights](https://github.com/andreasfertig/cppinsights)
+18. [《C++实战：核心技术与最佳实践》——与吴咏炜老师一起走进C++的实战世界-人民邮电出版社的文章-知乎](https://zhuanlan.zhihu.com/p/14044433366)

@@ -93,7 +93,8 @@ pinned: false
 ### CUDA
 
 1. [srush/GPU-Puzzles](https://github.com/srush/GPU-Puzzles)
-2. [xlite-dev/LeetCUDA](https://github.com/xlite-dev/LeetCUDA)
+2. [NVIDIA/cutlass](https://github.com/NVIDIA/cutlass)
+3. [xlite-dev/LeetCUDA](https://github.com/xlite-dev/LeetCUDA)
 
 ### PyTorch
 
@@ -190,5 +191,6 @@ pinned: false
 14. [23款神经网络的设计和可视化工具（8.12 更新）-鑫鑫淼淼焱焱的文章-知乎](https://zhuanlan.zhihu.com/p/147462170)
 15. [科研作图的一些个人想法-高峰OUC的文章-知乎](https://zhuanlan.zhihu.com/p/603088040)
 16. [神经网络的宏包丝滑排版令人流连忘返-我是科研小秘书的文章-知乎](https://zhuanlan.zhihu.com/p/433142890)
-17. [[CUDA基础]📚LeetCUDA: v3.0大升级-面试刷题不迷路-DefTruth的文章-知乎](https://zhuanlan.zhihu.com/p/19862356369)
-18. [如何评价亚马逊AI新开源自动机器学习项目AutoGluon?-mileistone的回答-知乎](https://www.zhihu.com/question/360250836/answer/1039923243)
+17. [想学习高性能计算的知识，如何快速入门。?-沉睡的推理小五郎的回答-知乎](https://www.zhihu.com/question/1940151157805789711/answer/1959129986591076713)
+18. [[CUDA基础]📚LeetCUDA: v3.0大升级-面试刷题不迷路-DefTruth的文章-知乎](https://zhuanlan.zhihu.com/p/19862356369)
+19. [如何评价亚马逊AI新开源自动机器学习项目AutoGluon?-mileistone的回答-知乎](https://www.zhihu.com/question/360250836/answer/1039923243)
