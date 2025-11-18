@@ -16,3 +16,8 @@ pinned: false
 ## 使用`nice`命令
 
 ## 使用`renice`命令
+
+## 参考
+
+1. [Linux nice和renice命令：改变进程优先级-C语言中文网](https://c.biancheng.net/view/1074.html)
+2. [Linux nice命令的用法-C语言中文网](https://c.biancheng.net/linux/itcckvl.html)

@@ -63,7 +63,7 @@ rosnode kill [options] [node1 [node2...]]
 ```
 
 1. 如果节点挂起，则可能无法被杀死；
-2. 如果在`.roslaunch`文件中将节点的`respawn`属性设置为`true`（默认为`false`），则节点在被杀死后可能重新出现：
+2. 如果在`.launch`文件中将节点的`respawn`属性设置为`true`（默认为`false`），则节点在被杀死后可能重新出现：
 
     ```xml
     <node name="bar1" pkg="foo_pkg" type="bar" args="--test" respawn="true" />

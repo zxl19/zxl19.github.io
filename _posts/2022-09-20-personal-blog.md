@@ -99,10 +99,11 @@ pinned: false
 10. [This FTP site](https://okmij.org/ftp/)
 11. [Preshing on Programming](https://preshing.com)
 12. [PVS-Studio](https://pvs-studio.com/en/blog/posts/)
-13. [施斌斌的知识库](https://wshibin.github.io)
-14. [Sterben_01](https://sterben-01.github.io)
-15. [ZhiBing's blog](https://azmddy.github.io)
-16. [orzz.org()](http://orzz.org)
+13. [More than code](http://heavensheep.xyz)
+14. [施斌斌的知识库](https://wshibin.github.io)
+15. [Sterben_01](https://sterben-01.github.io)
+16. [ZhiBing's blog](https://azmddy.github.io)
+17. [orzz.org()](http://orzz.org)
 
 ### Python相关
 

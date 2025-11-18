@@ -147,6 +147,8 @@ pinned: false
 
 1. [jbeder/yaml-cpp](https://github.com/jbeder/yaml-cpp)
 2. [yaml/libyaml](https://github.com/yaml/libyaml)
+3. [tlsa/libcyaml](https://github.com/tlsa/libcyaml)
+4. [pantoniou/libfyaml](https://github.com/pantoniou/libfyaml)
 
 #### `.csv`文件
 
