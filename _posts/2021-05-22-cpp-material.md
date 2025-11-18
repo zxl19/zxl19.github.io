@@ -13,13 +13,6 @@ pinned: false
 
 <!-- more -->
 
-## B站
-
-1. [基于VSCode和CMake实现C/C++开发丨Linux篇](https://www.bilibili.com/video/BV1fy4y1b7TC/)
-2. [使用VS Code搭建轻量美观的C/C++开发环境](https://www.bilibili.com/video/BV1sW411v7VZ/)
-3. [黑马程序员匠心之作丨C++教程从0到1入门编程,学习编程不再难](https://www.bilibili.com/video/BV1et411b73Z/)
-4. [最好的C++教程](https://www.bilibili.com/video/BV1VJ411M7WR/)
-
 ## GitHub
 
 ### 速查表
@@ -124,6 +117,13 @@ pinned: false
 20. [fsaadatmand/Head-First-Design-Pattern-CPP-Examples](https://github.com/fsaadatmand/Head-First-Design-Pattern-CPP-Examples)
 
 ## 网站
+
+### 视频
+
+1. [基于VSCode和CMake实现C/C++开发丨Linux篇](https://www.bilibili.com/video/BV1fy4y1b7TC/)
+2. [使用VS Code搭建轻量美观的C/C++开发环境](https://www.bilibili.com/video/BV1sW411v7VZ/)
+3. [黑马程序员匠心之作丨C++教程从0到1入门编程,学习编程不再难](https://www.bilibili.com/video/BV1et411b73Z/)
+4. [最好的C++教程](https://www.bilibili.com/video/BV1VJ411M7WR/)
 
 ### 教程
 

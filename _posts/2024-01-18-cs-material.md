@@ -38,6 +38,10 @@ pinned: false
 5. [it-ebooks-0/geektime-books](https://github.com/it-ebooks-0/geektime-books)
 6. [iamshuaidi/CS-Book](https://github.com/iamshuaidi/CS-Book)
 7. [tangtangcoding/C-C-](https://github.com/tangtangcoding/C-C-)
+8. [zhangcunli/ebook](https://github.com/zhangcunli/ebook)
+9. [ysj1173886760/Learning](https://github.com/ysj1173886760/Learning)
+10. [ysj1173886760/paper_notes](https://github.com/ysj1173886760/paper_notes)
+11. [franktea/ebooks](https://github.com/franktea/ebooks)
 
 ## 公开课
 
@@ -113,12 +117,13 @@ pinned: false
 ## 参考
 
 1. [有哪些你看了以后大呼过瘾的编程书？-奇异果的哥哥的回答-知乎](https://www.zhihu.com/question/50408698/answer/3192277351)
-2. [有哪些非常经典的开源项目？-IT咖啡馆的回答-知乎](https://www.zhihu.com/question/636803751/answer/3345960644)
-3. [如何找合适的C++项目给自己的简历加分？-ThomasVortex的回答-知乎](https://www.zhihu.com/question/280881677/answer/3152587125)
-4. [GitHub开源计算机课程攻略yyds-逛逛GitHub的文章-知乎](https://zhuanlan.zhihu.com/p/447898788)
-5. [如何看待《上海交通大学生存手册》这本小册子？-zweix的回答-知乎](https://www.zhihu.com/question/23633140/answer/2247825107)
-6. [【教程】从零开始，写个编译器！-Max Xing的文章-知乎](https://zhuanlan.zhihu.com/p/471250907)
-7. [如何写一个简单的编译器？-HelloGitHub的回答-知乎](https://www.zhihu.com/question/36756224/answer/2504197722)
-8. [如何写一个简单的编译器？-wgtsam的回答-知乎](https://www.zhihu.com/question/36756224/answer/122676534)
-9. [runebookdev/runebook](https://github.com/runebookdev/runebook)
-10. [程序员，上班没事做该怎么办？-华为云开发者联盟的回答-知乎](https://www.zhihu.com/question/621194172/answer/3217337311)
+2. [想学习高性能计算的知识，如何快速入门。?-南山烟雨珠江潮的回答-知乎](https://www.zhihu.com/question/1940151157805789711/answer/1972945411875558338)
+3. [有哪些非常经典的开源项目？-IT咖啡馆的回答-知乎](https://www.zhihu.com/question/636803751/answer/3345960644)
+4. [如何找合适的C++项目给自己的简历加分？-ThomasVortex的回答-知乎](https://www.zhihu.com/question/280881677/answer/3152587125)
+5. [GitHub开源计算机课程攻略yyds-逛逛GitHub的文章-知乎](https://zhuanlan.zhihu.com/p/447898788)
+6. [如何看待《上海交通大学生存手册》这本小册子？-zweix的回答-知乎](https://www.zhihu.com/question/23633140/answer/2247825107)
+7. [【教程】从零开始，写个编译器！-Max Xing的文章-知乎](https://zhuanlan.zhihu.com/p/471250907)
+8. [如何写一个简单的编译器？-HelloGitHub的回答-知乎](https://www.zhihu.com/question/36756224/answer/2504197722)
+9. [如何写一个简单的编译器？-wgtsam的回答-知乎](https://www.zhihu.com/question/36756224/answer/122676534)
+10. [runebookdev/runebook](https://github.com/runebookdev/runebook)
+11. [程序员，上班没事做该怎么办？-华为云开发者联盟的回答-知乎](https://www.zhihu.com/question/621194172/answer/3217337311)

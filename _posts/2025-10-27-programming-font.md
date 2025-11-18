@@ -75,7 +75,7 @@ pinned: false
 
 ## 杂谈
 
-1. [乔布斯在斯坦福大学毕业典礼上的演讲（中英字幕）-bilibili](https://www.bilibili.com/video/BV1oW411h7Ea/)
+1. [乔布斯在斯坦福大学毕业典礼上的演讲（中英字幕）](https://www.bilibili.com/video/BV1oW411h7Ea/)
 2. [计算器上用的是什么字体？-oooooohmygosh的回答-知乎](https://www.zhihu.com/question/547937874/answer/2628079858)
 3. [引：关于字体和排版-Childhood Chen的文章-知乎](https://zhuanlan.zhihu.com/p/23672912)
 4. [一：「衬线」-Childhood Chen的文章-知乎](https://zhuanlan.zhihu.com/p/24434632)

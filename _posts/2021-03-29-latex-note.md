@@ -830,9 +830,9 @@ int main()
 #### 教程
 
 1. 各个宏包的说明文档（TeXstudio中在对应命令上右键打开）；
-2. [latex中文教程-15集从入门到精通包含各种latex操作-bilibili](https://www.bilibili.com/video/BV15x411j7k6/)
-3. [【1天玩转LaTeX】【写论文不怕格式出错啦！！！】【耿楠教授授权发布】-bilibili](https://www.bilibili.com/video/BV15b411j7Au/)
-4. [LaTex教程【中文字幕】LaTeX by Michelle Krummel-bilibili](https://www.bilibili.com/video/BV1hK41157GG/)
+2. [latex中文教程-15集从入门到精通包含各种latex操作](https://www.bilibili.com/video/BV15x411j7k6/)
+3. [【1天玩转LaTeX】【写论文不怕格式出错啦！！！】【耿楠教授授权发布】](https://www.bilibili.com/video/BV15b411j7Au/)
+4. [LaTex教程【中文字幕】LaTeX by Michelle Krummel](https://www.bilibili.com/video/BV1hK41157GG/)
 
 #### GitHub
 
