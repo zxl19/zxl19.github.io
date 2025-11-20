@@ -28,6 +28,19 @@ pinned: false
 1. [CrystalDiskInfo](https://crystalmark.info/en/software/crystaldiskinfo/)
 2. [DiskGenius](https://www.diskgenius.com)
 
+#### 显示器管理
+
+1. [Twinkle Tray](https://twinkletray.com)
+2. [Monitorian](https://apps.microsoft.com/detail/9nw33j738bl0)
+3. [DisplayFusion](https://www.displayfusion.com)
+4. [Actual Multiple Monitors](https://www.actualtools.com/multiplemonitors/)
+5. [ControlMyMonitor](https://www.nirsoft.net/utils/control_my_monitor.html)
+6. [UltraMon](https://www.realtimesoft.com/ultramon/)
+7. [WinDisplay](https://github.com/zpix1/windisplay)
+8. [MonitorControl](https://github.com/MonitorControl/MonitorControl)
+9. [BetterDisplay Pro](https://github.com/waydabber/BetterDisplay)
+10. [Lunar](https://lunar.fyi)
+
 #### 文件管理
 
 1. [Everything](https://www.voidtools.com)
@@ -61,6 +74,7 @@ pinned: false
 
 1. [Wox](http://www.wox.one)
 2. [Launchy](https://launchy.net)
+3. [WinHotKey](https://directedge.us/content/winhotkey/)
 
 #### 工具箱
 
@@ -316,16 +330,19 @@ pinned: false
 9. [程序员的Windows工具箱「GitHub 热点速览」-HelloGitHub的文章-知乎](https://zhuanlan.zhihu.com/p/631389850)
 10. [111-硬盘状态检测工具CrystalDiskInfo-bsworld的文章-知乎](https://zhuanlan.zhihu.com/p/621817951)
 11. [硬盘坏道检测软件HDTune、DiskGenius、MHDD有什么区别？哪一个检测更准确？-雲在青天水在瓶的回答-知乎](https://www.zhihu.com/question/508943113/answer/2537752096)
-12. [Total Commander这款软件使用体验如何，有哪些优点和不足？-韦易笑的回答-知乎](https://www.zhihu.com/question/21616258/answer/1545629286)
-13. [微软复活20年前生产力工具PowerToys，填补Win10缺失功能，开源且免费-量子位的文章-知乎](https://zhuanlan.zhihu.com/p/166292161)
-14. [适用于Linux系统的最佳白板应用丨Linux中国-Linux中国的文章-知乎](https://zhuanlan.zhihu.com/p/467327167)
-15. [代码对比工具，就用这7个！-李二狗的文章-知乎](https://zhuanlan.zhihu.com/p/375551784)
-16. [不喜欢diff么？试试Meld吧丨Linux中国-Linux中国的文章-知乎](https://zhuanlan.zhihu.com/p/124017201)
-17. [使用Meld在Linux中以图形方式比较文件和文件夹丨Linux中国-Linux中国的文章-知乎](https://zhuanlan.zhihu.com/p/317628626)
-18. [为什么其他办公领域不使用git?-w0fv1.dev的回答-知乎](https://www.zhihu.com/question/329750471/answer/120040678856)
-19. [你用过的最好的代码阅读或编辑工具是什么？-韦易笑的回答-知乎](https://www.zhihu.com/question/19570229/answer/1626066191)
-20. [满足日常需求的应用（三）：图像编辑器丨Linux中国-Linux中国的文章-知乎](https://zhuanlan.zhihu.com/p/407938013)
-21. [Windows 10总是不打招呼就自动更新？教你如何关闭它-少数派的文章-知乎](https://zhuanlan.zhihu.com/p/35590496)
-22. [什么工具可以有效清理"C:\Users\用户名\AppData"目录下的文件？-高灵的回答-知乎](https://www.zhihu.com/question/38011537/answer/296426969)
-23. [Win 10 C盘突然爆满，怎么清理？-坚果云的回答-知乎](https://www.zhihu.com/question/53591010/answer/1115174873)
-24. [windows10系统内存占用莫名其妙非常高怎么解决怎么解决？-mhm的回答-知乎](https://www.zhihu.com/question/359072911/answer/924065793)
+12. [一日一技丨如何只用软件实现显示器的输入源切换-少数派](https://sspai.com/post/83908)
+13. [Windows/Mac多显示器管理软件汇总-梁川的文章-知乎](https://zhuanlan.zhihu.com/p/695030956)
+14. [Windows操作系统，在双显示器的情况下如何选择在哪个显示器打开文件？-我脚还没喝红呢的回答-知乎](https://www.zhihu.com/question/54982919/answer/221848071)
+15. [Total Commander这款软件使用体验如何，有哪些优点和不足？-韦易笑的回答-知乎](https://www.zhihu.com/question/21616258/answer/1545629286)
+16. [微软复活20年前生产力工具PowerToys，填补Win10缺失功能，开源且免费-量子位的文章-知乎](https://zhuanlan.zhihu.com/p/166292161)
+17. [适用于Linux系统的最佳白板应用丨Linux中国-Linux中国的文章-知乎](https://zhuanlan.zhihu.com/p/467327167)
+18. [代码对比工具，就用这7个！-李二狗的文章-知乎](https://zhuanlan.zhihu.com/p/375551784)
+19. [不喜欢diff么？试试Meld吧丨Linux中国-Linux中国的文章-知乎](https://zhuanlan.zhihu.com/p/124017201)
+20. [使用Meld在Linux中以图形方式比较文件和文件夹丨Linux中国-Linux中国的文章-知乎](https://zhuanlan.zhihu.com/p/317628626)
+21. [为什么其他办公领域不使用git?-w0fv1.dev的回答-知乎](https://www.zhihu.com/question/329750471/answer/120040678856)
+22. [你用过的最好的代码阅读或编辑工具是什么？-韦易笑的回答-知乎](https://www.zhihu.com/question/19570229/answer/1626066191)
+23. [满足日常需求的应用（三）：图像编辑器丨Linux中国-Linux中国的文章-知乎](https://zhuanlan.zhihu.com/p/407938013)
+24. [Windows 10总是不打招呼就自动更新？教你如何关闭它-少数派的文章-知乎](https://zhuanlan.zhihu.com/p/35590496)
+25. [什么工具可以有效清理"C:\Users\用户名\AppData"目录下的文件？-高灵的回答-知乎](https://www.zhihu.com/question/38011537/answer/296426969)
+26. [Win 10 C盘突然爆满，怎么清理？-坚果云的回答-知乎](https://www.zhihu.com/question/53591010/answer/1115174873)
+27. [windows10系统内存占用莫名其妙非常高怎么解决怎么解决？-mhm的回答-知乎](https://www.zhihu.com/question/359072911/answer/924065793)

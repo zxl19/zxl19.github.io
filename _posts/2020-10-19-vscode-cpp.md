@@ -22,7 +22,7 @@ pinned: false
 2. 安装C++工具链`MinGW-w64`；
 
     - 包括编译器、调试器、链接器等；
-    - 从[MinGW-w64官网](http://mingw-w64.org)下载安装程序：`Downloads`->`MingW-W64-builds`->`Sourceforge`；
+    - 从[官网](http://mingw-w64.org)下载安装程序：`Downloads`->`MingW-W64-builds`->`Sourceforge`；
     - 右键`以管理员身份运行`；
     - 确定安装选项：
 
@@ -140,6 +140,6 @@ pinned: false
 1. [使用VS Code搭建轻量美观的C/C++开发环境-bilibili](https://www.bilibili.com/video/BV1sW411v7VZ/)
 2. [Visual Studio Code如何编写运行C、C++程序？-谭九鼎的回答-知乎](https://www.zhihu.com/question/30315894/answer/154979413)
 3. [几乎无痛的VSCode+clangd+lldb+cmake配置C/C++开发环境指南-仿身泪滴的文章-知乎](https://zhuanlan.zhihu.com/p/566365173)
-4. [MinGW-64](http://mingw-w64.org/doku.php)
+4. [MinGW-64](http://mingw-w64.org)
 5. [MinGW-64安装-博客园](https://www.cnblogs.com/ggg-327931457/p/9694516.html)
 6. [Using C++ on Linux in VS Code](https://code.visualstudio.com/docs/cpp/config-linux)

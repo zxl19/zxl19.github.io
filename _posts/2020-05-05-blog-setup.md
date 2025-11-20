@@ -34,6 +34,7 @@ pinned: false
 3. [Choose an open source license](https://choosealicense.com)
 4. [Creative Commons license-Wikipedia](https://en.wikipedia.org/wiki/Creative_Commons_license)
 5. [About The Licenses-Creative Commons](https://creativecommons.org/licenses/)
+6. [zTrix/sata-license](https://github.com/zTrix/sata-license)
 
 ### 设置赞赏按钮
 
