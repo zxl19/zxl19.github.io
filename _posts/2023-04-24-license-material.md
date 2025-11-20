@@ -32,7 +32,13 @@ GitHub仓库的开源协议保存在`LICENSE`文件中。
 知识共享（Creative Commons，CC）开源协议是一类常用的非软件开源协议，GitHub支持其中的`CC0-1.0`、`CC-BY-4.0`、`CC-BY-SA-4.0`开源协议，维基百科使用其中的`CC-BY-SA-3.0`开源协议。
 
 1. [Creative Commons license-Wikipedia](https://en.wikipedia.org/wiki/Creative_Commons_license)
-2. [About The Licenses-Creative Commons](https://creativecommons.org/licenses/)
+2. [Licenses List-Creative Commons](https://creativecommons.org/licenses/)
+3. [Choose a License for Your Work-Creative Commons](https://creativecommons.org/chooser/)
+
+#### 示例
+
+1. [santisoler/cc-licenses](https://github.com/santisoler/cc-licenses)
+2. [zTrix/sata-license](https://github.com/zTrix/sata-license)
 
 ## 行为准则
 
