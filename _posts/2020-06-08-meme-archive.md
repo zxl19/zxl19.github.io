@@ -103,11 +103,6 @@ Meme这个词最初源自英国著名科学家理查德·道金斯所著的《�
 14. [Romejanic/Whitespace](https://github.com/Romejanic/Whitespace)
 15. [Timothy-Liuxf/HeLangCppMetaImpl](https://github.com/Timothy-Liuxf/HeLangCppMetaImpl)
 
-## Apple
-
-1. [Folklore.org: The Original Macintosh](https://www.folklore.org/0-index.html)
-2. [Think Different](https://www.thecrazyones.it)
-
 ## 游戏
 
 ### 小游戏合集

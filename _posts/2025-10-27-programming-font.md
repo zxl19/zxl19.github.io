@@ -73,6 +73,13 @@ pinned: false
 3. [devicons/devicon](https://github.com/devicons/devicon)
 4. [primer/octicons](https://github.com/primer/octicons)
 
+## 网站
+
+1. [Google Fonts](https://fonts.google.com)
+2. [Maple Mono](https://font.subf.dev/en/)
+3. [Source Han Serif](https://source.typekit.com/source-han-serif/)
+4. [Monaspace](https://monaspace.githubnext.com)
+
 ## 杂谈
 
 1. [乔布斯在斯坦福大学毕业典礼上的演讲（中英字幕）](https://www.bilibili.com/video/BV1oW411h7Ea/)

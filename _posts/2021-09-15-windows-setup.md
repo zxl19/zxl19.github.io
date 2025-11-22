@@ -37,9 +37,6 @@ pinned: false
 5. [ControlMyMonitor](https://www.nirsoft.net/utils/control_my_monitor.html)
 6. [UltraMon](https://www.realtimesoft.com/ultramon/)
 7. [WinDisplay](https://github.com/zpix1/windisplay)
-8. [MonitorControl](https://github.com/MonitorControl/MonitorControl)
-9. [BetterDisplay Pro](https://github.com/waydabber/BetterDisplay)
-10. [Lunar](https://lunar.fyi)
 
 #### 文件管理
 
@@ -288,6 +285,7 @@ pinned: false
 1. [yt-dlp](https://github.com/yt-dlp/yt-dlp)
 2. [Hitomi-Downloader](https://github.com/KurtBestor/Hitomi-Downloader)
 3. [Gopeed](https://gopeed.com)
+4. [NeatDownloadManager](https://www.neatdownloadmanager.com/index.php/en/)
 
 ## 常见问题及解决方法
 
