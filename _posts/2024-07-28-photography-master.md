@@ -18,6 +18,8 @@ pinned: false
 1. [何藩](https://fanho-forgetmenot.com)
 2. [Vivian Maier](https://www.vivianmaier.com)
 3. [Robert Doisneau](https://www.robert-doisneau.com/en/)
+4. [Elliott Erwitt](https://www.elliotterwitt.com)
+5. [Jeff Mermelstein](https://www.icp.org/browse/archive/constituents/jeff-mermelstein)
 
 ## 风光建筑
 
@@ -30,10 +32,13 @@ pinned: false
 2. [Steve McCurry](https://www.stevemccurry.com)
 3. [Alfred Eisenstaedt](https://www.life.com/photographer/alfred-eisenstaedt/)
 4. [Robert Capa](https://www.life.com/photographer/robert-capa/)
-5. [W. Eugene Smith](https://www.life.com/photographer/w-eugene-smith/)
-6. [Bruno Barbey](http://bruno-barbey.com)
-7. [Thomas Hoepker](https://www.magnumphotos.com/photographer/thomas-hoepker/)
-8. [久保田博二](https://www.magnumphotos.com/photographer/hiroji-kubota/)
+5. [Evgenii Khaldei](https://www.icp.org/browse/archive/constituents/evgenii-khaldei)
+6. [W. Eugene Smith](https://www.life.com/photographer/w-eugene-smith/)
+7. [Bruno Barbey](http://bruno-barbey.com)
+8. [Thomas Hoepker](https://www.magnumphotos.com/photographer/thomas-hoepker/)
+9. [久保田博二](https://www.magnumphotos.com/photographer/hiroji-kubota/)
+10. [Marc Riboud](http://marcriboud.com/en/)
+11. [Diana Walker](https://www.dianawalkerphotographer.com)
 
 ## 杂志
 
@@ -44,11 +49,14 @@ pinned: false
 ## 网站
 
 1. [Google Arts & Culture](https://artsandculture.google.com)
-2. [International Photography Hall of Fame](https://www.iphf.org)
-3. [International Center of Photography](https://www.icp.org)
-4. [MoMA](https://www.moma.org)
+2. [The Art History Archive](https://www.arthistoryarchive.com/arthistory/)
+3. [International Photography Hall of Fame](https://www.iphf.org)
+4. [International Center of Photography](https://www.icp.org)
+5. [MoMA](https://www.moma.org)
+6. [The Leica camera Blog](https://leica-camera.blog)
 
 ## 参考
 
 1. [摄影的原点！Nikon Zf评测丨Links TV-bilibili](https://www.bilibili.com/video/BV1Rp4y1c79x/)
 2. [【教员】“来狂欢吧狂欢吧，永远不下坠”-bilibili](https://www.bilibili.com/video/BV1aDNveWE7L/)
+3. [价值一个亿！探秘世界上最贵的相机-bilibili](https://www.bilibili.com/video/BV1MgywB8E9m/)

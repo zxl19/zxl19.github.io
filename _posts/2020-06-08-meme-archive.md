@@ -240,7 +240,6 @@ Meme这个词最初源自英国著名科学家理查德·道金斯所著的《�
 2. [Online Color Picker](https://colorpicker.me)
 3. [RGB Color Picker](https://rgbcolorpicker.com)
 4. [HTML Color Codes](https://htmlcolorcodes.com)
-5. [HTML Color Codes](https://html-color.codes)
 
 #### Color Palette
 
@@ -249,18 +248,16 @@ Meme这个词最初源自英国著名科学家理查德·道金斯所著的《�
 3. [Selecolor](https://www.selecolor.com/en/)
 4. [GetColor](https://get-color.com)
 5. [Hex Color Codes](https://color-hex.org)
-6. [RGB Color Code](https://rgbcolorcode.com)
-7. [HTML Color Codes Picker](https://html-color-codes.info)
-8. [Color Mixer & RGB Color Picker](https://whatcolormake.com)
-9. [The Simple Color Picker](https://thesimplecolorpicker.com)
+6. [HTML Color Codes Picker](https://html-color-codes.info)
+7. [Color Mixer & RGB Color Picker](https://whatcolormake.com)
+8. [The Simple Color Picker](https://thesimplecolorpicker.com)
+9. [Open Color](https://yeun.github.io/open-color/)
 
 #### Color Eyedropper
 
 1. [Color Code Finder](https://colorcodefinder.com)
 2. [Color Picker & Eyedropper-CodeShack](https://codeshack.io/color-picker/)
 3. [Color Picker](https://photocolorpicker.com)
-4. [Pick color online](https://pickcolor.online)
-5. [SnappyColor](https://www.snappycolor.com)
 
 ### 数字图书馆
 
@@ -392,8 +389,9 @@ Meme这个词最初源自英国著名科学家理查德·道金斯所著的《�
 48. [如何分析大型C++项目？-迷宫守望者的回答-知乎](https://www.zhihu.com/question/531050207/answer/3356560375)
 49. [很赞的两个高清壁纸网站：wallroom和wallhaven-帅小科的文章-知乎](https://zhuanlan.zhihu.com/p/376579457)
 50. [Ubuntu设置双屏显示长壁纸-码农家园](https://www.codenong.com/cs109695249/)
-51. [古籍整理常用工具网站合集-屠龙少年周旭的文章-知乎](https://zhuanlan.zhihu.com/p/609976456)
-52. [imputnet/cobalt](https://github.com/imputnet/cobalt)
-53. [要命！《程序员延寿指南》火爆GitHub，日涨1500+星，跟着码农干多活20年-量子位的文章-知乎](https://zhuanlan.zhihu.com/p/502393797)
-54. [chinese-poetry/chinese-poetry](https://github.com/chinese-poetry/chinese-poetry)
-55. [chinese-poetry/huajianji](https://github.com/chinese-poetry/huajianji)
+51. [yeun/open-color](https://github.com/yeun/open-color)
+52. [古籍整理常用工具网站合集-屠龙少年周旭的文章-知乎](https://zhuanlan.zhihu.com/p/609976456)
+53. [imputnet/cobalt](https://github.com/imputnet/cobalt)
+54. [要命！《程序员延寿指南》火爆GitHub，日涨1500+星，跟着码农干多活20年-量子位的文章-知乎](https://zhuanlan.zhihu.com/p/502393797)
+55. [chinese-poetry/chinese-poetry](https://github.com/chinese-poetry/chinese-poetry)
+56. [chinese-poetry/huajianji](https://github.com/chinese-poetry/huajianji)
