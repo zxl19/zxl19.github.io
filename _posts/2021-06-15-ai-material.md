@@ -25,10 +25,12 @@ pinned: false
 6. [Foundations of Machine Learning](https://cs.nyu.edu/~mohri/mlbook/)
 7. [Data Science at the Command Line](https://datascienceatthecommandline.com)
 8. [Avik-Jain/100-Days-Of-ML-Code](https://github.com/Avik-Jain/100-Days-Of-ML-Code)
-9. [andkret/Cookbook](https://github.com/andkret/Cookbook)
-10. [Visualize-ML/Book7_Visualizations-for-Machine-Learning](https://github.com/Visualize-ML/Book7_Visualizations-for-Machine-Learning)
-11. [mikeizbicki/cmc-csci143](https://github.com/mikeizbicki/cmc-csci143)
-12. [mikeizbicki/cmc-csci145-math166](https://github.com/mikeizbicki/cmc-csci145-math166)
+9. [datawhalechina/pumpkin-book](https://github.com/datawhalechina/pumpkin-book)
+10. [andkret/Cookbook](https://github.com/andkret/Cookbook)
+11. [Visualize-ML/Book7_Visualizations-for-Machine-Learning](https://github.com/Visualize-ML/Book7_Visualizations-for-Machine-Learning)
+12. [datawhalechina/statistical-learning-method-solutions-manual](https://github.com/datawhalechina/statistical-learning-method-solutions-manual)
+13. [mikeizbicki/cmc-csci143](https://github.com/mikeizbicki/cmc-csci143)
+14. [mikeizbicki/cmc-csci145-math166](https://github.com/mikeizbicki/cmc-csci145-math166)
 
 ### 深度学习
 
@@ -55,25 +57,29 @@ pinned: false
 
 1. [openai/gym](https://github.com/openai/gym)
 2. [dennybritz/reinforcement-learning](https://github.com/dennybritz/reinforcement-learning)
-3. [openai/baselines](https://github.com/openai/baselines)
-4. [ShangtongZhang/reinforcement-learning-an-introduction](https://github.com/ShangtongZhang/reinforcement-learning-an-introduction)
-5. [MorvanZhou/Reinforcement-learning-with-tensorflow](https://github.com/MorvanZhou/Reinforcement-learning-with-tensorflow)
-6. [thu-ml/tianshou](https://github.com/thu-ml/tianshou)
-7. [zhoubolei/introRL](https://github.com/zhoubolei/introRL)
-8. [huggingface/lerobot](https://github.com/huggingface/lerobot)
-9. [NeuronDance/DeepRL](https://github.com/NeuronDance/DeepRL)
-10. [tonyzhaozh/aloha](https://github.com/tonyzhaozh/aloha)
-11. [Khrylx/PyTorch-RL](https://github.com/Khrylx/PyTorch-RL)
-12. [kaixindelele/DRLib](https://github.com/kaixindelele/DRLib)
-13. [RobustFieldAutonomyLab/DRL_graph_exploration](https://github.com/RobustFieldAutonomyLab/DRL_graph_exploration)
+3. [huggingface/lerobot](https://github.com/huggingface/lerobot)
+4. [openai/baselines](https://github.com/openai/baselines)
+5. [ShangtongZhang/reinforcement-learning-an-introduction](https://github.com/ShangtongZhang/reinforcement-learning-an-introduction)
+6. [datawhalechina/easy-rl](https://github.com/datawhalechina/easy-rl)
+7. [MorvanZhou/Reinforcement-learning-with-tensorflow](https://github.com/MorvanZhou/Reinforcement-learning-with-tensorflow)
+8. [thu-ml/tianshou](https://github.com/thu-ml/tianshou)
+9. [zhoubolei/introRL](https://github.com/zhoubolei/introRL)
+10. [NeuronDance/DeepRL](https://github.com/NeuronDance/DeepRL)
+11. [tonyzhaozh/aloha](https://github.com/tonyzhaozh/aloha)
+12. [Khrylx/PyTorch-RL](https://github.com/Khrylx/PyTorch-RL)
+13. [kaixindelele/DRLib](https://github.com/kaixindelele/DRLib)
 14. [huggingface/gym-pusht](https://github.com/huggingface/gym-pusht)
+15. [RobustFieldAutonomyLab/DRL_graph_exploration](https://github.com/RobustFieldAutonomyLab/DRL_graph_exploration)
 
 ### 大模型
 
 1. [datawhalechina/self-llm](https://github.com/datawhalechina/self-llm)
 2. [datawhalechina/llm-cookbook](https://github.com/datawhalechina/llm-cookbook)
-3. [datawhalechina/llm-universe](https://github.com/datawhalechina/llm-universe)
-4. [Lordog/dive-into-llms](https://github.com/Lordog/dive-into-llms)
+3. [datawhalechina/happy-llm](https://github.com/datawhalechina/happy-llm)
+4. [datawhalechina/llm-universe](https://github.com/datawhalechina/llm-universe)
+5. [Lordog/dive-into-llms](https://github.com/Lordog/dive-into-llms)
+6. [datawhalechina/hello-agents](https://github.com/datawhalechina/hello-agents)
+7. [datawhalechina/all-in-rag](https://github.com/datawhalechina/all-in-rag)
 
 ## 笔记
 

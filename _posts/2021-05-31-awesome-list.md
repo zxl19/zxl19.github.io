@@ -61,7 +61,10 @@ The main repository serves as a curated list of awesome lists.
 1. [kiloreux/awesome-robotics](https://github.com/kiloreux/awesome-robotics)
 2. [protontypes/awesome-robotic-tooling](https://github.com/protontypes/awesome-robotic-tooling)
 3. [jslee02/awesome-robotics-libraries](https://github.com/jslee02/awesome-robotics-libraries)
-4. [mdrwiega/awesome-robotics](https://github.com/mdrwiega/awesome-robotics)
+4. [fkromer/awesome-ros2](https://github.com/fkromer/awesome-ros2)
+5. [ahundt/awesome-robotics](https://github.com/ahundt/awesome-robotics)
+6. [ps-micro/awesome-ros](https://github.com/ps-micro/awesome-ros)
+7. [mdrwiega/awesome-robotics](https://github.com/mdrwiega/awesome-robotics)
 
 ### SLAM
 
@@ -129,12 +132,13 @@ The main repository serves as a curated list of awesome lists.
 ### 机器学习和深度学习
 
 1. [academic/awesome-datascience](https://github.com/academic/awesome-datascience)
-2. [newTendermint/awesome-bigdata](https://github.com/newTendermint/awesome-bigdata)
-3. [tirthajyoti/Data-science-best-resources](https://github.com/tirthajyoti/Data-science-best-resources)
-4. [rguo12/awesome-causality-algorithms](https://github.com/rguo12/awesome-causality-algorithms)
+2. [oxnr/awesome-bigdata](https://github.com/oxnr/awesome-bigdata)
+3. [rguo12/awesome-causality-algorithms](https://github.com/rguo12/awesome-causality-algorithms)
+4. [tirthajyoti/Data-science-best-resources](https://github.com/tirthajyoti/Data-science-best-resources)
 5. [rguo12/awesome-causality-data](https://github.com/rguo12/awesome-causality-data)
 6. [EderSantana/awesomeMLmath](https://github.com/EderSantana/awesomeMLmath)
-7. [krishnakumarsekar/awesome-machine-learning-deep-learning-mathematics](https://github.com/krishnakumarsekar/awesome-machine-learning-deep-learning-mathematics)
+7. [murufeng/Awesome-AI-algorithm](https://github.com/murufeng/Awesome-AI-algorithm)
+8. [krishnakumarsekar/awesome-machine-learning-deep-learning-mathematics](https://github.com/krishnakumarsekar/awesome-machine-learning-deep-learning-mathematics)
 
 ## 数据标注
 

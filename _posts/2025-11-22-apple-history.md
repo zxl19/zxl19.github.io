@@ -9,7 +9,7 @@ toc: true
 pinned: false
 ---
 
-苹果的视觉史和广告史，从Macintosh到Mac OS，从1984到Think Different。
+苹果的视觉史和广告史，从Macintosh到macOS，从1984到Think Different。
 
 <!-- more -->
 
@@ -90,8 +90,15 @@ they can change the world, are the ones who do.
 
 ## Stay Hungry, Stay Foolish
 
+```text
+When you grow up, you tend to get told the world is the way that it is, and your life is just to live your life inside the world and try not to bash into the walls too much. But that's a very limited life. Life can be much broader once you discover one simple fact. And that is that everything around you that you call life, was made up by people that are no smarter than you. And you can change it. You can influence it. You can build your own things that other people can use. To shake off this erroneous notion that life is just there, and you're just gonna live in it, versus embrace it. Change it, improve it. Make your mark upon it. And once you learn that, you'll never be the same again.
+```
+
 1. [乔布斯在斯坦福大学毕业典礼上的演讲（中英字幕）](https://www.bilibili.com/video/BV1oW411h7Ea/)
-2. [Stay hungry, Stay foolish的原义-阮一峰的网络日志](https://www.ruanyifeng.com/blog/2015/05/stay_hungry_stay_foolish.html)
+2. [乔布斯的人生哲学：一旦你意识到生活是可以改变的](https://www.bilibili.com/video/BV12r4y1F7i5/)
+3. [【纪录片】史蒂夫·乔布斯：遗失的访谈【中英字幕/无字】【2012】](https://www.bilibili.com/video/BV1Xb411A7Tn/)
+4. [乔布斯：遗失的访谈.1995.(中英字幕)](https://www.bilibili.com/video/BV1mE411d7zv/)
+5. [Stay hungry, Stay foolish的原义-阮一峰的网络日志](https://www.ruanyifeng.com/blog/2015/05/stay_hungry_stay_foolish.html)
 
 ## 网站
 

@@ -42,7 +42,8 @@ pinned: false
 13. [methylDragon/pcl-ros-tutorial](https://github.com/methylDragon/pcl-ros-tutorial)
 14. [project-srs/ros_lecture](https://github.com/project-srs/ros_lecture)
 15. [uos/ros2_tutorial](https://github.com/uos/ros2_tutorial)
-16. [kaixindelele/ros_demo_mooc](https://github.com/kaixindelele/ros_demo_mooc)
+16. [lovelyyoshino/ROS-ROS2-BOOKS](https://github.com/lovelyyoshino/ROS-ROS2-BOOKS)
+17. [kaixindelele/ros_demo_mooc](https://github.com/kaixindelele/ros_demo_mooc)
 
 ## 书籍
 

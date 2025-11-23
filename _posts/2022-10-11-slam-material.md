@@ -89,19 +89,22 @@ pinned: false
 12. [jlblancoc/factor-graphs-course](https://github.com/jlblancoc/factor-graphs-course)
 13. [norlab-ulaval/cheatsheet_LieAlgebra](https://github.com/norlab-ulaval/cheatsheet_LieAlgebra)
 14. [TheSeanParker/SLAM_Materials](https://github.com/TheSeanParker/SLAM_Materials)
-15. [Joanna-HE/Supplementary-file-for-IKFoM](https://github.com/Joanna-HE/Supplementary-file-for-IKFoM)
+15. [lovelyyoshino/Chinese_Notes](https://github.com/lovelyyoshino/Chinese_Notes)
+16. [Joanna-HE/Supplementary-file-for-IKFoM](https://github.com/Joanna-HE/Supplementary-file-for-IKFoM)
 
 #### 源码分析
 
 1. [TurtleZhong/Map-based-Visual-Localization](https://github.com/TurtleZhong/Map-based-Visual-Localization)
 2. [slam-code/SLAM](https://github.com/slam-code/SLAM)
 3. [brytsknguyen/slict](https://github.com/brytsknguyen/slict)
-4. [Tompson11/SLAM_comparison](https://github.com/Tompson11/SLAM_comparison)
-5. [ckddls1321/SLAM_Resources](https://github.com/ckddls1321/SLAM_Resources)
-6. [ganlumomo/VisualInertialOdometry](https://github.com/ganlumomo/VisualInertialOdometry)
-7. [YZH-bot/SLAM_NOTED](https://github.com/YZH-bot/SLAM_NOTED)
-8. [brytsknguyen/oblam_deskew](https://github.com/brytsknguyen/oblam_deskew)
-9. [YZH-bot/SLAM_Box](https://github.com/YZH-bot/SLAM_Box)
+4. [lovelyyoshino/FAST_LIO2_Noted](https://github.com/lovelyyoshino/FAST_LIO2_Noted)
+5. [Tompson11/SLAM_comparison](https://github.com/Tompson11/SLAM_comparison)
+6. [ckddls1321/SLAM_Resources](https://github.com/ckddls1321/SLAM_Resources)
+7. [ganlumomo/VisualInertialOdometry](https://github.com/ganlumomo/VisualInertialOdometry)
+8. [YZH-bot/SLAM_NOTED](https://github.com/YZH-bot/SLAM_NOTED)
+9. [lovelyyoshino/direct_lidar_inertial_odometry-noted](https://github.com/lovelyyoshino/direct_lidar_inertial_odometry-noted)
+10. [brytsknguyen/oblam_deskew](https://github.com/brytsknguyen/oblam_deskew)
+11. [YZH-bot/SLAM_Box](https://github.com/YZH-bot/SLAM_Box)
 
 ### 公开课
 
