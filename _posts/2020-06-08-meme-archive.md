@@ -63,10 +63,11 @@ Meme这个词最初源自英国著名科学家理查德·道金斯所著的《�
 
 ### 大模型
 
-1. [comfyanonymous/ComfyUI](https://github.com/comfyanonymous/ComfyUI)
-2. [lllyasviel/Fooocus](https://github.com/lllyasviel/Fooocus)
-3. [mylxsw/aidea](https://github.com/mylxsw/aidea)
-4. [prompt-engineering/understand-prompt](https://github.com/prompt-engineering/understand-prompt)
+1. [Google DeepMind](https://deepmind.google)
+2. [comfyanonymous/ComfyUI](https://github.com/comfyanonymous/ComfyUI)
+3. [lllyasviel/Fooocus](https://github.com/lllyasviel/Fooocus)
+4. [mylxsw/aidea](https://github.com/mylxsw/aidea)
+5. [prompt-engineering/understand-prompt](https://github.com/prompt-engineering/understand-prompt)
 
 ## 测试
 

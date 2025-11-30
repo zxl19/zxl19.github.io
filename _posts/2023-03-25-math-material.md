@@ -77,11 +77,11 @@ pinned: false
 
 1. [mithi/robotics-coursework](https://github.com/mithi/robotics-coursework)
 2. [michiganrobotics/rob501](https://github.com/michiganrobotics/rob501)
-3. [michiganrobotics/rob101](https://github.com/michiganrobotics/rob101)
-4. [UMich-CURLY-teaching/UMich-ROB-530-public](https://github.com/UMich-CURLY-teaching/UMich-ROB-530-public)
-5. [shuyong/study-notes-math](https://github.com/shuyong/study-notes-math)
-6. [MobileRoboticsSkoltech/Perception-in-Robotics-course-T3-2021-Skoltech](https://github.com/MobileRoboticsSkoltech/Perception-in-Robotics-course-T3-2021-Skoltech)
-7. [kimsooyoung/robotics_python](https://github.com/kimsooyoung/robotics_python)
+3. [UMich-CURLY-teaching/UMich-ROB-530-public](https://github.com/UMich-CURLY-teaching/UMich-ROB-530-public)
+4. [michiganrobotics/rob101](https://github.com/michiganrobotics/rob101)
+5. [kimsooyoung/robotics_python](https://github.com/kimsooyoung/robotics_python)
+6. [shuyong/study-notes-math](https://github.com/shuyong/study-notes-math)
+7. [MobileRoboticsSkoltech/Perception-in-Robotics-course-T3-2021-Skoltech](https://github.com/MobileRoboticsSkoltech/Perception-in-Robotics-course-T3-2021-Skoltech)
 
 ## 参考
 
