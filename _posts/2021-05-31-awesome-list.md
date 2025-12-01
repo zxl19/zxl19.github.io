@@ -82,6 +82,7 @@ The main repository serves as a curated list of awesome lists.
 12. [hassaanhashmi/awesome-deep-visual-odometry](https://github.com/hassaanhashmi/awesome-deep-visual-odometry)
 13. [thisparticle/Awesome-Algorithms-Against-Degeneracy](https://github.com/thisparticle/Awesome-Algorithms-Against-Degeneracy)
 14. [KwanWaiPang/Awesome-Legged-Robot-Localization-and-Mapping](https://github.com/KwanWaiPang/Awesome-Legged-Robot-Localization-and-Mapping)
+15. [alitourani/awesome-fiducial-marker](https://github.com/alitourani/awesome-fiducial-marker)
 
 ### 自动驾驶
 

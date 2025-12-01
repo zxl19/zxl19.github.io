@@ -39,7 +39,8 @@ pinned: false
 11. [steveLauwh/SGI-STL](https://github.com/steveLauwh/SGI-STL)
 12. [wizardforcel/lcthw-zh](https://github.com/wizardforcel/lcthw-zh)
 13. [franktea/learn_cxx_by_projects](https://github.com/franktea/learn_cxx_by_projects)
-14. [dendisuhubdy/cpp_exercises](https://github.com/dendisuhubdy/cpp_exercises)
+14. [CHH3213/chhCpp](https://github.com/CHH3213/chhCpp)
+15. [dendisuhubdy/cpp_exercises](https://github.com/dendisuhubdy/cpp_exercises)
 
 ### 常用算法实现
 

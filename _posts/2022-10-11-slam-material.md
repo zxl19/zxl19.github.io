@@ -262,6 +262,7 @@ pinned: false
 8. [thomasfermi/Algorithms-for-Automated-Driving](https://github.com/thomasfermi/Algorithms-for-Automated-Driving)
 9. [slam-code/apollo](https://github.com/slam-code/apollo)
 10. [nwaysir/Autopilot-Updating-Notes](https://github.com/nwaysir/Autopilot-Updating-Notes)
+11. [CHH3213/Books](https://github.com/CHH3213/Books)
 
 ## VR&AR
 

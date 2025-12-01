@@ -82,6 +82,7 @@ pinned: false
 5. [kimsooyoung/robotics_python](https://github.com/kimsooyoung/robotics_python)
 6. [shuyong/study-notes-math](https://github.com/shuyong/study-notes-math)
 7. [MobileRoboticsSkoltech/Perception-in-Robotics-course-T3-2021-Skoltech](https://github.com/MobileRoboticsSkoltech/Perception-in-Robotics-course-T3-2021-Skoltech)
+8. [CHH3213/Math_Geometry](https://github.com/CHH3213/Math_Geometry)
 
 ## 参考
 

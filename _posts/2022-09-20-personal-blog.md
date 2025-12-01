@@ -51,7 +51,7 @@ pinned: false
 5. [Joe Dinius](https://jwdinius.github.io)
 6. [ego's blog](https://fgc346.github.io)
 7. [ADAS之眼](https://jokereyeadas.github.io)
-8. [CHH3213](https://blog.523213.xyz)
+8. [CHH3213](https://chh3213.github.io)
 9. [CHH3213-CSDN博客](https://blog.csdn.net/weixin_42301220)
 10. [上善若水](https://xinetzone.github.io)
 11. [Ewenwan/living](https://github.com/Ewenwan/living)

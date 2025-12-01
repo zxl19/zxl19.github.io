@@ -27,10 +27,12 @@ pinned: false
 8. [Avik-Jain/100-Days-Of-ML-Code](https://github.com/Avik-Jain/100-Days-Of-ML-Code)
 9. [datawhalechina/pumpkin-book](https://github.com/datawhalechina/pumpkin-book)
 10. [andkret/Cookbook](https://github.com/andkret/Cookbook)
-11. [Visualize-ML/Book7_Visualizations-for-Machine-Learning](https://github.com/Visualize-ML/Book7_Visualizations-for-Machine-Learning)
-12. [datawhalechina/statistical-learning-method-solutions-manual](https://github.com/datawhalechina/statistical-learning-method-solutions-manual)
-13. [mikeizbicki/cmc-csci143](https://github.com/mikeizbicki/cmc-csci143)
-14. [mikeizbicki/cmc-csci145-math166](https://github.com/mikeizbicki/cmc-csci145-math166)
+11. [Jack-Cherish/Machine-Learning](https://github.com/Jack-Cherish/Machine-Learning)
+12. [Visualize-ML/Book7_Visualizations-for-Machine-Learning](https://github.com/Visualize-ML/Book7_Visualizations-for-Machine-Learning)
+13. [datawhalechina/statistical-learning-method-solutions-manual](https://github.com/datawhalechina/statistical-learning-method-solutions-manual)
+14. [mikeizbicki/cmc-csci143](https://github.com/mikeizbicki/cmc-csci143)
+15. [mikeizbicki/cmc-csci145-math166](https://github.com/mikeizbicki/cmc-csci145-math166)
+16. [CHH3213/chh-MachineLearning](https://github.com/CHH3213/chh-MachineLearning)
 
 ### 深度学习
 
@@ -70,6 +72,7 @@ pinned: false
 13. [kaixindelele/DRLib](https://github.com/kaixindelele/DRLib)
 14. [huggingface/gym-pusht](https://github.com/huggingface/gym-pusht)
 15. [RobustFieldAutonomyLab/DRL_graph_exploration](https://github.com/RobustFieldAutonomyLab/DRL_graph_exploration)
+16. [CHH3213/chhRL](https://github.com/CHH3213/chhRL)
 
 ### 大模型
 
