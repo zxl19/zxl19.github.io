@@ -76,9 +76,10 @@ pinned: false
 ## 网站
 
 1. [Google Fonts](https://fonts.google.com)
-2. [Maple Mono](https://font.subf.dev/en/)
-3. [Source Han Serif](https://source.typekit.com/source-han-serif/)
-4. [Monaspace](https://monaspace.githubnext.com)
+2. [Adobe Fonts](https://fonts.adobe.com)
+3. [Maple Mono](https://font.subf.dev/en/)
+4. [Source Han Serif](https://source.typekit.com/source-han-serif/)
+5. [Monaspace](https://monaspace.githubnext.com)
 
 ## 杂谈
 
@@ -115,3 +116,4 @@ pinned: false
 16. [新时代编程字体推荐-JJ Ying的文章-知乎](https://zhuanlan.zhihu.com/p/20194623)
 17. [Fira Code丨一个程序员专用字体-Aceyclee的文章-知乎](https://zhuanlan.zhihu.com/p/28134371)
 18. [Fira Code——专为编程而生的字体-黄盼的文章-知乎](https://zhuanlan.zhihu.com/p/65362086)
+19. [有哪些排版英文字体推荐（除Times）？-纽阅客的回答-知乎](https://www.zhihu.com/question/729759242/answer/83436296218)

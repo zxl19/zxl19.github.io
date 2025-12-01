@@ -129,11 +129,24 @@ pinned: false
 1. [GAMES401课程主页](https://games-cn.org/games401/)
 2. [GAMES401课程PPT和视频](https://games-cn.org/games401-slides/)
 3. [GAMES401-泛动引擎(PeriDyno)物理仿真编程与实践-何小伟](https://www.bilibili.com/video/BV15M4y1U76M/)
+4. [peridyno/peridyno](https://github.com/peridyno/peridyno)
+
+## CS4600: Introduction to Computer Graphics
+
+1. [CS4600课程主页-2021秋-UU](https://graphics.cs.utah.edu/courses/cs4600/fall2021/)
+2. [CS4600课程主页-2020秋-UU](https://graphics.cs.utah.edu/courses/cs4600/fall2020/)
+3. [CS4600-2021秋-Cem Yuksel](https://www.bilibili.com/video/BV1VU4y1f7xs/)
+4. [CS4600-2020秋-Cem Yuksel](https://www.bilibili.com/video/BV11f4y1c78w/)
 
 ## OpenGL
 
 1. [Learn OpenGL](https://learnopengl.com)
 2. [Learn OpenGL中文版](https://learnopengl-cn.github.io)
+
+## Filament
+
+1. [Physically Based Rendering in Filament](https://google.github.io/filament/Filament.md.html)
+2. [google/filament](https://github.com/google/filament)
 
 ## 网站
 
@@ -145,5 +158,9 @@ pinned: false
 1. [GAMES101-CS自学指南](https://csdiy.wiki/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9B%BE%E5%BD%A2%E5%AD%A6/GAMES101/)
 2. [GAMES系列课程导览【个人制作】-GEKOOK的文章-知乎](https://zhuanlan.zhihu.com/p/680004522)
 3. [一篇搞定！GAMES101现代计算机图形学入门（全）-XiaoWan的文章-知乎](https://zhuanlan.zhihu.com/p/394932478)
-4. [JoeyDeVries/LearnOpenGL](https://github.com/JoeyDeVries/LearnOpenGL)
-5. [LearnOpenGL-CN/LearnOpenGL-CN](https://github.com/LearnOpenGL-CN/LearnOpenGL-CN)
+4. [GAMES101播放量破百万，还有必要入计算机图形学吗？-正临海的回答-知乎](https://www.zhihu.com/question/531266210/answer/2868739162)
+5. [GAMES101播放量破百万，还有必要入计算机图形学吗？-天之道风的回答-知乎](https://www.zhihu.com/question/531266210/answer/1897655554857493014)
+6. [GAMES101播放量破百万，还有必要入计算机图形学吗？-本羊已老矣的回答-知乎](https://www.zhihu.com/question/531266210/answer/2658302592)
+7. [GAMES101播放量破百万，还有必要入计算机图形学吗？-一往而深的回答-知乎](https://www.zhihu.com/question/531266210/answer/2658738311)
+8. [JoeyDeVries/LearnOpenGL](https://github.com/JoeyDeVries/LearnOpenGL)
+9. [LearnOpenGL-CN/LearnOpenGL-CN](https://github.com/LearnOpenGL-CN/LearnOpenGL-CN)

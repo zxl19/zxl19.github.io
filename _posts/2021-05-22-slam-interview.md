@@ -65,8 +65,9 @@ SLAM方向面试题存档。
 1. [常用的排序算法总结-力扣（LeetCode）的文章-知乎](https://zhuanlan.zhihu.com/p/40695917)
 2. [十大经典排序算法-菜鸟教程](https://www.runoob.com/w3cnote/ten-sorting-algorithm.html)
 3. [排序算法总结-菜鸟教程](https://www.runoob.com/w3cnote/sort-algorithm-summary.html)
-4. [有哪些算法一开始像在瞎搞，实际上却蕴含着更深层的逻辑？-CodeCrafter的回答-知乎](https://www.zhihu.com/question/1890344085396623745/answer/1956009806629410156)
-5. [有哪些算法一开始像在瞎搞，实际上却蕴含着更深层的逻辑？-Felina的回答-知乎](https://www.zhihu.com/question/1890344085396623745/answer/1892242287221769687)
+4. [哪些看似毫不相干的事物具有相同的数学原理？-CodeCrafter的回答-知乎](https://www.zhihu.com/question/58369008/answer/1974913252715688840)
+5. [有哪些算法一开始像在瞎搞，实际上却蕴含着更深层的逻辑？-CodeCrafter的回答-知乎](https://www.zhihu.com/question/1890344085396623745/answer/1956009806629410156)
+6. [有哪些算法一开始像在瞎搞，实际上却蕴含着更深层的逻辑？-Felina的回答-知乎](https://www.zhihu.com/question/1890344085396623745/answer/1892242287221769687)
 
 ### GitHub
 

@@ -90,12 +90,13 @@ pinned: false
 2. [afshinea/stanford-cs-229-machine-learning](https://github.com/afshinea/stanford-cs-229-machine-learning)
 3. [afshinea/stanford-cs-230-deep-learning](https://github.com/afshinea/stanford-cs-230-deep-learning)
 4. [afshinea/stanford-cs-221-artificial-intelligence](https://github.com/afshinea/stanford-cs-221-artificial-intelligence)
-5. [shervinea/cheatsheet-translation](https://github.com/shervinea/cheatsheet-translation)
-6. [aaronwangy/Data-Science-Cheatsheet](https://github.com/aaronwangy/Data-Science-Cheatsheet)
-7. [ml874/Data-Science-Cheatsheet](https://github.com/ml874/Data-Science-Cheatsheet)
-8. [percyliang/cs229t](https://github.com/percyliang/cs229t)
-9. [dcetin/eth-cs-notes](https://github.com/dcetin/eth-cs-notes)
-10. [albertpumarola/deep-learning-notes](https://github.com/albertpumarola/deep-learning-notes)
+5. [ermongroup/cs228-notes](https://github.com/ermongroup/cs228-notes)
+6. [shervinea/cheatsheet-translation](https://github.com/shervinea/cheatsheet-translation)
+7. [aaronwangy/Data-Science-Cheatsheet](https://github.com/aaronwangy/Data-Science-Cheatsheet)
+8. [ml874/Data-Science-Cheatsheet](https://github.com/ml874/Data-Science-Cheatsheet)
+9. [percyliang/cs229t](https://github.com/percyliang/cs229t)
+10. [dcetin/eth-cs-notes](https://github.com/dcetin/eth-cs-notes)
+11. [albertpumarola/deep-learning-notes](https://github.com/albertpumarola/deep-learning-notes)
 
 ## 框架学习
 

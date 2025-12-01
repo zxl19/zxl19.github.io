@@ -27,7 +27,10 @@ pinned: false
 10. [missing-semester/missing-semester](https://github.com/missing-semester/missing-semester)
 11. [missing-semester-cn/missing-semester-cn.github.io](https://github.com/missing-semester-cn/missing-semester-cn.github.io)
 12. [niudai/How-to-be-a-good-programmer](https://github.com/niudai/How-to-be-a-good-programmer)
-13. [getiot/getiot-kb](https://github.com/getiot/getiot-kb)
+13. [SAST-skill-docers/sast-skill-docs](https://github.com/SAST-skill-docers/sast-skill-docs)
+14. [getiot/getiot-kb](https://github.com/getiot/getiot-kb)
+15. [sast-summer-training-2023/sast-summer-training-2023.github.io](https://github.com/sast-summer-training-2023/sast-summer-training-2023.github.io)
+16. [ChenMohan1010/basic-tutorial](https://github.com/ChenMohan1010/basic-tutorial)
 
 ## 电子书
 
@@ -45,17 +48,18 @@ pinned: false
 
 ## 公开课
 
-1. [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)
-2. [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)
-3. [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning)
-4. [ByteByteGoHq/system-design-101](https://github.com/ByteByteGoHq/system-design-101)
-5. [prakhar1989/awesome-courses](https://github.com/prakhar1989/awesome-courses)
-6. [xioacd99/study-is-wonderful](https://github.com/xioacd99/study-is-wonderful)
-7. [jackwener/CS-Awesome-Courses](https://github.com/jackwener/CS-Awesome-Courses)
-8. [learn-anything/courses](https://github.com/learn-anything/courses)
-9. [apachecn/awesome-cs-courses-zh](https://github.com/apachecn/awesome-cs-courses-zh)
-10. [forthespada/Awsome-Courses](https://github.com/forthespada/Awsome-Courses)
-11. [fffaraz/awesome-courses](https://github.com/fffaraz/awesome-courses)
+1. [清华大学计算机系科协](https://space.bilibili.com/588598994)
+2. [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp)
+3. [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)
+4. [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning)
+5. [ByteByteGoHq/system-design-101](https://github.com/ByteByteGoHq/system-design-101)
+6. [prakhar1989/awesome-courses](https://github.com/prakhar1989/awesome-courses)
+7. [xioacd99/study-is-wonderful](https://github.com/xioacd99/study-is-wonderful)
+8. [jackwener/CS-Awesome-Courses](https://github.com/jackwener/CS-Awesome-Courses)
+9. [learn-anything/courses](https://github.com/learn-anything/courses)
+10. [apachecn/awesome-cs-courses-zh](https://github.com/apachecn/awesome-cs-courses-zh)
+11. [forthespada/Awsome-Courses](https://github.com/forthespada/Awsome-Courses)
+12. [fffaraz/awesome-courses](https://github.com/fffaraz/awesome-courses)
 
 ## 专业课攻略
 
@@ -102,17 +106,20 @@ pinned: false
 5. [OI Wiki](https://oi-wiki.org)
 6. [CTF Wiki](https://ctf-wiki.org)
 7. [人人都懂物联网](https://getiot.tech)
-8. [GeeksforGeeks](https://www.geeksforgeeks.org)
-9. [W3Schools](https://www.w3schools.com)
-10. [Runebook.dev](https://runebook.dev)
-11. [菜鸟教程](https://www.runoob.com)
-12. [极客教程](https://geek-docs.com)
-13. [极客文档](https://geekdaxue.co)
-14. [极客时间](https://time.geekbang.org)
-15. [DataCamp](https://www.datacamp.com)
-16. [Codecademy](https://www.codecademy.com)
-17. [CodeCrafters](https://codecrafters.io)
-18. [W3Cschool](https://www.w3cschool.cn)
+8. [计算机系学生科协技能引导文档](https://docs.net9.org)
+9. [酒井科协暑培4.0：贵系漫游指南](https://summer23.net9.org)
+10. [计算机系学生科协三字班基础技能培训主页](https://chenmohan1010.github.io/basic-tutorial/)
+11. [GeeksforGeeks](https://www.geeksforgeeks.org)
+12. [W3Schools](https://www.w3schools.com)
+13. [Runebook.dev](https://runebook.dev)
+14. [菜鸟教程](https://www.runoob.com)
+15. [极客教程](https://geek-docs.com)
+16. [极客文档](https://geekdaxue.co)
+17. [极客时间](https://time.geekbang.org)
+18. [DataCamp](https://www.datacamp.com)
+19. [Codecademy](https://www.codecademy.com)
+20. [CodeCrafters](https://codecrafters.io)
+21. [W3Cschool](https://www.w3cschool.cn)
 
 ## 参考
 

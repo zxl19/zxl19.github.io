@@ -182,6 +182,31 @@ pinned: false
 5. [Mathematical English (a brief summary)](https://webusers.imj-prg.fr/~jan.nekovar/co/en/en.pdf)
 6. Science Research Writing（中译名：英语科技写作）
 
+### 写作中心
+
+1. [Purdue OWL](https://owl.purdue.edu/owl/index.html)
+2. [Texas A&M University Writing Center](https://writingcenter.tamu.edu)
+
+### 英文标点符号
+
+#### 破折号
+
+1. [如何正确使用和打出英文的破折号？-Yang的回答-知乎](https://www.zhihu.com/question/19715623/answer/896014305)
+2. [如何正确使用和打出英文的破折号？-吸雾霾的水怪的回答-知乎](https://www.zhihu.com/question/19715623/answer/859368507)
+3. [如何正确使用和打出英文的破折号？-Lawrence Li的回答-知乎](https://www.zhihu.com/question/19715623/answer/12739880)
+4. [英文里该怎么用破折号（dash）？-Lawrence Li的回答-知乎](https://www.zhihu.com/question/19580686/answer/12278838)
+5. [英文里该怎么用破折号（dash）？-Rio的回答-知乎](https://www.zhihu.com/question/19580686/answer/12278874)
+6. [哪些英语用法是普通中国学生最为生疏的？-阿丁的猫的回答-知乎](https://www.zhihu.com/question/32071242/answer/205203204)
+7. [浅谈英文破折号的用法-小孙探索世界的文章-知乎](https://zhuanlan.zhihu.com/p/386420125)
+
+#### 双引号
+
+1. [英文引号中的直双引号「""」和弯双引号「“”」在使用上有什么区别？-Lawrence Li的回答-知乎](https://www.zhihu.com/question/23008549/answer/107707650)
+2. [英文引号中的直双引号「""」和弯双引号「“”」在使用上有什么区别？-BobbyBiang的回答-知乎](https://www.zhihu.com/question/23008549/answer/133032710)
+3. [英文引号中的直双引号「""」和弯双引号「“”」在使用上有什么区别？-985科研人的回答-知乎](https://www.zhihu.com/question/23008549/answer/3063692030)
+4. [英文引号中的直双引号「""」和弯双引号「“”」在使用上有什么区别？-红灯要硬闯的回答-知乎](https://www.zhihu.com/question/23008549/answer/858262855)
+5. [英语中的单双引号具体应该如何使用？-Schroenberg的回答-知乎](https://www.zhihu.com/question/19938865/answer/375388882)
+
 ### 海报模板
 
 1. [zhoubolei/poster_template](https://github.com/zhoubolei/poster_template)
@@ -203,3 +228,4 @@ pinned: false
 11. [美国老姐看完200+中国学生SCI论文，怒写超详细“中国人英文论文写作指南”，还被推上了B站热门…-量子位的文章-知乎](https://zhuanlan.zhihu.com/p/512095069)
 12. [数学公式、符号怎么用英语念出来？-半个冯博士的回答-知乎](https://www.zhihu.com/question/52818597/answer/2053270796)
 13. [有哪本书，你恨不得把它全部内容都背诵下来？-罗西南多的回答-知乎](https://www.zhihu.com/question/485142113/answer/3248748340)
+14. [推荐一些被学术界使用较多的写作中心资源，助你提高写作水平-查尔斯沃思作者服务的文章-知乎](https://zhuanlan.zhihu.com/p/35253944)

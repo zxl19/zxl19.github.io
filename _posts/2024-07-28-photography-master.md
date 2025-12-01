@@ -45,6 +45,8 @@ pinned: false
 1. [LIFE](https://www.life.com)
 2. [Magnum Photos](https://www.magnumphotos.com)
 3. [National Geographic](https://www.nationalgeographic.com)
+4. [New Yorker](https://www.newyorker.com)
+5. [Times Magazine](https://timesmagazin.com)
 
 ## 网站
 

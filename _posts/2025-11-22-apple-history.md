@@ -47,7 +47,7 @@ pinned: false
 
 ### 1984
 
-1. [The Legacy of Apple’s ‘1984’ Commercial-MacReview](https://www.macreview.com/the-legacy-of-apples-1984-commercial/)
+1. [The Legacy of Apple's '1984' Commercial-MacReview](https://www.macreview.com/the-legacy-of-apples-1984-commercial/)
 2. [Apple's Famous '1984' Commercial Aired 41 Years Ago Today-MacRumors](https://www.macrumors.com/2025/01/22/1984-commercial-aired-41-years-ago/)
 3. [Today in Apple history: Super Bowl Mac ad airs against the odds-Cult of Mac](https://www.cultofmac.com/apple-history/1984-apple-commercial-super-bowl-mad-ad)
 4. [乔布斯当年为什么要拍《1984》这样一则广告？-马亚南的回答-知乎](https://www.zhihu.com/question/48099236/answer/109728871)
@@ -81,24 +81,33 @@ we see genius.
 Because the people who are crazy enough to think
 they can change the world, are the ones who do.
 
---© 1997 Apple Computer, Inc.
+© 1997 Apple Computer, Inc.
 ```
 
 1. [Think Different](https://www.thecrazyones.it)
-2. [Today in Apple history: ‘Here’s to the crazy ones’ who ‘think different’-Cult of Mac](https://www.cultofmac.com/apple-history/apple-think-different-ad-campaign)
+2. [Today in Apple history: 'Here's to the crazy ones' who 'think different'-Cult of Mac](https://www.cultofmac.com/apple-history/apple-think-different-ad-campaign)
 3. [从「Think Different」到「Be Better」苹果公司的文化经历了怎样的变化？-李楠的回答-知乎](https://www.zhihu.com/question/21637978/answer/26552467)
 
 ## Stay Hungry, Stay Foolish
 
 ```text
+Again, you can't connect the dots looking forward. You can only connect them looking backwards, so you have to trust that the dots will somehow connect in your future. You have to trust in something: your gut, destiny, life, karma, whatever. Because believing that the dots will connect down the road will give you the confidence to follow your heart, even when it leads you off the well-worn path. And that will make all the difference.
+```
+
+```text
+Your time is limited, so don't waste it living someone else's life. Don't be trapped by dogma, which is living with the results of other people's thinking. Don't let the noise of others' opinions drown out your own inner voice.
+```
+
+```text
 When you grow up, you tend to get told the world is the way that it is, and your life is just to live your life inside the world and try not to bash into the walls too much. But that's a very limited life. Life can be much broader once you discover one simple fact. And that is that everything around you that you call life, was made up by people that are no smarter than you. And you can change it. You can influence it. You can build your own things that other people can use. To shake off this erroneous notion that life is just there, and you're just gonna live in it, versus embrace it. Change it, improve it. Make your mark upon it. And once you learn that, you'll never be the same again.
 ```
 
-1. [乔布斯在斯坦福大学毕业典礼上的演讲（中英字幕）](https://www.bilibili.com/video/BV1oW411h7Ea/)
-2. [乔布斯的人生哲学：一旦你意识到生活是可以改变的](https://www.bilibili.com/video/BV12r4y1F7i5/)
-3. [【纪录片】史蒂夫·乔布斯：遗失的访谈【中英字幕/无字】【2012】](https://www.bilibili.com/video/BV1Xb411A7Tn/)
-4. [乔布斯：遗失的访谈.1995.(中英字幕)](https://www.bilibili.com/video/BV1mE411d7zv/)
-5. [Stay hungry, Stay foolish的原义-阮一峰的网络日志](https://www.ruanyifeng.com/blog/2015/05/stay_hungry_stay_foolish.html)
+1. [You've got to find what you love,' Jobs says-Stanford Report](https://news.stanford.edu/stories/2005/06/youve-got-find-love-jobs-says)
+2. [Stay hungry, Stay foolish的原义-阮一峰的网络日志](https://www.ruanyifeng.com/blog/2015/05/stay_hungry_stay_foolish.html)
+3. [乔布斯在斯坦福大学毕业典礼上的演讲（中英字幕）](https://www.bilibili.com/video/BV1oW411h7Ea/)
+4. [乔布斯的人生哲学：一旦你意识到生活是可以改变的](https://www.bilibili.com/video/BV12r4y1F7i5/)
+5. [【纪录片】史蒂夫·乔布斯：遗失的访谈【中英字幕/无字】【2012】](https://www.bilibili.com/video/BV1Xb411A7Tn/)
+6. [乔布斯：遗失的访谈.1995.(中英字幕)](https://www.bilibili.com/video/BV1mE411d7zv/)
 
 ## 网站
 

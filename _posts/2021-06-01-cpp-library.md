@@ -406,18 +406,19 @@ pinned: false
 
 ### 标准模板库
 
-1. [Alinshans/MyTinySTL](https://github.com/Alinshans/MyTinySTL)
-2. [electronicarts/EASTL](https://github.com/electronicarts/EASTL)
-3. [zouxiaohang/TinySTL](https://github.com/zouxiaohang/TinySTL)
-4. [skarupke/flat_hash_map](https://github.com/skarupke/flat_hash_map)
-5. [VcDevel/Vc](https://github.com/VcDevel/Vc)
-6. [boostorg/pfr](https://github.com/boostorg/pfr)
-7. [stotko/stdgpu](https://github.com/stotko/stdgpu)
-8. [imageworks/pystring](https://github.com/imageworks/pystring)
-9. [VcDevel/std-simd](https://github.com/VcDevel/std-simd)
-10. [preshing/cpp11-on-multicore](https://github.com/preshing/cpp11-on-multicore)
-11. [frozenca/BTree](https://github.com/frozenca/BTree)
-12. [lsils/kitty](https://github.com/lsils/kitty)
+1. [google/leveldb](https://github.com/google/leveldb)
+2. [Alinshans/MyTinySTL](https://github.com/Alinshans/MyTinySTL)
+3. [electronicarts/EASTL](https://github.com/electronicarts/EASTL)
+4. [zouxiaohang/TinySTL](https://github.com/zouxiaohang/TinySTL)
+5. [skarupke/flat_hash_map](https://github.com/skarupke/flat_hash_map)
+6. [VcDevel/Vc](https://github.com/VcDevel/Vc)
+7. [boostorg/pfr](https://github.com/boostorg/pfr)
+8. [stotko/stdgpu](https://github.com/stotko/stdgpu)
+9. [imageworks/pystring](https://github.com/imageworks/pystring)
+10. [VcDevel/std-simd](https://github.com/VcDevel/std-simd)
+11. [preshing/cpp11-on-multicore](https://github.com/preshing/cpp11-on-multicore)
+12. [frozenca/BTree](https://github.com/frozenca/BTree)
+13. [lsils/kitty](https://github.com/lsils/kitty)
 
 ## 哈希函数
 
@@ -521,5 +522,6 @@ pinned: false
 25. [c++日志记录都有哪些好的开源项目？-程序喵大人的回答-知乎](https://www.zhihu.com/question/37640953/answer/1898412255231608627)
 26. [C++除了Qt还有什么GUI库？-南山烟雨珠江潮的回答-知乎](https://www.zhihu.com/question/587721560/answer/54075782082)
 27. [如何找合适的C++项目给自己的简历加分？-1412的回答-知乎](https://www.zhihu.com/question/280881677/answer/3151447745)
-28. [有哪些朴实无华的c++库？-南山烟雨珠江潮的回答-知乎](https://www.zhihu.com/question/666819229/answer/4257047142)
-29. [OpenBLAS gemm从零入门-白牛的文章-知乎](https://zhuanlan.zhihu.com/p/65436463)
+28. [你读过的最好的C++开源代码是什么？-水元素实验室的回答-知乎](https://www.zhihu.com/question/21376384/answer/1977859613262119051)
+29. [有哪些朴实无华的c++库？-南山烟雨珠江潮的回答-知乎](https://www.zhihu.com/question/666819229/answer/4257047142)
+30. [OpenBLAS gemm从零入门-白牛的文章-知乎](https://zhuanlan.zhihu.com/p/65436463)

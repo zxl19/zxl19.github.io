@@ -95,7 +95,11 @@ pinned: false
 7. [lnav](https://github.com/tstack/lnav)
 8. [tailspin](https://github.com/bensadeh/tailspin)
 9. [fltrdr](https://github.com/octobanana/fltrdr)
-10. [json-tui](https://github.com/ArthurSonzogni/json-tui)
+
+#### `.json`文件
+
+1. jq
+2. [json-tui](https://github.com/ArthurSonzogni/json-tui)
 
 #### 十六进制
 
