@@ -30,6 +30,7 @@ pinned: false
 6. [State Estimation for Robotics -- Draft Second Edition](http://asrl.utias.utoronto.ca/~tdb/bib/barfoot_ser23.pdf)
 7. [Multiple view geometry in computer vision](https://assets.cambridge.org/97805215/40513/frontmatter/9780521540513_frontmatter.pdf)
 8. [Modern Robotics](http://hades.mech.northwestern.edu/images/7/7f/MR.pdf)
+9. [X-SLAM](https://ltslam-doc.readthedocs.io/en/latest/index.html)
 
 ### 微分几何和李群
 
@@ -81,16 +82,17 @@ pinned: false
 4. [gaoxiang12/slam_in_autonomous_driving](https://github.com/gaoxiang12/slam_in_autonomous_driving)
 5. [AlbertSlam/Lee-SLAM-source](https://github.com/AlbertSlam/Lee-SLAM-source)
 6. [StevenCui/VIO-Doc](https://github.com/StevenCui/VIO-Doc)
-7. [Taeyoung96/SLAM-Resources-for-Beginner](https://github.com/Taeyoung96/SLAM-Resources-for-Beginner)
-8. [jlblancoc/tutorial-se3-manifold](https://github.com/jlblancoc/tutorial-se3-manifold)
-9. [PetWorm/IMU-Preintegration-Propogation-Doc](https://github.com/PetWorm/IMU-Preintegration-Propogation-Doc)
-10. [PetWorm/IMU_error_state_propagation_doc](https://github.com/PetWorm/IMU_error_state_propagation_doc)
-11. [gongbingg/slam](https://github.com/gongbingg/slam)
-12. [jlblancoc/factor-graphs-course](https://github.com/jlblancoc/factor-graphs-course)
-13. [norlab-ulaval/cheatsheet_LieAlgebra](https://github.com/norlab-ulaval/cheatsheet_LieAlgebra)
-14. [TheSeanParker/SLAM_Materials](https://github.com/TheSeanParker/SLAM_Materials)
-15. [lovelyyoshino/Chinese_Notes](https://github.com/lovelyyoshino/Chinese_Notes)
-16. [Joanna-HE/Supplementary-file-for-IKFoM](https://github.com/Joanna-HE/Supplementary-file-for-IKFoM)
+7. [quandy2020/LTSLAM](https://github.com/quandy2020/LTSLAM)
+8. [Taeyoung96/SLAM-Resources-for-Beginner](https://github.com/Taeyoung96/SLAM-Resources-for-Beginner)
+9. [jlblancoc/tutorial-se3-manifold](https://github.com/jlblancoc/tutorial-se3-manifold)
+10. [PetWorm/IMU-Preintegration-Propogation-Doc](https://github.com/PetWorm/IMU-Preintegration-Propogation-Doc)
+11. [PetWorm/IMU_error_state_propagation_doc](https://github.com/PetWorm/IMU_error_state_propagation_doc)
+12. [gongbingg/slam](https://github.com/gongbingg/slam)
+13. [jlblancoc/factor-graphs-course](https://github.com/jlblancoc/factor-graphs-course)
+14. [norlab-ulaval/cheatsheet_LieAlgebra](https://github.com/norlab-ulaval/cheatsheet_LieAlgebra)
+15. [TheSeanParker/SLAM_Materials](https://github.com/TheSeanParker/SLAM_Materials)
+16. [lovelyyoshino/Chinese_Notes](https://github.com/lovelyyoshino/Chinese_Notes)
+17. [Joanna-HE/Supplementary-file-for-IKFoM](https://github.com/Joanna-HE/Supplementary-file-for-IKFoM)
 
 #### 源码分析
 

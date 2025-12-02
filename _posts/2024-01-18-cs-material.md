@@ -95,7 +95,8 @@ pinned: false
 ## 硬件模拟
 
 1. [mamedev/mame](https://github.com/mamedev/mame)
-2. [InkboxSoftware/excelCPU](https://github.com/InkboxSoftware/excelCPU)
+2. [FEX-Emu/FEX](https://github.com/FEX-Emu/FEX)
+3. [InkboxSoftware/excelCPU](https://github.com/InkboxSoftware/excelCPU)
 
 ## 网站
 

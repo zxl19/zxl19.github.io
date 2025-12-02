@@ -96,6 +96,8 @@ pinned: false
 5. [【装机教程】驱动程序是什么东西？为什么要安装驱动程序？如何正确官方的安装纯净版驱动？](https://www.bilibili.com/video/BV1v7411e7AE/)
 6. [超级好超详细无死角的Windows10系统安装图解（2022年版）-超合金彩虹糖的文章-知乎](https://zhuanlan.zhihu.com/p/341571750)
 7. [超级好超详细Windows11系统安装图解（2023年版）附优化教程-超合金彩虹糖的文章-知乎](https://zhuanlan.zhihu.com/p/423873028)
+8. [【官方双语】真·Linus来了！ - 为Linux之父Linus Torvalds装机 / 两莱一机#linus谈科技](https://www.bilibili.com/video/BV1ueS4BUEEn/)
+9. [【官方双语】莱纳斯配了林纳斯的电脑#linus谈科技](https://www.bilibili.com/video/BV1qK411H7y6/)
 
 ## UP主
 
@@ -103,7 +105,8 @@ pinned: false
 2. [远古时代装机猿](https://space.bilibili.com/35359510)
 3. [极客湾Geekerwan](https://space.bilibili.com/25876945)
 4. [笔吧评测室](https://space.bilibili.com/367877)
-5. [ITXLAB](https://space.bilibili.com/3678731)
+5. [LinusTechTips](https://space.bilibili.com/12434430)
+6. [ITXLAB](https://space.bilibili.com/3678731)
 
 ## 原版系统镜像
 

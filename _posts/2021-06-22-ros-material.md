@@ -41,9 +41,10 @@ pinned: false
 12. [PickNikRobotics/roscpp_code_format](https://github.com/PickNikRobotics/roscpp_code_format)
 13. [methylDragon/pcl-ros-tutorial](https://github.com/methylDragon/pcl-ros-tutorial)
 14. [project-srs/ros_lecture](https://github.com/project-srs/ros_lecture)
-15. [uos/ros2_tutorial](https://github.com/uos/ros2_tutorial)
-16. [lovelyyoshino/ROS-ROS2-BOOKS](https://github.com/lovelyyoshino/ROS-ROS2-BOOKS)
-17. [kaixindelele/ros_demo_mooc](https://github.com/kaixindelele/ros_demo_mooc)
+15. [quandy2020/OpenRobotics](https://github.com/quandy2020/OpenRobotics)
+16. [uos/ros2_tutorial](https://github.com/uos/ros2_tutorial)
+17. [lovelyyoshino/ROS-ROS2-BOOKS](https://github.com/lovelyyoshino/ROS-ROS2-BOOKS)
+18. [kaixindelele/ros_demo_mooc](https://github.com/kaixindelele/ros_demo_mooc)
 
 ## 书籍
 

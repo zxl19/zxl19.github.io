@@ -22,8 +22,8 @@ pinned: false
 3. [秦通](https://qintong.xyz)
 4. [吴齐](https://sjtu-robotics.com)
 5. [Alex Segal](https://www.robots.ox.ac.uk/~avsegal)
-6. [Weisong Wen](https://weisongwen.github.io)
-7. [无求备斋笔记](https://fzheng.me/cn/)
+6. [无求备斋笔记](https://fzheng.me/cn/)
+7. [Wangxin's Blog](https://www.wangxinliu.com)
 8. [Kwan Wai-Pang](https://kwanwaipang.github.io)
 9. [Zhiqiang Chen](https://thisparticle.github.io)
 10. [Dapeng Feng](https://dapengfeng.github.io)
@@ -83,11 +83,12 @@ pinned: false
 3. [Fabrice Bellard's Home Page](https://www.bellard.org)
 4. [Brendan Gregg's Homepage](https://www.brendangregg.com/index.html)
 5. [Rob Landley](https://landley.net)
-6. [Luyoung](https://luliang.website)
-7. [Luyoung](https://luyoung0001.github.io)
-8. [LinuxTOY](https://linuxtoy.org)
-9. [Linux Wiki](http://linux-wiki.cn/wiki/%E9%A6%96%E9%A1%B5)
-10. [Linux教程和文章](https://cn.linux-console.net)
+6. [Linux Tech Tips](https://www.linuxtechtips.com)
+7. [Luyoung](https://luliang.website)
+8. [Luyoung](https://luyoung0001.github.io)
+9. [LinuxTOY](https://linuxtoy.org)
+10. [Linux Wiki](http://linux-wiki.cn/wiki/%E9%A6%96%E9%A1%B5)
+11. [Linux教程和文章](https://cn.linux-console.net)
 
 ### C++相关
 
