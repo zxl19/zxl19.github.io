@@ -76,6 +76,13 @@ pinned: false
 25. [WangRongsheng/ChatGenTitle](https://github.com/WangRongsheng/ChatGenTitle)
 26. [talkingwallace/ChatGPT-Paper-Reader](https://github.com/talkingwallace/ChatGPT-Paper-Reader)
 
+## 学术界目睹之怪现状
+
+1. [为什么基础科学很久没有重大突破了？-泽叔-reborn的回答-知乎](https://www.zhihu.com/question/634189554/answer/1934040262662943292)
+2. [为什么基础科学很久没有重大突破了？-q9adg的回答-知乎](https://www.zhihu.com/question/634189554/answer/1934639352614492128)
+3. [大学老师、学术界，为什么会变成今天这个样子？-CodeCrafter的回答-知乎](https://www.zhihu.com/question/1906812691298902180/answer/1972415300726130292)
+4. [大学老师、学术界，为什么会变成今天这个样子？-Artemis的回答-知乎](https://www.zhihu.com/question/1906812691298902180/answer/1970179304315946509)
+
 ## 参考
 
 1. [现代科研指北-于淼的文章-知乎](https://zhuanlan.zhihu.com/p/305646861)

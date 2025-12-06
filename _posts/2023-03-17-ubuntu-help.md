@@ -91,10 +91,11 @@ python3 -m pip install tldr
 7. [Linux命令搜索引擎](https://wangchujiang.com/linux-command/)
 8. [Linux命令大全-菜鸟教程](https://www.runoob.com/linux/linux-command-manual.html)
 9. [Linux常用命令集合-菜鸟教程](https://www.runoob.com/w3cnote/linux-common-command.html)
-10. [Linux命令大全（手册）](https://www.linuxcool.com)
-11. [Linux Command Library](https://linuxcommandlibrary.com)
-12. [cheat.sh](https://cheat.sh)
-13. [bropages](http://bropages.org)
+10. [Linux工具快速教程](https://linuxtools-rst.readthedocs.io/zh-cn/latest/index.html)
+11. [Linux命令大全（手册）](https://www.linuxcool.com)
+12. [Linux Command Library](https://linuxcommandlibrary.com)
+13. [cheat.sh](https://cheat.sh)
+14. [bropages](http://bropages.org)
 
 ### GitHub
 
@@ -106,11 +107,12 @@ python3 -m pip install tldr
 6. [rstacruz/cheatsheets](https://github.com/rstacruz/cheatsheets)
 7. [cheat/cheat](https://github.com/cheat/cheat)
 8. [Fechin/reference](https://github.com/Fechin/reference)
-9. [gnebbia/kb](https://github.com/gnebbia/kb)
-10. [srsudar/eg](https://github.com/srsudar/eg)
-11. [wizardforcel/llthw-zh](https://github.com/wizardforcel/llthw-zh)
-12. [darkmatter18/cheatsheet](https://github.com/darkmatter18/cheatsheet)
-13. [Command Line Interface Pages](https://github.com/command-line-interface-pages)
+9. [me115/linuxtools_rst](https://github.com/me115/linuxtools_rst)
+10. [gnebbia/kb](https://github.com/gnebbia/kb)
+11. [srsudar/eg](https://github.com/srsudar/eg)
+12. [wizardforcel/llthw-zh](https://github.com/wizardforcel/llthw-zh)
+13. [darkmatter18/cheatsheet](https://github.com/darkmatter18/cheatsheet)
+14. [Command Line Interface Pages](https://github.com/command-line-interface-pages)
 
 ## 参考
 

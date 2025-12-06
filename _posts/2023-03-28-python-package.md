@@ -453,10 +453,11 @@ pip install，pip uninstall，拿起pip就是干！
 
 ## 加密
 
-1. [pyca/cryptography](https://github.com/pyca/cryptography)
-2. [dashingsoft/pyarmor](https://github.com/dashingsoft/pyarmor)
-3. [Legrandin/pycryptodome](https://github.com/Legrandin/pycryptodome)
-4. [pycrypto/pycrypto](https://github.com/pycrypto/pycrypto)
+1. [secrets](https://docs.python.org/3/library/secrets.html)
+2. [pyca/cryptography](https://github.com/pyca/cryptography)
+3. [dashingsoft/pyarmor](https://github.com/dashingsoft/pyarmor)
+4. [Legrandin/pycryptodome](https://github.com/Legrandin/pycryptodome)
+5. [pycrypto/pycrypto](https://github.com/pycrypto/pycrypto)
 
 ## 序列化
 

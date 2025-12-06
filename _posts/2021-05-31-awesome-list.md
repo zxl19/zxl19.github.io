@@ -155,6 +155,7 @@ The main repository serves as a curated list of awesome lists.
 4. [noghartt/awesome-obsidian-plugins](https://github.com/noghartt/awesome-obsidian-plugins)
 5. [OpenMindClub/awesome-zotero](https://github.com/OpenMindClub/awesome-zotero)
 6. [zotero-chinese/zotero-plugins](https://github.com/zotero-chinese/zotero-plugins)
+7. [alfred-workflows/awesome-alfred-workflows](https://github.com/alfred-workflows/awesome-alfred-workflows)
 
 ## 命令行相关
 

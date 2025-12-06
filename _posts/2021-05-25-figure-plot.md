@@ -108,6 +108,7 @@ pinned: false
     - [jgraph/drawio](https://github.com/jgraph/drawio)
     - [jgraph/drawio-desktop](https://github.com/jgraph/drawio-desktop)
     - [hediet/vscode-drawio](https://github.com/hediet/vscode-drawio)
+    - [DayuanJiang/next-ai-draw-io](https://github.com/DayuanJiang/next-ai-draw-io)
 
 2. [ProcessOn](https://www.processon.com)
 3. [yEd](https://www.yworks.com/products/yed)

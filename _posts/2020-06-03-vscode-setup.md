@@ -51,6 +51,14 @@ Occam's razor: entities should not be multiplied beyond necessity.
 
 测试生成式AI模型。
 
+### any-rule
+
+正则大全，包含了常用的正则表达式。
+
+1. `Ctrl`+`Shift`+`P`，输入`zz`进行选择；
+2. 鼠标右键菜单内操作；
+3. 输入`@zz`进行选择；
+
 ### AsciiDoc
 
 AsciiDoc语言扩展。
