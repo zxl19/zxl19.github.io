@@ -32,6 +32,9 @@ pinned: false
     - `调色板`->勾选`以亮色显示粗体字`；
 
 2. 在`~/.bashrc`文件中使用ANSI转义编码进行配置；
+3. 配置参考：
+
+    - [ChrisTitusTech/mybash](https://github.com/ChrisTitusTech/mybash)
 
 ## Zsh+Oh My Zsh终端配置
 

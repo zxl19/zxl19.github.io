@@ -79,6 +79,7 @@ pinned: false
 2. [DevToys](https://devtoys.app)
 3. [Rubick](https://rubickcenter.github.io/docs/)
 4. [uTools](https://www.u-tools.cn)
+5. [Parallels Toolbox](https://www.parallels.com/products/toolbox/)
 
 ### 办公相关
 
@@ -118,7 +119,8 @@ pinned: false
 #### 思维导图
 
 1. [XMind](https://xmind.cn)
-2. [SimpleMindMap](https://wanglin2.github.io/mind-map-docs/)
+2. [GitMind](https://gitmind.cn)
+3. [SimpleMindMap](https://wanglin2.github.io/mind-map-docs/)
 
 #### 远程桌面
 
@@ -258,6 +260,8 @@ pinned: false
 1. [foobar2000](https://www.foobar2000.org)
 2. [foobar2000汉化版](https://www.cnblogs.com/asionwu)
 3. [FiiO Control Panel](https://www.fiio.com)
+4. [YesPlayMusic](https://github.com/qier222/YesPlayMusic)
+5. [Listen 1](https://listen1.github.io/listen1/)
 
 #### 视频播放
 
@@ -283,9 +287,10 @@ pinned: false
 #### 下载
 
 1. [yt-dlp](https://github.com/yt-dlp/yt-dlp)
-2. [Hitomi-Downloader](https://github.com/KurtBestor/Hitomi-Downloader)
-3. [Gopeed](https://gopeed.com)
-4. [NeatDownloadManager](https://www.neatdownloadmanager.com/index.php/en/)
+2. [Motrix](https://motrix.app)
+3. [Hitomi-Downloader](https://github.com/KurtBestor/Hitomi-Downloader)
+4. [Gopeed](https://gopeed.com)
+5. [NeatDownloadManager](https://www.neatdownloadmanager.com/index.php/en/)
 
 ## 常见问题及解决方法
 

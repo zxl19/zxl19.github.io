@@ -136,10 +136,10 @@ pinned: false
 
 #### 视频剪辑
 
-1. Premiere
-2. DaVinci Resolve
+1. [Premiere](https://www.adobe.com/products/premiere.html)
+2. [DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve)
 3. [视频大拍档](https://spdpd.net/)
-4. [万兴喵影](https://www.wondershare.cn/products-solutions/video-creativity/video.html)
+4. [万兴喵影](https://www.wondershare.cn)
 5. [格式工厂](http://www.pcgeshi.com)
 
 ### 教程

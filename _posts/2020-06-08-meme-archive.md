@@ -191,8 +191,10 @@ Meme这个词最初源自英国著名科学家理查德·道金斯所著的《�
 14. [A.Tools](https://www.a.tools)
 15. [蛙蛙工具](https://www.iamwawa.cn)
 16. [GGO导航网](https://www.ggonav.com)
-17. [zhaoolee/ChromeAppHeroes](https://github.com/zhaoolee/ChromeAppHeroes)
-18. [zhaoolee/OnlineToolsBook](https://github.com/zhaoolee/OnlineToolsBook)
+17. [Chrome插件英雄榜](https://zhaoolee.com/ChromeAppHeroes/#/)
+18. [在线工具秘籍](https://zhaoolee.com/OnlineToolsBook/#/)
+19. [zhaoolee/ChromeAppHeroes](https://github.com/zhaoolee/ChromeAppHeroes)
+20. [zhaoolee/OnlineToolsBook](https://github.com/zhaoolee/OnlineToolsBook)
 
 ### 大模型
 
@@ -304,12 +306,13 @@ Meme这个词最初源自英国著名科学家理查德·道金斯所著的《�
 ### 投资理财
 
 1. [shengcaishizhan/kkndme_tianya](https://github.com/shengcaishizhan/kkndme_tianya)
-2. [xiaolai/regular-investing-in-box](https://github.com/xiaolai/regular-investing-in-box)
-3. [slowmist/Blockchain-dark-forest-selfguard-handbook](https://github.com/slowmist/Blockchain-dark-forest-selfguard-handbook)
+2. [slowmist/Blockchain-dark-forest-selfguard-handbook](https://github.com/slowmist/Blockchain-dark-forest-selfguard-handbook)
+3. [xiaolai/regular-investing-in-box](https://github.com/xiaolai/regular-investing-in-box)
 4. [xiaolai/bitcoin-whitepaper-chinese-translation](https://github.com/xiaolai/bitcoin-whitepaper-chinese-translation)
 5. [xiaolai/the-self-cultivation-of-leeks](https://github.com/xiaolai/the-self-cultivation-of-leeks)
-6. [fairyly/you-need-know-house_knowledge](https://github.com/fairyly/you-need-know-house_knowledge)
-7. [apachecn/the-way-to-wealth-freedom-notes](https://github.com/apachecn/the-way-to-wealth-freedom-notes)
+6. [apachecn/the-way-to-wealth-freedom-notes](https://github.com/apachecn/the-way-to-wealth-freedom-notes)
+7. [lyd-cs/you-need-know-house_knowledge](https://github.com/lyd-cs/you-need-know-house_knowledge)
+8. [fairyly/you-need-know-house_knowledge](https://github.com/fairyly/you-need-know-house_knowledge)
 
 ### 个人成长
 

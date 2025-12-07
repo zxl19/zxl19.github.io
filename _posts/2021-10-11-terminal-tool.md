@@ -33,6 +33,7 @@ pinned: false
 ## 命令行工具箱
 
 1. [x-cmd](https://github.com/x-cmd/x-cmd)
+2. [linutil](https://github.com/ChrisTitusTech/linutil)
 
 ## 时钟
 
