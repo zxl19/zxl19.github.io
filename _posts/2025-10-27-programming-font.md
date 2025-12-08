@@ -77,9 +77,11 @@ pinned: false
 
 1. [Google Fonts](https://fonts.google.com)
 2. [Adobe Fonts](https://fonts.adobe.com)
-3. [Maple Mono](https://font.subf.dev/en/)
-4. [Source Han Serif](https://source.typekit.com/source-han-serif/)
-5. [Monaspace](https://monaspace.githubnext.com)
+3. [Nerd Fonts](https://www.nerdfonts.com)
+4. [Programming Fonts](https://www.programmingfonts.org)
+5. [Maple Mono](https://font.subf.dev/en/)
+6. [Source Han Serif](https://source.typekit.com/source-han-serif/)
+7. [Monaspace](https://monaspace.githubnext.com)
 
 ## 杂谈
 
@@ -95,6 +97,9 @@ pinned: false
 10. [设计丨新世纪福音战士的文字与字体世界(中)-ZOGEI-造艺塾的文章-知乎](https://zhuanlan.zhihu.com/p/400604079)
 11. [设计丨新世纪福音战士的文字与字体世界(下)-ZOGEI-造艺塾的文章-知乎](https://zhuanlan.zhihu.com/p/401000277)
 12. [日本漫画的标题字体都是谁设计的？-谔神降临之路的回答-知乎](https://www.zhihu.com/question/26120895/answer/3377597744)
+13. [【字体的故事】Times New Roman-AlphaZTX的文章-知乎](https://zhuanlan.zhihu.com/p/506189673)
+14. [你知道的最冷的冷知识是什么？-静念的回答-知乎](https://www.zhihu.com/question/51459956/answer/409414370)
+15. [真正打动过你的一个设计是什么？-师匠的回答-知乎](https://www.zhihu.com/question/20093223/answer/1968685901606523746)
 
 ## 参考
 
@@ -108,12 +113,13 @@ pinned: false
 8. [写代码用哪种字体看起来最舒适？-Snowflyt的回答-知乎](https://www.zhihu.com/question/32058777/answer/3561707776)
 9. [写代码用哪种字体看起来最舒适？-NeverStandStill的回答-知乎](https://www.zhihu.com/question/32058777/answer/631445794)
 10. [写代码用哪种字体看起来最舒适？-北雁云依的回答-知乎](https://www.zhihu.com/question/32058777/answer/89025486145)
-11. [【字体】写代码编程字体展示推荐-博客园](https://www.cnblogs.com/minuhy/p/17001665.html)
-12. [程序员编程看起来最舒服的字体（英文的和中文的）、字号、颜色和背景色是什么？-千锋教育的回答-知乎](https://www.zhihu.com/question/19637242/answer/3243588308)
-13. [程序员编程看起来最舒服的字体（英文的和中文的）、字号、颜色和背景色是什么？-酷coo豆的回答-知乎](https://www.zhihu.com/question/19637242/answer/1936485117783695453)
-14. [程序员编程看起来最舒服的字体（英文的和中文的）、字号、颜色和背景色是什么？-白东杰的回答-知乎](https://www.zhihu.com/question/19637242/answer/3233610095)
-15. [5款适合程序员的开源字体-Linux中国的文章-知乎](https://zhuanlan.zhihu.com/p/62584715)
-16. [新时代编程字体推荐-JJ Ying的文章-知乎](https://zhuanlan.zhihu.com/p/20194623)
-17. [Fira Code丨一个程序员专用字体-Aceyclee的文章-知乎](https://zhuanlan.zhihu.com/p/28134371)
-18. [Fira Code——专为编程而生的字体-黄盼的文章-知乎](https://zhuanlan.zhihu.com/p/65362086)
-19. [有哪些排版英文字体推荐（除Times）？-纽阅客的回答-知乎](https://www.zhihu.com/question/729759242/answer/83436296218)
+11. [有哪些适合编程的等宽偏衬线字体？-你是疯儿我是傻的回答-知乎](https://www.zhihu.com/question/31173521/answer/128329735062)
+12. [【字体】写代码编程字体展示推荐-博客园](https://www.cnblogs.com/minuhy/p/17001665.html)
+13. [程序员编程看起来最舒服的字体（英文的和中文的）、字号、颜色和背景色是什么？-千锋教育的回答-知乎](https://www.zhihu.com/question/19637242/answer/3243588308)
+14. [程序员编程看起来最舒服的字体（英文的和中文的）、字号、颜色和背景色是什么？-酷coo豆的回答-知乎](https://www.zhihu.com/question/19637242/answer/1936485117783695453)
+15. [程序员编程看起来最舒服的字体（英文的和中文的）、字号、颜色和背景色是什么？-白东杰的回答-知乎](https://www.zhihu.com/question/19637242/answer/3233610095)
+16. [5款适合程序员的开源字体-Linux中国的文章-知乎](https://zhuanlan.zhihu.com/p/62584715)
+17. [新时代编程字体推荐-JJ Ying的文章-知乎](https://zhuanlan.zhihu.com/p/20194623)
+18. [Fira Code丨一个程序员专用字体-Aceyclee的文章-知乎](https://zhuanlan.zhihu.com/p/28134371)
+19. [Fira Code——专为编程而生的字体-黄盼的文章-知乎](https://zhuanlan.zhihu.com/p/65362086)
+20. [有哪些排版英文字体推荐（除Times）？-纽阅客的回答-知乎](https://www.zhihu.com/question/729759242/answer/83436296218)

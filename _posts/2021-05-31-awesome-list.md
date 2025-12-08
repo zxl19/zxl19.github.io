@@ -220,7 +220,8 @@ The main repository serves as a curated list of awesome lists.
 6. [eon01/awesome-chatgpt](https://github.com/eon01/awesome-chatgpt)
 7. [Kamigami55/awesome-chatgpt](https://github.com/Kamigami55/awesome-chatgpt)
 8. [saharmor/awesome-chatgpt](https://github.com/saharmor/awesome-chatgpt)
-9. [del-xiong/awesome-chatgpt](https://github.com/del-xiong/awesome-chatgpt)
+9. [XiaomingX/awesome-qwen-prompt-insight](https://github.com/XiaomingX/awesome-qwen-prompt-insight)
+10. [del-xiong/awesome-chatgpt](https://github.com/del-xiong/awesome-chatgpt)
 
 #### DeepSeek
 

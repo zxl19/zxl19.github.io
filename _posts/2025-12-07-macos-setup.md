@@ -109,10 +109,12 @@ pinned: false
 ### PDF
 
 1. [PDF Expert](https://pdfexpert.com)
+2. [PDF Squeezer](https://witt-software.com/pdfsqueezer/)
 
 ### 截图录屏工具
 
-1. [iShot](https://www.better365.com/ishot.html)
+1. [CleanShot](https://cleanshot.com)
+2. [iShot](https://www.better365.com/ishot.html)
 
 ## 剪切板
 
@@ -123,13 +125,13 @@ pinned: false
 5. [PopClip](https://www.popclip.app)
 6. [TextExpander](https://textexpander.com)
 
-### 番茄钟
+### 番茄钟&计时器
 
 1. [Timing](https://timingapp.com)
-2. [Focus](https://heyfocus.com)
-3. [Be Focused](https://xwavesoft.com/be-focused-pro-for-iphone-ipad-mac-os-x.html)
-4. [iTimer](https://toolinbox.net/iTimer/)
-5. [Eon Timer](https://software.charliemonroe.net/eon/)
+2. [iTimer](https://toolinbox.net/iTimer/)
+3. [Eon Timer](https://software.charliemonroe.net/eon/)
+4. [Focus](https://heyfocus.com)
+5. [Be Focused](https://xwavesoft.com/be-focused-pro-for-iphone-ipad-mac-os-x.html)
 
 ### 日历
 
@@ -144,9 +146,32 @@ pinned: false
 
 ### 思维导图
 
-1. [OmniGraffle](https://www.omnigroup.com/omnigraffle)
+1. [MindNode](https://www.mindnode.com)
+2. [The Omni Group](https://www.omnigroup.com)
+
+    - [OmniFocus](https://www.omnigroup.com/omnifocus)
+    - [OmniPlan](https://www.omnigroup.com/omniplan)
+    - [OmniGraffle](https://www.omnigroup.com/omnigraffle)
+    - [OmniOutliner](https://www.omnigroup.com/omnioutliner)
+
+## 科研相关
+
+### 虚拟机
+
+1. [OrbStack](https://orbstack.dev)
+2. [Parallels Desktop](https://www.parallels.cn/products/desktop/)
+
+## 开发相关
+
+### IDE
+
+1. [Xcode](https://developer.apple.com/xcode/)
 
 ## 娱乐相关
+
+### 摄影后期
+
+1. [Darkroom](https://darkroom.co)
 
 ### 视频剪辑
 
@@ -184,4 +209,5 @@ pinned: false
 8. [这13个小工具，让你的Mac菜单栏更好用-少数派的文章-知乎](https://zhuanlan.zhihu.com/p/77713683)
 9. [Mac App Store上有哪些值得购买的付费软件（应用）？-hzlzh的回答-知乎](https://www.zhihu.com/question/21503296/answer/20951469)
 10. [Mac App Store上有哪些值得购买的付费软件（应用）？-Security Saints的回答-知乎](https://www.zhihu.com/question/21503296/answer/3533580917)
-11. [Mac App Store上有哪些值得购买的付费软件（应用）？-Lawrence Li的回答-知乎](https://www.zhihu.com/question/21503296/answer/21029219)
+11. [Mac App Store上有哪些值得购买的付费软件（应用）？-王飞的回答-知乎](https://www.zhihu.com/question/21503296/answer/21028357)
+12. [Mac App Store上有哪些值得购买的付费软件（应用）？-Lawrence Li的回答-知乎](https://www.zhihu.com/question/21503296/answer/21029219)

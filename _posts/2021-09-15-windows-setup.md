@@ -81,6 +81,11 @@ pinned: false
 4. [uTools](https://www.u-tools.cn)
 5. [Parallels Toolbox](https://www.parallels.com/products/toolbox/)
 
+#### 密码管理
+
+1. [1Password](https://1password.com)
+2. [Bitwarden](https://bitwarden.com)
+
 ### 办公相关
 
 #### 浏览器
@@ -88,8 +93,12 @@ pinned: false
 1. [Chrome](https://www.google.com/chrome/)
 2. [Edge](https://www.microsoft.com/en-us/edge/)
 3. [Firefox](https://www.firefox.com)
-4. [Cold Turkey](https://getcoldturkey.com)
-5. Clash
+4. Clash
+
+#### 广告拦截
+
+1. [Cold Turkey](https://getcoldturkey.com)
+2. [AdGuard](https://adguard.com/zh_cn/welcome.html)
 
 #### 压缩工具
 
@@ -121,6 +130,7 @@ pinned: false
 1. [XMind](https://xmind.cn)
 2. [GitMind](https://gitmind.cn)
 3. [SimpleMindMap](https://wanglin2.github.io/mind-map-docs/)
+4. [MindManager](https://www.mindmanager.com)
 
 #### 远程桌面
 
@@ -154,8 +164,9 @@ pinned: false
 
 1. [Typora](https://typora.io)
 2. [Obsidian](https://obsidian.md)
-3. [Xournal++](https://xournalpp.github.io)
-4. [Manuskript](https://www.theologeek.ch/manuskript/)
+3. [Notion](https://www.notion.com)
+4. [Xournal++](https://xournalpp.github.io)
+5. [Manuskript](https://www.theologeek.ch/manuskript/)
 
 #### 文件差异对比
 
@@ -227,6 +238,7 @@ pinned: false
 1. [FileZilla](https://filezilla-project.org)
 2. [MobaXterm](https://mobaxterm.mobatek.net)
 3. [PuTTY](https://www.chiark.greenend.org.uk/~sgtatham/putty/)
+4. [Termius](https://termius.com)
 
 #### 代码分析
 
@@ -240,6 +252,7 @@ pinned: false
 #### 数据库
 
 1. [DB Browser for SQLite](https://sqlitebrowser.org)
+2. [Navicat Premium](https://www.navicat.com/en/products/navicat-premium)
 
 ### 娱乐相关
 

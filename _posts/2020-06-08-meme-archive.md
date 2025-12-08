@@ -279,11 +279,18 @@ Meme这个词最初源自英国著名科学家理查德·道金斯所著的《�
 6. [识典古籍](https://www.shidianguji.com)
 7. [光明之门](http://www.gmzm.org)
 8. [国学大师](https://www.guoxuedashi.net)
+9. [shanleiguang/vRain](https://github.com/shanleiguang/vRain)
+10. [shanleiguang/vYinn](https://github.com/shanleiguang/vYinn)
+11. [shanleiguang/vBooks](https://github.com/shanleiguang/vBooks)
+12. [shanleiguang/vQi](https://github.com/shanleiguang/vQi)
+13. [shanleiguang/vModou](https://github.com/shanleiguang/vModou)
+14. [Steve-Cheung-emct/old-written-kanji](https://github.com/Steve-Cheung-emct/old-written-kanji)
 
 ### 古诗词
 
 1. [古诗文网](https://www.gushiwen.cn)
 2. [中文诗歌](https://awesome-poetry.top/huajianji)
+3. [rime-aca/corpus](https://github.com/rime-aca/corpus)
 
 ### 下载
 
@@ -310,9 +317,10 @@ Meme这个词最初源自英国著名科学家理查德·道金斯所著的《�
 3. [xiaolai/regular-investing-in-box](https://github.com/xiaolai/regular-investing-in-box)
 4. [xiaolai/bitcoin-whitepaper-chinese-translation](https://github.com/xiaolai/bitcoin-whitepaper-chinese-translation)
 5. [xiaolai/the-self-cultivation-of-leeks](https://github.com/xiaolai/the-self-cultivation-of-leeks)
-6. [apachecn/the-way-to-wealth-freedom-notes](https://github.com/apachecn/the-way-to-wealth-freedom-notes)
-7. [lyd-cs/you-need-know-house_knowledge](https://github.com/lyd-cs/you-need-know-house_knowledge)
-8. [fairyly/you-need-know-house_knowledge](https://github.com/fairyly/you-need-know-house_knowledge)
+6. [XiaomingX/ai-money-maker-handbook](https://github.com/XiaomingX/ai-money-maker-handbook)
+7. [apachecn/the-way-to-wealth-freedom-notes](https://github.com/apachecn/the-way-to-wealth-freedom-notes)
+8. [lyd-cs/you-need-know-house_knowledge](https://github.com/lyd-cs/you-need-know-house_knowledge)
+9. [fairyly/you-need-know-house_knowledge](https://github.com/fairyly/you-need-know-house_knowledge)
 
 ### 个人成长
 
