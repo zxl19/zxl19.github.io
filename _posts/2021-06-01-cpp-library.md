@@ -239,8 +239,9 @@ pinned: false
 4. [dpilger26/NumCpp](https://github.com/dpilger26/NumCpp)
 5. [yixuan/spectra](https://github.com/yixuan/spectra)
 6. [tpoisonooo/how-to-optimize-gemm](https://github.com/tpoisonooo/how-to-optimize-gemm)
-7. [attractivechaos/matmul](https://github.com/attractivechaos/matmul)
-8. [hosseinmoein/Tiger](https://github.com/hosseinmoein/Tiger)
+7. [flame/blislab](https://github.com/flame/blislab)
+8. [attractivechaos/matmul](https://github.com/attractivechaos/matmul)
+9. [hosseinmoein/Tiger](https://github.com/hosseinmoein/Tiger)
 
 ### 李群和李代数
 
@@ -461,11 +462,12 @@ pinned: false
 4. [oneapi-src/oneTBB](https://github.com/oneapi-src/oneTBB)
 5. [bshoshany/thread-pool](https://github.com/bshoshany/thread-pool)
 6. [David-Haim/concurrencpp](https://github.com/David-Haim/concurrencpp)
-7. [lzpong/threadpool](https://github.com/lzpong/threadpool)
-8. [mbrossard/threadpool](https://github.com/mbrossard/threadpool)
-9. [lizhenghn123/zl_threadpool](https://github.com/lizhenghn123/zl_threadpool)
-10. [tghosgor/threadpool11](https://github.com/tghosgor/threadpool11)
+7. [alibaba/async_simple](https://github.com/alibaba/async_simple)
+8. [lzpong/threadpool](https://github.com/lzpong/threadpool)
+9. [mbrossard/threadpool](https://github.com/mbrossard/threadpool)
+10. [lizhenghn123/zl_threadpool](https://github.com/lizhenghn123/zl_threadpool)
 11. [electronicarts/EAThread](https://github.com/electronicarts/EAThread)
+12. [tghosgor/threadpool11](https://github.com/tghosgor/threadpool11)
 
 ## 惰性求值
 
@@ -522,9 +524,9 @@ pinned: false
 24. [全网唯一值得推荐的C/C++框架和库-C语言编程指南的文章-知乎](https://zhuanlan.zhihu.com/p/492392194)
 25. [如何评价Painter Engine？-DBinary的回答-知乎](https://www.zhihu.com/question/554686788/answer/3173063665)
 26. [c++日志记录都有哪些好的开源项目？-程序喵大人的回答-知乎](https://www.zhihu.com/question/37640953/answer/1898412255231608627)
-27. [C++除了Qt还有什么GUI库？-南山烟雨珠江潮的回答-知乎](https://www.zhihu.com/question/587721560/answer/54075782082)
-28. [如何找合适的C++项目给自己的简历加分？-1412的回答-知乎](https://www.zhihu.com/question/280881677/answer/3151447745)
-29. [你读过的最好的C++开源代码是什么？-水元素实验室的回答-知乎](https://www.zhihu.com/question/21376384/answer/1977859613262119051)
-30. [有哪些朴实无华的c++库？-南山烟雨珠江潮的回答-知乎](https://www.zhihu.com/question/666819229/answer/4257047142)
-31. [C++后端开发，和高性能计算方向该怎么选？-南山烟雨珠江潮的回答-知乎](https://www.zhihu.com/question/1949516816452935693/answer/1971490626001428960)
-32. [OpenBLAS gemm从零入门-白牛的文章-知乎](https://zhuanlan.zhihu.com/p/65436463)
+27. [OpenBLAS gemm从零入门-白牛的文章-知乎](https://zhuanlan.zhihu.com/p/65436463)
+28. [C++除了Qt还有什么GUI库？-南山烟雨珠江潮的回答-知乎](https://www.zhihu.com/question/587721560/answer/54075782082)
+29. [如何找合适的C++项目给自己的简历加分？-1412的回答-知乎](https://www.zhihu.com/question/280881677/answer/3151447745)
+30. [你读过的最好的C++开源代码是什么？-水元素实验室的回答-知乎](https://www.zhihu.com/question/21376384/answer/1977859613262119051)
+31. [有哪些朴实无华的c++库？-南山烟雨珠江潮的回答-知乎](https://www.zhihu.com/question/666819229/answer/4257047142)
+32. [C++后端开发，和高性能计算方向该怎么选？-南山烟雨珠江潮的回答-知乎](https://www.zhihu.com/question/1949516816452935693/answer/1971490626001428960)

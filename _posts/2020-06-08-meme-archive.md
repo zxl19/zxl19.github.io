@@ -195,6 +195,7 @@ Meme这个词最初源自英国著名科学家理查德·道金斯所著的《�
 18. [在线工具秘籍](https://zhaoolee.com/OnlineToolsBook/#/)
 19. [zhaoolee/ChromeAppHeroes](https://github.com/zhaoolee/ChromeAppHeroes)
 20. [zhaoolee/OnlineToolsBook](https://github.com/zhaoolee/OnlineToolsBook)
+21. [XiaomingX/1000-chinese-independent-developer-plus](https://github.com/XiaomingX/1000-chinese-independent-developer-plus)
 
 ### 大模型
 

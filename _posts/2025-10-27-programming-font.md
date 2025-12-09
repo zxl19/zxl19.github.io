@@ -98,8 +98,9 @@ pinned: false
 11. [设计丨新世纪福音战士的文字与字体世界(下)-ZOGEI-造艺塾的文章-知乎](https://zhuanlan.zhihu.com/p/401000277)
 12. [日本漫画的标题字体都是谁设计的？-谔神降临之路的回答-知乎](https://www.zhihu.com/question/26120895/answer/3377597744)
 13. [【字体的故事】Times New Roman-AlphaZTX的文章-知乎](https://zhuanlan.zhihu.com/p/506189673)
-14. [你知道的最冷的冷知识是什么？-静念的回答-知乎](https://www.zhihu.com/question/51459956/answer/409414370)
-15. [真正打动过你的一个设计是什么？-师匠的回答-知乎](https://www.zhihu.com/question/20093223/answer/1968685901606523746)
+14. [【字体的故事】Palatino-AlphaZTX的文章-知乎](https://zhuanlan.zhihu.com/p/511141001)
+15. [你知道的最冷的冷知识是什么？-静念的回答-知乎](https://www.zhihu.com/question/51459956/answer/409414370)
+16. [真正打动过你的一个设计是什么？-师匠的回答-知乎](https://www.zhihu.com/question/20093223/answer/1968685901606523746)
 
 ## 参考
 
