@@ -22,6 +22,9 @@ pinned: false
 1. [Dism++](https://github.com/Chuyu-Team/Dism-Multi-language)
 2. [AIDA64](https://www.aida64.com)
 3. [winutil](https://github.com/ChrisTitusTech/winutil)
+4. [zoicware/RemoveWindowsAI](https://github.com/zoicware/RemoveWindowsAI)
+5. [zoicware/ZOICWARE](https://github.com/zoicware/ZOICWARE)
+6. [zoicware/RepairBadTweaks](https://github.com/zoicware/RepairBadTweaks)
 
 #### 硬盘管理
 

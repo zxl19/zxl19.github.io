@@ -242,10 +242,11 @@ pinned: false
 
 ### 网站
 
-1. [无人驾驶领域，你推荐那些综述性文章？-王方浩的回答-知乎](https://www.zhihu.com/question/355954682/answer/897296676)
-2. [Dig into Apollo](https://dig-into-apollo.readthedocs.io/en/latest/index.html)
-3. [Apollo 开放平台](https://daobook.github.io/apollo-book/docs/start/index.html)
-4. [Algorithms for Automated Driving](https://thomasfermi.github.io/Algorithms-for-Automated-Driving/Introduction/intro.html)
+1. [求推荐自动驾驶研发方面的入门书籍？-悲伤依赖的回答-知乎](https://www.zhihu.com/question/296036014/answer/1981358905230660710)
+2. [无人驾驶领域，你推荐那些综述性文章？-王方浩的回答-知乎](https://www.zhihu.com/question/355954682/answer/897296676)
+3. [Dig into Apollo](https://dig-into-apollo.readthedocs.io/en/latest/index.html)
+4. [Apollo 开放平台](https://daobook.github.io/apollo-book/docs/start/index.html)
+5. [Algorithms for Automated Driving](https://thomasfermi.github.io/Algorithms-for-Automated-Driving/Introduction/intro.html)
 
 ### 专栏汇总
 
@@ -265,8 +266,9 @@ pinned: false
 8. [CHH3213/Books](https://github.com/CHH3213/Books)
 9. [YannZyl/Apollo-Note](https://github.com/YannZyl/Apollo-Note)
 10. [thomasfermi/Algorithms-for-Automated-Driving](https://github.com/thomasfermi/Algorithms-for-Automated-Driving)
-11. [slam-code/apollo](https://github.com/slam-code/apollo)
-12. [0voice/Autonomous-Driving-Cpp](https://github.com/0voice/Autonomous-Driving-Cpp)
+11. [iwatake2222/self-driving-ish_computer_vision_system](https://github.com/iwatake2222/self-driving-ish_computer_vision_system)
+12. [slam-code/apollo](https://github.com/slam-code/apollo)
+13. [0voice/Autonomous-Driving-Cpp](https://github.com/0voice/Autonomous-Driving-Cpp)
 
 ## VR&AR
 

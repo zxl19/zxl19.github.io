@@ -190,6 +190,7 @@ pinned: false
 2. [C++有哪些经常用到的设计模式？-程序喵大人的回答-知乎](https://www.zhihu.com/question/37391884/answer/3520221395)
 3. [C++有哪些经常用到的设计模式？-xiaokang的回答-知乎](https://www.zhihu.com/question/37391884/answer/16991041977)
 4. [C++有哪些经常用到的设计模式？-fr1vol的回答-知乎](https://www.zhihu.com/question/37391884/answer/2369923648)
+5. [请问半吊子C++选手该如何深入学习C++?-全小鱼的回答-知乎](https://www.zhihu.com/question/642857381/answer/1978434492059362585)
 
 ### 在线工具
 
