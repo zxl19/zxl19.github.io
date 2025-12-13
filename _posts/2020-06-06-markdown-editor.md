@@ -37,7 +37,7 @@ pinned: false
 2. Notable [链接](https://notable.app)
 3. Leanote [链接](https://leanote.com)
 4. Quarkdown [链接](https://quarkdown.com)
-5. Notes [链接](https://www.get-notes.com)
+5. Notes [链接](https://www.notes-foss.com)
 
 ## Gridea
 

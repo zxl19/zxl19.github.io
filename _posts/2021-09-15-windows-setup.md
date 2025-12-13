@@ -21,7 +21,7 @@ pinned: false
 
 1. [Dism++](https://github.com/Chuyu-Team/Dism-Multi-language)
 2. [AIDA64](https://www.aida64.com)
-3. [winutil](https://github.com/ChrisTitusTech/winutil)
+3. [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil)
 4. [zoicware/RemoveWindowsAI](https://github.com/zoicware/RemoveWindowsAI)
 5. [zoicware/ZOICWARE](https://github.com/zoicware/ZOICWARE)
 6. [zoicware/RepairBadTweaks](https://github.com/zoicware/RepairBadTweaks)
@@ -39,15 +39,16 @@ pinned: false
 4. [Actual Multiple Monitors](https://www.actualtools.com/multiplemonitors/)
 5. [ControlMyMonitor](https://www.nirsoft.net/utils/control_my_monitor.html)
 6. [UltraMon](https://www.realtimesoft.com/ultramon/)
-7. [WinDisplay](https://github.com/zpix1/windisplay)
+7. [zpix1/windisplay](https://github.com/zpix1/windisplay)
 
 #### 文件管理
 
 1. [Everything](https://www.voidtools.com)
 2. [srwi/EverythingToolbar](https://github.com/srwi/EverythingToolbar)
-3. [Listary](https://www.listary.com)
-4. [Total Commander](https://www.ghisler.com)
-5. [Q-Dir](https://q-dir.com)
+3. [Files](https://files.community)
+4. [Listary](https://www.listary.com)
+5. [Total Commander](https://www.ghisler.com)
+6. [Q-Dir](https://q-dir.com)
 
 #### 空间管理
 
@@ -143,8 +144,9 @@ pinned: false
 
 #### Microsoft Office
 
-1. [OdysseusYuan/LKY_OfficeTools](https://github.com/OdysseusYuan/LKY_OfficeTools)
-2. [OdysseusYuan/Mocreak](https://github.com/OdysseusYuan/Mocreak)
+1. [iSlide](https://www.islide.cc)
+2. [OdysseusYuan/LKY_OfficeTools](https://github.com/OdysseusYuan/LKY_OfficeTools)
+3. [OdysseusYuan/Mocreak](https://github.com/OdysseusYuan/Mocreak)
 
 #### 微信
 
@@ -353,15 +355,16 @@ pinned: false
 13. [Windows/Mac多显示器管理软件汇总-梁川的文章-知乎](https://zhuanlan.zhihu.com/p/695030956)
 14. [Windows操作系统，在双显示器的情况下如何选择在哪个显示器打开文件？-我脚还没喝红呢的回答-知乎](https://www.zhihu.com/question/54982919/answer/221848071)
 15. [Total Commander这款软件使用体验如何，有哪些优点和不足？-韦易笑的回答-知乎](https://www.zhihu.com/question/21616258/answer/1545629286)
-16. [微软复活20年前生产力工具PowerToys，填补Win10缺失功能，开源且免费-量子位的文章-知乎](https://zhuanlan.zhihu.com/p/166292161)
-17. [适用于Linux系统的最佳白板应用丨Linux中国-Linux中国的文章-知乎](https://zhuanlan.zhihu.com/p/467327167)
-18. [代码对比工具，就用这7个！-李二狗的文章-知乎](https://zhuanlan.zhihu.com/p/375551784)
-19. [不喜欢diff么？试试Meld吧丨Linux中国-Linux中国的文章-知乎](https://zhuanlan.zhihu.com/p/124017201)
-20. [使用Meld在Linux中以图形方式比较文件和文件夹丨Linux中国-Linux中国的文章-知乎](https://zhuanlan.zhihu.com/p/317628626)
-21. [为什么其他办公领域不使用git?-w0fv1.dev的回答-知乎](https://www.zhihu.com/question/329750471/answer/120040678856)
-22. [你用过的最好的代码阅读或编辑工具是什么？-韦易笑的回答-知乎](https://www.zhihu.com/question/19570229/answer/1626066191)
-23. [满足日常需求的应用（三）：图像编辑器丨Linux中国-Linux中国的文章-知乎](https://zhuanlan.zhihu.com/p/407938013)
-24. [Windows 10总是不打招呼就自动更新？教你如何关闭它-少数派的文章-知乎](https://zhuanlan.zhihu.com/p/35590496)
-25. [什么工具可以有效清理"C:\Users\用户名\AppData"目录下的文件？-高灵的回答-知乎](https://www.zhihu.com/question/38011537/answer/296426969)
-26. [Win 10 C盘突然爆满，怎么清理？-坚果云的回答-知乎](https://www.zhihu.com/question/53591010/answer/1115174873)
-27. [windows10系统内存占用莫名其妙非常高怎么解决怎么解决？-mhm的回答-知乎](https://www.zhihu.com/question/359072911/answer/924065793)
+16. [有什么值得推荐的文件管理软件？-GitHub Daily的回答-知乎](https://www.zhihu.com/question/470833285/answer/1982181519889040143)
+17. [微软复活20年前生产力工具PowerToys，填补Win10缺失功能，开源且免费-量子位的文章-知乎](https://zhuanlan.zhihu.com/p/166292161)
+18. [适用于Linux系统的最佳白板应用丨Linux中国-Linux中国的文章-知乎](https://zhuanlan.zhihu.com/p/467327167)
+19. [代码对比工具，就用这7个！-李二狗的文章-知乎](https://zhuanlan.zhihu.com/p/375551784)
+20. [不喜欢diff么？试试Meld吧丨Linux中国-Linux中国的文章-知乎](https://zhuanlan.zhihu.com/p/124017201)
+21. [使用Meld在Linux中以图形方式比较文件和文件夹丨Linux中国-Linux中国的文章-知乎](https://zhuanlan.zhihu.com/p/317628626)
+22. [为什么其他办公领域不使用git?-w0fv1.dev的回答-知乎](https://www.zhihu.com/question/329750471/answer/120040678856)
+23. [你用过的最好的代码阅读或编辑工具是什么？-韦易笑的回答-知乎](https://www.zhihu.com/question/19570229/answer/1626066191)
+24. [满足日常需求的应用（三）：图像编辑器丨Linux中国-Linux中国的文章-知乎](https://zhuanlan.zhihu.com/p/407938013)
+25. [Windows 10总是不打招呼就自动更新？教你如何关闭它-少数派的文章-知乎](https://zhuanlan.zhihu.com/p/35590496)
+26. [什么工具可以有效清理"C:\Users\用户名\AppData"目录下的文件？-高灵的回答-知乎](https://www.zhihu.com/question/38011537/answer/296426969)
+27. [Win 10 C盘突然爆满，怎么清理？-坚果云的回答-知乎](https://www.zhihu.com/question/53591010/answer/1115174873)
+28. [windows10系统内存占用莫名其妙非常高怎么解决怎么解决？-mhm的回答-知乎](https://www.zhihu.com/question/359072911/answer/924065793)

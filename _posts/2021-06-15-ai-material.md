@@ -102,9 +102,24 @@ pinned: false
 
 ### CUDA
 
-1. [srush/GPU-Puzzles](https://github.com/srush/GPU-Puzzles)
-2. [NVIDIA/cutlass](https://github.com/NVIDIA/cutlass)
-3. [xlite-dev/LeetCUDA](https://github.com/xlite-dev/LeetCUDA)
+1. [CUDA Programming Guide](https://docs.nvidia.com/cuda/cuda-programming-guide/)
+2. [CUDA C++ Programming Guide (Legacy)](https://docs.nvidia.com/cuda/cuda-c-programming-guide/)
+3. [CUDA C++ Programming Guide PDF](https://docs.nvidia.com/cuda/pdf/CUDA_C_Programming_Guide.pdf)
+4. [CUDA C++ Best Practices Guide](https://docs.nvidia.com/cuda/cuda-c-best-practices-guide/)
+5. [CUDA中文手册](https://cuda-doc.readthedocs.io/zh-cn/latest/index.html)
+6. [srush/GPU-Puzzles](https://github.com/srush/GPU-Puzzles)
+7. [NVIDIA/cutlass](https://github.com/NVIDIA/cutlass)
+8. [xlite-dev/LeetCUDA](https://github.com/xlite-dev/LeetCUDA)
+9. [NVIDIA/cuda-samples](https://github.com/NVIDIA/cuda-samples)
+10. [HeKun-NVIDIA/CUDA-Programming-Guide-in-Chinese](https://github.com/HeKun-NVIDIA/CUDA-Programming-Guide-in-Chinese)
+11. [rkinas/cuda-learning](https://github.com/rkinas/cuda-learning)
+12. [xlite-dev/ffpa-attn](https://github.com/xlite-dev/ffpa-attn)
+13. [dsl-learn/LeetGPU](https://github.com/dsl-learn/LeetGPU)
+14. [CUDA编程指北：从入门到实践-离心的文章-知乎](https://zhuanlan.zhihu.com/p/680075822)
+15. [CUDA（一）：CUDA编程基础-紫气东来的文章-知乎](https://zhuanlan.zhihu.com/p/645330027)
+16. [CUDA（二）：GPU的内存体系及其优化指南-紫气东来的文章-知乎](https://zhuanlan.zhihu.com/p/654027980)
+17. [CUDA（三）：通用矩阵乘法：从入门到熟练-紫气东来的文章-知乎](https://zhuanlan.zhihu.com/p/657632577)
+18. [CUDA（四）：使用CUDA实现Transformer结构-紫气东来的文章-知乎](https://zhuanlan.zhihu.com/p/694416583)
 
 ### PyTorch
 
@@ -203,4 +218,8 @@ pinned: false
 16. [神经网络的宏包丝滑排版令人流连忘返-我是科研小秘书的文章-知乎](https://zhuanlan.zhihu.com/p/433142890)
 17. [想学习高性能计算的知识，如何快速入门。?-沉睡的推理小五郎的回答-知乎](https://www.zhihu.com/question/1940151157805789711/answer/1959129986591076713)
 18. [[CUDA基础]📚LeetCUDA: v3.0大升级-面试刷题不迷路-DefTruth的文章-知乎](https://zhuanlan.zhihu.com/p/19862356369)
-19. [如何评价亚马逊AI新开源自动机器学习项目AutoGluon?-mileistone的回答-知乎](https://www.zhihu.com/question/360250836/answer/1039923243)
+19. [[CUDA优化][3w字]🔥高频面试题汇总-大模型手撕CUDA-DefTruth的文章-知乎](https://zhuanlan.zhihu.com/p/678903537)
+20. [[Attention优化][2w字]📚原理篇: 从Online-Softmax到FlashAttention V1/V2/V3-DefTruth的文章-知乎](https://zhuanlan.zhihu.com/p/668888063)
+21. [LeetGPU入门教程 (CUDA guide最佳实践)-BobHuang的文章-知乎](https://zhuanlan.zhihu.com/p/1899956367734867434)
+22. [CUDA C++ Programming Guide-建成的文章-知乎](https://zhuanlan.zhihu.com/p/1924837904473130664)
+23. [如何评价亚马逊AI新开源自动机器学习项目AutoGluon?-mileistone的回答-知乎](https://www.zhihu.com/question/360250836/answer/1039923243)

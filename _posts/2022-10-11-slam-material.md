@@ -226,6 +226,7 @@ pinned: false
 10. [Introduction to Inertial Navigation](https://www.navlab.net/Publications/Introduction_to_Inertial_Navigation.pdf)
 11. [Introduction to Inertial Navigation and Kalman Filtering](https://www.navlab.net/Publications/Introduction_to_Inertial_Navigation_and_Kalman_Filtering.pdf)
 12. [简明预积分推导-半闲居士的文章-知乎](https://zhuanlan.zhihu.com/p/388859808)
+13. [IMU预积分 (解闷版)-郑纯然Range的文章-知乎](https://zhuanlan.zhihu.com/p/1911921324726649326)
 
 ### GitHub
 

@@ -160,9 +160,10 @@ The main repository serves as a curated list of awesome lists.
 ## 命令行相关
 
 1. [alebcay/awesome-shell](https://github.com/alebcay/awesome-shell)
-2. [unixorn/awesome-zsh-plugins](https://github.com/unixorn/awesome-zsh-plugins)
-3. [hmml/awesome-zsh](https://github.com/hmml/awesome-zsh)
-4. [rothgar/awesome-tmux](https://github.com/rothgar/awesome-tmux)
+2. [agarrharr/awesome-cli-apps](https://github.com/agarrharr/awesome-cli-apps)
+3. [unixorn/awesome-zsh-plugins](https://github.com/unixorn/awesome-zsh-plugins)
+4. [hmml/awesome-zsh](https://github.com/hmml/awesome-zsh)
+5. [rothgar/awesome-tmux](https://github.com/rothgar/awesome-tmux)
 
 ## 科研
 
@@ -261,7 +262,10 @@ The main repository serves as a curated list of awesome lists.
 
 ## 电子书
 
-1. [runningcheese/Awesome-Zlibrary](https://github.com/runningcheese/Awesome-Zlibrary)
+1. [jobbole/awesome-programming-books](https://github.com/jobbole/awesome-programming-books)
+2. [royeo/awesome-programming-books](https://github.com/royeo/awesome-programming-books)
+3. [awesome-programming-books/awesome-programming-books.github.io](https://github.com/awesome-programming-books/awesome-programming-books.github.io)
+4. [runningcheese/Awesome-Zlibrary](https://github.com/runningcheese/Awesome-Zlibrary)
 
 ## 参考
 

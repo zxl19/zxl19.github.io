@@ -15,6 +15,7 @@ pinned: true
 
 1. [CMake学习笔记](https://zxl19.github.io/cmake-note)
 2. [LaTeX使用笔记](https://zxl19.github.io/latex-note)
-3. [Eigen库使用笔记](https://zxl19.github.io/eigen-note)
-4. [C++标准模板库学习笔记](https://zxl19.github.io/stl-note)
-5. [PCL库学习笔记](https://zxl19.github.io/pcl-note)
+3. [Git学习笔记](https://zxl19.github.io/git-note)
+4. [Eigen库使用笔记](https://zxl19.github.io/eigen-note)
+5. [C++标准模板库学习笔记](https://zxl19.github.io/stl-note)
+6. [PCL库学习笔记](https://zxl19.github.io/pcl-note)
