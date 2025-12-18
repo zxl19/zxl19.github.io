@@ -34,6 +34,7 @@ pinned: false
 2. 在`~/.bashrc`文件中使用ANSI转义编码进行配置；
 3. 配置参考：
 
+    - [Gogh-Co/Gogh](https://github.com/Gogh-Co/Gogh)
     - [ChrisTitusTech/mybash](https://github.com/ChrisTitusTech/mybash)
 
 ## Zsh+Oh My Zsh终端配置
