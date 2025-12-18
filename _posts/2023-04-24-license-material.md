@@ -37,8 +37,9 @@ GitHub仓库的开源协议保存在`LICENSE`文件中。
 
 #### 示例
 
-1. [santisoler/cc-licenses](https://github.com/santisoler/cc-licenses)
-2. [zTrix/sata-license](https://github.com/zTrix/sata-license)
+1. [me-shaon/GLWTPL](https://github.com/me-shaon/GLWTPL)
+2. [santisoler/cc-licenses](https://github.com/santisoler/cc-licenses)
+3. [zTrix/sata-license](https://github.com/zTrix/sata-license)
 
 ## 行为准则
 

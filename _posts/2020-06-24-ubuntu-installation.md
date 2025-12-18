@@ -16,7 +16,10 @@ pinned: false
 ## Ubuntu Hello World
 
 1. Linux是Linus Torvalds开发的类Unix（Unix-like）系统，以Linux内核（kernel）为基础；
-2. Ubuntu是Linux发行版的一种；
+2. [FabioLolix/LinuxTimeline](https://github.com/FabioLolix/LinuxTimeline)仓库中记录了各个Linux发行版的时间线：
+
+    - [Ubuntu](https://ubuntu.com)是基于Debian Linux的Linux发行版；
+    - [Omarchy](https://omarchy.org)是基于Arch Linux的Linux发行版；
 
 ## 下载Ubuntu系统镜像文件
 
@@ -146,17 +149,20 @@ sudo service network-manager restart
 ## 参考
 
 1. [Difference between Unix and Linux-GeeksforGeeks](https://www.geeksforgeeks.org/linux-vs-unix/)
-2. [Linux下载-Linux中国](https://linux.net.cn/article-4130-1.html)
-3. [那张流行的关于Linux版本的图的出处-何其幸运的文章-知乎](https://zhuanlan.zhihu.com/p/1910763315426231504)
-4. [FabioLolix/LinuxTimeline](https://github.com/FabioLolix/LinuxTimeline)
-5. [有哪些笔记本比较完美地支持ubuntu？-番茄老夫子的回答-知乎](https://www.zhihu.com/question/286150644/answer/1064982579)
-6. [Certified hardware](https://ubuntu.com/certified)
-7. [Ubuntu downloads](https://ubuntu.com/download)
-8. [Alternative downloads](https://ubuntu.com/download/alternative-downloads)
-9. [Rufus](https://rufus.ie/zh/)
-10. [清华大学开源软件镜像站](https://mirrors.tuna.tsinghua.edu.cn)
-11. [如何解决U盘装系统后磁盘总容量变小？-百度经验](https://jingyan.baidu.com/article/59703552e754e48fc00740ed.html)
-12. [重装Ubuntu时如何保留/home分区中的数据-博客园](https://www.cnblogs.com/maowang1991/p/3270441.html)
-13. [Ubuntu下~/.bashrc文件的恢复方法-CSDN博客](https://blog.csdn.net/yucicheung/article/details/79334998)
-14. [无法联网-CSDN博客](https://blog.csdn.net/nickdada/article/details/118152182)
-15. [重启网络服务-Stack Exchange](https://askubuntu.com/questions/230698/how-to-restart-the-networking-service)
+2. [8 Most Popular Linux Distributions (2025)-GeeksforGeeks](https://www.geeksforgeeks.org/linux-unix/8-most-popular-linux-distributions/)
+3. [Linux下载-Linux中国](https://linux.net.cn/article-4130-1.html)
+4. [Download Linux-Linux.org](https://www.linux.org/pages/download/)
+5. [那张流行的关于Linux版本的图的出处-何其幸运的文章-知乎](https://zhuanlan.zhihu.com/p/1910763315426231504)
+6. [FabioLolix/LinuxTimeline](https://github.com/FabioLolix/LinuxTimeline)
+7. [basecamp/omarchy](https://github.com/basecamp/omarchy)
+8. [有哪些笔记本比较完美地支持ubuntu？-番茄老夫子的回答-知乎](https://www.zhihu.com/question/286150644/answer/1064982579)
+9. [Certified hardware](https://ubuntu.com/certified)
+10. [Ubuntu downloads](https://ubuntu.com/download)
+11. [Alternative downloads](https://ubuntu.com/download/alternative-downloads)
+12. [Rufus](https://rufus.ie/zh/)
+13. [清华大学开源软件镜像站](https://mirrors.tuna.tsinghua.edu.cn)
+14. [如何解决U盘装系统后磁盘总容量变小？-百度经验](https://jingyan.baidu.com/article/59703552e754e48fc00740ed.html)
+15. [重装Ubuntu时如何保留/home分区中的数据-博客园](https://www.cnblogs.com/maowang1991/p/3270441.html)
+16. [Ubuntu下~/.bashrc文件的恢复方法-CSDN博客](https://blog.csdn.net/yucicheung/article/details/79334998)
+17. [无法联网-CSDN博客](https://blog.csdn.net/nickdada/article/details/118152182)
+18. [重启网络服务-Stack Exchange](https://askubuntu.com/questions/230698/how-to-restart-the-networking-service)

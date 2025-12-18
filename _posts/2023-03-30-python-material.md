@@ -75,9 +75,10 @@ pinned: false
 ## 代码规范
 
 1. [Google Python Style Guide](https://google.github.io/styleguide/pyguide.html)
-2. [Google开源项目风格指南-Python](https://zh-google-styleguide.readthedocs.io/en/latest/google-python-styleguide/contents/)
-3. [IgorSusmelj/pytorch-styleguide](https://github.com/IgorSusmelj/pytorch-styleguide)
-4. [shendeguize/GooglePythonStyleGuideCN](https://github.com/shendeguize/GooglePythonStyleGuideCN)
+2. [Google开源项目风格指南-Python](https://zh-google-styleguide.readthedocs.io/en/latest/google-python-styleguide/contents.html)
+3. [zh-google-styleguide/zh-google-styleguide](https://github.com/zh-google-styleguide/zh-google-styleguide)
+4. [IgorSusmelj/pytorch-styleguide](https://github.com/IgorSusmelj/pytorch-styleguide)
+5. [shendeguize/GooglePythonStyleGuideCN](https://github.com/shendeguize/GooglePythonStyleGuideCN)
 
 ## 参考
 

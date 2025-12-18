@@ -69,7 +69,8 @@ pinned: false
 2. [htop](https://github.com/htop-dev/htop)
 3. [nmon](http://nmon.sourceforge.net/pmwiki.php)
 4. [glances](https://github.com/nicolargo/glances)
-5. [ttyplot](https://github.com/tenox7/ttyplot)
+5. [btop](https://github.com/aristocratos/btop)
+6. [ttyplot](https://github.com/tenox7/ttyplot)
 
 ### GPU
 

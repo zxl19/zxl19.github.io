@@ -59,12 +59,13 @@ pinned: false
 19. [andreberg/Meslo-Font](https://github.com/andreberg/Meslo-Font)
 20. [ProgrammingFonts/ProgrammingFonts](https://github.com/ProgrammingFonts/ProgrammingFonts)
 21. [0xType/0xProto](https://github.com/0xType/0xProto)
-22. [rbanffy/3270font](https://github.com/rbanffy/3270font)
-23. [googlefonts/Inconsolata](https://github.com/googlefonts/Inconsolata)
-24. [googlefonts/spacemono](https://github.com/googlefonts/spacemono)
-25. [zed-industries/zed-fonts](https://github.com/zed-industries/zed-fonts)
-26. [blobject/agave](https://github.com/blobject/agave)
-27. [dejavu-fonts/dejavu-fonts](https://github.com/dejavu-fonts/dejavu-fonts)
+22. [sahibjotsaggu/San-Francisco-Pro-Fonts](https://github.com/sahibjotsaggu/San-Francisco-Pro-Fonts)
+23. [rbanffy/3270font](https://github.com/rbanffy/3270font)
+24. [googlefonts/Inconsolata](https://github.com/googlefonts/Inconsolata)
+25. [googlefonts/spacemono](https://github.com/googlefonts/spacemono)
+26. [zed-industries/zed-fonts](https://github.com/zed-industries/zed-fonts)
+27. [blobject/agave](https://github.com/blobject/agave)
+28. [dejavu-fonts/dejavu-fonts](https://github.com/dejavu-fonts/dejavu-fonts)
 
 ### 图标设计
 
@@ -77,11 +78,12 @@ pinned: false
 
 1. [Google Fonts](https://fonts.google.com)
 2. [Adobe Fonts](https://fonts.adobe.com)
-3. [Nerd Fonts](https://www.nerdfonts.com)
-4. [Programming Fonts](https://www.programmingfonts.org)
-5. [Maple Mono](https://font.subf.dev/en/)
-6. [Source Han Serif](https://source.typekit.com/source-han-serif/)
-7. [Monaspace](https://monaspace.githubnext.com)
+3. [Fonts for Apple platforms](https://developer.apple.com/fonts/)
+4. [Nerd Fonts](https://www.nerdfonts.com)
+5. [Programming Fonts](https://www.programmingfonts.org)
+6. [Maple Mono](https://font.subf.dev/en/)
+7. [Source Han Serif](https://source.typekit.com/source-han-serif/)
+8. [Monaspace](https://monaspace.githubnext.com)
 
 ## 杂谈
 

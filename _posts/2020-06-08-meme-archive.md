@@ -327,10 +327,11 @@ Meme这个词最初源自英国著名科学家理查德·道金斯所著的《�
 3. [xiaolai/regular-investing-in-box](https://github.com/xiaolai/regular-investing-in-box)
 4. [xiaolai/bitcoin-whitepaper-chinese-translation](https://github.com/xiaolai/bitcoin-whitepaper-chinese-translation)
 5. [xiaolai/the-self-cultivation-of-leeks](https://github.com/xiaolai/the-self-cultivation-of-leeks)
-6. [XiaomingX/ai-money-maker-handbook](https://github.com/XiaomingX/ai-money-maker-handbook)
-7. [apachecn/the-way-to-wealth-freedom-notes](https://github.com/apachecn/the-way-to-wealth-freedom-notes)
-8. [lyd-cs/you-need-know-house_knowledge](https://github.com/lyd-cs/you-need-know-house_knowledge)
-9. [fairyly/you-need-know-house_knowledge](https://github.com/fairyly/you-need-know-house_knowledge)
+6. [XiaomingX/indie-hacker-tools-plus](https://github.com/XiaomingX/indie-hacker-tools-plus)
+7. [XiaomingX/ai-money-maker-handbook](https://github.com/XiaomingX/ai-money-maker-handbook)
+8. [apachecn/the-way-to-wealth-freedom-notes](https://github.com/apachecn/the-way-to-wealth-freedom-notes)
+9. [lyd-cs/you-need-know-house_knowledge](https://github.com/lyd-cs/you-need-know-house_knowledge)
+10. [fairyly/you-need-know-house_knowledge](https://github.com/fairyly/you-need-know-house_knowledge)
 
 ### 个人成长
 

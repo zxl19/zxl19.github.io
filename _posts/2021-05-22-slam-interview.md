@@ -40,7 +40,8 @@ SLAM方向面试题存档。
 12. [想问一下常见SLAM面试编程题？-半闲居士的回答-知乎](https://www.zhihu.com/question/532565032/answer/2483264411)
 13. [为什么现在很难招到有水平的SLAM工程师?-华北何志武的回答-知乎](https://www.zhihu.com/question/1943625053787883352/answer/1948138107930124780)
 14. [从SLAM到Spatial AI，传统SLAMer该何去何从？-郑纯然Range的文章-知乎](https://zhuanlan.zhihu.com/p/1925623885379909421)
-15. [为什么说传统SLAM已死？-Immortalqx的回答-知乎](https://www.zhihu.com/question/1975877695788319146/answer/1976430813492028679)
+15. [为什么说传统SLAM已死？-半闲居士的回答-知乎](https://www.zhihu.com/question/1975877695788319146/answer/1984729591387018450)
+16. [为什么说传统SLAM已死？-Immortalqx的回答-知乎](https://www.zhihu.com/question/1975877695788319146/answer/1976430813492028679)
 
 ## 代码面试
 
@@ -70,11 +71,12 @@ SLAM方向面试题存档。
 
 ### 算法杂谈
 
-1. [哪些看似毫不相干的事物具有相同的数学原理？-CodeCrafter的回答-知乎](https://www.zhihu.com/question/58369008/answer/1974913252715688840)
-2. [有哪些算法一开始像在瞎搞，实际上却蕴含着更深层的逻辑？-CodeCrafter的回答-知乎](https://www.zhihu.com/question/1890344085396623745/answer/1956009806629410156)
-3. [有哪些算法一开始像在瞎搞，实际上却蕴含着更深层的逻辑？-Felina的回答-知乎](https://www.zhihu.com/question/1890344085396623745/answer/1892242287221769687)
-4. [有哪些复杂度为O(1)的神奇算法？-杞鋂的回答-知乎](https://www.zhihu.com/question/52968810/answer/1938616920128622783)
-5. [有哪些复杂度为O(1)的神奇算法？-南山烟雨珠江潮的回答-知乎](https://www.zhihu.com/question/52968810/answer/1929456142423163724)
+1. [有哪些算法惊艳到了你？-Yixiao Huang的回答-知乎](https://www.zhihu.com/question/26934313/answer/3528590082)
+2. [哪些看似毫不相干的事物具有相同的数学原理？-CodeCrafter的回答-知乎](https://www.zhihu.com/question/58369008/answer/1974913252715688840)
+3. [有哪些算法一开始像在瞎搞，实际上却蕴含着更深层的逻辑？-CodeCrafter的回答-知乎](https://www.zhihu.com/question/1890344085396623745/answer/1956009806629410156)
+4. [有哪些算法一开始像在瞎搞，实际上却蕴含着更深层的逻辑？-Felina的回答-知乎](https://www.zhihu.com/question/1890344085396623745/answer/1892242287221769687)
+5. [有哪些复杂度为O(1)的神奇算法？-杞鋂的回答-知乎](https://www.zhihu.com/question/52968810/answer/1938616920128622783)
+6. [有哪些复杂度为O(1)的神奇算法？-南山烟雨珠江潮的回答-知乎](https://www.zhihu.com/question/52968810/answer/1929456142423163724)
 
 ### GitHub
 

@@ -178,6 +178,7 @@ add_subdirectory()
 aux_source_directory()
 add_compile_options()
 install()
+file()
 enable_testing()
 add_test()
 
@@ -541,6 +542,17 @@ endwhile()
         - 可以直观看出源文件列表的内容，并且可以控制添加到源文件列表中的源文件；
         - 修改`CMakeLists.txt`文件后必须重新运行CMake，可以保证源文件列表的及时更新；
 
+    - 也可以使用`file()`构建源文件列表：
+
+        ```cmake
+        # 搜索
+        file(GLOB TEST_SOURCES ${PROJECT_NAME}/test/*.c*)
+        # 递归搜索
+        file(GLOB_RECURSE TEST_SOURCES ${PROJECT_NAME}/test/*.c*)
+        ```
+
+        - 需要注意的是，源文件列表不会随着目录中的源文件增加而自动更新，需要手动重新运行CMake来更新源文件列表；
+
 6. `add_compile_options()`用于设置编译选项，常用语法如下：
 
     ```cmake
@@ -637,7 +649,15 @@ endwhile()
             )
             ```
 
-8. `enable_testing()`用于启用当前目录下的所有测试，供`CTest`模块使用，常用语法如下：
+8. `file()`用于操作文件，常用语法如下：
+
+    ```cmake
+    file(WRITE <filename> <content>...)
+    file(APPEND <filename> <content>...)
+    file(GLOB | GLOB_RECURSE <variable> <globbing-expressions>...)
+    ```
+
+9. `enable_testing()`用于启用当前目录下的所有测试，供`CTest`模块使用，常用语法如下：
 
     ```cmake
     enable_testing()
@@ -650,7 +670,7 @@ endwhile()
         include(CTest)
         ```
 
-9. `add_test()`用于生成测试文件，供`CTest`模块使用，常用语法如下：
+10. `add_test()`用于生成测试文件，供`CTest`模块使用，常用语法如下：
 
     ```cmake
     add_test(NAME <name>

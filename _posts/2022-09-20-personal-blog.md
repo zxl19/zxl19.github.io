@@ -84,12 +84,14 @@ pinned: false
 3. [Fabrice Bellard's Home Page](https://www.bellard.org)
 4. [Brendan Gregg's Homepage](https://www.brendangregg.com/index.html)
 5. [Rob Landley](https://landley.net)
-6. [Linux Tech Tips](https://www.linuxtechtips.com)
-7. [Luyoung](https://luliang.website)
-8. [Luyoung](https://luyoung0001.github.io)
-9. [LinuxTOY](https://linuxtoy.org)
-10. [Linux Wiki](http://linux-wiki.cn/wiki/%E9%A6%96%E9%A1%B5)
-11. [Linux教程和文章](https://cn.linux-console.net)
+6. [Linux.org](https://www.linux.org)
+7. [Linux Tech Tips](https://www.linuxtechtips.com)
+8. [Luyoung](https://luliang.website)
+9. [Luyoung](https://luyoung0001.github.io)
+10. [Linux迷](https://www.linuxmi.com)
+11. [LinuxTOY](https://linuxtoy.org)
+12. [Linux Wiki](http://linux-wiki.cn/wiki/%E9%A6%96%E9%A1%B5)
+13. [Linux教程和文章](https://cn.linux-console.net)
 
 ### C++相关
 

@@ -503,7 +503,8 @@ pip install，pip uninstall，拿起pip就是干！
 4. [pymupdf/PyMuPDF](https://github.com/pymupdf/PyMuPDF)
 5. [jorisschellekens/borb](https://github.com/jorisschellekens/borb)
 6. [pdfarranger/pdfarranger](https://github.com/pdfarranger/pdfarranger)
-7. [ArtifexSoftware/pdf2docx](https://github.com/ArtifexSoftware/pdf2docx)
+7. [caj2pdf/caj2pdf](https://github.com/caj2pdf/caj2pdf)
+8. [ArtifexSoftware/pdf2docx](https://github.com/ArtifexSoftware/pdf2docx)
 
 ### Office文档
 

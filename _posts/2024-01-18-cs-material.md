@@ -64,6 +64,7 @@ pinned: false
 10. [apachecn/awesome-cs-courses-zh](https://github.com/apachecn/awesome-cs-courses-zh)
 11. [forthespada/Awsome-Courses](https://github.com/forthespada/Awsome-Courses)
 12. [fffaraz/awesome-courses](https://github.com/fffaraz/awesome-courses)
+13. [XiaomingX/build-your-own-xxx](https://github.com/XiaomingX/build-your-own-xxx)
 
 ## 专业课攻略
 

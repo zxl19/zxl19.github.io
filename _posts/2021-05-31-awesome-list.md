@@ -111,9 +111,11 @@ The main repository serves as a curated list of awesome lists.
 ### 计算机视觉
 
 1. [jbhuang0604/awesome-computer-vision](https://github.com/jbhuang0604/awesome-computer-vision)
-2. [yenchenlin/awesome-NeRF](https://github.com/yenchenlin/awesome-NeRF)
-3. [chrieke/awesome-satellite-imagery-datasets](https://github.com/chrieke/awesome-satellite-imagery-datasets)
-4. [MrNeRF/awesome-3D-gaussian-splatting](https://github.com/MrNeRF/awesome-3D-gaussian-splatting)
+2. [MrNeRF/awesome-3D-gaussian-splatting](https://github.com/MrNeRF/awesome-3D-gaussian-splatting)
+3. [yenchenlin/awesome-NeRF](https://github.com/yenchenlin/awesome-NeRF)
+4. [chrieke/awesome-satellite-imagery-datasets](https://github.com/chrieke/awesome-satellite-imagery-datasets)
+5. [3D-Vision-World/awesome-NeRF-and-3DGS-SLAM](https://github.com/3D-Vision-World/awesome-NeRF-and-3DGS-SLAM)
+6. [zubair-irshad/Awesome-Implicit-NeRF-Robotics](https://github.com/zubair-irshad/Awesome-Implicit-NeRF-Robotics)
 
 ## GitHub项目美化
 
