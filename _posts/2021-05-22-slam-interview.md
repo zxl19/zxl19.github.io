@@ -39,9 +39,6 @@ SLAM方向面试题存档。
 11. [智驾领域SLAM面试部分-春山空的文章-知乎](https://zhuanlan.zhihu.com/p/705705882)
 12. [想问一下常见SLAM面试编程题？-半闲居士的回答-知乎](https://www.zhihu.com/question/532565032/answer/2483264411)
 13. [为什么现在很难招到有水平的SLAM工程师?-华北何志武的回答-知乎](https://www.zhihu.com/question/1943625053787883352/answer/1948138107930124780)
-14. [从SLAM到Spatial AI，传统SLAMer该何去何从？-郑纯然Range的文章-知乎](https://zhuanlan.zhihu.com/p/1925623885379909421)
-15. [为什么说传统SLAM已死？-半闲居士的回答-知乎](https://www.zhihu.com/question/1975877695788319146/answer/1984729591387018450)
-16. [为什么说传统SLAM已死？-Immortalqx的回答-知乎](https://www.zhihu.com/question/1975877695788319146/answer/1976430813492028679)
 
 ## 代码面试
 

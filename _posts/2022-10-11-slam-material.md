@@ -116,6 +116,17 @@ pinned: false
 4. [RI Seminar: Michael Kaess: Robust and Efficient Real-time Mapping for Autonomous Robots](https://www.youtube.com/watch?v=_W3Ua1Yg2fk)
 5. [Optimization-based Localization And Mapping-KTH](https://canvas.kth.se/courses/40649)
 
+### 杂谈
+
+```text
+我是这么想，咱们无论是死还是活着，都在其次，顶伤心的是咱们这些玩意，过不了几年就全得失传，咱们对不起祖师爷。……正经的玩意，都得连根烂——《茶馆》
+```
+
+1. [从SLAM到Spatial AI，传统SLAMer该何去何从？-郑纯然Range的文章-知乎](https://zhuanlan.zhihu.com/p/1925623885379909421)
+2. [为什么说传统SLAM已死？-半闲居士的回答-知乎](https://www.zhihu.com/question/1975877695788319146/answer/1984729591387018450)
+3. [为什么说传统SLAM已死？-Immortalqx的回答-知乎](https://www.zhihu.com/question/1975877695788319146/answer/1976430813492028679)
+4. [SLAM技术会是一场泡沫吗？-forward的回答-知乎](https://www.zhihu.com/question/269729796/answer/16988238164)
+
 ## 卡尔曼滤波
 
 ### 网站
