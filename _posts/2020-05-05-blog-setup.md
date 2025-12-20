@@ -71,10 +71,10 @@ pinned: false
 
 ### 设置版权声明
 
-设置版权声明[^3]，最新使用年份需要手动更新，作为页脚文本显示，在`_config.yml`文件中设置：
+设置版权声明[^3]，作为页脚文本显示，在`_config.yml`文件中设置：
 
 ```yaml
-footer-text: Copyright © 2020-20xx zxl19. All Rights Reserved.
+footer-text: Copyright © 2020 zxl19. All Rights Reserved.
 ```
 
 [^3]: 以我的版权声明为例。

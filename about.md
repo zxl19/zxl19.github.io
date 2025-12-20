@@ -25,4 +25,4 @@ permalink: /about/
     </a>
 </p>
 
-<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=300&t=tt&d=hibP75SF_WZXl_4j4ksPzYOneT4Qb5-laVZ2YVjfDdA'></script>
+<script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=300&t=m&d=hibP75SF_WZXl_4j4ksPzYOneT4Qb5-laVZ2YVjfDdA&co=2d78ad&cmo=3acc3a&cmn=ff5353&ct=ffffff"></script>
