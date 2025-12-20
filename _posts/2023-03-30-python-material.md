@@ -18,12 +18,15 @@ pinned: false
 1. [Python基础教程-菜鸟教程](https://www.runoob.com/python/python-tutorial.html)
 2. [Python教程-廖雪峰的官方网站](https://www.liaoxuefeng.com/wiki/1016959663602400)
 3. [Python Cheatsheet](https://www.pythoncheatsheet.org)
-4. [gto76/python-cheatsheet](https://github.com/gto76/python-cheatsheet)
-5. [trekhleb/learn-python](https://github.com/trekhleb/learn-python)
-6. [crazyguitar/pysheeet](https://github.com/crazyguitar/pysheeet)
-7. [wilfredinni/python-cheatsheet](https://github.com/wilfredinni/python-cheatsheet)
-8. [wizardforcel/sicp-py-zh](https://github.com/wizardforcel/sicp-py-zh)
-9. [TommyZihao/zihaopython](https://github.com/TommyZihao/zihaopython)
+4. [草根学Python](https://www.readwithu.com)
+5. [gto76/python-cheatsheet](https://github.com/gto76/python-cheatsheet)
+6. [walter201230/Python](https://github.com/walter201230/Python)
+7. [trekhleb/learn-python](https://github.com/trekhleb/learn-python)
+8. [jackzhenguo/python-small-examples](https://github.com/jackzhenguo/python-small-examples)
+9. [crazyguitar/pysheeet](https://github.com/crazyguitar/pysheeet)
+10. [wilfredinni/python-cheatsheet](https://github.com/wilfredinni/python-cheatsheet)
+11. [wizardforcel/sicp-py-zh](https://github.com/wizardforcel/sicp-py-zh)
+12. [TommyZihao/zihaopython](https://github.com/TommyZihao/zihaopython)
 
 ## 常用算法实现
 
@@ -82,6 +85,7 @@ pinned: false
 
 ## 参考
 
-1. [Data Science Cheat Sheets-DataCamp](https://www.datacamp.com/cheat-sheet)
-2. [List of data science cheat sheet with Python [Updated 3]-Kaggle](https://www.kaggle.com/discussions/getting-started/78118)
-3. [Data Science Cheat Sheets Free Download-Kaggle](https://www.kaggle.com/discussions/getting-started/342673)
+1. [都说Python简单，那Python有多简单呢？-南山烟雨珠江潮的回答-知乎](https://www.zhihu.com/question/614920801/answer/1979506288363845454)
+2. [Data Science Cheat Sheets-DataCamp](https://www.datacamp.com/cheat-sheet)
+3. [List of data science cheat sheet with Python [Updated 3]-Kaggle](https://www.kaggle.com/discussions/getting-started/78118)
+4. [Data Science Cheat Sheets Free Download-Kaggle](https://www.kaggle.com/discussions/getting-started/342673)

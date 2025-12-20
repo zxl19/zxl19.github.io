@@ -467,8 +467,9 @@ pinned: false
 9. [lzpong/threadpool](https://github.com/lzpong/threadpool)
 10. [mbrossard/threadpool](https://github.com/mbrossard/threadpool)
 11. [lizhenghn123/zl_threadpool](https://github.com/lizhenghn123/zl_threadpool)
-12. [electronicarts/EAThread](https://github.com/electronicarts/EAThread)
-13. [tghosgor/threadpool11](https://github.com/tghosgor/threadpool11)
+12. [ConorWilliams/libfork](https://github.com/ConorWilliams/libfork)
+13. [electronicarts/EAThread](https://github.com/electronicarts/EAThread)
+14. [tghosgor/threadpool11](https://github.com/tghosgor/threadpool11)
 
 ## 惰性求值
 
@@ -531,3 +532,4 @@ pinned: false
 30. [你读过的最好的C++开源代码是什么？-水元素实验室的回答-知乎](https://www.zhihu.com/question/21376384/answer/1977859613262119051)
 31. [有哪些朴实无华的c++库？-南山烟雨珠江潮的回答-知乎](https://www.zhihu.com/question/666819229/answer/4257047142)
 32. [C++后端开发，和高性能计算方向该怎么选？-南山烟雨珠江潮的回答-知乎](https://www.zhihu.com/question/1949516816452935693/answer/1971490626001428960)
+33. [C++多线程有哪些比较好的开源项目?-南山烟雨珠江潮的回答-知乎](https://www.zhihu.com/question/1974237994790695022/answer/1980203950465652035)
