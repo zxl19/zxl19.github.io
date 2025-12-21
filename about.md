@@ -25,4 +25,4 @@ permalink: /about/
     </a>
 </p>
 
-<script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?cl=080808&w=600&t=m&d=hibP75SF_WZXl_4j4ksPzYOneT4Qb5-laVZ2YVjfDdA&co=ffffff&cmo=3acc3a&cmn=ff5353&ct=808080"></script>
+<script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?cl=080808&w=600&t=tt&d=hibP75SF_WZXl_4j4ksPzYOneT4Qb5-laVZ2YVjfDdA&co=ffffff&cmo=3acc3a&cmn=ff5353&ct=808080"></script>

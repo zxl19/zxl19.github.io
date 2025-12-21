@@ -8,7 +8,11 @@
 
 <p align="center">
     <a href="https://www.star-history.com/#">
-        <img src="https://api.star-history.com/svg?repos=zxl19/zxl19.github.io&type=date&legend=top-left" alt="Star History Chart" width="75%">
+        <picture>
+            <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=zxl19/zxl19.github.io&type=date&theme=dark&legend=top-left">
+            <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=zxl19/zxl19.github.io&type=date&legend=top-left">
+            <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=zxl19/zxl19.github.io&type=date&legend=top-left" width="75%">
+        </picture>
     </a>
 </p>
 
