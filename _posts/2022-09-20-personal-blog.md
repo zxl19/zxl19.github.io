@@ -130,13 +130,14 @@ pinned: false
 
 1. [谭升的博客](https://face2ai.com)
 2. [陈一帅](https://yishuai.github.io)
-3. [Code Yarns](https://codeyarns.com)
-4. [siboehm](https://siboehm.com)
-5. [Lei Mao's Log Book](https://leimao.github.io)
-6. [Jeremy Feng](https://fengchao.pro)
-7. [MartinLwx](https://martinlwx.github.io)
-8. [Joey's Blog](https://www.fangjin.site)
-9. [Mostafa Samir](https://mostafa-samir.github.io)
+3. [Yuxi Ma](https://mayuxi.com)
+4. [Code Yarns](https://codeyarns.com)
+5. [siboehm](https://siboehm.com)
+6. [Lei Mao's Log Book](https://leimao.github.io)
+7. [Jeremy Feng](https://fengchao.pro)
+8. [MartinLwx](https://martinlwx.github.io)
+9. [Joey's Blog](https://www.fangjin.site)
+10. [Mostafa Samir](https://mostafa-samir.github.io)
 
 ### 算法相关
 

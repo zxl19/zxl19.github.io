@@ -76,8 +76,10 @@ pinned: false
 #### 启动器
 
 1. [Wox](http://www.wox.one)
-2. [Launchy](https://launchy.net)
-3. [WinHotKey](https://directedge.us/content/winhotkey/)
+2. [Raycast](https://www.raycast.com)
+3. [Flow Launcher](https://www.flowlauncher.com)
+4. [Launchy](https://launchy.net)
+5. [WinHotKey](https://directedge.us/content/winhotkey/)
 
 #### 工具箱
 
@@ -161,6 +163,11 @@ pinned: false
 2. [Tickeys](https://yingdev.com/projects/tickeys)
 
 ### 科研相关
+
+#### 公式编辑器
+
+1. [MathType](https://www.wiris.com/en/mathtype/)
+2. [AxMath](https://www.axsofts.com/product/axmath/)
 
 #### 文本编辑器
 

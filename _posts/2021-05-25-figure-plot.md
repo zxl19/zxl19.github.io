@@ -26,8 +26,9 @@ pinned: false
 3. [gnuplot](http://www.gnuplot.info)
 4. [AlphaPlot](https://alphaplot.sourceforge.io)
 5. [LabPlot](https://labplot.kde.org)
-6. [SciDAVis](https://scidavis.sourceforge.net)
-7. [HiPlot](https://hiplot.cn)
+6. [AxCell](https://www.axsofts.com/product/axcell-workflow-for-data-processing-and-visualization/)
+7. [SciDAVis](https://scidavis.sourceforge.net)
+8. [HiPlot](https://hiplot.cn)
 
 ### 配色教程
 
