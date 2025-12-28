@@ -187,10 +187,11 @@ pinned: false
 
 1. [google/mediapipe](https://github.com/google/mediapipe)
 2. [Tencent/ncnn](https://github.com/Tencent/ncnn)
-3. [Netflix/metaflow](https://github.com/Netflix/metaflow)
-4. [openvinotoolkit/openvino](https://github.com/openvinotoolkit/openvino)
-5. [Tencent/TNN](https://github.com/Tencent/TNN)
-6. [open-mmlab/mmdeploy](https://github.com/open-mmlab/mmdeploy)
+3. [NVIDIA/TensorRT](https://github.com/NVIDIA/TensorRT)
+4. [Netflix/metaflow](https://github.com/Netflix/metaflow)
+5. [openvinotoolkit/openvino](https://github.com/openvinotoolkit/openvino)
+6. [Tencent/TNN](https://github.com/Tencent/TNN)
+7. [open-mmlab/mmdeploy](https://github.com/open-mmlab/mmdeploy)
 
 ### 剪枝
 

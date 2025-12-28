@@ -117,6 +117,37 @@ sudo apt install x-tile
     | `M` | unmaximize all opened windows |
     | `c` | close all opened windows |
 
+## 平铺式窗口管理器
+
+1. 平铺式窗口管理器（Tiling Window Manager，TWM）：窗口之间不重叠，通过快捷键调整布局；
+2. 堆叠式窗口管理器（Stacking Window Manager，SWM）：窗口之间可以重叠，通过鼠标调整布局；
+
+### Windows
+
+1. [LGUG2Z/komorebi](https://github.com/LGUG2Z/komorebi)
+2. [glzr-io/glazewm](https://github.com/glzr-io/glazewm)
+3. [fuhsjr00/bug.n](https://github.com/fuhsjr00/bug.n)
+4. [workspacer/workspacer](https://github.com/workspacer/workspacer)
+
+### Linux
+
+1. [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland)
+2. [swaywm/sway](https://github.com/swaywm/sway)
+3. [i3/i3](https://github.com/i3/i3)
+4. [baskerville/bspwm](https://github.com/baskerville/bspwm)
+5. [awesomeWM/awesome](https://github.com/awesomeWM/awesome)
+6. [qtile/qtile](https://github.com/qtile/qtile)
+7. [leftwm/leftwm](https://github.com/leftwm/leftwm)
+8. [Kintaro/wtftw](https://github.com/Kintaro/wtftw)
+9. [hyprwm/Hypr](https://github.com/hyprwm/Hypr)
+
+### macOS
+
+1. [asmvik/yabai](https://github.com/asmvik/yabai)
+2. [nikitabobko/AeroSpace](https://github.com/nikitabobko/AeroSpace)
+3. [ianyh/Amethyst](https://github.com/ianyh/Amethyst)
+4. [acsandmann/rift](https://github.com/acsandmann/rift)
+
 ## 参考
 
 1. [Tiling window manager-Wikipedia](https://en.wikipedia.org/wiki/Tiling_window_manager)
@@ -129,5 +160,11 @@ sudo apt install x-tile
 8. [如何安装GNOME插件-techmoe的文章-知乎](https://zhuanlan.zhihu.com/p/36265103)
 9. [x tile-giuspen](https://www.giuspen.com/x-tile/)
 10. [giuspen/x-tile](https://github.com/giuspen/x-tile)
-11. [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland)
-12. [baskerville/bspwm](https://github.com/baskerville/bspwm)
+11. [Linux平铺窗口管理器（Tiling Window Manager）完全指南：从入门到精通-极客技术博客](https://geek-blogs.com/blog/linux-tiling-wm/)
+12. [最佳Linux窗口管理器详解：从选择到配置的完全指南-极客技术博客](https://geek-blogs.com/blog/best-linux-window-manager/)
+13. [i3窗口管理器终极定制指南丨Linux中国-Linux中国的文章-知乎](https://zhuanlan.zhihu.com/p/640577283)
+14. [为什么我喜欢用bspwm来做我的Linux窗口管理器丨Linux中国-Linux中国的文章-知乎](https://zhuanlan.zhihu.com/p/365764430)
+15. [如何配置linux平铺式窗口管理器i3wm？-新鲜水墨的回答-知乎](https://www.zhihu.com/question/62251457/answer/3082755339)
+16. [如何配置linux平铺式窗口管理器i3wm？-李狗蛋LGD的回答-知乎](https://www.zhihu.com/question/62251457/answer/766512992)
+17. [ArchLinux从零构建易用美观的i3wm+i3bar+rofi+nitrogen桌面环境（一）-Jeek的文章-知乎](https://zhuanlan.zhihu.com/p/23010659665)
+18. [ArchLinux从零构建易用美观的i3wm+i3bar+rofi+nitrogen桌面环境（二）-Jeek的文章-知乎](https://zhuanlan.zhihu.com/p/23356434216)

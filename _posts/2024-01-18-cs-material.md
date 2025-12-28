@@ -122,11 +122,12 @@ pinned: false
 15. [菜鸟教程](https://www.runoob.com)
 16. [极客教程](https://geek-docs.com)
 17. [极客文档](https://geekdaxue.co)
-18. [极客时间](https://time.geekbang.org)
-19. [DataCamp](https://www.datacamp.com)
-20. [Codecademy](https://www.codecademy.com)
-21. [CodeCrafters](https://codecrafters.io)
-22. [W3Cschool](https://www.w3cschool.cn)
+18. [极客技术博客](https://geek-blogs.com)
+19. [极客时间](https://time.geekbang.org)
+20. [DataCamp](https://www.datacamp.com)
+21. [Codecademy](https://www.codecademy.com)
+22. [CodeCrafters](https://codecrafters.io)
+23. [W3Cschool](https://www.w3cschool.cn)
 
 ## 参考
 

@@ -91,12 +91,15 @@ pinned: false
 2. [Moom](https://manytricks.com/moom/)
 3. Pane
 
-## 菜单栏管理
+### 菜单栏管理
 
 1. [Bartender](https://www.macbartender.com)
 2. [One Switch](https://fireball.studio/oneswitch)
 3. [MenubarX](https://menubarx.app)
 4. [iBar](https://www.better365.com/ibar.html)
+5. [SketchyBar](https://felixkratz.github.io/SketchyBar/)
+6. [simple-bar](https://github.com/Jean-Tinland/simple-bar)
+7. [spacebar](https://github.com/cmacrae/spacebar)
 
 ## 办公相关
 

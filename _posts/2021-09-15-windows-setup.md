@@ -79,7 +79,8 @@ pinned: false
 2. [Raycast](https://www.raycast.com)
 3. [Flow Launcher](https://www.flowlauncher.com)
 4. [Launchy](https://launchy.net)
-5. [WinHotKey](https://directedge.us/content/winhotkey/)
+5. [AutoHotkey](https://www.autohotkey.com)
+6. [WinHotKey](https://directedge.us/content/winhotkey/)
 
 #### 工具箱
 
@@ -319,6 +320,24 @@ pinned: false
 4. [Gopeed](https://gopeed.com)
 5. [NeatDownloadManager](https://www.neatdownloadmanager.com/index.php/en/)
 
+#### bilibili
+
+##### 第三方客户端
+
+1. [guozhigq/pilipala](https://github.com/guozhigq/pilipala)
+2. [bggRGjQaUbCoE/PiliPlus](https://github.com/bggRGjQaUbCoE/PiliPlus)
+3. [Richasy/Bili.Copilot](https://github.com/Richasy/Bili.Copilot)
+4. [xfangfang/wiliwili](https://github.com/xfangfang/wiliwili)
+5. [orz12/PiliPalaX](https://github.com/orz12/PiliPalaX)
+6. [10miaomiao/bilimiao2](https://github.com/10miaomiao/bilimiao2)
+
+##### 视频下载
+
+1. [唧唧Down](http://client.jijidown.com)
+2. [yaobiao131/downkyicore](https://github.com/yaobiao131/downkyicore)
+3. [btjawa/BiliTools](https://github.com/btjawa/BiliTools)
+4. [iuroc/bilidown](https://github.com/iuroc/bilidown)
+
 ## 常见问题及解决方法
 
 ### 桌面图标缺失
@@ -373,7 +392,8 @@ pinned: false
 22. [为什么其他办公领域不使用git?-w0fv1.dev的回答-知乎](https://www.zhihu.com/question/329750471/answer/120040678856)
 23. [你用过的最好的代码阅读或编辑工具是什么？-韦易笑的回答-知乎](https://www.zhihu.com/question/19570229/answer/1626066191)
 24. [满足日常需求的应用（三）：图像编辑器丨Linux中国-Linux中国的文章-知乎](https://zhuanlan.zhihu.com/p/407938013)
-25. [Windows 10总是不打招呼就自动更新？教你如何关闭它-少数派的文章-知乎](https://zhuanlan.zhihu.com/p/35590496)
-26. [什么工具可以有效清理"C:\Users\用户名\AppData"目录下的文件？-高灵的回答-知乎](https://www.zhihu.com/question/38011537/answer/296426969)
-27. [Win 10 C盘突然爆满，怎么清理？-坚果云的回答-知乎](https://www.zhihu.com/question/53591010/answer/1115174873)
-28. [windows10系统内存占用莫名其妙非常高怎么解决怎么解决？-mhm的回答-知乎](https://www.zhihu.com/question/359072911/answer/924065793)
+25. [如何评价如今的Bilibili？-路易斯小石的回答-知乎](https://www.zhihu.com/question/266972664/answer/1924123375510464443)
+26. [Windows 10总是不打招呼就自动更新？教你如何关闭它-少数派的文章-知乎](https://zhuanlan.zhihu.com/p/35590496)
+27. [什么工具可以有效清理"C:\Users\用户名\AppData"目录下的文件？-高灵的回答-知乎](https://www.zhihu.com/question/38011537/answer/296426969)
+28. [Win 10 C盘突然爆满，怎么清理？-坚果云的回答-知乎](https://www.zhihu.com/question/53591010/answer/1115174873)
+29. [windows10系统内存占用莫名其妙非常高怎么解决怎么解决？-mhm的回答-知乎](https://www.zhihu.com/question/359072911/answer/924065793)
