@@ -35,6 +35,7 @@ The main repository serves as a curated list of awesome lists.
 3. [jobbole/awesome-cpp-cn](https://github.com/jobbole/awesome-cpp-cn)
 4. [onqtam/awesome-cmake](https://github.com/onqtam/awesome-cmake)
 5. [p-ranav/awesome-hpp](https://github.com/p-ranav/awesome-hpp)
+6. [fenbf/AwesomePerfCpp](https://github.com/fenbf/AwesomePerfCpp)
 
 ## Python
 

@@ -49,10 +49,11 @@ pinned: false
 3. calendar
 4. sleep
 5. time
-6. [poetaman/arttime](https://github.com/poetaman/arttime)
-7. [octobanana/peaclock](https://github.com/octobanana/peaclock)
-8. [coolcode/tomato-clock](https://github.com/coolcode/tomato-clock)
-9. [lucassabreu/clockify-cli](https://github.com/lucassabreu/clockify-cli)
+6. timedatectl
+7. [poetaman/arttime](https://github.com/poetaman/arttime)
+8. [octobanana/peaclock](https://github.com/octobanana/peaclock)
+9. [coolcode/tomato-clock](https://github.com/coolcode/tomato-clock)
+10. [lucassabreu/clockify-cli](https://github.com/lucassabreu/clockify-cli)
 
 ## 计算器
 

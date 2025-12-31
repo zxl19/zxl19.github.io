@@ -66,7 +66,7 @@ SLAM方向面试题存档。
 2. [十大经典排序算法-菜鸟教程](https://www.runoob.com/w3cnote/ten-sorting-algorithm.html)
 3. [排序算法总结-菜鸟教程](https://www.runoob.com/w3cnote/sort-algorithm-summary.html)
 
-### 算法杂谈
+### 杂谈
 
 1. [有哪些算法惊艳到了你？-Yixiao Huang的回答-知乎](https://www.zhihu.com/question/26934313/answer/3528590082)
 2. [哪些看似毫不相干的事物具有相同的数学原理？-CodeCrafter的回答-知乎](https://www.zhihu.com/question/58369008/answer/1974913252715688840)

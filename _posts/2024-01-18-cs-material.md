@@ -103,6 +103,11 @@ pinned: false
 2. [FEX-Emu/FEX](https://github.com/FEX-Emu/FEX)
 3. [InkboxSoftware/excelCPU](https://github.com/InkboxSoftware/excelCPU)
 
+## 杂谈
+
+1. [计算机领域有哪些经典的典故或笑话？-绅士提督不笑船的回答-知乎](https://www.zhihu.com/question/20034686/answer/20646787)
+2. [计算机科学领域有什么笑话？-林致远Jerry的回答-知乎](https://www.zhihu.com/question/280415174/answer/3007182684)
+
 ## 网站
 
 1. [Developer Roadmaps](https://roadmap.sh)
