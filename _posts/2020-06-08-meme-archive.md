@@ -307,6 +307,10 @@ Meme这个词最初源自英国著名科学家理查德·道金斯所著的《�
 
 1. [cobalt](https://cobalt.tools)
 
+### 文件互传
+
+1. [Snapdrop](https://snapdrop.net)
+
 ## 生活
 
 ### 做饭
@@ -419,6 +423,7 @@ Meme这个词最初源自英国著名科学家理查德·道金斯所著的《�
 54. [yeun/open-color](https://github.com/yeun/open-color)
 55. [古籍整理常用工具网站合集-屠龙少年周旭的文章-知乎](https://zhuanlan.zhihu.com/p/609976456)
 56. [imputnet/cobalt](https://github.com/imputnet/cobalt)
-57. [要命！《程序员延寿指南》火爆GitHub，日涨1500+星，跟着码农干多活20年-量子位的文章-知乎](https://zhuanlan.zhihu.com/p/502393797)
-58. [chinese-poetry/chinese-poetry](https://github.com/chinese-poetry/chinese-poetry)
-59. [chinese-poetry/huajianji](https://github.com/chinese-poetry/huajianji)
+57. [SnapDrop/snapdrop](https://github.com/SnapDrop/snapdrop)
+58. [要命！《程序员延寿指南》火爆GitHub，日涨1500+星，跟着码农干多活20年-量子位的文章-知乎](https://zhuanlan.zhihu.com/p/502393797)
+59. [chinese-poetry/chinese-poetry](https://github.com/chinese-poetry/chinese-poetry)
+60. [chinese-poetry/huajianji](https://github.com/chinese-poetry/huajianji)

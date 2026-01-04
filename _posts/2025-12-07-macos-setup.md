@@ -9,7 +9,7 @@ toc: true
 pinned: false
 ---
 
-我的macOS独占应用存档。
+我的macOS**独占**应用存档。
 
 <!-- more -->
 
@@ -28,6 +28,12 @@ pinned: false
 1. [MonitorControl](https://github.com/MonitorControl/MonitorControl)
 2. [BetterDisplay](https://github.com/waydabber/BetterDisplay)
 3. [Lunar](https://lunar.fyi)
+
+### 鼠标管理
+
+1. [Mos](https://mos.caldis.me)
+2. [Mac Mouse Fix](https://macmousefix.com/en/)
+3. [LinearMouse](https://linearmouse.app)
 
 ### 电池管理
 
@@ -53,7 +59,7 @@ pinned: false
 1. [AppCleaner](https://freemacsoft.net/appcleaner/)
 2. [XApp](https://www.better365.com/xapp.html)
 
-### 启动器
+### 自动化
 
 1. [Alfred](https://www.alfredapp.com)
 
@@ -67,8 +73,14 @@ pinned: false
     - [hzlzh/Alfred-Workflows](https://github.com/hzlzh/Alfred-Workflows)
 
 2. [Keyboard Maestro](https://www.keyboardmaestro.com/main/)
-3. [LaunchBar](https://obdev.at/products/launchbar/index.html)
-4. [Manico](https://manico.im)
+3. Automator
+
+### 启动器
+
+1. [LaunchBar](https://obdev.at/products/launchbar/index.html)
+2. [SpaceLauncher](https://spacelauncherapp.com)
+3. [Manico](https://manico.im)
+4. [AltTab](https://alt-tab-macos.netlify.app)
 5. [超级右键](https://www.better365.com/irightmouse.html)
 6. [iDock](https://www.better365.com/idock.html)
 7. [iTab](https://www.better365.com/itab.html)
@@ -118,6 +130,8 @@ pinned: false
 
 1. [CleanShot](https://cleanshot.com)
 2. [iShot](https://www.better365.com/ishot.html)
+3. [QuickRecorder](https://lihaoyun6.github.io/quickrecorder/)
+4. ScreenFlow
 
 ## 剪切板
 
@@ -172,11 +186,11 @@ pinned: false
 
 ## 娱乐相关
 
-### 摄影后期
+### 照片后期
 
 1. [Darkroom](https://darkroom.co)
 
-### 视频剪辑
+### 视频后期
 
 1. [Final Cut Pro](https://www.apple.com/final-cut-pro/)
 2. [Permute](https://software.charliemonroe.net/permute/)
@@ -200,17 +214,23 @@ pinned: false
 2. [Better365](https://www.better365.com)
 3. [Toolinbox](https://toolinbox.net)
 
+## 教程
+
+1. [第一次用Mac？Windows用户的丝滑过渡指南](https://www.bilibili.com/video/BV1nUvpBQEuF/)
+2. [你真的需要一台苹果电脑吗？丨macOS上手体验](https://www.bilibili.com/video/BV1rr4y1A7yG/)
+
 ## 参考
 
 1. [一日一技丨如何只用软件实现显示器的输入源切换-少数派](https://sspai.com/post/83908)
 2. [Windows/Mac多显示器管理软件汇总-梁川的文章-知乎](https://zhuanlan.zhihu.com/p/695030956)
-3. [macOS优质APP应用合集-朗开森的文章-知乎](https://zhuanlan.zhihu.com/p/408506775)
-4. [作为Mac专业户，推荐你试试这10款丝滑的Mac软件-少数派](https://sspai.com/post/81362)
-5. [MacBook在最新macOS上依然好用到吹爆的软件（一）-JerryChen的文章-知乎](https://zhuanlan.zhihu.com/p/159639725)
-6. [MacBook在最新macOS上依然好用到吹爆的软件（二）-JerryChen的文章-知乎](https://zhuanlan.zhihu.com/p/366173625)
-7. [这13个小工具，让我的Mac菜单栏更好用-少数派](https://sspai.com/post/56160)
-8. [这13个小工具，让你的Mac菜单栏更好用-少数派的文章-知乎](https://zhuanlan.zhihu.com/p/77713683)
-9. [Mac App Store上有哪些值得购买的付费软件（应用）？-hzlzh的回答-知乎](https://www.zhihu.com/question/21503296/answer/20951469)
-10. [Mac App Store上有哪些值得购买的付费软件（应用）？-Security Saints的回答-知乎](https://www.zhihu.com/question/21503296/answer/3533580917)
-11. [Mac App Store上有哪些值得购买的付费软件（应用）？-王飞的回答-知乎](https://www.zhihu.com/question/21503296/answer/21028357)
-12. [Mac App Store上有哪些值得购买的付费软件（应用）？-Lawrence Li的回答-知乎](https://www.zhihu.com/question/21503296/answer/21029219)
+3. [Mac电脑最值得推荐的17个软件！【BB Time第487期】-bilibili](https://www.bilibili.com/video/BV1EhadzHEv3/)
+4. [macOS优质APP应用合集-朗开森的文章-知乎](https://zhuanlan.zhihu.com/p/408506775)
+5. [作为Mac专业户，推荐你试试这10款丝滑的Mac软件-少数派](https://sspai.com/post/81362)
+6. [MacBook在最新macOS上依然好用到吹爆的软件（一）-JerryChen的文章-知乎](https://zhuanlan.zhihu.com/p/159639725)
+7. [MacBook在最新macOS上依然好用到吹爆的软件（二）-JerryChen的文章-知乎](https://zhuanlan.zhihu.com/p/366173625)
+8. [这13个小工具，让我的Mac菜单栏更好用-少数派](https://sspai.com/post/56160)
+9. [这13个小工具，让你的Mac菜单栏更好用-少数派的文章-知乎](https://zhuanlan.zhihu.com/p/77713683)
+10. [Mac App Store上有哪些值得购买的付费软件（应用）？-hzlzh的回答-知乎](https://www.zhihu.com/question/21503296/answer/20951469)
+11. [Mac App Store上有哪些值得购买的付费软件（应用）？-Security Saints的回答-知乎](https://www.zhihu.com/question/21503296/answer/3533580917)
+12. [Mac App Store上有哪些值得购买的付费软件（应用）？-王飞的回答-知乎](https://www.zhihu.com/question/21503296/answer/21028357)
+13. [Mac App Store上有哪些值得购买的付费软件（应用）？-Lawrence Li的回答-知乎](https://www.zhihu.com/question/21503296/answer/21029219)

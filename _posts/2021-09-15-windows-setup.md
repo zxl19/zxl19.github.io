@@ -56,7 +56,11 @@ pinned: false
 
 1. [Spacesniffer](http://www.uderzo.it/main_products/space_sniffer/)
 2. [CCleaner](https://www.ccleaner.com)
-3. [Recuva](https://www.ccleaner.com/recuva)
+
+#### 数据恢复
+
+1. [Disk Drill](https://www.disk-drill.com)
+2. [Recuva](https://www.ccleaner.com/recuva)
 
 #### 软件卸载
 
@@ -122,8 +126,9 @@ pinned: false
 #### 截图录屏工具
 
 1. [ShareX](https://getsharex.com)
-2. [Snipaste](https://www.snipaste.com)
-3. [ZoomIt](https://learn.microsoft.com/en-us/sysinternals/downloads/zoomit)
+2. [PixPin](https://pixpin.cn)
+3. [Snipaste](https://www.snipaste.com)
+4. [ZoomIt](https://learn.microsoft.com/en-us/sysinternals/downloads/zoomit)
 
 #### 番茄钟
 
@@ -146,6 +151,11 @@ pinned: false
 1. [TeamViewer](https://www.teamviewer.com)
 2. [ToDesk](https://www.todesk.com)
 3. [向日葵](https://sunlogin.oray.com)
+
+#### 文件互传
+
+1. [LocalSend](https://localsend.org)
+2. [LANDrop](https://landrop.app)
 
 #### Microsoft Office
 
@@ -271,14 +281,14 @@ pinned: false
 
 ### 娱乐相关
 
-#### 摄影后期
+#### 照片后期
 
 1. [Adobe DNG Converter](https://helpx.adobe.com/camera-raw/using/adobe-dng-converter.html)
 2. [Luminar Neo](https://skylum.com)
 3. [RawTherapee](http://rawtherapee.com)
 4. [尼康工坊](https://www.nikon.com.cn/sc_CN/product/software/nx-studio)
 
-#### 视频剪辑
+#### 视频后期
 
 1. [格式工厂](http://www.pcfreetime.com/formatfactory/CN/index.html)
 2. [万兴喵影](https://miao.wondershare.cn)
@@ -376,24 +386,25 @@ pinned: false
 6. [你最满意的10款PC软件是什么？-IsNullOrEmpty的回答-知乎](https://www.zhihu.com/question/469450888/answer/1899028283573634437)
 7. [Windows有哪些强烈不建议装的软件？-一大大的回答-知乎](https://www.zhihu.com/question/392313958/answer/1199936945)
 8. [最良心的软件可以良心到什么程度？-玩家翁伟的回答-知乎](https://www.zhihu.com/question/52157612/answer/756777411)
-9. [程序员的Windows工具箱「GitHub 热点速览」-HelloGitHub的文章-知乎](https://zhuanlan.zhihu.com/p/631389850)
-10. [111-硬盘状态检测工具CrystalDiskInfo-bsworld的文章-知乎](https://zhuanlan.zhihu.com/p/621817951)
-11. [硬盘坏道检测软件HDTune、DiskGenius、MHDD有什么区别？哪一个检测更准确？-雲在青天水在瓶的回答-知乎](https://www.zhihu.com/question/508943113/answer/2537752096)
-12. [一日一技丨如何只用软件实现显示器的输入源切换-少数派](https://sspai.com/post/83908)
-13. [Windows/Mac多显示器管理软件汇总-梁川的文章-知乎](https://zhuanlan.zhihu.com/p/695030956)
-14. [Windows操作系统，在双显示器的情况下如何选择在哪个显示器打开文件？-我脚还没喝红呢的回答-知乎](https://www.zhihu.com/question/54982919/answer/221848071)
-15. [Total Commander这款软件使用体验如何，有哪些优点和不足？-韦易笑的回答-知乎](https://www.zhihu.com/question/21616258/answer/1545629286)
-16. [有什么值得推荐的文件管理软件？-GitHub Daily的回答-知乎](https://www.zhihu.com/question/470833285/answer/1982181519889040143)
-17. [微软复活20年前生产力工具PowerToys，填补Win10缺失功能，开源且免费-量子位的文章-知乎](https://zhuanlan.zhihu.com/p/166292161)
-18. [适用于Linux系统的最佳白板应用丨Linux中国-Linux中国的文章-知乎](https://zhuanlan.zhihu.com/p/467327167)
-19. [代码对比工具，就用这7个！-李二狗的文章-知乎](https://zhuanlan.zhihu.com/p/375551784)
-20. [不喜欢diff么？试试Meld吧丨Linux中国-Linux中国的文章-知乎](https://zhuanlan.zhihu.com/p/124017201)
-21. [使用Meld在Linux中以图形方式比较文件和文件夹丨Linux中国-Linux中国的文章-知乎](https://zhuanlan.zhihu.com/p/317628626)
-22. [为什么其他办公领域不使用git?-w0fv1.dev的回答-知乎](https://www.zhihu.com/question/329750471/answer/120040678856)
-23. [你用过的最好的代码阅读或编辑工具是什么？-韦易笑的回答-知乎](https://www.zhihu.com/question/19570229/answer/1626066191)
-24. [满足日常需求的应用（三）：图像编辑器丨Linux中国-Linux中国的文章-知乎](https://zhuanlan.zhihu.com/p/407938013)
-25. [如何评价如今的Bilibili？-路易斯小石的回答-知乎](https://www.zhihu.com/question/266972664/answer/1924123375510464443)
-26. [Windows 10总是不打招呼就自动更新？教你如何关闭它-少数派的文章-知乎](https://zhuanlan.zhihu.com/p/35590496)
-27. [什么工具可以有效清理"C:\Users\用户名\AppData"目录下的文件？-高灵的回答-知乎](https://www.zhihu.com/question/38011537/answer/296426969)
-28. [Win 10 C盘突然爆满，怎么清理？-坚果云的回答-知乎](https://www.zhihu.com/question/53591010/answer/1115174873)
-29. [windows10系统内存占用莫名其妙非常高怎么解决怎么解决？-mhm的回答-知乎](https://www.zhihu.com/question/359072911/answer/924065793)
+9. [Mac电脑最值得推荐的17个软件！【BB Time第487期】-bilibili](https://www.bilibili.com/video/BV1EhadzHEv3/)
+10. [程序员的Windows工具箱「GitHub 热点速览」-HelloGitHub的文章-知乎](https://zhuanlan.zhihu.com/p/631389850)
+11. [111-硬盘状态检测工具CrystalDiskInfo-bsworld的文章-知乎](https://zhuanlan.zhihu.com/p/621817951)
+12. [硬盘坏道检测软件HDTune、DiskGenius、MHDD有什么区别？哪一个检测更准确？-雲在青天水在瓶的回答-知乎](https://www.zhihu.com/question/508943113/answer/2537752096)
+13. [一日一技丨如何只用软件实现显示器的输入源切换-少数派](https://sspai.com/post/83908)
+14. [Windows/Mac多显示器管理软件汇总-梁川的文章-知乎](https://zhuanlan.zhihu.com/p/695030956)
+15. [Windows操作系统，在双显示器的情况下如何选择在哪个显示器打开文件？-我脚还没喝红呢的回答-知乎](https://www.zhihu.com/question/54982919/answer/221848071)
+16. [Total Commander这款软件使用体验如何，有哪些优点和不足？-韦易笑的回答-知乎](https://www.zhihu.com/question/21616258/answer/1545629286)
+17. [有什么值得推荐的文件管理软件？-GitHub Daily的回答-知乎](https://www.zhihu.com/question/470833285/answer/1982181519889040143)
+18. [微软复活20年前生产力工具PowerToys，填补Win10缺失功能，开源且免费-量子位的文章-知乎](https://zhuanlan.zhihu.com/p/166292161)
+19. [适用于Linux系统的最佳白板应用丨Linux中国-Linux中国的文章-知乎](https://zhuanlan.zhihu.com/p/467327167)
+20. [代码对比工具，就用这7个！-李二狗的文章-知乎](https://zhuanlan.zhihu.com/p/375551784)
+21. [不喜欢diff么？试试Meld吧丨Linux中国-Linux中国的文章-知乎](https://zhuanlan.zhihu.com/p/124017201)
+22. [使用Meld在Linux中以图形方式比较文件和文件夹丨Linux中国-Linux中国的文章-知乎](https://zhuanlan.zhihu.com/p/317628626)
+23. [为什么其他办公领域不使用git?-w0fv1.dev的回答-知乎](https://www.zhihu.com/question/329750471/answer/120040678856)
+24. [你用过的最好的代码阅读或编辑工具是什么？-韦易笑的回答-知乎](https://www.zhihu.com/question/19570229/answer/1626066191)
+25. [满足日常需求的应用（三）：图像编辑器丨Linux中国-Linux中国的文章-知乎](https://zhuanlan.zhihu.com/p/407938013)
+26. [如何评价如今的Bilibili？-路易斯小石的回答-知乎](https://www.zhihu.com/question/266972664/answer/1924123375510464443)
+27. [Windows 10总是不打招呼就自动更新？教你如何关闭它-少数派的文章-知乎](https://zhuanlan.zhihu.com/p/35590496)
+28. [什么工具可以有效清理"C:\Users\用户名\AppData"目录下的文件？-高灵的回答-知乎](https://www.zhihu.com/question/38011537/answer/296426969)
+29. [Win 10 C盘突然爆满，怎么清理？-坚果云的回答-知乎](https://www.zhihu.com/question/53591010/answer/1115174873)
+30. [windows10系统内存占用莫名其妙非常高怎么解决怎么解决？-mhm的回答-知乎](https://www.zhihu.com/question/359072911/answer/924065793)

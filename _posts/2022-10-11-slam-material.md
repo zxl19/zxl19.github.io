@@ -288,6 +288,11 @@ pinned: false
 1. [GeekLiB/AR-Source](https://github.com/GeekLiB/AR-Source)
 2. [GeekLiB/Lee-VR-Source](https://github.com/GeekLiB/Lee-VR-Source)
 
+## NeRF&3DGS
+
+1. [yangjiheng/nerf_and_beyond_docs](https://github.com/yangjiheng/nerf_and_beyond_docs)
+2. [yangjiheng/3DGS_and_Beyond_Docs](https://github.com/yangjiheng/3DGS_and_Beyond_Docs)
+
 ## 参考
 
 1. [超全SLAM学习资源汇总-阿木实验室的文章-知乎](https://zhuanlan.zhihu.com/p/116769131)
@@ -307,3 +312,4 @@ pinned: false
 15. [一些不实用的惯性导航数据处理方法简介-yangongmin的文章-知乎](https://zhuanlan.zhihu.com/p/649070056)
 16. [组合导航-开源工程推荐-郭洋的文章-知乎](https://zhuanlan.zhihu.com/p/640781392)
 17. [请问怎么提升C++水平?-悲伤依赖的回答-知乎](https://www.zhihu.com/question/632624052/answer/1979597148547989763)
+18. [PID的600页狂飙：一本让作者都怀疑人生的控制“圣经”-萧然的文章-知乎](https://zhuanlan.zhihu.com/p/1983908539853472150)
