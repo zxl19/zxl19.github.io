@@ -71,6 +71,7 @@ sudo apt install peek
 3. [GNOME/gimp](https://github.com/GNOME/gimp)
 4. [shutter-project/shutter](https://github.com/shutter-project/shutter)
 5. [hzbd/kazam](https://github.com/hzbd/kazam)
+6. [KDE/spectacle](https://github.com/KDE/spectacle)
 
 ## 参考
 

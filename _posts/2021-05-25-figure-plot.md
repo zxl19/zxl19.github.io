@@ -143,15 +143,19 @@ pinned: false
 
 ### 常用工具
 
-1. [Excalidraw](https://excalidraw.com)
+1. [Krita](https://krita.org/en/)
+
+    - [KDE/krita](https://github.com/KDE/krita)
+
+2. [Excalidraw](https://excalidraw.com)
 
     - [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw)
 
-2. [tldraw](https://www.tldraw.com)
+3. [tldraw](https://www.tldraw.com)
 
     - [tldraw/tldraw](https://github.com/tldraw/tldraw)
 
-3. [Revezone](https://revezone.com/index.html)
+4. [Revezone](https://revezone.com/index.html)
 
     - [korbinzhao/excalidraw-cn](https://github.com/korbinzhao/excalidraw-cn)
     - [korbinzhao/obsidian-excalidraw-cn-plugin](https://github.com/korbinzhao/obsidian-excalidraw-cn-plugin)

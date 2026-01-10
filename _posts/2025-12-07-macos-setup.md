@@ -79,11 +79,15 @@ pinned: false
 
 1. [LaunchBar](https://obdev.at/products/launchbar/index.html)
 2. [SpaceLauncher](https://spacelauncherapp.com)
-3. [Manico](https://manico.im)
-4. [AltTab](https://alt-tab-macos.netlify.app)
-5. [超级右键](https://www.better365.com/irightmouse.html)
-6. [iDock](https://www.better365.com/idock.html)
-7. [iTab](https://www.better365.com/itab.html)
+3. [超级右键](https://www.better365.com/irightmouse.html)
+4. Spotlight
+
+### 窗口管理
+
+1. [Manico](https://manico.im)
+2. [AltTab](https://alt-tab-macos.netlify.app)
+3. [iDock](https://www.better365.com/idock.html)
+4. [iTab](https://www.better365.com/itab.html)
 
 ### 快捷键大全
 

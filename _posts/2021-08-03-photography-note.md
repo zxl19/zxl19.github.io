@@ -151,9 +151,10 @@ pinned: false
 1. [GyroFlow](https://gyroflow.xyz)
 2. [HandBrake](https://handbrake.fr)
 3. [Permute](https://software.charliemonroe.net/permute/)
-4. [格式工厂](http://www.pcgeshi.com)
-5. [视频大拍档](https://spdpd.net/)
-6. [万兴喵影](https://www.wondershare.cn)
+4. [Kdenlive](https://apps.kde.org/kdenlive/)
+5. [格式工厂](http://www.pcgeshi.com)
+6. [视频大拍档](https://spdpd.net/)
+7. [万兴喵影](https://www.wondershare.cn)
 
 ### 教程
 
