@@ -124,8 +124,10 @@ pinned: false
 
 1. [从SLAM到Spatial AI，传统SLAMer该何去何从？-郑纯然Range的文章-知乎](https://zhuanlan.zhihu.com/p/1925623885379909421)
 2. [为什么说传统SLAM已死？-半闲居士的回答-知乎](https://www.zhihu.com/question/1975877695788319146/answer/1984729591387018450)
-3. [为什么说传统SLAM已死？-Immortalqx的回答-知乎](https://www.zhihu.com/question/1975877695788319146/answer/1976430813492028679)
-4. [SLAM技术会是一场泡沫吗？-forward的回答-知乎](https://www.zhihu.com/question/269729796/answer/16988238164)
+3. [为什么说传统SLAM已死？-Catalina的回答-知乎](https://www.zhihu.com/question/1975877695788319146/answer/1986069991439766990)
+4. [为什么说传统SLAM已死？-Immortalqx的回答-知乎](https://www.zhihu.com/question/1975877695788319146/answer/1976430813492028679)
+5. [为什么说传统SLAM已死？-forward的回答-知乎](https://www.zhihu.com/question/1975877695788319146/answer/1989089312277550882)
+6. [SLAM技术会是一场泡沫吗？-forward的回答-知乎](https://www.zhihu.com/question/269729796/answer/16988238164)
 
 ## 卡尔曼滤波
 
@@ -198,7 +200,8 @@ pinned: false
 7. [diegoavillegasg/IMU-GNSS-Lidar-sensor-fusion-using-Extended-Kalman-Filter-for-State-Estimation](https://github.com/diegoavillegasg/IMU-GNSS-Lidar-sensor-fusion-using-Extended-Kalman-Filter-for-State-Estimation)
 8. [aipiano/ESEKF_IMU](https://github.com/aipiano/ESEKF_IMU)
 9. [soarbear/imu_ekf](https://github.com/soarbear/imu_ekf)
-10. [jnez71/kalmaNN](https://github.com/jnez71/kalmaNN)
+10. [jnz/KFCore](https://github.com/jnz/KFCore)
+11. [jnez71/kalmaNN](https://github.com/jnez71/kalmaNN)
 
 #### C++
 

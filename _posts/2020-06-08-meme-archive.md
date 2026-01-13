@@ -67,7 +67,12 @@ Meme这个词最初源自英国著名科学家理查德·道金斯所著的《�
 3. [comfyanonymous/ComfyUI](https://github.com/comfyanonymous/ComfyUI)
 4. [lllyasviel/Fooocus](https://github.com/lllyasviel/Fooocus)
 5. [mylxsw/aidea](https://github.com/mylxsw/aidea)
-6. [prompt-engineering/understand-prompt](https://github.com/prompt-engineering/understand-prompt)
+
+### 提示词
+
+1. [EnzeD/vibe-coding](https://github.com/EnzeD/vibe-coding)
+2. [tukuaiai/vibe-coding-cn](https://github.com/tukuaiai/vibe-coding-cn)
+3. [prompt-engineering/understand-prompt](https://github.com/prompt-engineering/understand-prompt)
 
 ## 测试
 
@@ -88,21 +93,36 @@ Meme这个词最初源自英国著名科学家理查德·道金斯所著的《�
 
 ## 编程语言
 
+### 高可读性
+
+1. [wenyan-lang/wenyan](https://github.com/wenyan-lang/wenyan)
+2. [zhanyong-wan/dongbei](https://github.com/zhanyong-wan/dongbei)
+3. [StepfenShawn/Cantonese](https://github.com/StepfenShawn/Cantonese)
+4. [Rick-Lang/rickroll-lang](https://github.com/Rick-Lang/rickroll-lang)
+
+### 低可读性
+
+1. [HexHive/printbf](https://github.com/HexHive/printbf)
+2. [fabianishere/brainfuck](https://github.com/fabianishere/brainfuck)
+3. [matslina/awib](https://github.com/matslina/awib)
+4. [pocmo/Python-Brainfuck](https://github.com/pocmo/Python-Brainfuck)
+5. [Romejanic/Whitespace](https://github.com/Romejanic/Whitespace)
+6. [CarbonicX/HyperFuck](https://github.com/CarbonicX/HyperFuck)
+
+### 何语言
+
+1. [SAOKnight/helang](https://github.com/SAOKnight/helang)
+2. [Timothy-Liuxf/HeLangCppMetaImpl](https://github.com/Timothy-Liuxf/HeLangCppMetaImpl)
+
+## 代码仓库
+
 1. [kelseyhightower/nocode](https://github.com/kelseyhightower/nocode)
-2. [wenyan-lang/wenyan](https://github.com/wenyan-lang/wenyan)
-3. [zhanyong-wan/dongbei](https://github.com/zhanyong-wan/dongbei)
-4. [duo001/evil.js](https://github.com/duo001/evil.js)
-5. [AasishPokhrel/shit](https://github.com/AasishPokhrel/shit)
-6. [StepfenShawn/Cantonese](https://github.com/StepfenShawn/Cantonese)
-7. [Rick-Lang/rickroll-lang](https://github.com/Rick-Lang/rickroll-lang)
-8. [HexHive/printbf](https://github.com/HexHive/printbf)
-9. [fabianishere/brainfuck](https://github.com/fabianishere/brainfuck)
-10. [matslina/awib](https://github.com/matslina/awib)
-11. [pocmo/Python-Brainfuck](https://github.com/pocmo/Python-Brainfuck)
-12. [CarbonicX/HyperFuck](https://github.com/CarbonicX/HyperFuck)
-13. [SAOKnight/helang](https://github.com/SAOKnight/helang)
-14. [Romejanic/Whitespace](https://github.com/Romejanic/Whitespace)
-15. [Timothy-Liuxf/HeLangCppMetaImpl](https://github.com/Timothy-Liuxf/HeLangCppMetaImpl)
+2. [AasishPokhrel/shit](https://github.com/AasishPokhrel/shit)
+
+## 恶作剧项目
+
+1. [jayphelps/git-blame-someone-else](https://github.com/jayphelps/git-blame-someone-else)
+2. [duo001/evil.js](https://github.com/duo001/evil.js)
 
 ## 游戏
 
