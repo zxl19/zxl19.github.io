@@ -156,10 +156,11 @@ Meme这个词最初源自英国著名科学家理查德·道金斯所著的《�
 13. [Norman the Necromancer](https://js13kgames.com/entries/norman-the-necromancer)
 14. [Sandtrix](https://www.sandtrix.net)
 15. [Sandtrix](https://mslivo.itch.io/sandtrix)
-16. [Wplace](https://wplace.live)
-17. [Wplace.live Guide](https://wplace.life)
-18. [Wplace Info](https://wplace.info)
-19. [Wigglypaint](https://www.wigglypaint.art)
+16. [SquishyGo](https://puyogo.app/en/)
+17. [Wplace](https://wplace.live)
+18. [Wplace.live Guide](https://wplace.life)
+19. [Wplace Tools](https://wplace.info)
+20. [Wigglypaint](https://www.wigglypaint.art)
 
 ### 兼容层
 
@@ -192,7 +193,8 @@ Meme这个词最初源自英国著名科学家理查德·道金斯所著的《�
 
 #### 游戏外挂
 
-1. [ufrisk/pcileech](https://github.com/ufrisk/pcileech)
+1. [dyang886/Game-Cheats-Manager](https://github.com/dyang886/Game-Cheats-Manager)
+2. [ufrisk/pcileech](https://github.com/ufrisk/pcileech)
 
 #### 登月计划
 

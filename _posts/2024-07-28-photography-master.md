@@ -20,6 +20,7 @@ pinned: false
 3. [Robert Doisneau](https://www.robert-doisneau.com/en/)
 4. [Elliott Erwitt](https://www.elliotterwitt.com)
 5. [Jeff Mermelstein](https://www.icp.org/browse/archive/constituents/jeff-mermelstein)
+6. [Alex Webb](https://www.magnumphotos.com/photographer/alex-webb/)
 
 ## 风光建筑
 

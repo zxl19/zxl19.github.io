@@ -382,6 +382,10 @@ pip install，pip uninstall，拿起pip就是干！
 4. [erdogant/bnlearn](https://github.com/erdogant/bnlearn)
 5. [MaxHalford/sorobn](https://github.com/MaxHalford/sorobn)
 
+### 计算机视觉
+
+1. [ultralytics/ultralytics](https://github.com/ultralytics/ultralytics)
+
 ### 自然语言处理
 
 1. [explosion/spaCy](https://github.com/explosion/spaCy)

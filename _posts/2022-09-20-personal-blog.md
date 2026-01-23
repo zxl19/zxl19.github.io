@@ -134,11 +134,12 @@ pinned: false
 3. [Yuxi Ma](https://mayuxi.com)
 4. [Code Yarns](https://codeyarns.com)
 5. [siboehm](https://siboehm.com)
-6. [Lei Mao's Log Book](https://leimao.github.io)
-7. [Jeremy Feng](https://fengchao.pro)
-8. [MartinLwx](https://martinlwx.github.io)
-9. [Joey's Blog](https://www.fangjin.site)
-10. [Mostafa Samir](https://mostafa-samir.github.io)
+6. [Taylor Kolasinski](https://taylorkolasinski.com)
+7. [Lei Mao's Log Book](https://leimao.github.io)
+8. [Jeremy Feng](https://fengchao.pro)
+9. [MartinLwx](https://martinlwx.github.io)
+10. [Joey's Blog](https://www.fangjin.site)
+11. [Mostafa Samir](https://mostafa-samir.github.io)
 
 ### 算法相关
 
