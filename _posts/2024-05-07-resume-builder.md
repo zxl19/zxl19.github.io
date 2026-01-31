@@ -35,3 +35,4 @@ pinned: false
 
 1. [CV vs. Résumé: What’s the Difference?-Grammarly](https://www.grammarly.com/blog/cv-resume/)
 2. [CV和resume都是简历，但区别是什么？分别怎么写？-沪江的文章-知乎](https://zhuanlan.zhihu.com/p/142099626)
+3. [一个独特的简历生成器，在GitHub开源了！-GitHub Daily的文章-知乎](https://zhuanlan.zhihu.com/p/504859666)

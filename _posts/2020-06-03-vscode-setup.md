@@ -404,6 +404,10 @@ MATLAB语言扩展。
 
 在VS Code中使用Meld、WinMerge、Beyond Compare等软件比较文件差异。
 
+### Mermaid Preview
+
+Mermaid绘图预览支持，类似的扩展还有Markdown Preview Mermaid Support、Mermaid Chart。
+
 ### One Dark Pro
 
 Atom的深色主题，类似的主题还有City Lights theme、Material Theme（会同时安装Community Material Theme和Material Theme Icons）。
@@ -422,6 +426,10 @@ Atom的深色主题，类似的主题还有City Lights theme、Material Theme（
 
 1. `Ctrl`+`Shift`+`P`，输入`Peacock`进行设置；
 2. 颜色设置保存在`.vscode/settings.json`文件中；
+
+### PlantUML
+
+UML图绘制工具，类似的扩展还有UMLet。
 
 ### Polacode
 

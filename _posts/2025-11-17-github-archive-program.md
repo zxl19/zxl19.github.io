@@ -62,6 +62,11 @@ pinned: false
 2. [美国为什么不原封不动照抄50年前载人登月方法？-niconiconi的回答-知乎](https://www.zhihu.com/question/607622786/answer/34064346132)
 3. [Institutional memory and reverse smuggling](https://landley.net/history/mirror/institutional_memory.html)
 
+## Linux内核项目延续性
+
+1. [Linux kernel project continuity](https://github.com/torvalds/linux/blob/master/Documentation/process/conclave.rst)
+2. [Succession: Linux kernel community gets continuity plan for post-Linus era](https://www.theregister.com/2026/01/27/linux_continuity_plan/)
+
 ## GitHub Skyline
 
 ```text

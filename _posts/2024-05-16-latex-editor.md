@@ -37,6 +37,10 @@ pinned: false
 1. 注册账号即可使用；
 2. 如果网页无法访问，可以使用[Overleaf中文版](https://cn.overleaf.com)；
 
+### Prism
+
+在线LaTeX编辑器，集成了GPT大模型。[链接](https://crixet.com)
+
 ## MacOS
 
 1. Texifier [链接](https://www.texifier.com)
@@ -54,5 +58,6 @@ pinned: false
 
 1. [texstudio-org/texstudio](https://github.com/texstudio-org/texstudio)
 2. [overleaf/overleaf](https://github.com/overleaf/overleaf)
-3. [texmacs/texmacs](https://github.com/texmacs/texmacs)
-4. [let-def/texpresso](https://github.com/let-def/texpresso)
+3. [OpenAI凌晨放大招，免费Prism颠覆科研！从摘要到致谢，GPT-5.2包圆-新智元的文章-知乎](https://zhuanlan.zhihu.com/p/1999766590103769954)
+4. [texmacs/texmacs](https://github.com/texmacs/texmacs)
+5. [let-def/texpresso](https://github.com/let-def/texpresso)

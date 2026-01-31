@@ -55,10 +55,11 @@ Meme这个词最初源自英国著名科学家理查德·道金斯所著的《�
 
 1. [维基百科转参考文献](https://m-journal.org)
 2. [狗屁不通文章生成器](https://suulnnka.github.io/BullshitGenerator/index.html)
-3. [vietnh1009/ASCII-generator](https://github.com/vietnh1009/ASCII-generator)
-4. [TheZoraiz/ascii-image-converter](https://github.com/TheZoraiz/ascii-image-converter)
-5. [ArthurSonzogni/Diagon](https://github.com/ArthurSonzogni/Diagon)
-6. [BEPb/image_to_ascii](https://github.com/BEPb/image_to_ascii)
+3. [Wordlist Generator](https://tomas-ortiz.github.io/wordlist-generator/)
+4. [vietnh1009/ASCII-generator](https://github.com/vietnh1009/ASCII-generator)
+5. [TheZoraiz/ascii-image-converter](https://github.com/TheZoraiz/ascii-image-converter)
+6. [ArthurSonzogni/Diagon](https://github.com/ArthurSonzogni/Diagon)
+7. [BEPb/image_to_ascii](https://github.com/BEPb/image_to_ascii)
 
 ### 大模型
 
@@ -90,6 +91,18 @@ Meme这个词最初源自英国著名科学家理查德·道金斯所著的《�
 2. [xkcd](https://xkcd.com)
 3. [LOFFYLLAMA](https://loffyllama.com)
 4. [dinosandcomics](https://dinosandcomics.com)
+
+## 航空航天
+
+### 登月计划
+
+1. [Virtual AGC Home Page](https://www.ibiblio.org/apollo/)
+2. [chrislgarry/Apollo-11](https://github.com/chrislgarry/Apollo-11)
+
+### 两弹一星
+
+1. [NUKEMAP](https://nuclearsecrecy.com/nukemap/)
+2. [MISSILEMAP](https://nuclearsecrecy.com/missilemap/)
 
 ## 编程语言
 
@@ -123,6 +136,15 @@ Meme这个词最初源自英国著名科学家理查德·道金斯所著的《�
 
 1. [jayphelps/git-blame-someone-else](https://github.com/jayphelps/git-blame-someone-else)
 2. [duo001/evil.js](https://github.com/duo001/evil.js)
+
+## 字典
+
+1. [swisskyrepo/PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings)
+2. [danielmiessler/SecLists](https://github.com/danielmiessler/SecLists)
+3. [fuzzdb-project/fuzzdb](https://github.com/fuzzdb-project/fuzzdb)
+4. [Bo0oM/fuzz.txt](https://github.com/Bo0oM/fuzz.txt)
+5. [kkrypt0nn/wordlists](https://github.com/kkrypt0nn/wordlists)
+6. [the-xentropy/samlists](https://github.com/the-xentropy/samlists)
 
 ## 游戏
 
@@ -195,11 +217,6 @@ Meme这个词最初源自英国著名科学家理查德·道金斯所著的《�
 
 1. [dyang886/Game-Cheats-Manager](https://github.com/dyang886/Game-Cheats-Manager)
 2. [ufrisk/pcileech](https://github.com/ufrisk/pcileech)
-
-#### 登月计划
-
-1. [chrislgarry/Apollo-11](https://github.com/chrislgarry/Apollo-11)
-2. [Virtual AGC Home Page](https://www.ibiblio.org/apollo/)
 
 ## 工具箱
 
@@ -417,24 +434,24 @@ Meme这个词最初源自英国著名科学家理查德·道金斯所著的《�
 26. [如何制作出诺贝尔奖获奖者风格的头像？-炼金术士Z的回答-知乎](https://www.zhihu.com/question/66245102/answer/15305016949)
 27. [【人人皆可优雅】注意力积分计算器正式发布-量化调酒师的文章-知乎](https://zhuanlan.zhihu.com/p/20960679909)
 28. [【科普】如何优雅地“注意到”关于e、π的不等式-量化调酒师的文章-知乎](https://zhuanlan.zhihu.com/p/669285539)
-29. [Ideosorter/ideosorter.github.io](https://github.com/Ideosorter/ideosorter.github.io)
-30. [LeftValues/leftvalues.github.io](https://github.com/LeftValues/leftvalues.github.io)
-31. [rightvaluestest/rightvaluestest.github.io](https://github.com/rightvaluestest/rightvaluestest.github.io)
-32. [一个独特的简历生成器，在GitHub开源了！-GitHub Daily的文章-知乎](https://zhuanlan.zhihu.com/p/504859666)
-33. [噫吁嚱！文言文亦能编程！此诚年度最骚语言也-量子位的文章-知乎](https://zhuanlan.zhihu.com/p/97985273)
-34. [你以为文言编程只是闹着玩？三个月后，人家IDE、教程、包管理器都有了-机器之心的文章-知乎](https://zhuanlan.zhihu.com/p/112650761)
-35. [Brainfuck-Wikipedia](https://en.wikipedia.org/wiki/Brainfuck)
-36. [Shit It Until You Make It——先做shit，再做好-hzwer黄哲威的文章-知乎](https://zhuanlan.zhihu.com/p/1916499660408873801)
-37. [童年圆梦合集！100款经典游戏全通关解说！【B站独播】-bilibili](https://www.bilibili.com/video/BV15u4y1M78g/)
-38. [很适合上班时间打开的8个摸鱼必备网站，千万别让领导看到！-bilibili](https://www.bilibili.com/video/BV16u411d7N3/)
-39. [为什么面对读博大家都那么悲观？-温酒煮咖啡的回答-知乎](https://www.zhihu.com/question/439204161/answer/3107116546)
-40. [红警代码竟然在GitHub上开源了！！！-GitHub Daily的文章-知乎](https://zhuanlan.zhihu.com/p/146383298)
-41. [js13kGames](https://js13kgames.com)
-42. [js13kGames 2022 winners](https://github.blog/2022-10-06-js13k-2022-winners/)
-43. [ValveSoftware/Proton](https://github.com/ValveSoftware/Proton)
-44. [lutris/lutris](https://github.com/lutris/lutris)
-45. [有哪些小众的开源项目养活了一大批人?-精神康复科李主任的回答-知乎](https://www.zhihu.com/question/489866711/answer/1960027826704065437)
-46. [耗时三年，14万行，50年前阿波罗11号登月的全部代码都能在GitHub找到了！-数据汪的文章-知乎](https://zhuanlan.zhihu.com/p/74453787)
+29. [Tomas-Ortiz/wordlist-generator](https://github.com/Tomas-Ortiz/wordlist-generator)
+30. [Ideosorter/ideosorter.github.io](https://github.com/Ideosorter/ideosorter.github.io)
+31. [LeftValues/leftvalues.github.io](https://github.com/LeftValues/leftvalues.github.io)
+32. [rightvaluestest/rightvaluestest.github.io](https://github.com/rightvaluestest/rightvaluestest.github.io)
+33. [耗时三年，14万行，50年前阿波罗11号登月的全部代码都能在GitHub找到了！-数据汪的文章-知乎](https://zhuanlan.zhihu.com/p/74453787)
+34. [噫吁嚱！文言文亦能编程！此诚年度最骚语言也-量子位的文章-知乎](https://zhuanlan.zhihu.com/p/97985273)
+35. [你以为文言编程只是闹着玩？三个月后，人家IDE、教程、包管理器都有了-机器之心的文章-知乎](https://zhuanlan.zhihu.com/p/112650761)
+36. [Brainfuck-Wikipedia](https://en.wikipedia.org/wiki/Brainfuck)
+37. [Shit It Until You Make It——先做shit，再做好-hzwer黄哲威的文章-知乎](https://zhuanlan.zhihu.com/p/1916499660408873801)
+38. [童年圆梦合集！100款经典游戏全通关解说！【B站独播】-bilibili](https://www.bilibili.com/video/BV15u4y1M78g/)
+39. [很适合上班时间打开的8个摸鱼必备网站，千万别让领导看到！-bilibili](https://www.bilibili.com/video/BV16u411d7N3/)
+40. [为什么面对读博大家都那么悲观？-温酒煮咖啡的回答-知乎](https://www.zhihu.com/question/439204161/answer/3107116546)
+41. [红警代码竟然在GitHub上开源了！！！-GitHub Daily的文章-知乎](https://zhuanlan.zhihu.com/p/146383298)
+42. [js13kGames](https://js13kgames.com)
+43. [js13kGames 2022 winners](https://github.blog/2022-10-06-js13k-2022-winners/)
+44. [ValveSoftware/Proton](https://github.com/ValveSoftware/Proton)
+45. [lutris/lutris](https://github.com/lutris/lutris)
+46. [有哪些小众的开源项目养活了一大批人?-精神康复科李主任的回答-知乎](https://www.zhihu.com/question/489866711/answer/1960027826704065437)
 47. [CorentinTh/it-tools](https://github.com/CorentinTh/it-tools)
 48. [runningcheese/Awesome-Zlibrary](https://github.com/runningcheese/Awesome-Zlibrary)
 49. [未来已来？国内11家AI大模型盘点（附体验网址）-CSDN博客](https://blog.csdn.net/qq_51646682/article/details/136905451)
