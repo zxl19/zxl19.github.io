@@ -230,6 +230,7 @@ pinned: false
 2. [MeshLab](https://www.meshlab.net)
 3. [MayCad](https://www.maytec.de/en/maycad/)
 4. [MayTube](https://may-tube.com)
+5. [SketchUp](https://www.sketchupchina.com)
 
 #### 绘图
 
