@@ -30,17 +30,6 @@ pinned: false
 
 可以实现语法高亮、自动补全、编译、预览等功能。
 
-### Overleaf
-
-在线LaTeX编辑器。[链接](https://www.overleaf.com)
-
-1. 注册账号即可使用；
-2. 如果网页无法访问，可以使用[Overleaf中文版](https://cn.overleaf.com)；
-
-### Prism
-
-在线LaTeX编辑器，集成了GPT大模型。[链接](https://crixet.com)
-
 ## MacOS
 
 1. Texifier [链接](https://www.texifier.com)
@@ -54,10 +43,28 @@ pinned: false
 2. LyX [链接](https://www.lyx.org)
 3. TeXpresso [链接](https://github.com/let-def/texpresso)
 
+## 在线编辑器
+
+### Overleaf
+
+常用的在线LaTeX编辑器。[链接](https://www.overleaf.com)
+
+1. 注册账号即可使用；
+2. 如果网页无法访问，可以使用[Overleaf中文版](https://cn.overleaf.com)；
+
+### Prism
+
+在线LaTeX编辑器，集成了GPT大模型。[链接](https://crixet.com)
+
+### Frism
+
+在线LaTeX编辑器，集成了大模型。[链接](https://frism.pixelraft.com/app)
+
 ## 参考
 
 1. [texstudio-org/texstudio](https://github.com/texstudio-org/texstudio)
-2. [overleaf/overleaf](https://github.com/overleaf/overleaf)
-3. [OpenAI凌晨放大招，免费Prism颠覆科研！从摘要到致谢，GPT-5.2包圆-新智元的文章-知乎](https://zhuanlan.zhihu.com/p/1999766590103769954)
-4. [texmacs/texmacs](https://github.com/texmacs/texmacs)
-5. [let-def/texpresso](https://github.com/let-def/texpresso)
+2. [texmacs/texmacs](https://github.com/texmacs/texmacs)
+3. [let-def/texpresso](https://github.com/let-def/texpresso)
+4. [overleaf/overleaf](https://github.com/overleaf/overleaf)
+5. [OpenAI凌晨放大招，免费Prism颠覆科研！从摘要到致谢，GPT-5.2包圆-新智元的文章-知乎](https://zhuanlan.zhihu.com/p/1999766590103769954)
+6. [OpenAI花1亿美金收购Prism？我用Vibe Coding在24小时内验证了一个更优解。-ToadPresident的文章-知乎](https://zhuanlan.zhihu.com/p/2001218387142001210)

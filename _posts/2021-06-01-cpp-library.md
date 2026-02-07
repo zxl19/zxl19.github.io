@@ -320,6 +320,8 @@ pinned: false
 5. [berndporr/iir1](https://github.com/berndporr/iir1)
 6. [ruohoruotsi/Butterworth-Filter-Design](https://github.com/ruohoruotsi/Butterworth-Filter-Design)
 7. [adis300/filter-c](https://github.com/adis300/filter-c)
+8. [solanmevbot/spuce](https://github.com/solanmevbot/spuce)
+9. [TcheL/Road2Filter](https://github.com/TcheL/Road2Filter)
 
 ### 音频信号
 
