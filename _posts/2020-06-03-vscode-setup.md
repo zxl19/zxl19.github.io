@@ -147,6 +147,10 @@ CMake扩展。
 
 2. 在`CMakeLists.txt`文件中`右键`->`Format Document`；
 
+### Code Kingdom
+
+用于可视化展示项目中每个文件和代码行的开发者贡献情况，帮助团队了解代码的“势力分布”，类似的扩展还有Git Line Author。
+
 ### Code Runner
 
 运行各种语言的代码。
@@ -161,7 +165,7 @@ CMake扩展。
 
 ### CodeGeeX: AI Code AutoComplete, Chat, Auto Comment
 
-基于大模型的智能编程助手，提供代码自动生成和补全、代码翻译、自动添加注释、智能问答等功能，类似的扩展还有GitHub Copilot、GitHub Copilot Chat、Roo Code、Cline、Continue、Tabnine AI Autocomplete、Cody AI、Kite。
+基于大模型的智能编程助手，提供代码自动生成和补全、代码翻译、自动添加注释、智能问答等功能，类似的扩展还有GitHub Copilot、GitHub Copilot Chat、Code Buddy、Lingma - Alibaba Cloud AI Coding Assistant、CodeGPT: Chat & AI Agents、Roo Code、Cline、Continue、Tabnine AI Autocomplete、Cody AI、Kite。
 
 **2022年11月：Kite已停止维护。**
 
@@ -410,7 +414,7 @@ Mermaid绘图预览支持，类似的扩展还有Markdown Preview Mermaid Suppor
 
 ### One Dark Pro
 
-Atom的深色主题，类似的主题还有City Lights theme、Material Theme（会同时安装Community Material Theme和Material Theme Icons）。
+Atom的深色主题，类似的主题还有Vira Theme、C/C++ Themes、City Lights theme。
 
 在VS Code中通过`Ctrl`+`K`+`Ctrl`+`T`快捷键选择主题。
 
@@ -554,7 +558,7 @@ Typst语言扩展。
 
 ### vscode-icons
 
-文件图标主题，类似的主题还有Material Icon Theme和Material Theme Icons。
+文件图标主题，类似的主题还有Material Icon Theme。
 
 ### vscode-mindmap
 

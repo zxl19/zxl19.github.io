@@ -48,12 +48,11 @@ pinned: false
 2. cal
 3. calendar
 4. sleep
-5. time
-6. timedatectl
-7. [poetaman/arttime](https://github.com/poetaman/arttime)
-8. [octobanana/peaclock](https://github.com/octobanana/peaclock)
-9. [coolcode/tomato-clock](https://github.com/coolcode/tomato-clock)
-10. [lucassabreu/clockify-cli](https://github.com/lucassabreu/clockify-cli)
+5. timedatectl
+6. [poetaman/arttime](https://github.com/poetaman/arttime)
+7. [octobanana/peaclock](https://github.com/octobanana/peaclock)
+8. [coolcode/tomato-clock](https://github.com/coolcode/tomato-clock)
+9. [lucassabreu/clockify-cli](https://github.com/lucassabreu/clockify-cli)
 
 ## 计算器
 
@@ -81,6 +80,13 @@ pinned: false
 4. [nvitop](https://github.com/XuehaiPan/nvitop)
 5. [nvidia-htop.py](https://github.com/peci1/nvidia-htop)
 
+### 耗时
+
+1. time
+2. times
+3. [hyperfine](https://github.com/sharkdp/hyperfine)
+4. [bench](https://github.com/Gabriella439/bench)
+
 ## 文件操作
 
 ### 文件查找
@@ -90,8 +96,9 @@ pinned: false
 3. tree
 4. [fzf](https://github.com/junegunn/fzf)
 5. [rg](https://github.com/BurntSushi/ripgrep)
-6. [sk](https://github.com/lotabout/skim)
-7. [ug](https://github.com/Genivia/ugrep)
+6. [fd](https://github.com/sharkdp/fd)
+7. [sk](https://github.com/lotabout/skim)
+8. [ug](https://github.com/Genivia/ugrep)
 
 ### 文件查看
 
@@ -129,6 +136,7 @@ pinned: false
 
 1. [chafa](https://github.com/hpjansson/chafa)
 2. [timg](https://github.com/hzeller/timg)
+3. [termvisage](https://github.com/AnonymouX47/termvisage)
 
 ### 文件压缩
 
@@ -362,21 +370,22 @@ pinned: false
 14. [C和C++中有哪些容易被坑的undefined behaviour？-MingX01的回答-知乎](https://www.zhihu.com/question/43621151/answer/96187093)
 15. [【工具篇】如何优雅地监控显卡(GPU)使用情况？-聚丙烯酰胺的文章-知乎](https://zhuanlan.zhihu.com/p/577533593)
 16. [nvitop: 史上最强GPU性能实时监测工具-AGI之心的文章-知乎](https://zhuanlan.zhihu.com/p/614024375)
-17. [如何在Ubuntu和其他Linux发行版上使用7Zip-Linux中国的文章-知乎](https://zhuanlan.zhihu.com/p/65791205)
-18. [Trash-Cli：Linux上的命令行回收站工具-Linux中国的文章-知乎](https://zhuanlan.zhihu.com/p/44948578)
-19. [一句f**k代码自动纠错，美女程序员教你建一个狂拽酷炫的终端-量子位的文章-知乎](https://zhuanlan.zhihu.com/p/87694586)
-20. [为什么说zsh是shell中的极品？-韦易笑的回答-知乎](https://www.zhihu.com/question/21418449/answer/300879747)
-21. [Oh My Zsh-简书](https://www.jianshu.com/p/b8a80dd59414)
-22. [Oh My Zsh-博客园](https://www.cnblogs.com/lcgbk/p/13255836.html)
-23. [下一代开源终端，暴涨14300+ GitHub Star！-GitHub Daily的文章-知乎](https://zhuanlan.zhihu.com/p/1979135259820958532)
-24. [Powerline——向Vim和Bash Shell添加状态行和提示-惠主机的文章-知乎](https://zhuanlan.zhihu.com/p/640811147)
-25. [五彩斑斓的Black——Python代码格式化工具-muzing的文章-知乎](https://zhuanlan.zhihu.com/p/418458450)
-26. [Static program analysis-Wikipedia](https://en.wikipedia.org/wiki/Static_program_analysis)
-27. [Lint (software)-Wikipedia](https://en.wikipedia.org/wiki/Lint_(software))
-28. [Clang Static Analyzer](https://clang-analyzer.llvm.org)
-29. [CodeChecker: running the analyzer from the command line](https://clang-analyzer.llvm.org/codechecker.html)
-30. [神仙GDB调试工具gdb-dashboard-电子的文章-知乎](https://zhuanlan.zhihu.com/p/435918702)
-31. [大佬们都是怎么用gdb的？或者用吗？-yaoyaohu的回答-知乎](https://www.zhihu.com/question/65306462/answer/94492305604)
-32. [Ubuntu下实现命令行走代理/终端走代理的方法-lyh458的文章-知乎](https://zhuanlan.zhihu.com/p/377550825)
-33. [40个超有趣的Linux命令行彩蛋和游戏-张子豪的文章-知乎](https://zhuanlan.zhihu.com/p/51904179)
-34. [有什么高质量的现代C++风格的开源代码?-夏天的回答-知乎](https://www.zhihu.com/question/23153437/answer/1962068242)
+17. [那些让程序员拍案叫绝的工具?-干田的回答-知乎](https://www.zhihu.com/question/15364505118/answer/128315122612)
+18. [如何在Ubuntu和其他Linux发行版上使用7Zip-Linux中国的文章-知乎](https://zhuanlan.zhihu.com/p/65791205)
+19. [Trash-Cli：Linux上的命令行回收站工具-Linux中国的文章-知乎](https://zhuanlan.zhihu.com/p/44948578)
+20. [一句f**k代码自动纠错，美女程序员教你建一个狂拽酷炫的终端-量子位的文章-知乎](https://zhuanlan.zhihu.com/p/87694586)
+21. [为什么说zsh是shell中的极品？-韦易笑的回答-知乎](https://www.zhihu.com/question/21418449/answer/300879747)
+22. [Oh My Zsh-简书](https://www.jianshu.com/p/b8a80dd59414)
+23. [Oh My Zsh-博客园](https://www.cnblogs.com/lcgbk/p/13255836.html)
+24. [下一代开源终端，暴涨14300+ GitHub Star！-GitHub Daily的文章-知乎](https://zhuanlan.zhihu.com/p/1979135259820958532)
+25. [Powerline——向Vim和Bash Shell添加状态行和提示-惠主机的文章-知乎](https://zhuanlan.zhihu.com/p/640811147)
+26. [五彩斑斓的Black——Python代码格式化工具-muzing的文章-知乎](https://zhuanlan.zhihu.com/p/418458450)
+27. [Static program analysis-Wikipedia](https://en.wikipedia.org/wiki/Static_program_analysis)
+28. [Lint (software)-Wikipedia](https://en.wikipedia.org/wiki/Lint_(software))
+29. [Clang Static Analyzer](https://clang-analyzer.llvm.org)
+30. [CodeChecker: running the analyzer from the command line](https://clang-analyzer.llvm.org/codechecker.html)
+31. [神仙GDB调试工具gdb-dashboard-电子的文章-知乎](https://zhuanlan.zhihu.com/p/435918702)
+32. [大佬们都是怎么用gdb的？或者用吗？-yaoyaohu的回答-知乎](https://www.zhihu.com/question/65306462/answer/94492305604)
+33. [Ubuntu下实现命令行走代理/终端走代理的方法-lyh458的文章-知乎](https://zhuanlan.zhihu.com/p/377550825)
+34. [40个超有趣的Linux命令行彩蛋和游戏-张子豪的文章-知乎](https://zhuanlan.zhihu.com/p/51904179)
+35. [有什么高质量的现代C++风格的开源代码?-夏天的回答-知乎](https://www.zhihu.com/question/23153437/answer/1962068242)

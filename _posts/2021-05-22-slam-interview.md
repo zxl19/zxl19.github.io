@@ -44,14 +44,20 @@ SLAM方向面试题存档。
 
 ### C++知识总结
 
-1. [interview-📚C/C++技术面试基础知识总结（一）-辉哈huihut的文章-知乎](https://zhuanlan.zhihu.com/p/114311142)
-2. [校招C++大概学习到什么程度？-程序员内功修炼的回答-知乎](https://www.zhihu.com/question/290102232/answer/2094675219)
-3. [C++常见面试题总结-Cpp小茶馆的文章-知乎](https://zhuanlan.zhihu.com/p/354382975)
-4. [你遇到过哪些高质量的C++面试？-码农出击的回答-知乎](https://www.zhihu.com/question/60911582/answer/2590210440)
-5. [你遇到过哪些高质量的C++面试？-张小方的回答-知乎](https://www.zhihu.com/question/60911582/answer/1783988850)
-6. [如果你是一个C++面试官，你会问哪些问题？-拓跋阿秀的回答-知乎](https://www.zhihu.com/question/451327108/answer/1868156551)
-7. [C++学到什么程度可以面试工作？-牛客网的回答-知乎](https://www.zhihu.com/question/400543720/answer/1845364139)
-8. [当面试官问我C++11新特性的时候，应该怎样回答？-程序喵大人的回答-知乎](https://www.zhihu.com/question/65209863/answer/1957019832)
+1. [interview-📚C/C++技术面试基础知识总结（一）-huihut的文章-知乎](https://zhuanlan.zhihu.com/p/114311142)
+2. [interview-📚C/C++技术面试基础知识总结（二）-huihut的文章-知乎](https://zhuanlan.zhihu.com/p/114311987)
+3. [校招C++大概学习到什么程度？-程序员内功修炼的回答-知乎](https://www.zhihu.com/question/290102232/answer/2094675219)
+4. [C++常见面试题总结-Cpp小茶馆的文章-知乎](https://zhuanlan.zhihu.com/p/354382975)
+5. [你遇到过哪些高质量的C++面试？-码农出击的回答-知乎](https://www.zhihu.com/question/60911582/answer/2590210440)
+6. [你遇到过哪些高质量的C++面试？-帅地的回答-知乎](https://www.zhihu.com/question/60911582/answer/2163783367)
+7. [你遇到过哪些高质量的C++面试？-张小方的回答-知乎](https://www.zhihu.com/question/60911582/answer/1783988850)
+8. [如果你是一个C++面试官，你会问哪些问题？-程序喵大人的回答-知乎](https://www.zhihu.com/question/451327108/answer/1868370927)
+9. [如果你是一个C++面试官，你会问哪些问题？-GEM星星的回答-知乎](https://www.zhihu.com/question/451327108/answer/2499618820)
+10. [如果你是一个C++面试官，你会问哪些问题？-拓跋阿秀的回答-知乎](https://www.zhihu.com/question/451327108/answer/1868156551)
+11. [如果你是一个C++面试官，你会问哪些问题？-果冻虾仁的回答-知乎](https://www.zhihu.com/question/451327108/answer/2275638668)
+12. [如果你是一个C++面试官，你会问哪些问题？-anchor的回答-知乎](https://www.zhihu.com/question/451327108/answer/88847774143)
+13. [C++学到什么程度可以面试工作？-牛客网的回答-知乎](https://www.zhihu.com/question/400543720/answer/1845364139)
+14. [当面试官问我C++11新特性的时候，应该怎样回答？-程序喵大人的回答-知乎](https://www.zhihu.com/question/65209863/answer/1957019832)
 
 ### 算法总结
 
@@ -74,6 +80,9 @@ SLAM方向面试题存档。
 4. [有哪些算法一开始像在瞎搞，实际上却蕴含着更深层的逻辑？-Felina的回答-知乎](https://www.zhihu.com/question/1890344085396623745/answer/1892242287221769687)
 5. [有哪些复杂度为O(1)的神奇算法？-杞鋂的回答-知乎](https://www.zhihu.com/question/52968810/answer/1938616920128622783)
 6. [有哪些复杂度为O(1)的神奇算法？-南山烟雨珠江潮的回答-知乎](https://www.zhihu.com/question/52968810/answer/1929456142423163724)
+7. [有哪些令人拍案叫绝的算法？-南山烟雨珠江潮的回答-知乎](https://www.zhihu.com/question/27547892/answer/2001037680583128105)
+8. [有哪些令人拍案叫绝的代码/优化?-花宝宝的回答-知乎](https://www.zhihu.com/question/52726115/answer/1998008075626513655)
+9. [有哪些令人拍案叫绝的代码/优化?-李明殊的回答-知乎](https://www.zhihu.com/question/52726115/answer/1995625645657563228)
 
 ### GitHub
 

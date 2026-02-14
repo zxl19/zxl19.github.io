@@ -277,6 +277,7 @@ pip install，pip uninstall，拿起pip就是干！
 5. [r1chardj0n3s/parse](https://github.com/r1chardj0n3s/parse)
 6. [chubin/pyphoon](https://github.com/chubin/pyphoon)
 7. [termcolor/termcolor](https://github.com/termcolor/termcolor)
+8. [AnonymouX47/term-image](https://github.com/AnonymouX47/term-image)
 
 ### 进度条
 

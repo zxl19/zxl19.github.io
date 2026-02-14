@@ -27,6 +27,8 @@ pinned: false
 10. [wilfredinni/python-cheatsheet](https://github.com/wilfredinni/python-cheatsheet)
 11. [wizardforcel/sicp-py-zh](https://github.com/wizardforcel/sicp-py-zh)
 12. [TommyZihao/zihaopython](https://github.com/TommyZihao/zihaopython)
+13. [zedshaw/learn-more-python-the-hard-way-solutions](https://github.com/zedshaw/learn-more-python-the-hard-way-solutions)
+14. [zedshaw/learn-python3-thw-code](https://github.com/zedshaw/learn-python3-thw-code)
 
 ## 常用算法实现
 
