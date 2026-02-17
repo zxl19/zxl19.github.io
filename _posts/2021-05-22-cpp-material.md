@@ -46,8 +46,9 @@ pinned: false
 18. [0voice/cpp-learning-2025](https://github.com/0voice/cpp-learning-2025)
 19. [franktea/learn_cxx_by_projects](https://github.com/franktea/learn_cxx_by_projects)
 20. [fenbf/cppinitbook_public](https://github.com/fenbf/cppinitbook_public)
-21. [CHH3213/chhCpp](https://github.com/CHH3213/chhCpp)
-22. [dendisuhubdy/cpp_exercises](https://github.com/dendisuhubdy/cpp_exercises)
+21. [lizhenghn123/CppLanguagePrograms](https://github.com/lizhenghn123/CppLanguagePrograms)
+22. [CHH3213/chhCpp](https://github.com/CHH3213/chhCpp)
+23. [dendisuhubdy/cpp_exercises](https://github.com/dendisuhubdy/cpp_exercises)
 
 ### 常用算法实现
 
@@ -61,14 +62,15 @@ pinned: false
 1. [Cpp-Club/Cxx_HOPL4_zh](https://github.com/Cpp-Club/Cxx_HOPL4_zh)
 2. [changkun/modern-cpp-tutorial](https://github.com/changkun/modern-cpp-tutorial)
 3. [AnthonyCalandra/modern-cpp-features](https://github.com/AnthonyCalandra/modern-cpp-features)
-4. [rigtorp/awesome-modern-cpp](https://github.com/rigtorp/awesome-modern-cpp)
-5. [federico-busato/Modern-CPP-Programming](https://github.com/federico-busato/Modern-CPP-Programming)
+4. [federico-busato/Modern-CPP-Programming](https://github.com/federico-busato/Modern-CPP-Programming)
+5. [rigtorp/awesome-modern-cpp](https://github.com/rigtorp/awesome-modern-cpp)
 6. [CnTransGroup/EffectiveModernCppChinese](https://github.com/CnTransGroup/EffectiveModernCppChinese)
 7. [0voice/cpp_new_features](https://github.com/0voice/cpp_new_features)
 8. [tip-of-the-week/cpp](https://github.com/tip-of-the-week/cpp)
 9. [Mq-b/Modern-Cpp-templates-tutorial](https://github.com/Mq-b/Modern-Cpp-templates-tutorial)
 10. [windsting/a-tour-of-cpp-2nd-cn](https://github.com/windsting/a-tour-of-cpp-2nd-cn)
-11. [netcan/advanced-cpp20-programming](https://github.com/netcan/advanced-cpp20-programming)
+11. [lizhenghn123/myCpp11Study](https://github.com/lizhenghn123/myCpp11Study)
+12. [netcan/advanced-cpp20-programming](https://github.com/netcan/advanced-cpp20-programming)
 
 ### 高性能计算
 

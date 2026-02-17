@@ -33,6 +33,25 @@ pinned: false
 1. [CrystalDiskInfo](https://crystalmark.info/en/software/crystaldiskinfo/)
 2. [DiskGenius](https://www.diskgenius.com)
 
+#### 基准测试
+
+##### 综合
+
+1. [Geekbench](https://www.geekbench.com)
+2. [Cinebench](https://www.maxon.net/en/cinebench)
+
+##### CPU
+
+1. [CPU-Z](https://www.cpuid.com/softwares/cpu-z.html)
+2. [CoreCycler](https://github.com/sp00n/CoreCycler)
+
+##### GPU
+
+1. [3DMark](https://benchmarks.ul.com/3dmark)
+2. [FurMark](https://www.geeks3d.com/furmark/)
+3. [Volume Shader BM](https://volumeshaderbm.org)
+4. [SPEC Graphics and Workstation Benchmarks](https://gwpg.spec.org/benchmarks/)
+
 #### 显示器管理
 
 1. [Twinkle Tray](https://twinkletray.com)

@@ -60,6 +60,7 @@ pinned: false
 2. expr
 3. gnome-calculator
 4. factor
+5. [primesieve](https://github.com/kimwalisch/primesieve)
 
 ## 性能监控
 
@@ -80,12 +81,22 @@ pinned: false
 4. [nvitop](https://github.com/XuehaiPan/nvitop)
 5. [nvidia-htop.py](https://github.com/peci1/nvidia-htop)
 
-### 耗时
+## 性能基准
 
 1. time
 2. times
 3. [hyperfine](https://github.com/sharkdp/hyperfine)
-4. [bench](https://github.com/Gabriella439/bench)
+4. [sysbench](https://github.com/akopytov/sysbench)
+5. [bench](https://github.com/Gabriella439/bench)
+
+## 压力测试
+
+1. [artillery](https://github.com/artilleryio/artillery)
+2. [fio](https://github.com/axboe/fio)
+3. [s-tui](https://github.com/amanusk/s-tui)
+4. [stress](https://github.com/ColinIanKing/stress-ng)
+5. [gpu_burn](https://github.com/wilicc/gpu-burn)
+6. [stressapptest](https://github.com/stressapptest/stressapptest)
 
 ## 文件操作
 

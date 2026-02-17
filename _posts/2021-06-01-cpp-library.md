@@ -26,6 +26,8 @@ pinned: false
 1. [Kitware/CMake](https://github.com/Kitware/CMake)
 2. [xmake-io/xmake](https://github.com/xmake-io/xmake)
 3. [zdzhaoyong/PICMake](https://github.com/zdzhaoyong/PICMake)
+4. [tsoding/nob.h](https://github.com/tsoding/nob.h)
+5. [zhiayang/nabs](https://github.com/zhiayang/nabs)
 
 ## 链接工具
 
@@ -53,14 +55,15 @@ pinned: false
 
 1. [facebook/zstd](https://github.com/facebook/zstd)
 2. [lz4/lz4](https://github.com/lz4/lz4)
-3. [google/snappy](https://github.com/google/snappy)
-4. [madler/zlib](https://github.com/madler/zlib)
+3. [madler/zlib](https://github.com/madler/zlib)
+4. [google/snappy](https://github.com/google/snappy)
 5. [google/zopfli](https://github.com/google/zopfli)
-6. [nih-at/libzip](https://github.com/nih-at/libzip)
-7. [rikyoz/bit7z](https://github.com/rikyoz/bit7z)
-8. [r-lyeh-archived/bundle](https://github.com/r-lyeh-archived/bundle)
-9. [sebastiandev/zipper](https://github.com/sebastiandev/zipper)
-10. [ctabin/libzippp](https://github.com/ctabin/libzippp)
+6. [richgel999/miniz](https://github.com/richgel999/miniz)
+7. [nih-at/libzip](https://github.com/nih-at/libzip)
+8. [rikyoz/bit7z](https://github.com/rikyoz/bit7z)
+9. [r-lyeh-archived/bundle](https://github.com/r-lyeh-archived/bundle)
+10. [sebastiandev/zipper](https://github.com/sebastiandev/zipper)
+11. [ctabin/libzippp](https://github.com/ctabin/libzippp)
 
 ### RLE压缩
 
@@ -110,11 +113,15 @@ pinned: false
 6. [attractivechaos/klib](https://github.com/attractivechaos/klib)
 7. [idealvin/coost](https://github.com/idealvin/coost)
 8. [matrixcascade/PainterEngine](https://github.com/matrixcascade/PainterEngine)
-9. [Water-Melon/Melon](https://github.com/Water-Melon/Melon)
-10. [electronicarts/EAStdC](https://github.com/electronicarts/EAStdC)
-11. [adah1972/nvwa](https://github.com/adah1972/nvwa)
-12. [adah1972/mozi](https://github.com/adah1972/mozi)
-13. [MariadeAnton/MiLi](https://github.com/MariadeAnton/MiLi)
+9. [mattiasgustavsson/libs](https://github.com/mattiasgustavsson/libs)
+10. [Water-Melon/Melon](https://github.com/Water-Melon/Melon)
+11. [prideout/par](https://github.com/prideout/par)
+12. [gingerBill/gb](https://github.com/gingerBill/gb)
+13. [forrestthewoods/lib_fts](https://github.com/forrestthewoods/lib_fts)
+14. [electronicarts/EAStdC](https://github.com/electronicarts/EAStdC)
+15. [adah1972/nvwa](https://github.com/adah1972/nvwa)
+16. [adah1972/mozi](https://github.com/adah1972/mozi)
+17. [MariadeAnton/MiLi](https://github.com/MariadeAnton/MiLi)
 
 ## 参数读取
 
@@ -201,14 +208,15 @@ pinned: false
 ## 数据可视化
 
 1. [google/skia](https://github.com/google/skia)
-2. [lava/matplotlib-cpp](https://github.com/lava/matplotlib-cpp)
-3. [alandefreitas/matplotplusplus](https://github.com/alandefreitas/matplotplusplus)
-4. [sciplot/sciplot](https://github.com/sciplot/sciplot)
-5. [dstahlke/gnuplot-iostream](https://github.com/dstahlke/gnuplot-iostream)
-6. [madplotlib/madplotlib](https://github.com/madplotlib/madplotlib)
-7. [Profactor/cv-plot](https://github.com/Profactor/cv-plot)
-8. [leovandriel/cvplot](https://github.com/leovandriel/cvplot)
-9. [fbbdev/plot](https://github.com/fbbdev/plot)
+2. [alandefreitas/matplotplusplus](https://github.com/alandefreitas/matplotplusplus)
+3. [lava/matplotlib-cpp](https://github.com/lava/matplotlib-cpp)
+4. [tsoding/olive.c](https://github.com/tsoding/olive.c)
+5. [sciplot/sciplot](https://github.com/sciplot/sciplot)
+6. [dstahlke/gnuplot-iostream](https://github.com/dstahlke/gnuplot-iostream)
+7. [madplotlib/madplotlib](https://github.com/madplotlib/madplotlib)
+8. [Profactor/cv-plot](https://github.com/Profactor/cv-plot)
+9. [leovandriel/cvplot](https://github.com/leovandriel/cvplot)
+10. [fbbdev/plot](https://github.com/fbbdev/plot)
 
 ## 机器学习&深度学习
 
@@ -219,15 +227,16 @@ pinned: false
 5. [davisking/dlib](https://github.com/davisking/dlib)
 6. [ggerganov/ggml](https://github.com/ggerganov/ggml)
 7. [tiny-dnn/tiny-dnn](https://github.com/tiny-dnn/tiny-dnn)
-8. [flashlight/flashlight](https://github.com/flashlight/flashlight)
-9. [mlpack/mlpack](https://github.com/mlpack/mlpack)
-10. [plaidml/plaidml](https://github.com/plaidml/plaidml)
-11. [cjlin1/libsvm](https://github.com/cjlin1/libsvm)
+8. [mlpack/mlpack](https://github.com/mlpack/mlpack)
+9. [flashlight/flashlight](https://github.com/flashlight/flashlight)
+10. [cjlin1/libsvm](https://github.com/cjlin1/libsvm)
+11. [plaidml/plaidml](https://github.com/plaidml/plaidml)
 12. [NVlabs/tiny-cuda-nn](https://github.com/NVlabs/tiny-cuda-nn)
-13. [yixuan/MiniDNN](https://github.com/yixuan/MiniDNN)
-14. [arrayfire/arrayfire-ml](https://github.com/arrayfire/arrayfire-ml)
-15. [rockcarry/ffcnn](https://github.com/rockcarry/ffcnn)
-16. [10-zin/cpp-micrograd](https://github.com/10-zin/cpp-micrograd)
+13. [shogun-toolbox/shogun](https://github.com/shogun-toolbox/shogun)
+14. [yixuan/MiniDNN](https://github.com/yixuan/MiniDNN)
+15. [arrayfire/arrayfire-ml](https://github.com/arrayfire/arrayfire-ml)
+16. [rockcarry/ffcnn](https://github.com/rockcarry/ffcnn)
+17. [10-zin/cpp-micrograd](https://github.com/10-zin/cpp-micrograd)
 
 ## 数学计算
 
@@ -323,16 +332,24 @@ pinned: false
 8. [solanmevbot/spuce](https://github.com/solanmevbot/spuce)
 9. [TcheL/Road2Filter](https://github.com/TcheL/Road2Filter)
 
-### 音频信号
+### 音视频信号
 
-1. [MTG/essentia](https://github.com/MTG/essentia)
-2. [micknoise/Maximilian](https://github.com/micknoise/Maximilian)
-3. [ddiakopoulos/MoogLadders](https://github.com/ddiakopoulos/MoogLadders)
+1. [FFmpeg/FFmpeg](https://github.com/FFmpeg/FFmpeg)
+2. [mackron/miniaudio](https://github.com/mackron/miniaudio)
+3. [MTG/essentia](https://github.com/MTG/essentia)
+4. [micknoise/Maximilian](https://github.com/micknoise/Maximilian)
+5. [mackron/dr_libs](https://github.com/mackron/dr_libs)
+6. [tsoding/musializer](https://github.com/tsoding/musializer)
+7. [phoboslab/pl_mpeg](https://github.com/phoboslab/pl_mpeg)
+8. [schellingb/TinySoundFont](https://github.com/schellingb/TinySoundFont)
+9. [ddiakopoulos/MoogLadders](https://github.com/ddiakopoulos/MoogLadders)
 
 ## 加密
 
 1. [google/tink](https://github.com/google/tink)
-2. [okdshin/PicoSHA2](https://github.com/okdshin/PicoSHA2)
+2. [libtom/libtomcrypt](https://github.com/libtom/libtomcrypt)
+3. [okdshin/PicoSHA2](https://github.com/okdshin/PicoSHA2)
+4. [eduardsui/tlse](https://github.com/eduardsui/tlse)
 
 ## 序列化
 
@@ -367,7 +384,9 @@ pinned: false
 3. [cycfi/elements](https://github.com/cycfi/elements)
 4. [stevenlovegrove/Pangolin](https://github.com/stevenlovegrove/Pangolin)
 5. [mitsuba-renderer/nanogui](https://github.com/mitsuba-renderer/nanogui)
-6. [koide3/iridescence](https://github.com/koide3/iridescence)
+6. [samhocevar/portable-file-dialogs](https://github.com/samhocevar/portable-file-dialogs)
+7. [randrew/layout](https://github.com/randrew/layout)
+8. [koide3/iridescence](https://github.com/koide3/iridescence)
 
 ### 文本界面（TUI）
 
@@ -401,12 +420,6 @@ pinned: false
 
 ## 数据结构
 
-### 无锁队列
-
-1. [cameron314/concurrentqueue](https://github.com/cameron314/concurrentqueue)
-2. [cameron314/readerwriterqueue](https://github.com/cameron314/readerwriterqueue)
-3. [max0x7ba/atomic_queue](https://github.com/max0x7ba/atomic_queue)
-
 ### 标准模板库
 
 1. [google/leveldb](https://github.com/google/leveldb)
@@ -417,11 +430,27 @@ pinned: false
 6. [VcDevel/Vc](https://github.com/VcDevel/Vc)
 7. [boostorg/pfr](https://github.com/boostorg/pfr)
 8. [stotko/stdgpu](https://github.com/stotko/stdgpu)
-9. [imageworks/pystring](https://github.com/imageworks/pystring)
-10. [VcDevel/std-simd](https://github.com/VcDevel/std-simd)
-11. [preshing/cpp11-on-multicore](https://github.com/preshing/cpp11-on-multicore)
-12. [frozenca/BTree](https://github.com/frozenca/BTree)
-13. [lsils/kitty](https://github.com/lsils/kitty)
+9. [VcDevel/std-simd](https://github.com/VcDevel/std-simd)
+10. [preshing/cpp11-on-multicore](https://github.com/preshing/cpp11-on-multicore)
+11. [frozenca/BTree](https://github.com/frozenca/BTree)
+12. [lsils/kitty](https://github.com/lsils/kitty)
+
+### 无锁队列
+
+1. [cameron314/concurrentqueue](https://github.com/cameron314/concurrentqueue)
+2. [cameron314/readerwriterqueue](https://github.com/cameron314/readerwriterqueue)
+3. [max0x7ba/atomic_queue](https://github.com/max0x7ba/atomic_queue)
+
+### 字符串
+
+1. [imageworks/pystring](https://github.com/imageworks/pystring)
+2. [tsoding/sv](https://github.com/tsoding/sv)
+
+## 内存分配
+
+1. [jemalloc/jemalloc](https://github.com/jemalloc/jemalloc)
+2. [google/tcmalloc](https://github.com/google/tcmalloc)
+3. [tsoding/arena](https://github.com/tsoding/arena)
 
 ## 哈希函数
 
@@ -492,8 +521,8 @@ pinned: false
 ## 物理场仿真
 
 1. [jrouwe/JoltPhysics](https://github.com/jrouwe/JoltPhysics)
-2. [simbody/simbody](https://github.com/simbody/simbody)
-3. [projectchrono/chrono](https://github.com/projectchrono/chrono)
+2. [projectchrono/chrono](https://github.com/projectchrono/chrono)
+3. [simbody/simbody](https://github.com/simbody/simbody)
 
 ## Git（包括GitHub）
 

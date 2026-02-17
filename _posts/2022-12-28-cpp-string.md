@@ -38,6 +38,21 @@ pinned: false
     #include <string>
     ```
 
+### 构造函数
+
+```cpp
+string();                                                   // 默认构造
+string(const string& str);                                  // 拷贝构造
+string(const string& str, size_t pos, size_t len = npos);   // 子字符串构造
+string(const char* s);                                      // C风格字符串构造
+string(const char* s, size_t n);                            // 缓冲区构造
+string(size_t n, char c);                                   // 填充构造
+template <class InputIterator>
+string(InputIterator first, InputIterator last);            // 范围构造
+string(initializer_list<char> il);                          // 初始化列表构造，C++11引入
+string(string&& str) noexcept;                              // 移动构造，C++11引入
+```
+
 ### 操作符
 
 | 操作符 | 示例 | 含义 |
