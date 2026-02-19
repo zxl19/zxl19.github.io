@@ -210,9 +210,11 @@ pinned: false
 
 1. [Typora](https://typora.io)
 2. [Obsidian](https://obsidian.md)
-3. [Notion](https://www.notion.com)
-4. [Xournal++](https://xournalpp.github.io)
-5. [Manuskript](https://www.theologeek.ch/manuskript/)
+
+#### 白板
+
+1. [Notion](https://www.notion.com)
+2. [Xournal++](https://xournalpp.github.io)
 
 #### 文件差异对比
 
@@ -334,6 +336,12 @@ pinned: false
 
 1. [calibre](https://calibre-ebook.com)
 2. [NeatReader](https://www.neat-reader.com)
+
+#### 文学创作
+
+1. [Manuskript](https://www.theologeek.ch/manuskript/)
+2. [Scrite](https://www.scrite.io)
+3. [StudioBinder](https://www.studiobinder.com)
 
 #### PT客户端
 

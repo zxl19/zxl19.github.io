@@ -240,8 +240,9 @@ pinned: false
 6. 《C++ Core Guidelines解析》
 7. 《C++实战：核心技术与最佳实践》
 8. 《C++之旅》
-9. 《C++性能优化指南》
-10. 《性能之巅》
+9. 《游戏编程模式》
+10. 《C++性能优化指南》
+11. 《性能之巅》
 
 ## 参考
 
@@ -276,3 +277,4 @@ pinned: false
 29. [melpon/wandbox](https://github.com/melpon/wandbox)
 30. [andreasfertig/cppinsights](https://github.com/andreasfertig/cppinsights)
 31. [《C++实战：核心技术与最佳实践》——与吴咏炜老师一起走进C++的实战世界-人民邮电出版社的文章-知乎](https://zhuanlan.zhihu.com/p/14044433366)
+32. [《性能之巅》第2版终于来了，火焰图发明人Gregg大师这次带来哪些内幕？-博文视点Broadview的文章-知乎](https://zhuanlan.zhihu.com/p/531101733)

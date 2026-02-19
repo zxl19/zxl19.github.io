@@ -128,6 +128,7 @@ pinned: false
 4. [为什么说传统SLAM已死？-Immortalqx的回答-知乎](https://www.zhihu.com/question/1975877695788319146/answer/1976430813492028679)
 5. [为什么说传统SLAM已死？-forward的回答-知乎](https://www.zhihu.com/question/1975877695788319146/answer/1989089312277550882)
 6. [SLAM技术会是一场泡沫吗？-forward的回答-知乎](https://www.zhihu.com/question/269729796/answer/16988238164)
+7. [高翔：非结构化道路激光SLAM中的挑战-智行者科技的文章-知乎](https://zhuanlan.zhihu.com/p/136354887)
 
 ## 卡尔曼滤波
 

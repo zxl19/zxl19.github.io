@@ -30,8 +30,13 @@ pinned: false
     - 当字符串长度不确定时，需要手动进行动态内存分配；
 
 2. C++将字符串相关操作进行了封装，形成了字符串类`string`；
-3. 严格来说，`string`是类模板`basic_string`的一个特化实例，但是其使用时的特点与类相同，可以当做一个类来使用；
-4. 字符串类不是标准模板类（Standard Template Library，STL）的一部分；
+3. 严格来说，`string`是类模板`basic_string`的一个特化实例，但是其使用时的特点与类相同，可以当做一个类来使用：
+
+    ```cpp
+    typedef basic_string<char> string;
+    ```
+
+4. 字符串类不是标准模板库（Standard Template Library，STL）的一部分，但是其行为与STL容器一致，可以与STL算法配合使用；
 5. 使用时需要包含头文件：
 
     ```cpp
@@ -91,6 +96,18 @@ for (char& c : s)                               // C++11引入，速度更快
 
 1. 《C++语言程序设计》
 2. [cplusplus](http://www.cplusplus.com)
-3. [字符串1-CSDN博客](https://blog.csdn.net/qq_38537503/article/details/106279850)
-4. [字符串2-CSDN博客](https://blog.csdn.net/qq_42270373/article/details/84589231)
-5. [字符串3-CSDN博客](https://blog.csdn.net/weixin_36670529/article/details/108401528)
+3. [C++ string详解，C++字符串详解-C语言中文网](https://c.biancheng.net/view/2236.html)
+4. [C++ string（C++字符串）详解-C语言中文网](https://c.biancheng.net/view/208.html)
+5. [C++ string构造函数和析构函数详解-C语言中文网](https://c.biancheng.net/view/1443.html)
+6. [C++ string类成员函数汇总（超全）-C语言中文网](https://c.biancheng.net/view/1441.html)
+7. [C++ string字符串比较方法详解-C语言中文网](https://c.biancheng.net/view/1447.html)
+8. [C++ string字符串修改和替换方法详解-C语言中文网](https://c.biancheng.net/view/1449.html)
+9. [C++ string获取字符串元素：[]和at()-C语言中文网](https://c.biancheng.net/view/1446.html)
+10. [C++ string类（C++字符串）完全攻略-C语言中文网](https://c.biancheng.net/view/400.html)
+11. [C++ string字符串类的用法-C语言中文网](https://c.biancheng.net/view/db5hkdl.html)
+12. [C++ basic_string（字符串类模板）详解-C语言中文网](https://c.biancheng.net/view/1439.html)
+13. [C++ string_view的用法-C语言中文网](https://c.biancheng.net/view/zl4nr8p.html)
+14. [字符串1-CSDN博客](https://blog.csdn.net/qq_38537503/article/details/106279850)
+15. [字符串2-CSDN博客](https://blog.csdn.net/qq_42270373/article/details/84589231)
+16. [字符串3-CSDN博客](https://blog.csdn.net/weixin_36670529/article/details/108401528)
+17. [字符串4-CSDN博客](https://blog.csdn.net/guotianqing/article/details/110204759)
