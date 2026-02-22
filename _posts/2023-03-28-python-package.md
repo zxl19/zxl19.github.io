@@ -275,9 +275,10 @@ pip install，pip uninstall，拿起pip就是干！
 3. [tartley/colorama](https://github.com/tartley/colorama)
 4. [sepandhaghighi/art](https://github.com/sepandhaghighi/art)
 5. [r1chardj0n3s/parse](https://github.com/r1chardj0n3s/parse)
-6. [chubin/pyphoon](https://github.com/chubin/pyphoon)
-7. [termcolor/termcolor](https://github.com/termcolor/termcolor)
-8. [AnonymouX47/term-image](https://github.com/AnonymouX47/term-image)
+6. [pwaller/pyfiglet](https://github.com/pwaller/pyfiglet)
+7. [chubin/pyphoon](https://github.com/chubin/pyphoon)
+8. [termcolor/termcolor](https://github.com/termcolor/termcolor)
+9. [AnonymouX47/term-image](https://github.com/AnonymouX47/term-image)
 
 ### 进度条
 
@@ -296,20 +297,27 @@ pip install，pip uninstall，拿起pip就是干！
 
 ## 可视化界面
 
+### 图形化界面（GUI）
+
+1. [chriskiehl/Gooey](https://github.com/chriskiehl/Gooey)
+2. [zauberzeug/nicegui](https://github.com/zauberzeug/nicegui)
+3. [hoffstadt/DearPyGui](https://github.com/hoffstadt/DearPyGui)
+4. [PySimpleGUI/PySimpleGUI](https://github.com/PySimpleGUI/PySimpleGUI)
+5. [PyQt5/PyQt](https://github.com/PyQt5/PyQt)
+6. [beeware/toga](https://github.com/beeware/toga)
+7. [nucleic/enaml](https://github.com/nucleic/enaml)
+8. [UmSenhorQualquer/pyforms](https://github.com/UmSenhorQualquer/pyforms)
+9. [uoip/pangolin](https://github.com/uoip/pangolin)
+10. [fcollonval/matplotlib_qtquick_playground](https://github.com/fcollonval/matplotlib_qtquick_playground)
+11. [idevloping/PyQt5_Matplotlib](https://github.com/idevloping/PyQt5_Matplotlib)
+
+### 文本界面（TUI）
+
 1. [curses](https://docs.python.org/3/library/curses.html)
 2. [Textualize/textual](https://github.com/Textualize/textual)
-3. [chriskiehl/Gooey](https://github.com/chriskiehl/Gooey)
-4. [hoffstadt/DearPyGui](https://github.com/hoffstadt/DearPyGui)
-5. [PySimpleGUI/PySimpleGUI](https://github.com/PySimpleGUI/PySimpleGUI)
-6. [zauberzeug/nicegui](https://github.com/zauberzeug/nicegui)
-7. [PyQt5/PyQt](https://github.com/PyQt5/PyQt)
-8. [beeware/toga](https://github.com/beeware/toga)
-9. [urwid/urwid](https://github.com/urwid/urwid)
-10. [nucleic/enaml](https://github.com/nucleic/enaml)
-11. [UmSenhorQualquer/pyforms](https://github.com/UmSenhorQualquer/pyforms)
-12. [uoip/pangolin](https://github.com/uoip/pangolin)
-13. [fcollonval/matplotlib_qtquick_playground](https://github.com/fcollonval/matplotlib_qtquick_playground)
-14. [idevloping/PyQt5_Matplotlib](https://github.com/idevloping/PyQt5_Matplotlib)
+3. [peterbrittain/asciimatics](https://github.com/peterbrittain/asciimatics)
+4. [urwid/urwid](https://github.com/urwid/urwid)
+5. [bczsalba/pytermgui](https://github.com/bczsalba/pytermgui)
 
 ## 调试工具
 

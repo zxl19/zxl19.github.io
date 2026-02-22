@@ -289,6 +289,20 @@ pinned: false
 12. [slam-code/apollo](https://github.com/slam-code/apollo)
 13. [0voice/Autonomous-Driving-Cpp](https://github.com/0voice/Autonomous-Driving-Cpp)
 
+## 规划和控制
+
+### 网站
+
+1. [自动驾驶决策控制及运动规划史上最详细最接地气综述-Ismiracle的文章-知乎](https://zhuanlan.zhihu.com/p/260707853)
+2. [自动驾驶路径规划与行为预测最接地气详细综述-Ismiracle的文章-知乎](https://zhuanlan.zhihu.com/p/353327313)
+3. [无人车的决策和规划分别是负责什么的？两者的差别和联系是什么？-Partagons的回答-知乎](https://www.zhihu.com/question/41013884/answer/570082969)
+4. [自动驾驶决策规划---基于模型的预测方法-胖胖橙的文章-知乎](https://zhuanlan.zhihu.com/p/12939525225)
+5. [自动驾驶决策规划---路径与轨迹规划-胖胖橙的文章-知乎](https://zhuanlan.zhihu.com/p/13086561223)
+6. [自动驾驶决策规划---时空联合规划-胖胖橙的文章-知乎](https://zhuanlan.zhihu.com/p/13376371919)
+7. [自动驾驶决策规划---不确定性感知的决策过程-胖胖橙的文章-知乎](https://zhuanlan.zhihu.com/p/11652672895)
+8. [番外一：重新审视EM Planner的规划框架-胖胖橙的文章-知乎](https://zhuanlan.zhihu.com/p/1979534602667323915)
+9. [番外二：EM Planner在量产中的核心工程挑战-胖胖橙的文章-知乎](https://zhuanlan.zhihu.com/p/1980411923632763458)
+
 ## VR&AR
 
 1. [GeekLiB/AR-Source](https://github.com/GeekLiB/AR-Source)
@@ -318,4 +332,5 @@ pinned: false
 15. [一些不实用的惯性导航数据处理方法简介-yangongmin的文章-知乎](https://zhuanlan.zhihu.com/p/649070056)
 16. [组合导航-开源工程推荐-郭洋的文章-知乎](https://zhuanlan.zhihu.com/p/640781392)
 17. [请问怎么提升C++水平?-悲伤依赖的回答-知乎](https://www.zhihu.com/question/632624052/answer/1979597148547989763)
-18. [PID的600页狂飙：一本让作者都怀疑人生的控制“圣经”-萧然的文章-知乎](https://zhuanlan.zhihu.com/p/1983908539853472150)
+18. [自动驾驶决策控制与行为预测及运动规划综述文章-bug404的文章-知乎](https://zhuanlan.zhihu.com/p/399596082)
+19. [PID的600页狂飙：一本让作者都怀疑人生的控制“圣经”-萧然的文章-知乎](https://zhuanlan.zhihu.com/p/1983908539853472150)

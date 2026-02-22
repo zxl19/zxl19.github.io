@@ -49,10 +49,11 @@ pinned: false
 3. calendar
 4. sleep
 5. timedatectl
-6. [poetaman/arttime](https://github.com/poetaman/arttime)
-7. [octobanana/peaclock](https://github.com/octobanana/peaclock)
-8. [coolcode/tomato-clock](https://github.com/coolcode/tomato-clock)
-9. [lucassabreu/clockify-cli](https://github.com/lucassabreu/clockify-cli)
+6. [calcure](https://github.com/anufrievroman/calcure)
+7. [arttime](https://github.com/poetaman/arttime)
+8. [peaclock](https://github.com/octobanana/peaclock)
+9. [tomato](https://github.com/coolcode/tomato-clock)
+10. [clockify-cli](https://github.com/lucassabreu/clockify-cli)
 
 ## 计算器
 
@@ -91,12 +92,11 @@ pinned: false
 
 ## 压力测试
 
-1. [artillery](https://github.com/artilleryio/artillery)
+1. [stress](https://github.com/ColinIanKing/stress-ng)
 2. [fio](https://github.com/axboe/fio)
 3. [s-tui](https://github.com/amanusk/s-tui)
-4. [stress](https://github.com/ColinIanKing/stress-ng)
-5. [gpu_burn](https://github.com/wilicc/gpu-burn)
-6. [stressapptest](https://github.com/stressapptest/stressapptest)
+4. [gpu_burn](https://github.com/wilicc/gpu-burn)
+5. [stressapptest](https://github.com/stressapptest/stressapptest)
 
 ## 文件操作
 
@@ -124,7 +124,12 @@ pinned: false
 7. [bat](https://github.com/sharkdp/bat)
 8. [lnav](https://github.com/tstack/lnav)
 9. [tailspin](https://github.com/bensadeh/tailspin)
-10. [fltrdr](https://github.com/octobanana/fltrdr)
+10. [rich](https://github.com/Textualize/rich-cli)
+11. [fltrdr](https://github.com/octobanana/fltrdr)
+
+#### `.md`文件
+
+1. [frogmouth](https://github.com/Textualize/frogmouth)
 
 #### `.json`文件
 
@@ -182,6 +187,9 @@ pinned: false
 1. [vim](https://github.com/vim/vim)
 2. [neovim](https://github.com/neovim/neovim)
 3. [SpaceVim](https://github.com/wsdjeg/SpaceVim)
+4. [nano](https://www.nano-editor.org)
+5. [micro](https://github.com/micro-editor/micro)
+6. [pnana](https://github.com/Cyxuan0311/PNANA)
 
 ## 文本处理
 
@@ -318,13 +326,18 @@ pinned: false
 ### 负载测试
 
 1. ab
-2. [vegeta](https://github.com/tsenart/vegeta)
-3. [oha](https://github.com/hatoo/oha)
-4. [bombardier](https://github.com/codesenberg/bombardier)
-5. [dperf](https://github.com/baidu/dperf)
-6. [plow](https://github.com/six-ddc/plow)
-7. [ali](https://github.com/nakabonne/ali)
-8. [jplot](https://github.com/rs/jplot)
+2. [locust](https://github.com/locustio/locust)
+3. [vegeta](https://github.com/tsenart/vegeta)
+4. [oha](https://github.com/hatoo/oha)
+5. [artillery](https://github.com/artilleryio/artillery)
+6. [bombardier](https://github.com/codesenberg/bombardier)
+7. [dperf](https://github.com/baidu/dperf)
+8. [tcpcopy](https://github.com/session-replay-tools/tcpcopy)
+9. [go-stress-testing](https://github.com/link1st/go-stress-testing)
+10. [plow](https://github.com/six-ddc/plow)
+11. [ali](https://github.com/nakabonne/ali)
+12. [jplot](https://github.com/rs/jplot)
+13. [http_bench](https://github.com/linkxzhou/http_bench)
 
 ## 信息收集
 
@@ -339,6 +352,14 @@ pinned: false
 1. [40个超有趣的Linux命令行彩蛋和游戏.md](https://github.com/TommyZihao/Zihao-Blog)
 
 ### 彩蛋
+
+#### 艺术字
+
+1. [lolcat](https://github.com/busyloop/lolcat)
+2. [figlet](https://github.com/cmatsuoka/figlet)
+3. [pyfiglet](https://github.com/pwaller/pyfiglet)
+4. [durdraw](https://github.com/cmang/durdraw)
+5. [toilet](https://github.com/cacalabs/toilet)
 
 #### 格言
 

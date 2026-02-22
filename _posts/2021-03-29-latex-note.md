@@ -771,6 +771,7 @@ int main()
 6. [google/latexify_py](https://github.com/google/latexify_py)
 7. [connorferster/handcalcs](https://github.com/connorferster/handcalcs)
 8. [blaisewang/img2latex-mathpix](https://github.com/blaisewang/img2latex-mathpix)
+9. [SakuraMathcraft/LaTeXSnipper](https://github.com/SakuraMathcraft/LaTeXSnipper)
 
 ##### 数学笔记
 

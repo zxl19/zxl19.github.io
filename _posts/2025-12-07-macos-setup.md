@@ -132,10 +132,11 @@ pinned: false
 
 ### 截图录屏工具
 
-1. [CleanShot](https://cleanshot.com)
-2. [iShot](https://www.better365.com/ishot.html)
-3. [QuickRecorder](https://lihaoyun6.github.io/quickrecorder/)
-4. ScreenFlow
+1. [Screen Studio](https://screen.studio)
+2. [CleanShot](https://cleanshot.com)
+3. [iShot](https://www.better365.com/ishot.html)
+4. [QuickRecorder](https://lihaoyun6.github.io/quickrecorder/)
+5. ScreenFlow
 
 ## 剪切板
 

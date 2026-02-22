@@ -58,9 +58,11 @@ pinned: false
 ## Docker容器创建和管理
 
 1. [Docker Hub](https://hub.docker.com)
-2. [jesseduffield/lazydocker](https://github.com/jesseduffield/lazydocker)
-3. [portainer/portainer](https://github.com/portainer/portainer)
-4. [skanehira/docui](https://github.com/skanehira/docui)
+2. [wagoodman/dive](https://github.com/wagoodman/dive)
+3. [jesseduffield/lazydocker](https://github.com/jesseduffield/lazydocker)
+4. [portainer/portainer](https://github.com/portainer/portainer)
+5. [skanehira/docui](https://github.com/skanehira/docui)
+6. [TomasTomecek/sen](https://github.com/TomasTomecek/sen)
 
 ## 解决运行Docker需要sudo问题
 

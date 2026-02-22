@@ -249,8 +249,9 @@ pinned: false
 5. [yixuan/spectra](https://github.com/yixuan/spectra)
 6. [tpoisonooo/how-to-optimize-gemm](https://github.com/tpoisonooo/how-to-optimize-gemm)
 7. [flame/blislab](https://github.com/flame/blislab)
-8. [attractivechaos/matmul](https://github.com/attractivechaos/matmul)
+8. [tsoding/la](https://github.com/tsoding/la)
 9. [hosseinmoein/Tiger](https://github.com/hosseinmoein/Tiger)
+10. [attractivechaos/matmul](https://github.com/attractivechaos/matmul)
 
 ### 李群和李代数
 
