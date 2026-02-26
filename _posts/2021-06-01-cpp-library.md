@@ -50,6 +50,9 @@ pinned: false
 ### 文件系统
 
 1. [gulrak/filesystem](https://github.com/gulrak/filesystem)
+2. [cginternals/cppfs](https://github.com/cginternals/cppfs)
+3. [boostorg/filesystem](https://github.com/boostorg/filesystem)
+4. [cginternals/cpplocate](https://github.com/cginternals/cpplocate)
 
 ### 文件压缩
 
@@ -434,7 +437,8 @@ pinned: false
 9. [VcDevel/std-simd](https://github.com/VcDevel/std-simd)
 10. [preshing/cpp11-on-multicore](https://github.com/preshing/cpp11-on-multicore)
 11. [frozenca/BTree](https://github.com/frozenca/BTree)
-12. [lsils/kitty](https://github.com/lsils/kitty)
+12. [beniz/fiboheap](https://github.com/beniz/fiboheap)
+13. [lsils/kitty](https://github.com/lsils/kitty)
 
 ### 无锁队列
 

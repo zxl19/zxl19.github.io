@@ -37,7 +37,7 @@ pinned: false
 
 ## 软件包管理器
 
-1. apt
+1. [apt](https://tracker.debian.org/pkg/apt)
 2. [snap](https://snapcraft.io)
 3. [homebrew](https://brew.sh)
 4. [bauh](https://github.com/vinifmor/bauh)
@@ -98,18 +98,22 @@ pinned: false
 4. [gpu_burn](https://github.com/wilicc/gpu-burn)
 5. [stressapptest](https://github.com/stressapptest/stressapptest)
 
+## 混沌工程
+
+1. [chaosmonkey](https://github.com/Netflix/chaosmonkey)
+2. [pumba](https://github.com/alexei-led/pumba)
+
 ## 文件操作
 
 ### 文件查找
 
 1. find
-2. grep
-3. tree
-4. [fzf](https://github.com/junegunn/fzf)
-5. [rg](https://github.com/BurntSushi/ripgrep)
+2. locate
+3. updatedb
+4. tree
+5. [fzf](https://github.com/junegunn/fzf)
 6. [fd](https://github.com/sharkdp/fd)
 7. [sk](https://github.com/lotabout/skim)
-8. [ug](https://github.com/Genivia/ugrep)
 
 ### 文件查看
 
@@ -170,7 +174,30 @@ pinned: false
 
 1. [pandoc](https://github.com/jgm/pandoc)
 
-## 命令查询
+## 文件夹操作
+
+### 切换文件夹
+
+1. cd
+2. [zoxide](https://github.com/ajeetdsouza/zoxide)
+3. [j](https://github.com/wting/autojump)
+4. [z](https://github.com/rupa/z)
+
+## 命令操作
+
+### 命令查询
+
+1. which
+2. whereis
+3. type
+
+### 命令别名
+
+1. alias
+2. unalias
+3. command
+
+## 命令帮助查询
 
 1. man
 2. [tldr](https://github.com/tldr-pages/tldr)
@@ -182,7 +209,9 @@ pinned: false
 1. [thefuck](https://github.com/nvbn/thefuck)
 2. [try](https://github.com/binpash/try)
 
-## 文本编辑
+## 文本操作
+
+### 文本编辑
 
 1. [vim](https://github.com/vim/vim)
 2. [neovim](https://github.com/neovim/neovim)
@@ -190,14 +219,30 @@ pinned: false
 4. [nano](https://www.nano-editor.org)
 5. [micro](https://github.com/micro-editor/micro)
 6. [pnana](https://github.com/Cyxuan0311/PNANA)
+7. ed
 
-## 文本处理
+### 文本查找
+
+1. grep
+2. [rg](https://github.com/BurntSushi/ripgrep)
+3. [ug](https://github.com/Genivia/ugrep)
+
+### 文本处理
 
 1. [sed](https://www.gnu.org/software/sed/)
 2. [awk](https://github.com/onetrueawk/awk)
 3. [gawk](https://www.gnu.org/software/gawk/)
-4. column
-5. [sponge](https://joeyh.name/code/moreutils/)
+
+### 文本输出
+
+1. tee
+2. [sponge](https://joeyh.name/code/moreutils/)
+
+### 文本格式
+
+1. column
+2. sort
+3. uniq
 
 ## 终端
 
@@ -205,6 +250,8 @@ pinned: false
 
 1. [Zsh](https://zsh.sourceforge.io)
 2. [Oh My Zsh](https://github.com/ohmyzsh/ohmyzsh)
+3. [fish](https://github.com/fish-shell/fish-shell)
+4. [Oh My Fish](https://github.com/oh-my-fish/oh-my-fish)
 
 ### 终端模拟器
 
@@ -344,6 +391,11 @@ pinned: false
 1. [sherlock](https://github.com/sherlock-project/sherlock)
 2. [searxng/searxng](https://github.com/searxng/searxng)
 3. [iliane5/meridian](https://github.com/iliane5/meridian)
+
+## 密码管理
+
+1. sshpass
+2. [pass](https://www.passwordstore.org)
 
 ## 彩蛋和游戏
 

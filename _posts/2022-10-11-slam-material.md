@@ -186,11 +186,12 @@ pinned: false
 #### MATLAB
 
 1. [alirezaahmadi/KalmanFilter-Vehicle-GNSS-INS](https://github.com/alirezaahmadi/KalmanFilter-Vehicle-GNSS-INS)
-2. [yuzhou42/MSCKF](https://github.com/yuzhou42/MSCKF)
-3. [meyiao/LaserSLAM](https://github.com/meyiao/LaserSLAM)
-4. [RomaTeng/EKF-SLAM-on-Manifold](https://github.com/RomaTeng/EKF-SLAM-on-Manifold)
-5. [jaijuneja/ekf-slam-matlab](https://github.com/jaijuneja/ekf-slam-matlab)
-6. [yuzhou42/ESKF-Attitude-Estimation](https://github.com/yuzhou42/ESKF-Attitude-Estimation)
+2. [kaichen686/GINav](https://github.com/kaichen686/GINav)
+3. [yuzhou42/MSCKF](https://github.com/yuzhou42/MSCKF)
+4. [meyiao/LaserSLAM](https://github.com/meyiao/LaserSLAM)
+5. [RomaTeng/EKF-SLAM-on-Manifold](https://github.com/RomaTeng/EKF-SLAM-on-Manifold)
+6. [jaijuneja/ekf-slam-matlab](https://github.com/jaijuneja/ekf-slam-matlab)
+7. [yuzhou42/ESKF-Attitude-Estimation](https://github.com/yuzhou42/ESKF-Attitude-Estimation)
 
 #### Python
 
@@ -221,6 +222,7 @@ pinned: false
 11. [OpenSLAM-org/openslam_MTK](https://github.com/OpenSLAM-org/openslam_MTK)
 12. [xinyang-go/eskf](https://github.com/xinyang-go/eskf)
 13. [zha0ming1e/InEKF](https://github.com/zha0ming1e/InEKF)
+14. [aau-cns/ikf_lib](https://github.com/aau-cns/ikf_lib)
 
 ## 组合导航
 
@@ -293,15 +295,17 @@ pinned: false
 
 ### 网站
 
-1. [自动驾驶决策控制及运动规划史上最详细最接地气综述-Ismiracle的文章-知乎](https://zhuanlan.zhihu.com/p/260707853)
-2. [自动驾驶路径规划与行为预测最接地气详细综述-Ismiracle的文章-知乎](https://zhuanlan.zhihu.com/p/353327313)
-3. [无人车的决策和规划分别是负责什么的？两者的差别和联系是什么？-Partagons的回答-知乎](https://www.zhihu.com/question/41013884/answer/570082969)
-4. [自动驾驶决策规划---基于模型的预测方法-胖胖橙的文章-知乎](https://zhuanlan.zhihu.com/p/12939525225)
-5. [自动驾驶决策规划---路径与轨迹规划-胖胖橙的文章-知乎](https://zhuanlan.zhihu.com/p/13086561223)
-6. [自动驾驶决策规划---时空联合规划-胖胖橙的文章-知乎](https://zhuanlan.zhihu.com/p/13376371919)
-7. [自动驾驶决策规划---不确定性感知的决策过程-胖胖橙的文章-知乎](https://zhuanlan.zhihu.com/p/11652672895)
-8. [番外一：重新审视EM Planner的规划框架-胖胖橙的文章-知乎](https://zhuanlan.zhihu.com/p/1979534602667323915)
-9. [番外二：EM Planner在量产中的核心工程挑战-胖胖橙的文章-知乎](https://zhuanlan.zhihu.com/p/1980411923632763458)
+1. [LKH-3](http://webhotel4.ruc.dk/~keld/research/LKH-3/)
+2. [LKH](http://webhotel4.ruc.dk/~keld/research/LKH/)
+3. [自动驾驶决策控制及运动规划史上最详细最接地气综述-Ismiracle的文章-知乎](https://zhuanlan.zhihu.com/p/260707853)
+4. [自动驾驶路径规划与行为预测最接地气详细综述-Ismiracle的文章-知乎](https://zhuanlan.zhihu.com/p/353327313)
+5. [无人车的决策和规划分别是负责什么的？两者的差别和联系是什么？-Partagons的回答-知乎](https://www.zhihu.com/question/41013884/answer/570082969)
+6. [自动驾驶决策规划---基于模型的预测方法-胖胖橙的文章-知乎](https://zhuanlan.zhihu.com/p/12939525225)
+7. [自动驾驶决策规划---路径与轨迹规划-胖胖橙的文章-知乎](https://zhuanlan.zhihu.com/p/13086561223)
+8. [自动驾驶决策规划---时空联合规划-胖胖橙的文章-知乎](https://zhuanlan.zhihu.com/p/13376371919)
+9. [自动驾驶决策规划---不确定性感知的决策过程-胖胖橙的文章-知乎](https://zhuanlan.zhihu.com/p/11652672895)
+10. [番外一：重新审视EM Planner的规划框架-胖胖橙的文章-知乎](https://zhuanlan.zhihu.com/p/1979534602667323915)
+11. [番外二：EM Planner在量产中的核心工程挑战-胖胖橙的文章-知乎](https://zhuanlan.zhihu.com/p/1980411923632763458)
 
 ## VR&AR
 

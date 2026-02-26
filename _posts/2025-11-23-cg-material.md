@@ -143,6 +143,8 @@ pinned: false
 1. [Learn OpenGL](https://learnopengl.com)
 2. [Learn OpenGL中文版](https://learnopengl-cn.github.io)
 3. [ands/lightmapper](https://github.com/ands/lightmapper)
+4. [cginternals/glbinding](https://github.com/cginternals/glbinding)
+5. [cginternals/globjects](https://github.com/cginternals/globjects)
 
 ## Filament
 

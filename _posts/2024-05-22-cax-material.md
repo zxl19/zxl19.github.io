@@ -94,6 +94,16 @@ pinned: false
 3. [jasminemoreira/3D_printing](https://github.com/jasminemoreira/3D_printing)
 4. [jboirazian/LuneForge](https://github.com/jboirazian/LuneForge)
 
+## EDA
+
+电子设计自动化（Electronic Design Automation，EDA）。
+
+1. Altium Designer [链接](https://www.altium.com/altium-designer)
+2. EazyEDA [链接](https://easyeda.com)
+3. Proteus [链接](https://www.labcenter.com)
+4. Multisim [链接](https://www.ni.com/en/support/downloads/software-products/download.multisim.html#452133)
+5. Multisim Live [链接](https://www.multisim.com)
+
 ## 参考
 
 1. [LaTeX中有哪些奇技淫巧？-SeaniWu的回答-知乎](https://www.zhihu.com/question/358903003/answer/46259999254)
