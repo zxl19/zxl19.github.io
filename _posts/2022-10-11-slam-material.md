@@ -291,21 +291,29 @@ pinned: false
 12. [slam-code/apollo](https://github.com/slam-code/apollo)
 13. [0voice/Autonomous-Driving-Cpp](https://github.com/0voice/Autonomous-Driving-Cpp)
 
-## 规划和控制
+## 决策规划
 
 ### 网站
 
+1. [自动驾驶决策控制及运动规划史上最详细最接地气综述-Ismiracle的文章-知乎](https://zhuanlan.zhihu.com/p/260707853)
+2. [自动驾驶路径规划与行为预测最接地气详细综述-Ismiracle的文章-知乎](https://zhuanlan.zhihu.com/p/353327313)
+3. [无人车的决策和规划分别是负责什么的？两者的差别和联系是什么？-Partagons的回答-知乎](https://www.zhihu.com/question/41013884/answer/570082969)
+4. [自动驾驶决策规划---基于模型的预测方法-胖胖橙的文章-知乎](https://zhuanlan.zhihu.com/p/12939525225)
+5. [自动驾驶决策规划---路径与轨迹规划-胖胖橙的文章-知乎](https://zhuanlan.zhihu.com/p/13086561223)
+6. [自动驾驶决策规划---时空联合规划-胖胖橙的文章-知乎](https://zhuanlan.zhihu.com/p/13376371919)
+7. [自动驾驶决策规划---不确定性感知的决策过程-胖胖橙的文章-知乎](https://zhuanlan.zhihu.com/p/11652672895)
+8. [番外一：重新审视EM Planner的规划框架-胖胖橙的文章-知乎](https://zhuanlan.zhihu.com/p/1979534602667323915)
+9. [番外二：EM Planner在量产中的核心工程挑战-胖胖橙的文章-知乎](https://zhuanlan.zhihu.com/p/1980411923632763458)
+
+### Dijkstra
+
+1. [本科经典算法Dijkstra，被证明是普遍最优了：最坏情况性能也最优！-量子位的文章-知乎](https://zhuanlan.zhihu.com/p/3475462229)
+2. [本科必学Dijkstra算法被超越！清华段然团队打破图灵奖得主证明的普遍最优性-量子位的文章-知乎](https://zhuanlan.zhihu.com/p/1937528857444979048)
+
+### LKH
+
 1. [LKH-3](http://webhotel4.ruc.dk/~keld/research/LKH-3/)
 2. [LKH](http://webhotel4.ruc.dk/~keld/research/LKH/)
-3. [自动驾驶决策控制及运动规划史上最详细最接地气综述-Ismiracle的文章-知乎](https://zhuanlan.zhihu.com/p/260707853)
-4. [自动驾驶路径规划与行为预测最接地气详细综述-Ismiracle的文章-知乎](https://zhuanlan.zhihu.com/p/353327313)
-5. [无人车的决策和规划分别是负责什么的？两者的差别和联系是什么？-Partagons的回答-知乎](https://www.zhihu.com/question/41013884/answer/570082969)
-6. [自动驾驶决策规划---基于模型的预测方法-胖胖橙的文章-知乎](https://zhuanlan.zhihu.com/p/12939525225)
-7. [自动驾驶决策规划---路径与轨迹规划-胖胖橙的文章-知乎](https://zhuanlan.zhihu.com/p/13086561223)
-8. [自动驾驶决策规划---时空联合规划-胖胖橙的文章-知乎](https://zhuanlan.zhihu.com/p/13376371919)
-9. [自动驾驶决策规划---不确定性感知的决策过程-胖胖橙的文章-知乎](https://zhuanlan.zhihu.com/p/11652672895)
-10. [番外一：重新审视EM Planner的规划框架-胖胖橙的文章-知乎](https://zhuanlan.zhihu.com/p/1979534602667323915)
-11. [番外二：EM Planner在量产中的核心工程挑战-胖胖橙的文章-知乎](https://zhuanlan.zhihu.com/p/1980411923632763458)
 
 ## VR&AR
 

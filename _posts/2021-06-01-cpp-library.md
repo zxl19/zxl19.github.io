@@ -145,13 +145,15 @@ pinned: false
 #### `.json`文件
 
 1. [nlohmann/json](https://github.com/nlohmann/json)
-2. [Tencent/rapidjson](https://github.com/Tencent/rapidjson)
-3. [open-source-parsers/jsoncpp](https://github.com/open-source-parsers/jsoncpp)
-4. [dropbox/json11](https://github.com/dropbox/json11)
-5. [kazuho/picojson](https://github.com/kazuho/picojson)
-6. [Nomango/configor](https://github.com/Nomango/configor)
-7. [boostorg/json](https://github.com/boostorg/json)
-8. [taocpp/config](https://github.com/taocpp/config)
+2. [simdjson/simdjson](https://github.com/simdjson/simdjson)
+3. [Tencent/rapidjson](https://github.com/Tencent/rapidjson)
+4. [open-source-parsers/jsoncpp](https://github.com/open-source-parsers/jsoncpp)
+5. [dropbox/json11](https://github.com/dropbox/json11)
+6. [kazuho/picojson](https://github.com/kazuho/picojson)
+7. [danielaparker/jsoncons](https://github.com/danielaparker/jsoncons)
+8. [Nomango/configor](https://github.com/Nomango/configor)
+9. [boostorg/json](https://github.com/boostorg/json)
+10. [taocpp/config](https://github.com/taocpp/config)
 
 #### `.yaml`文件
 
@@ -395,11 +397,13 @@ pinned: false
 ### 文本界面（TUI）
 
 1. [ArthurSonzogni/FTXUI](https://github.com/ArthurSonzogni/FTXUI)
-2. [ggerganov/imtui](https://github.com/ggerganov/imtui)
-3. [magiblot/tvision](https://github.com/magiblot/tvision)
-4. [gansm/finalcut](https://github.com/gansm/finalcut)
-5. [a-n-t-h-o-n-y/TermOx](https://github.com/a-n-t-h-o-n-y/TermOx)
-6. [magiblot/turbo](https://github.com/magiblot/turbo)
+2. [dankamongmen/notcurses](https://github.com/dankamongmen/notcurses)
+3. [ggerganov/imtui](https://github.com/ggerganov/imtui)
+4. [magiblot/tvision](https://github.com/magiblot/tvision)
+5. [gansm/finalcut](https://github.com/gansm/finalcut)
+6. [a-n-t-h-o-n-y/TermOx](https://github.com/a-n-t-h-o-n-y/TermOx)
+7. [magiblot/turbo](https://github.com/magiblot/turbo)
+8. [mirror/ncurses](https://github.com/mirror/ncurses)
 
 ## 通信
 
@@ -565,10 +569,13 @@ pinned: false
 27. [c++日志记录都有哪些好的开源项目？-程序喵大人的回答-知乎](https://www.zhihu.com/question/37640953/answer/1898412255231608627)
 28. [OpenBLAS gemm从零入门-白牛的文章-知乎](https://zhuanlan.zhihu.com/p/65436463)
 29. [C++除了Qt还有什么GUI库？-南山烟雨珠江潮的回答-知乎](https://www.zhihu.com/question/587721560/answer/54075782082)
-30. [如何找合适的C++项目给自己的简历加分？-1412的回答-知乎](https://www.zhihu.com/question/280881677/answer/3151447745)
-31. [你读过的最好的C++开源代码是什么？-水元素实验室的回答-知乎](https://www.zhihu.com/question/21376384/answer/1977859613262119051)
-32. [C++高并发场景下，如何高效解决内存碎片化问题？-南山烟雨珠江潮的回答-知乎](https://www.zhihu.com/question/1977694857087718500/answer/1989065448755585337)
-33. [C++高并发场景下，如何高效解决内存碎片化问题？-全小鱼的回答-知乎](https://www.zhihu.com/question/1977694857087718500/answer/1989642478379361213)
-34. [有哪些朴实无华的c++库？-南山烟雨珠江潮的回答-知乎](https://www.zhihu.com/question/666819229/answer/4257047142)
-35. [C++后端开发，和高性能计算方向该怎么选？-南山烟雨珠江潮的回答-知乎](https://www.zhihu.com/question/1949516816452935693/answer/1971490626001428960)
-36. [C++多线程有哪些比较好的开源项目?-南山烟雨珠江潮的回答-知乎](https://www.zhihu.com/question/1974237994790695022/answer/1980203950465652035)
+30. [C++有什么好用的TUI库吗？-韦易笑的回答-知乎](https://www.zhihu.com/question/604320892/answer/1990892409245172667)
+31. [C++有什么好用的TUI库吗？-南山烟雨珠江潮的回答-知乎](https://www.zhihu.com/question/604320892/answer/1990412038699241700)
+32. [C++有什么好用的TUI库吗？-Lion 莱恩呀的回答-知乎](https://www.zhihu.com/question/604320892/answer/1991201719556780665)
+33. [如何找合适的C++项目给自己的简历加分？-1412的回答-知乎](https://www.zhihu.com/question/280881677/answer/3151447745)
+34. [你读过的最好的C++开源代码是什么？-水元素实验室的回答-知乎](https://www.zhihu.com/question/21376384/answer/1977859613262119051)
+35. [C++高并发场景下，如何高效解决内存碎片化问题？-南山烟雨珠江潮的回答-知乎](https://www.zhihu.com/question/1977694857087718500/answer/1989065448755585337)
+36. [C++高并发场景下，如何高效解决内存碎片化问题？-全小鱼的回答-知乎](https://www.zhihu.com/question/1977694857087718500/answer/1989642478379361213)
+37. [有哪些朴实无华的c++库？-南山烟雨珠江潮的回答-知乎](https://www.zhihu.com/question/666819229/answer/4257047142)
+38. [C++后端开发，和高性能计算方向该怎么选？-南山烟雨珠江潮的回答-知乎](https://www.zhihu.com/question/1949516816452935693/answer/1971490626001428960)
+39. [C++多线程有哪些比较好的开源项目?-南山烟雨珠江潮的回答-知乎](https://www.zhihu.com/question/1974237994790695022/answer/1980203950465652035)

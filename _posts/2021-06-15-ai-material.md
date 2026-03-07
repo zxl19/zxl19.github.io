@@ -74,7 +74,9 @@ pinned: false
 15. [RobustFieldAutonomyLab/DRL_graph_exploration](https://github.com/RobustFieldAutonomyLab/DRL_graph_exploration)
 16. [CHH3213/chhRL](https://github.com/CHH3213/chhRL)
 
-### 大模型
+### 生成式AI
+
+#### 大语言模型（LLM）
 
 1. [datawhalechina/self-llm](https://github.com/datawhalechina/self-llm)
 2. [datawhalechina/llm-cookbook](https://github.com/datawhalechina/llm-cookbook)

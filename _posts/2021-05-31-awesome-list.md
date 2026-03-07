@@ -192,18 +192,11 @@ The main repository serves as a curated list of awesome lists.
 2. [markodenic/awesome-tech-blogs](https://github.com/markodenic/awesome-tech-blogs)
 3. [learn-anything/blogs](https://github.com/learn-anything/blogs)
 
-## 大模型
+## 生成式AI
 
-### 视觉大模型
+### 大语言模型（LLM）
 
-1. [heejkoo/Awesome-Diffusion-Models](https://github.com/heejkoo/Awesome-Diffusion-Models)
-2. [hua1995116/awesome-ai-painting](https://github.com/hua1995116/awesome-ai-painting)
-3. [altryne/awesome-ai-art-image-synthesis](https://github.com/altryne/awesome-ai-art-image-synthesis)
-4. [awesome-stable-diffusion/awesome-stable-diffusion](https://github.com/awesome-stable-diffusion/awesome-stable-diffusion)
-
-### 语言大模型
-
-#### LLM
+#### 综合
 
 1. [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps)
 2. [Hannibal046/Awesome-LLM](https://github.com/Hannibal046/Awesome-LLM)
@@ -232,6 +225,13 @@ The main repository serves as a curated list of awesome lists.
 1. [deepseek-ai/awesome-deepseek-integration](https://github.com/deepseek-ai/awesome-deepseek-integration)
 2. [deepseek-ai/awesome-deepseek-coder](https://github.com/deepseek-ai/awesome-deepseek-coder)
 3. [deepseek-ai/FlashMLA](https://github.com/deepseek-ai/FlashMLA)
+
+### 文生图（Text-to-Image）
+
+1. [heejkoo/Awesome-Diffusion-Models](https://github.com/heejkoo/Awesome-Diffusion-Models)
+2. [hua1995116/awesome-ai-painting](https://github.com/hua1995116/awesome-ai-painting)
+3. [altryne/awesome-ai-art-image-synthesis](https://github.com/altryne/awesome-ai-art-image-synthesis)
+4. [awesome-stable-diffusion/awesome-stable-diffusion](https://github.com/awesome-stable-diffusion/awesome-stable-diffusion)
 
 ## Git（包括GitHub）
 

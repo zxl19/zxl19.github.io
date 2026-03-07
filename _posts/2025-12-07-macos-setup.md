@@ -213,6 +213,10 @@ pinned: false
 
 1. [Downie](https://software.charliemonroe.net/downie/)
 
+### 系统美化
+
+1. [taigrr/spank](https://github.com/taigrr/spank)
+
 ## 应用合集
 
 1. [hzlzh/Best-App](https://github.com/hzlzh/Best-App)

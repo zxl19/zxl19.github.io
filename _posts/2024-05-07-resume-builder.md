@@ -25,11 +25,13 @@ pinned: false
 ## GitHub
 
 1. [AmruthPillai/Reactive-Resume](https://github.com/AmruthPillai/Reactive-Resume)
-2. [xitanggg/open-resume](https://github.com/xitanggg/open-resume)
-3. [sadanandpai/resume-builder](https://github.com/sadanandpai/resume-builder)
-4. [acmenlei/codecv](https://github.com/acmenlei/codecv)
-5. [resuminator/resuminator](https://github.com/resuminator/resuminator)
-6. [sramezani/resume-builder](https://github.com/sramezani/resume-builder)
+2. [geekcompany/ResumeSample](https://github.com/geekcompany/ResumeSample)
+3. [geekcompany/DeerResume](https://github.com/geekcompany/DeerResume)
+4. [xitanggg/open-resume](https://github.com/xitanggg/open-resume)
+5. [sadanandpai/resume-builder](https://github.com/sadanandpai/resume-builder)
+6. [acmenlei/codecv](https://github.com/acmenlei/codecv)
+7. [sramezani/resume-builder](https://github.com/sramezani/resume-builder)
+8. [resuminator/resuminator](https://github.com/resuminator/resuminator)
 
 ## 参考
 

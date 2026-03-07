@@ -58,10 +58,11 @@ pinned: false
 ## 计算器
 
 1. bc
-2. expr
-3. gnome-calculator
-4. factor
-5. [primesieve](https://github.com/kimwalisch/primesieve)
+2. dc
+3. expr
+4. gnome-calculator
+5. factor
+6. [primesieve](https://github.com/kimwalisch/primesieve)
 
 ## 性能监控
 
@@ -334,8 +335,9 @@ pinned: false
 7. [KDAB/hotspot](https://github.com/KDAB/hotspot)
 8. [parca-dev/parca](https://github.com/parca-dev/parca)
 9. [KDE/heaptrack](https://github.com/KDE/heaptrack)
-10. [xiw/stack](https://github.com/xiw/stack)
-11. [intel/iaprof](https://github.com/intel/iaprof)
+10. [RRZE-HPC/likwid](https://github.com/RRZE-HPC/likwid)
+11. [xiw/stack](https://github.com/xiw/stack)
+12. [intel/iaprof](https://github.com/intel/iaprof)
 
 ### 调试界面美化
 
@@ -372,7 +374,7 @@ pinned: false
 
 ### 负载测试
 
-1. ab
+1. [ab](https://github.com/apache/httpd)
 2. [locust](https://github.com/locustio/locust)
 3. [vegeta](https://github.com/tsenart/vegeta)
 4. [oha](https://github.com/hatoo/oha)

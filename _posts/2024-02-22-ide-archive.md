@@ -42,15 +42,6 @@ pinned: false
 2. [Hex Fiend](https://hexfiend.com)
 3. [REHex](https://github.com/solemnwarning/rehex)
 
-### 大模型
-
-1. [Cursor](https://www.cursor.com)
-2. [Augment Code](https://www.augmentcode.com)
-3. [Windsurf](https://codeium.com/windsurf)
-4. [Trae](https://www.trae.ai)
-5. [Void](https://voideditor.com)
-6. [Melty](https://melty.sh)
-
 ## C/C++
 
 1. [CLion](https://www.jetbrains.com/clion/)
@@ -97,10 +88,7 @@ pinned: false
 20. [WerWolv/ImHex](https://github.com/WerWolv/ImHex)
 21. [HexFiend/HexFiend](https://github.com/HexFiend/HexFiend)
 22. [solemnwarning/rehex](https://github.com/solemnwarning/rehex)
-23. [Cursor：全面详解开箱即用的AI工具（附科学使用方式）-冷眸的文章-知乎](https://zhuanlan.zhihu.com/p/16071956055)
-24. [voideditor/void](https://github.com/voideditor/void)
-25. [meltylabs/melty](https://github.com/meltylabs/melty)
-26. [Embarcadero/Dev-Cpp](https://github.com/Embarcadero/Dev-Cpp)
-27. [thonny/thonny](https://github.com/thonny/thonny)
-28. [mu-editor/mu](https://github.com/mu-editor/mu)
-29. [rstudio/rstudio](https://github.com/rstudio/rstudio)
+23. [Embarcadero/Dev-Cpp](https://github.com/Embarcadero/Dev-Cpp)
+24. [thonny/thonny](https://github.com/thonny/thonny)
+25. [mu-editor/mu](https://github.com/mu-editor/mu)
+26. [rstudio/rstudio](https://github.com/rstudio/rstudio)

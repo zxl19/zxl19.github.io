@@ -868,13 +868,14 @@ int main()
 
 1. [posquit0/Awesome-CV](https://github.com/posquit0/Awesome-CV)
 2. [billryan/resume](https://github.com/billryan/resume)
-3. [sb2nov/resume](https://github.com/sb2nov/resume)
-4. [dyweb/awesome-resume-for-chinese](https://github.com/dyweb/awesome-resume-for-chinese)
-5. [jankapunkt/latexcv](https://github.com/jankapunkt/latexcv)
-6. [hijiangtao/resume](https://github.com/hijiangtao/resume)
-7. [darwiin/yaac-another-awesome-cv](https://github.com/darwiin/yaac-another-awesome-cv)
-8. [huajh/awesome-latex-cv](https://github.com/huajh/awesome-latex-cv)
-9. [dyweb/Deedy-Resume-for-Chinese](https://github.com/dyweb/Deedy-Resume-for-Chinese)
+3. [dyweb/awesome-resume-for-chinese](https://github.com/dyweb/awesome-resume-for-chinese)
+4. [sb2nov/resume](https://github.com/sb2nov/resume)
+5. [deedy/Deedy-Resume](https://github.com/deedy/Deedy-Resume)
+6. [dyweb/Deedy-Resume-for-Chinese](https://github.com/dyweb/Deedy-Resume-for-Chinese)
+7. [jankapunkt/latexcv](https://github.com/jankapunkt/latexcv)
+8. [hijiangtao/resume](https://github.com/hijiangtao/resume)
+9. [darwiin/yaac-another-awesome-cv](https://github.com/darwiin/yaac-another-awesome-cv)
+10. [huajh/awesome-latex-cv](https://github.com/huajh/awesome-latex-cv)
 
 ###### Beamer模板
 

@@ -34,27 +34,30 @@ pinned: false
 
 ## 电子书
 
-1. [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books)
-2. [justjavac/free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN)
-3. [forthespada/CS-Books](https://github.com/forthespada/CS-Books)
-4. [ruanyf/free-books](https://github.com/ruanyf/free-books)
-5. [jobbole/awesome-programming-books](https://github.com/jobbole/awesome-programming-books)
-6. [it-ebooks-0/geektime-books](https://github.com/it-ebooks-0/geektime-books)
-7. [iamshuaidi/CS-Book](https://github.com/iamshuaidi/CS-Book)
-8. [Jackpopc/CS-Books-Store](https://github.com/Jackpopc/CS-Books-Store)
-9. [royeo/awesome-programming-books](https://github.com/royeo/awesome-programming-books)
-10. [awesome-programming-books/awesome-programming-books.github.io](https://github.com/awesome-programming-books/awesome-programming-books.github.io)
-11. [tangtangcoding/C-C-](https://github.com/tangtangcoding/C-C-)
-12. [lizhenghn123/StudyBooks](https://github.com/lizhenghn123/StudyBooks)
-13. [bumzy/book](https://github.com/bumzy/book)
-14. [HongYiMU/TheAlgorithm](https://github.com/HongYiMU/TheAlgorithm)
-15. [billhhh/The-C-Book](https://github.com/billhhh/The-C-Book)
-16. [zhangcunli/ebook](https://github.com/zhangcunli/ebook)
-17. [YuxuanLing/books](https://github.com/YuxuanLing/books)
-18. [apachecn/phei-cs-book](https://github.com/apachecn/phei-cs-book)
-19. [ysj1173886760/Learning](https://github.com/ysj1173886760/Learning)
-20. [ysj1173886760/paper_notes](https://github.com/ysj1173886760/paper_notes)
-21. [franktea/ebooks](https://github.com/franktea/ebooks)
+1. [Software Engineering at Google](https://abseil.io/resources/swe-book)
+2. [qiangmzsx/Software-Engineering-at-Google](https://github.com/qiangmzsx/Software-Engineering-at-Google)
+3. [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books)
+4. [justjavac/free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN)
+5. [forthespada/CS-Books](https://github.com/forthespada/CS-Books)
+6. [ruanyf/free-books](https://github.com/ruanyf/free-books)
+7. [jobbole/awesome-programming-books](https://github.com/jobbole/awesome-programming-books)
+8. [it-ebooks-0/geektime-books](https://github.com/it-ebooks-0/geektime-books)
+9. [iamshuaidi/CS-Book](https://github.com/iamshuaidi/CS-Book)
+10. [Jackpopc/CS-Books-Store](https://github.com/Jackpopc/CS-Books-Store)
+11. [royeo/awesome-programming-books](https://github.com/royeo/awesome-programming-books)
+12. [awesome-programming-books/awesome-programming-books.github.io](https://github.com/awesome-programming-books/awesome-programming-books.github.io)
+13. [tangtangcoding/C-C-](https://github.com/tangtangcoding/C-C-)
+14. [lizhenghn123/StudyBooks](https://github.com/lizhenghn123/StudyBooks)
+15. [bumzy/book](https://github.com/bumzy/book)
+16. [HongYiMU/TheAlgorithm](https://github.com/HongYiMU/TheAlgorithm)
+17. [billhhh/The-C-Book](https://github.com/billhhh/The-C-Book)
+18. [zhangcunli/ebook](https://github.com/zhangcunli/ebook)
+19. [YuxuanLing/books](https://github.com/YuxuanLing/books)
+20. [ThisIsSakshi/Books](https://github.com/ThisIsSakshi/Books)
+21. [apachecn/phei-cs-book](https://github.com/apachecn/phei-cs-book)
+22. [ysj1173886760/Learning](https://github.com/ysj1173886760/Learning)
+23. [ysj1173886760/paper_notes](https://github.com/ysj1173886760/paper_notes)
+24. [franktea/ebooks](https://github.com/franktea/ebooks)
 
 ## 公开课
 
@@ -105,11 +108,14 @@ pinned: false
 
 ## 硬件模拟
 
-1. [mamedev/mame](https://github.com/mamedev/mame)
-2. [FEX-Emu/FEX](https://github.com/FEX-Emu/FEX)
-3. [InkboxSoftware/excelCPU](https://github.com/InkboxSoftware/excelCPU)
+1. [qemu/qemu](https://github.com/qemu/qemu)
+2. [mamedev/mame](https://github.com/mamedev/mame)
+3. [FEX-Emu/FEX](https://github.com/FEX-Emu/FEX)
+4. [InkboxSoftware/excelCPU](https://github.com/InkboxSoftware/excelCPU)
 
 ## 杂谈
+
+又新又好的Jeff Dean笑话：
 
 1. [计算机领域有哪些经典的典故或笑话？-绅士提督不笑船的回答-知乎](https://www.zhihu.com/question/20034686/answer/20646787)
 2. [计算机科学领域有什么笑话？-林致远Jerry的回答-知乎](https://www.zhihu.com/question/280415174/answer/3007182684)
