@@ -258,8 +258,8 @@ pinned: false
 
 1. [terminator](https://github.com/gnome-terminator/terminator)
 2. [alacritty/alacritty](https://github.com/alacritty/alacritty)
-3. [GitSquared/edex-ui](https://github.com/GitSquared/edex-ui)
-4. [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty)
+3. [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty)
+4. [GitSquared/edex-ui](https://github.com/GitSquared/edex-ui)
 5. [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty)
 6. [Swordfish90/cool-retro-term](https://github.com/Swordfish90/cool-retro-term)
 7. [wavetermdev/waveterm](https://github.com/wavetermdev/waveterm)
@@ -327,17 +327,18 @@ pinned: false
 ### 调试优化工具
 
 1. [gdb](https://sourceware.org/gdb/)
-2. [valgrind](https://valgrind.org)
-3. [flamegraph.pl](https://github.com/brendangregg/FlameGraph)
-4. [iovisor/bcc](https://github.com/iovisor/bcc)
-5. [google/sanitizers](https://github.com/google/sanitizers)
-6. [brendangregg/perf-tools](https://github.com/brendangregg/perf-tools)
-7. [KDAB/hotspot](https://github.com/KDAB/hotspot)
-8. [parca-dev/parca](https://github.com/parca-dev/parca)
-9. [KDE/heaptrack](https://github.com/KDE/heaptrack)
-10. [RRZE-HPC/likwid](https://github.com/RRZE-HPC/likwid)
-11. [xiw/stack](https://github.com/xiw/stack)
-12. [intel/iaprof](https://github.com/intel/iaprof)
+2. [lldb](https://lldb.llvm.org)
+3. [valgrind](https://valgrind.org)
+4. [flamegraph.pl](https://github.com/brendangregg/FlameGraph)
+5. [iovisor/bcc](https://github.com/iovisor/bcc)
+6. [google/sanitizers](https://github.com/google/sanitizers)
+7. [brendangregg/perf-tools](https://github.com/brendangregg/perf-tools)
+8. [KDAB/hotspot](https://github.com/KDAB/hotspot)
+9. [parca-dev/parca](https://github.com/parca-dev/parca)
+10. [KDE/heaptrack](https://github.com/KDE/heaptrack)
+11. [RRZE-HPC/likwid](https://github.com/RRZE-HPC/likwid)
+12. [xiw/stack](https://github.com/xiw/stack)
+13. [intel/iaprof](https://github.com/intel/iaprof)
 
 ### 调试界面美化
 
@@ -399,6 +400,11 @@ pinned: false
 1. sshpass
 2. [pass](https://www.passwordstore.org)
 
+## 加密
+
+1. md5sum
+2. sha512sum
+
 ## 彩蛋和游戏
 
 ### 合集
@@ -414,6 +420,7 @@ pinned: false
 3. [pyfiglet](https://github.com/pwaller/pyfiglet)
 4. [durdraw](https://github.com/cmang/durdraw)
 5. [toilet](https://github.com/cacalabs/toilet)
+6. [xero/figlet-fonts](https://github.com/xero/figlet-fonts)
 
 #### 格言
 

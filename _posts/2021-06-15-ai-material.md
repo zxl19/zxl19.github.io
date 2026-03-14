@@ -74,18 +74,6 @@ pinned: false
 15. [RobustFieldAutonomyLab/DRL_graph_exploration](https://github.com/RobustFieldAutonomyLab/DRL_graph_exploration)
 16. [CHH3213/chhRL](https://github.com/CHH3213/chhRL)
 
-### 生成式AI
-
-#### 大语言模型（LLM）
-
-1. [datawhalechina/self-llm](https://github.com/datawhalechina/self-llm)
-2. [datawhalechina/llm-cookbook](https://github.com/datawhalechina/llm-cookbook)
-3. [datawhalechina/happy-llm](https://github.com/datawhalechina/happy-llm)
-4. [datawhalechina/llm-universe](https://github.com/datawhalechina/llm-universe)
-5. [Lordog/dive-into-llms](https://github.com/Lordog/dive-into-llms)
-6. [datawhalechina/hello-agents](https://github.com/datawhalechina/hello-agents)
-7. [datawhalechina/all-in-rag](https://github.com/datawhalechina/all-in-rag)
-
 ## 笔记
 
 1. [Data Science Cheat Sheets](https://www.datacamp.com/cheat-sheet)

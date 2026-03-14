@@ -40,6 +40,12 @@ pinned: false
 1. [AlDente](https://apphousekitchen.com)
 2. [Battery](https://www.better365.com/battery.html)
 
+### 休眠管理
+
+1. [KeepingYouAwake](https://keepingyouawake.app)
+2. [Caffeine](https://www.caffeine-app.net)
+3. Amphetamine
+
 ### 风扇管理
 
 1. [iFan](https://www.better365.com/h-col-195.html)
@@ -58,6 +64,7 @@ pinned: false
 
 1. [AppCleaner](https://freemacsoft.net/appcleaner/)
 2. [XApp](https://www.better365.com/xapp.html)
+3. [Updater](https://www.mac-updater.app)
 
 ### 自动化
 
@@ -82,7 +89,7 @@ pinned: false
 3. [超级右键](https://www.better365.com/irightmouse.html)
 4. Spotlight
 
-### 窗口管理
+### 窗口切换
 
 1. [Manico](https://manico.im)
 2. [AltTab](https://alt-tab-macos.netlify.app)
@@ -111,11 +118,12 @@ pinned: false
 
 1. [Bartender](https://www.macbartender.com)
 2. [One Switch](https://fireball.studio/oneswitch)
-3. [MenubarX](https://menubarx.app)
-4. [iBar](https://www.better365.com/ibar.html)
-5. [SketchyBar](https://felixkratz.github.io/SketchyBar/)
-6. [simple-bar](https://github.com/Jean-Tinland/simple-bar)
-7. [spacebar](https://github.com/cmacrae/spacebar)
+3. [Barly](https://www.barly.app)
+4. [MenubarX](https://menubarx.app)
+5. [iBar](https://www.better365.com/ibar.html)
+6. [SketchyBar](https://felixkratz.github.io/SketchyBar/)
+7. [simple-bar](https://github.com/Jean-Tinland/simple-bar)
+8. [spacebar](https://github.com/cmacrae/spacebar)
 
 ## 办公相关
 
@@ -177,6 +185,10 @@ pinned: false
     - [OmniOutliner](https://www.omnigroup.com/omnioutliner)
 
 ## 科研相关
+
+### 文本编辑器
+
+1. [TextMate](https://macromates.com)
 
 ### 虚拟机
 

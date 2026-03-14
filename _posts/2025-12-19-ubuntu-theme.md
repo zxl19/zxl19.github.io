@@ -50,6 +50,10 @@ pinned: false
 2. [vinceliuice/MacTahoe-icon-theme](https://github.com/vinceliuice/MacTahoe-icon-theme)
 3. [kayozxo/GNOME-macOS-Tahoe](https://github.com/kayozxo/GNOME-macOS-Tahoe)
 
+## 其他
+
+1. [PapirusDevelopmentTeam/papirus-icon-theme](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme)
+
 ## 参考
 
 1. [买不起Mac，我把Linux变成了MacOS丨Datastream-bilibili](https://www.bilibili.com/video/BV1g1qpBrEK2/)
