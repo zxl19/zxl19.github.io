@@ -46,17 +46,18 @@ pinned: false
 
 ### 自动驾驶相关
 
-1. [TANG ZhiXiong's Blog](http://blog.tangzhixiong.com)
-2. [GCC](https://candyguo.github.io)
-3. [登龙](https://dlonng.com)
-4. [muzing的杂货铺](https://muzing.top)
-5. [Joe Dinius](https://jwdinius.github.io)
-6. [ego's blog](https://fgc346.github.io)
-7. [ADAS之眼](https://jokereyeadas.github.io)
-8. [CHH3213](https://chh3213.github.io)
-9. [CHH3213-CSDN博客](https://blog.csdn.net/weixin_42301220)
-10. [上善若水](https://xinetzone.github.io)
-11. [Ewenwan/living](https://github.com/Ewenwan/living)
+1. [Jacob Zhong](https://zyxin.xyz)
+2. [TANG ZhiXiong's Blog](http://blog.tangzhixiong.com)
+3. [GCC](https://candyguo.github.io)
+4. [登龙](https://dlonng.com)
+5. [muzing的杂货铺](https://muzing.top)
+6. [Joe Dinius](https://jwdinius.github.io)
+7. [ego's blog](https://fgc346.github.io)
+8. [ADAS之眼](https://jokereyeadas.github.io)
+9. [CHH3213](https://chh3213.github.io)
+10. [CHH3213-CSDN博客](https://blog.csdn.net/weixin_42301220)
+11. [上善若水](https://xinetzone.github.io)
+12. [Ewenwan/living](https://github.com/Ewenwan/living)
 
 ### 随笔
 

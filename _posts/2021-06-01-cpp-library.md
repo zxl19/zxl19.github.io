@@ -104,7 +104,12 @@ pinned: false
 ## 日期时间
 
 1. [HowardHinnant/date](https://github.com/HowardHinnant/date)
-2. [nachovizzo/ScopeTimer](https://github.com/nachovizzo/ScopeTimer)
+2. [99x/timercpp](https://github.com/99x/timercpp)
+3. [eglimi/cpptime](https://github.com/eglimi/cpptime)
+4. [sailormoon/stopwatch](https://github.com/sailormoon/stopwatch)
+5. [hidva/timer](https://github.com/hidva/timer)
+6. [andremaravilha/cxxtimer](https://github.com/andremaravilha/cxxtimer)
+7. [nachovizzo/ScopeTimer](https://github.com/nachovizzo/ScopeTimer)
 
 ## 基础库
 
@@ -119,12 +124,21 @@ pinned: false
 9. [mattiasgustavsson/libs](https://github.com/mattiasgustavsson/libs)
 10. [Water-Melon/Melon](https://github.com/Water-Melon/Melon)
 11. [prideout/par](https://github.com/prideout/par)
-12. [gingerBill/gb](https://github.com/gingerBill/gb)
-13. [forrestthewoods/lib_fts](https://github.com/forrestthewoods/lib_fts)
-14. [electronicarts/EAStdC](https://github.com/electronicarts/EAStdC)
-15. [adah1972/nvwa](https://github.com/adah1972/nvwa)
-16. [adah1972/mozi](https://github.com/adah1972/mozi)
-17. [MariadeAnton/MiLi](https://github.com/MariadeAnton/MiLi)
+12. [happyfish100/libfastcommon](https://github.com/happyfish100/libfastcommon)
+13. [gingerBill/gb](https://github.com/gingerBill/gb)
+14. [forrestthewoods/lib_fts](https://github.com/forrestthewoods/lib_fts)
+15. [electronicarts/EAStdC](https://github.com/electronicarts/EAStdC)
+16. [adah1972/nvwa](https://github.com/adah1972/nvwa)
+17. [adah1972/mozi](https://github.com/adah1972/mozi)
+18. [MariadeAnton/MiLi](https://github.com/MariadeAnton/MiLi)
+
+## 标准库
+
+1. [boostorg/pfr](https://github.com/boostorg/pfr)
+2. [VcDevel/std-simd](https://github.com/VcDevel/std-simd)
+3. [preshing/cpp11-on-multicore](https://github.com/preshing/cpp11-on-multicore)
+4. [aurora-opensource/au](https://github.com/aurora-opensource/au)
+5. [lsils/kitty](https://github.com/lsils/kitty)
 
 ## 参数读取
 
@@ -239,9 +253,10 @@ pinned: false
 12. [NVlabs/tiny-cuda-nn](https://github.com/NVlabs/tiny-cuda-nn)
 13. [shogun-toolbox/shogun](https://github.com/shogun-toolbox/shogun)
 14. [yixuan/MiniDNN](https://github.com/yixuan/MiniDNN)
-15. [arrayfire/arrayfire-ml](https://github.com/arrayfire/arrayfire-ml)
-16. [rockcarry/ffcnn](https://github.com/rockcarry/ffcnn)
-17. [10-zin/cpp-micrograd](https://github.com/10-zin/cpp-micrograd)
+15. [OpenANN/OpenANN](https://github.com/OpenANN/OpenANN)
+16. [arrayfire/arrayfire-ml](https://github.com/arrayfire/arrayfire-ml)
+17. [rockcarry/ffcnn](https://github.com/rockcarry/ffcnn)
+18. [10-zin/cpp-micrograd](https://github.com/10-zin/cpp-micrograd)
 
 ## 数学计算
 
@@ -363,23 +378,17 @@ pinned: false
 2. [google/flatbuffers](https://github.com/google/flatbuffers)
 3. [apache/arrow](https://github.com/apache/arrow)
 4. [capnproto/capnproto](https://github.com/capnproto/capnproto)
-5. [USCiLab/cereal](https://github.com/USCiLab/cereal)
-6. [felixguendling/cista](https://github.com/felixguendling/cista)
-7. [qicosmos/iguana](https://github.com/qicosmos/iguana)
-8. [p-ranav/alpaca](https://github.com/p-ranav/alpaca)
+5. [msgpack/msgpack](https://github.com/msgpack/msgpack)
+6. [msgpack/msgpack-c](https://github.com/msgpack/msgpack-c)
+7. [USCiLab/cereal](https://github.com/USCiLab/cereal)
+8. [felixguendling/cista](https://github.com/felixguendling/cista)
+9. [qicosmos/iguana](https://github.com/qicosmos/iguana)
+10. [p-ranav/alpaca](https://github.com/p-ranav/alpaca)
 
 ## 多态
 
 1. [microsoft/proxy](https://github.com/microsoft/proxy)
 2. [kelbon/AnyAny](https://github.com/kelbon/AnyAny)
-
-## 有限状态机
-
-1. [BehaviorTree/BehaviorTree.CPP](https://github.com/BehaviorTree/BehaviorTree.CPP)
-2. [boost-ext/sml](https://github.com/boost-ext/sml)
-3. [digint/tinyfsm](https://github.com/digint/tinyfsm)
-4. [qlibs/sml](https://github.com/qlibs/sml)
-5. [CodeSports/State-Machine-Using-Boost-Statechart](https://github.com/CodeSports/State-Machine-Using-Boost-Statechart)
 
 ## 可视化界面
 
@@ -430,19 +439,29 @@ pinned: false
 
 ### 标准模板库
 
-1. [google/leveldb](https://github.com/google/leveldb)
-2. [Alinshans/MyTinySTL](https://github.com/Alinshans/MyTinySTL)
-3. [electronicarts/EASTL](https://github.com/electronicarts/EASTL)
+1. [Alinshans/MyTinySTL](https://github.com/Alinshans/MyTinySTL)
+2. [electronicarts/EASTL](https://github.com/electronicarts/EASTL)
+3. [tezc/sc](https://github.com/tezc/sc)
 4. [zouxiaohang/TinySTL](https://github.com/zouxiaohang/TinySTL)
-5. [skarupke/flat_hash_map](https://github.com/skarupke/flat_hash_map)
-6. [VcDevel/Vc](https://github.com/VcDevel/Vc)
-7. [boostorg/pfr](https://github.com/boostorg/pfr)
-8. [stotko/stdgpu](https://github.com/stotko/stdgpu)
-9. [VcDevel/std-simd](https://github.com/VcDevel/std-simd)
-10. [preshing/cpp11-on-multicore](https://github.com/preshing/cpp11-on-multicore)
-11. [frozenca/BTree](https://github.com/frozenca/BTree)
-12. [beniz/fiboheap](https://github.com/beniz/fiboheap)
-13. [lsils/kitty](https://github.com/lsils/kitty)
+5. [hirrolot/datatype99](https://github.com/hirrolot/datatype99)
+6. [stotko/stdgpu](https://github.com/stotko/stdgpu)
+7. [frozenca/BTree](https://github.com/frozenca/BTree)
+8. [beniz/fiboheap](https://github.com/beniz/fiboheap)
+
+### 顺序容器
+
+1. [VcDevel/Vc](https://github.com/VcDevel/Vc)
+
+### 关联容器
+
+1. [google/leveldb](https://github.com/google/leveldb)
+2. [skarupke/flat_hash_map](https://github.com/skarupke/flat_hash_map)
+3. [Tessil/robin-map](https://github.com/Tessil/robin-map)
+4. [Tessil/hat-trie](https://github.com/Tessil/hat-trie)
+5. [Tessil/hopscotch-map](https://github.com/Tessil/hopscotch-map)
+6. [Tessil/ordered-map](https://github.com/Tessil/ordered-map)
+7. [Tessil/sparse-map](https://github.com/Tessil/sparse-map)
+8. [Tessil/array-hash](https://github.com/Tessil/array-hash)
 
 ### 无锁队列
 
@@ -506,10 +525,11 @@ pinned: false
 8. [alibaba/async_simple](https://github.com/alibaba/async_simple)
 9. [lzpong/threadpool](https://github.com/lzpong/threadpool)
 10. [mbrossard/threadpool](https://github.com/mbrossard/threadpool)
-11. [lizhenghn123/zl_threadpool](https://github.com/lizhenghn123/zl_threadpool)
+11. [owent/libcopp](https://github.com/owent/libcopp)
 12. [ConorWilliams/libfork](https://github.com/ConorWilliams/libfork)
-13. [electronicarts/EAThread](https://github.com/electronicarts/EAThread)
-14. [tghosgor/threadpool11](https://github.com/tghosgor/threadpool11)
+13. [lizhenghn123/zl_threadpool](https://github.com/lizhenghn123/zl_threadpool)
+14. [electronicarts/EAThread](https://github.com/electronicarts/EAThread)
+15. [tghosgor/threadpool11](https://github.com/tghosgor/threadpool11)
 
 ## 惰性求值
 

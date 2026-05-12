@@ -53,7 +53,13 @@ pinned: false
 7. [arttime](https://github.com/poetaman/arttime)
 8. [peaclock](https://github.com/octobanana/peaclock)
 9. [tomato](https://github.com/coolcode/tomato-clock)
-10. [clockify-cli](https://github.com/lucassabreu/clockify-cli)
+10. [tomato](https://github.com/gabrielzschmitz/Tomato.C)
+11. [clockify-cli](https://github.com/lucassabreu/clockify-cli)
+
+## 时钟同步
+
+1. [linuxptp](https://github.com/richardcochran/linuxptp)
+2. [ethtool](https://github.com/Distrotech/ethtool)
 
 ## 计算器
 
@@ -244,6 +250,8 @@ pinned: false
 1. column
 2. sort
 3. uniq
+4. shuf
+5. wc
 
 ## 终端
 
@@ -402,8 +410,9 @@ pinned: false
 
 ## 加密
 
-1. md5sum
-2. sha512sum
+1. [gpg](https://www.gnupg.org)
+2. md5sum
+3. sha512sum
 
 ## 彩蛋和游戏
 

@@ -20,10 +20,11 @@ pinned: false
 选择合适的博客模板可以实现更加复杂的博客功能并提高博客的美观性，具体可以在[Jekyll Themes](http://jekyllthemes.org)网站上进行选择。本博客使用[FromEndWorld/LOFFER](https://github.com/FromEndWorld/LOFFER)模板进行搭建，具体使用方式参考模板教程，在此向原作者表示感谢。完成此步骤之后，可以实现基本的博客功能。
 
 1. [academicpages/academicpages.github.io](https://github.com/academicpages/academicpages.github.io)
-2. [RayeRen/acad-homepage.github.io](https://github.com/RayeRen/acad-homepage.github.io)
-3. [gaowei-space/markdown-blog](https://github.com/gaowei-space/markdown-blog)
-4. [FromEndWorld/LOFFER](https://github.com/FromEndWorld/LOFFER)
-5. [lemonchann/lemonchann.github.io](https://github.com/lemonchann/lemonchann.github.io)
+2. [HugoBlox/hugo-theme-academic-cv](https://github.com/HugoBlox/hugo-theme-academic-cv)
+3. [RayeRen/acad-homepage.github.io](https://github.com/RayeRen/acad-homepage.github.io)
+4. [gaowei-space/markdown-blog](https://github.com/gaowei-space/markdown-blog)
+5. [FromEndWorld/LOFFER](https://github.com/FromEndWorld/LOFFER)
+6. [lemonchann/lemonchann.github.io](https://github.com/lemonchann/lemonchann.github.io)
 
 ### 选择开源协议
 

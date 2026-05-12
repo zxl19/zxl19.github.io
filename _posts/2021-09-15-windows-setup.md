@@ -152,10 +152,11 @@ pinned: false
 4. [Snipaste](https://www.snipaste.com)
 5. [ZoomIt](https://learn.microsoft.com/en-us/sysinternals/downloads/zoomit)
 
-#### 番茄钟
+#### 番茄钟&计时器
 
 1. [Pomotroid](https://splode.github.io/pomotroid/)
 2. [Pomatez](https://zidoro.github.io/pomatez/)
+3. [Catime](https://cati.me)
 
 #### 护眼工具
 
