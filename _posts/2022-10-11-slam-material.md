@@ -226,6 +226,12 @@ pinned: false
 13. [zha0ming1e/InEKF](https://github.com/zha0ming1e/InEKF)
 14. [aau-cns/ikf_lib](https://github.com/aau-cns/ikf_lib)
 
+## D-S证据论
+
+### 网站
+
+1. [Glenn Shafer](https://glennshafer.com)
+
 ## 组合导航
 
 ### 教材
@@ -233,6 +239,7 @@ pinned: false
 1. 《捷联惯导算法与组合导航原理》
 2. 《惯性仪器测试与数据分析》
 3. 《惯性导航》
+4. Principles of GNSS, Inertial, and Multisensor Integrated Navigation Systems
 
 ### 网站
 
@@ -257,9 +264,10 @@ pinned: false
 3. [benzenemo/TightlyCoupledINSGNSS](https://github.com/benzenemo/TightlyCoupledINSGNSS)
 4. [yandld/nav_matlab](https://github.com/yandld/nav_matlab)
 5. [i2Nav-WHU/Wheel-SLAM](https://github.com/i2Nav-WHU/Wheel-SLAM)
-6. [jayoungo/SINS-GPS-Integrated-Navigation](https://github.com/jayoungo/SINS-GPS-Integrated-Navigation)
-7. [yuzhou42/GPS-INS-Integrated-Navigation](https://github.com/yuzhou42/GPS-INS-Integrated-Navigation)
-8. [zelanzou/NaveCodePro](https://github.com/zelanzou/NaveCodePro)
+6. [zbai/MATLAB-Groves](https://github.com/zbai/MATLAB-Groves)
+7. [jayoungo/SINS-GPS-Integrated-Navigation](https://github.com/jayoungo/SINS-GPS-Integrated-Navigation)
+8. [yuzhou42/GPS-INS-Integrated-Navigation](https://github.com/yuzhou42/GPS-INS-Integrated-Navigation)
+9. [zelanzou/NaveCodePro](https://github.com/zelanzou/NaveCodePro)
 
 ## 自动驾驶
 

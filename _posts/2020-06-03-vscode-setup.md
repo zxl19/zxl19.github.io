@@ -165,7 +165,7 @@ CMake扩展。
 
 ### CodeGeeX: AI Code AutoComplete, Chat, Auto Comment
 
-基于大模型的智能编程助手，提供代码自动生成和补全、代码翻译、自动添加注释、智能问答等功能，类似的扩展还有GitHub Copilot、GitHub Copilot Chat、Code Buddy、Lingma - Alibaba Cloud AI Coding Assistant、CodeGPT: Chat & AI Agents、Roo Code、Cline、Continue、Tabnine AI Autocomplete、Cody AI、Kite。
+基于大模型的智能编程助手，提供代码自动生成和补全、代码翻译、自动添加注释、智能问答等功能，类似的扩展还有GitHub Copilot、GitHub Copilot Chat、Tencent Cloud CodeBuddy、Lingma - Alibaba Cloud AI Coding Assistant、文心快码 Baidu Comate、CodeGPT: Chat & AI Agents、Roo Code、Cline、Continue、Tabnine AI Autocomplete、Cody AI、Kite。
 
 **2022年11月：Kite已停止维护。**
 

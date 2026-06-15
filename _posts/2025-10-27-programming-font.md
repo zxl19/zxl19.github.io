@@ -73,6 +73,7 @@ pinned: false
 2. [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
 3. [devicons/devicon](https://github.com/devicons/devicon)
 4. [primer/octicons](https://github.com/primer/octicons)
+5. [07akioni/xicons](https://github.com/07akioni/xicons)
 
 ## 网站
 

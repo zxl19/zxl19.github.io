@@ -63,12 +63,13 @@ pinned: false
 [^2]: 以我的收藏夹图标为例。
 
 1. [Simple Icons](https://simpleicons.org)
-2. [Android Material Icon Generator](https://android-material-icon-generator.bitdroid.de)
-3. [Favicon Generator](https://redketchup.io/favicon-generator)
-4. [favicon.io](https://favicon.io)
-5. [免费Favicon.ico图标在线生成器](https://www.logosc.cn/logo/favicon)
-6. [图标制作大师](https://geticon.cn)
-7. [在线制作ico图标](https://www.bitbug.net)
+2. [xicons](https://www.xicons.org/#/)
+3. [Android Material Icon Generator](https://android-material-icon-generator.bitdroid.de)
+4. [Favicon Generator](https://redketchup.io/favicon-generator)
+5. [favicon.io](https://favicon.io)
+6. [免费Favicon.ico图标在线生成器](https://www.logosc.cn/logo/favicon)
+7. [图标制作大师](https://geticon.cn)
+8. [在线制作ico图标](https://www.bitbug.net)
 
 ### 设置版权声明
 

@@ -84,10 +84,11 @@ pinned: false
 ### GPU
 
 1. nvidia-smi
-2. [gpustat](https://github.com/wookayin/gpustat)
-3. [nvtop](https://github.com/Syllo/nvtop)
-4. [nvitop](https://github.com/XuehaiPan/nvitop)
-5. [nvidia-htop.py](https://github.com/peci1/nvidia-htop)
+2. [nvtop](https://github.com/Syllo/nvtop)
+3. [nvitop](https://github.com/XuehaiPan/nvitop)
+4. [gpustat](https://github.com/wookayin/gpustat)
+5. [jtop](https://github.com/rbonghi/jetson_stats)
+6. [nvidia-htop.py](https://github.com/peci1/nvidia-htop)
 
 ## 性能基准
 
@@ -388,14 +389,15 @@ pinned: false
 3. [vegeta](https://github.com/tsenart/vegeta)
 4. [oha](https://github.com/hatoo/oha)
 5. [artillery](https://github.com/artilleryio/artillery)
-6. [bombardier](https://github.com/codesenberg/bombardier)
-7. [dperf](https://github.com/baidu/dperf)
-8. [tcpcopy](https://github.com/session-replay-tools/tcpcopy)
-9. [go-stress-testing](https://github.com/link1st/go-stress-testing)
+6. [iperf](https://github.com/esnet/iperf)
+7. [bombardier](https://github.com/codesenberg/bombardier)
+8. [dperf](https://github.com/baidu/dperf)
+9. [tcpcopy](https://github.com/session-replay-tools/tcpcopy)
 10. [plow](https://github.com/six-ddc/plow)
-11. [ali](https://github.com/nakabonne/ali)
-12. [jplot](https://github.com/rs/jplot)
-13. [http_bench](https://github.com/linkxzhou/http_bench)
+11. [go-stress-testing](https://github.com/link1st/go-stress-testing)
+12. [ali](https://github.com/nakabonne/ali)
+13. [jplot](https://github.com/rs/jplot)
+14. [http_bench](https://github.com/linkxzhou/http_bench)
 
 ## 信息收集
 

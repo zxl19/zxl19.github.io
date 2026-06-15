@@ -447,7 +447,7 @@ EigenSolver<Matrix3f> eigen_solver;
 eigen_solver.compute(A);
 if (eigen_solver.info() == Success) {
     // 计算成功
-    Vector3f eigen_value = eigen_solver.eigenvalues();      // 特征值
+    Vector3f eigen_value = eigen_solver.eigenvalues();      // 特征值，升序排列
     Matrix3f eigen_vector = eigen_solver.eigenvectors();    // 特征向量
 } else if (eigen_solver.info() == NoConvergence) {
     // 计算失败
@@ -470,7 +470,7 @@ Matrix3f A;
 JacobiSVD<Matrix3f> svd(A, ComputeFullU | ComputeFullV);
 Matrix3f U = svd.matrixU();
 Matrix3f V = svd.matrixV();
-Vector3f sv = svd.singularValues();
+Vector3f sv = svd.singularValues(); // 奇异值，降序排列
 // 非方阵
 MatrixXf A;
 // A = USV*
@@ -482,7 +482,7 @@ JacobiSVD<MatrixXf> svd(A, ComputeFullU | ComputeFullV);
 JacobiSVD<MatrixXf> svd(A, ComputeThinU | ComputeThinV);
 MatrixXf U = svd.matrixU();
 MatrixXf V = svd.matrixV();
-VectorXf sv = svd.singularValues();
+VectorXf sv = svd.singularValues(); // 奇异值，降序排列
 ```
 
 ## `Array`类

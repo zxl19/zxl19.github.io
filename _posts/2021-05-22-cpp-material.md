@@ -198,10 +198,11 @@ pinned: false
 6. [ROS C++ Style Guide-ROS Wiki](http://wiki.ros.org/CppStyleGuide)
 7. [PCL C++ Programming Style Guide](https://pcl.readthedocs.io/en/latest/pcl_style_guide.html)
 8. [CUDA C++ Best Practices Guide](https://docs.nvidia.com/cuda/cuda-c-best-practices-guide/)
-9. [MISRA C](https://misra.org.uk/misra-c/)
-10. [JSF AV C++ Coding Standards](https://www.stroustrup.com/JSF-AV-rules.pdf)
-11. [如何写出军工级的代码？-萧棋的回答-知乎](https://www.zhihu.com/question/48191695/answer/1904864660810885055)
-12. [如何写出军工级的代码？-睡不醒的林二哈的回答-知乎](https://www.zhihu.com/question/48191695/answer/1899752997023622226)
+9. [GNU Coding Standards](https://www.gnu.org/prep/standards/standards.html)
+10. [MISRA C](https://misra.org.uk/misra-c/)
+11. [JSF AV C++ Coding Standards](https://www.stroustrup.com/JSF-AV-rules.pdf)
+12. [如何写出军工级的代码？-萧棋的回答-知乎](https://www.zhihu.com/question/48191695/answer/1904864660810885055)
+13. [如何写出军工级的代码？-睡不醒的林二哈的回答-知乎](https://www.zhihu.com/question/48191695/answer/1899752997023622226)
 
 ### 设计模式
 

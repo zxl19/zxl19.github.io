@@ -76,8 +76,9 @@ pinned: false
 1. Meshmixer [链接](https://meshmixer.com)
 2. MeshLab [链接](https://www.meshlab.net)
 3. Cura [链接](https://ultimaker.com/software/ultimaker-cura/)
-4. PrusaSlicer [链接](https://www.prusa3d.com/page/prusaslicer_424/)
-5. MeshInspector [链接](https://meshinspector.com)
+4. PrusaSlicer [链接](https://www.prusa3d.com/p/prusaslicer/)
+5. Slic3r [链接](https://slic3r.org)
+6. MeshInspector [链接](https://meshinspector.com)
 
 #### 模型
 
@@ -113,5 +114,6 @@ pinned: false
 5. [cnr-isti-vclab/meshlab](https://github.com/cnr-isti-vclab/meshlab)
 6. [Ultimaker/Cura](https://github.com/Ultimaker/Cura)
 7. [prusa3d/PrusaSlicer](https://github.com/prusa3d/PrusaSlicer)
-8. [MeshInspector/MeshInspector](https://github.com/MeshInspector/MeshInspector)
-9. [公司用上3D打印之后…-bilibili](https://www.bilibili.com/video/BV17DKAzqEWm/)
+8. [slic3r/Slic3r](https://github.com/slic3r/Slic3r)
+9. [MeshInspector/MeshInspector](https://github.com/MeshInspector/MeshInspector)
+10. [公司用上3D打印之后…-bilibili](https://www.bilibili.com/video/BV17DKAzqEWm/)

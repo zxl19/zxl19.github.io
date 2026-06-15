@@ -24,10 +24,11 @@ pinned: false
 3. [Afterburner](https://www.msi.com/Landing/afterburner/graphics-cards)
 4. [Wintoys](https://apps.microsoft.com/detail/9p8ltpgcbzxd)
 5. [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil)
-6. [rayenghanmi/RyTuneX](https://github.com/rayenghanmi/RyTuneX)
-7. [zoicware/RemoveWindowsAI](https://github.com/zoicware/RemoveWindowsAI)
-8. [zoicware/ZOICWARE](https://github.com/zoicware/ZOICWARE)
+6. [zoicware/RemoveWindowsAI](https://github.com/zoicware/RemoveWindowsAI)
+7. [rayenghanmi/RyTuneX](https://github.com/rayenghanmi/RyTuneX)
+8. [itsfatduck/optimizerDuck](https://github.com/itsfatduck/optimizerDuck)
 9. [zoicware/RepairBadTweaks](https://github.com/zoicware/RepairBadTweaks)
+10. [zoicware/ZOICWARE](https://github.com/zoicware/ZOICWARE)
 
 #### 硬盘管理
 
@@ -90,7 +91,8 @@ pinned: false
 #### 启动盘制作
 
 1. [Rufus](https://rufus.ie/en/)
-2. [微PE](https://www.wepe.com.cn)
+2. [Ventoy](https://www.ventoy.net/en/index.html)
+3. [微PE](https://www.wepe.com.cn)
 
 #### 光盘映像文件处理
 
@@ -143,6 +145,7 @@ pinned: false
 
 1. [Adobe Acrobat Pro](https://www.adobe.com/acrobat/acrobat-pro.html)
 2. [SumatraPDF](https://www.sumatrapdfreader.org/free-pdf-reader)
+3. [PDFCraftTool/PDFCraft](https://github.com/PDFCraftTool/PDFCraft)
 
 #### 截图录屏工具
 
