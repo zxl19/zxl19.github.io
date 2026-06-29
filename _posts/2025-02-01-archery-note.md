@@ -122,6 +122,8 @@ pinned: false
 8. [弓矢道-修哥](https://space.bilibili.com/518409910)
 9. [ICXpress](https://space.bilibili.com/23660435)
 10. [骑射胡大](https://space.bilibili.com/86481253)
+11. [SiriusArcher](https://space.bilibili.com/3706936440654802)
+12. [--敬亭山--](https://space.bilibili.com/1677861158)
 
 ### 美式猎弓
 

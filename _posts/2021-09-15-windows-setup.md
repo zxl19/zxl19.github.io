@@ -25,10 +25,11 @@ pinned: false
 4. [Wintoys](https://apps.microsoft.com/detail/9p8ltpgcbzxd)
 5. [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil)
 6. [zoicware/RemoveWindowsAI](https://github.com/zoicware/RemoveWindowsAI)
-7. [rayenghanmi/RyTuneX](https://github.com/rayenghanmi/RyTuneX)
-8. [itsfatduck/optimizerDuck](https://github.com/itsfatduck/optimizerDuck)
-9. [zoicware/RepairBadTweaks](https://github.com/zoicware/RepairBadTweaks)
-10. [zoicware/ZOICWARE](https://github.com/zoicware/ZOICWARE)
+7. [ramensoftware/windhawk](https://github.com/ramensoftware/windhawk)
+8. [rayenghanmi/RyTuneX](https://github.com/rayenghanmi/RyTuneX)
+9. [itsfatduck/optimizerDuck](https://github.com/itsfatduck/optimizerDuck)
+10. [zoicware/RepairBadTweaks](https://github.com/zoicware/RepairBadTweaks)
+11. [zoicware/ZOICWARE](https://github.com/zoicware/ZOICWARE)
 
 #### 硬盘管理
 
@@ -78,6 +79,9 @@ pinned: false
 
 1. [Spacesniffer](http://www.uderzo.it/main_products/space_sniffer/)
 2. [CCleaner](https://www.ccleaner.com)
+3. [WizTree](https://diskanalyzer.com)
+4. [SquirrelDisk](https://www.squirreldisk.com)
+5. [Pinkbin](https://github.com/cccyd2003-qwq/pinkbin)
 
 #### 数据恢复
 

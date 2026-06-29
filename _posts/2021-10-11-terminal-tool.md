@@ -278,6 +278,7 @@ pinned: false
 1. [tmux](https://github.com/tmux/tmux)
 2. [wezterm/wezterm](https://github.com/wezterm/wezterm)
 3. [dustinkirkland/byobu](https://github.com/dustinkirkland/byobu)
+4. [xichan96/dinotty](https://github.com/xichan96/dinotty)
 
 ## 状态行
 
@@ -333,21 +334,13 @@ pinned: false
 1. [shellcheck](https://github.com/koalaman/shellcheck)
 2. [shfmt](https://github.com/mvdan/sh)
 
-### 调试优化工具
+### 调试工具
 
 1. [gdb](https://sourceware.org/gdb/)
 2. [lldb](https://lldb.llvm.org)
 3. [valgrind](https://valgrind.org)
-4. [flamegraph.pl](https://github.com/brendangregg/FlameGraph)
-5. [iovisor/bcc](https://github.com/iovisor/bcc)
-6. [google/sanitizers](https://github.com/google/sanitizers)
-7. [brendangregg/perf-tools](https://github.com/brendangregg/perf-tools)
-8. [KDAB/hotspot](https://github.com/KDAB/hotspot)
-9. [parca-dev/parca](https://github.com/parca-dev/parca)
-10. [KDE/heaptrack](https://github.com/KDE/heaptrack)
-11. [RRZE-HPC/likwid](https://github.com/RRZE-HPC/likwid)
-12. [xiw/stack](https://github.com/xiw/stack)
-13. [intel/iaprof](https://github.com/intel/iaprof)
+4. [google/sanitizers](https://github.com/google/sanitizers)
+5. [xiw/stack](https://github.com/xiw/stack)
 
 ### 调试界面美化
 
@@ -357,6 +350,20 @@ pinned: false
 4. [snare/voltron](https://github.com/snare/voltron)
 5. [bombela/backward-cpp](https://github.com/bombela/backward-cpp)
 6. [cgdb/cgdb](https://github.com/cgdb/cgdb)
+
+### 性能分析工具
+
+1. perf
+2. [HPCToolkit](https://hpctoolkit.org)
+3. [flamegraph.pl](https://github.com/brendangregg/FlameGraph)
+4. [iovisor/bcc](https://github.com/iovisor/bcc)
+5. [brendangregg/perf-tools](https://github.com/brendangregg/perf-tools)
+6. [KDAB/hotspot](https://github.com/KDAB/hotspot)
+7. [parca-dev/parca](https://github.com/parca-dev/parca)
+8. [KDE/heaptrack](https://github.com/KDE/heaptrack)
+9. [RRZE-HPC/likwid](https://github.com/RRZE-HPC/likwid)
+10. [HPCToolkit/hpctoolkit](https://github.com/HPCToolkit/hpctoolkit)
+11. [intel/iaprof](https://github.com/intel/iaprof)
 
 ## 下载
 
@@ -403,7 +410,8 @@ pinned: false
 
 1. [sherlock](https://github.com/sherlock-project/sherlock)
 2. [searxng/searxng](https://github.com/searxng/searxng)
-3. [iliane5/meridian](https://github.com/iliane5/meridian)
+3. [Thysrael/Horizon](https://github.com/Thysrael/Horizon)
+4. [iliane5/meridian](https://github.com/iliane5/meridian)
 
 ## 密码管理
 
