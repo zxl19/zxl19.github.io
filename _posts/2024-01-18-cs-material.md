@@ -27,10 +27,11 @@ pinned: false
 10. [missing-semester/missing-semester](https://github.com/missing-semester/missing-semester)
 11. [missing-semester-cn/missing-semester-cn.github.io](https://github.com/missing-semester-cn/missing-semester-cn.github.io)
 12. [niudai/How-to-be-a-good-programmer](https://github.com/niudai/How-to-be-a-good-programmer)
-13. [SAST-skill-docers/sast-skill-docs](https://github.com/SAST-skill-docers/sast-skill-docs)
-14. [getiot/getiot-kb](https://github.com/getiot/getiot-kb)
-15. [sast-summer-training-2023/sast-summer-training-2023.github.io](https://github.com/sast-summer-training-2023/sast-summer-training-2023.github.io)
-16. [ChenMohan1010/basic-tutorial](https://github.com/ChenMohan1010/basic-tutorial)
+13. [l0ngc/hpc-learning](https://github.com/l0ngc/hpc-learning)
+14. [SAST-skill-docers/sast-skill-docs](https://github.com/SAST-skill-docers/sast-skill-docs)
+15. [getiot/getiot-kb](https://github.com/getiot/getiot-kb)
+16. [sast-summer-training-2023/sast-summer-training-2023.github.io](https://github.com/sast-summer-training-2023/sast-summer-training-2023.github.io)
+17. [ChenMohan1010/basic-tutorial](https://github.com/ChenMohan1010/basic-tutorial)
 
 ## 电子书
 

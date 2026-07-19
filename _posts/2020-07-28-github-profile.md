@@ -83,11 +83,12 @@ pinned: false
 ## 美化
 
 1. [DenverCoder1/readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg)
-2. [fangpenlin/avataaars-generator](https://github.com/fangpenlin/avataaars-generator)
-3. [git-goods/gitanimals](https://github.com/git-goods/gitanimals)
-4. [jasineri/gitartwork](https://github.com/jasineri/gitartwork)
-5. [BEPb/github-contributions](https://github.com/BEPb/github-contributions)
-6. [github-contribution-grid-snake](https://github.com/marketplace/actions/generate-snake-game-from-github-contribution-grid)
+2. [Platane/snk](https://github.com/Platane/snk)
+3. [fangpenlin/avataaars-generator](https://github.com/fangpenlin/avataaars-generator)
+4. [git-goods/gitanimals](https://github.com/git-goods/gitanimals)
+5. [jasineri/gitartwork](https://github.com/jasineri/gitartwork)
+6. [BEPb/github-contributions](https://github.com/BEPb/github-contributions)
+7. [abozanona/pacman-contribution-graph](https://github.com/abozanona/pacman-contribution-graph)
 
 ## 参考
 
@@ -98,5 +99,5 @@ pinned: false
 5. [网站访问统计小工具RevolverMaps无法用了——平替ClustrMaps-CSDN博客](https://blog.csdn.net/weixin_43835470/article/details/144537126)
 6. [RevolverMaps-Shutdown](https://www.wxforum.net/index.php?topic=47734.0)
 7. [GitHub上这款Q版头像生成器，快被网友玩坏了...-GitHub Daily的文章-知乎](https://zhuanlan.zhihu.com/p/450978590)
-8. [Platane/snk](https://github.com/Platane/snk)
+8. [github-contribution-grid-snake](https://github.com/marketplace/actions/generate-snake-game-from-github-contribution-grid)
 9. [Platane/Platane](https://github.com/Platane/Platane)

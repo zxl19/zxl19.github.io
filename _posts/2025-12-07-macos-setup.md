@@ -201,6 +201,12 @@ pinned: false
 
 1. [Xcode](https://developer.apple.com/xcode/)
 
+### 终端
+
+1. [Terminal](https://support.apple.com/guide/terminal/welcome/mac)
+2. [iTerm2](https://iterm2.com)
+3. [cmux](https://cmux.com)
+
 ## 娱乐相关
 
 ### 照片后期
@@ -255,3 +261,4 @@ pinned: false
 11. [Mac App Store上有哪些值得购买的付费软件（应用）？-Security Saints的回答-知乎](https://www.zhihu.com/question/21503296/answer/3533580917)
 12. [Mac App Store上有哪些值得购买的付费软件（应用）？-王飞的回答-知乎](https://www.zhihu.com/question/21503296/answer/21028357)
 13. [Mac App Store上有哪些值得购买的付费软件（应用）？-Lawrence Li的回答-知乎](https://www.zhihu.com/question/21503296/answer/21029219)
+14. [在MAC下面有什么好用的终端工具？-Agent测评喵的回答-知乎](https://www.zhihu.com/question/21865155/answer/2023045135261339648)

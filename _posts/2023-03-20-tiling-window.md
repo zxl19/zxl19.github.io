@@ -117,10 +117,12 @@ sudo apt install x-tile
     | `M` | unmaximize all opened windows |
     | `c` | close all opened windows |
 
-## 平铺式窗口管理器
+## 窗口管理器
 
 1. 平铺式窗口管理器（Tiling Window Manager，TWM）：窗口之间不重叠，通过快捷键调整布局；
 2. 堆叠式窗口管理器（Stacking Window Manager，SWM）：窗口之间可以重叠，通过鼠标调整布局；
+
+### 平铺式窗口管理器
 
 ### Windows
 
@@ -137,9 +139,10 @@ sudo apt install x-tile
 4. [baskerville/bspwm](https://github.com/baskerville/bspwm)
 5. [awesomeWM/awesome](https://github.com/awesomeWM/awesome)
 6. [qtile/qtile](https://github.com/qtile/qtile)
-7. [leftwm/leftwm](https://github.com/leftwm/leftwm)
-8. [Kintaro/wtftw](https://github.com/Kintaro/wtftw)
-9. [hyprwm/Hypr](https://github.com/hyprwm/Hypr)
+7. [riverwm/river](https://github.com/riverwm/river)
+8. [leftwm/leftwm](https://github.com/leftwm/leftwm)
+9. [Kintaro/wtftw](https://github.com/Kintaro/wtftw)
+10. [hyprwm/Hypr](https://github.com/hyprwm/Hypr)
 
 ### macOS
 

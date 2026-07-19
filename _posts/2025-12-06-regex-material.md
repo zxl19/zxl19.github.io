@@ -28,3 +28,8 @@ pinned: false
 ## 可视化
 
 1. [Regexpr](https://regexper.com)
+
+## 性能对比
+
+1. [mariomka/regex-benchmark](https://github.com/mariomka/regex-benchmark)
+2. [rust-leipzig/regex-performance](https://github.com/rust-leipzig/regex-performance)

@@ -83,6 +83,11 @@ pinned: false
 
 选择显卡厂商提供的驱动。
 
+### 系统配置
+
+1. [basecamp/omakub](https://github.com/basecamp/omakub)
+2. [ubuntu/ubuntu-make](https://github.com/ubuntu/ubuntu-make)
+
 ## 常见问题及解决方法
 
 ### 重新制作启动盘时U盘容量变小
@@ -152,26 +157,28 @@ sudo service network-manager restart
 
 ## 参考
 
-1. [Difference between Unix and Linux-GeeksforGeeks](https://www.geeksforgeeks.org/linux-vs-unix/)
-2. [8 Most Popular Linux Distributions (2025)-GeeksforGeeks](https://www.geeksforgeeks.org/linux-unix/8-most-popular-linux-distributions/)
-3. [Linux下载-Linux中国](https://linux.net.cn/article-4130-1.html)
-4. [Download Linux-Linux.org](https://www.linux.org/pages/download/)
-5. [torvalds/linux](https://github.com/torvalds/linux)
-6. [那张流行的关于Linux版本的图的出处-何其幸运的文章-知乎](https://zhuanlan.zhihu.com/p/1910763315426231504)
-7. [FabioLolix/LinuxTimeline](https://github.com/FabioLolix/LinuxTimeline)
-8. [pop-os/pop](https://github.com/pop-os/pop)
-9. [basecamp/omarchy](https://github.com/basecamp/omarchy)
-10. [AsahiLinux/linux](https://github.com/AsahiLinux/linux)
-11. [有哪些笔记本比较完美地支持ubuntu？-番茄老夫子的回答-知乎](https://www.zhihu.com/question/286150644/answer/1064982579)
-12. [Certified hardware](https://ubuntu.com/certified)
-13. [Ubuntu downloads](https://ubuntu.com/download)
-14. [Alternative downloads](https://ubuntu.com/download/alternative-downloads)
-15. [Ubuntu Releases](https://releases.ubuntu.com)
-16. [Official Ubuntu Documentation](https://help.ubuntu.com)
-17. [Rufus](https://rufus.ie/zh/)
-18. [清华大学开源软件镜像站](https://mirrors.tuna.tsinghua.edu.cn)
-19. [如何解决U盘装系统后磁盘总容量变小？-百度经验](https://jingyan.baidu.com/article/59703552e754e48fc00740ed.html)
-20. [重装Ubuntu时如何保留/home分区中的数据-博客园](https://www.cnblogs.com/maowang1991/p/3270441.html)
-21. [Ubuntu下~/.bashrc文件的恢复方法-CSDN博客](https://blog.csdn.net/yucicheung/article/details/79334998)
-22. [无法联网-CSDN博客](https://blog.csdn.net/nickdada/article/details/118152182)
-23. [重启网络服务-Stack Exchange](https://askubuntu.com/questions/230698/how-to-restart-the-networking-service)
+1. [GNU](https://www.gnu.org)
+2. [LLVM](https://www.llvm.org)
+3. [Difference between Unix and Linux-GeeksforGeeks](https://www.geeksforgeeks.org/linux-vs-unix/)
+4. [8 Most Popular Linux Distributions (2025)-GeeksforGeeks](https://www.geeksforgeeks.org/linux-unix/8-most-popular-linux-distributions/)
+5. [Linux下载-Linux中国](https://linux.net.cn/article-4130-1.html)
+6. [Download Linux-Linux.org](https://www.linux.org/pages/download/)
+7. [torvalds/linux](https://github.com/torvalds/linux)
+8. [那张流行的关于Linux版本的图的出处-何其幸运的文章-知乎](https://zhuanlan.zhihu.com/p/1910763315426231504)
+9. [FabioLolix/LinuxTimeline](https://github.com/FabioLolix/LinuxTimeline)
+10. [pop-os/pop](https://github.com/pop-os/pop)
+11. [basecamp/omarchy](https://github.com/basecamp/omarchy)
+12. [AsahiLinux/linux](https://github.com/AsahiLinux/linux)
+13. [有哪些笔记本比较完美地支持ubuntu？-番茄老夫子的回答-知乎](https://www.zhihu.com/question/286150644/answer/1064982579)
+14. [Certified hardware](https://ubuntu.com/certified)
+15. [Ubuntu downloads](https://ubuntu.com/download)
+16. [Alternative downloads](https://ubuntu.com/download/alternative-downloads)
+17. [Ubuntu Releases](https://releases.ubuntu.com)
+18. [Official Ubuntu Documentation](https://help.ubuntu.com)
+19. [Rufus](https://rufus.ie/zh/)
+20. [清华大学开源软件镜像站](https://mirrors.tuna.tsinghua.edu.cn)
+21. [如何解决U盘装系统后磁盘总容量变小？-百度经验](https://jingyan.baidu.com/article/59703552e754e48fc00740ed.html)
+22. [重装Ubuntu时如何保留/home分区中的数据-博客园](https://www.cnblogs.com/maowang1991/p/3270441.html)
+23. [Ubuntu下~/.bashrc文件的恢复方法-CSDN博客](https://blog.csdn.net/yucicheung/article/details/79334998)
+24. [无法联网-CSDN博客](https://blog.csdn.net/nickdada/article/details/118152182)
+25. [重启网络服务-Stack Exchange](https://askubuntu.com/questions/230698/how-to-restart-the-networking-service)

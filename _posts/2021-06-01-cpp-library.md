@@ -76,6 +76,13 @@ pinned: false
 4. [MichaelDipperstein/rle](https://github.com/MichaelDipperstein/rle)
 5. [coolbutuseless/purler](https://github.com/coolbutuseless/purler)
 
+### 浮点数压缩
+
+1. [llnl/zfp](https://github.com/llnl/zfp)
+2. [llnl/fpzip](https://github.com/llnl/fpzip)
+3. [szcompressor/SZ3](https://github.com/szcompressor/SZ3)
+4. [robertu94/libpressio](https://github.com/robertu94/libpressio)
+
 ## 命令行输出
 
 ### 输出样式
@@ -219,10 +226,11 @@ pinned: false
 1. [google/benchmark](https://github.com/google/benchmark)
 2. [google/orbit](https://github.com/google/orbit)
 3. [jonasmr/microprofile](https://github.com/jonasmr/microprofile)
-4. [chronoxor/CppBenchmark](https://github.com/chronoxor/CppBenchmark)
-5. [p-ranav/criterion](https://github.com/p-ranav/criterion)
+4. [llnl/Caliper](https://github.com/llnl/Caliper)
+5. [chronoxor/CppBenchmark](https://github.com/chronoxor/CppBenchmark)
 6. [Compaile/ctrack](https://github.com/Compaile/ctrack)
-7. [cameron314/microbench](https://github.com/cameron314/microbench)
+7. [p-ranav/criterion](https://github.com/p-ranav/criterion)
+8. [cameron314/microbench](https://github.com/cameron314/microbench)
 
 ## 数据可视化
 
@@ -325,12 +333,16 @@ pinned: false
 1. [mlivesu/cinolib](https://github.com/mlivesu/cinolib)
 2. [MeshInspector/MeshLib](https://github.com/MeshInspector/MeshLib)
 
+#### 平铺图案
+
+1. [isohedral/tactile](https://github.com/isohedral/tactile)
+
 ### 张量运算
 
-1. [zdevito/ATen](https://github.com/zdevito/ATen)
-2. [romeric/Fastor](https://github.com/romeric/Fastor)
-3. [Tencent/deepx_core](https://github.com/Tencent/deepx_core)
-4. [blitzpp/blitz](https://github.com/blitzpp/blitz)
+1. [romeric/Fastor](https://github.com/romeric/Fastor)
+2. [zdevito/ATen](https://github.com/zdevito/ATen)
+3. [blitzpp/blitz](https://github.com/blitzpp/blitz)
+4. [Tencent/deepx_core](https://github.com/Tencent/deepx_core)
 5. [STEllAR-GROUP/blaze_tensor](https://github.com/STEllAR-GROUP/blaze_tensor)
 
 ### 图论
@@ -474,11 +486,21 @@ pinned: false
 1. [imageworks/pystring](https://github.com/imageworks/pystring)
 2. [tsoding/sv](https://github.com/tsoding/sv)
 
+## 正则表达式
+
+1. [google/re2](https://github.com/google/re2)
+2. [intel/hyperscan](https://github.com/intel/hyperscan)
+3. [hanickadot/compile-time-regular-expressions](https://github.com/hanickadot/compile-time-regular-expressions)
+4. [microsoft/BlingFire](https://github.com/microsoft/BlingFire)
+5. [Genivia/RE-flex](https://github.com/Genivia/RE-flex)
+6. [VerbalExpressions/CppVerbalExpressions](https://github.com/VerbalExpressions/CppVerbalExpressions)
+
 ## 内存分配
 
 1. [jemalloc/jemalloc](https://github.com/jemalloc/jemalloc)
 2. [google/tcmalloc](https://github.com/google/tcmalloc)
 3. [tsoding/arena](https://github.com/tsoding/arena)
+4. [llnl/Umpire](https://github.com/llnl/Umpire)
 
 ## 哈希函数
 
@@ -515,22 +537,41 @@ pinned: false
 
 ## 并发
 
+### 并发框架
+
+1. [Tencent/phxpaxos](https://github.com/Tencent/phxpaxos)
+2. [David-Haim/concurrencpp](https://github.com/David-Haim/concurrencpp)
+3. [electronicarts/EAThread](https://github.com/electronicarts/EAThread)
+
+### 并行计算
+
 1. [taskflow/taskflow](https://github.com/taskflow/taskflow)
-2. [Tencent/libco](https://github.com/Tencent/libco)
-3. [Tencent/phxpaxos](https://github.com/Tencent/phxpaxos)
-4. [progschj/ThreadPool](https://github.com/progschj/ThreadPool)
-5. [oneapi-src/oneTBB](https://github.com/oneapi-src/oneTBB)
-6. [bshoshany/thread-pool](https://github.com/bshoshany/thread-pool)
-7. [David-Haim/concurrencpp](https://github.com/David-Haim/concurrencpp)
-8. [alibaba/async_simple](https://github.com/alibaba/async_simple)
-9. [lzpong/threadpool](https://github.com/lzpong/threadpool)
-10. [netcan/asyncio](https://github.com/netcan/asyncio)
-11. [mbrossard/threadpool](https://github.com/mbrossard/threadpool)
-12. [owent/libcopp](https://github.com/owent/libcopp)
-13. [ConorWilliams/libfork](https://github.com/ConorWilliams/libfork)
-14. [lizhenghn123/zl_threadpool](https://github.com/lizhenghn123/zl_threadpool)
-15. [electronicarts/EAThread](https://github.com/electronicarts/EAThread)
-16. [tghosgor/threadpool11](https://github.com/tghosgor/threadpool11)
+2. [oneapi-src/oneTBB](https://github.com/oneapi-src/oneTBB)
+3. [ConorWilliams/libfork](https://github.com/ConorWilliams/libfork)
+
+### 协程
+
+1. [Tencent/libco](https://github.com/Tencent/libco)
+2. [alibaba/async_simple](https://github.com/alibaba/async_simple)
+3. [netcan/asyncio](https://github.com/netcan/asyncio)
+4. [owent/libcopp](https://github.com/owent/libcopp)
+
+### 线程池
+
+1. [progschj/ThreadPool](https://github.com/progschj/ThreadPool)
+2. [bshoshany/thread-pool](https://github.com/bshoshany/thread-pool)
+3. [lzpong/threadpool](https://github.com/lzpong/threadpool)
+4. [mbrossard/threadpool](https://github.com/mbrossard/threadpool)
+5. [lizhenghn123/zl_threadpool](https://github.com/lizhenghn123/zl_threadpool)
+6. [tghosgor/threadpool11](https://github.com/tghosgor/threadpool11)
+
+## 异构计算
+
+1. [NVIDIA/thrust](https://github.com/NVIDIA/thrust)
+2. [NVIDIA/cccl](https://github.com/NVIDIA/cccl)
+3. [kokkos/kokkos](https://github.com/kokkos/kokkos)
+4. [llnl/RAJA](https://github.com/llnl/RAJA)
+5. [alpaka-group/alpaka](https://github.com/alpaka-group/alpaka)
 
 ## 惰性求值
 
@@ -540,13 +581,14 @@ pinned: false
 
 ## 有限元
 
-1. [mfem/mfem](https://github.com/mfem/mfem)
-2. [dealii/dealii](https://github.com/dealii/dealii)
-3. [NGSolve/ngsolve](https://github.com/NGSolve/ngsolve)
-4. [halbux/sparselizard](https://github.com/halbux/sparselizard)
-5. [feelpp/feelpp](https://github.com/feelpp/feelpp)
-6. [M3Group/AsFem](https://github.com/M3Group/AsFem)
-7. [open-beam/openbeam](https://github.com/open-beam/openbeam)
+1. [ProjectPhysX/FluidX3D](https://github.com/ProjectPhysX/FluidX3D)
+2. [mfem/mfem](https://github.com/mfem/mfem)
+3. [dealii/dealii](https://github.com/dealii/dealii)
+4. [NGSolve/ngsolve](https://github.com/NGSolve/ngsolve)
+5. [halbux/sparselizard](https://github.com/halbux/sparselizard)
+6. [feelpp/feelpp](https://github.com/feelpp/feelpp)
+7. [M3Group/AsFem](https://github.com/M3Group/AsFem)
+8. [open-beam/openbeam](https://github.com/open-beam/openbeam)
 
 ## 物理场仿真
 

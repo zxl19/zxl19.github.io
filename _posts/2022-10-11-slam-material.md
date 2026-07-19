@@ -269,6 +269,13 @@ pinned: false
 8. [yuzhou42/GPS-INS-Integrated-Navigation](https://github.com/yuzhou42/GPS-INS-Integrated-Navigation)
 9. [zelanzou/NaveCodePro](https://github.com/zelanzou/NaveCodePro)
 
+## 纯IMU运动估计
+
+1. [xioTechnologies/Gait-Tracking-With-x-IMU](https://github.com/xioTechnologies/Gait-Tracking-With-x-IMU)
+2. [xioTechnologies/Oscillatory-Motion-Tracking-With-x-IMU](https://github.com/xioTechnologies/Oscillatory-Motion-Tracking-With-x-IMU)
+3. [xioTechnologies/Gait-Tracking](https://github.com/xioTechnologies/Gait-Tracking)
+4. [xioTechnologies/x-IMU-MATLAB-Library](https://github.com/xioTechnologies/x-IMU-MATLAB-Library)
+
 ## 自动驾驶
 
 ### 网站

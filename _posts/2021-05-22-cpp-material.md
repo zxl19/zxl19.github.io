@@ -76,9 +76,10 @@ pinned: false
 
 1. [parallel101/course](https://github.com/parallel101/course)
 2. [realYurkOfGitHub/translation-Introduction-to-HPC](https://github.com/realYurkOfGitHub/translation-Introduction-to-HPC)
-3. [LLNL/HPC-Tutorials](https://github.com/LLNL/HPC-Tutorials)
-4. [oniliste/OptimizingSeriesTranslation](https://github.com/oniliste/OptimizingSeriesTranslation)
-5. [eagle-dai/OptimizingSoftwareInCpp](https://github.com/eagle-dai/OptimizingSoftwareInCpp)
+3. [llnl/HPC-Tutorials](https://github.com/llnl/HPC-Tutorials)
+4. [amd/HPCTrainingExamples](https://github.com/amd/HPCTrainingExamples)
+5. [oniliste/OptimizingSeriesTranslation](https://github.com/oniliste/OptimizingSeriesTranslation)
+6. [eagle-dai/OptimizingSoftwareInCpp](https://github.com/eagle-dai/OptimizingSoftwareInCpp)
 
 ### 并发
 
@@ -119,17 +120,18 @@ pinned: false
 7. [liu-jianhao/Cpp-Design-Patterns](https://github.com/liu-jianhao/Cpp-Design-Patterns)
 8. [FengJungle/DesignPattern](https://github.com/FengJungle/DesignPattern)
 9. [jaredtao/DesignPattern](https://github.com/jaredtao/DesignPattern)
-10. [Waleon/DesignPatterns](https://github.com/Waleon/DesignPatterns)
+10. [liuzengh/design-pattern](https://github.com/liuzengh/design-pattern)
 11. [Apress/design-patterns-in-modern-cpp](https://github.com/Apress/design-patterns-in-modern-cpp)
-12. [liuzengh/design-pattern](https://github.com/liuzengh/design-pattern)
-13. [yogykwan/design-patterns-cpp](https://github.com/yogykwan/design-patterns-cpp)
-14. [igl42/cpp_software_design](https://github.com/igl42/cpp_software_design)
+12. [Waleon/DesignPatterns](https://github.com/Waleon/DesignPatterns)
+13. [igl42/cpp_software_design](https://github.com/igl42/cpp_software_design)
+14. [ZoranPandovski/design-patterns](https://github.com/ZoranPandovski/design-patterns)
 15. [RefactoringGuru/design-patterns-cpp](https://github.com/RefactoringGuru/design-patterns-cpp)
-16. [downdemo/Design-Patterns-in-Cpp17](https://github.com/downdemo/Design-Patterns-in-Cpp17)
-17. [mrlegowatch/HeadFirstDesignPatternsCpp](https://github.com/mrlegowatch/HeadFirstDesignPatternsCpp)
+16. [yogykwan/design-patterns-cpp](https://github.com/yogykwan/design-patterns-cpp)
+17. [downdemo/Design-Patterns-in-Cpp17](https://github.com/downdemo/Design-Patterns-in-Cpp17)
 18. [clpsz/Book-HFDP-Code](https://github.com/clpsz/Book-HFDP-Code)
-19. [yaocoder/DesignPattern](https://github.com/yaocoder/DesignPattern)
-20. [fsaadatmand/Head-First-Design-Pattern-CPP-Examples](https://github.com/fsaadatmand/Head-First-Design-Pattern-CPP-Examples)
+19. [mrlegowatch/HeadFirstDesignPatternsCpp](https://github.com/mrlegowatch/HeadFirstDesignPatternsCpp)
+20. [yaocoder/DesignPattern](https://github.com/yaocoder/DesignPattern)
+21. [fsaadatmand/Head-First-Design-Pattern-CPP-Examples](https://github.com/fsaadatmand/Head-First-Design-Pattern-CPP-Examples)
 
 ## 网站
 

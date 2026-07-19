@@ -276,9 +276,11 @@ pinned: false
 ### 终端复用器
 
 1. [tmux](https://github.com/tmux/tmux)
-2. [wezterm/wezterm](https://github.com/wezterm/wezterm)
-3. [dustinkirkland/byobu](https://github.com/dustinkirkland/byobu)
-4. [xichan96/dinotty](https://github.com/xichan96/dinotty)
+2. [zellij-org/zellij](https://github.com/zellij-org/zellij)
+3. [wezterm/wezterm](https://github.com/wezterm/wezterm)
+4. [ogulcancelik/herdr](https://github.com/ogulcancelik/herdr)
+5. [dustinkirkland/byobu](https://github.com/dustinkirkland/byobu)
+6. [xichan96/dinotty](https://github.com/xichan96/dinotty)
 
 ## 状态行
 
@@ -288,6 +290,11 @@ pinned: false
 ## 护眼工具
 
 1. [safeeyes](https://github.com/slgobinath/SafeEyes)
+
+## 待办事项
+
+1. [todo.sh](https://github.com/todotxt/todo.txt-cli)
+2. [tuxedo](https://github.com/webstonehq/tuxedo)
 
 ## 代码质量
 
@@ -412,6 +419,7 @@ pinned: false
 2. [searxng/searxng](https://github.com/searxng/searxng)
 3. [Thysrael/Horizon](https://github.com/Thysrael/Horizon)
 4. [iliane5/meridian](https://github.com/iliane5/meridian)
+5. [paulilaaso/hys](https://github.com/paulilaaso/hys)
 
 ## 密码管理
 

@@ -290,6 +290,7 @@ pinned: false
 
 1. [Cmder](https://cmder.app)
 2. [X-CMD](https://www.x-cmd.com)
+3. [ConEmu](https://conemu.github.io)
 
 #### 远程登录工具
 

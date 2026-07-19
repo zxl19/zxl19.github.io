@@ -601,7 +601,8 @@ pip install，pip uninstall，拿起pip就是干！
 
 1. [PyGithub/PyGithub](https://github.com/PyGithub/PyGithub)
 2. [gitpython-developers/GitPython](https://github.com/gitpython-developers/GitPython)
-3. [libgit2/pygit2](https://github.com/libgit2/pygit2)
+3. [jelmer/dulwich](https://github.com/jelmer/dulwich)
+4. [libgit2/pygit2](https://github.com/libgit2/pygit2)
 
 ## 参考
 

@@ -257,3 +257,6 @@ pinned: false
 18. [20000元1张纸，这是什么？-bilibili](https://www.bilibili.com/video/BV1SVk4YTEva/)
 19. [各大相机公司推出恒定F4的小三元镜头的目的是什么？非大光圈的恒定光圈意义体现在哪里？-知乎用户的回答-知乎](https://www.zhihu.com/question/34306403/answer/2654034347)
 20. [jherr/depth-of-field](https://github.com/jherr/depth-of-field)
+21. [gyroflow/gyroflow](https://github.com/gyroflow/gyroflow)
+22. [HandBrake/HandBrake](https://github.com/HandBrake/HandBrake)
+23. [KDE/kdenlive](https://github.com/KDE/kdenlive)

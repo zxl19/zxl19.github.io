@@ -77,6 +77,12 @@ pinned: false
 10. [swaroopch/byte-of-python](https://github.com/swaroopch/byte-of-python)
 11. [rougier/from-python-to-numpy](https://github.com/rougier/from-python-to-numpy)
 
+## 高性能计算
+
+1. [coderonion/awesome-cuda-and-hpc](https://github.com/coderonion/awesome-cuda-and-hpc)
+2. [csc-training/hpc-python](https://github.com/csc-training/hpc-python)
+3. [hpc-carpentry/hpc-python](https://github.com/hpc-carpentry/hpc-python)
+
 ## 代码规范
 
 1. [Google Python Style Guide](https://google.github.io/styleguide/pyguide.html)
@@ -84,6 +90,23 @@ pinned: false
 3. [zh-google-styleguide/zh-google-styleguide](https://github.com/zh-google-styleguide/zh-google-styleguide)
 4. [IgorSusmelj/pytorch-styleguide](https://github.com/IgorSusmelj/pytorch-styleguide)
 5. [shendeguize/GooglePythonStyleGuideCN](https://github.com/shendeguize/GooglePythonStyleGuideCN)
+
+## 设计模式
+
+1. [faif/python-patterns](https://github.com/faif/python-patterns)
+2. [tylerlaberge/PyPattyrn](https://github.com/tylerlaberge/PyPattyrn)
+3. [RefactoringGuru/design-patterns-python](https://github.com/RefactoringGuru/design-patterns-python)
+4. [gennad/Design-Patterns-in-Python](https://github.com/gennad/Design-Patterns-in-Python)
+5. [kelvins/design-patterns-python](https://github.com/kelvins/design-patterns-python)
+6. [cundi/Mastering.Python.Design.Patterns](https://github.com/cundi/Mastering.Python.Design.Patterns)
+7. [buckyroberts/Python-Design-Patterns](https://github.com/buckyroberts/Python-Design-Patterns)
+8. [PacktPublishing/Mastering-Python-Design-Patterns-Second-Edition](https://github.com/PacktPublishing/Mastering-Python-Design-Patterns-Second-Edition)
+9. [msaroufim/ml-design-patterns](https://github.com/msaroufim/ml-design-patterns)
+10. [rebuild-123/Python-Head-First-Design-Patterns](https://github.com/rebuild-123/Python-Head-First-Design-Patterns)
+11. [Sean-Bradley/Design-Patterns-In-Python](https://github.com/Sean-Bradley/Design-Patterns-In-Python)
+12. [spencer-luo/PyDesignPattern](https://github.com/spencer-luo/PyDesignPattern)
+13. [weilanhanf/python-design-patterns](https://github.com/weilanhanf/python-design-patterns)
+14. [liqiongyu/Design_pattern_of_python](https://github.com/liqiongyu/Design_pattern_of_python)
 
 ## 参考
 

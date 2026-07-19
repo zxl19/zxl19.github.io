@@ -139,10 +139,11 @@ The main repository serves as a curated list of awesome lists.
 2. [oxnr/awesome-bigdata](https://github.com/oxnr/awesome-bigdata)
 3. [rguo12/awesome-causality-algorithms](https://github.com/rguo12/awesome-causality-algorithms)
 4. [tirthajyoti/Data-science-best-resources](https://github.com/tirthajyoti/Data-science-best-resources)
-5. [rguo12/awesome-causality-data](https://github.com/rguo12/awesome-causality-data)
-6. [EderSantana/awesomeMLmath](https://github.com/EderSantana/awesomeMLmath)
+5. [coderonion/awesome-cuda-and-hpc](https://github.com/coderonion/awesome-cuda-and-hpc)
+6. [rguo12/awesome-causality-data](https://github.com/rguo12/awesome-causality-data)
 7. [murufeng/Awesome-AI-algorithm](https://github.com/murufeng/Awesome-AI-algorithm)
-8. [krishnakumarsekar/awesome-machine-learning-deep-learning-mathematics](https://github.com/krishnakumarsekar/awesome-machine-learning-deep-learning-mathematics)
+8. [EderSantana/awesomeMLmath](https://github.com/EderSantana/awesomeMLmath)
+9. [krishnakumarsekar/awesome-machine-learning-deep-learning-mathematics](https://github.com/krishnakumarsekar/awesome-machine-learning-deep-learning-mathematics)
 
 ## 数据标注
 

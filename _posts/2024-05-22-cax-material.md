@@ -43,6 +43,15 @@ pinned: false
 4. [Open-Cascade-SAS/OCCT](https://github.com/Open-Cascade-SAS/OCCT)
 5. [BRL-CAD/brlcad](https://github.com/BRL-CAD/brlcad)
 
+### 查看器
+
+1. [Autodesk Viewer](https://viewer.autodesk.com)
+2. [DWG FastView](https://en.dwgfastview.com)
+3. [Glovius](https://www.glovius.com)
+4. [ShareCAD](https://sharecad.org)
+5. [DWGSee](https://www.dwgsee.com)
+6. [mlightcad/cad-viewer](https://github.com/mlightcad/cad-viewer)
+
 ## CAE
 
 ### 有限元
