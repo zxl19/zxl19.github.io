@@ -122,6 +122,7 @@ pinned: false
 5. [fzf](https://github.com/junegunn/fzf)
 6. [fd](https://github.com/sharkdp/fd)
 7. [sk](https://github.com/lotabout/skim)
+8. [tv](https://github.com/alexpasmantier/television)
 
 ### 文件查看
 
@@ -233,7 +234,9 @@ pinned: false
 
 1. grep
 2. [rg](https://github.com/BurntSushi/ripgrep)
-3. [ug](https://github.com/Genivia/ugrep)
+3. [ast-grep](https://github.com/ast-grep/ast-grep)
+4. [ug](https://github.com/Genivia/ugrep)
+5. [qgrep](https://github.com/zeux/qgrep)
 
 ### 文本处理
 
@@ -259,19 +262,18 @@ pinned: false
 ### 命令行解释器
 
 1. [Zsh](https://zsh.sourceforge.io)
-2. [Oh My Zsh](https://github.com/ohmyzsh/ohmyzsh)
-3. [fish](https://github.com/fish-shell/fish-shell)
-4. [Oh My Fish](https://github.com/oh-my-fish/oh-my-fish)
+2. [fish](https://github.com/fish-shell/fish-shell)
 
 ### 终端模拟器
 
 1. [terminator](https://github.com/gnome-terminator/terminator)
-2. [alacritty/alacritty](https://github.com/alacritty/alacritty)
-3. [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty)
-4. [GitSquared/edex-ui](https://github.com/GitSquared/edex-ui)
-5. [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty)
-6. [Swordfish90/cool-retro-term](https://github.com/Swordfish90/cool-retro-term)
-7. [wavetermdev/waveterm](https://github.com/wavetermdev/waveterm)
+2. [Eugeny/tabby](https://github.com/Eugeny/tabby)
+3. [alacritty/alacritty](https://github.com/alacritty/alacritty)
+4. [ghostty-org/ghostty](https://github.com/ghostty-org/ghostty)
+5. [GitSquared/edex-ui](https://github.com/GitSquared/edex-ui)
+6. [kovidgoyal/kitty](https://github.com/kovidgoyal/kitty)
+7. [Swordfish90/cool-retro-term](https://github.com/Swordfish90/cool-retro-term)
+8. [wavetermdev/waveterm](https://github.com/wavetermdev/waveterm)
 
 ### 终端复用器
 
@@ -280,12 +282,16 @@ pinned: false
 3. [wezterm/wezterm](https://github.com/wezterm/wezterm)
 4. [ogulcancelik/herdr](https://github.com/ogulcancelik/herdr)
 5. [dustinkirkland/byobu](https://github.com/dustinkirkland/byobu)
-6. [xichan96/dinotty](https://github.com/xichan96/dinotty)
+6. [neurosnap/zmx](https://github.com/neurosnap/zmx)
 
-## 状态行
+### 终端美化
 
-1. [powerline/powerline](https://github.com/powerline/powerline)
-2. [b-ryan/powerline-shell](https://github.com/b-ryan/powerline-shell)
+1. [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh)
+2. [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh)
+3. [JanDeDobbeleer/oh-my-posh2](https://github.com/JanDeDobbeleer/oh-my-posh2)
+4. [oh-my-fish/oh-my-fish](https://github.com/oh-my-fish/oh-my-fish)
+5. [powerline/powerline](https://github.com/powerline/powerline)
+6. [b-ryan/powerline-shell](https://github.com/b-ryan/powerline-shell)
 
 ## 护眼工具
 
@@ -347,7 +353,10 @@ pinned: false
 2. [lldb](https://lldb.llvm.org)
 3. [valgrind](https://valgrind.org)
 4. [google/sanitizers](https://github.com/google/sanitizers)
-5. [xiw/stack](https://github.com/xiw/stack)
+5. [KDE/heaptrack](https://github.com/KDE/heaptrack)
+6. [strace/strace](https://github.com/strace/strace)
+7. [rek7/mXtract](https://github.com/rek7/mXtract)
+8. [xiw/stack](https://github.com/xiw/stack)
 
 ### 调试界面美化
 
@@ -367,10 +376,8 @@ pinned: false
 5. [brendangregg/perf-tools](https://github.com/brendangregg/perf-tools)
 6. [KDAB/hotspot](https://github.com/KDAB/hotspot)
 7. [parca-dev/parca](https://github.com/parca-dev/parca)
-8. [KDE/heaptrack](https://github.com/KDE/heaptrack)
-9. [RRZE-HPC/likwid](https://github.com/RRZE-HPC/likwid)
-10. [HPCToolkit/hpctoolkit](https://github.com/HPCToolkit/hpctoolkit)
-11. [intel/iaprof](https://github.com/intel/iaprof)
+8. [RRZE-HPC/likwid](https://github.com/RRZE-HPC/likwid)
+9. [intel/iaprof](https://github.com/intel/iaprof)
 
 ## 下载
 
@@ -495,17 +502,19 @@ pinned: false
 19. [Trash-Cli：Linux上的命令行回收站工具-Linux中国的文章-知乎](https://zhuanlan.zhihu.com/p/44948578)
 20. [一句f**k代码自动纠错，美女程序员教你建一个狂拽酷炫的终端-量子位的文章-知乎](https://zhuanlan.zhihu.com/p/87694586)
 21. [为什么说zsh是shell中的极品？-韦易笑的回答-知乎](https://www.zhihu.com/question/21418449/answer/300879747)
-22. [Oh My Zsh-简书](https://www.jianshu.com/p/b8a80dd59414)
-23. [Oh My Zsh-博客园](https://www.cnblogs.com/lcgbk/p/13255836.html)
-24. [下一代开源终端，暴涨14300+ GitHub Star！-GitHub Daily的文章-知乎](https://zhuanlan.zhihu.com/p/1979135259820958532)
-25. [Powerline——向Vim和Bash Shell添加状态行和提示-惠主机的文章-知乎](https://zhuanlan.zhihu.com/p/640811147)
-26. [五彩斑斓的Black——Python代码格式化工具-muzing的文章-知乎](https://zhuanlan.zhihu.com/p/418458450)
-27. [Static program analysis-Wikipedia](https://en.wikipedia.org/wiki/Static_program_analysis)
-28. [Lint (software)-Wikipedia](https://en.wikipedia.org/wiki/Lint_(software))
-29. [Clang Static Analyzer](https://clang-analyzer.llvm.org)
-30. [CodeChecker: running the analyzer from the command line](https://clang-analyzer.llvm.org/codechecker.html)
-31. [神仙GDB调试工具gdb-dashboard-电子的文章-知乎](https://zhuanlan.zhihu.com/p/435918702)
-32. [大佬们都是怎么用gdb的？或者用吗？-yaoyaohu的回答-知乎](https://www.zhihu.com/question/65306462/answer/94492305604)
-33. [Ubuntu下实现命令行走代理/终端走代理的方法-lyh458的文章-知乎](https://zhuanlan.zhihu.com/p/377550825)
-34. [40个超有趣的Linux命令行彩蛋和游戏-张子豪的文章-知乎](https://zhuanlan.zhihu.com/p/51904179)
-35. [有什么高质量的现代C++风格的开源代码?-夏天的回答-知乎](https://www.zhihu.com/question/23153437/answer/1962068242)
+22. [在MAC下面有什么好用的终端工具？-Agent测评喵的回答-知乎](https://www.zhihu.com/question/21865155/answer/2023045135261339648)
+23. [下一代开源终端，暴涨14300+ GitHub Star！-GitHub Daily的文章-知乎](https://zhuanlan.zhihu.com/p/1979135259820958532)
+24. [Oh My Zsh-简书](https://www.jianshu.com/p/b8a80dd59414)
+25. [Oh My Zsh-博客园](https://www.cnblogs.com/lcgbk/p/13255836.html)
+26. [Powerline——向Vim和Bash Shell添加状态行和提示-惠主机的文章-知乎](https://zhuanlan.zhihu.com/p/640811147)
+27. [五彩斑斓的Black——Python代码格式化工具-muzing的文章-知乎](https://zhuanlan.zhihu.com/p/418458450)
+28. [Static program analysis-Wikipedia](https://en.wikipedia.org/wiki/Static_program_analysis)
+29. [Lint (software)-Wikipedia](https://en.wikipedia.org/wiki/Lint_(software))
+30. [Clang Static Analyzer](https://clang-analyzer.llvm.org)
+31. [CodeChecker: running the analyzer from the command line](https://clang-analyzer.llvm.org/codechecker.html)
+32. [为什么很多程序员都建议使用Linux？-南山烟雨珠江潮的回答-知乎](https://www.zhihu.com/question/559845598/answer/1951940045255738023)
+33. [神仙GDB调试工具gdb-dashboard-电子的文章-知乎](https://zhuanlan.zhihu.com/p/435918702)
+34. [大佬们都是怎么用gdb的？或者用吗？-yaoyaohu的回答-知乎](https://www.zhihu.com/question/65306462/answer/94492305604)
+35. [Ubuntu下实现命令行走代理/终端走代理的方法-lyh458的文章-知乎](https://zhuanlan.zhihu.com/p/377550825)
+36. [40个超有趣的Linux命令行彩蛋和游戏-张子豪的文章-知乎](https://zhuanlan.zhihu.com/p/51904179)
+37. [有什么高质量的现代C++风格的开源代码?-夏天的回答-知乎](https://www.zhihu.com/question/23153437/answer/1962068242)

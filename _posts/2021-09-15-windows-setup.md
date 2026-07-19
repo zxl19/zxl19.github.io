@@ -67,13 +67,22 @@ pinned: false
 
 #### 文件管理
 
+##### 文件查找
+
 1. [Everything](https://www.voidtools.com)
 2. [srwi/EverythingToolbar](https://github.com/srwi/EverythingToolbar)
 3. [Files](https://files.community)
 4. [Listary](https://www.listary.com)
 5. [Total Commander](https://www.ghisler.com)
 6. [Q-Dir](https://q-dir.com)
-7. [Bulk Rename Utility](https://www.bulkrenameutility.co.uk)
+7. [grepWin](https://tools.stefankueng.com/grepWin.html)
+
+##### 文件重命名
+
+1. [Bulk Rename Utility](https://www.bulkrenameutility.co.uk)
+2. [chrdavis/SmartRename](https://github.com/chrdavis/SmartRename)
+3. [cyhuajuan/FreeReNamer](https://github.com/cyhuajuan/FreeReNamer)
+4. [chenz24/rename.tools](https://github.com/chenz24/rename.tools)
 
 #### 空间管理
 
