@@ -83,6 +83,7 @@ SLAM方向面试题存档。
 7. [有哪些令人拍案叫绝的算法？-南山烟雨珠江潮的回答-知乎](https://www.zhihu.com/question/27547892/answer/2001037680583128105)
 8. [有哪些令人拍案叫绝的代码/优化?-花宝宝的回答-知乎](https://www.zhihu.com/question/52726115/answer/1998008075626513655)
 9. [有哪些令人拍案叫绝的代码/优化?-李明殊的回答-知乎](https://www.zhihu.com/question/52726115/answer/1995625645657563228)
+10. [哪段代码最能代表程序员的暴力美学？-Asher的回答-知乎](https://www.zhihu.com/question/68411978/answer/2046754950697564025)
 
 ### GitHub
 

@@ -337,10 +337,11 @@ pinned: false
 
 #### Python
 
-1. [ruff](https://github.com/charliermarsh/ruff)
+1. [ruff](https://github.com/astral-sh/ruff)
 2. [mypy](https://github.com/python/mypy)
-3. [pylint](https://github.com/PyCQA/pylint)
-4. [pylama](https://github.com/klen/pylama)
+3. [ty](https://github.com/astral-sh/ty)
+4. [pylint](https://github.com/PyCQA/pylint)
+5. [pylama](https://github.com/klen/pylama)
 
 #### shell
 
