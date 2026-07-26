@@ -33,13 +33,13 @@ pinned: false
 
 **自2021年11月起，Typora开始收费。** 可以在VS Code中安装Typora扩展实现类似的功能。以下是一些开源的免费Markdown编辑器，可以作为Typora的替代方案：
 
-1. Mark Text [链接](https://www.marktext.cc)
-2. Notable [链接](https://notable.app)
-3. Leanote [链接](https://leanote.com)
-4. Quarkdown [链接](https://quarkdown.com)
-5. Yank Note [链接](https://yank-note.com)
-6. Notes [链接](https://www.notes-foss.com)
-7. Zditor [链接](https://www.zditor.com)
+1. [Mark Text](https://www.marktext.cc)
+2. [Notable](https://notable.app)
+3. [Quarkdown](https://quarkdown.com)
+4. [Leanote](https://leanote.com)
+5. [Yank Note](https://yank-note.com)
+6. [Notes](https://www.notes-foss.com)
+7. [Zditor](https://www.zditor.com)
 
 ## Gridea
 
@@ -59,24 +59,24 @@ pinned: false
 
 可以在VS Code中安装Foam扩展实现类似的功能。以下是一些开源的免费知识库管理软件，可以作为Obsidian的替代方案：
 
-1. Joplin [链接](https://joplinapp.org)
+1. [Joplin](https://joplinapp.org)
 
     - [科研路上，我为什么离不开Joplin-少数派](https://sspai.com/post/77020)
     - [长期使用joplin笔记软件的人能不能谈谈使用感受？-画画的阿杜的回答-知乎](https://www.zhihu.com/question/436251626/answer/1960648271)
     - [Joplin-个人笔记软件轻度试用感受（主要内容为插件推荐）-灰草草的文章-知乎](https://zhuanlan.zhihu.com/p/396613374)
 
-2. AFFiNE [链接](https://affine.pro)
-3. Memos [链接](https://usememos.com)
-4. SiYuan [链接](https://b3log.org/siyuan/en/)
-5. Logseq [链接](https://logseq.com)
-6. Notesnook [链接](https://notesnook.com)
-7. blossom [链接](https://www.blossom-editor.org)
-8. Archivy [链接](https://archivy.github.io)
-9. Omni-Notes [链接](https://omninotes.app)
-10. Zim [链接](https://zim-wiki.org)
-11. P3X OneNote Linux [链接](https://www.corifeus.com/onenote)
-12. NixNote2 [链接](https://github.com/baumgarr/nixnote2)
-13. CubyText [链接](https://github.com/vincentdchan/CubyText)
+2. [AFFiNE](https://affine.pro)
+3. [Memos](https://usememos.com)
+4. [SiYuan](https://b3log.org/siyuan/en/)
+5. [Logseq](https://logseq.com)
+6. [Notesnook](https://notesnook.com)
+7. [blossom](https://www.blossom-editor.org)
+8. [Archivy](https://archivy.github.io)
+9. [Omni-Notes](https://omninotes.app)
+10. [Zim](https://zim-wiki.org)
+11. [P3X OneNote Linux](https://www.corifeus.com/onenote)
+12. [NixNote2](https://github.com/baumgarr/nixnote2)
+13. [CubyText](https://github.com/vincentdchan/CubyText)
 
 ## StackEdit
 
@@ -84,9 +84,9 @@ pinned: false
 
 以下是一些开源的基于浏览器的Markdown编辑器，可以作为StackEdit的替代方案：
 
-1. Editor.md [链接](http://editor.md.ipandao.com)
-2. 微信Markdown编辑器 [链接](https://md.doocs.org)
-3. Cherry Markdown Writer [链接](https://github.com/Tencent/cherry-markdown)
+1. [Editor.md](http://editor.md.ipandao.com)
+2. [微信Markdown编辑器](https://md.doocs.org)
+3. [Cherry Markdown Writer](https://github.com/Tencent/cherry-markdown)
 
 ## 参考
 
@@ -95,8 +95,8 @@ pinned: false
 3. [cweijan/vscode-office](https://github.com/cweijan/vscode-office)
 4. [marktext/marktext](https://github.com/marktext/marktext)
 5. [notable/notable](https://github.com/notable/notable)
-6. [leanote/leanote](https://github.com/leanote/leanote)
-7. [iamgio/quarkdown](https://github.com/iamgio/quarkdown)
+6. [iamgio/quarkdown](https://github.com/iamgio/quarkdown)
+7. [leanote/leanote](https://github.com/leanote/leanote)
 8. [purocean/yn](https://github.com/purocean/yn)
 9. [nuttyartist/notes](https://github.com/nuttyartist/notes)
 10. [zditor/zditor-docs](https://github.com/zditor/zditor-docs)

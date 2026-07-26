@@ -36,16 +36,16 @@ pinned: false
 
 ## MacOS
 
-1. Texifier [链接](https://www.texifier.com)
-2. TeXShop [链接](https://pages.uoregon.edu/koch/texshop/)
+1. [Texifier](https://www.texifier.com)
+2. [TeXShop](https://pages.uoregon.edu/koch/texshop/)
 
 ## 所见即所得
 
 严格来说，下面这些都不是LaTeX编辑器，但是可以提供所见即所得（What You See Is What You Get，WYSIWYG）的LaTeX编辑功能。
 
-1. TeXmacs [链接](https://texmacs.org/tmweb/home/welcome.en.html)
-2. LyX [链接](https://www.lyx.org)
-3. TeXpresso [链接](https://github.com/let-def/texpresso)
+1. [TeXmacs](https://texmacs.org/tmweb/home/welcome.en.html)
+2. [LyX](https://www.lyx.org)
+3. [TeXpresso](https://github.com/let-def/texpresso)
 
 ## 在线编辑器
 
@@ -58,9 +58,9 @@ pinned: false
 
 ### 集成大模型
 
-1. Prism [链接](https://crixet.com)
-2. Frism [链接](https://frism.pixelraft.com/app)
-3. Octree [链接](https://www.useoctree.com)
+1. [Prism](https://crixet.com)
+2. [Frism](https://frism.pixelraft.com/app)
+3. [Octree](https://www.useoctree.com)
 
 ## 参考
 

@@ -82,12 +82,12 @@ pinned: false
 
 ### 3D打印
 
-1. Meshmixer [链接](https://meshmixer.com)
-2. MeshLab [链接](https://www.meshlab.net)
-3. Cura [链接](https://ultimaker.com/software/ultimaker-cura/)
-4. PrusaSlicer [链接](https://www.prusa3d.com/p/prusaslicer/)
-5. Slic3r [链接](https://slic3r.org)
-6. MeshInspector [链接](https://meshinspector.com)
+1. [Meshmixer](https://meshmixer.com)
+2. [MeshLab](https://www.meshlab.net)
+3. [Cura](https://ultimaker.com/software/ultimaker-cura/)
+4. [PrusaSlicer](https://www.prusa3d.com/p/prusaslicer/)
+5. [Slic3r](https://slic3r.org)
+6. [MeshInspector](https://meshinspector.com)
 
 #### 模型
 
@@ -108,11 +108,11 @@ pinned: false
 
 电子设计自动化（Electronic Design Automation，EDA）。
 
-1. Altium Designer [链接](https://www.altium.com/altium-designer)
-2. EazyEDA [链接](https://easyeda.com)
-3. Proteus [链接](https://www.labcenter.com)
-4. Multisim [链接](https://www.ni.com/en/support/downloads/software-products/download.multisim.html#452133)
-5. Multisim Live [链接](https://www.multisim.com)
+1. [Altium Designer](https://www.altium.com/altium-designer)
+2. [EazyEDA](https://easyeda.com)
+3. [Proteus](https://www.labcenter.com)
+4. [Multisim](https://www.ni.com/en/support/downloads/software-products/download.multisim.html#452133)
+5. [Multisim Live](https://www.multisim.com)
 
 ## 参考
 

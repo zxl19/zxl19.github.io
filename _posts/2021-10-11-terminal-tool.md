@@ -113,6 +113,13 @@ pinned: false
 
 ## 文件操作
 
+### 文件管理
+
+1. [sxyazi/yazi](https://github.com/sxyazi/yazi)
+2. [jarun/nnn](https://github.com/jarun/nnn)
+3. [yorukot/superfile](https://github.com/yorukot/superfile)
+4. [gokcehan/lf](https://github.com/gokcehan/lf)
+
 ### 文件查找
 
 1. find
@@ -262,7 +269,9 @@ pinned: false
 ### 命令行解释器
 
 1. [Zsh](https://zsh.sourceforge.io)
-2. [fish](https://github.com/fish-shell/fish-shell)
+2. [nushell/nushell](https://github.com/nushell/nushell)
+3. [fish-shell/fish-shell](https://github.com/fish-shell/fish-shell)
+4. [xonsh/xonsh](https://github.com/xonsh/xonsh)
 
 ### 终端模拟器
 

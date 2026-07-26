@@ -355,6 +355,7 @@ pinned: false
 
 1. [calibre](https://calibre-ebook.com)
 2. [NeatReader](https://www.neat-reader.com)
+3. [Omnivore](https://omnivore.app)
 
 #### 文学创作
 

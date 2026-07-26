@@ -293,8 +293,8 @@ pinned: false
 3. [autodiff/autodiff](https://github.com/autodiff/autodiff)
 4. [stan-dev/math](https://github.com/stan-dev/math)
 5. [johnmcfarlane/cnl](https://github.com/johnmcfarlane/cnl)
-6. [boostorg/math](https://github.com/boostorg/math)
-7. [auto-differentiation/XAD](https://github.com/auto-differentiation/XAD)
+6. [auto-differentiation/XAD](https://github.com/auto-differentiation/XAD)
+7. [boostorg/math](https://github.com/boostorg/math)
 
 ### 随机采样一致
 
@@ -304,6 +304,13 @@ pinned: false
 4. [TotoroJason/RANSAC](https://github.com/TotoroJason/RANSAC)
 5. [libing64/RansacLine](https://github.com/libing64/RansacLine)
 6. [ddorobot/ransac](https://github.com/ddorobot/ransac)
+
+### 任意精度浮点数
+
+1. [The GNU MPFR Library](https://www.mpfr.org)
+2. [boostorg/multiprecision](https://github.com/boostorg/multiprecision)
+3. [LibBF Library](https://www.bellard.org/libbf/)
+4. [mpdecimal](https://www.bytereef.org/mpdecimal/index.html)
 
 ### 浮点数转字符串
 

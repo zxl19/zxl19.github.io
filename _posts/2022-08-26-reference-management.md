@@ -66,9 +66,9 @@ pinned: false
 
 ## 电子书管理软件
 
-1. calibre [链接](https://calibre-ebook.com)
-2. NeatReader [链接](https://www.neat-reader.com)
-3. Omnivore [链接](https://omnivore.app)
+1. [calibre](https://calibre-ebook.com)
+2. [NeatReader](https://www.neat-reader.com)
+3. [Omnivore](https://omnivore.app)
 
 ## 参考
 
@@ -78,4 +78,5 @@ pinned: false
 4. [Adding Files to your Zotero Library-Zotero](https://www.zotero.org/support/attaching_files)
 5. [Preferences-Zotero](https://www.zotero.org/support/preferences/search)
 6. [zotero/zotero](https://github.com/zotero/zotero)
-7. [omnivore-app/omnivore](https://github.com/omnivore-app/omnivore)
+7. [kovidgoyal/calibre](https://github.com/kovidgoyal/calibre)
+8. [omnivore-app/omnivore](https://github.com/omnivore-app/omnivore)
