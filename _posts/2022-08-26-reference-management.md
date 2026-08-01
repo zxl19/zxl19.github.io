@@ -69,6 +69,7 @@ pinned: false
 1. [calibre](https://calibre-ebook.com)
 2. [NeatReader](https://www.neat-reader.com)
 3. [Omnivore](https://omnivore.app)
+4. [Grimmory](https://grimmory.org)
 
 ## 参考
 
@@ -80,3 +81,4 @@ pinned: false
 6. [zotero/zotero](https://github.com/zotero/zotero)
 7. [kovidgoyal/calibre](https://github.com/kovidgoyal/calibre)
 8. [omnivore-app/omnivore](https://github.com/omnivore-app/omnivore)
+9. [grimmory-tools/grimmory](https://github.com/grimmory-tools/grimmory)

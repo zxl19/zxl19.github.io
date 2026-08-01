@@ -113,23 +113,21 @@ pinned: false
 
 ## 文件操作
 
-### 文件管理
+### 文件复制与移动
 
-1. [sxyazi/yazi](https://github.com/sxyazi/yazi)
-2. [jarun/nnn](https://github.com/jarun/nnn)
-3. [yorukot/superfile](https://github.com/yorukot/superfile)
-4. [gokcehan/lf](https://github.com/gokcehan/lf)
+1. cp
+2. mv
+3. rename
 
 ### 文件查找
 
 1. find
 2. locate
 3. updatedb
-4. tree
-5. [fzf](https://github.com/junegunn/fzf)
-6. [fd](https://github.com/sharkdp/fd)
-7. [sk](https://github.com/lotabout/skim)
-8. [tv](https://github.com/alexpasmantier/television)
+4. [fzf](https://github.com/junegunn/fzf)
+5. [fd](https://github.com/sharkdp/fd)
+6. [sk](https://github.com/lotabout/skim)
+7. [tv](https://github.com/alexpasmantier/television)
 
 ### 文件查看
 
@@ -179,7 +177,9 @@ pinned: false
 1. tar
 2. zip
 3. unzip
-4. [7z](https://www.7-zip.org/links.html)
+4. rar
+5. unrar
+6. [7z](https://www.7-zip.org/links.html)
 
 ### 文件删除
 
@@ -191,6 +191,15 @@ pinned: false
 1. [pandoc](https://github.com/jgm/pandoc)
 
 ## 文件夹操作
+
+### 文件管理
+
+1. ls
+2. tree
+3. [yazi](https://github.com/sxyazi/yazi)
+4. [nnn](https://github.com/jarun/nnn)
+5. [spf](https://github.com/yorukot/superfile)
+6. [lf](https://github.com/gokcehan/lf)
 
 ### 切换文件夹
 
@@ -290,26 +299,19 @@ pinned: false
 2. [zellij-org/zellij](https://github.com/zellij-org/zellij)
 3. [wezterm/wezterm](https://github.com/wezterm/wezterm)
 4. [ogulcancelik/herdr](https://github.com/ogulcancelik/herdr)
-5. [dustinkirkland/byobu](https://github.com/dustinkirkland/byobu)
+5. [joshmedeski/sesh](https://github.com/joshmedeski/sesh)
 6. [neurosnap/zmx](https://github.com/neurosnap/zmx)
+7. [dustinkirkland/byobu](https://github.com/dustinkirkland/byobu)
 
 ### 终端美化
 
 1. [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh)
-2. [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh)
-3. [JanDeDobbeleer/oh-my-posh2](https://github.com/JanDeDobbeleer/oh-my-posh2)
-4. [oh-my-fish/oh-my-fish](https://github.com/oh-my-fish/oh-my-fish)
+2. [starship/starship](https://github.com/starship/starship)
+3. [JanDeDobbeleer/oh-my-posh](https://github.com/JanDeDobbeleer/oh-my-posh)
+4. [JanDeDobbeleer/oh-my-posh2](https://github.com/JanDeDobbeleer/oh-my-posh2)
 5. [powerline/powerline](https://github.com/powerline/powerline)
-6. [b-ryan/powerline-shell](https://github.com/b-ryan/powerline-shell)
-
-## 护眼工具
-
-1. [safeeyes](https://github.com/slgobinath/SafeEyes)
-
-## 待办事项
-
-1. [todo.sh](https://github.com/todotxt/todo.txt-cli)
-2. [tuxedo](https://github.com/webstonehq/tuxedo)
+6. [oh-my-fish/oh-my-fish](https://github.com/oh-my-fish/oh-my-fish)
+7. [b-ryan/powerline-shell](https://github.com/b-ryan/powerline-shell)
 
 ## 代码质量
 
@@ -395,8 +397,8 @@ pinned: false
 
 1. [wget](https://www.gnu.org/software/wget/)
 2. [curl](https://github.com/curl/curl)
-3. [axel](https://github.com/axel-download-accelerator/axel)
-4. [aria2c](https://github.com/aria2/aria2)
+3. [aria2c](https://github.com/aria2/aria2)
+4. [axel](https://github.com/axel-download-accelerator/axel)
 
 ### 视频下载
 
@@ -448,6 +450,19 @@ pinned: false
 1. [gpg](https://www.gnupg.org)
 2. md5sum
 3. sha512sum
+
+## 护眼工具
+
+1. [safeeyes](https://github.com/slgobinath/SafeEyes)
+
+## 屏幕标注工具
+
+1. [gromit-mpx](https://github.com/bk138/gromit-mpx)
+
+## 待办事项
+
+1. [todo.sh](https://github.com/todotxt/todo.txt-cli)
+2. [tuxedo](https://github.com/webstonehq/tuxedo)
 
 ## 彩蛋和游戏
 

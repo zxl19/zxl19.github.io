@@ -29,10 +29,10 @@ pip install，pip uninstall，拿起pip就是干！
 
 ### 依赖项管理
 
-1. [python-poetry/poetry](https://github.com/python-poetry/poetry)
-2. [pypa/pipenv](https://github.com/pypa/pipenv)
-3. [mitsuhiko/rye](https://github.com/mitsuhiko/rye)
-4. [astral-sh/uv](https://github.com/astral-sh/uv)
+1. [astral-sh/uv](https://github.com/astral-sh/uv)
+2. [python-poetry/poetry](https://github.com/python-poetry/poetry)
+3. [pypa/pipenv](https://github.com/pypa/pipenv)
+4. [astral-sh/rye](https://github.com/astral-sh/rye)
 5. [pdm-project/pdm](https://github.com/pdm-project/pdm)
 6. [pypa/hatch](https://github.com/pypa/hatch)
 

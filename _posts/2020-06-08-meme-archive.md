@@ -354,6 +354,12 @@ Meme这个词最初源自英国著名科学家理查德·道金斯所著的《�
 2. [中文诗歌](https://awesome-poetry.top/huajianji)
 3. [rime-aca/corpus](https://github.com/rime-aca/corpus)
 
+### 书法集字
+
+1. [以观书法](https://web.ygsf.com)
+2. [书法字典](https://www.shufazidian.com)
+3. [书法迷](http://www.shufami.com)
+
 ### 下载
 
 1. [cobalt](https://cobalt.tools)

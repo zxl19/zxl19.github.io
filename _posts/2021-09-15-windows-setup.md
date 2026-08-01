@@ -91,6 +91,7 @@ pinned: false
 3. [WizTree](https://diskanalyzer.com)
 4. [SquirrelDisk](https://www.squirreldisk.com)
 5. [Pinkbin](https://github.com/cccyd2003-qwq/pinkbin)
+6. [WhoShitsOnMyC](https://github.com/Kami958/WhoShitsOnMyC)
 
 #### 数据恢复
 
@@ -106,6 +107,7 @@ pinned: false
 1. [Rufus](https://rufus.ie/en/)
 2. [Ventoy](https://www.ventoy.net/en/index.html)
 3. [微PE](https://www.wepe.com.cn)
+4. [LetRecovery](https://github.com/NORMAL-EX/LetRecovery)
 
 #### 光盘映像文件处理
 
@@ -168,6 +170,12 @@ pinned: false
 4. [Snipaste](https://www.snipaste.com)
 5. [ZoomIt](https://learn.microsoft.com/en-us/sysinternals/downloads/zoomit)
 
+#### 屏幕标注工具
+
+1. [DrawPen](https://drawpen.app)
+2. [MarkerOn](https://markeron.cn)
+3. [Pensela](https://github.com/weiameili/Pensela)
+
 #### 番茄钟&计时器
 
 1. [Pomotroid](https://splode.github.io/pomotroid/)
@@ -218,6 +226,7 @@ pinned: false
 
 1. [MathType](https://www.wiris.com/en/mathtype/)
 2. [AxMath](https://www.axsofts.com/product/axmath/)
+3. [Liii STEM](https://liiistem.cn)
 
 #### 文本编辑器
 
@@ -356,6 +365,7 @@ pinned: false
 1. [calibre](https://calibre-ebook.com)
 2. [NeatReader](https://www.neat-reader.com)
 3. [Omnivore](https://omnivore.app)
+4. [Grimmory](https://grimmory.org)
 
 #### 文学创作
 
@@ -376,9 +386,9 @@ pinned: false
 
 1. [yt-dlp](https://github.com/yt-dlp/yt-dlp)
 2. [Motrix](https://motrix.app)
-3. [Hitomi-Downloader](https://github.com/KurtBestor/Hitomi-Downloader)
-4. [Gopeed](https://gopeed.com)
-5. [NeatDownloadManager](https://www.neatdownloadmanager.com/index.php/en/)
+3. [Gopeed](https://gopeed.com)
+4. [NeatDownloadManager](https://www.neatdownloadmanager.com/index.php/en/)
+5. [Hitomi-Downloader](https://github.com/KurtBestor/Hitomi-Downloader)
 
 #### bilibili
 
