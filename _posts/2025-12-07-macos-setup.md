@@ -22,11 +22,12 @@ pinned: false
 3. [macutil](https://github.com/ChrisTitusTech/macutil)
 4. [iStat Menus](https://bjango.com/mac/istatmenus/)
 5. [State](https://www.better365.com/state.html)
+6. [Übersicht](https://tracesof.net/uebersicht/)
 
 ### 显示器管理
 
 1. [MonitorControl](https://github.com/MonitorControl/MonitorControl)
-2. [BetterDisplay](https://github.com/waydabber/BetterDisplay)
+2. [BetterDisplay](https://betterdisplay.pro)
 3. [Lunar](https://lunar.fyi)
 
 ### 鼠标管理
@@ -45,6 +46,7 @@ pinned: false
 1. [KeepingYouAwake](https://keepingyouawake.app)
 2. [Caffeine](https://www.caffeine-app.net)
 3. Amphetamine
+4. [x74353/Amphetamine-Enhancer](https://github.com/x74353/Amphetamine-Enhancer)
 
 ### 风扇管理
 
@@ -122,8 +124,9 @@ pinned: false
 4. [MenubarX](https://menubarx.app)
 5. [iBar](https://www.better365.com/ibar.html)
 6. [SketchyBar](https://felixkratz.github.io/SketchyBar/)
-7. [simple-bar](https://github.com/Jean-Tinland/simple-bar)
-8. [spacebar](https://github.com/cmacrae/spacebar)
+7. [Dozer](https://github.com/Mortennn/Dozer)
+8. [simple-bar](https://www.jeantinland.com/toolbox/simple-bar/)
+9. [spacebar](https://github.com/cmacrae/spacebar)
 
 ## 办公相关
 
@@ -189,6 +192,7 @@ pinned: false
 ### 文本编辑器
 
 1. [TextMate](https://macromates.com)
+2. [Focus](https://github.com/focus-editor/focus)
 
 ### 虚拟机
 
@@ -233,7 +237,7 @@ pinned: false
 
 ### 系统美化
 
-1. [taigrr/spank](https://github.com/taigrr/spank)
+1. [spank](https://github.com/taigrr/spank)
 
 ## 应用合集
 

@@ -68,13 +68,22 @@ Meme这个词最初源自英国著名科学家理查德·道金斯所著的《�
 13. [symisc/ascii_art](https://github.com/symisc/ascii_art)
 14. [BEPb/image_to_ascii](https://github.com/BEPb/image_to_ascii)
 
+## Jeff Dean笑话
+
+1. [LRitzdorf/TheJeffDeanFacts](https://github.com/LRitzdorf/TheJeffDeanFacts)
+2. [The Jeff Dean Facts](https://www.informatika.bg/jeffdean)
+3. [计算机领域有哪些经典的典故或笑话？-绅士提督不笑船的回答-知乎](https://www.zhihu.com/question/20034686/answer/20646787)
+4. [计算机科学领域有什么笑话？-林致远Jerry的回答-知乎](https://www.zhihu.com/question/280415174/answer/3007182684)
+
 ## 科研
 
 1. [S.H.I.T. Journal](https://shitjournal.org)
 2. [《Rubbish》——一本跨学科期刊](https://rubbish-journal.org)
-3. [Joker of Academics](https://jokerofacademics.com)
-4. [Web of Nothing](https://webofnothing.org)
-5. [维基百科转参考文献](https://m-journal.org)
+3. [Web of Nothing](https://webofnothing.org)
+4. [JOKER Community](https://jokerofacademics.com)
+5. [HELL Journal](https://hellpress.org)
+6. [Notrue期刊](https://www.no-true.com/zh)
+7. [维基百科转参考文献](https://m-journal.org)
 
 ## 测试
 
@@ -107,6 +116,10 @@ Meme这个词最初源自英国著名科学家理查德·道金斯所著的《�
 
 1. [NUKEMAP](https://nuclearsecrecy.com/nukemap/)
 2. [MISSILEMAP](https://nuclearsecrecy.com/missilemap/)
+
+### 相控阵雷达
+
+1. [NawfalMotii79/PLFM_RADAR](https://github.com/NawfalMotii79/PLFM_RADAR)
 
 ## 编程语言
 
@@ -193,13 +206,14 @@ Meme这个词最初源自英国著名科学家理查德·道金斯所著的《�
 15. [Sandtrix](https://mslivo.itch.io/sandtrix)
 16. [SquishyGo](https://puyogo.app/en/)
 17. [Geometry Wars](https://skywind3000.github.io/games/geometry/)
-18. [996忍者](https://996.ninja)
-19. [Graphwar II](https://graphwar.com)
-20. [Graphwar杀手](https://howiehz.top/misc/tools/graphwar-killer/)
-21. [Wplace](https://wplace.live)
-22. [Wplace.live Guide](https://wplace.life)
-23. [Wplace Tools](https://wplace.info)
-24. [Wigglypaint](https://www.wigglypaint.art)
+18. [网络精灵](https://cn.akinator.com)
+19. [996忍者](https://996.ninja)
+20. [Graphwar II](https://graphwar.com)
+21. [Graphwar杀手](https://howiehz.top/misc/tools/graphwar-killer/)
+22. [Wplace](https://wplace.live)
+23. [Wplace.live Guide](https://wplace.life)
+24. [Wplace Tools](https://wplace.info)
+25. [Wigglypaint](https://www.wigglypaint.art)
 
 ### 兼容层
 

@@ -22,14 +22,15 @@ pinned: false
 1. [Dism++](https://github.com/Chuyu-Team/Dism-Multi-language)
 2. [AIDA64](https://www.aida64.com)
 3. [Afterburner](https://www.msi.com/Landing/afterburner/graphics-cards)
-4. [Wintoys](https://apps.microsoft.com/detail/9p8ltpgcbzxd)
-5. [ChrisTitusTech/winutil](https://github.com/ChrisTitusTech/winutil)
-6. [zoicware/RemoveWindowsAI](https://github.com/zoicware/RemoveWindowsAI)
-7. [ramensoftware/windhawk](https://github.com/ramensoftware/windhawk)
-8. [rayenghanmi/RyTuneX](https://github.com/rayenghanmi/RyTuneX)
-9. [itsfatduck/optimizerDuck](https://github.com/itsfatduck/optimizerDuck)
-10. [zoicware/RepairBadTweaks](https://github.com/zoicware/RepairBadTweaks)
-11. [zoicware/ZOICWARE](https://github.com/zoicware/ZOICWARE)
+4. [Wintoys](https://bogdan-patraucean.github.io/about/wintoys/)
+5. [WinUtil](https://winutil.christitus.com)
+6. [Windhawk](https://windhawk.net)
+7. [RyTuneX](https://rayenghanmi.github.io/rytunex/)
+8. [optimizerDuck](https://optimizerduck.vercel.app)
+9. [StartAllBack](https://www.startallback.com)
+10. [zoicware/RemoveWindowsAI](https://github.com/zoicware/RemoveWindowsAI)
+11. [zoicware/RepairBadTweaks](https://github.com/zoicware/RepairBadTweaks)
+12. [zoicware/ZOICWARE](https://github.com/zoicware/ZOICWARE)
 
 #### 硬盘管理
 
@@ -46,7 +47,7 @@ pinned: false
 ##### CPU
 
 1. [CPU-Z](https://www.cpuid.com/softwares/cpu-z.html)
-2. [CoreCycler](https://github.com/sp00n/CoreCycler)
+2. [sp00n/CoreCycler](https://github.com/sp00n/CoreCycler)
 
 ##### GPU
 
@@ -63,7 +64,7 @@ pinned: false
 4. [Actual Multiple Monitors](https://www.actualtools.com/multiplemonitors/)
 5. [ControlMyMonitor](https://www.nirsoft.net/utils/control_my_monitor.html)
 6. [UltraMon](https://www.realtimesoft.com/ultramon/)
-7. [zpix1/windisplay](https://github.com/zpix1/windisplay)
+7. [WinDisplay](https://github.com/zpix1/windisplay)
 
 #### 文件管理
 
@@ -80,9 +81,9 @@ pinned: false
 ##### 文件重命名
 
 1. [Bulk Rename Utility](https://www.bulkrenameutility.co.uk)
-2. [chrdavis/SmartRename](https://github.com/chrdavis/SmartRename)
-3. [cyhuajuan/FreeReNamer](https://github.com/cyhuajuan/FreeReNamer)
-4. [chenz24/rename.tools](https://github.com/chenz24/rename.tools)
+2. [FreeReNamer](https://github.com/cyhuajuan/FreeReNamer)
+3. [Rename.Tools](https://rename.tools/en)
+4. [chrdavis/SmartRename](https://github.com/chrdavis/SmartRename)
 
 #### 空间管理
 
@@ -107,7 +108,7 @@ pinned: false
 1. [Rufus](https://rufus.ie/en/)
 2. [Ventoy](https://www.ventoy.net/en/index.html)
 3. [微PE](https://www.wepe.com.cn)
-4. [LetRecovery](https://github.com/NORMAL-EX/LetRecovery)
+4. [LetRecovery](https://letrecovery.net)
 
 #### 光盘映像文件处理
 
@@ -160,7 +161,7 @@ pinned: false
 
 1. [Adobe Acrobat Pro](https://www.adobe.com/acrobat/acrobat-pro.html)
 2. [SumatraPDF](https://www.sumatrapdfreader.org/free-pdf-reader)
-3. [PDFCraftTool/PDFCraft](https://github.com/PDFCraftTool/PDFCraft)
+3. [PDFCraft](https://pdfcraft.devtoolcafe.com/en/)
 
 #### 截图录屏工具
 
@@ -178,7 +179,7 @@ pinned: false
 
 #### 番茄钟&计时器
 
-1. [Pomotroid](https://splode.github.io/pomotroid/)
+1. [Pomotroid](https://pomotroid.app)
 2. [Pomatez](https://zidoro.github.io/pomatez/)
 3. [Catime](https://cati.me)
 
@@ -207,8 +208,8 @@ pinned: false
 #### Microsoft Office
 
 1. [iSlide](https://www.islide.cc)
-2. [OdysseusYuan/LKY_OfficeTools](https://github.com/OdysseusYuan/LKY_OfficeTools)
-3. [OdysseusYuan/Mocreak](https://github.com/OdysseusYuan/Mocreak)
+2. [LKY Office Tools](https://github.com/OdysseusYuan/LKY_OfficeTools)
+3. [Mocreak](https://www.mocreak.com)
 
 #### 微信
 
@@ -231,7 +232,7 @@ pinned: false
 #### 文本编辑器
 
 1. [Visual Studio Code](https://code.visualstudio.com)
-2. [NotePad--](https://github.com/cxasm/notepad--)
+2. [Notepad--](https://github.com/cxasm/notepad--)
 
 #### Markdown编辑器
 
@@ -387,8 +388,10 @@ pinned: false
 1. [yt-dlp](https://github.com/yt-dlp/yt-dlp)
 2. [Motrix](https://motrix.app)
 3. [Gopeed](https://gopeed.com)
-4. [NeatDownloadManager](https://www.neatdownloadmanager.com/index.php/en/)
-5. [Hitomi-Downloader](https://github.com/KurtBestor/Hitomi-Downloader)
+4. [Ghost Downloader](https://gd.xychr.com)
+5. [Internet Download Manager](https://www.internetdownloadmanager.com)
+6. [Neat Download Manager](https://www.neatdownloadmanager.com/index.php/en/)
+7. [Hitomi Downloader](https://github.com/KurtBestor/Hitomi-Downloader)
 
 #### bilibili
 

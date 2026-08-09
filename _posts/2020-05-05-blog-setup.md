@@ -24,7 +24,8 @@ pinned: false
 3. [RayeRen/acad-homepage.github.io](https://github.com/RayeRen/acad-homepage.github.io)
 4. [gaowei-space/markdown-blog](https://github.com/gaowei-space/markdown-blog)
 5. [FromEndWorld/LOFFER](https://github.com/FromEndWorld/LOFFER)
-6. [lemonchann/lemonchann.github.io](https://github.com/lemonchann/lemonchann.github.io)
+6. [aweekj/kiko-now](https://github.com/aweekj/kiko-now)
+7. [lemonchann/lemonchann.github.io](https://github.com/lemonchann/lemonchann.github.io)
 
 ### 选择开源协议
 
