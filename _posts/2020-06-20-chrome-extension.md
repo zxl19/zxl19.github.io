@@ -183,9 +183,11 @@ One for all free music in China.
 
 This plugin displays your text in a textarea so you can use spellcheck plugins like Grammarly.
 
-## PT助手Plus
+## PT Depiler
 
-提升PT站点使用效率。
+提升PT站点使用效率，类似的扩展还有PT助手Plus。
+
+**2026年8月：PT助手Plus已于2025年6月停止维护。**
 
 ## Sci-Hub
 
