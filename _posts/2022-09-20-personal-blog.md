@@ -71,9 +71,10 @@ pinned: false
 6. [奔跑中的奶酪](https://www.runningcheese.com)
 7. [Alex Wellerstein](https://alexwellerstein.com)
 8. [Restricted Data](https://blog.nuclearsecrecy.com)
-9. [EE Archeology](http://7400.me)
-10. [Web Mechanic](https://www.softouch.on.ca)
-11. [月石MoonStone](https://www.moonstone.fun)
+9. [The Centre for Computing History](https://www.computinghistory.org.uk)
+10. [EE Archeology](http://7400.me)
+11. [Web Mechanic](https://www.softouch.on.ca)
+12. [月石MoonStone](https://www.moonstone.fun)
 
 #### 生活随笔
 
@@ -82,19 +83,20 @@ pinned: false
 
 ### Linux相关
 
-1. [鸟哥的Linux私房菜](https://linux.vbird.org)
-2. [Linux中国](https://linux.net.cn)
-3. [Fabrice Bellard's Home Page](https://www.bellard.org)
-4. [Brendan Gregg's Homepage](https://www.brendangregg.com/index.html)
-5. [Rob Landley](https://landley.net)
-6. [Linux.org](https://www.linux.org)
-7. [Linux Tech Tips](https://www.linuxtechtips.com)
-8. [Luyoung](https://luliang.website)
-9. [Luyoung](https://luyoung0001.github.io)
-10. [Linux迷](https://www.linuxmi.com)
-11. [LinuxTOY](https://linuxtoy.org)
-12. [Linux Wiki](http://linux-wiki.cn/wiki/%E9%A6%96%E9%A1%B5)
-13. [Linux教程和文章](https://cn.linux-console.net)
+1. [Richard Stallman's Personal Page](https://www.stallman.org)
+2. [鸟哥的Linux私房菜](https://linux.vbird.org)
+3. [Linux中国](https://linux.net.cn)
+4. [Fabrice Bellard's Home Page](https://www.bellard.org)
+5. [Brendan Gregg's Homepage](https://www.brendangregg.com/index.html)
+6. [Rob Landley](https://landley.net)
+7. [Linux.org](https://www.linux.org)
+8. [Linux Tech Tips](https://www.linuxtechtips.com)
+9. [Luyoung](https://luliang.website)
+10. [Luyoung](https://luyoung0001.github.io)
+11. [Linux迷](https://www.linuxmi.com)
+12. [LinuxTOY](https://linuxtoy.org)
+13. [Linux Wiki](http://linux-wiki.cn/wiki/%E9%A6%96%E9%A1%B5)
+14. [Linux教程和文章](https://cn.linux-console.net)
 
 ### C++相关
 

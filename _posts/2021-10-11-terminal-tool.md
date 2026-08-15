@@ -58,8 +58,10 @@ pinned: false
 
 ## 时钟同步
 
-1. [linuxptp](https://github.com/richardcochran/linuxptp)
-2. [ethtool](https://github.com/Distrotech/ethtool)
+1. [ntp-ctl](https://github.com/pendulum-project/ntpd-rs)
+2. [linuxptp](https://github.com/richardcochran/linuxptp)
+3. [chrony](https://github.com/mlichvar/chrony)
+4. [ntp](https://github.com/ntp-project/ntp)
 
 ## 计算器
 
@@ -70,6 +72,36 @@ pinned: false
 5. factor
 6. [primesieve](https://github.com/kimwalisch/primesieve)
 
+## 系统信息
+
+1. lscpu
+2. lsmem
+3. lsblk
+4. lsscsi
+5. lspci
+6. lsusb
+7. lshw
+8. lsmod
+9. uname
+10. hostname
+11. [neofetch](https://github.com/dylanaraps/neofetch)
+12. [fastfetch](https://github.com/fastfetch-cli/fastfetch)
+
+## 磁盘管理
+
+1. df
+2. du
+3. sync
+4. [smartctl](https://github.com/smartmontools/smartmontools)
+5. badblocks
+
+## 变量和输出
+
+1. set
+2. unset
+3. echo
+4. printf
+
 ## 性能监控
 
 ### CPU
@@ -79,7 +111,8 @@ pinned: false
 3. [nmon](http://nmon.sourceforge.net/pmwiki.php)
 4. [glances](https://github.com/nicolargo/glances)
 5. [btop](https://github.com/aristocratos/btop)
-6. [ttyplot](https://github.com/tenox7/ttyplot)
+6. [dstat](https://github.com/dstat-real/dstat)
+7. [dool](https://github.com/scottchiefbaker/dool)
 
 ### GPU
 
@@ -113,11 +146,30 @@ pinned: false
 
 ## 文件操作
 
-### 文件复制与移动
+### 文件复制和移动
 
 1. cp
 2. mv
 3. rename
+
+### 文件传输
+
+1. scp
+2. rsync
+
+### 符号链接
+
+1. ln
+2. readlink
+3. update-alternatives
+
+### Dotfile管理
+
+1. [stow](https://www.gnu.org/software/stow/)
+2. [chezmoi](https://github.com/twpayne/chezmoi)
+3. [vcsh](https://github.com/RichiH/vcsh)
+4. [homeshick](https://github.com/andsens/homeshick)
+5. [tuckr](https://github.com/RaphGL/tuckr)
 
 ### 文件查找
 
@@ -197,9 +249,13 @@ pinned: false
 1. ls
 2. tree
 3. [yazi](https://github.com/sxyazi/yazi)
-4. [nnn](https://github.com/jarun/nnn)
-5. [spf](https://github.com/yorukot/superfile)
-6. [lf](https://github.com/gokcehan/lf)
+4. [spf](https://github.com/yorukot/superfile)
+5. [nnn](https://github.com/jarun/nnn)
+6. [ranger](https://github.com/ranger/ranger)
+7. [lf](https://github.com/gokcehan/lf)
+8. [vifm](https://github.com/vifm/vifm)
+9. [clifm](https://github.com/leo-arch/clifm)
+10. [mc](https://github.com/MidnightCommander/mc)
 
 ### 切换文件夹
 
@@ -221,6 +277,7 @@ pinned: false
 1. alias
 2. unalias
 3. command
+4. `\`
 
 ## 命令帮助查询
 
@@ -233,6 +290,33 @@ pinned: false
 
 1. [thefuck](https://github.com/nvbn/thefuck)
 2. [try](https://github.com/binpash/try)
+
+## 进程管理
+
+### 进程查看
+
+1. ps
+2. pgrep
+3. pidof
+4. fuser
+5. lsof
+
+### 进程控制
+
+1. kill
+2. pkill
+3. nice
+4. renice
+5. trap
+
+### 作业控制
+
+1. jobs
+2. nohup
+3. bg
+4. fg
+5. disown
+6. `%`
 
 ## 文本操作
 
@@ -358,6 +442,7 @@ pinned: false
 
 1. [shellcheck](https://github.com/koalaman/shellcheck)
 2. [shfmt](https://github.com/mvdan/sh)
+3. [beautysh](https://github.com/lovesegfault/beautysh)
 
 ### 调试工具
 
@@ -397,19 +482,26 @@ pinned: false
 
 1. [wget](https://www.gnu.org/software/wget/)
 2. [curl](https://github.com/curl/curl)
-3. [aria2c](https://github.com/aria2/aria2)
-4. [axel](https://github.com/axel-download-accelerator/axel)
+3. [wcurl](https://github.com/curl/wcurl)
+4. [aria2c](https://github.com/aria2/aria2)
+5. [axel](https://github.com/axel-download-accelerator/axel)
 
 ### 视频下载
 
-1. [youtube-dl](https://github.com/ytdl-org/youtube-dl)
-2. [yt-dlp](https://github.com/yt-dlp/yt-dlp)
+1. [yt-dlp](https://github.com/yt-dlp/yt-dlp)
+2. [youtube-dl](https://github.com/ytdl-org/youtube-dl)
 3. [you-get](https://github.com/soimort/you-get)
 4. [lux](https://github.com/iawia002/lux)
 5. [pytube](https://github.com/pytube/pytube)
 6. [youtube-dlc](https://github.com/blackjack4494/yt-dlc)
 
 ## 网络
+
+### 网络配置
+
+1. ifconfig
+2. [ip](https://github.com/iproute2/iproute2)
+3. [ethtool](https://github.com/Distrotech/ethtool)
 
 ### 代理
 
@@ -444,6 +536,7 @@ pinned: false
 
 1. sshpass
 2. [pass](https://www.passwordstore.org)
+3. [doppler](https://github.com/DopplerHQ/cli)
 
 ## 加密
 
@@ -463,6 +556,10 @@ pinned: false
 
 1. [todo.sh](https://github.com/todotxt/todo.txt-cli)
 2. [tuxedo](https://github.com/webstonehq/tuxedo)
+
+## 语音合成
+
+1. [espeak](https://github.com/espeak-ng/espeak-ng)
 
 ## 彩蛋和游戏
 

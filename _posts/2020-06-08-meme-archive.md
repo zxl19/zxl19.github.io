@@ -224,11 +224,12 @@ Meme这个词最初源自英国著名科学家理查德·道金斯所著的《�
 
 ### GitHub
 
-#### NS模拟器
+#### 主机模拟器
 
 1. [yuzu-emu/yuzu](https://github.com/yuzu-emu/yuzu)
 2. [yuzu-mirror/yuzu](https://github.com/yuzu-mirror/yuzu)
 3. [Ryujinx/Ryujinx](https://github.com/Ryujinx/Ryujinx)
+4. [dolphin-emu/dolphin](https://github.com/dolphin-emu/dolphin)
 
 #### 游戏源码
 
@@ -253,10 +254,11 @@ Meme这个词最初源自英国著名科学家理查德·道金斯所著的《�
 1. [louis-e/arnis](https://github.com/louis-e/arnis)
 2. [js13kGames/resources](https://github.com/js13kGames/resources)
 
-#### 游戏外挂
+#### 游戏修改器
 
-1. [dyang886/Game-Cheats-Manager](https://github.com/dyang886/Game-Cheats-Manager)
-2. [ufrisk/pcileech](https://github.com/ufrisk/pcileech)
+1. [game1024/OpenSpeedy](https://github.com/game1024/OpenSpeedy)
+2. [dyang886/Game-Cheats-Manager](https://github.com/dyang886/Game-Cheats-Manager)
+3. [ufrisk/pcileech](https://github.com/ufrisk/pcileech)
 
 ## 工具箱
 

@@ -180,8 +180,9 @@ pinned: false
 
 1. [jbeder/yaml-cpp](https://github.com/jbeder/yaml-cpp)
 2. [yaml/libyaml](https://github.com/yaml/libyaml)
-3. [tlsa/libcyaml](https://github.com/tlsa/libcyaml)
+3. [biojppm/rapidyaml](https://github.com/biojppm/rapidyaml)
 4. [pantoniou/libfyaml](https://github.com/pantoniou/libfyaml)
+5. [tlsa/libcyaml](https://github.com/tlsa/libcyaml)
 
 #### `.csv`文件
 

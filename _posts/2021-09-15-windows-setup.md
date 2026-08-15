@@ -226,8 +226,9 @@ pinned: false
 #### 公式编辑器
 
 1. [MathType](https://www.wiris.com/en/mathtype/)
-2. [AxMath](https://www.axsofts.com/product/axmath/)
+2. [AxMath](https://www.axsoft.co)
 3. [Liii STEM](https://liiistem.cn)
+4. [VisualTeX](https://github.com/paulhe666/visualtex)
 
 #### 文本编辑器
 
@@ -329,8 +330,11 @@ pinned: false
 
 #### 数据库
 
-1. [DB Browser for SQLite](https://sqlitebrowser.org)
-2. [Navicat Premium](https://www.navicat.com/en/products/navicat-premium)
+1. [DBeaver](https://dbeaver.io)
+2. [DB Browser for SQLite](https://sqlitebrowser.org)
+3. [Beekeeper Studio](https://www.beekeeperstudio.io)
+4. [TablePlus](https://tableplus.com)
+5. [Navicat Premium](https://www.navicat.com/en/products/navicat-premium)
 
 ### 娱乐相关
 
@@ -389,9 +393,11 @@ pinned: false
 2. [Motrix](https://motrix.app)
 3. [Gopeed](https://gopeed.com)
 4. [Ghost Downloader](https://gd.xychr.com)
-5. [Internet Download Manager](https://www.internetdownloadmanager.com)
-6. [Neat Download Manager](https://www.neatdownloadmanager.com/index.php/en/)
-7. [Hitomi Downloader](https://github.com/KurtBestor/Hitomi-Downloader)
+5. [Fluent M3U8](https://fluent-m3u8.org)
+6. [Internet Download Manager](https://www.internetdownloadmanager.com)
+7. [Neat Download Manager](https://www.neatdownloadmanager.com/index.php/en/)
+8. [res-downloader](https://github.com/putyy/res-downloader)
+9. [Hitomi Downloader](https://github.com/KurtBestor/Hitomi-Downloader)
 
 #### bilibili
 

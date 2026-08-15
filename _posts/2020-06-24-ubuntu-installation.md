@@ -15,8 +15,22 @@ pinned: false
 
 ## Ubuntu Hello World
 
-1. Linux是Linus Torvalds开发的类Unix（Unix-like）系统，以Linux内核（kernel）为基础；
-2. [FabioLolix/LinuxTimeline](https://github.com/FabioLolix/LinuxTimeline)仓库中记录了各个Linux发行版的时间线：
+```text
+The four essential freedoms
+
+The freedom to run the program as you wish, for any purpose (freedom 0).
+The freedom to study how the program works, and change it so it does your computing as you wish (freedom 1). Access to the source code is a precondition for this.
+The freedom to redistribute copies so you can help others (freedom 2).
+The freedom to distribute copies of your modified versions to others (freedom 3). By doing this you can give the whole community a chance to benefit from your changes. Access to the source code is a precondition for this.
+```
+
+```text
+To understand the concept, you should think of “free” as in “free speech,” not as in “free beer.”
+```
+
+1. GNU是Richard Matthew Stallman（RMS）于1983年发起的自由软件项目，是GNU's Not Unix的递归缩写，目标是创建一个完全自由的类Unix（Unix-like）操作系统；
+2. GNU/Linux是以Linus Torvalds开发的Linux内核（kernel）为基础的类Unix操作系统，RMS建议使用这个称呼，但是社区和大部分用户通常简称为Linux；
+3. [FabioLolix/LinuxTimeline](https://github.com/FabioLolix/LinuxTimeline)仓库中记录了各个Linux发行版的时间线：
 
     - [Ubuntu](https://ubuntu.com)是基于Debian的Linux发行版；
     - [Pop!_OS](https://system76.com/pop/)是基于Ubuntu的Linux发行版；
@@ -160,27 +174,31 @@ sudo service network-manager restart
 
 1. [GNU](https://www.gnu.org)
 2. [LLVM](https://www.llvm.org)
-3. [Difference between Unix and Linux-GeeksforGeeks](https://www.geeksforgeeks.org/linux-vs-unix/)
-4. [8 Most Popular Linux Distributions (2025)-GeeksforGeeks](https://www.geeksforgeeks.org/linux-unix/8-most-popular-linux-distributions/)
-5. [Linux下载-Linux中国](https://linux.net.cn/article-4130-1.html)
-6. [Download Linux-Linux.org](https://www.linux.org/pages/download/)
-7. [torvalds/linux](https://github.com/torvalds/linux)
-8. [那张流行的关于Linux版本的图的出处-何其幸运的文章-知乎](https://zhuanlan.zhihu.com/p/1910763315426231504)
-9. [FabioLolix/LinuxTimeline](https://github.com/FabioLolix/LinuxTimeline)
-10. [pop-os/pop](https://github.com/pop-os/pop)
-11. [basecamp/omarchy](https://github.com/basecamp/omarchy)
-12. [CachyOS/linux-cachyos](https://github.com/CachyOS/linux-cachyos)
-13. [AsahiLinux/linux](https://github.com/AsahiLinux/linux)
-14. [有哪些笔记本比较完美地支持ubuntu？-番茄老夫子的回答-知乎](https://www.zhihu.com/question/286150644/answer/1064982579)
-15. [Certified hardware](https://ubuntu.com/certified)
-16. [Ubuntu downloads](https://ubuntu.com/download)
-17. [Alternative downloads](https://ubuntu.com/download/alternative-downloads)
-18. [Ubuntu Releases](https://releases.ubuntu.com)
-19. [Official Ubuntu Documentation](https://help.ubuntu.com)
-20. [Rufus](https://rufus.ie/zh/)
-21. [清华大学开源软件镜像站](https://mirrors.tuna.tsinghua.edu.cn)
-22. [如何解决U盘装系统后磁盘总容量变小？-百度经验](https://jingyan.baidu.com/article/59703552e754e48fc00740ed.html)
-23. [重装Ubuntu时如何保留/home分区中的数据-博客园](https://www.cnblogs.com/maowang1991/p/3270441.html)
-24. [Ubuntu下~/.bashrc文件的恢复方法-CSDN博客](https://blog.csdn.net/yucicheung/article/details/79334998)
-25. [无法联网-CSDN博客](https://blog.csdn.net/nickdada/article/details/118152182)
-26. [重启网络服务-Stack Exchange](https://askubuntu.com/questions/230698/how-to-restart-the-networking-service)
+3. [GNU in a Nutshell-GNU](https://www.gnu.org/gnu/about-gnu.html)
+4. [Linux and the GNU System-GNU](https://www.gnu.org/gnu/linux-and-gnu.html)
+5. [What's in a Name?-GNU](https://www.gnu.org/gnu/why-gnu-linux.html)
+6. [What is Free Software?-GNU](https://www.gnu.org/philosophy/free-sw.html)
+7. [Difference between Unix and Linux-GeeksforGeeks](https://www.geeksforgeeks.org/linux-vs-unix/)
+8. [8 Most Popular Linux Distributions (2025)-GeeksforGeeks](https://www.geeksforgeeks.org/linux-unix/8-most-popular-linux-distributions/)
+9. [Linux下载-Linux中国](https://linux.net.cn/article-4130-1.html)
+10. [Download Linux-Linux.org](https://www.linux.org/pages/download/)
+11. [torvalds/linux](https://github.com/torvalds/linux)
+12. [那张流行的关于Linux版本的图的出处-何其幸运的文章-知乎](https://zhuanlan.zhihu.com/p/1910763315426231504)
+13. [FabioLolix/LinuxTimeline](https://github.com/FabioLolix/LinuxTimeline)
+14. [pop-os/pop](https://github.com/pop-os/pop)
+15. [basecamp/omarchy](https://github.com/basecamp/omarchy)
+16. [CachyOS/linux-cachyos](https://github.com/CachyOS/linux-cachyos)
+17. [AsahiLinux/linux](https://github.com/AsahiLinux/linux)
+18. [有哪些笔记本比较完美地支持ubuntu？-番茄老夫子的回答-知乎](https://www.zhihu.com/question/286150644/answer/1064982579)
+19. [Certified hardware](https://ubuntu.com/certified)
+20. [Ubuntu downloads](https://ubuntu.com/download)
+21. [Alternative downloads](https://ubuntu.com/download/alternative-downloads)
+22. [Ubuntu Releases](https://releases.ubuntu.com)
+23. [Official Ubuntu Documentation](https://help.ubuntu.com)
+24. [Rufus](https://rufus.ie/zh/)
+25. [清华大学开源软件镜像站](https://mirrors.tuna.tsinghua.edu.cn)
+26. [如何解决U盘装系统后磁盘总容量变小？-百度经验](https://jingyan.baidu.com/article/59703552e754e48fc00740ed.html)
+27. [重装Ubuntu时如何保留/home分区中的数据-博客园](https://www.cnblogs.com/maowang1991/p/3270441.html)
+28. [Ubuntu下~/.bashrc文件的恢复方法-CSDN博客](https://blog.csdn.net/yucicheung/article/details/79334998)
+29. [无法联网-CSDN博客](https://blog.csdn.net/nickdada/article/details/118152182)
+30. [重启网络服务-Stack Exchange](https://askubuntu.com/questions/230698/how-to-restart-the-networking-service)

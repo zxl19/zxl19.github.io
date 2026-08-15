@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 约定式提交学习笔记
-date: TODO
+date: 2026-08-15
 author: zxl19
 tags: [Git, Note]
 comments: true

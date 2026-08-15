@@ -126,7 +126,7 @@ pinned: false
 
     - [varkor/quiver](https://github.com/varkor/quiver)
 
-9. [AxGlyph](https://www.axsofts.com/product/axglyph/)
+9. [AxGlyph](https://www.axsoft.co)
 10. PowerPoint
 
 ## 格式化数据

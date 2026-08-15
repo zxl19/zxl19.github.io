@@ -274,10 +274,8 @@ plugins=(git themes zsh-autosuggestions zsh-syntax-highlighting)
 
 #### 设置主题
 
-1. [dylanaraps/neofetch](https://github.com/dylanaraps/neofetch)
-2. [ranger/ranger](https://github.com/ranger/ranger)
-3. [abishekvashok/cmatrix](https://github.com/abishekvashok/cmatrix)
-4. [GitSquared/horizon-edex-theme](https://github.com/GitSquared/horizon-edex-theme)
+1. [abishekvashok/cmatrix](https://github.com/abishekvashok/cmatrix)
+2. [GitSquared/horizon-edex-theme](https://github.com/GitSquared/horizon-edex-theme)
 
 ## 参考
 
