@@ -30,17 +30,25 @@ pinned: false
 
 1. [sharkdp/shell-functools](https://github.com/sharkdp/shell-functools)
 
+## 软件包管理器
+
+1. dpkg
+2. [apt](https://tracker.debian.org/pkg/apt)
+3. [snap](https://snapcraft.io)
+4. [homebrew](https://brew.sh)
+5. [bauh](https://github.com/vinifmor/bauh)
+
 ## 命令行工具箱
 
 1. [x-cmd](https://github.com/x-cmd/x-cmd)
 2. [linutil](https://github.com/ChrisTitusTech/linutil)
 
-## 软件包管理器
+## 电源管理
 
-1. [apt](https://tracker.debian.org/pkg/apt)
-2. [snap](https://snapcraft.io)
-3. [homebrew](https://brew.sh)
-4. [bauh](https://github.com/vinifmor/bauh)
+1. shutdown
+2. poweroff
+3. reboot
+4. halt
 
 ## 时钟
 
@@ -84,35 +92,47 @@ pinned: false
 8. lsmod
 9. uname
 10. hostname
-11. [neofetch](https://github.com/dylanaraps/neofetch)
-12. [fastfetch](https://github.com/fastfetch-cli/fastfetch)
+11. systemctl
+12. [neofetch](https://github.com/dylanaraps/neofetch)
+13. [fastfetch](https://github.com/fastfetch-cli/fastfetch)
 
 ## 磁盘管理
 
 1. df
 2. du
-3. sync
-4. [smartctl](https://github.com/smartmontools/smartmontools)
-5. badblocks
+3. [duf](https://github.com/muesli/duf)
+4. [ncdu](https://github.com/rofl0r/ncdu)
+5. sync
+6. fallocate
+7. [smartctl](https://github.com/smartmontools/smartmontools)
+8. badblocks
+
+## 内存管理
+
+1. free
+2. mkswap
+3. swapon
 
 ## 变量和输出
 
 1. set
 2. unset
-3. echo
-4. printf
+3. export
+4. echo
+5. printf
 
 ## 性能监控
 
 ### CPU
 
 1. top
-2. [htop](https://github.com/htop-dev/htop)
-3. [nmon](http://nmon.sourceforge.net/pmwiki.php)
-4. [glances](https://github.com/nicolargo/glances)
-5. [btop](https://github.com/aristocratos/btop)
-6. [dstat](https://github.com/dstat-real/dstat)
-7. [dool](https://github.com/scottchiefbaker/dool)
+2. vmstat
+3. [htop](https://github.com/htop-dev/htop)
+4. [nmon](http://nmon.sourceforge.net/pmwiki.php)
+5. [glances](https://github.com/nicolargo/glances)
+6. [btop](https://github.com/aristocratos/btop)
+7. [dstat](https://github.com/dstat-real/dstat)
+8. [dool](https://github.com/scottchiefbaker/dool)
 
 ### GPU
 
@@ -122,6 +142,11 @@ pinned: false
 4. [gpustat](https://github.com/wookayin/gpustat)
 5. [jtop](https://github.com/rbonghi/jetson_stats)
 6. [nvidia-htop.py](https://github.com/peci1/nvidia-htop)
+
+### I/O
+
+1. [iostat](https://github.com/sysstat/sysstat)
+2. [iotop](https://github.com/Tomas-M/iotop)
 
 ## 性能基准
 
@@ -145,6 +170,13 @@ pinned: false
 2. [pumba](https://github.com/alexei-led/pumba)
 
 ## 文件操作
+
+### 文件属性管理
+
+1. touch
+2. chmod
+3. file
+4. stat
 
 ### 文件复制和移动
 

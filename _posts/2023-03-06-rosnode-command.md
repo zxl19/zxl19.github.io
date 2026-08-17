@@ -9,7 +9,7 @@ toc: true
 pinned: false
 ---
 
-我的rosnode命令行工具学习笔记。
+我的`rosnode`命令行工具学习笔记。
 
 <!-- more -->
 

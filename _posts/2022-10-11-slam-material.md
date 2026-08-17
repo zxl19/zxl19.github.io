@@ -322,12 +322,54 @@ pinned: false
 8. [番外一：重新审视EM Planner的规划框架-胖胖橙的文章-知乎](https://zhuanlan.zhihu.com/p/1979534602667323915)
 9. [番外二：EM Planner在量产中的核心工程挑战-胖胖橙的文章-知乎](https://zhuanlan.zhihu.com/p/1980411923632763458)
 
-### Dijkstra
+### 全局路径规划
+
+#### 图搜索
+
+##### Dijkstra
 
 1. [本科经典算法Dijkstra，被证明是普遍最优了：最坏情况性能也最优！-量子位的文章-知乎](https://zhuanlan.zhihu.com/p/3475462229)
 2. [本科必学Dijkstra算法被超越！清华段然团队打破图灵奖得主证明的普遍最优性-量子位的文章-知乎](https://zhuanlan.zhihu.com/p/1937528857444979048)
 
-### LKH
+##### A*
+
+TODO
+
+##### Hybrid A*
+
+TODO
+
+#### 采样规划
+
+##### RRT
+
+TODO
+
+##### RRT*
+
+TODO
+
+##### BIT*
+
+TODO
+
+### 局部路径规划
+
+#### TEB
+
+TODO
+
+#### DWA
+
+TODO
+
+### 组合优化算法
+
+#### LKH
+
+```text
+Lin-Kernighan-Helsgaun算法（LKH），用于求解旅行商问题（Traveling Salesman Problem，TSP）
+```
 
 1. [LKH-3](http://webhotel4.ruc.dk/~keld/research/LKH-3/)
 2. [LKH](http://webhotel4.ruc.dk/~keld/research/LKH/)
