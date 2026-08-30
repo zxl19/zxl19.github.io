@@ -72,6 +72,7 @@ sudo apt install peek
 4. [shutter-project/shutter](https://github.com/shutter-project/shutter)
 5. [hzbd/kazam](https://github.com/hzbd/kazam)
 6. [KDE/spectacle](https://github.com/KDE/spectacle)
+7. [BrycensRanch/gpu-screen-recorder-git-copr](https://github.com/BrycensRanch/gpu-screen-recorder-git-copr)
 
 ## 参考
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: rosparam命令行工具学习笔记
-date: 2026-08-16
+date: 2026-08-17
 author: zxl19
 tags: [ROS, Note]
 comments: true

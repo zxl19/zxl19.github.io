@@ -40,8 +40,9 @@ pinned: false
 
 ## 命令行工具箱
 
-1. [x-cmd](https://github.com/x-cmd/x-cmd)
-2. [linutil](https://github.com/ChrisTitusTech/linutil)
+1. [linutil](https://github.com/ChrisTitusTech/linutil)
+2. [x-cmd](https://github.com/x-cmd/x-cmd)
+3. [walker](https://github.com/abenz1267/walker)
 
 ## 电源管理
 
@@ -113,6 +114,11 @@ pinned: false
 2. mkswap
 3. swapon
 
+## 音频管理
+
+1. [wiremix](https://github.com/tsowell/wiremix)
+2. [ncpamixer](https://github.com/fulhax/ncpamixer)
+
 ## 变量和输出
 
 1. set
@@ -139,9 +145,10 @@ pinned: false
 1. nvidia-smi
 2. [nvtop](https://github.com/Syllo/nvtop)
 3. [nvitop](https://github.com/XuehaiPan/nvitop)
-4. [gpustat](https://github.com/wookayin/gpustat)
-5. [jtop](https://github.com/rbonghi/jetson_stats)
-6. [nvidia-htop.py](https://github.com/peci1/nvidia-htop)
+4. [lactd](https://github.com/ilya-zlobintsev/LACT)
+5. [gpustat](https://github.com/wookayin/gpustat)
+6. [jtop](https://github.com/rbonghi/jetson_stats)
+7. [nvidia-htop.py](https://github.com/peci1/nvidia-htop)
 
 ### I/O
 
@@ -268,7 +275,10 @@ pinned: false
 ### 文件删除
 
 1. rm
-2. [trash-cli](https://github.com/andreafrancia/trash-cli)
+2. unlink
+3. [safe-rm](https://github.com/kaelzhang/shell-safe-rm)
+4. [trash-cli](https://github.com/andreafrancia/trash-cli)
+5. [shred](https://github.com/coreutils/coreutils)
 
 ### 格式转换
 
@@ -448,8 +458,8 @@ pinned: false
 2. [yapf](https://github.com/google/yapf)
 3. [pycodestyle](https://github.com/PyCQA/pycodestyle)
 4. [autopep8](https://github.com/hhatto/autopep8)
-5. [coala](https://github.com/coala/coala)
-6. [flake8](https://github.com/PyCQA/flake8)
+5. [flake8](https://github.com/PyCQA/flake8)
+6. [coala](https://github.com/coala/coala)
 
 ### 静态分析工具
 
@@ -534,6 +544,7 @@ pinned: false
 1. ifconfig
 2. [ip](https://github.com/iproute2/iproute2)
 3. [ethtool](https://github.com/Distrotech/ethtool)
+4. [impala](https://github.com/pythops/impala)
 
 ### 代理
 
@@ -575,6 +586,11 @@ pinned: false
 1. [gpg](https://www.gnupg.org)
 2. md5sum
 3. sha512sum
+
+## 音乐播放器
+
+1. [cnmplayer](https://github.com/professor-lee/CNMPlayer)
+2. [tmplayer](https://github.com/professor-lee/TMPlayer)
 
 ## 护眼工具
 
@@ -618,12 +634,13 @@ pinned: false
 
 #### 动画效果
 
-1. [svenstaro/genact](https://github.com/svenstaro/genact)
-2. [dustinkirkland/hollywood](https://github.com/dustinkirkland/hollywood)
-3. [piuccio/cowsay](https://github.com/piuccio/cowsay)
-4. [erkin/ponysay](https://github.com/erkin/ponysay)
-5. [st3w/neo](https://github.com/st3w/neo)
-6. [nickg/xcowsay](https://github.com/nickg/xcowsay)
+1. xeyes
+2. [svenstaro/genact](https://github.com/svenstaro/genact)
+3. [dustinkirkland/hollywood](https://github.com/dustinkirkland/hollywood)
+4. [piuccio/cowsay](https://github.com/piuccio/cowsay)
+5. [erkin/ponysay](https://github.com/erkin/ponysay)
+6. [st3w/neo](https://github.com/st3w/neo)
+7. [nickg/xcowsay](https://github.com/nickg/xcowsay)
 
 ### 游戏
 

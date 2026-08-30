@@ -31,6 +31,7 @@ pinned: false
 10. [zoicware/RemoveWindowsAI](https://github.com/zoicware/RemoveWindowsAI)
 11. [zoicware/RepairBadTweaks](https://github.com/zoicware/RepairBadTweaks)
 12. [zoicware/ZOICWARE](https://github.com/zoicware/ZOICWARE)
+13. [Greedeks/GTweak](https://github.com/Greedeks/GTweak)
 
 #### 硬盘管理
 
@@ -107,8 +108,9 @@ pinned: false
 
 1. [Rufus](https://rufus.ie/en/)
 2. [Ventoy](https://www.ventoy.net/en/index.html)
-3. [微PE](https://www.wepe.com.cn)
-4. [LetRecovery](https://letrecovery.net)
+3. [微PE工具箱](https://www.wepe.com.cn)
+4. [CmzPrep](https://cmzprep.com)
+5. [LetRecovery](https://letrecovery.net)
 
 #### 光盘映像文件处理
 
@@ -210,6 +212,12 @@ pinned: false
 1. [iSlide](https://www.islide.cc)
 2. [LKY Office Tools](https://github.com/OdysseusYuan/LKY_OfficeTools)
 3. [Mocreak](https://www.mocreak.com)
+4. [nissl-lab/npoi](https://github.com/nissl-lab/npoi)
+
+#### 写作工具
+
+1. [Grammarly](https://www.grammarly.com)
+2. [Espanso](https://github.com/espanso/espanso)
 
 #### 微信
 
@@ -387,17 +395,23 @@ pinned: false
 
 1. [Jellyfin](https://jellyfin.org)
 
+#### 魔方
+
+1. [Cube Explorer](https://kociemba.org/cube.htm)
+
 #### 下载
 
 1. [yt-dlp](https://github.com/yt-dlp/yt-dlp)
 2. [Motrix](https://motrix.app)
-3. [Gopeed](https://gopeed.com)
-4. [Ghost Downloader](https://gd.xychr.com)
-5. [Fluent M3U8](https://fluent-m3u8.org)
-6. [Internet Download Manager](https://www.internetdownloadmanager.com)
-7. [Neat Download Manager](https://www.neatdownloadmanager.com/index.php/en/)
-8. [res-downloader](https://github.com/putyy/res-downloader)
-9. [Hitomi Downloader](https://github.com/KurtBestor/Hitomi-Downloader)
+3. [Motrix Next](https://motrix-next.pages.dev/)
+4. [Gopeed](https://gopeed.com)
+5. [Ghost Downloader](https://gd.xychr.com)
+6. [Fluent M3U8](https://fluent-m3u8.org)
+7. [下蛋](https://xiadown.app)
+8. [Internet Download Manager](https://www.internetdownloadmanager.com)
+9. [Neat Download Manager](https://www.neatdownloadmanager.com/index.php/en/)
+10. [res-downloader](https://github.com/putyy/res-downloader)
+11. [Hitomi Downloader](https://github.com/KurtBestor/Hitomi-Downloader)
 
 #### bilibili
 

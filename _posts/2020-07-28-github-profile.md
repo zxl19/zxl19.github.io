@@ -88,7 +88,8 @@ pinned: false
 4. [git-goods/gitanimals](https://github.com/git-goods/gitanimals)
 5. [jasineri/gitartwork](https://github.com/jasineri/gitartwork)
 6. [BEPb/github-contributions](https://github.com/BEPb/github-contributions)
-7. [abozanona/pacman-contribution-graph](https://github.com/abozanona/pacman-contribution-graph)
+7. [professor-lee/StoneBadge](https://github.com/professor-lee/StoneBadge)
+8. [abozanona/pacman-contribution-graph](https://github.com/abozanona/pacman-contribution-graph)
 
 ## 参考
 

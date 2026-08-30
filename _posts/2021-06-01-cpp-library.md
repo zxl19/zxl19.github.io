@@ -25,9 +25,10 @@ pinned: false
 
 1. [Kitware/CMake](https://github.com/Kitware/CMake)
 2. [xmake-io/xmake](https://github.com/xmake-io/xmake)
-3. [zdzhaoyong/PICMake](https://github.com/zdzhaoyong/PICMake)
-4. [tsoding/nob.h](https://github.com/tsoding/nob.h)
-5. [zhiayang/nabs](https://github.com/zhiayang/nabs)
+3. [mesonbuild/meson](https://github.com/mesonbuild/meson)
+4. [zdzhaoyong/PICMake](https://github.com/zdzhaoyong/PICMake)
+5. [tsoding/nob.h](https://github.com/tsoding/nob.h)
+6. [zhiayang/nabs](https://github.com/zhiayang/nabs)
 
 ## 链接工具
 
@@ -248,24 +249,56 @@ pinned: false
 
 ## 机器学习&深度学习
 
+### 框架
+
+1. [BVLC/caffe](https://github.com/BVLC/caffe)
+2. [pjreddie/darknet](https://github.com/pjreddie/darknet)
+3. [AlexeyAB/darknet](https://github.com/AlexeyAB/darknet)
+4. [davisking/dlib](https://github.com/davisking/dlib)
+5. [tiny-dnn/tiny-dnn](https://github.com/tiny-dnn/tiny-dnn)
+6. [mlpack/mlpack](https://github.com/mlpack/mlpack)
+7. [flashlight/flashlight](https://github.com/flashlight/flashlight)
+8. [plaidml/plaidml](https://github.com/plaidml/plaidml)
+9. [NVlabs/tiny-cuda-nn](https://github.com/NVlabs/tiny-cuda-nn)
+10. [shogun-toolbox/shogun](https://github.com/shogun-toolbox/shogun)
+11. [yixuan/MiniDNN](https://github.com/yixuan/MiniDNN)
+12. [Tencent/deepx_core](https://github.com/Tencent/deepx_core)
+13. [OpenANN/OpenANN](https://github.com/OpenANN/OpenANN)
+14. [arrayfire/arrayfire-ml](https://github.com/arrayfire/arrayfire-ml)
+15. [rockcarry/ffcnn](https://github.com/rockcarry/ffcnn)
+16. [10-zin/cpp-micrograd](https://github.com/10-zin/cpp-micrograd)
+
+### 基础任务
+
+#### 分类
+
+1. [cjlin1/libsvm](https://github.com/cjlin1/libsvm)
+
+#### 聚类
+
+##### K-Means
+
+1. [genbattle/dkm](https://github.com/genbattle/dkm)
+2. [Khanattila/KNLMeansCL](https://github.com/Khanattila/KNLMeansCL)
+3. [marcoscastro/kmeans](https://github.com/marcoscastro/kmeans)
+
+##### DBSCAN
+
+```text
+基于密度的空间聚类算法（Density-Based Spatial Clustering of Applications with Noise，DBSCAN）
+```
+
+1. [mhahsler/dbscan](https://github.com/mhahsler/dbscan)
+2. [james-yoo/DBSCAN](https://github.com/james-yoo/DBSCAN)
+3. [codebydant/DBScan-PCL-Optimized](https://github.com/codebydant/DBScan-PCL-Optimized)
+4. [JaminJiang/dbscan_kdtree](https://github.com/JaminJiang/dbscan_kdtree)
+5. [CallmeNezha/SimpleDBSCAN](https://github.com/CallmeNezha/SimpleDBSCAN)
+6. [Eleobert/dbscan](https://github.com/Eleobert/dbscan)
+7. [bowbowbow/DBSCAN](https://github.com/bowbowbow/DBSCAN)
+
+### 自然语言处理
+
 1. [tesseract-ocr/tesseract](https://github.com/tesseract-ocr/tesseract)
-2. [BVLC/caffe](https://github.com/BVLC/caffe)
-3. [pjreddie/darknet](https://github.com/pjreddie/darknet)
-4. [AlexeyAB/darknet](https://github.com/AlexeyAB/darknet)
-5. [davisking/dlib](https://github.com/davisking/dlib)
-6. [ggerganov/ggml](https://github.com/ggerganov/ggml)
-7. [tiny-dnn/tiny-dnn](https://github.com/tiny-dnn/tiny-dnn)
-8. [mlpack/mlpack](https://github.com/mlpack/mlpack)
-9. [flashlight/flashlight](https://github.com/flashlight/flashlight)
-10. [cjlin1/libsvm](https://github.com/cjlin1/libsvm)
-11. [plaidml/plaidml](https://github.com/plaidml/plaidml)
-12. [NVlabs/tiny-cuda-nn](https://github.com/NVlabs/tiny-cuda-nn)
-13. [shogun-toolbox/shogun](https://github.com/shogun-toolbox/shogun)
-14. [yixuan/MiniDNN](https://github.com/yixuan/MiniDNN)
-15. [OpenANN/OpenANN](https://github.com/OpenANN/OpenANN)
-16. [arrayfire/arrayfire-ml](https://github.com/arrayfire/arrayfire-ml)
-17. [rockcarry/ffcnn](https://github.com/rockcarry/ffcnn)
-18. [10-zin/cpp-micrograd](https://github.com/10-zin/cpp-micrograd)
 
 ## 数学计算
 
@@ -327,6 +360,7 @@ pinned: false
 2. [davideberly/GeometricTools](https://github.com/davideberly/GeometricTools)
 3. [boostorg/geometry](https://github.com/boostorg/geometry)
 4. [sikang/DecompUtil](https://github.com/sikang/DecompUtil)
+5. [arborx/ArborX](https://github.com/arborx/ArborX)
 
 #### 三角剖分
 
@@ -347,11 +381,12 @@ pinned: false
 
 ### 张量运算
 
-1. [romeric/Fastor](https://github.com/romeric/Fastor)
-2. [zdevito/ATen](https://github.com/zdevito/ATen)
-3. [blitzpp/blitz](https://github.com/blitzpp/blitz)
-4. [Tencent/deepx_core](https://github.com/Tencent/deepx_core)
-5. [STEllAR-GROUP/blaze_tensor](https://github.com/STEllAR-GROUP/blaze_tensor)
+1. [ggml-org/ggml](https://github.com/ggml-org/ggml)
+2. [arrayfire/arrayfire](https://github.com/arrayfire/arrayfire)
+3. [romeric/Fastor](https://github.com/romeric/Fastor)
+4. [zdevito/ATen](https://github.com/zdevito/ATen)
+5. [blitzpp/blitz](https://github.com/blitzpp/blitz)
+6. [STEllAR-GROUP/blaze_tensor](https://github.com/STEllAR-GROUP/blaze_tensor)
 
 ### 图论
 
@@ -603,6 +638,7 @@ pinned: false
 1. [jrouwe/JoltPhysics](https://github.com/jrouwe/JoltPhysics)
 2. [projectchrono/chrono](https://github.com/projectchrono/chrono)
 3. [simbody/simbody](https://github.com/simbody/simbody)
+4. [omnetpp/omnetpp](https://github.com/omnetpp/omnetpp)
 
 ## Git（包括GitHub）
 

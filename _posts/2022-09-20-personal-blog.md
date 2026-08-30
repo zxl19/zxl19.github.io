@@ -190,19 +190,20 @@ pinned: false
 
 ### 数学相关
 
-1. [Gilles Castel](https://castel.dev)
-2. [Jean Gallier](https://www.cis.upenn.edu/~jean/home.html)
-3. [Gabriel Peyré](http://www.gpeyre.com)
-4. [Jonathan Le Roux](https://www.jonathanleroux.org)
-5. [Jieke Wang](https://jackywang2001.github.io)
-6. [Dexter Chua](https://dec41.user.srcf.net)
-7. [Long Luo's Life Notes](http://www.longluo.me)
-8. [wklchris' Website](https://wklchris.github.io)
-9. [wklchris的博客主页](https://wklchris.github.io/blog/)
-10. [Luckyfuy](https://luckyfuy.top)
-11. [柳上川](https://kawayww.com)
-12. [Chengxin Gong](https://wqgcx.github.io)
-13. [Pingbang Hu](https://pbb.wtf)
+1. [Gilbert Strang's Homepage](https://math.mit.edu/~gs/)
+2. [Gilles Castel](https://castel.dev)
+3. [Jean Gallier](https://www.cis.upenn.edu/~jean/home.html)
+4. [Gabriel Peyré](http://www.gpeyre.com)
+5. [Jonathan Le Roux](https://www.jonathanleroux.org)
+6. [Jieke Wang](https://jackywang2001.github.io)
+7. [Dexter Chua](https://dec41.user.srcf.net)
+8. [Long Luo's Life Notes](http://www.longluo.me)
+9. [wklchris' Website](https://wklchris.github.io)
+10. [wklchris的博客主页](https://wklchris.github.io/blog/)
+11. [Luckyfuy](https://luckyfuy.top)
+12. [柳上川](https://kawayww.com)
+13. [Chengxin Gong](https://wqgcx.github.io)
+14. [Pingbang Hu](https://pbb.wtf)
 
 ### 科研相关
 

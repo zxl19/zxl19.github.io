@@ -160,6 +160,10 @@ pinned: false
     - [korbinzhao/excalidraw-cn](https://github.com/korbinzhao/excalidraw-cn)
     - [korbinzhao/obsidian-excalidraw-cn-plugin](https://github.com/korbinzhao/obsidian-excalidraw-cn-plugin)
 
+5. [Drawy](https://apps.kde.org/drawy/)
+
+    - [KDE/drawy](https://github.com/KDE/drawy)
+
 ## 参考
 
 1. [科研绘图丨如何利用Python&Matlab绘制高品质SCI论文插图？-交通攻城狮的文章-知乎](https://zhuanlan.zhihu.com/p/354248292)

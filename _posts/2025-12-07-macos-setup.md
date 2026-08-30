@@ -48,6 +48,10 @@ pinned: false
 3. Amphetamine
 4. [x74353/Amphetamine-Enhancer](https://github.com/x74353/Amphetamine-Enhancer)
 
+### 线材管理
+
+1. [WhatCable](https://www.whatcable.uk)
+
 ### 风扇管理
 
 1. [iFan](https://www.better365.com/h-col-195.html)
@@ -169,7 +173,8 @@ pinned: false
 ### 日历
 
 1. [Itsycal](https://www.mowglii.com/itsycal/)
-2. 小历
+2. [LunarBar](https://github.com/LunarBar-app/LunarBar)
+3. [TinyCal](https://github.com/daodao97/TinyCal)
 
 ### 笔记
 

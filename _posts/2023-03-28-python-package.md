@@ -402,10 +402,6 @@ pip install，pip uninstall，拿起pip就是干！
 3. [stanfordnlp/stanza](https://github.com/stanfordnlp/stanza)
 4. [life4/textdistance](https://github.com/life4/textdistance)
 
-### 大语言模型
-
-1. [nebuly-ai/nebuly](https://github.com/nebuly-ai/nebuly)
-
 ### 数据增强
 
 #### 多模态数据

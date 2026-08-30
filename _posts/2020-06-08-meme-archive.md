@@ -210,10 +210,11 @@ Meme这个词最初源自英国著名科学家理查德·道金斯所著的《�
 19. [996忍者](https://996.ninja)
 20. [Graphwar II](https://graphwar.com)
 21. [Graphwar杀手](https://howiehz.top/misc/tools/graphwar-killer/)
-22. [Wplace](https://wplace.live)
-23. [Wplace.live Guide](https://wplace.life)
-24. [Wplace Tools](https://wplace.info)
-25. [Wigglypaint](https://www.wigglypaint.art)
+22. [Cmd-GZ/graphwar-guide](https://github.com/Cmd-GZ/graphwar-guide)
+23. [Wplace](https://wplace.live)
+24. [Wplace.live Guide](https://wplace.life)
+25. [Wplace Tools](https://wplace.info)
+26. [Wigglypaint](https://www.wigglypaint.art)
 
 ### 兼容层
 
@@ -238,7 +239,8 @@ Meme这个词最初源自英国著名科学家理查德·道金斯所著的《�
 3. [CleverRaven/Cataclysm-DDA](https://github.com/CleverRaven/Cataclysm-DDA)
 4. [SuperTux/supertux](https://github.com/SuperTux/supertux)
 5. [masonicGIT/pacman](https://github.com/masonicGIT/pacman)
-6. [MorvanZhou/sudoku](https://github.com/MorvanZhou/sudoku)
+6. [raceintospace/raceintospace](https://github.com/raceintospace/raceintospace)
+7. [MorvanZhou/sudoku](https://github.com/MorvanZhou/sudoku)
 
 #### 游戏引擎
 

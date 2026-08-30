@@ -75,4 +75,3 @@ pinned: false
 5. [MBR与GPT：你的新硬盘应该选择哪一个？-红头发蓝胖子的文章-知乎](https://zhuanlan.zhihu.com/p/559229466)
 6. [分区表GPT和MBR有什么区别-迷你兔数据恢复的文章-知乎](https://zhuanlan.zhihu.com/p/114350934)
 7. [Win10/11分区和恢复分区教程-流年忘丶的文章-知乎](https://zhuanlan.zhihu.com/p/448222149)
-8. [微PE工具箱](https://www.wepe.com.cn)
