@@ -60,6 +60,16 @@ pinned: false
 
 4. 插件存档：
 
+    - [windingwind/zotero-pdf-translate](https://github.com/windingwind/zotero-pdf-translate)
+    - [windingwind/zotero-better-notes](https://github.com/windingwind/zotero-better-notes)
+    - [MuiseDestiny/zotero-gpt](https://github.com/MuiseDestiny/zotero-gpt)
+    - [l0o0/jasminum](https://github.com/l0o0/jasminum)
+    - [guaguastandup/zotero-pdf2zh](https://github.com/guaguastandup/zotero-pdf2zh)
+    - [MuiseDestiny/zotero-style](https://github.com/MuiseDestiny/zotero-style)
+    - [jlegewie/zotfile](https://github.com/jlegewie/zotfile)
+    - [argenos/zotero-mdnotes](https://github.com/argenos/zotero-mdnotes)
+    - [redleafnew/zotero-updateifsE](https://github.com/redleafnew/zotero-updateifsE)
+    - [mronkko/ZoteroQuickLook](https://github.com/mronkko/ZoteroQuickLook)
     - [20个实用Zotero插件推荐！高效管理论文！-小新学姐的文章-知乎](https://zhuanlan.zhihu.com/p/689468632)
     - [有哪些好用的zotero插件?-科研根号三的回答-知乎](https://www.zhihu.com/question/402589277/answer/3196530555)
     - [适配Zotero 7，最新40个兼容插件合集（2024年7月8日更新）-赛尔普生物的文章-知乎](https://zhuanlan.zhihu.com/p/707668416)

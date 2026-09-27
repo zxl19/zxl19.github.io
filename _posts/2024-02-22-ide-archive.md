@@ -36,6 +36,7 @@ pinned: false
 2. [UltraEdit](https://www.ultraedit.com)
 3. [glogg](https://glogg.bonnefon.org)
 4. [klogg](https://klogg.filimonov.dev)
+5. [WindEdit](https://github.com/kingToolbox/WindEdit)
 
 ### 十六进制
 

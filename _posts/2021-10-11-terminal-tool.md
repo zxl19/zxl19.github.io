@@ -225,20 +225,24 @@ pinned: false
 #### 文本
 
 1. cat
-2. head
-3. tail
-4. less
-5. more
-6. strings
-7. [bat](https://github.com/sharkdp/bat)
-8. [lnav](https://github.com/tstack/lnav)
-9. [tailspin](https://github.com/bensadeh/tailspin)
-10. [rich](https://github.com/Textualize/rich-cli)
-11. [fltrdr](https://github.com/octobanana/fltrdr)
+2. tac
+3. head
+4. tail
+5. less
+6. more
+7. strings
+8. [bat](https://github.com/sharkdp/bat)
+9. [lnav](https://github.com/tstack/lnav)
+10. [tailspin](https://github.com/bensadeh/tailspin)
+11. [rich](https://github.com/Textualize/rich-cli)
+12. [fltrdr](https://github.com/octobanana/fltrdr)
 
 #### `.md`文件
 
-1. [frogmouth](https://github.com/Textualize/frogmouth)
+1. [glow](https://github.com/charmbracelet/glow)
+2. [slides](https://github.com/maaslalani/slides)
+3. [presenterm](https://github.com/mfontanini/presenterm)
+4. [frogmouth](https://github.com/Textualize/frogmouth)
 
 #### `.json`文件
 
@@ -275,10 +279,11 @@ pinned: false
 ### 文件删除
 
 1. rm
-2. unlink
-3. [safe-rm](https://github.com/kaelzhang/shell-safe-rm)
-4. [trash-cli](https://github.com/andreafrancia/trash-cli)
-5. [shred](https://github.com/coreutils/coreutils)
+2. rmdir
+3. unlink
+4. [safe-rm](https://github.com/kaelzhang/shell-safe-rm)
+5. [trash-cli](https://github.com/andreafrancia/trash-cli)
+6. [shred](https://github.com/coreutils/coreutils)
 
 ### 格式转换
 
@@ -545,6 +550,11 @@ pinned: false
 2. [ip](https://github.com/iproute2/iproute2)
 3. [ethtool](https://github.com/Distrotech/ethtool)
 4. [impala](https://github.com/pythops/impala)
+
+## 远程连接
+
+1. [adembc/lazyssh](https://github.com/adembc/lazyssh)
+2. [quantumsheep/sshs](https://github.com/quantumsheep/sshs)
 
 ### 代理
 

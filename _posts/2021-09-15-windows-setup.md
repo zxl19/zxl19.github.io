@@ -147,7 +147,9 @@ pinned: false
 1. [Chrome](https://www.google.com/chrome/)
 2. [Edge](https://www.microsoft.com/en-us/edge/)
 3. [Firefox](https://www.firefox.com)
-4. Clash
+4. [Tor](https://www.torproject.org)
+5. [Whonix](https://www.whonix.org)
+6. Clash
 
 #### 广告拦截
 
@@ -320,12 +322,17 @@ pinned: false
 2. [X-CMD](https://www.x-cmd.com)
 3. [ConEmu](https://conemu.github.io)
 
-#### 远程登录工具
+#### 远程连接
+
+1. [MobaXterm](https://mobaxterm.mobatek.net)
+2. [PuTTY](https://www.chiark.greenend.org.uk/~sgtatham/putty/)
+3. [WindTerm](https://github.com/kingToolbox/WindTerm)
+4. [Termius](https://termius.com)
+
+#### 文件传输
 
 1. [FileZilla](https://filezilla-project.org)
-2. [MobaXterm](https://mobaxterm.mobatek.net)
-3. [PuTTY](https://www.chiark.greenend.org.uk/~sgtatham/putty/)
-4. [Termius](https://termius.com)
+2. [WinSCP](https://winscp.net/eng/index.php)
 
 #### 代码分析
 

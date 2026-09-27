@@ -179,6 +179,10 @@ Search and analyze your unlimited history. 提供高级搜索选项，可按照�
 
 One for all free music in China.
 
+## Markdown Here
+
+Write your email in Markdown, then make it pretty.
+
 ## Overleaf textarea
 
 This plugin displays your text in a textarea so you can use spellcheck plugins like Grammarly.
@@ -197,9 +201,11 @@ Sci-Hub extension for Chromium browsers
 
 一站式AI助手。
 
-## SwitchyOmega
+## ZeroOmega
 
-代理设置工具，用于便捷地管理多个代理以及在代理之间切换，由于不支持Manifest V3已被Chrome禁用，可以使用ZeroOmega作为代替。
+代理设置工具，用于便捷地管理多个代理以及在代理之间切换，类似的扩展还有SwitchyOmega。
+
+**2026年9月：SwitchyOmega已于2025年1月停止维护。**
 
 ## 参考
 
@@ -210,6 +216,8 @@ Sci-Hub extension for Chromium browsers
 5. [可能是史上最有逼格最实用的chrome扩展程序推荐-黄海的文章-知乎](https://zhuanlan.zhihu.com/p/22196508)
 6. [Chrome插件英雄榜](https://zhaoolee.com/ChromeAppHeroes/#/)
 7. [zhaoolee/ChromeAppHeroes](https://github.com/zhaoolee/ChromeAppHeroes)
-8. [pt-plugins/PT-Plugin-Plus](https://github.com/pt-plugins/PT-Plugin-Plus)
-9. [FelisCatus/SwitchyOmega](https://github.com/FelisCatus/SwitchyOmega)
-10. [zero-peak/ZeroOmega](https://github.com/zero-peak/ZeroOmega)
+8. [adam-p/markdown-here](https://github.com/adam-p/markdown-here)
+9. [pt-plugins/PT-depiler](https://github.com/pt-plugins/PT-depiler)
+10. [pt-plugins/PT-Plugin-Plus](https://github.com/pt-plugins/PT-Plugin-Plus)
+11. [zero-peak/ZeroOmega](https://github.com/zero-peak/ZeroOmega)
+12. [FelisCatus/SwitchyOmega](https://github.com/FelisCatus/SwitchyOmega)

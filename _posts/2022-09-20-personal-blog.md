@@ -220,6 +220,10 @@ pinned: false
 
 1. [Thomas Baart](https://thomasbaart.nl)
 
+### 魔方
+
+1. [Kociemba's Homepage](https://kociemba.org)
+
 ### 字体&图标设计
 
 1. [LXGW](https://lxgw.github.io)

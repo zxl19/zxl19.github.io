@@ -157,8 +157,7 @@ pinned: false
 
 4. [Revezone](https://revezone.com/index.html)
 
-    - [korbinzhao/excalidraw-cn](https://github.com/korbinzhao/excalidraw-cn)
-    - [korbinzhao/obsidian-excalidraw-cn-plugin](https://github.com/korbinzhao/obsidian-excalidraw-cn-plugin)
+    - [korbinjoe/excalidraw-cn](https://github.com/korbinjoe/excalidraw-cn)
 
 5. [Drawy](https://apps.kde.org/drawy/)
 

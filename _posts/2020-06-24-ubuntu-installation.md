@@ -33,6 +33,7 @@ To understand the concept, you should think of “free” as in “free speech,�
 3. [FabioLolix/LinuxTimeline](https://github.com/FabioLolix/LinuxTimeline)仓库中记录了各个Linux发行版的时间线：
 
     - [Ubuntu](https://ubuntu.com)是基于Debian的Linux发行版；
+    - [Kicksecure](https://www.kicksecure.com)是基于Debian的Linux发行版；
     - [Pop!_OS](https://system76.com/pop/)是基于Ubuntu的Linux发行版；
     - [Winux](https://www.winux.is)是基于Ubuntu的Linux发行版；
     - [Omarchy](https://omarchy.org)是基于Arch Linux的Linux发行版；

@@ -208,13 +208,14 @@ Meme这个词最初源自英国著名科学家理查德·道金斯所著的《�
 17. [Geometry Wars](https://skywind3000.github.io/games/geometry/)
 18. [网络精灵](https://cn.akinator.com)
 19. [996忍者](https://996.ninja)
-20. [Graphwar II](https://graphwar.com)
-21. [Graphwar杀手](https://howiehz.top/misc/tools/graphwar-killer/)
-22. [Cmd-GZ/graphwar-guide](https://github.com/Cmd-GZ/graphwar-guide)
-23. [Wplace](https://wplace.live)
-24. [Wplace.live Guide](https://wplace.life)
-25. [Wplace Tools](https://wplace.info)
-26. [Wigglypaint](https://www.wigglypaint.art)
+20. [Shell Shock Live](https://www.shellshocklive.com)
+21. [Graphwar II](https://graphwar.com)
+22. [Graphwar杀手](https://howiehz.top/misc/tools/graphwar-killer/)
+23. [Cmd-GZ/graphwar-guide](https://github.com/Cmd-GZ/graphwar-guide)
+24. [Wplace](https://wplace.live)
+25. [Wplace.live Guide](https://wplace.life)
+26. [Wplace Tools](https://wplace.info)
+27. [Wigglypaint](https://www.wigglypaint.art)
 
 ### 兼容层
 
@@ -359,12 +360,13 @@ Meme这个词最初源自英国著名科学家理查德·道金斯所著的《�
 6. [识典古籍](https://www.shidianguji.com)
 7. [光明之门](http://www.gmzm.org)
 8. [国学大师](https://www.guoxuedashi.net)
-9. [shanleiguang/vRain](https://github.com/shanleiguang/vRain)
-10. [shanleiguang/vYinn](https://github.com/shanleiguang/vYinn)
-11. [shanleiguang/vBooks](https://github.com/shanleiguang/vBooks)
-12. [shanleiguang/vQi](https://github.com/shanleiguang/vQi)
-13. [shanleiguang/vModou](https://github.com/shanleiguang/vModou)
-14. [Steve-Cheung-emct/old-written-kanji](https://github.com/Steve-Cheung-emct/old-written-kanji)
+9. [garychowcmu/daizhigev20](https://github.com/garychowcmu/daizhigev20)
+10. [shanleiguang/vRain](https://github.com/shanleiguang/vRain)
+11. [shanleiguang/vYinn](https://github.com/shanleiguang/vYinn)
+12. [shanleiguang/vBooks](https://github.com/shanleiguang/vBooks)
+13. [shanleiguang/vQi](https://github.com/shanleiguang/vQi)
+14. [shanleiguang/vModou](https://github.com/shanleiguang/vModou)
+15. [Steve-Cheung-emct/old-written-kanji](https://github.com/Steve-Cheung-emct/old-written-kanji)
 
 ### 古诗词
 

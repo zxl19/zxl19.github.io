@@ -57,6 +57,17 @@ pinned: false
 4. [你是怎样使用obsidian做笔记的？-Wyatt的回答-知乎](https://www.zhihu.com/question/412868038/answer/2447812348)
 5. [没有花里胡哨，我最爱用的Obsidian实用插件推荐。-唐夕洲的文章-知乎](https://zhuanlan.zhihu.com/p/491766682)
 
+插件：
+
+1. [Vinzent03/obsidian-git](https://github.com/Vinzent03/obsidian-git)
+2. [zsviczian/obsidian-excalidraw-plugin](https://github.com/zsviczian/obsidian-excalidraw-plugin)
+3. [korbinjoe/obsidian-excalidraw-cn-plugin](https://github.com/korbinjoe/obsidian-excalidraw-cn-plugin)
+
+第三方工具：
+
+1. [Nystik-gh/ignis](https://github.com/Nystik-gh/ignis)
+2. [erikjuhani/basalt](https://github.com/erikjuhani/basalt)
+
 可以在VS Code中安装Foam扩展实现类似的功能。以下是一些开源的免费知识库管理软件，可以作为Obsidian的替代方案：
 
 1. [Joplin](https://joplinapp.org)
